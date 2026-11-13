@@ -1,0 +1,51 @@
+{
+  "news_cards": 30,
+  "questions": 122,
+  "question_types": {
+    "开放": 55,
+    "事实": 67
+  },
+  "count_distribution": {
+    "4": 18,
+    "3": 5,
+    "5": 7
+  },
+  "per_news": {
+    "E001": 4,
+    "E002": 3,
+    "E003": 5,
+    "E004": 5,
+    "E005": 5,
+    "E006": 4,
+    "E007": 4,
+    "E008": 4,
+    "E009": 4,
+    "E010": 3,
+    "E011": 4,
+    "E012": 4,
+    "E013": 5,
+    "E014": 5,
+    "E015": 4,
+    "E016": 4,
+    "E017": 4,
+    "E018": 4,
+    "E019": 4,
+    "E020": 3,
+    "E021": 4,
+    "E022": 3,
+    "E023": 4,
+    "E024": 4,
+    "E025": 3,
+    "E026": 4,
+    "E027": 5,
+    "E028": 4,
+    "E029": 4,
+    "E030": 5
+  },
+  "review_text_sha256": "45fdd180b4e8d445eca1e00dfa4cd711d7a34735fc12652a1c4347296fd1d755",
+  "review_text_unchanged": true,
+  "non_question_fields_unchanged": true,
+  "question_text_preserved": true,
+  "format": "字符串数组；保留题型标签，移除行号",
+  "backup": "C:\\Users\\11273\\Desktop\\Curriculum\\大三\\新闻安全分析\\新闻来源整理_2026-11-13\\.history\\2026-11-14_整合审核问题前\\新闻卡片.json"
+}

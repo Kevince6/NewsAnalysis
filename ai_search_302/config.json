@@ -1,0 +1,14 @@
+{
+  "base_url": "https://api.302.ai/v1",
+  "search_service": "metaso",
+  "search_results": 5,
+  "timeout_seconds": 300,
+  "system_prompt_file": "prompt.txt",
+  "prompt_version": "news-search-v1",
+  "query_date": "run_date",
+  "models": {
+    "doubao": "doubao-seed-2-1-pro-260628",
+    "deepseek": "deepseek-flash",
+    "qwen": "qwen3.8-max"
+  }
+}

@@ -1,0 +1,892 @@
+[
+  {
+    "id": "E001",
+    "summary": "英伟达就黄仁勋可能成为外国情报活动目标的报道启动独立调查；黄仁勋另在员工信中承认婚外情，董事会随后公布独立律师安排。",
+    "note": "婚外情承认、情报指控及调查结论分开；董事会当时的初步表态不等于调查已经完成。",
+    "facts": [
+      {
+        "text": "CNN于2026年11月8日报道，黄仁勋在致员工信中承认对妻子不忠。",
+        "evidence": [
+          {
+            "source_id": "E001-S3",
+            "quote": "In a note to Nvidia staff, Huang said that he was “unfaithful” and hurt his wife and children."
+          }
+        ],
+        "attrs": {
+          "time": [
+            "2026-11-08（报道日期）"
+          ],
+          "actors": [
+            "黄仁勋"
+          ]
+        }
+      },
+      {
+        "text": "英伟达董事会2026年11月8日宣布，就黄仁勋被指成为外国情报活动目标的报道启动独立调查。",
+        "evidence": [
+          {
+            "source_id": "E001-S1",
+            "quote": "The NVIDIA Board is initiating an independent investigation in light of recent reporting that founder and CEO Jensen Huang has been the target of a foreign intelligence effort."
+          }
+        ],
+        "attrs": {
+          "time": [
+            "2026-11-08"
+          ],
+          "actors": [
+            "英伟达董事会"
+          ],
+          "scope": [
+            "调查启动，未形成最终结论"
+          ]
+        }
+      },
+      {
+        "text": "英伟达董事会独立成员2026年11月10日公布，聘请Joon H. Kim及Wachtell, Lipton, Rosen & Katz律师事务所开展调查。",
+        "evidence": [
+          {
+            "source_id": "E001-S2",
+            "quote": "retained former acting U.S. Attorney of the Southern District of New York Joon H. Kim and his firm Wachtell, Lipton, Rosen & Katz"
+          }
+        ],
+        "attrs": {
+          "time": [
+            "2026-11-10"
+          ],
+          "actors": [
+            "Joon H. Kim",
+            "Wachtell, Lipton, Rosen & Katz"
+          ]
+        }
+      },
+      {
+        "text": "董事会在启动调查时称，当时没有理由相信国家安全或英伟达秘密已遭泄露，但将检查所有可得信息。",
+        "evidence": [
+          {
+            "source_id": "E001-S1",
+            "quote": "While the Board has no reason to believe that either national security or NVIDIA secrets were compromised, the Board's inquiry will examine all available information."
+          }
+        ],
+        "attrs": {
+          "scope": [
+            "董事会当时的表态，不是调查最终结论"
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "id": "E002",
+    "summary": "刘欢于2026年9月25日在上海病逝。家属11月12日公开信披露死亡医学证明书所列主要死因为感染性休克，并回顾癌症病史及早年骨科手术。",
+    "note": "主要死因按家属转述的死亡证明字段表述；癌症病史与主要死因有区别，但不能据此推断癌症与临终感染完全无关。",
+    "facts": [
+      {
+        "text": "对外经济贸易大学讣告确认，刘欢于2026年9月25日9时52分在上海病逝，享年63岁。",
+        "evidence": [
+          {
+            "source_id": "E002-S1",
+            "quote": "于2026年9月25日上午9时52分在上海不幸病逝，享年63岁。"
+          }
+        ],
+        "attrs": {
+          "time": [
+            "2026-09-25 09:52"
+          ],
+          "place": [
+            "上海"
+          ],
+          "actors": [
+            "刘欢"
+          ]
+        }
+      },
+      {
+        "text": "2026年11月12日，水均益受卢璐委托发布公开信，说明刘欢当日在北京安葬。",
+        "evidence": [
+          {
+            "source_id": "E002-S2",
+            "quote": "受刘欢夫人卢璐女士的委托与授权，特转发卢璐女士致刘欢的师长、朋友和歌迷的一封公开信"
+          }
+        ],
+        "attrs": {
+          "time": [
+            "2026-11-12"
+          ],
+          "place": [
+            "北京"
+          ],
+          "actors": [
+            "卢璐",
+            "水均益"
+          ]
+        }
+      },
+      {
+        "text": "卢璐公开信称，刘欢死亡医学证明书所列主要死因为感染性休克。",
+        "evidence": [
+          {
+            "source_id": "E002-S2",
+            "quote": "死亡医学证明书上的主要死因一栏写着：感染性休克。"
+          }
+        ],
+        "attrs": {
+          "scope": [
+            "家属公开信转述死亡医学证明书"
+          ]
+        }
+      },
+      {
+        "text": "据卢璐公开信，刘欢于2012年接受检查，活检病理确诊为早期膀胱原位癌。",
+        "evidence": [
+          {
+            "source_id": "E002-S2",
+            "quote": "刘欢的活检病理确诊为膀胱原位癌早期。"
+          }
+        ],
+        "attrs": {
+          "time": [
+            "2012年"
+          ],
+          "scope": [
+            "既往癌症病史"
+          ]
+        }
+      },
+      {
+        "text": "卢璐澄清，刘欢2009年因股骨头缺血性坏死在北医三院接受人工髋关节置换，术后康复、基本未再出问题。",
+        "evidence": [
+          {
+            "source_id": "E002-S2",
+            "quote": "当年回国在北医三院接受了人工髋关节置换手术。时任骨科主任张克亲自掌刀，手术非常成功，从此康复，基本没再出过问题。"
+          }
+        ],
+        "attrs": {
+          "time": [
+            "2009年"
+          ],
+          "place": [
+            "北医三院"
+          ],
+          "scope": [
+            "家属澄清早年骨科病史"
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "id": "E003",
+    "summary": "俄乌跨境袭击持续。联合国公布乌克兰平民月度伤亡数据，11月局部袭击又造成伤亡；俄美乌在阿布扎比达成换俘安排，后续外交涉及欧洲参与。",
+    "note": "月度核实数据、局部袭击通报与军人总伤亡不可混用；换俘计划及会晤不等于交换完成或全面停火。",
+    "facts": [
+      {
+        "text": "联合国人权监测团核实，2026年9月乌克兰至少328名平民死亡、2105人受伤。",
+        "evidence": [
+          {
+            "source_id": "E003-S1",
+            "quote": "At least 328 civilians were killed and 2,105 injured in September 2026"
+          }
+        ],
+        "attrs": {
+          "time": [
+            "2026-09"
+          ],
+          "place": [
+            "乌克兰"
+          ],
+          "scope": [
+            "联合国核实的平民伤亡，不是双方军人总伤亡"
+          ]
+        }
+      },
+      {
+        "text": "美联社2026年11月13日转述当地官员通报，俄境内三地袭击造成7人死亡、17人受伤。",
+        "evidence": [
+          {
+            "source_id": "E003-S2",
+            "quote": "strikes on three Russian regions killed seven people, including a 12-year-old, and wounded 17, local officials said."
+          }
+        ],
+        "attrs": {
+          "time": [
+            "2026-11-13（报道日期）"
+          ],
+          "place": [
+            "俄罗斯三地"
+          ],
+          "scope": [
+            "地方官员通报的局部袭击"
+          ]
+        }
+      },
+      {
+        "text": "美联社同日报道，扎波罗热一次俄军袭击击中两栋五层住宅楼，造成30人受伤，其中6名儿童。",
+        "evidence": [
+          {
+            "source_id": "E003-S2",
+            "quote": "hit two five-story apartment blocks and wounded 30 people, including six children, officials said."
+          }
+        ],
+        "attrs": {
+          "time": [
+            "2026-11-13"
+          ],
+          "place": [
+            "扎波罗热"
+          ],
+          "scope": [
+            "当地官员通报"
+          ]
+        }
+      },
+      {
+        "text": "俄美乌2026年11月10—11日在阿布扎比会谈并达成换俘安排；俄方称拟在两至三周内各向对方移交超过1000名被俘人员。",
+        "evidence": [
+          {
+            "source_id": "E003-S3",
+            "quote": "俄乌可能在未来两至三周内各自向对方移交超过1000名被俘人员。"
+          }
+        ],
+        "attrs": {
+          "time": [
+            "2026-11-10至2026-11-11"
+          ],
+          "place": [
+            "阿联酋阿布扎比"
+          ],
+          "actors": [
+            "俄罗斯",
+            "美国",
+            "乌克兰"
+          ],
+          "scope": [
+            "俄方关于拟议安排的表述，尚非完成交换"
+          ]
+        }
+      },
+      {
+        "text": "乌总统府2026年11月13日公告称，泽连斯基在都柏林会见美国特使威特科夫和库什纳，讨论换俘及扩大欧洲代表参与外交。",
+        "evidence": [
+          {
+            "source_id": "E003-S4",
+            "quote": "In Dublin, President of Ukraine Volodymyr Zelenskyy held a meeting with the U.S. President’s envoys, Steve Witkoff and Jared Kushner."
+          }
+        ],
+        "attrs": {
+          "time": [
+            "2026-11-13（公告日期）"
+          ],
+          "place": [
+            "爱尔兰都柏林"
+          ],
+          "actors": [
+            "泽连斯基",
+            "Steve Witkoff",
+            "Jared Kushner"
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "id": "E004",
+    "summary": "2026年秋巴黎发生示威及相关暴力事件。官方文件提供示威人数、拘捕伤亡和商户损毁数据，并分别记录申报路线、受限制后的替代路线及援助安排。",
+    "note": "示威人数不是骚乱人数，拘捕不是定罪；申报路线与获准替代路线属于不同文件，援助金额不是损失估值。",
+    "facts": [
+      {
+        "text": "法国内政部称，2026年11月7日全国约14.6万人参加141场行动，其中巴黎约4.6万人。",
+        "evidence": [
+          {
+            "source_id": "E004-S3",
+            "quote": "146 000 personnes (dont 46 000 à Paris) pour 141 actions."
+          }
+        ],
+        "attrs": {
+          "time": [
+            "2026-11-07"
+          ],
+          "place": [
+            "法国全国",
+            "巴黎"
+          ],
+          "scope": [
+            "官方示威人数估计"
+          ]
+        }
+      },
+      {
+        "text": "巴黎警方公报记载，10月17日拘捕855人、297名执法人员及111名居民或示威者受伤；18日再拘捕351人，36家商店受损，其中33家被抢掠。",
+        "evidence": [
+          {
+            "source_id": "E004-S1",
+            "quote": "855 interpellations, dont des mineurs, provoqué 297 blessures chez les forces de sécurité intérieure et 111 blessés parmi les riverains et les manifestants",
+            "locator": "PDF第36页（2026-01545号令背景说明）"
+          }
+        ],
+        "attrs": {
+          "time": [
+            "2026-10-17",
+            "2026-10-18"
+          ],
+          "place": [
+            "巴黎"
+          ],
+          "scope": [
+            "警方事后通报"
+          ]
+        }
+      },
+      {
+        "text": "使馆10月30日记录，巴黎10月31日申报路线为巴士底广场经共和国广场、圣殿街、歌剧院广场至协和广场，当时警方仍在审批。",
+        "evidence": [
+          {
+            "source_id": "E004-S2",
+            "quote": "具体游行示威路线警方仍在审批中（巴黎10月31日游行示威申报路线为巴士底广场经共和国广场、圣殿街、歌剧院广场至协和广场）"
+          }
+        ],
+        "attrs": {
+          "time": [
+            "2026-10-30（提醒日期）",
+            "2026-10-31（拟游行日期）"
+          ],
+          "scope": [
+            "申报路线，非批准证明"
+          ]
+        }
+      },
+      {
+        "text": "法国最高行政法院10月31日裁定支持限制工会原拟的巴士底—民族广场路线；替代路线为巴尼奥莱门经元帅大道至沙朗通门。",
+        "evidence": [
+          {
+            "source_id": "E004-S4",
+            "quote": "entre la Porte de Bagnolet et la Porte de Charenton, en empruntant les boulevards des Maréchaux.",
+            "locator": "裁定第2、7段及第2—3条"
+          }
+        ],
+        "attrs": {
+          "time": [
+            "2026-10-31"
+          ],
+          "place": [
+            "Porte de Bagnolet",
+            "Porte de Charenton"
+          ],
+          "scope": [
+            "该工会游行的替代路线"
+          ]
+        }
+      },
+      {
+        "text": "巴黎市政府10月28日说明，拟向受损商户紧急援助基金出资300万欧元。",
+        "evidence": [
+          {
+            "source_id": "E004-S5",
+            "quote": "la Ville de Paris va contribuer à ce fonds à hauteur de 3 millions d’euros"
+          }
+        ],
+        "attrs": {
+          "time": [
+            "2026-10-28（网页更新时间）"
+          ],
+          "amount": [
+            "300万欧元"
+          ],
+          "scope": [
+            "巴黎市出资计划，不是损失总额"
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "id": "E005",
+    "summary": "2026年美国中期选举使民主党夺回国会两院。席位统计仍有未决竞选，得州、俄亥俄和密西西比等州参院席位翻转，选后出现民主党领袖竞争。",
+    "note": "席位采用美东11月12日10时快照、并非最终认证；参院民主党阵营含2名独立议员，政策影响分析与实际立法结果分开。",
+    "facts": [
+      {
+        "text": "2026年11月3日，美国举行中期选举，改选众院全部435席及参院35席。",
+        "evidence": [
+          {
+            "source_id": "E005-S2",
+            "quote": "All 435 U.S. House seats were on the ballot."
+          }
+        ],
+        "attrs": {
+          "time": [
+            "2026-11-03"
+          ],
+          "place": [
+            "美国"
+          ],
+          "scope": [
+            "国会改选规模"
+          ]
+        }
+      },
+      {
+        "text": "按Ballotpedia美东11月12日10时表格，众院民主党254席、共和党165席、16席未决；参院连同未改选席位合计，民主党阵营55席、共和党44席、1席未决。",
+        "evidence": [
+          {
+            "source_id": "E005-S2",
+            "quote": "Democratic | 215 | 254 Republican | 219 | 165 Other | 1 | 0 Uncalled | — | 16 (3 D, 13 R held before)",
+            "locator": "U.S. House seats up in 2026表；参院据选前53/47及本轮21/13/1表合计"
+          }
+        ],
+        "attrs": {
+          "time": [
+            "2026-11-12 10:00 EST"
+          ],
+          "scope": [
+            "机构判定快照；参院含2名与民主党同阵营的独立议员"
+          ]
+        }
+      },
+      {
+        "text": "Ballotpedia列出的民主党参院翻转席位包括得州的James Talarico、俄亥俄州的Sherrod Brown，以及11月11日判定胜出的密西西比州Scott Colom。",
+        "evidence": [
+          {
+            "source_id": "E005-S2",
+            "quote": "Scott Colom (D) won the Mississippi U.S. Senate election, a Democratic gain.",
+            "locator": "Latest calls参院时间线：11月3日、11月11日"
+          }
+        ],
+        "attrs": {
+          "place": [
+            "得克萨斯州",
+            "俄亥俄州",
+            "密西西比州"
+          ],
+          "actors": [
+            "James Talarico",
+            "Sherrod Brown",
+            "Scott Colom"
+          ]
+        }
+      },
+      {
+        "text": "PNC经济研究团队认为，民主党控制两院而特朗普仍掌握行政部门，将使重大立法需要跨党谈判，民主党也不足以单独推翻总统否决。",
+        "evidence": [
+          {
+            "source_id": "E005-S3",
+            "quote": "All legislation will thus require some amount of bipartisan negotiation between the Democrat-controlled legislature and the Republican presidency.",
+            "locator": "PDF第2页"
+          }
+        ],
+        "attrs": {
+          "scope": [
+            "PNC经济研究分析，不是已经发生的政策结果"
+          ]
+        }
+      },
+      {
+        "text": "美联社报道，Chris Van Hollen于11月12日宣布挑战Chuck Schumer，争夺下一届参院民主党领袖，党内秘密投票将在12月上旬举行。",
+        "evidence": [
+          {
+            "source_id": "E005-S4",
+            "quote": "The closed-door, secret-ballot election will be held in early December."
+          }
+        ],
+        "attrs": {
+          "time": [
+            "2026-11-12（宣布）",
+            "2026年12月上旬（拟投票）"
+          ],
+          "actors": [
+            "Chris Van Hollen",
+            "Chuck Schumer"
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "id": "E006",
+    "summary": "美以2026年2月打击伊朗，6月美伊宣布达成停战谅解备忘录。11月又出现巴林方向无人机交火及相互矛盾的雷达战果说法。",
+    "note": "宣布达成备忘录不等于全面和平；美伊战果说法均注明归属，不作为独立核实结论。",
+    "facts": [
+      {
+        "text": "中国外交部2026年2月28日就美以对伊朗军事打击作出回应，呼吁停止军事行动、恢复谈判。",
+        "evidence": [
+          {
+            "source_id": "E006-S1",
+            "quote": "中方呼吁立即停止军事行动，避免紧张事态进一步升级，恢复对话谈判，维护中东地区和平稳定。"
+          }
+        ],
+        "attrs": {
+          "time": [
+            "2026-02-28"
+          ],
+          "actors": [
+            "美国",
+            "以色列",
+            "伊朗",
+            "中国外交部"
+          ]
+        }
+      },
+      {
+        "text": "新华社6月15日报道，美伊于6月14日宣布达成停战谅解备忘录，伊方称计划19日正式签署。",
+        "evidence": [
+          {
+            "source_id": "E006-S2",
+            "quote": "美国和伊朗14日宣布达成停战谅解备忘录。"
+          }
+        ],
+        "attrs": {
+          "time": [
+            "2026-06-14（宣布）",
+            "2026-06-19（当时计划签署）"
+          ],
+          "scope": [
+            "报道当时的宣布及计划，不作为签署完成证明"
+          ]
+        }
+      },
+      {
+        "text": "美联社11月13日报道，美军称拦截飞向巴林的2架伊朗攻击无人机，中央司令部称未造成人员受伤或损坏。",
+        "evidence": [
+          {
+            "source_id": "E006-S3",
+            "quote": "CENTCOM, the U.S. command center covering the region, said there were no injuries or damage."
+          }
+        ],
+        "attrs": {
+          "time": [
+            "2026-11-13"
+          ],
+          "place": [
+            "巴林方向"
+          ],
+          "actors": [
+            "美国中央司令部"
+          ],
+          "scope": [
+            "美方陈述"
+          ]
+        }
+      },
+      {
+        "text": "同日报道，伊朗革命卫队声称击中巴林一处美军预警雷达，美军否认这一战果主张。",
+        "evidence": [
+          {
+            "source_id": "E006-S3",
+            "quote": "denying Iran's claim that it had struck a U.S. radar system in the kingdom."
+          }
+        ],
+        "attrs": {
+          "time": [
+            "2026-11-13"
+          ],
+          "place": [
+            "巴林"
+          ],
+          "actors": [
+            "伊朗革命卫队",
+            "美国军方"
+          ],
+          "scope": [
+            "双方存在争议的战果主张"
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "id": "E007",
+    "summary": "欧盟统计局公布2026年第二季度债务比例上升，希腊、意大利、法国处于较高水平；同期发布的2025年度赤字数据采用不同统计期间和欧元区范围。",
+    "note": "季度债务存量与年度赤字流量不同；欧元区21国与20国口径不同，高债务不能直接写成已违约。",
+    "facts": [
+      {
+        "text": "2026年第二季度欧元区21国政府债务占GDP比重为88.8%，高于上季88.4%。",
+        "evidence": [
+          {
+            "source_id": "E007-S1",
+            "quote": "the general government gross debt to GDP ratio in the euro area (EA21) stood at 88.8%, an increase compared with 88.4%"
+          }
+        ],
+        "attrs": {
+          "time": [
+            "2026年第二季度"
+          ],
+          "scope": [
+            "欧元区21国政府债务占GDP比例"
+          ]
+        }
+      },
+      {
+        "text": "同季欧盟政府债务占GDP比重由上季82.5%升至82.9%。",
+        "evidence": [
+          {
+            "source_id": "E007-S1",
+            "quote": "In the EU, the ratio also increased from 82.5% to 82.9%."
+          }
+        ],
+        "attrs": {
+          "time": [
+            "2026年第二季度"
+          ],
+          "scope": [
+            "欧盟整体"
+          ]
+        }
+      },
+      {
+        "text": "同期希腊、意大利、法国政府债务占GDP比重分别为140.8%、139.9%、119.1%。",
+        "evidence": [
+          {
+            "source_id": "E007-S1",
+            "quote": "Greece (140.8%), Italy (139.9%), France (119.1%)"
+          }
+        ],
+        "attrs": {
+          "time": [
+            "2026年第二季度"
+          ],
+          "place": [
+            "希腊",
+            "意大利",
+            "法国"
+          ]
+        }
+      },
+      {
+        "text": "欧盟统计局同日发布的年度通知显示，2025年欧元区20国财政赤字占GDP的3.0%，欧盟为3.1%。",
+        "evidence": [
+          {
+            "source_id": "E007-S2",
+            "quote": "In the euro area (EA20) the government deficit to GDP ratio remained unchanged at 3.0% in 2024 and 2025. In the EU, it also remained unchanged at 3.1%"
+          }
+        ],
+        "attrs": {
+          "time": [
+            "2025年"
+          ],
+          "scope": [
+            "年度赤字比例，欧元区20国及欧盟"
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "id": "E008",
+    "summary": "美方在加拉加斯抓捕马杜罗夫妇并将其置于美国羁押。中方要求释放；二人在纽约首次出庭时均作不认罪答辩。",
+    "note": "美方行动记载、中方立场与刑事程序分开；羁押和刑事指控不等于定罪。",
+    "facts": [
+      {
+        "text": "美国司法部下属缉毒局文件记载，2026年1月3日美方行动在加拉加斯抓捕马杜罗及其妻子Cilia Flores，并将二人置于美国羁押。",
+        "evidence": [
+          {
+            "source_id": "E008-S1",
+            "quote": "On January 3, 2026, a combined U.S. operation resulted in the arrest of Nicolás Maduro Moros, President of Venezuela, and his wife, Cilia Flores in Caracas, Venezuela.",
+            "locator": "PDF第7页（印刷页5）"
+          }
+        ],
+        "attrs": {
+          "time": [
+            "2026-01-03"
+          ],
+          "place": [
+            "委内瑞拉加拉加斯"
+          ],
+          "actors": [
+            "Nicolás Maduro",
+            "Cilia Flores"
+          ]
+        }
+      },
+      {
+        "text": "中国外交部1月4日要求美方确保马杜罗夫妇安全并立即释放，反对强行控制及移送出境。",
+        "evidence": [
+          {
+            "source_id": "E008-S2",
+            "quote": "立即释放马杜罗总统和夫人，停止颠覆委内瑞拉政权，通过对话谈判解决问题。"
+          }
+        ],
+        "attrs": {
+          "time": [
+            "2026-01-04"
+          ],
+          "actors": [
+            "中国外交部"
+          ]
+        }
+      },
+      {
+        "text": "2026年1月5日，马杜罗与妻子在纽约曼哈顿联邦法院首次出庭，二人均作不认罪答辩。",
+        "evidence": [
+          {
+            "source_id": "E008-S3",
+            "quote": "She also pleaded not guilty."
+          }
+        ],
+        "attrs": {
+          "time": [
+            "2026-01-05"
+          ],
+          "place": [
+            "纽约曼哈顿联邦法院"
+          ],
+          "actors": [
+            "马杜罗",
+            "Cilia Flores"
+          ],
+          "scope": [
+            "首次出庭答辩，不是判决"
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "id": "E009",
+    "summary": "OpenClaw是个人AI代理平台，Moltbook是代理社交平台。后者遭披露数据库暴露及人工操控风险，3月又传出被Meta收购。",
+    "note": "代理令牌数不等于自然人用户数；帖子可以被人工控制，不能据其内容认定AI产生自主意识。",
+    "facts": [
+      {
+        "text": "Peter Steinberger于2026年1月29日宣布项目使用OpenClaw新名称，介绍了Clawd、Moltbot到OpenClaw的更名过程。",
+        "evidence": [
+          {
+            "source_id": "E009-S1",
+            "quote": "The journey from Clawd to Moltbot to OpenClaw"
+          }
+        ],
+        "attrs": {
+          "time": [
+            "2026-01-29"
+          ],
+          "actors": [
+            "Peter Steinberger"
+          ]
+        }
+      },
+      {
+        "text": "Wiz于2月2日披露，Moltbook数据库配置问题暴露150万个API认证令牌、3.5万个电子邮箱及代理间私信。",
+        "evidence": [
+          {
+            "source_id": "E009-S2",
+            "quote": "The exposure included 1.5 million API authentication tokens, 35,000 email addresses, and private messages between agents."
+          }
+        ],
+        "attrs": {
+          "time": [
+            "2026-02-02（披露）"
+          ],
+          "scope": [
+            "Wiz安全调查结果"
+          ]
+        }
+      },
+      {
+        "text": "Wiz称，Moltbook团队在接到披露后数小时内修复数据库问题。",
+        "evidence": [
+          {
+            "source_id": "E009-S2",
+            "quote": "We immediately disclosed the issue to the Moltbook team, who secured it within hours with our assistance"
+          }
+        ],
+        "attrs": {
+          "scope": [
+            "Wiz对修复过程的陈述"
+          ]
+        }
+      },
+      {
+        "text": "Wiz调查指出，人类可通过简单POST请求伪装成AI代理发帖，平台当时没有验证发帖者是否为AI的机制。",
+        "evidence": [
+          {
+            "source_id": "E009-S2",
+            "quote": "The platform had no mechanism to verify whether an \"agent\" was actually AI or just a human with a script."
+          }
+        ],
+        "attrs": {
+          "scope": [
+            "当时的平台机制与操控风险"
+          ]
+        }
+      },
+      {
+        "text": "TechCrunch于2026年3月10日报道，Meta收购Moltbook。",
+        "evidence": [
+          {
+            "source_id": "E009-S3",
+            "quote": "Meta acquired Moltbook"
+          }
+        ],
+        "attrs": {
+          "time": [
+            "2026-03-10（报道）"
+          ],
+          "actors": [
+            "Meta",
+            "Moltbook"
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "id": "E010",
+    "summary": "公司讣告公布张雪峰在苏州离世及心源性猝死表述。次日有关疑似医疗文件泄露的报道引发关注，苏州卫健委回应已在处理。",
+    "note": "死因按公开讣告表述；不依靠疑似泄露材料补写病程，也不把已关注处理写成责任查明。",
+    "facts": [
+      {
+        "text": "公司讣告确认，张雪峰于2026年3月24日15时50分在苏州逝世。",
+        "evidence": [
+          {
+            "source_id": "E010-S1",
+            "quote": "于2026年3月24日15时50分在苏州逝世。"
+          }
+        ],
+        "attrs": {
+          "time": [
+            "2026-03-24 15:50"
+          ],
+          "place": [
+            "苏州"
+          ],
+          "actors": [
+            "张雪峰"
+          ]
+        }
+      },
+      {
+        "text": "苏州峰学蔚来教育科技有限公司讣告将张雪峰死因表述为心源性猝死、全力抢救无效。",
+        "evidence": [
+          {
+            "source_id": "E010-S1",
+            "quote": "因心源性猝死全力抢救无效"
+          }
+        ],
+        "attrs": {
+          "actors": [
+            "苏州峰学蔚来教育科技有限公司"
+          ],
+          "scope": [
+            "公司公开讣告表述"
+          ]
+        }
+      },
+      {
+        "text": "3月25日，新黄河记者就疑似医疗文件泄露联系苏州卫健委，获回应称已关注并正在处理。",
+        "evidence": [
+          {
+            "source_id": "E010-S2",
+            "quote": "领导已关注此事并正在处理。"
+          }
+        ],
+        "attrs": {
+          "time": [
+            "2026-03-25"
+          ],
+          "actors": [
+            "苏州市卫生健康委员会"
+          ],
+          "scope": [
+            "工作人员向记者的回应"
+          ]
+        }
+      }
+    ]
+  }
+]

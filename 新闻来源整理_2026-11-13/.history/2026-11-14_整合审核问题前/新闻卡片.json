@@ -1,0 +1,3755 @@
+[
+  {
+    "id": "E001",
+    "title": "黄仁勋婚外情承认与英伟达独立调查",
+    "category": "科技",
+    "summary": "英伟达就黄仁勋可能成为外国情报活动目标的报道启动独立调查；黄仁勋另在员工信中承认婚外情，董事会随后公布独立律师安排。",
+    "note": "婚外情承认、情报指控及调查结论分开；董事会当时的初步表态不等于调查已经完成。",
+    "as_of": "2026-11-14",
+    "questions": [],
+    "facts": [
+      {
+        "id": "E001-F1",
+        "text": "CNN于2026年11月8日报道，黄仁勋在致员工信中承认对妻子不忠。",
+        "evidence": [
+          {
+            "source_id": "E001-S3",
+            "quote": "In a note to Nvidia staff, Huang said that he was “unfaithful” and hurt his wife and children."
+          }
+        ],
+        "attrs": {
+          "time": [
+            "2026-11-08（报道日期）"
+          ],
+          "actors": [
+            "黄仁勋"
+          ]
+        }
+      },
+      {
+        "id": "E001-F2",
+        "text": "英伟达董事会2026年11月8日宣布，就黄仁勋被指成为外国情报活动目标的报道启动独立调查。",
+        "evidence": [
+          {
+            "source_id": "E001-S1",
+            "quote": "The NVIDIA Board is initiating an independent investigation in light of recent reporting that founder and CEO Jensen Huang has been the target of a foreign intelligence effort."
+          }
+        ],
+        "attrs": {
+          "time": [
+            "2026-11-08"
+          ],
+          "actors": [
+            "英伟达董事会"
+          ],
+          "scope": [
+            "调查启动，未形成最终结论"
+          ]
+        }
+      },
+      {
+        "id": "E001-F3",
+        "text": "英伟达董事会独立成员2026年11月10日公布，聘请Joon H. Kim及Wachtell, Lipton, Rosen & Katz律师事务所开展调查。",
+        "evidence": [
+          {
+            "source_id": "E001-S2",
+            "quote": "retained former acting U.S. Attorney of the Southern District of New York Joon H. Kim and his firm Wachtell, Lipton, Rosen & Katz"
+          }
+        ],
+        "attrs": {
+          "time": [
+            "2026-11-10"
+          ],
+          "actors": [
+            "Joon H. Kim",
+            "Wachtell, Lipton, Rosen & Katz"
+          ]
+        }
+      },
+      {
+        "id": "E001-F4",
+        "text": "董事会在启动调查时称，当时没有理由相信国家安全或英伟达秘密已遭泄露，但将检查所有可得信息。",
+        "evidence": [
+          {
+            "source_id": "E001-S1",
+            "quote": "While the Board has no reason to believe that either national security or NVIDIA secrets were compromised, the Board's inquiry will examine all available information."
+          }
+        ],
+        "attrs": {
+          "scope": [
+            "董事会当时的表态，不是调查最终结论"
+          ]
+        }
+      }
+    ],
+    "sources": [
+      {
+        "id": "E001-S1",
+        "title": "Statement From NVIDIA Board of Directors",
+        "publisher": "英伟达董事会",
+        "url": "https://nvidianews.nvidia.com/news/statement-from-nvidia-board-of-directors",
+        "published_at": "2026-11-08"
+      },
+      {
+        "id": "E001-S2",
+        "title": "Statement From the Independent Members of the NVIDIA Board",
+        "publisher": "英伟达独立董事",
+        "url": "https://nvidianews.nvidia.com/news/statement-from-the-independent-members-of-the-nvidia-board",
+        "published_at": "2026-11-10"
+      },
+      {
+        "id": "E001-S3",
+        "title": "Nvidia CEO Jensen Huang admits affair as company launches investigation into foreign spy claims",
+        "publisher": "CNN｜KESQ刊载",
+        "url": "https://kesq.com/money/cnn-business-consumer/2026/11/08/nvidia-launches-investigation-into-ceo-jensen-huang-over-foreign-intelligence-concerns/",
+        "published_at": "2026-11-08"
+      }
+    ]
+  },
+  {
+    "id": "E002",
+    "title": "刘欢病逝：主要死因为感染性休克",
+    "category": "文娱",
+    "summary": "刘欢于2026年9月25日在上海病逝。家属11月12日公开信披露死亡医学证明书所列主要死因为感染性休克，并回顾癌症病史及早年骨科手术。",
+    "note": "主要死因按家属转述的死亡证明字段表述；癌症病史与主要死因有区别，但不能据此推断癌症与临终感染完全无关。",
+    "as_of": "2026-11-14",
+    "questions": [],
+    "facts": [
+      {
+        "id": "E002-F1",
+        "text": "对外经济贸易大学讣告确认，刘欢于2026年9月25日9时52分在上海病逝，享年63岁。",
+        "evidence": [
+          {
+            "source_id": "E002-S1",
+            "quote": "于2026年9月25日上午9时52分在上海不幸病逝，享年63岁。"
+          }
+        ],
+        "attrs": {
+          "time": [
+            "2026-09-25 09:52"
+          ],
+          "place": [
+            "上海"
+          ],
+          "actors": [
+            "刘欢"
+          ]
+        }
+      },
+      {
+        "id": "E002-F2",
+        "text": "2026年11月12日，水均益受卢璐委托发布公开信，说明刘欢当日在北京安葬。",
+        "evidence": [
+          {
+            "source_id": "E002-S2",
+            "quote": "受刘欢夫人卢璐女士的委托与授权，特转发卢璐女士致刘欢的师长、朋友和歌迷的一封公开信"
+          },
+          {
+            "source_id": "E002-S2",
+            "quote": "刘欢上午已经在北京怀柔的长城脚下入土为安。今天是他的七七。"
+          }
+        ],
+        "attrs": {
+          "time": [
+            "2026-11-12"
+          ],
+          "place": [
+            "北京"
+          ],
+          "actors": [
+            "卢璐",
+            "水均益"
+          ]
+        }
+      },
+      {
+        "id": "E002-F3",
+        "text": "卢璐公开信称，刘欢死亡医学证明书所列主要死因为感染性休克。",
+        "evidence": [
+          {
+            "source_id": "E002-S2",
+            "quote": "死亡医学证明书上的主要死因一栏写着：感染性休克。"
+          }
+        ],
+        "attrs": {
+          "scope": [
+            "家属公开信转述死亡医学证明书"
+          ]
+        }
+      },
+      {
+        "id": "E002-F4",
+        "text": "据卢璐公开信，刘欢于2012年接受检查，活检病理确诊为早期膀胱原位癌。",
+        "evidence": [
+          {
+            "source_id": "E002-S2",
+            "quote": "刘欢的活检病理确诊为膀胱原位癌早期。",
+            "locator": "君去无语：2012年9月体检及随后活检段落"
+          }
+        ],
+        "attrs": {
+          "time": [
+            "2012年"
+          ],
+          "scope": [
+            "既往癌症病史"
+          ]
+        }
+      },
+      {
+        "id": "E002-F5",
+        "text": "卢璐澄清，刘欢2009年因股骨头缺血性坏死在北医三院接受人工髋关节置换，术后康复、基本未再出问题。",
+        "evidence": [
+          {
+            "source_id": "E002-S2",
+            "quote": "当年回国在北医三院接受了人工髋关节置换手术。时任骨科主任张克亲自掌刀，手术非常成功，从此康复，基本没再出过问题。"
+          }
+        ],
+        "attrs": {
+          "time": [
+            "2009年"
+          ],
+          "place": [
+            "北医三院"
+          ],
+          "scope": [
+            "家属澄清早年骨科病史"
+          ]
+        }
+      }
+    ],
+    "sources": [
+      {
+        "id": "E002-S1",
+        "title": "讣告｜沉痛悼念我国著名音乐家刘欢老师",
+        "publisher": "对外经济贸易大学新闻网",
+        "url": "https://news.uibe.edu.cn/info/1608/143408.htm",
+        "published_at": "2026-09-26"
+      },
+      {
+        "id": "E002-S2",
+        "title": "刘欢妻子卢璐8000字公开信全文公布",
+        "publisher": "卢璐公开信｜水均益受托发布，新湖南全文刊载",
+        "url": "https://m.voc.com.cn/xhn/news/202611/34246958.html",
+        "published_at": "2026-11-13"
+      }
+    ]
+  },
+  {
+    "id": "E003",
+    "title": "俄乌战争：近期伤亡与斡旋进展（截至2026年11月13日）",
+    "category": "国际",
+    "summary": "俄乌跨境袭击持续。联合国公布乌克兰平民月度伤亡数据，11月局部袭击又造成伤亡；俄美乌在阿布扎比达成换俘安排，后续外交涉及欧洲参与。",
+    "note": "月度核实数据、局部袭击通报与军人总伤亡不可混用；换俘计划及会晤不等于交换完成或全面停火。",
+    "as_of": "2026-11-14",
+    "questions": [],
+    "facts": [
+      {
+        "id": "E003-F1",
+        "text": "联合国人权监测团核实，2026年9月乌克兰至少328名平民死亡、2105人受伤。",
+        "evidence": [
+          {
+            "source_id": "E003-S1",
+            "quote": "At least 328 civilians were killed and 2,105 injured in September 2026"
+          }
+        ],
+        "attrs": {
+          "time": [
+            "2026-09"
+          ],
+          "place": [
+            "乌克兰"
+          ],
+          "scope": [
+            "联合国核实的平民伤亡，不是双方军人总伤亡"
+          ]
+        }
+      },
+      {
+        "id": "E003-F2",
+        "text": "美联社2026年11月13日转述当地官员通报，俄境内三地袭击造成7人死亡、17人受伤。",
+        "evidence": [
+          {
+            "source_id": "E003-S2",
+            "quote": "strikes on three Russian regions killed seven people, including a 12-year-old, and wounded 17, local officials said."
+          }
+        ],
+        "attrs": {
+          "time": [
+            "2026-11-13（报道日期）"
+          ],
+          "place": [
+            "俄罗斯三地"
+          ],
+          "scope": [
+            "地方官员通报的局部袭击"
+          ]
+        }
+      },
+      {
+        "id": "E003-F3",
+        "text": "美联社同日报道，扎波罗热一次俄军袭击击中两栋五层住宅楼，造成30人受伤，其中6名儿童。",
+        "evidence": [
+          {
+            "source_id": "E003-S2",
+            "quote": "hit two five-story apartment blocks and wounded 30 people, including six children, officials said."
+          }
+        ],
+        "attrs": {
+          "time": [
+            "2026-11-13"
+          ],
+          "place": [
+            "扎波罗热"
+          ],
+          "scope": [
+            "当地官员通报"
+          ]
+        }
+      },
+      {
+        "id": "E003-F4",
+        "text": "俄美乌2026年11月10—11日在阿布扎比会谈并达成换俘安排；俄方称拟在两至三周内各向对方移交超过1000名被俘人员。",
+        "evidence": [
+          {
+            "source_id": "E003-S3",
+            "quote": "俄乌可能在未来两至三周内各自向对方移交超过1000名被俘人员。"
+          },
+          {
+            "source_id": "E003-S3",
+            "quote": "为期两天的俄罗斯、美国和乌克兰三方会谈11日在阿联酋首都阿布扎比结束"
+          },
+          {
+            "source_id": "E003-S3",
+            "quote": "会谈10日开始"
+          }
+        ],
+        "attrs": {
+          "time": [
+            "2026-11-10至2026-11-11"
+          ],
+          "place": [
+            "阿联酋阿布扎比"
+          ],
+          "actors": [
+            "俄罗斯",
+            "美国",
+            "乌克兰"
+          ],
+          "scope": [
+            "俄方关于拟议安排的表述，尚非完成交换"
+          ]
+        }
+      },
+      {
+        "id": "E003-F5",
+        "text": "乌总统府2026年11月13日公告称，泽连斯基在都柏林会见美国特使威特科夫和库什纳，讨论换俘及扩大欧洲代表参与外交。",
+        "evidence": [
+          {
+            "source_id": "E003-S4",
+            "quote": "In Dublin, President of Ukraine Volodymyr Zelenskyy held a meeting with the U.S. President’s envoys, Steve Witkoff and Jared Kushner."
+          },
+          {
+            "source_id": "E003-S4",
+            "quote": "we are involving European representatives even more actively in diplomacy"
+          }
+        ],
+        "attrs": {
+          "time": [
+            "2026-11-13（公告日期）"
+          ],
+          "place": [
+            "爱尔兰都柏林"
+          ],
+          "actors": [
+            "泽连斯基",
+            "Steve Witkoff",
+            "Jared Kushner"
+          ]
+        }
+      }
+    ],
+    "sources": [
+      {
+        "id": "E003-S1",
+        "title": "Protection of Civilians in Armed Conflict — September 2026",
+        "publisher": "联合国人权高专办驻乌克兰人权监测团",
+        "url": "https://ukraine.ohchr.org/en/Protection-of-Civilians-in-Armed-Conflict-September-2026",
+        "published_at": "2026-10-15"
+      },
+      {
+        "id": "E003-S2",
+        "title": "Ukraine launches nearly 1,200 drones at Russia as US-led talks to consider wider European security",
+        "publisher": "美联社 AP｜转述俄乌当地部门通报",
+        "url": "https://apnews.com/article/russia-ukraine-war-putin-trump-zelenskyy-europe-157d168cb7ff9cae318cbf6cecb3988f",
+        "published_at": "2026-11-13"
+      },
+      {
+        "id": "E003-S3",
+        "title": "俄美乌会谈达成换俘协议 仍存重大分歧",
+        "publisher": "新华社｜人民网转载",
+        "url": "https://world.people.com.cn/n1/2026/1112/c1002-40832302.html",
+        "published_at": "2026-11-12"
+      },
+      {
+        "id": "E003-S4",
+        "title": "Volodymyr Zelenskyy Discussed Outcomes of This Week’s Negotiations with Steve Witkoff and Jared Kushner",
+        "publisher": "乌克兰总统府",
+        "url": "https://www.president.gov.ua/en/news/volodimir-zelenskij-obgovoriv-zi-stivenom-vitkoffom-i-dzhare-107325",
+        "published_at": "2026-11-13"
+      }
+    ]
+  },
+  {
+    "id": "E004",
+    "title": "2026年秋巴黎示威与骚乱",
+    "category": "社会",
+    "summary": "2026年秋巴黎发生示威及相关暴力事件。官方文件提供示威人数、拘捕伤亡和商户损毁数据，并分别记录申报路线、受限制后的替代路线及援助安排。",
+    "note": "示威人数不是骚乱人数，拘捕不是定罪；申报路线与获准替代路线属于不同文件，援助金额不是损失估值。",
+    "as_of": "2026-11-14",
+    "questions": [],
+    "facts": [
+      {
+        "id": "E004-F1",
+        "text": "法国内政部称，2026年11月7日全国约14.6万人参加141场行动，其中巴黎约4.6万人。",
+        "evidence": [
+          {
+            "source_id": "E004-S3",
+            "quote": "146 000 personnes (dont 46 000 à Paris) pour 141 actions."
+          }
+        ],
+        "attrs": {
+          "time": [
+            "2026-11-07"
+          ],
+          "place": [
+            "法国全国",
+            "巴黎"
+          ],
+          "scope": [
+            "官方示威人数估计"
+          ]
+        }
+      },
+      {
+        "id": "E004-F2",
+        "text": "巴黎警方公报记载，10月17日拘捕855人、297名执法人员及111名居民或示威者受伤；18日再拘捕351人，36家商店受损，其中33家被抢掠。",
+        "evidence": [
+          {
+            "source_id": "E004-S1",
+            "quote": "855 interpellations, dont des mineurs, provoqué 297 blessures chez les forces de sécurité intérieure et 111 blessés parmi les riverains et les manifestants",
+            "locator": "PDF第36页（2026-01545号令背景说明）"
+          },
+          {
+            "source_id": "E004-S1",
+            "quote": "351 interpellations, dont des mineurs, provoqué 17 blessures chez les forces de sécurité intérieure, et 36 magasins dégradés dont 33 d’entre eux ont été pillés",
+            "locator": "PDF第36页"
+          }
+        ],
+        "attrs": {
+          "time": [
+            "2026-10-17",
+            "2026-10-18"
+          ],
+          "place": [
+            "巴黎"
+          ],
+          "scope": [
+            "警方事后通报"
+          ]
+        }
+      },
+      {
+        "id": "E004-F3",
+        "text": "使馆10月30日记录，巴黎10月31日申报路线为巴士底广场经共和国广场、圣殿街、歌剧院广场至协和广场，当时警方仍在审批。",
+        "evidence": [
+          {
+            "source_id": "E004-S2",
+            "quote": "具体游行示威路线警方仍在审批中（巴黎10月31日游行示威申报路线为巴士底广场经共和国广场、圣殿街、歌剧院广场至协和广场）"
+          }
+        ],
+        "attrs": {
+          "time": [
+            "2026-10-30（提醒日期）",
+            "2026-10-31（拟游行日期）"
+          ],
+          "scope": [
+            "申报路线，非批准证明"
+          ]
+        }
+      },
+      {
+        "id": "E004-F4",
+        "text": "法国最高行政法院10月31日裁定支持限制工会原拟的巴士底—民族广场路线；替代路线为巴尼奥莱门经元帅大道至沙朗通门。",
+        "evidence": [
+          {
+            "source_id": "E004-S4",
+            "quote": "entre la Porte de Bagnolet et la Porte de Charenton, en empruntant les boulevards des Maréchaux.",
+            "locator": "裁定第2、7段及第2—3条"
+          },
+          {
+            "source_id": "E004-S4",
+            "quote": "l’interdiction de cet itinéraire et la proposition d’un itinéraire alternatif de la Porte de Bagnolet jusqu’à la Porte de Charenton",
+            "locator": "裁定第7段"
+          }
+        ],
+        "attrs": {
+          "time": [
+            "2026-10-31"
+          ],
+          "place": [
+            "Porte de Bagnolet",
+            "Porte de Charenton"
+          ],
+          "scope": [
+            "该工会游行的替代路线"
+          ]
+        }
+      },
+      {
+        "id": "E004-F5",
+        "text": "巴黎市政府10月28日说明，拟向受损商户紧急援助基金出资300万欧元。",
+        "evidence": [
+          {
+            "source_id": "E004-S5",
+            "quote": "la Ville de Paris va contribuer à ce fonds à hauteur de 3 millions d’euros"
+          }
+        ],
+        "attrs": {
+          "time": [
+            "2026-10-28（网页更新时间）"
+          ],
+          "amount": [
+            "300万欧元"
+          ],
+          "scope": [
+            "巴黎市出资计划，不是损失总额"
+          ]
+        }
+      }
+    ],
+    "sources": [
+      {
+        "id": "E004-S1",
+        "title": "Recueil des actes administratifs spécial n°75-2026-667（第36页）",
+        "publisher": "巴黎警察局｜法兰西岛大区政府网站",
+        "url": "https://www.prefectures-regions.gouv.fr/ile-de-france/irecontenu/telechargement/142339/1034675/file/recueil-75-2026-667-recueil-des-actes-administratifs-special%20du%2006.11.2026.pdf#page=36",
+        "published_at": "2026-11-06"
+      },
+      {
+        "id": "E004-S2",
+        "title": "关于10月31日和11月5日游行示威的领事提醒",
+        "publisher": "中国驻法国大使馆",
+        "url": "https://fr.china-embassy.gov.cn/zgzfg/zgsg/lsqwc/zytz/202610/t20261030_12050327.htm",
+        "published_at": "2026-10-30"
+      },
+      {
+        "id": "E004-S3",
+        "title": "Bilan de la mobilisation du 7 novembre 2026（11月7日示威情况通报）",
+        "publisher": "法国内政部",
+        "url": "https://www.interieur.gouv.fr/actualites/actualites-du-ministere/bilan-de-mobilisation-du-7-novembre-2026-des-corteges-emailles-de-nombreux-incidents-dans-grandes",
+        "published_at": "2026-11-07"
+      },
+      {
+        "id": "E004-S4",
+        "title": "Décision n°521001（10月31日游行路线裁定）",
+        "publisher": "法国最高行政法院 Conseil d’État",
+        "url": "https://www.conseil-etat.fr/fr/arianeweb/CE/decision/2026-10-31/521001",
+        "published_at": "2026-10-31"
+      },
+      {
+        "id": "E004-S5",
+        "title": "Violences et dégradations : près de 3 millions d’euros d’aides pour les commerçants",
+        "publisher": "巴黎市政府 Ville de Paris",
+        "url": "https://www.paris.fr/pages/manifestations-du-17-octobre-pres-de-1000-agents-mobilises-une-cellule-d-aide-pour-les-commercants-36918",
+        "published_at": "2026-10-28"
+      }
+    ]
+  },
+  {
+    "id": "E005",
+    "title": "2026年美国中期选举：两院易手与关键翻转席位",
+    "category": "政治",
+    "summary": "2026年美国中期选举使民主党夺回国会两院。席位统计仍有未决竞选，得州、俄亥俄和密西西比等州参院席位翻转，选后出现民主党领袖竞争。",
+    "note": "席位采用美东11月12日10时快照、并非最终认证；参院民主党阵营含2名独立议员，政策影响分析与实际立法结果分开。",
+    "as_of": "2026-11-14",
+    "questions": [],
+    "facts": [
+      {
+        "id": "E005-F1",
+        "text": "2026年11月3日，美国举行中期选举，改选众院全部435席及参院35席。",
+        "evidence": [
+          {
+            "source_id": "E005-S2",
+            "quote": "All 435 U.S. House seats were on the ballot."
+          },
+          {
+            "source_id": "E005-S1",
+            "quote": "Tuesday, November 3, 2026, is the next regularly scheduled federal General Election date."
+          },
+          {
+            "source_id": "E005-S2",
+            "quote": "there were 35 Senate seats"
+          }
+        ],
+        "attrs": {
+          "time": [
+            "2026-11-03"
+          ],
+          "place": [
+            "美国"
+          ],
+          "scope": [
+            "国会改选规模"
+          ]
+        }
+      },
+      {
+        "id": "E005-F2",
+        "text": "按Ballotpedia美东11月12日10时表格，众院民主党254席、共和党165席、16席未决；参院连同未改选席位合计，民主党阵营55席、共和党44席、1席未决。",
+        "evidence": [
+          {
+            "source_id": "E005-S2",
+            "quote": "Democratic | 215 | 254 Republican | 219 | 165 Other | 1 | 0 Uncalled | — | 16 (3 D, 13 R held before)",
+            "locator": "U.S. House seats up in 2026表；参院据选前53/47及本轮21/13/1表合计"
+          },
+          {
+            "source_id": "E005-S2",
+            "quote": "Democratic | 13 | 21 Republican | 22 | 13 Uncalled | — | 1 (0 D, 1 R held before)",
+            "locator": "U.S. Senate seats up in 2026表"
+          },
+          {
+            "source_id": "E005-S2",
+            "quote": "Democrats’ 47 seats include two independents who caucus with Democrats."
+          }
+        ],
+        "attrs": {
+          "time": [
+            "2026-11-12 10:00 EST"
+          ],
+          "scope": [
+            "机构判定快照；参院含2名与民主党同阵营的独立议员"
+          ]
+        }
+      },
+      {
+        "id": "E005-F3",
+        "text": "Ballotpedia于11月11日判定，密西西比州Scott Colom击败共和党现任参议员Cindy Hyde-Smith，为民主党新增一席。",
+        "evidence": [
+          {
+            "source_id": "E005-S2",
+            "quote": "Scott Colom (D) won the Mississippi U.S. Senate election, a Democratic gain.",
+            "locator": "Latest calls参院时间线：11月3日、11月11日"
+          },
+          {
+            "source_id": "E005-S2",
+            "quote": "Incumbent Cindy Hyde-Smith (R) was defeated."
+          }
+        ],
+        "attrs": {
+          "time": [
+            "2026-11-11（胜选判定）"
+          ],
+          "place": [
+            "密西西比州"
+          ],
+          "actors": [
+            "Scott Colom",
+            "Cindy Hyde-Smith"
+          ]
+        }
+      },
+      {
+        "id": "E005-F4",
+        "text": "PNC经济研究团队认为，民主党控制两院而特朗普仍掌握行政部门，将使重大立法需要跨党谈判，民主党也不足以单独推翻总统否决。",
+        "evidence": [
+          {
+            "source_id": "E005-S3",
+            "quote": "All legislation will thus require some amount of bipartisan negotiation between the Democrat-controlled legislature and the Republican presidency.",
+            "locator": "PDF第2页"
+          }
+        ],
+        "attrs": {
+          "scope": [
+            "PNC经济研究分析，不是已经发生的政策结果"
+          ]
+        }
+      },
+      {
+        "id": "E005-F5",
+        "text": "美联社报道，Chris Van Hollen于11月12日宣布挑战Chuck Schumer，争夺下一届参院民主党领袖，党内秘密投票将在12月上旬举行。",
+        "evidence": [
+          {
+            "source_id": "E005-S4",
+            "quote": "The closed-door, secret-ballot election will be held in early December."
+          },
+          {
+            "source_id": "E005-S4",
+            "quote": "setting up a challenge to Democratic Leader Chuck Schumer"
+          }
+        ],
+        "attrs": {
+          "time": [
+            "2026-11-12（宣布）",
+            "2026年12月上旬（拟投票）"
+          ],
+          "actors": [
+            "Chris Van Hollen",
+            "Chuck Schumer"
+          ]
+        }
+      }
+    ],
+    "sources": [
+      {
+        "id": "E005-S1",
+        "title": "Election results and voting information",
+        "publisher": "美国联邦选举委员会 FEC",
+        "url": "https://www.fec.gov/introduction-campaign-finance/election-results-and-voting-information/"
+      },
+      {
+        "id": "E005-S2",
+        "title": "Election results, 2026: U.S. Congress（席位表及关键州判定时间线）",
+        "publisher": "Ballotpedia",
+        "url": "https://ballotpedia.org/Election_results,_2026:_U.S._Congress"
+      },
+      {
+        "id": "E005-S3",
+        "title": "2026 Midterm elections: Implications of a divided government（第1—2页）",
+        "publisher": "PNC Economics Research",
+        "url": "https://www.pnc.com/content/dam/pnc-com/pdf/aboutpnc/EconomicReports/EconomicUpdates/2026/PNC_Econ_Research_2026_Midterms.pdf#page=1",
+        "published_at": "2026-11-06"
+      },
+      {
+        "id": "E005-S4",
+        "title": "Van Hollen to challenge Schumer for Senate Democratic leader",
+        "publisher": "美联社 AP",
+        "url": "https://apnews.com/article/6d74c189cb6c065c9a810a1cf1a53436",
+        "published_at": "2026-11-13"
+      }
+    ]
+  },
+  {
+    "id": "E006",
+    "title": "美以伊冲突：开战、停战安排与巴林交火",
+    "category": "国际",
+    "summary": "美以2026年2月打击伊朗，6月美伊宣布达成停战谅解备忘录。11月又出现巴林方向无人机交火及相互矛盾的雷达战果说法。",
+    "note": "宣布达成备忘录不等于全面和平；美伊战果说法均注明归属，不作为独立核实结论。",
+    "as_of": "2026-11-14",
+    "questions": [],
+    "facts": [
+      {
+        "id": "E006-F1",
+        "text": "中国外交部2026年2月28日就美以对伊朗军事打击作出回应，呼吁停止军事行动、恢复谈判。",
+        "evidence": [
+          {
+            "source_id": "E006-S1",
+            "quote": "中方呼吁立即停止军事行动，避免紧张事态进一步升级，恢复对话谈判，维护中东地区和平稳定。"
+          }
+        ],
+        "attrs": {
+          "time": [
+            "2026-02-28"
+          ],
+          "actors": [
+            "美国",
+            "以色列",
+            "伊朗",
+            "中国外交部"
+          ]
+        }
+      },
+      {
+        "id": "E006-F2",
+        "text": "新华社6月15日报道，美伊于6月14日宣布达成停战谅解备忘录，伊方称计划19日正式签署。",
+        "evidence": [
+          {
+            "source_id": "E006-S2",
+            "quote": "美国和伊朗14日宣布达成停战谅解备忘录。"
+          },
+          {
+            "source_id": "E006-S2",
+            "quote": "并计划于19日正式签署"
+          }
+        ],
+        "attrs": {
+          "time": [
+            "2026-06-14（宣布）",
+            "2026-06-19（当时计划签署）"
+          ],
+          "scope": [
+            "报道当时的宣布及计划，不作为签署完成证明"
+          ]
+        }
+      },
+      {
+        "id": "E006-F3",
+        "text": "美联社11月13日报道，美军称拦截飞向巴林的2架伊朗攻击无人机，中央司令部称未造成人员受伤或损坏。",
+        "evidence": [
+          {
+            "source_id": "E006-S3",
+            "quote": "CENTCOM, the U.S. command center covering the region, said there were no injuries or damage."
+          },
+          {
+            "source_id": "E006-S3",
+            "quote": "it intercepted two Iranian attack drones headed toward Bahrain"
+          }
+        ],
+        "attrs": {
+          "time": [
+            "2026-11-13"
+          ],
+          "place": [
+            "巴林方向"
+          ],
+          "actors": [
+            "美国中央司令部"
+          ],
+          "scope": [
+            "美方陈述"
+          ]
+        }
+      },
+      {
+        "id": "E006-F4",
+        "text": "同日报道，伊朗革命卫队声称击中巴林一处美军预警雷达，美军否认这一战果主张。",
+        "evidence": [
+          {
+            "source_id": "E006-S3",
+            "quote": "denying Iran's claim that it had struck a U.S. radar system in the kingdom."
+          }
+        ],
+        "attrs": {
+          "time": [
+            "2026-11-13"
+          ],
+          "place": [
+            "巴林"
+          ],
+          "actors": [
+            "伊朗革命卫队",
+            "美国军方"
+          ],
+          "scope": [
+            "双方存在争议的战果主张"
+          ]
+        }
+      }
+    ],
+    "sources": [
+      {
+        "id": "E006-S1",
+        "title": "外交部发言人就美国和以色列军事打击伊朗答记者问",
+        "publisher": "中国外交部",
+        "url": "https://www.fmprc.gov.cn/fyrbt_673021/dhdw_673027/202602/t20260228_11866533.shtml",
+        "published_at": "2026-02-28"
+      },
+      {
+        "id": "E006-S2",
+        "title": "综合消息｜国际社会呼吁全面落实美伊谅解备忘录",
+        "publisher": "新华社",
+        "url": "https://www.xinhuanet.com/20260615/dd5accc5ffae4ab2a81a359f9f575414/c.html",
+        "published_at": "2026-06-15"
+      },
+      {
+        "id": "E006-S3",
+        "title": "CENTCOM denies Iran's claim of striking US radar in Bahrain and other Mideast news",
+        "publisher": "美联社 AP",
+        "url": "https://apnews.com/article/iran-us-bahrain-radar-strait-hormuz-5d73a23b5b8647d2515c35b267b36c08",
+        "published_at": "2026-11-13"
+      }
+    ]
+  },
+  {
+    "id": "E007",
+    "title": "2026年欧洲主权债务压力",
+    "category": "金融",
+    "summary": "欧盟统计局公布2026年第二季度债务比例上升，希腊、意大利、法国处于较高水平；同期发布的2025年度赤字数据采用不同统计期间和欧元区范围。",
+    "note": "季度债务存量与年度赤字流量不同；欧元区21国与20国口径不同，高债务不能直接写成已违约。",
+    "as_of": "2026-11-14",
+    "questions": [],
+    "facts": [
+      {
+        "id": "E007-F1",
+        "text": "2026年第二季度欧元区21国政府债务占GDP比重为88.8%，高于上季88.4%。",
+        "evidence": [
+          {
+            "source_id": "E007-S1",
+            "quote": "the general government gross debt to GDP ratio in the euro area (EA21) stood at 88.8%, an increase compared with 88.4%"
+          }
+        ],
+        "attrs": {
+          "time": [
+            "2026年第二季度"
+          ],
+          "scope": [
+            "欧元区21国政府债务占GDP比例"
+          ]
+        }
+      },
+      {
+        "id": "E007-F2",
+        "text": "同季欧盟政府债务占GDP比重由上季82.5%升至82.9%。",
+        "evidence": [
+          {
+            "source_id": "E007-S1",
+            "quote": "In the EU, the ratio also increased from 82.5% to 82.9%."
+          }
+        ],
+        "attrs": {
+          "time": [
+            "2026年第二季度"
+          ],
+          "scope": [
+            "欧盟整体"
+          ]
+        }
+      },
+      {
+        "id": "E007-F3",
+        "text": "同期希腊、意大利、法国政府债务占GDP比重分别为140.8%、139.9%、119.1%。",
+        "evidence": [
+          {
+            "source_id": "E007-S1",
+            "quote": "Greece (140.8%), Italy (139.9%), France (119.1%)"
+          }
+        ],
+        "attrs": {
+          "time": [
+            "2026年第二季度"
+          ],
+          "place": [
+            "希腊",
+            "意大利",
+            "法国"
+          ]
+        }
+      },
+      {
+        "id": "E007-F4",
+        "text": "欧盟统计局同日发布的年度通知显示，2025年欧元区20国财政赤字占GDP的3.0%，欧盟为3.1%。",
+        "evidence": [
+          {
+            "source_id": "E007-S2",
+            "quote": "In the euro area (EA20) the government deficit to GDP ratio remained unchanged at 3.0% in 2024 and 2025. In the EU, it also remained unchanged at 3.1%"
+          }
+        ],
+        "attrs": {
+          "time": [
+            "2025年"
+          ],
+          "scope": [
+            "年度赤字比例，欧元区20国及欧盟"
+          ]
+        }
+      }
+    ],
+    "sources": [
+      {
+        "id": "E007-S1",
+        "title": "Government debt at 88.8% of GDP in euro area",
+        "publisher": "欧盟统计局 Eurostat",
+        "url": "https://ec.europa.eu/eurostat/en/web/products-euro-indicators/w/2-21102026-bp",
+        "published_at": "2026-10-21"
+      },
+      {
+        "id": "E007-S2",
+        "title": "Euro area government deficit at 3.0% and EU at 3.1% of GDP",
+        "publisher": "欧盟统计局 Eurostat",
+        "url": "https://ec.europa.eu/eurostat/en/web/products-euro-indicators/w/2-21102026-ap",
+        "published_at": "2026-10-21"
+      }
+    ]
+  },
+  {
+    "id": "E008",
+    "title": "马杜罗夫妇被带往美国及首次出庭",
+    "category": "政治",
+    "summary": "美方在加拉加斯抓捕马杜罗夫妇并将其置于美国羁押。中方要求释放；二人在纽约首次出庭时均作不认罪答辩。",
+    "note": "美方行动记载、中方立场与刑事程序分开；羁押和刑事指控不等于定罪。",
+    "as_of": "2026-11-14",
+    "questions": [],
+    "facts": [
+      {
+        "id": "E008-F1",
+        "text": "美国司法部下属缉毒局文件记载，2026年1月3日美方行动在加拉加斯抓捕马杜罗及其妻子Cilia Flores，并将二人置于美国羁押。",
+        "evidence": [
+          {
+            "source_id": "E008-S1",
+            "quote": "On January 3, 2026, a combined U.S. operation resulted in the arrest of Nicolás Maduro Moros, President of Venezuela, and his wife, Cilia Flores in Caracas, Venezuela.",
+            "locator": "PDF第7页（印刷页5）"
+          },
+          {
+            "source_id": "E008-S1",
+            "quote": "Both are now in U.S. custody",
+            "locator": "PDF第7页"
+          }
+        ],
+        "attrs": {
+          "time": [
+            "2026-01-03"
+          ],
+          "place": [
+            "委内瑞拉加拉加斯"
+          ],
+          "actors": [
+            "Nicolás Maduro",
+            "Cilia Flores"
+          ]
+        }
+      },
+      {
+        "id": "E008-F2",
+        "text": "中国外交部1月4日要求美方确保马杜罗夫妇安全并立即释放，反对强行控制及移送出境。",
+        "evidence": [
+          {
+            "source_id": "E008-S2",
+            "quote": "立即释放马杜罗总统和夫人，停止颠覆委内瑞拉政权，通过对话谈判解决问题。"
+          }
+        ],
+        "attrs": {
+          "time": [
+            "2026-01-04"
+          ],
+          "actors": [
+            "中国外交部"
+          ]
+        }
+      },
+      {
+        "id": "E008-F3",
+        "text": "2026年1月5日，马杜罗与妻子在纽约曼哈顿联邦法院首次出庭，二人均作不认罪答辩。",
+        "evidence": [
+          {
+            "source_id": "E008-S3",
+            "quote": "She also pleaded not guilty."
+          },
+          {
+            "source_id": "E008-S3",
+            "quote": "pleaded not guilty Monday to federal drug trafficking charges"
+          },
+          {
+            "source_id": "E008-S3",
+            "quote": "Maduro’s court appearance in Manhattan, his first since he and his wife, Cilia Flores"
+          }
+        ],
+        "attrs": {
+          "time": [
+            "2026-01-05"
+          ],
+          "place": [
+            "纽约曼哈顿联邦法院"
+          ],
+          "actors": [
+            "马杜罗",
+            "Cilia Flores"
+          ],
+          "scope": [
+            "首次出庭答辩，不是判决"
+          ]
+        }
+      }
+    ],
+    "sources": [
+      {
+        "id": "E008-S1",
+        "title": "FY 2027 Drug Enforcement Administration Congressional Budget Justification",
+        "publisher": "美国司法部｜缉毒局 DEA",
+        "url": "https://www.justice.gov/jmd/media/1434526/dl?inline="
+      },
+      {
+        "id": "E008-S2",
+        "title": "外交部发言人就美国强行控制委内瑞拉总统马杜罗夫妇答记者问",
+        "publisher": "中国外交部",
+        "url": "https://www.fmprc.gov.cn/fyrbt_673021/dhdw_673027/202601/t20260104_11797356.shtml",
+        "published_at": "2026-01-04"
+      },
+      {
+        "id": "E008-S3",
+        "title": "Maduro says 'I was captured' as he pleads not guilty to drug trafficking charges",
+        "publisher": "美联社｜News4JAX转载",
+        "url": "https://www.news4jax.com/news/world/2026/01/05/maduro-is-set-to-make-his-first-appearance-in-a-us-courtroom-on-drug-trafficking-charges/",
+        "published_at": "2026-01-05"
+      }
+    ]
+  },
+  {
+    "id": "E009",
+    "title": "OpenClaw、Moltbook：更名、数据暴露与收购",
+    "category": "科技",
+    "summary": "OpenClaw是个人AI代理平台，Moltbook是代理社交平台。后者遭披露数据库暴露及人工操控风险，3月又传出被Meta收购。",
+    "note": "代理令牌数不等于自然人用户数；帖子可以被人工控制，不能据其内容认定AI产生自主意识。",
+    "as_of": "2026-11-14",
+    "questions": [],
+    "facts": [
+      {
+        "id": "E009-F1",
+        "text": "Peter Steinberger于2026年1月29日宣布项目使用OpenClaw新名称，介绍了Clawd、Moltbot到OpenClaw的更名过程。",
+        "evidence": [
+          {
+            "source_id": "E009-S1",
+            "quote": "The journey from Clawd to Moltbot to OpenClaw"
+          }
+        ],
+        "attrs": {
+          "time": [
+            "2026-01-29"
+          ],
+          "actors": [
+            "Peter Steinberger"
+          ]
+        }
+      },
+      {
+        "id": "E009-F2",
+        "text": "Wiz于2月2日披露，Moltbook数据库配置问题暴露150万个API认证令牌、3.5万个电子邮箱及代理间私信。",
+        "evidence": [
+          {
+            "source_id": "E009-S2",
+            "quote": "The exposure included 1.5 million API authentication tokens, 35,000 email addresses, and private messages between agents."
+          }
+        ],
+        "attrs": {
+          "time": [
+            "2026-02-02（披露）"
+          ],
+          "scope": [
+            "Wiz安全调查结果"
+          ]
+        }
+      },
+      {
+        "id": "E009-F3",
+        "text": "Wiz称，Moltbook团队在接到披露后数小时内修复数据库问题。",
+        "evidence": [
+          {
+            "source_id": "E009-S2",
+            "quote": "We immediately disclosed the issue to the Moltbook team, who secured it within hours with our assistance"
+          }
+        ],
+        "attrs": {
+          "scope": [
+            "Wiz对修复过程的陈述"
+          ]
+        }
+      },
+      {
+        "id": "E009-F4",
+        "text": "Wiz调查指出，人类可通过简单POST请求伪装成AI代理发帖，平台当时没有验证发帖者是否为AI的机制。",
+        "evidence": [
+          {
+            "source_id": "E009-S2",
+            "quote": "The platform had no mechanism to verify whether an \"agent\" was actually AI or just a human with a script."
+          }
+        ],
+        "attrs": {
+          "scope": [
+            "当时的平台机制与操控风险"
+          ]
+        }
+      },
+      {
+        "id": "E009-F5",
+        "text": "TechCrunch于2026年3月10日报道，Meta收购Moltbook。",
+        "evidence": [
+          {
+            "source_id": "E009-S3",
+            "quote": "Meta acquired Moltbook"
+          }
+        ],
+        "attrs": {
+          "time": [
+            "2026-03-10（报道）"
+          ],
+          "actors": [
+            "Meta",
+            "Moltbook"
+          ]
+        }
+      }
+    ],
+    "sources": [
+      {
+        "id": "E009-S1",
+        "title": "Introducing OpenClaw",
+        "publisher": "Peter Steinberger｜OpenClaw项目",
+        "url": "https://openclaw.ai/blog/introducing-openclaw",
+        "published_at": "2026-01-29"
+      },
+      {
+        "id": "E009-S2",
+        "title": "Hacking Moltbook: The AI Social Network Any Human Can Control",
+        "publisher": "Wiz Research",
+        "url": "https://www.wiz.io/blog/exposed-moltbook-database-reveals-millions-of-api-keys",
+        "published_at": "2026-02-02"
+      },
+      {
+        "id": "E009-S3",
+        "title": "Meta收购Moltbook（TechCrunch报道）",
+        "publisher": "TechCrunch",
+        "url": "https://techcrunch.com/2026/03/10/meta-acquired-moltbook-the-ai-agent-social-network-that-went-viral-because-of-fake-posts/",
+        "published_at": "2026-03-10"
+      }
+    ]
+  },
+  {
+    "id": "E010",
+    "title": "张雪峰离世及疑似医疗文件泄露后续",
+    "category": "教育",
+    "summary": "公司讣告公布张雪峰在苏州离世及心源性猝死表述。次日有关疑似医疗文件泄露的报道引发关注，苏州卫健委回应已在处理。",
+    "note": "死因按公开讣告表述；不依靠疑似泄露材料补写病程，也不把已关注处理写成责任查明。",
+    "as_of": "2026-11-14",
+    "questions": [],
+    "facts": [
+      {
+        "id": "E010-F1",
+        "text": "公司讣告确认，张雪峰于2026年3月24日15时50分在苏州逝世。",
+        "evidence": [
+          {
+            "source_id": "E010-S1",
+            "quote": "于2026年3月24日15时50分在苏州逝世。"
+          }
+        ],
+        "attrs": {
+          "time": [
+            "2026-03-24 15:50"
+          ],
+          "place": [
+            "苏州"
+          ],
+          "actors": [
+            "张雪峰"
+          ]
+        }
+      },
+      {
+        "id": "E010-F2",
+        "text": "苏州峰学蔚来教育科技有限公司讣告将张雪峰死因表述为心源性猝死、全力抢救无效。",
+        "evidence": [
+          {
+            "source_id": "E010-S1",
+            "quote": "因心源性猝死全力抢救无效"
+          }
+        ],
+        "attrs": {
+          "actors": [
+            "苏州峰学蔚来教育科技有限公司"
+          ],
+          "scope": [
+            "公司公开讣告表述"
+          ]
+        }
+      },
+      {
+        "id": "E010-F3",
+        "text": "3月25日，新黄河记者就疑似医疗文件泄露联系苏州卫健委，获回应称已关注并正在处理。",
+        "evidence": [
+          {
+            "source_id": "E010-S2",
+            "quote": "领导已关注此事并正在处理。"
+          }
+        ],
+        "attrs": {
+          "time": [
+            "2026-03-25"
+          ],
+          "actors": [
+            "苏州市卫生健康委员会"
+          ],
+          "scope": [
+            "工作人员向记者的回应"
+          ]
+        }
+      }
+    ],
+    "sources": [
+      {
+        "id": "E010-S1",
+        "title": "张雪峰因心源性猝死全力抢救无效去世",
+        "publisher": "新华社官方账号｜新浪刊载；原发布方为峰学蔚来",
+        "url": "https://news.sina.com.cn/c/2026-03-24/doc-inhscaeu4179482.shtml",
+        "published_at": "2026-03-24"
+      },
+      {
+        "id": "E010-S2",
+        "title": "张雪峰医疗文件疑遭泄露？苏州市卫生健康委员会：已关注到此事并在处理",
+        "publisher": "新黄河（济南时报）",
+        "url": "https://www.jinantimes.com.cn/news-7-5233797.html",
+        "published_at": "2026-03-25"
+      }
+    ]
+  },
+  {
+    "id": "E011",
+    "title": "加沙近况：停火后伤亡与暴雨救援",
+    "category": "国际",
+    "summary": "OCHA报告显示，加沙停火后仍有伤亡。11月暴雨损坏安置点，大量家庭需要避难物资，而已采购帐篷仍滞留境外。",
+    "note": "伤亡为OCHA转引加沙卫生部门，并非全部独立核实；暴雨需求属初步评估，境外待运物资不等于已送达。",
+    "as_of": "2026-11-14",
+    "questions": [],
+    "facts": [
+      {
+        "id": "E011-F1",
+        "text": "OCHA转引加沙卫生部门数据，2026年10月27日至11月2日，加沙报告36人死亡、145人受伤。",
+        "evidence": [
+          {
+            "source_id": "E011-S1",
+            "quote": "36 Palestinians were reported killed and 145 injured between 27 October and 2 November"
+          }
+        ],
+        "attrs": {
+          "time": [
+            "2026-10-27至2026-11-02"
+          ],
+          "place": [
+            "加沙"
+          ],
+          "scope": [
+            "OCHA转引加沙卫生部门报告"
+          ]
+        }
+      },
+      {
+        "id": "E011-F2",
+        "text": "OCHA在统计期为2026年10月27日至11月2日的报告中，转引加沙卫生部门停火以来累计1593人死亡、5748人受伤的数据。",
+        "evidence": [
+          {
+            "source_id": "E011-S1",
+            "quote": "since the ceasefire agreement to 1,593 fatalities and 5,748 injuries."
+          }
+        ],
+        "attrs": {
+          "time": [
+            "2026-11-02（报告统计期末）"
+          ],
+          "scope": [
+            "转引加沙卫生部门；停火以来累计，不与单周数据相加"
+          ]
+        }
+      },
+      {
+        "id": "E011-F3",
+        "text": "OCHA暴雨简报称，222处安置点的逾2万户家庭需要避难设施和非食品物资支持，数字仍为初步评估。",
+        "evidence": [
+          {
+            "source_id": "E011-S2",
+            "quote": "more than 20,000 households across 222 sites, severely affected by the heavy rain, need shelter and non-food items support"
+          },
+          {
+            "source_id": "E011-S2",
+            "quote": "These figures are preliminary and are subject to assessments and verification."
+          }
+        ],
+        "attrs": {
+          "time": [
+            "2026-11-08报告"
+          ],
+          "place": [
+            "加沙"
+          ],
+          "scope": [
+            "初步需求评估"
+          ]
+        }
+      },
+      {
+        "id": "E011-F4",
+        "text": "暴雨简报称，超过15万顶由人道伙伴及成员国采购的帐篷仍在加沙境外等待发运。",
+        "evidence": [
+          {
+            "source_id": "E011-S2",
+            "quote": "Over 150,000 tents purchased by humanitarian partners and Member States are outside Gaza ready to be dispatched."
+          }
+        ],
+        "attrs": {
+          "time": [
+            "2026-11-08报告"
+          ],
+          "scope": [
+            "境外待运，非已送达数量"
+          ]
+        }
+      }
+    ],
+    "sources": [
+      {
+        "id": "E011-S1",
+        "title": "Humanitarian Situation Report | 5 November 2026",
+        "publisher": "联合国人道事务协调厅 OCHA",
+        "url": "https://www.ochaopt.org/content/humanitarian-situation-report-5-november-2026",
+        "published_at": "2026-11-06"
+      },
+      {
+        "id": "E011-S2",
+        "title": "Humanitarian Situation Report: Heavy Rains in the Gaza Strip | 8 November 2026",
+        "publisher": "联合国人道事务协调厅 OCHA",
+        "url": "https://www.ochaopt.org/content/humanitarian-situation-report-heavy-rains-gaza-strip-8-november-2026",
+        "published_at": "2026-11-09"
+      }
+    ]
+  },
+  {
+    "id": "E012",
+    "title": "TikTok在美停服、恢复与合资公司成立",
+    "category": "科技",
+    "summary": "TikTok于2025年1月在美国短暂停服后恢复。2026年1月公司宣布美国合资架构，公布负责人、持股比例以及数据和算法安全安排。",
+    "note": "2025年停服恢复与2026年合资公司成立相隔约一年；股权与治理安排按公司公告表述。",
+    "as_of": "2026-11-14",
+    "questions": [],
+    "facts": [
+      {
+        "id": "E012-F1",
+        "text": "TikTok于美国当地时间2025年1月18日晚发布通知，因19日起生效的禁令暂时停止美国服务。",
+        "evidence": [
+          {
+            "source_id": "E012-S1",
+            "quote": "TikTok当地时间18日晚发布通知，由于美官方禁令19日起生效，美国用户将暂时无法使用该平台服务。"
+          }
+        ],
+        "attrs": {
+          "time": [
+            "2025-01-18晚（美国当地时间）"
+          ],
+          "place": [
+            "美国"
+          ]
+        }
+      },
+      {
+        "id": "E012-F2",
+        "text": "2025年1月19日，TikTok宣布开始恢复美国服务。",
+        "evidence": [
+          {
+            "source_id": "E012-S2",
+            "quote": "in the process of restoring service"
+          }
+        ],
+        "attrs": {
+          "time": [
+            "2025-01-19（美国当地时间）"
+          ]
+        }
+      },
+      {
+        "id": "E012-F3",
+        "text": "2026年1月23日的合资公司公告称，TikTok USDS Joint Venture由Adam Presser担任CEO。",
+        "evidence": [
+          {
+            "source_id": "E012-S3",
+            "quote": "The Joint Venture will be led by Adam Presser"
+          }
+        ],
+        "attrs": {
+          "time": [
+            "2026-01-23"
+          ],
+          "actors": [
+            "TikTok USDS Joint Venture LLC",
+            "Adam Presser"
+          ]
+        }
+      },
+      {
+        "id": "E012-F4",
+        "text": "公告列明，字节跳动持股19.9%，Oracle、Silver Lake和MGX各持15%。",
+        "evidence": [
+          {
+            "source_id": "E012-S3",
+            "quote": "Silver Lake, Oracle and MGX, each holding 15%"
+          },
+          {
+            "source_id": "E012-S3",
+            "quote": "ByteDance retains 19.9% of the Joint Venture."
+          }
+        ],
+        "attrs": {
+          "actors": [
+            "字节跳动",
+            "Oracle",
+            "Silver Lake",
+            "MGX"
+          ],
+          "scope": [
+            "合资公司股权安排"
+          ]
+        }
+      },
+      {
+        "id": "E012-F5",
+        "text": "公告称，美国用户数据将在Oracle美国云中保护，合资公司将以美国用户数据重新训练、测试及更新推荐算法。",
+        "evidence": [
+          {
+            "source_id": "E012-S3",
+            "quote": "The Joint Venture will retrain, test, and update the content recommendation algorithm on U.S. user data."
+          },
+          {
+            "source_id": "E012-S3",
+            "quote": "U.S. user data will be protected by USDS Joint Venture in Oracle's secure U.S. cloud environment."
+          }
+        ],
+        "attrs": {
+          "scope": [
+            "公司公布的数据及算法治理安排"
+          ]
+        }
+      }
+    ],
+    "sources": [
+      {
+        "id": "E012-S1",
+        "title": "TikTok暂停在美服务",
+        "publisher": "新华社",
+        "url": "https://www.news.cn/20250119/17108cde69b84a79a9b7672715e8609c/c.html",
+        "published_at": "2025-01-19"
+      },
+      {
+        "id": "E012-S2",
+        "title": "TikTok恢复服务声明（2025年1月19日）",
+        "publisher": "TikTok Policy官方账号",
+        "url": "https://www.cbsnews.com/news/tiktok-voluntarily-shuts-down-in-u-s-divest-or-ban-law-set-to-take-effect/",
+        "published_at": "2025-01-19"
+      },
+      {
+        "id": "E012-S3",
+        "title": "Announcement from the new TikTok USDS Joint Venture LLC",
+        "publisher": "TikTok｜TikTok USDS Joint Venture LLC",
+        "url": "https://newsroom.tiktok.com/announcement-from-the-new-tiktok-usds-joint-venture-llc?lang=en",
+        "published_at": "2026-01-23"
+      }
+    ]
+  },
+  {
+    "id": "E013",
+    "title": "全国育儿补贴：金额、续领与首次申请延期",
+    "category": "民生",
+    "summary": "全国育儿补贴对符合条件的3岁以下婴幼儿按年发放，国家基础标准为每孩每年3600元。2026年增加续领功能，并延长部分较早出生婴幼儿首次申请期限。",
+    "note": "每年3600元不是每月；首次申请延期、年度续领和补贴提标是不同事项。",
+    "as_of": "2026-11-14",
+    "questions": [],
+    "facts": [
+      {
+        "id": "E013-F1",
+        "text": "方案规定，自2025年1月1日起，对符合法律法规规定生育的3周岁以下婴幼儿发放补贴，至年满3周岁。",
+        "evidence": [
+          {
+            "source_id": "E013-S1",
+            "quote": "从2025年1月1日起，对符合法律法规规定生育的3周岁以下婴幼儿发放补贴，至其年满3周岁。"
+          }
+        ],
+        "attrs": {
+          "time": [
+            "2025-01-01起"
+          ],
+          "scope": [
+            "符合生育规定的3周岁以下婴幼儿"
+          ]
+        }
+      },
+      {
+        "id": "E013-F2",
+        "text": "育儿补贴按年发放，国家基础标准为每孩每年3600元；2025年前出生且未满3岁的按应补贴月数折算。",
+        "evidence": [
+          {
+            "source_id": "E013-S1",
+            "quote": "育儿补贴按年发放，现阶段国家基础标准为每孩每年3600元。"
+          },
+          {
+            "source_id": "E013-S1",
+            "quote": "对2025年1月1日之前出生、不满3周岁的婴幼儿，按应补贴月数折算计发补贴。"
+          }
+        ],
+        "attrs": {
+          "amount": [
+            "每孩每年3600元"
+          ],
+          "scope": [
+            "国家基础标准；特定出生日期按月折算"
+          ]
+        }
+      },
+      {
+        "id": "E013-F3",
+        "text": "2026年度补贴于1月5日全面开放申领；2025年已申领且继续符合条件者可续领，信息不变可一键办理。",
+        "evidence": [
+          {
+            "source_id": "E013-S2",
+            "quote": "如果信息没有变化，可直接一键续领操作，简化申领流程。"
+          },
+          {
+            "source_id": "E013-S2",
+            "quote": "2026年育儿补贴5日起已全面开放申领。"
+          }
+        ],
+        "attrs": {
+          "time": [
+            "2026-01-05起"
+          ],
+          "scope": [
+            "上一年度已申领、当年继续符合条件"
+          ]
+        }
+      },
+      {
+        "id": "E013-F4",
+        "text": "2026年7月政策将2022—2024年出生、符合条件婴幼儿的首次申请截止时间延至2026年12月31日。",
+        "evidence": [
+          {
+            "source_id": "E013-S4",
+            "quote": "将2022—2024年出生婴幼儿的首次育儿补贴申请截止时间延长至2026年12月31日。"
+          }
+        ],
+        "attrs": {
+          "time": [
+            "2026-12-31（截止）"
+          ],
+          "scope": [
+            "符合条件且此前未及时首次申请的2022—2024年出生婴幼儿"
+          ]
+        }
+      },
+      {
+        "id": "E013-F5",
+        "text": "国家卫健委有关负责人在人民日报解读中说明，延期申请的补贴标准与常规申请一致。",
+        "evidence": [
+          {
+            "source_id": "E013-S4",
+            "quote": "补贴标准与常规申请补贴标准一致。"
+          }
+        ],
+        "attrs": {
+          "scope": [
+            "延长申请期限，没有在该项通知中提高基础标准"
+          ]
+        }
+      }
+    ],
+    "sources": [
+      {
+        "id": "E013-S1",
+        "title": "中共中央办公厅、国务院办公厅印发《育儿补贴制度实施方案》",
+        "publisher": "中办、国办｜北京市政府网站转载",
+        "url": "https://www.beijing.gov.cn/zhengce/zhengcefagui/202507/t20250730_4161880.html",
+        "published_at": "2025-07-28"
+      },
+      {
+        "id": "E013-S2",
+        "title": "2026年育儿补贴1月5日起已全面开放申领",
+        "publisher": "新华社｜司法部智慧普法平台转载",
+        "url": "https://legalinfo.moj.gov.cn/zhfxfzzx/fzzxyw/202601/t20260106_530207.html",
+        "published_at": "2026-01-06"
+      },
+      {
+        "id": "E013-S4",
+        "title": "二〇二六年度育儿补贴已发放两千五百余万人",
+        "publisher": "人民日报",
+        "url": "https://cpc.people.com.cn/n1/2026/0722/c64387-40765504.html",
+        "published_at": "2026-07-22"
+      }
+    ]
+  },
+  {
+    "id": "E014",
+    "title": "韩国戒严案：罢免、一审与二审排期",
+    "category": "政治",
+    "summary": "韩国戒严事件后，尹锡悦被罢免并面临不同刑事案件。妨碍逮捕案7年刑期已获终审维持，内乱案一审无期徒刑，二审求刑及宣判排期另行推进。",
+    "note": "罢免、妨碍逮捕案、内乱案属于不同程序；检方求刑不等于判决，2027年二审排期尚未发生。",
+    "as_of": "2026-11-14",
+    "questions": [],
+    "facts": [
+      {
+        "id": "E014-F1",
+        "text": "韩国宪法法院于2025年4月4日在2024Hun-Na8案裁定弹劾成立，将尹锡悦罢免。",
+        "evidence": [
+          {
+            "source_id": "E014-S5",
+            "quote": "upheld (removed from office)",
+            "locator": "Case on Impeachment Trial of President (Yoon Suk Yeol)，2024Hun-Na8条目"
+          },
+          {
+            "source_id": "E014-S5",
+            "quote": "Apr 04, 2025",
+            "locator": "2024Hun-Na8条目的Decision date"
+          }
+        ],
+        "attrs": {
+          "time": [
+            "2025-04-04"
+          ],
+          "actors": [
+            "韩国宪法法院",
+            "尹锡悦"
+          ]
+        }
+      },
+      {
+        "id": "E014-F2",
+        "text": "韩国最高法院2026年7月9日维持尹锡悦妨碍逮捕案二审有期徒刑7年判决。",
+        "evidence": [
+          {
+            "source_id": "E014-S2",
+            "quote": "维持二审有期徒刑7年的判决。"
+          }
+        ],
+        "attrs": {
+          "time": [
+            "2026-07-09"
+          ],
+          "scope": [
+            "妨碍逮捕案终审，不是内乱案刑期"
+          ]
+        }
+      },
+      {
+        "id": "E014-F3",
+        "text": "2026年2月19日，首尔中央地方法院一审认定尹锡悦内乱头目罪成立，判处无期徒刑。",
+        "evidence": [
+          {
+            "source_id": "E014-S3",
+            "quote": "2月19日，韩国首尔中央地方法院一审宣布尹锡悦内乱头目罪罪名成立，判处其无期徒刑。"
+          }
+        ],
+        "attrs": {
+          "time": [
+            "2026-02-19"
+          ],
+          "scope": [
+            "内乱案一审"
+          ]
+        }
+      },
+      {
+        "id": "E014-F4",
+        "text": "2026年10月29日，特别检察组在内乱案二审请求判处尹锡悦死刑。",
+        "evidence": [
+          {
+            "source_id": "E014-S3",
+            "quote": "请求二审法庭判处前总统尹锡悦死刑。"
+          }
+        ],
+        "attrs": {
+          "time": [
+            "2026-10-29"
+          ],
+          "scope": [
+            "检方请求，非法院二审判决"
+          ]
+        }
+      },
+      {
+        "id": "E014-F5",
+        "text": "首尔高等法院2026年11月5日确定，将于2027年1月26日下午2时30分许对内乱案二审宣判。",
+        "evidence": [
+          {
+            "source_id": "E014-S4",
+            "quote": "决定将于明年1月26日下午2时30分许作出宣判。"
+          }
+        ],
+        "attrs": {
+          "time": [
+            "2026-11-05（确定排期）",
+            "2027-01-26 14:30左右（韩国当地时间，拟宣判）"
+          ],
+          "scope": [
+            "未来排期"
+          ]
+        }
+      }
+    ],
+    "sources": [
+      {
+        "id": "E014-S2",
+        "title": "韩国最高法院维持尹锡悦涉嫌妨碍逮捕案二审判决",
+        "publisher": "新华社",
+        "url": "https://www.xinhuanet.com/20260709/d0d5e72a3a3746a7897dae4838a48510/c.html",
+        "published_at": "2026-07-09"
+      },
+      {
+        "id": "E014-S3",
+        "title": "韩国前总统尹锡悦涉“内乱案”二审被求死刑",
+        "publisher": "新华社",
+        "url": "https://www.xinhuanet.com/20261029/37d54996a202492eace99a29ba51a703/c.html",
+        "published_at": "2026-10-29"
+      },
+      {
+        "id": "E014-S4",
+        "title": "尹锡悦带头发动内乱案二审将于明年1月26日宣判",
+        "publisher": "韩联社",
+        "url": "https://cn.yna.co.kr/view/ACK20261105003800881",
+        "published_at": "2026-11-05"
+      },
+      {
+        "id": "E014-S5",
+        "title": "Case on Impeachment Trial of President (Yoon Suk Yeol), 2024Hun-Na8",
+        "publisher": "韩国宪法法院（英文案件检索）",
+        "url": "https://www.ccourt.go.kr/site/eng/decisions/casesearch/caseSearch.do"
+      }
+    ]
+  },
+  {
+    "id": "E015",
+    "title": "2025年美国政府停摆：拨款案如何通过",
+    "category": "政治",
+    "summary": "2025年美国联邦政府因拨款缺口停摆，参院相关程序多次受阻后通过H.R.5371，法案11月12日成法；多数机构获得临时拨款而非完整财年拨款。",
+    "note": "终结辩论动议、参院通过与签署成法分开；临时拨款期限不是永久解决财政分歧。",
+    "as_of": "2026-11-14",
+    "questions": [],
+    "facts": [
+      {
+        "id": "E015-F1",
+        "text": "2025年10月1日，参院以55票赞成、45票反对，未能通过推进H.R.5371的终结辩论动议。",
+        "evidence": [
+          {
+            "source_id": "E015-S1",
+            "quote": "Not invoked, 55-45: Motion to invoke cloture on the motion to proceed to Cal. #168, H.R.5371, Continuing Appropriations and Extensions Act, 2026."
+          }
+        ],
+        "attrs": {
+          "time": [
+            "2025-10-01"
+          ],
+          "scope": [
+            "程序动议未获通过"
+          ]
+        }
+      },
+      {
+        "id": "E015-F2",
+        "text": "参议院2025年11月10日21时26分以60票赞成、40票反对，通过修订后的H.R.5371。",
+        "evidence": [
+          {
+            "source_id": "E015-S2",
+            "quote": "9:26 p.m. By a vote of 60-40, the Senate passed H.R. 5371"
+          }
+        ],
+        "attrs": {
+          "time": [
+            "2025-11-10 21:26（华盛顿当地时间）"
+          ]
+        }
+      },
+      {
+        "id": "E015-F3",
+        "text": "国会研究处回顾确认，总统于2025年11月12日签署H.R.5371，使其成为Public Law 119-37。",
+        "evidence": [
+          {
+            "source_id": "E015-S4",
+            "quote": "On November 12, 2025, the President signed into law H.R. 5371",
+            "locator": "PDF第2页，Summary"
+          }
+        ],
+        "attrs": {
+          "time": [
+            "2025-11-12"
+          ],
+          "scope": [
+            "签署成法日，不是参院通过日"
+          ]
+        }
+      },
+      {
+        "id": "E015-F4",
+        "text": "该法Division A为涉及12项常规拨款法案中9项的机构提供临时拨款至2026年1月30日。",
+        "evidence": [
+          {
+            "source_id": "E015-S4",
+            "quote": "provides continuing appropriations through January 30, 2026, for agencies funded through nine of the 12 regular appropriations bills.",
+            "locator": "PDF第2页，Summary"
+          }
+        ],
+        "attrs": {
+          "time": [
+            "2026-01-30（临时拨款截止）"
+          ],
+          "scope": [
+            "Division A范围，不是所有机构全年拨款"
+          ]
+        }
+      }
+    ],
+    "sources": [
+      {
+        "id": "E015-S1",
+        "title": "Wednesday, October 1, 2025",
+        "publisher": "美国参议院期刊媒体席",
+        "url": "https://www.periodicalpress.senate.gov/wednesday-october-1-20/",
+        "published_at": "2025-10-01"
+      },
+      {
+        "id": "E015-S2",
+        "title": "Monday, November 10, 2025",
+        "publisher": "美国参议院每日新闻席",
+        "url": "https://www.dailypress.senate.gov/monday-november-10-2025/",
+        "published_at": "2025-11-10"
+      },
+      {
+        "id": "E015-S4",
+        "title": "Overview of Continuing Appropriations for FY2026 (Division A of P.L. 119-37)",
+        "publisher": "美国国会研究处 CRS｜EveryCRSReport提供副本",
+        "url": "https://www.everycrsreport.com/files/2025-12-15_R48765_f9ba17e6fe5703377b32e61f1d76e3f3d97be29d.pdf",
+        "published_at": "2025-12-15"
+      }
+    ]
+  },
+  {
+    "id": "E016",
+    "title": "缅北反电诈：押解回国与魏家案一审",
+    "category": "公共安全",
+    "summary": "缅北反电诈涉及跨境押解、全国法院审判统计和多个犯罪集团的个案。魏家系列案于2026年10月一审宣判，涉及重刑及122亿余元涉赌、诈等资金。",
+    "note": "押解人数、全国审判统计与魏家案不能相加；一审判处死刑不等于已执行，涉赌诈资金不是单一诈骗损失。",
+    "as_of": "2026-11-14",
+    "questions": [],
+    "facts": [
+      {
+        "id": "E016-F1",
+        "text": "2024年1月30日，白所成等10名缅北重大犯罪嫌疑人被押解回国，包机降落云南昆明长水机场。",
+        "evidence": [
+          {
+            "source_id": "E016-S1",
+            "quote": "缅方移交的10名重大犯罪嫌疑人被我公安机关成功押解回国。"
+          },
+          {
+            "source_id": "E016-S1",
+            "quote": "降落在云南昆明长水机场"
+          }
+        ],
+        "attrs": {
+          "time": [
+            "2024-01-30"
+          ],
+          "place": [
+            "昆明长水机场"
+          ],
+          "actors": [
+            "白所成等10名嫌疑人"
+          ]
+        }
+      },
+      {
+        "id": "E016-F2",
+        "text": "最高法2026年2月介绍，截至2025年底，全国法院一审审结涉缅北电诈案件2.7万余件，判处回流人员4.1万余人。",
+        "evidence": [
+          {
+            "source_id": "E016-S2",
+            "quote": "截至2025年底，全国法院已一审审结涉缅北电诈犯罪案件2.7万余件，判处缅北电诈回流人员4.1万余人。"
+          }
+        ],
+        "attrs": {
+          "time": [
+            "截至2025年底"
+          ],
+          "scope": [
+            "全国法院司法统计"
+          ]
+        }
+      },
+      {
+        "id": "E016-F3",
+        "text": "2026年10月13日，泉州中院、南安法院一审宣判魏家系列案，魏怀仁、陈大卫、廖景芳3人被判死刑，另3人无期徒刑。",
+        "evidence": [
+          {
+            "source_id": "E016-S3",
+            "quote": "对魏怀仁、陈大卫、廖景芳3名被告人判处死刑；对魏青涛、康敏、熊恒星3名被告人判处无期徒刑"
+          }
+        ],
+        "attrs": {
+          "time": [
+            "2026-10-13"
+          ],
+          "actors": [
+            "泉州市中级人民法院",
+            "南安市人民法院"
+          ],
+          "scope": [
+            "一审判决"
+          ]
+        }
+      },
+      {
+        "id": "E016-F4",
+        "text": "法院查明，魏家集团在果敢老街设立犯罪园区，涉赌、诈等资金122亿余元。",
+        "evidence": [
+          {
+            "source_id": "E016-S3",
+            "quote": "在果敢老街设立多个犯罪园区"
+          },
+          {
+            "source_id": "E016-S3",
+            "quote": "涉赌、诈等资金122亿余元。"
+          }
+        ],
+        "attrs": {
+          "place": [
+            "缅甸果敢老街"
+          ],
+          "amount": [
+            "122亿余元"
+          ],
+          "scope": [
+            "涉赌、诈等资金口径"
+          ]
+        }
+      }
+    ],
+    "sources": [
+      {
+        "id": "E016-S1",
+        "title": "10名缅北重大犯罪嫌疑人被成功押解回国",
+        "publisher": "新华社｜引公安部",
+        "url": "https://www.news.cn/legal/20240130/1242c9cf41814795be29ace7c1a697e3/c.html",
+        "published_at": "2024-01-30"
+      },
+      {
+        "id": "E016-S2",
+        "title": "最高法：全国法院已判处缅北电诈回流人员4.1万余人",
+        "publisher": "中国新闻网｜最高法发布会",
+        "url": "https://www.chinanews.com/sh/2026/02-26/10576831.shtml",
+        "published_at": "2026-02-26"
+      },
+      {
+        "id": "E016-S3",
+        "title": "魏家犯罪集团案一审宣判",
+        "publisher": "泉州中院｜中国长安网刊载",
+        "url": "https://chinapeace.gov.cn/chinapeace/c100049/2026-10/13/content_12859751.shtml",
+        "published_at": "2026-10-13"
+      }
+    ]
+  },
+  {
+    "id": "E017",
+    "title": "单依纯、李荣浩《李白》演唱授权争议",
+    "category": "文娱",
+    "summary": "单依纯深圳演唱会演唱《李白》引发授权争议，李荣浩称事先拒绝授权。单依纯及主办方道歉，并宣布停止后续演出中的该曲表演。",
+    "note": "演出日期采用主办方明确记载的2026年3月28日。3月30日报道所引道歉文使用“昨天的演唱会”，相对日期与主办方公告存在文字矛盾，已保留供人工核对；当事人回应不等于法院判决。",
+    "as_of": "2026-11-14",
+    "questions": [],
+    "facts": [
+      {
+        "id": "E017-F1",
+        "text": "联合主办方公告将涉事演出明确记为2026年3月28日深圳站。",
+        "evidence": [
+          {
+            "source_id": "E017-S2",
+            "quote": "针对2026年3月28日深圳站演出中，单依纯女士表演歌曲《李白》所引发的著作权授权争议"
+          }
+        ],
+        "attrs": {
+          "time": [
+            "2026-03-28（主办方公告明确日期）"
+          ],
+          "place": [
+            "深圳"
+          ],
+          "actors": [
+            "单依纯"
+          ]
+        }
+      },
+      {
+        "id": "E017-F2",
+        "text": "3月29日，李荣浩公开表示，其方面事先已婉拒翻唱授权，认为单依纯仍演唱构成侵权。",
+        "evidence": [
+          {
+            "source_id": "E017-S1",
+            "quote": "在李荣浩方婉拒翻唱授权的情况下，强行侵权演唱《李白》"
+          }
+        ],
+        "attrs": {
+          "time": [
+            "2026-03-29"
+          ],
+          "actors": [
+            "李荣浩"
+          ],
+          "scope": [
+            "李荣浩公开主张"
+          ]
+        }
+      },
+      {
+        "id": "E017-F3",
+        "text": "3月30日公布的道歉中，单依纯承认演出前未核实文件，主办方实际未签署《李白》表演授权。",
+        "evidence": [
+          {
+            "source_id": "E017-S2",
+            "quote": "主办方实际并未签署《李白》的表演授权。"
+          }
+        ],
+        "attrs": {
+          "time": [
+            "2026-03-30（报道）"
+          ],
+          "actors": [
+            "单依纯"
+          ],
+          "scope": [
+            "单依纯对授权审核经过的说明"
+          ]
+        }
+      },
+      {
+        "id": "E017-F4",
+        "text": "联合主办方承认授权审核及落实存在疏漏，叫停后续所有巡演场次的《李白》表演。",
+        "evidence": [
+          {
+            "source_id": "E017-S2",
+            "quote": "我方已第一时间叫停后续所有巡演场次中歌曲《李白》的表演安排"
+          }
+        ],
+        "attrs": {
+          "actors": [
+            "联合主办方"
+          ],
+          "scope": [
+            "后续场次表演安排"
+          ]
+        }
+      },
+      {
+        "id": "E017-F5",
+        "text": "李荣浩回应称不需要赔偿，但表示将依后续舆论保留追究权利。",
+        "evidence": [
+          {
+            "source_id": "E017-S1",
+            "quote": "但我会依据网络舆论，保留我追究的权力。"
+          },
+          {
+            "source_id": "E017-S1",
+            "quote": "至于赔偿我可以在这里告诉你和所有人，我不需要"
+          }
+        ],
+        "attrs": {
+          "actors": [
+            "李荣浩"
+          ],
+          "scope": [
+            "当事人回应，非已达成完整和解"
+          ]
+        }
+      }
+    ],
+    "sources": [
+      {
+        "id": "E017-S1",
+        "title": "单依纯凌晨再道歉，李荣浩回应",
+        "publisher": "每日经济新闻｜转引双方发文",
+        "url": "https://www.nbd.com.cn/articles/2026-03-30/4314643.html",
+        "published_at": "2026-03-30"
+      },
+      {
+        "id": "E017-S2",
+        "title": "单依纯凌晨就侵权道歉，李荣浩回应：我的私信被骂成什么样",
+        "publisher": "羊城晚报·羊城派｜转引主办方说明",
+        "url": "https://ycpai.ycwb.com/content/ikimvkhthk/content_54036856.html?isShare=true",
+        "published_at": "2026-03-30"
+      }
+    ]
+  },
+  {
+    "id": "E018",
+    "title": "赤峰“免费白菜”：网传百万元损失与官方评估",
+    "category": "社会",
+    "summary": "赤峰松山区“免费采捡白菜”不实信息引发群众采捡。种植户曾称损失100万元，后续通报评估为9.52万元，并确认补偿到位、追究传播失实信息责任。",
+    "note": "100万元为当事人此前主张，9.52万元为官方通报采用的评估结果；原有售菜收入不是事件损失。",
+    "as_of": "2026-11-14",
+    "questions": [],
+    "facts": [
+      {
+        "id": "E018-F1",
+        "text": "据联合调查组追溯，2025年11月6日，种植户李某某发布视频，声称损失达100万元。",
+        "evidence": [
+          {
+            "source_id": "E018-S1",
+            "quote": "发布视频称“两天的时间400亩地一扫而空”“损失达100万元”"
+          }
+        ],
+        "attrs": {
+          "time": [
+            "2025-11-06"
+          ],
+          "actors": [
+            "种植户李某某"
+          ],
+          "amount": [
+            "100万元"
+          ],
+          "scope": [
+            "当时的当事人说法"
+          ]
+        }
+      },
+      {
+        "id": "E018-F2",
+        "text": "2025年11月17日的联合调查组通报称，受委托的评估机构测定涉事种植户损失为9.52万元。",
+        "evidence": [
+          {
+            "source_id": "E018-S1",
+            "quote": "测定种植户损失为9.52万元"
+          }
+        ],
+        "attrs": {
+          "time": [
+            "2025-11-17（通报日期）"
+          ],
+          "place": [
+            "内蒙古赤峰市松山区"
+          ],
+          "actors": [
+            "联合调查组",
+            "评估机构"
+          ],
+          "amount": [
+            "9.52万元"
+          ]
+        }
+      },
+      {
+        "id": "E018-F3",
+        "text": "截至11月17日通报发布，涉事种植户补偿已到位。",
+        "evidence": [
+          {
+            "source_id": "E018-S1",
+            "quote": "联合调查组组织相关责任方就补偿事宜达成了一致意见，并已补偿到位。"
+          }
+        ],
+        "attrs": {
+          "time": [
+            "截至2025-11-17"
+          ]
+        }
+      },
+      {
+        "id": "E018-F4",
+        "text": "调查组认定，红山晚报记者未到现场核实，于11月5日上午10时通过官方账号发布免费砍白菜视频，引来更多群众。",
+        "evidence": [
+          {
+            "source_id": "E018-S1",
+            "quote": "在未到现场核实的情况下，于5日上午10时通过官方账号发布题为“继免费捡土豆后又有新惊喜，赤峰一地可免费砍白菜”的视频"
+          }
+        ],
+        "attrs": {
+          "time": [
+            "2025-11-05 10:00"
+          ],
+          "actors": [
+            "红山晚报记者刘某某"
+          ],
+          "scope": [
+            "官方调查认定的信息传播环节"
+          ]
+        }
+      }
+    ],
+    "sources": [
+      {
+        "id": "E018-S1",
+        "title": "赤峰通报免费采捡白菜事件：对相关责任人追责",
+        "publisher": "新华社｜澎湃刊载；原发布方为松山区联合调查组",
+        "url": "https://www.thepaper.cn/newsDetail_forward_31984975",
+        "published_at": "2025-11-17"
+      }
+    ]
+  },
+  {
+    "id": "E019",
+    "title": "武汉大学图书馆事件：二审与撤销处分",
+    "category": "教育",
+    "summary": "武汉大学图书馆纠纷的民事诉讼经二审维持驳回请求，学校撤销男生记过处分；另一项论文复核发现大量不规范，但未发现所列学术不端，维持学位并问责。",
+    "note": "民事判决、学生处分与学位复核分别表述；驳回诉请不等于刑事认定诬告，论文规范问题也不直接等于学术造假。",
+    "as_of": "2026-11-14",
+    "questions": [],
+    "facts": [
+      {
+        "id": "E019-F1",
+        "text": "武汉中院2025年9月17日二审维持一审判决；7月25日武汉经济技术开发区法院已驳回女方全部诉讼请求。",
+        "evidence": [
+          {
+            "source_id": "E019-S2",
+            "quote": "一审判决驳回杨某媛的全部诉讼请求"
+          },
+          {
+            "source_id": "E019-S2",
+            "quote": "2025年9月17日，湖北省武汉市中级人民法院就杨某媛诉肖某瑫性骚扰损害纠纷一案作出二审判决，决定维持一审判决"
+          }
+        ],
+        "attrs": {
+          "time": [
+            "2025-07-25（一审）",
+            "2025-09-17（二审）"
+          ],
+          "actors": [
+            "武汉经济技术开发区人民法院",
+            "武汉市中级人民法院"
+          ]
+        }
+      },
+      {
+        "id": "E019-F2",
+        "text": "武汉大学9月20日通报，决定撤销男生肖某某的记过处分。",
+        "evidence": [
+          {
+            "source_id": "E019-S2",
+            "quote": "决定撤销肖某瑫记过处分。"
+          }
+        ],
+        "attrs": {
+          "time": [
+            "2025-09-20（通报）"
+          ],
+          "actors": [
+            "武汉大学"
+          ]
+        }
+      },
+      {
+        "id": "E019-F3",
+        "text": "学校论文复核未发现抄袭、主观造假、篡改数据、编造结论等行为，但发现百余处不规范问题。",
+        "evidence": [
+          {
+            "source_id": "E019-S2",
+            "quote": "未发现抄袭、主观造假、篡改数据和编造结论等学术不端行为。"
+          },
+          {
+            "source_id": "E019-S2",
+            "quote": "存在百余处不规范问题"
+          }
+        ],
+        "attrs": {
+          "scope": [
+            "校方专家复核结论，同时保留规范问题"
+          ]
+        }
+      },
+      {
+        "id": "E019-F4",
+        "text": "学校根据复核情况，维持授予女生硕士学位的决议。",
+        "evidence": [
+          {
+            "source_id": "E019-S2",
+            "quote": "决定维持授予其硕士学位的决议。"
+          }
+        ],
+        "attrs": {
+          "scope": [
+            "校方学位复核结论"
+          ]
+        }
+      },
+      {
+        "id": "E019-F5",
+        "text": "武汉大学通报，对女生导师进行约谈并暂停研究生招生资格两年。",
+        "evidence": [
+          {
+            "source_id": "E019-S2",
+            "quote": "进行约谈并暂停研究生招生资格两年"
+          }
+        ],
+        "attrs": {
+          "scope": [
+            "导师管理处置"
+          ]
+        }
+      }
+    ],
+    "sources": [
+      {
+        "id": "E019-S2",
+        "title": "武汉大学通报图书馆事件调查复核情况",
+        "publisher": "武汉大学｜新华社刊载",
+        "url": "https://www.xinhuanet.com/politics/20250920/9ebf1e3922b4482581099d8d97bc4145/c.html",
+        "published_at": "2025-09-20"
+      }
+    ]
+  },
+  {
+    "id": "E020",
+    "title": "罗马仕、安克充电宝召回与民航禁带规则",
+    "category": "民生",
+    "summary": "罗马仕、安克于2025年6月召回部分移动电源，安克公告分别列出新增与累计数量。民航局随后规定，无合规标识或属于召回型号批次的充电宝不得带上境内航班。",
+    "note": "新增召回数量与历次累计不同；召回和禁带针对型号、批次及标识，不能扩大为同品牌全部产品。",
+    "as_of": "2026-11-14",
+    "questions": [],
+    "facts": [
+      {
+        "id": "E020-F1",
+        "text": "罗马仕自2025年6月16日起召回部分批次的3款移动电源，共491745台。",
+        "evidence": [
+          {
+            "source_id": "E020-S2",
+            "quote": "三款产品共计491745台。"
+          },
+          {
+            "source_id": "E020-S2",
+            "quote": "自6月16日起，召回2023年6月5日-2024年7月31日期间制造的部分罗马仕ROMOSS牌移动电源"
+          }
+        ],
+        "attrs": {
+          "time": [
+            "2025-06-16起"
+          ],
+          "actors": [
+            "罗马仕"
+          ],
+          "scope": [
+            "2023-06-05至2024-07-31制造的特定批次"
+          ]
+        }
+      },
+      {
+        "id": "E020-F2",
+        "text": "安克2025年6月扩大召回A1642、A1647、A1652三个型号部分批次，本次共387631件。",
+        "evidence": [
+          {
+            "source_id": "E020-S1",
+            "quote": "三款产品共计387631件。"
+          },
+          {
+            "source_id": "E020-S1",
+            "quote": "型号：A1642"
+          },
+          {
+            "source_id": "E020-S1",
+            "quote": "型号：A1647"
+          },
+          {
+            "source_id": "E020-S1",
+            "quote": "型号：A1652"
+          }
+        ],
+        "attrs": {
+          "time": [
+            "2025年6月"
+          ],
+          "actors": [
+            "安克"
+          ],
+          "amount": [
+            "387631件"
+          ],
+          "scope": [
+            "本次扩大召回新增数量"
+          ]
+        }
+      },
+      {
+        "id": "E020-F3",
+        "text": "安克公告说明，连同2024年9月18日既有召回，两次累计392132件。",
+        "evidence": [
+          {
+            "source_id": "E020-S1",
+            "quote": "两次共计召回数量为392132件。"
+          }
+        ],
+        "attrs": {
+          "amount": [
+            "392132件"
+          ],
+          "scope": [
+            "两次累计，不是本次新增"
+          ]
+        }
+      },
+      {
+        "id": "E020-F4",
+        "text": "民航局明确，自2025年6月28日起，无3C标识、3C标识不清晰或被召回型号批次的充电宝，禁止携带乘坐境内航班。",
+        "evidence": [
+          {
+            "source_id": "E020-S3",
+            "quote": "自6月28日起禁止旅客携带没有3C标识、3C标识不清晰、被召回型号或批次的充电宝乘坐境内航班。"
+          }
+        ],
+        "attrs": {
+          "time": [
+            "2025-06-28起"
+          ],
+          "scope": [
+            "境内航班；列明标识及召回条件"
+          ]
+        }
+      }
+    ],
+    "sources": [
+      {
+        "id": "E020-S1",
+        "title": "安克创新科技股份有限公司扩大召回部分安克牌移动电源",
+        "publisher": "湖南省市场监督管理局",
+        "url": "https://amr.hunan.gov.cn/ztx/qxcpzh/zhxx/snzh/202506/t20250621_33716985.html",
+        "published_at": "2025-06-20"
+      },
+      {
+        "id": "E020-S2",
+        "title": "深圳对全市23家移动电源企业展开检查",
+        "publisher": "羊城晚报｜引深圳市市场监督管理局",
+        "url": "https://ep.ycwb.com/epaper/ywdf/html/2025-07/09/content_535_715666.htm",
+        "published_at": "2025-07-09"
+      },
+      {
+        "id": "E020-S3",
+        "title": "民航局：禁止旅客携带无3C标识及被召回的充电宝乘坐境内航班",
+        "publisher": "中国民用航空局",
+        "url": "https://www.caac.gov.cn/XWZX/MHYW/202506/t20250626_227805.html",
+        "published_at": "2025-06-26"
+      }
+    ]
+  },
+  {
+    "id": "E021",
+    "title": "天水幼儿园血铅异常：食品检出与省级追查",
+    "category": "公共安全",
+    "summary": "天水褐石培心幼儿园幼儿血铅异常引发调查。省级通报确认非食品颜料被掺入餐食，复检后异常幼儿数增加，并查出医院修改检验结果等问题。",
+    "note": "食品铅含量mg/kg与血铅μg/L不能混用；人数采用7月20日省级通报，不能把初报与复检人数相加。",
+    "as_of": "2026-11-14",
+    "questions": [],
+    "facts": [
+      {
+        "id": "E021-F1",
+        "text": "省级通报称，幼儿园玉米卷肠包、三色红枣发糕留样铅含量分别为1340、1052毫克/千克，均严重超标。",
+        "evidence": [
+          {
+            "source_id": "E021-S2",
+            "quote": "玉米卷肠包、三色红枣发糕铅含量分别为1340mg/kg、1052mg/kg，严重超标。"
+          }
+        ],
+        "attrs": {
+          "place": [
+            "甘肃天水市麦积区褐石培心幼儿园"
+          ],
+          "scope": [
+            "食品留样浓度，不是血铅值"
+          ]
+        }
+      },
+      {
+        "id": "E021-F2",
+        "text": "调查查明，园方使用包装标明不可食用的颜料制作食品，自2024年5月至案发平均每月6次提供给幼儿和教职员工。",
+        "evidence": [
+          {
+            "source_id": "E021-S2",
+            "quote": "从2024年5月至案发，平均每月6次向幼儿和教职员工提供食用。"
+          },
+          {
+            "source_id": "E021-S2",
+            "quote": "外包装明确标识“不可食用”的情况下，将颜料掺入面粉"
+          }
+        ],
+        "attrs": {
+          "time": [
+            "2024年5月至案发"
+          ],
+          "scope": [
+            "省级调查查明的持续使用情况"
+          ]
+        }
+      },
+      {
+        "id": "E021-F3",
+        "text": "省级通报统计，251名在园幼儿中247人血铅异常，其中包括7月8日后复检新增的14人。",
+        "evidence": [
+          {
+            "source_id": "E021-S2",
+            "quote": "血铅异常幼儿247名（包括7月8日后血铅复检新增14人）"
+          },
+          {
+            "source_id": "E021-S2",
+            "quote": "在园幼儿251名、教职员工34名"
+          }
+        ],
+        "attrs": {
+          "time": [
+            "2025-07-20通报"
+          ],
+          "amount": [
+            "247名异常幼儿／251名在园幼儿"
+          ],
+          "scope": [
+            "复检后的统计，新增14人已包含其中"
+          ]
+        }
+      },
+      {
+        "id": "E021-F4",
+        "text": "调查组对幼儿园周边环境调查后，未发现周边空气、水、土壤存在铅污染。",
+        "evidence": [
+          {
+            "source_id": "E021-S2",
+            "quote": "幼儿园周边环境空气、地表水、地下水、土壤铅浓度均符合相关环境质量标准，没有铅污染情况。",
+            "locator": "二、关于污染源溯源调查情况"
+          }
+        ],
+        "attrs": {
+          "scope": [
+            "通报所述周边环境调查范围"
+          ]
+        }
+      },
+      {
+        "id": "E021-F5",
+        "text": "省级调查发现，天水市第二人民医院曾直接修改两名幼儿血铅检验报告结果，相关人员违反检验及职业规范。",
+        "evidence": [
+          {
+            "source_id": "E021-S2",
+            "quote": "有2人报告结果分别由292.37μg/L修改为42.37μg/L、由440.14μg/L修改为103μg/L。",
+            "locator": "三、关于血铅检验数据问题"
+          }
+        ],
+        "attrs": {
+          "actors": [
+            "天水市第二人民医院"
+          ],
+          "scope": [
+            "医院检验数据问题"
+          ]
+        }
+      }
+    ],
+    "sources": [
+      {
+        "id": "E021-S2",
+        "title": "甘肃省委省政府调查组关于天水市麦积区褐石培心幼儿园幼儿血铅异常问题调查处置情况的通报",
+        "publisher": "甘肃省委省政府调查组｜人民日报全文刊载",
+        "url": "https://paper.people.com.cn/rmrb/pc/content/202507/21/content_30088997.html",
+        "published_at": "2025-07-21"
+      }
+    ]
+  },
+  {
+    "id": "E022",
+    "title": "海南全岛封关与游客证件规定",
+    "category": "民生",
+    "summary": "海南自贸港2025年12月18日启动全岛封关。移民管理局明确，普通内地游客从境内赴琼仍用身份证；从境外入境及海南免签外国人适用各自规则。",
+    "note": "封关不针对人员往来；境内旅行证件、从境外入境证件和外国人免签停留范围不能互换。",
+    "as_of": "2026-11-14",
+    "questions": [],
+    "facts": [
+      {
+        "id": "E022-F1",
+        "text": "国家移民管理局说明，海南自贸港自2025年12月18日起正式启动全岛封关运作。",
+        "evidence": [
+          {
+            "source_id": "E022-S2",
+            "quote": "自2025年12月18日起，海南自贸港正式启动全岛封关运作。"
+          }
+        ],
+        "attrs": {
+          "time": [
+            "2025-12-18起"
+          ],
+          "place": [
+            "海南自由贸易港"
+          ]
+        }
+      },
+      {
+        "id": "E022-F2",
+        "text": "内地居民从境内其他城市往返海南，仍可使用居民身份证购票，无须因封关额外办证。",
+        "evidence": [
+          {
+            "source_id": "E022-S2",
+            "quote": "内地（大陆）居民从境内其他城市往返海南自贸港，仍然使用中国居民身份证购票"
+          }
+        ],
+        "attrs": {
+          "scope": [
+            "内地居民、境内城市往返海南"
+          ]
+        }
+      },
+      {
+        "id": "E022-F3",
+        "text": "中国公民如从境外选择海南入境，仍须持有效中国护照或其他国际旅行证件并接受边检查验。",
+        "evidence": [
+          {
+            "source_id": "E022-S2",
+            "quote": "仍持本人有效中国护照或其他国际旅行证件，接受边检机关查验后入境。"
+          }
+        ],
+        "attrs": {
+          "scope": [
+            "从境外经海南入境的中国公民"
+          ]
+        }
+      },
+      {
+        "id": "E022-F4",
+        "text": "仅适用海南30天免签的外国人，停留范围不得超出海南；前往境内其他地区需申办停留手续。",
+        "evidence": [
+          {
+            "source_id": "E022-S2",
+            "quote": "仅适用入境海南30天免签政策的外国人，在海南停留期间停留区域不得超出海南省行政区域"
+          },
+          {
+            "source_id": "E022-S2",
+            "quote": "如需前往境内其他地区，可向海南省公安机关出入境管理部门申办停留手续。"
+          }
+        ],
+        "attrs": {
+          "scope": [
+            "仅适用海南30天免签政策的外国人"
+          ]
+        }
+      }
+    ],
+    "sources": [
+      {
+        "id": "E022-S2",
+        "title": "2026年1月28日新闻发布会文字实录（海南封关后人员出行问答）",
+        "publisher": "国家移民管理局",
+        "url": "https://www.nia.gov.cn/n741435/n1194535/n1762482/n1762703/index.html",
+        "published_at": "2026-01-28"
+      }
+    ]
+  },
+  {
+    "id": "E023",
+    "title": "《年轮》原唱争议与张碧晨停止演唱声明",
+    "category": "文娱",
+    "summary": "《年轮》争议从原唱身份延伸至演唱授权。张碧晨方以版本上线顺序主张原唱地位，汪苏泷方宣布收回授权，张方随后称仍有永久演唱权但自行停止演唱。",
+    "note": "版本上线与永久演唱权均按当事方主张归属；不把双方声明当作法院对全部权利的判决。",
+    "as_of": "2026-11-14",
+    "questions": [],
+    "facts": [
+      {
+        "id": "E023-F1",
+        "text": "张碧晨工作室主张，其版本于2015年6月15日率先上线并用于《花千骨》，男声版本于6月30日上架。",
+        "evidence": [
+          {
+            "source_id": "E023-S1",
+            "quote": "2015年6月15日，《年轮》作为电视剧《花千骨》插曲率先上线"
+          },
+          {
+            "source_id": "E023-S1",
+            "quote": "2015年6月30日，男声版本以单曲形式上架音乐平台"
+          }
+        ],
+        "attrs": {
+          "time": [
+            "2015-06-15",
+            "2015-06-30"
+          ],
+          "actors": [
+            "张碧晨工作室"
+          ],
+          "scope": [
+            "工作室关于版本顺序的主张"
+          ]
+        }
+      },
+      {
+        "id": "E023-F2",
+        "text": "2025年7月25日，汪苏泷方宣布收回《年轮》授权，暂不授权该作品做任何演唱。",
+        "evidence": [
+          {
+            "source_id": "E023-S2",
+            "quote": "我们决定收回《年轮》授权，暂不授权该作品做任何演唱。"
+          }
+        ],
+        "attrs": {
+          "time": [
+            "2025-07-25"
+          ],
+          "actors": [
+            "汪苏泷方"
+          ],
+          "scope": [
+            "当事方声明"
+          ]
+        }
+      },
+      {
+        "id": "E023-F3",
+        "text": "张碧晨工作室7月25日再声明，按此前正式合约，张碧晨享有《年轮》全球范围内永久演唱权。",
+        "evidence": [
+          {
+            "source_id": "E023-S4",
+            "quote": "我方艺人张碧晨依法享有该歌曲在全球范围内的永久演唱的权利。"
+          }
+        ],
+        "attrs": {
+          "time": [
+            "2025-07-25"
+          ],
+          "actors": [
+            "张碧晨工作室"
+          ],
+          "scope": [
+            "当事方对合约权利的主张"
+          ]
+        }
+      },
+      {
+        "id": "E023-F4",
+        "text": "同一声明表示，出于尊重与自我选择，张碧晨今后不再演唱《年轮》。",
+        "evidence": [
+          {
+            "source_id": "E023-S4",
+            "quote": "出于尊重与自我选择，张碧晨女士今后将不再演唱该歌曲。"
+          }
+        ],
+        "attrs": {
+          "time": [
+            "2025-07-25（声明日期）"
+          ],
+          "scope": [
+            "自愿停止演唱的决定"
+          ]
+        }
+      }
+    ],
+    "sources": [
+      {
+        "id": "E023-S1",
+        "title": "网红歌手一句话再惹争议！汪苏泷、张碧晨方双双发声明",
+        "publisher": "杭州网｜转引双方声明",
+        "url": "https://news.hangzhou.com.cn/shxw/content/2025-07/25/content_9046886.htm",
+        "published_at": "2025-07-25"
+      },
+      {
+        "id": "E023-S2",
+        "title": "汪苏泷、张碧晨《年轮》原唱之争升级　律师详解认定标准",
+        "publisher": "中国新闻网｜杭州网转载",
+        "url": "https://news.hangzhou.com.cn/ttgz/content/2025-07/26/content_9047526.htm",
+        "published_at": "2025-07-26"
+      },
+      {
+        "id": "E023-S4",
+        "title": "张碧晨：今后将不再演唱《年轮》",
+        "publisher": "中国新闻周刊｜新浪财经转载",
+        "url": "https://finance.sina.com.cn/cj/2025-07-25/doc-infhswis3072721.shtml",
+        "published_at": "2025-07-25"
+      }
+    ]
+  },
+  {
+    "id": "E024",
+    "title": "演员王星在泰缅边境失联、获救与回国",
+    "category": "公共安全",
+    "summary": "演员王星2025年1月3日入境泰国后在边境失联，1月7日获救并接回泰国，警方初步认定其为人口贩运受害者，1月11日抵达上海。",
+    "note": "获救、准备离泰和抵达中国是不同日期；抵沪时间为北京时间。",
+    "as_of": "2026-11-14",
+    "questions": [],
+    "facts": [
+      {
+        "id": "E024-F1",
+        "text": "王星于2025年1月3日入境泰国，随后在泰缅边境失联。",
+        "evidence": [
+          {
+            "source_id": "E024-S2",
+            "quote": "王星于1月3日入境泰国，之后在泰缅边境失联。"
+          }
+        ],
+        "attrs": {
+          "time": [
+            "2025-01-03"
+          ],
+          "place": [
+            "泰国",
+            "泰缅边境"
+          ],
+          "actors": [
+            "王星"
+          ]
+        }
+      },
+      {
+        "id": "E024-F2",
+        "text": "泰警方1月7日通报，塔查猜率队在达府湄索县接回王星。",
+        "evidence": [
+          {
+            "source_id": "E024-S1",
+            "quote": "当日率队前往位于泰缅边境地区的达府湄索县接回中国籍男演员王星"
+          }
+        ],
+        "attrs": {
+          "time": [
+            "2025-01-07"
+          ],
+          "place": [
+            "泰国达府湄索县"
+          ],
+          "actors": [
+            "泰国警方",
+            "塔查猜",
+            "王星"
+          ]
+        }
+      },
+      {
+        "id": "E024-F3",
+        "text": "新华社1月10日报道，泰警方初步调查确认王星为人口贩运受害者。",
+        "evidence": [
+          {
+            "source_id": "E024-S2",
+            "quote": "初步调查确认王星为人口贩运受害者。"
+          }
+        ],
+        "attrs": {
+          "time": [
+            "截至2025-01-10报道"
+          ],
+          "scope": [
+            "泰警方初步调查认定"
+          ]
+        }
+      },
+      {
+        "id": "E024-F4",
+        "text": "1月10日，王星抵达曼谷素万那普机场准备返华，当时尚未抵达中国。",
+        "evidence": [
+          {
+            "source_id": "E024-S2",
+            "quote": "已抵达曼谷素万那普机场即将回国"
+          }
+        ],
+        "attrs": {
+          "time": [
+            "2025-01-10"
+          ],
+          "place": [
+            "曼谷素万那普机场"
+          ],
+          "scope": [
+            "准备返华阶段"
+          ]
+        }
+      },
+      {
+        "id": "E024-F5",
+        "text": "央视新闻报道，王星所乘航班于北京时间2025年1月11日00时55分抵达上海浦东机场。",
+        "evidence": [
+          {
+            "source_id": "E024-S4",
+            "quote": "王星所乘回国航班已于北京时间1月11日00:55抵达上海浦东国际机场。"
+          }
+        ],
+        "attrs": {
+          "time": [
+            "2025-01-11 00:55（北京时间）"
+          ],
+          "place": [
+            "上海浦东国际机场"
+          ]
+        }
+      }
+    ],
+    "sources": [
+      {
+        "id": "E024-S1",
+        "title": "泰国警方：已接回失联中国演员并将作进一步调查",
+        "publisher": "新华社｜人民网转载，转引泰国警方及中国驻泰使馆",
+        "url": "https://world.people.com.cn/n1/2025/0107/c1002-40397210.html",
+        "published_at": "2025-01-07"
+      },
+      {
+        "id": "E024-S2",
+        "title": "中国籍演员王星已抵达曼谷素万那普机场即将回国",
+        "publisher": "新华社",
+        "url": "https://www.news.cn/world/20250110/9499f5ed750e4e2d96e2f82074abb0f9/c.html",
+        "published_at": "2025-01-10"
+      },
+      {
+        "id": "E024-S4",
+        "title": "人口贩运受害者、中国籍演员王星已回国",
+        "publisher": "央视新闻｜第一财经转载",
+        "url": "https://www.yicai.com/news/102437430.html",
+        "published_at": "2025-01-11"
+      }
+    ]
+  },
+  {
+    "id": "E025",
+    "title": "Meta收购Manus及监管要求撤销交易",
+    "category": "科技",
+    "summary": "Manus于2025年12月宣布加入Meta并称保持订阅服务和新加坡运营。2026年4月中国监管部门对收购项目作出禁止投资决定，要求撤销交易。",
+    "note": "要求撤销交易是监管决定，不自动证明撤销执行、业务关闭或退款已经完成。",
+    "as_of": "2026-11-14",
+    "questions": [],
+    "facts": [
+      {
+        "id": "E025-F1",
+        "text": "Manus于2025年12月29日宣布加入Meta。",
+        "evidence": [
+          {
+            "source_id": "E025-S1",
+            "quote": "Manus is joining Meta."
+          }
+        ],
+        "attrs": {
+          "time": [
+            "2025-12-29"
+          ],
+          "actors": [
+            "Manus",
+            "Meta"
+          ]
+        }
+      },
+      {
+        "id": "E025-F2",
+        "text": "Manus在公告中称，将继续通过应用及网站经营订阅服务，并继续从新加坡运营。",
+        "evidence": [
+          {
+            "source_id": "E025-S1",
+            "quote": "We will continue to sell and operate our product subscription service through our app and website. The company will continue to operate from Singapore."
+          }
+        ],
+        "attrs": {
+          "place": [
+            "新加坡"
+          ],
+          "scope": [
+            "公司当时的运营安排声明"
+          ]
+        }
+      },
+      {
+        "id": "E025-F3",
+        "text": "外商投资安全审查工作机制办公室于2026年4月27日对收购Manus项目作出禁止投资决定，要求当事人撤销收购交易。",
+        "evidence": [
+          {
+            "source_id": "E025-S2",
+            "quote": "对外资收购Manus项目作出禁止投资决定，要求当事人撤销该收购交易。"
+          }
+        ],
+        "attrs": {
+          "time": [
+            "2026-04-27"
+          ],
+          "actors": [
+            "外商投资安全审查工作机制办公室（国家发展改革委）"
+          ],
+          "scope": [
+            "监管要求，非执行完成公告"
+          ]
+        }
+      }
+    ],
+    "sources": [
+      {
+        "id": "E025-S1",
+        "title": "Manus Joins Meta for Next Era of Innovation",
+        "publisher": "Manus",
+        "url": "https://manus.im/blog/manus-joins-meta-for-next-era-of-innovation",
+        "published_at": "2025-12-29"
+      },
+      {
+        "id": "E025-S2",
+        "title": "外商投资安全审查工作机制办公室（国家发展改革委）对外资收购Manus项目作出安全审查决定",
+        "publisher": "国家发展改革委",
+        "url": "https://zfxxgk.ndrc.gov.cn/wap/iteminfo.jsp?id=20623",
+        "published_at": "2026-04-27"
+      }
+    ]
+  },
+  {
+    "id": "E026",
+    "title": "日本“9.9级”预警误报与当天更正",
+    "category": "公共安全",
+    "summary": "日本气象厅2026年10月16日将远方地震误估为9.9级并发布大范围预警，随后取消。实际地震为堪察加半岛附近6.9级，第二报说明系统计算问题。",
+    "note": "时间为日本当地时间；9.9是错误震级估值，不是实际地震规模或震度等级。",
+    "as_of": "2026-11-14",
+    "questions": [],
+    "facts": [
+      {
+        "id": "E026-F1",
+        "text": "日本气象厅10月16日12时40分向北海道至中部发布预警，误将震源定在千岛群岛、震级高估为9.9。",
+        "evidence": [
+          {
+            "source_id": "E026-S1",
+            "quote": "震源を千島列島に決定し、マグニチュードを9.9 と過大に推定したことによるものです。"
+          },
+          {
+            "source_id": "E026-S1",
+            "quote": "令和８年10月16日12時40分に北海道から中部地方に対して緊急地震速報（警報）を発表しました。"
+          }
+        ],
+        "attrs": {
+          "time": [
+            "2026-10-16 12:40（日本当地时间）"
+          ],
+          "place": [
+            "北海道至中部地区（预警范围）"
+          ],
+          "scope": [
+            "错误预警估值"
+          ]
+        }
+      },
+      {
+        "id": "E026-F2",
+        "text": "气象厅约在当天12时48分取消该次紧急预警。",
+        "evidence": [
+          {
+            "source_id": "E026-S3",
+            "quote": "于12时48分左右宣布取消这一预警。"
+          }
+        ],
+        "attrs": {
+          "time": [
+            "2026-10-16 12:48左右（日本当地时间）"
+          ]
+        }
+      },
+      {
+        "id": "E026-F3",
+        "text": "气象厅核实，当日12时38分左右在俄罗斯堪察加半岛附近发生6.9级地震，深约160公里。",
+        "evidence": [
+          {
+            "source_id": "E026-S3",
+            "quote": "俄罗斯堪察加半岛附近发生6.9级地震，震源深度约160公里。"
+          }
+        ],
+        "attrs": {
+          "time": [
+            "2026-10-16 12:38左右（日本当地时间）"
+          ],
+          "place": [
+            "俄罗斯堪察加半岛附近"
+          ],
+          "scope": [
+            "实际地震核实信息"
+          ]
+        }
+      },
+      {
+        "id": "E026-F4",
+        "text": "气象厅17时30分第二报说明，系统对远离日本的地震套用国内震级公式，且震级计算与震度预测使用了不同震源。",
+        "evidence": [
+          {
+            "source_id": "E026-S2",
+            "quote": "国内用のマグニチュードを求める 式を適用しました。",
+            "locator": "PDF第1页"
+          },
+          {
+            "source_id": "E026-S2",
+            "quote": "本来、マグニチュードの計算と震度の予測に用いた震源は同一である必要があります が、今回の地震ではこれらが異なりました。",
+            "locator": "PDF第1页"
+          }
+        ],
+        "attrs": {
+          "time": [
+            "2026-10-16 17:30（第二报）"
+          ],
+          "scope": [
+            "当时已查明的原因，细节继续调查"
+          ]
+        }
+      }
+    ],
+    "sources": [
+      {
+        "id": "E026-S1",
+        "title": "令和８年10月16日12時40分に発表した緊急地震速報（警報）について",
+        "publisher": "日本气象厅",
+        "url": "https://www.jma.go.jp/jma/press/2610/16b/202610161400.html",
+        "published_at": "2026-10-16"
+      },
+      {
+        "id": "E026-S2",
+        "title": "紧急地震速报误报第二报（17:30，原因说明PDF）",
+        "publisher": "日本气象厅",
+        "url": "https://www.jma.go.jp/jma/press/2610/16c/kaisetsu202610161730.pdf",
+        "published_at": "2026-10-16"
+      },
+      {
+        "id": "E026-S3",
+        "title": "日本气象厅就错发紧急地震预警致歉",
+        "publisher": "新华社",
+        "url": "https://www3.xinhuanet.com/20261016/4de8ee7fc4ad45bea6a4896f0c143de9/c.html",
+        "published_at": "2026-10-16"
+      }
+    ]
+  },
+  {
+    "id": "E027",
+    "title": "英伟达H20：许可变化、安全约谈与销售情况",
+    "category": "科技",
+    "summary": "H20对华出口2025年新增许可要求，随后经历恢复销售申请、中国网信办安全约谈和英伟达否认后门。公司2026年财报回顾称，获批许可后仍未能出售相关库存。",
+    "note": "许可承诺、实际许可与销售完成不同；安全回应及销售受限原因均保留当事方归属，H20不与H200混用。",
+    "as_of": "2026-11-14",
+    "questions": [],
+    "facts": [
+      {
+        "id": "E027-F1",
+        "text": "英伟达披露，美政府于2025年4月9日通知H20对华等出口须获许可，4月14日通知该要求长期有效。",
+        "evidence": [
+          {
+            "source_id": "E027-S1",
+            "quote": "On April 14, 2025, the USG informed the Company that the license requirement will be in effect for the indefinite future."
+          },
+          {
+            "source_id": "E027-S1",
+            "quote": "On April 9, 2025, the U.S. government, or USG, informed NVIDIA Corporation, or the Company, that the USG requires a license for export to China"
+          }
+        ],
+        "attrs": {
+          "time": [
+            "2025-04-09",
+            "2025-04-14"
+          ],
+          "scope": [
+            "H20出口许可要求，披露日期为4月15日"
+          ]
+        }
+      },
+      {
+        "id": "E027-F2",
+        "text": "英伟达7月14日称正申请恢复向中国销售H20，并获美政府将批准许可的承诺，期望尽快交货。",
+        "evidence": [
+          {
+            "source_id": "E027-S2",
+            "quote": "The U.S. government has assured NVIDIA that licenses will be granted, and NVIDIA hopes to start deliveries soon."
+          }
+        ],
+        "attrs": {
+          "time": [
+            "2025-07-14"
+          ],
+          "scope": [
+            "公司对申请及许可承诺的说明，非交货完成"
+          ]
+        }
+      },
+      {
+        "id": "E027-F3",
+        "text": "国家网信办于2025年7月31日就H20漏洞后门安全风险约谈英伟达，并要求说明及提交材料。",
+        "evidence": [
+          {
+            "source_id": "E027-S3",
+            "quote": "国家互联网信息办公室于2025年7月31日约谈了英伟达公司"
+          },
+          {
+            "source_id": "E027-S3",
+            "quote": "要求英伟达公司就对华销售的H20算力芯片漏洞后门安全风险问题进行说明并提交相关证明材料。"
+          }
+        ],
+        "attrs": {
+          "time": [
+            "2025-07-31"
+          ],
+          "actors": [
+            "国家互联网信息办公室",
+            "英伟达"
+          ],
+          "scope": [
+            "安全约谈，不等于最终技术鉴定"
+          ]
+        }
+      },
+      {
+        "id": "E027-F4",
+        "text": "英伟达2025年8月5日公开回应，否认芯片存在后门、远程关闭开关及间谍软件。",
+        "evidence": [
+          {
+            "source_id": "E027-S4",
+            "quote": "There are no back doors in NVIDIA chips. No kill switches. No spyware."
+          }
+        ],
+        "attrs": {
+          "time": [
+            "2025-08-05"
+          ],
+          "actors": [
+            "英伟达"
+          ],
+          "scope": [
+            "公司公开安全回应"
+          ]
+        }
+      },
+      {
+        "id": "E027-F5",
+        "text": "英伟达2026年8月10-Q回顾称，自2025年8月起美方批准部分H20许可，但相关销售受中方限制，公司未能卖出H20库存。",
+        "evidence": [
+          {
+            "source_id": "E027-S5",
+            "quote": "such sales were restricted by the PRC government, and we were unable to sell our H20 inventory.",
+            "locator": "Form 10-Q，Government Regulation风险因素"
+          },
+          {
+            "source_id": "E027-S5",
+            "quote": "Beginning in August 2025, the USG granted licenses that would have allowed us to ship certain H20 products to certain China-based customers",
+            "locator": "Government Regulation"
+          }
+        ],
+        "attrs": {
+          "time": [
+            "2026年8月披露；回顾2025年8月起许可"
+          ],
+          "scope": [
+            "公司财报陈述，不代替中方正式决定"
+          ]
+        }
+      }
+    ],
+    "sources": [
+      {
+        "id": "E027-S1",
+        "title": "NVIDIA Form 8-K（April 15, 2025）",
+        "publisher": "英伟达｜美国证券交易委员会 SEC披露",
+        "url": "https://www.sec.gov/Archives/edgar/data/1045810/000104581025000082/nvda-20250409.htm",
+        "published_at": "2025-04-15"
+      },
+      {
+        "id": "E027-S2",
+        "title": "NVIDIA CEO Jensen Huang Promotes AI in Washington, DC and China",
+        "publisher": "英伟达官方博客",
+        "url": "https://blogs.nvidia.com/blog/nvidia-ceo-promotes-ai-in-dc-and-china/",
+        "published_at": "2025-07-14"
+      },
+      {
+        "id": "E027-S3",
+        "title": "国家互联网信息办公室就H20算力芯片漏洞后门安全风险约谈英伟达公司",
+        "publisher": "国家互联网信息办公室",
+        "url": "https://www.cac.gov.cn/2025-07/31/c_1755675743897163.htm",
+        "published_at": "2025-07-31"
+      },
+      {
+        "id": "E027-S4",
+        "title": "No Backdoors. No Kill Switches. No Spyware.",
+        "publisher": "英伟达首席安全官 David Reber Jr.",
+        "url": "https://blogs.nvidia.com/blog/no-backdoors-no-kill-switches-no-spyware/",
+        "published_at": "2025-08-05"
+      },
+      {
+        "id": "E027-S5",
+        "title": "NVIDIA Form 10-Q, quarter ended July 26, 2026",
+        "publisher": "英伟达｜SEC披露",
+        "url": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000075/nvda-20260726.htm",
+        "published_at": "2026-08-27"
+      }
+    ]
+  },
+  {
+    "id": "E028",
+    "title": "宏福苑火灾及独立委员会报告公开",
+    "category": "公共安全",
+    "summary": "宏福苑2025年11月发生五级火警。2026年10月政府公开经过遮盖的独立委员会报告，公布伤亡和受影响家庭数，并回应120项建议及楼宇维修监管改革。",
+    "note": "火警初报与事后伤亡统计不同；援助或改革建议不等于刑事定罪，公开报告仍有遮盖。",
+    "as_of": "2026-11-14",
+    "questions": [],
+    "facts": [
+      {
+        "id": "E028-F1",
+        "text": "宏福苑于2025年11月26日14时51分起火，18时22分升为五级火警。",
+        "evidence": [
+          {
+            "source_id": "E028-S4",
+            "quote": "下午二時五十一分發生火警"
+          },
+          {
+            "source_id": "E028-S4",
+            "quote": "於下午六時二十二分升為五級。"
+          }
+        ],
+        "attrs": {
+          "time": [
+            "2025-11-26 14:51（香港时间）",
+            "2025-11-26 18:22（升五级）"
+          ],
+          "place": [
+            "香港大埔宏福苑"
+          ]
+        }
+      },
+      {
+        "id": "E028-F2",
+        "text": "特区政府2026年10月29日说明，火灾造成168人死亡，包括1名消防员，1984个家庭受影响。",
+        "evidence": [
+          {
+            "source_id": "E028-S3",
+            "quote": "火灾导致168人死亡，包括一位英勇救火殉职的消防员，1,984个家庭受影响"
+          }
+        ],
+        "attrs": {
+          "time": [
+            "2026-10-29说明"
+          ],
+          "scope": [
+            "事后统计，不是火灾当日初报"
+          ]
+        }
+      },
+      {
+        "id": "E028-F3",
+        "text": "特区政府于2026年10月22日收到独立委员会报告，10月29日公开。",
+        "evidence": [
+          {
+            "source_id": "E028-S1",
+            "quote": "政府今日（十月二十九日）公開"
+          },
+          {
+            "source_id": "E028-S1",
+            "quote": "行政長官十月二十二日收到委員會的報告。"
+          }
+        ],
+        "attrs": {
+          "time": [
+            "2026-10-22（收到）",
+            "2026-10-29（公开）"
+          ],
+          "actors": [
+            "香港特区政府"
+          ]
+        }
+      },
+      {
+        "id": "E028-F4",
+        "text": "公开报告遮盖可能影响刑事检控的内容，政府称待相关刑事司法程序结束后公布完整报告。",
+        "evidence": [
+          {
+            "source_id": "E028-S3",
+            "quote": "待所有有关的刑事司法程序完成后，会公开完整的报告。"
+          },
+          {
+            "source_id": "E028-S3",
+            "quote": "遮盖报告中可能对相关刑事检控产生任何实在或观感上有不恰当影响的内容。"
+          }
+        ],
+        "attrs": {
+          "scope": [
+            "目前公开版有遮盖，完整版公开附有条件"
+          ]
+        }
+      },
+      {
+        "id": "E028-F5",
+        "text": "独立委员会提出120项建议，政府据此宣布全面改革，包括打击楼宇维修围标及改革监管制度。",
+        "evidence": [
+          {
+            "source_id": "E028-S3",
+            "quote": "独立委员会在报告提出120项建议"
+          },
+          {
+            "source_id": "E028-S3",
+            "quote": "立法禁止楼宇维修工程围标"
+          }
+        ],
+        "attrs": {
+          "actors": [
+            "独立委员会",
+            "香港特区政府"
+          ],
+          "scope": [
+            "报告建议及改革安排"
+          ]
+        }
+      }
+    ],
+    "sources": [
+      {
+        "id": "E028-S1",
+        "title": "政府公開就大埔宏福苑火災成立的獨立委員會報告",
+        "publisher": "香港特区政府新闻公报",
+        "url": "https://www.info.gov.hk/gia/general/202610/29/P2026102900476.htm",
+        "published_at": "2026-10-29"
+      },
+      {
+        "id": "E028-S3",
+        "title": "大埔火灾报告公开　推行全面改革",
+        "publisher": "香港政府新闻网｜国务院港澳办网站转载",
+        "url": "https://www.hmo.gov.cn/2026/10/30/ARTIcbqZjOVHek6pNZpPPveS261030.shtml",
+        "published_at": "2026-10-29"
+      },
+      {
+        "id": "E028-S4",
+        "title": "大埔五級火警（当日18:46新闻公报）",
+        "publisher": "香港特区政府新闻公报",
+        "url": "https://www.info.gov.hk/gia/general/202511/26/P2025112600654p.htm",
+        "published_at": "2025-11-26"
+      }
+    ]
+  },
+  {
+    "id": "E029",
+    "title": "卢浮宫珠宝盗抢：失窃清单、嫌疑人与皇冠后续",
+    "category": "文化",
+    "summary": "卢浮宫阿波罗长廊2025年10月遭珠宝盗抢，正式公报列8件被盗物品，另有皇冠找回。后续包括嫌疑人起诉、皇冠修复条件说明和展厅重开预告。",
+    "note": "8件被盗与另行找回皇冠区分；起诉不是定罪，具备修复条件不等于修复完成，重开预告不等于完成公告。",
+    "as_of": "2026-11-14",
+    "questions": [],
+    "facts": [
+      {
+        "id": "E029-F1",
+        "text": "2025年10月19日，卢浮宫阿波罗长廊遭珠宝盗抢，文化部门正式公报列出8件被盗物品。",
+        "evidence": [
+          {
+            "source_id": "E029-S1",
+            "quote": "huit objets d’une valeur patrimoniale inestimable ont été dérobés",
+            "locator": "PDF第1页"
+          }
+        ],
+        "attrs": {
+          "time": [
+            "2025-10-19"
+          ],
+          "place": [
+            "法国巴黎卢浮宫阿波罗长廊"
+          ],
+          "scope": [
+            "正式被盗清单8件"
+          ]
+        }
+      },
+      {
+        "id": "E029-F2",
+        "text": "卢浮宫称，欧仁妮皇后皇冠在阿波罗长廊下方找回，不能将其与仍失窃的8件混为同一口径。",
+        "evidence": [
+          {
+            "source_id": "E029-S3",
+            "quote": "Retrouvée au pied de la galerie d'Apollon, la couronne de haut de tête de l'impératrice Eugénie a échappé au vol brutal"
+          }
+        ],
+        "attrs": {
+          "scope": [
+            "另行找回的皇冠"
+          ]
+        }
+      },
+      {
+        "id": "E029-F3",
+        "text": "巴黎检察官2025年10月29日宣布，两名嫌疑人已被起诉，并部分承认参与抢劫。",
+        "evidence": [
+          {
+            "source_id": "E029-S5",
+            "quote": "两名嫌疑人“部分承认”参与抢劫，两人已被起诉。"
+          }
+        ],
+        "attrs": {
+          "time": [
+            "2025-10-29"
+          ],
+          "scope": [
+            "检方宣布起诉，不是定罪"
+          ]
+        }
+      },
+      {
+        "id": "E029-F4",
+        "text": "卢浮宫2026年2月4日称，皇冠虽被压坏、明显变形，但主体近乎完整，可进行完整修复。",
+        "evidence": [
+          {
+            "source_id": "E029-S3",
+            "quote": "elle a conservé sa quasi-intégrité, permettant sa restauration complète."
+          },
+          {
+            "source_id": "E029-S3",
+            "quote": "Si la couronne a souffert d'un écrasement et s'en est trouvée très sensiblement déformée"
+          }
+        ],
+        "attrs": {
+          "time": [
+            "2026-02-04"
+          ],
+          "scope": [
+            "修复条件说明，非修复完成公告"
+          ]
+        }
+      },
+      {
+        "id": "E029-F5",
+        "text": "新华社7月21日转述法媒预告，阿波罗长廊将于7月22日重开，届时不陈列此前的珠宝展品。",
+        "evidence": [
+          {
+            "source_id": "E029-S4",
+            "quote": "将于22日重新开放，届时展厅中不会放置此前展示在这里的珠宝展品。"
+          }
+        ],
+        "attrs": {
+          "time": [
+            "2026-07-21（报道）",
+            "2026-07-22（预告重开）"
+          ],
+          "scope": [
+            "报道当时的预告"
+          ]
+        }
+      }
+    ],
+    "sources": [
+      {
+        "id": "E029-S1",
+        "title": "Informations relatives au vol par effraction survenu ce dimanche 19 octobre au musée du Louvre",
+        "publisher": "法国文化部｜卢浮宫新闻网站",
+        "url": "https://presse.louvre.fr/wp-content/uploads/2025/10/c286843d16bba9496d8b9e03d2b6edf7.pdf",
+        "published_at": "2025-10-19"
+      },
+      {
+        "id": "E029-S3",
+        "title": "Restauration de la Couronne de l'impératrice Eugénie",
+        "publisher": "卢浮宫博物馆",
+        "url": "https://presse.louvre.fr/restauration-de-la-couronne-de-limperatrice-eugenie/?lang=fr",
+        "published_at": "2026-02-04"
+      },
+      {
+        "id": "E029-S4",
+        "title": "法媒：卢浮宫遭劫展厅将重新开放",
+        "publisher": "新华社｜引法国媒体",
+        "url": "https://www.xinhuanet.com/world/20260721/136b3eb4515e4fbab5bedbd09fa7e410/c.html",
+        "published_at": "2026-07-21"
+      },
+      {
+        "id": "E029-S5",
+        "title": "卢浮宫抢劫案两名嫌疑人被起诉",
+        "publisher": "新华社｜巴黎检察官记者会",
+        "url": "https://www.xinhuanet.com/world/20251030/a2d55347576646348e23efd6ab4ead7d/c.html",
+        "published_at": "2025-10-30"
+      }
+    ]
+  },
+  {
+    "id": "E030",
+    "title": "恒大债务危机后续：清盘、处罚与司法程序",
+    "category": "金融",
+    "summary": "恒大危机后续包含中国恒大境外清盘、恒大地产行政处罚及破产清算，以及许家印等刑事案件。各程序针对不同主体，债权申报仍需按具体案件办理。",
+    "note": "中国恒大、恒大集团、恒大地产不得互换；刑事一审、破产受理和债权申报都不是清偿完成。",
+    "as_of": "2026-11-14",
+    "questions": [],
+    "facts": [
+      {
+        "id": "E030-F1",
+        "text": "中国恒大清盘人公告回顾，香港高等法院于2024年1月29日颁令中国恒大集团清盘并委任清盘人。",
+        "evidence": [
+          {
+            "source_id": "E030-S2",
+            "quote": "香港高等法院於 2024 年 1 月 29 日頒令中國恒大集團清盤後",
+            "locator": "PDF第4页，引言"
+          }
+        ],
+        "attrs": {
+          "time": [
+            "2024-01-29"
+          ],
+          "actors": [
+            "中国恒大集团"
+          ],
+          "scope": [
+            "香港清盘程序"
+          ]
+        }
+      },
+      {
+        "id": "E030-F2",
+        "text": "证监会2024年5月31日公布，对恒大地产罚款41.75亿元，对许家印罚款4700万元并终身证券市场禁入。",
+        "evidence": [
+          {
+            "source_id": "E030-S1",
+            "quote": "对恒大地产责令改正、给予警告并罚款41.75亿元，对恒大地产时任董事长、实际控制人许家印处以顶格罚款4700万元并采取终身证券市场禁入措施。"
+          }
+        ],
+        "attrs": {
+          "time": [
+            "2024-05-31（公布）"
+          ],
+          "actors": [
+            "恒大地产",
+            "许家印"
+          ],
+          "scope": [
+            "行政处罚"
+          ]
+        }
+      },
+      {
+        "id": "E030-F3",
+        "text": "深圳中院2026年8月20日一审判处许家印无期徒刑，并对恒大集团、恒大地产分别判处罚金88.2亿元、70亿元。",
+        "evidence": [
+          {
+            "source_id": "E030-S3",
+            "quote": "对许家印数罪并罚，判处无期徒刑"
+          },
+          {
+            "source_id": "E030-S3",
+            "quote": "对恒大集团数罪并罚，判处罚金人民币88.2亿元；对恒大地产判处罚金人民币70亿元"
+          }
+        ],
+        "attrs": {
+          "time": [
+            "2026-08-20"
+          ],
+          "actors": [
+            "深圳市中级人民法院",
+            "许家印",
+            "恒大集团",
+            "恒大地产"
+          ],
+          "scope": [
+            "刑事一审"
+          ]
+        }
+      },
+      {
+        "id": "E030-F4",
+        "text": "广州中院于2026年8月21日裁定受理恒大地产集团有限公司破产清算。",
+        "evidence": [
+          {
+            "source_id": "E030-S4",
+            "quote": "裁定受理恒大地产集团有限公司（以下简称恒大地产）破产清算一案"
+          }
+        ],
+        "attrs": {
+          "time": [
+            "2026-08-21"
+          ],
+          "actors": [
+            "广州市中级人民法院",
+            "恒大地产集团有限公司"
+          ],
+          "scope": [
+            "内地破产受理"
+          ]
+        }
+      },
+      {
+        "id": "E030-F5",
+        "text": "管理人要求恒大地产债权人于2026年11月21日前含当日申报债权，仅对其他关联公司有债权者不属于本案申报范围。",
+        "evidence": [
+          {
+            "source_id": "E030-S4",
+            "quote": "恒大地产债权人请于2026年11月21日前（含当日）"
+          },
+          {
+            "source_id": "E030-S4",
+            "quote": "仅对其他关联公司享有债权的，不属于本案申报范围"
+          }
+        ],
+        "attrs": {
+          "time": [
+            "2026-11-21（申报期限）"
+          ],
+          "scope": [
+            "债务人为恒大地产；不扩展至全部关联公司"
+          ]
+        }
+      }
+    ],
+    "sources": [
+      {
+        "id": "E030-S1",
+        "title": "证监会对恒大地产债券欺诈发行及信息披露违法案作出处罚决定",
+        "publisher": "中国证监会",
+        "url": "https://www.csrc.gov.cn/csrc/c100028/c7484273/content.shtml",
+        "published_at": "2024-05-31"
+      },
+      {
+        "id": "E030-S2",
+        "title": "中国恒大集团（清盘中）：取消上市地位及清盘人进展报告",
+        "publisher": "中国恒大清盘人｜香港交易所披露易",
+        "url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2025/0812/2025081201149_c.pdf",
+        "published_at": "2025-08-12"
+      },
+      {
+        "id": "E030-S3",
+        "title": "恒大集团、恒大地产、许家印等案一审宣判",
+        "publisher": "最高人民法院｜深圳中院一审信息",
+        "url": "https://www.court.gov.cn/zixun/xiangqing/509281.html",
+        "published_at": "2026-08-20"
+      },
+      {
+        "id": "E030-S4",
+        "title": "恒大地产集团有限公司破产清算案债权申报通知",
+        "publisher": "恒大地产管理人｜全国企业破产重整案件信息网",
+        "url": "https://pccz.court.gov.cn/pcajxxw/pcgg/ggxq?id=4eaffaf8938d4594a275b2d59f286b51",
+        "published_at": "2026-08-21"
+      }
+    ]
+  }
+]

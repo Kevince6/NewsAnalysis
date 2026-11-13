@@ -1,0 +1,134 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "新闻卡 v1：新闻、事实与证据",
+  "description": "数据文件直接使用新闻卡数组。时间、地点、人物等只在确有需要时放入事实的 attrs，不要求补齐。",
+  "type": "array",
+  "items": { "$ref": "#/$defs/card" },
+  "$defs": {
+    "text": {
+      "type": "string",
+      "minLength": 1,
+      "pattern": "\\S"
+    },
+    "card": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["id", "title", "category", "summary", "note", "as_of", "questions", "facts", "sources"],
+      "properties": {
+        "id": {
+          "$ref": "#/$defs/text",
+          "description": "沿用新闻编号，如 E018；内容更新时编号保持不变。"
+        },
+        "title": { "$ref": "#/$defs/text" },
+        "category": {
+          "$ref": "#/$defs/text",
+          "description": "单个主类别，如社会、政治、科技；统一使用 category，不使用 catagory 或重复 tags。"
+        },
+        "summary": {
+          "$ref": "#/$defs/text",
+          "description": "供人阅读的一段新闻概要。具体事实与证据的关联放在 facts，不在此依赖[1]式字符串编号。"
+        },
+        "note": {
+          "type": "string",
+          "description": "整张卡的重要边界或核查提醒；无内容时用空字符串，不重复概要。"
+        },
+        "as_of": {
+          "type": "string",
+          "format": "date",
+          "description": "事实核查截止日 YYYY-MM-DD，不是文件修改日；当日仍在变化的数字应在对应事实中保留具体统计时间。"
+        },
+        "questions": {
+          "type": "array",
+          "items": { "$ref": "#/$defs/text" },
+          "description": "用户设计的问题文本；尚未出题时为 []。"
+        },
+        "facts": {
+          "type": "array",
+          "minItems": 1,
+          "items": { "$ref": "#/$defs/fact" },
+          "description": "一般选3—5条可单独核查的关键事实，按阅读顺序排列；数量建议不作为硬性上限。"
+        },
+        "sources": {
+          "type": "array",
+          "minItems": 1,
+          "items": { "$ref": "#/$defs/source" },
+          "description": "本卡来源字典，通常1—5条；同一链接只存一次，多条事实可以共同引用。"
+        }
+      }
+    },
+    "fact": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["id", "text", "evidence"],
+      "properties": {
+        "id": {
+          "$ref": "#/$defs/text",
+          "description": "稳定事实编号，如 E018-F1；排序改变时不重编号，删除后不复用编号。"
+        },
+        "text": {
+          "$ref": "#/$defs/text",
+          "description": "一条可独立核查的完整陈述。说话主体、数字单位、适用范围和暂定性质等必要限制应写在句内；当事人称X不等于X已经成立。"
+        },
+        "evidence": {
+          "type": "array",
+          "minItems": 1,
+          "items": { "$ref": "#/$defs/evidence" },
+          "description": "支持本条陈述的一条或多条证据。互相冲突的说法通常拆成不同事实，不把反对材料当作支持材料混列。"
+        },
+        "attrs": {
+          "type": "object",
+          "minProperties": 1,
+          "propertyNames": { "pattern": "^[a-z][a-z0-9_]*$" },
+          "additionalProperties": {
+            "type": "array",
+            "minItems": 1,
+            "uniqueItems": true,
+            "items": { "$ref": "#/$defs/text" }
+          },
+          "description": "可选索引属性；常用 time、place、actors、amount、scope，按需要增加。每个值始终为字符串数组。缺项直接省略；不把一串属性值的位置关系当作实体配对。时间可保留约数或截至某日，金额保留单位及口径；完整事实仍以 text 为准。"
+        }
+      }
+    },
+    "evidence": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["source_id", "quote"],
+      "properties": {
+        "source_id": {
+          "$ref": "#/$defs/text",
+          "description": "指向本卡 sources 中的 id。引用存在性需由程序另行校验。"
+        },
+        "quote": {
+          "$ref": "#/$defs/text",
+          "description": "能支持本条事实的简短原文摘录；保留关键限定，不用自己的概括冒充摘录。表格可摘录相关单元格并以 locator 标明行列。"
+        },
+        "locator": {
+          "$ref": "#/$defs/text",
+          "description": "可选位置，如PDF第36页、第一节第三段或表格中的具体行列；不使用易随抓取变化的工具行号。"
+        }
+      }
+    },
+    "source": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["id", "title", "publisher", "url"],
+      "properties": {
+        "id": {
+          "$ref": "#/$defs/text",
+          "description": "沿用原来源编号，如 E018-S1；不得因排序变化而重编号。"
+        },
+        "title": { "$ref": "#/$defs/text" },
+        "publisher": {
+          "$ref": "#/$defs/text",
+          "description": "实际发布或转载机构；必要时简短注明转引谁，避免把转载方当作原始发言人。"
+        },
+        "url": { "type": "string", "format": "uri", "pattern": "^https?://" },
+        "published_at": {
+          "type": "string",
+          "format": "date",
+          "description": "可选发布日 YYYY-MM-DD；无法确定时省略，不猜填。事件日期另记在事实中。"
+        }
+      }
+    }
+  }
+}
