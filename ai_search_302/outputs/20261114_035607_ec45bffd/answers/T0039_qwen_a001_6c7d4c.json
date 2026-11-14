@@ -1,0 +1,65 @@
+{
+  "task_id": "T0039",
+  "model": "qwen",
+  "news_id": "E004",
+  "question_index": 1,
+  "question_original": "【开放】2026年秋巴黎的示威和骚乱到底有多大规模？官方公布的人数、拘捕和商店受损情况分别是什么？",
+  "question": "2026年秋巴黎的示威和骚乱到底有多大规模？官方公布的人数、拘捕和商店受损情况分别是什么？",
+  "attempt": 1,
+  "provider": "302.ai",
+  "model_requested": "qwen3.8-max",
+  "query_date": "2026-11-14",
+  "search_service": "metaso",
+  "prompt_version": "news-search-v1",
+  "prompt_sha256": "ea56fd5557d32615a9115f2368a0c4983ff1188f4935369e694d7d46f2493be1",
+  "requested_at": "2026-11-14T04:19:13.290228+08:00",
+  "raw_file": "raw/T0039_qwen_a001_6c7d4c.json",
+  "transport": "sse",
+  "stream_file": "raw/T0039_qwen_a001_6c7d4c.sse",
+  "status": "ok",
+  "model_returned": "qwen3.8-max",
+  "answer": "按检索到的资料，2026年秋季这轮巴黎及法国多地示威骚乱的规模很大：**法国内政部通报全法约55万人参与示威**，**2397人被警方拘捕**[1]。商铺受损方面，资料中没有一个明确的“官方最终总数”：**《巴黎人报》统计称，仅巴黎一地两天内就有451家商铺遭破坏**[1]；另有综合报道称**全法1500多家店铺受损**[4]。\n\n可分三项看：\n\n1. **示威人数：约55万人**  \n   法国内政部数据显示，全法约55万人参与了此轮示威[1]。这是官方口径中最完整的参与人数通报。\n\n2. **拘捕人数：2397人**  \n   同一内政部数据显示，全法已有2397人被警方拘捕[1]。另有报道使用“超千人被捕”的说法[4]，应属于较早或较粗的统计口径。\n\n3. **商店受损：巴黎451家商铺受损，另据报道全法逾1500家店铺受损**  \n   《巴黎人报》10月22日统计称，仅巴黎一地就有451家商铺在两天内遭到破坏[1]。另一则综合报道称，本轮骚乱已导致法国1500多家店铺受损[4]。不过，检索材料中未见法国官方单独公布一个最终、统一的商铺受损总数，因此这部分更准确地说应称为“媒体统计/报道口径”。\n\n补充背景：现场报道显示，凯旋门周边道路被警方几乎全部封锁，进出需接受检查；香榭丽舍大街入口停放大量警车，事实上将香街与凯旋门隔绝，店铺基本停业，周边不少店铺门窗被砸、物品被盗抢，车辆被烧毁[2]。多家法国媒体还指出，事发区域警力全程缺位，是商家损失惨重的直接原因之一[1]。此外，检索材料中还有一则警方阶段性通报称，截至当地时间周日凌晨共有416人被捕，其中巴黎283人，至少两家商铺受损[3]；这与内政部全法累计数据明显不同，可能对应不同时间点或局部统计[3]。",
+  "sources": [
+    {
+      "index": 1,
+      "url": "https://news.qq.com/rain/a/20261026A0CBGX00",
+      "title": null,
+      "origin": "citations"
+    },
+    {
+      "index": 2,
+      "url": "http://intl.ce.cn/qqss/201812/02/t20181202_30919988.shtml",
+      "title": null,
+      "origin": "citations"
+    },
+    {
+      "index": 3,
+      "url": "http://k.sina.com.cn/article_7879923920_1d5ae18d002001dfgk.html",
+      "title": null,
+      "origin": "citations"
+    },
+    {
+      "index": 4,
+      "url": "https://news.qq.com/rain/a/20261020A0929N00",
+      "title": null,
+      "origin": "citations"
+    }
+  ],
+  "usage": {
+    "completion_tokens": 3639,
+    "completion_tokens_details": {
+      "reasoning_tokens": 3154,
+      "text_tokens": 3639
+    },
+    "prompt_tokens": 1295,
+    "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "text_tokens": 1295
+    },
+    "total_tokens": 4934
+  },
+  "finish_reason": "stop",
+  "note": [],
+  "request_id": "3df4ceb5-9173-437e-b3c5-42acd8cb10e0",
+  "duration_seconds": 99.483
+}

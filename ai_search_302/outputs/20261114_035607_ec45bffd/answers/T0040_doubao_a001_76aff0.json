@@ -1,0 +1,69 @@
+{
+  "task_id": "T0040",
+  "model": "doubao",
+  "news_id": "E004",
+  "question_index": 2,
+  "question_original": "【开放】巴黎游行的示威路线有哪几条？",
+  "question": "巴黎游行的示威路线有哪几条？",
+  "attempt": 1,
+  "provider": "302.ai",
+  "model_requested": "doubao-seed-2-1-pro-260628",
+  "query_date": "2026-11-14",
+  "search_service": "metaso",
+  "prompt_version": "news-search-v1",
+  "prompt_sha256": "ea56fd5557d32615a9115f2368a0c4983ff1188f4935369e694d7d46f2493be1",
+  "requested_at": "2026-11-14T04:20:19.973743+08:00",
+  "raw_file": "raw/T0040_doubao_a001_76aff0.json",
+  "transport": "sse",
+  "stream_file": "raw/T0040_doubao_a001_76aff0.sse",
+  "status": "ok",
+  "model_returned": "doubao-seed-2-1-pro-260628",
+  "answer": "根据现有可检索到的公开信息，目前披露的均为过往场次巴黎游行的路线安排（包含官方事前公布的规划路线、示威者现场流动形成的临时路径），暂未包含2026年11月14日（查询基准日）近期计划举办的巴黎游行的最新路线信息。已公开的具体路线可分为两类：\n一、官方事前明确公布的规划游行路线\n1.  工会及社会组织发起的10月24日游行：共规划两条候选路线，均以巴士底广场为起点，一条途经共和国广场最终抵达歌剧院，另一条终点为民族广场；针对该场活动，巴黎警方当时已宣布加强警力部署[1]。\n2.  10月31日游行：由法国最高行政法院在10月31日凌晨裁决确定正式路线，起点为巴尼奥莱门（Porte de Bagnolet），终点为位于巴黎东南方向的沙朗通门（Porte de Charenton）[3]。\n3.  当月17日游行：13点30分从共和国广场出发，依次途经圣殿大道、十字架之女大道、博马舍大道、巴士底广场、里昂路、多梅尼尔大街、狄德罗大道，最终抵达民族广场；巴黎警察总局当日专门发文，要求沿途商户在示威期间停止营业，相关路段至当日20点禁止停车，同时将香榭丽舍大街、国民议会、总理府马提尼翁宫、巴黎圣母院等区域划为游行禁区[4]。\n4.  配套专属交通管控的游行：该场活动于下午2点从荣军院广场出发，沿马雷夏尔·加利埃尼大道、荣军院大道、蒙巴纳斯大道、罗亚尔港大道、戈贝兰大道行进，预计晚7点左右抵达意大利广场；巴黎警察局专门为该场示威设置了特殊交通管理系统，在活动周边开展交通管控[5]。\n二、示威活动现场形成的临时行进路径\n在一场涉及凯旋门区域的示威活动中，未被完全驱散的示威者并未完全沿预定路线行进，而是临时沿多组道路流动：一是沿福熙大道、奥什大道、弗里德兰大道、乔治五世大道转移，向香榭丽舍大街、协和广场、杜乐丽花园方向进军；二是在奥斯曼大道逐步聚集，经蒙田大道、圣奥诺雷市郊街向总统府爱丽舍宫方向汇集；另有从里沃利街方向前来的示威者进入协和广场区域，上述路径均属于示威者现场流动形成的非规划路线[2]。\n\n### 相关提示\n由于巴黎的游行示威活动常出现示威者偏离官方公布路线、临时向周边公共场所、敏感机构流动的情况，中国驻法国使领馆多次提醒赴法及在法中国公民提高风险防范意识，密切关注当地形势和使领馆安全提醒，远离游行示威区域；如遇突发情况需服从警察指挥，尽快撤离现场，在确保安全的前提下报警并联系使领馆寻求协助[1][3]。",
+  "sources": [
+    {
+      "index": 1,
+      "url": "https://fr.china-embassy.gov.cn/zgzfg/zgsg/lsqwc/zytz/202610/t20261022_12045507.htm",
+      "title": null,
+      "origin": "citations"
+    },
+    {
+      "index": 2,
+      "url": "https://news.sina.cn/global/szzx/2018-12-04/detail-ihmutuec6227551.d.html?vt=4",
+      "title": null,
+      "origin": "citations"
+    },
+    {
+      "index": 3,
+      "url": "https://news.qq.com/rain/a/20261031A0CU8L00",
+      "title": null,
+      "origin": "citations"
+    },
+    {
+      "index": 4,
+      "url": "https://new.qq.com/rain/a/20191215A09YDI00",
+      "title": null,
+      "origin": "citations"
+    },
+    {
+      "index": 5,
+      "url": "https://www.52hrtt.com/ec/n/w/info/A1685709533737",
+      "title": null,
+      "origin": "citations"
+    }
+  ],
+  "usage": {
+    "completion_tokens": 3301,
+    "completion_tokens_details": {
+      "reasoning_tokens": 2635
+    },
+    "prompt_tokens": 1497,
+    "prompt_tokens_details": {
+      "cached_tokens": 0
+    },
+    "total_tokens": 4798
+  },
+  "finish_reason": "stop",
+  "note": [],
+  "request_id": "4831a108-1922-401d-bb36-eec287f3e55c",
+  "duration_seconds": 57.423
+}

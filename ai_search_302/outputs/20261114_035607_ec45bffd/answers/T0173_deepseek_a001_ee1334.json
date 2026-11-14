@@ -1,0 +1,63 @@
+{
+  "task_id": "T0173",
+  "model": "deepseek",
+  "news_id": "E014",
+  "question_index": 4,
+  "question_original": "【事实】尹锡悦内乱案一审判了什么？2026年11月5日公布的二审宣判时间是什么时候？",
+  "question": "尹锡悦内乱案一审判了什么？2026年11月5日公布的二审宣判时间是什么时候？",
+  "attempt": 1,
+  "provider": "302.ai",
+  "model_requested": "deepseek-flash",
+  "query_date": "2026-11-14",
+  "search_service": "metaso",
+  "prompt_version": "news-search-v1",
+  "prompt_sha256": "ea56fd5557d32615a9115f2368a0c4983ff1188f4935369e694d7d46f2493be1",
+  "requested_at": "2026-11-14T11:48:19.250455+08:00",
+  "raw_file": "raw/T0173_deepseek_a001_ee1334.json",
+  "transport": "sse",
+  "stream_file": "raw/T0173_deepseek_a001_ee1334.sse",
+  "status": "ok",
+  "model_returned": "deepseek-flash",
+  "answer": "**直接回答：按目前检索到的资料，无法确认尹锡悦“内乱案”一审的具体判决结果；同样没有资料显示2026年11月5日公布过二审宣判时间。** 现有信息反而存在明显的审级和时间矛盾，需要谨慎看待。\n\n**1. 内乱案一审判了什么？——资料不足**\n\n检索结果中与“内乱案”直接相关的内容只显示：负责调查该案的特别检察组于1月13日晚向法院求处尹锡悦死刑，该案一审定于**2月19日宣判**[4]。但检索结果中没有给出2月19日一审的实际判决内容。\n\n需要区分的是，另一条常被混淆的信息是：尹锡悦因**妨碍执行特殊公务等罪名**，于2026年1月16日一审被判处**有期徒刑5年**；此前特检组曾建议判其10年[4]。这是另一案件，不是“内乱案”本身的判决。\n\n**2. 2026年11月5日公布二审宣判时间？——检索结果中没有这一信息**\n\n检索结果中没有“11月5日公布二审宣判时间”的记载。相反，有一篇报道称：特检组于10月29日向二审法院以内乱头目罪名求处尹锡悦死刑，并称**11月5日是二审的“收官环节”**，当天完成全部辩护流程并听取尹锡悦最后陈述，但该报道并未说明二审何时宣判[2]。\n\n**3. 需要注意的资料矛盾**\n\n上述“10月29日二审求刑、11月5日二审收官”的说法，与另一篇报道所称“内乱案一审2月19日宣判、特检组1月13日求处死刑”在审级和时间上对不上[2][4]。前者可能是编译或时间线错误，也可能是把不同案件、不同审级混为一谈。因此，对于“二审宣判时间”，目前检索资料不足以给出可靠答案。\n\n**建议**：以韩国法院公告、韩联社等主流媒体的后续报道为准，核实内乱案一审判决主文及二审宣判日期；现有检索结果只能确认“一审原定2月19日宣判”和“11月5日被某媒体报道为二审最后陈述日”，不能确认具体判决内容和二审宣判时间。",
+  "sources": [
+    {
+      "index": 1,
+      "url": "https://www.chinanews.com.cn/gj/2026/01-16/10553091.shtml",
+      "title": null,
+      "origin": "citations"
+    },
+    {
+      "index": 2,
+      "url": "https://news.qq.com/rain/a/20261030A02X1B00",
+      "title": null,
+      "origin": "citations"
+    },
+    {
+      "index": 3,
+      "url": "https://finance.sina.cn/2026-01-19/detail-inhhwavp7797608.d.html",
+      "title": null,
+      "origin": "citations"
+    },
+    {
+      "index": 4,
+      "url": "https://www.guancha.cn/internation/2026_02_19_807518.shtml",
+      "title": null,
+      "origin": "citations"
+    }
+  ],
+  "usage": {
+    "completion_tokens": 1699,
+    "completion_tokens_details": {
+      "reasoning_tokens": 1202
+    },
+    "prompt_tokens": 1433,
+    "prompt_tokens_details": {
+      "cached_tokens": 0
+    },
+    "total_tokens": 3132
+  },
+  "finish_reason": "stop",
+  "note": [],
+  "request_id": "e1d1bd11-19f0-466e-92db-6759c05464fa",
+  "duration_seconds": 11.672
+}

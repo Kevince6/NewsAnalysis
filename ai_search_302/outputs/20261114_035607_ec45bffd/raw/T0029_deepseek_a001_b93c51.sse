@@ -1,0 +1,104 @@
+data: {"choices":[{"delta":{"reasoning_content":"用户","role":"assistant"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20261019A07IN500","https://new.qq.com/rain/a/20260710A04SJL00"],"created":1794600972,"id":"chatcmpl-24f418f8-7ad4-49e5-8774-a74bc1dd4fce","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"问的是联合国核"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20261019A07IN500","https://new.qq.com/rain/a/20260710A04SJL00"],"created":1794600972,"id":"chatcmpl-24f418f8-7ad4-49e5-8774-a74bc1dd4fce","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"实的2026年9月"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20261019A07IN500","https://new.qq.com/rain/a/20260710A04SJL00"],"created":1794600972,"id":"chatcmpl-24f418f8-7ad4-49e5-8774-a74bc1dd4fce","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"乌克兰平民死亡和"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20261019A07IN500","https://new.qq.com/rain/a/20260710A04SJL00"],"created":1794600972,"id":"chatcmpl-24f418f8-7ad4-49e5-8774-a74bc1dd4fce","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"受伤人数。搜索结果里 webpage"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20261019A07IN500","https://new.qq.com/rain/a/20260710A04SJL00"],"created":1794600972,"id":"chatcmpl-24f418f8-7ad4-49e5-8774-a74bc1dd4fce","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":" 2 明确"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20261019A07IN500","https://new.qq.com/rain/a/20260710A04SJL00"],"created":1794600972,"id":"chatcmpl-24f418f8-7ad4-49e5-8774-a74bc1dd4fce","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"说：2026年9"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20261019A07IN500","https://new.qq.com/rain/a/20260710A04SJL00"],"created":1794600972,"id":"chatcmpl-24f418f8-7ad4-49e5-8774-a74bc1dd4fce","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"月，联合国核实"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20261019A07IN500","https://new.qq.com/rain/a/20260710A04SJL00"],"created":1794600972,"id":"chatcmpl-24f418f8-7ad4-49e5-8774-a74bc1dd4fce","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"乌克兰至少328名"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20261019A07IN500","https://new.qq.com/rain/a/20260710A04SJL00"],"created":1794600972,"id":"chatcmpl-24f418f8-7ad4-49e5-8774-a74bc1dd4fce","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"平民死亡、2105"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20261019A07IN500","https://new.qq.com/rain/a/20260710A04SJL00"],"created":1794600972,"id":"chatcmpl-24f418f8-7ad4-49e5-8774-a74bc1dd4fce","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"人受伤，"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20261019A07IN500","https://new.qq.com/rain/a/20260710A04SJL00"],"created":1794600972,"id":"chatcmpl-24f418f8-7ad4-49e5-8774-a74bc1dd4fce","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"较2025年9"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20261019A07IN500","https://new.qq.com/rain/a/20260710A04SJL00"],"created":1794600972,"id":"chatcmpl-24f418f8-7ad4-49e5-8774-a74bc1dd4fce","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"月高85%。所以"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20261019A07IN500","https://new.qq.com/rain/a/20260710A04SJL00"],"created":1794600972,"id":"chatcmpl-24f418f8-7ad4-49e5-8774-a74bc1dd4fce","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"答案是"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20261019A07IN500","https://new.qq.com/rain/a/20260710A04SJL00"],"created":1794600972,"id":"chatcmpl-24f418f8-7ad4-49e5-8774-a74bc1dd4fce","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"328人死亡"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20261019A07IN500","https://new.qq.com/rain/a/20260710A04SJL00"],"created":1794600972,"id":"chatcmpl-24f418f8-7ad4-49e5-8774-a74bc1dd4fce","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"、2105人受伤。"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20261019A07IN500","https://new.qq.com/rain/a/20260710A04SJL00"],"created":1794600972,"id":"chatcmpl-24f418f8-7ad4-49e5-8774-a74bc1dd4fce","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"需要引用"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20261019A07IN500","https://new.qq.com/rain/a/20260710A04SJL00"],"created":1794600972,"id":"chatcmpl-24f418f8-7ad4-49e5-8774-a74bc1dd4fce","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"["},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20261019A07IN500","https://new.qq.com/rain/a/20260710A04SJL00"],"created":1794600972,"id":"chatcmpl-24f418f8-7ad4-49e5-8774-a74bc1dd4fce","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"2]。简单回答即可"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20261019A07IN500","https://new.qq.com/rain/a/20260710A04SJL00"],"created":1794600972,"id":"chatcmpl-24f418f8-7ad4-49e5-8774-a74bc1dd4fce","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"，补充这是"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20261019A07IN500","https://new.qq.com/rain/a/20260710A04SJL00"],"created":1794600972,"id":"chatcmpl-24f418f8-7ad4-49e5-8774-a74bc1dd4fce","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"经"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20261019A07IN500","https://new.qq.com/rain/a/20260710A04SJL00"],"created":1794600972,"id":"chatcmpl-24f418f8-7ad4-49e5-8774-a74bc1dd4fce","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"核实的最低数。"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20261019A07IN500","https://new.qq.com/rain/a/20260710A04SJL00"],"created":1794600972,"id":"chatcmpl-24f418f8-7ad4-49e5-8774-a74bc1dd4fce","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"联合国"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20261019A07IN500","https://new.qq.com/rain/a/20260710A04SJL00"],"created":1794600972,"id":"chatcmpl-24f418f8-7ad4-49e5-8774-a74bc1dd4fce","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"核实"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20261019A07IN500","https://new.qq.com/rain/a/20260710A04SJL00"],"created":1794600972,"id":"chatcmpl-24f418f8-7ad4-49e5-8774-a74bc1dd4fce","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"，"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20261019A07IN500","https://new.qq.com/rain/a/20260710A04SJL00"],"created":1794600972,"id":"chatcmpl-24f418f8-7ad4-49e5-8774-a74bc1dd4fce","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"2026年9月乌克兰"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20261019A07IN500","https://new.qq.com/rain/a/20260710A04SJL00"],"created":1794600972,"id":"chatcmpl-24f418f8-7ad4-49e5-8774-a74bc1dd4fce","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"至少有"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20261019A07IN500","https://new.qq.com/rain/a/20260710A04SJL00"],"created":1794600972,"id":"chatcmpl-24f418f8-7ad4-49e5-8774-a74bc1dd4fce","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":" **"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20261019A07IN500","https://new.qq.com/rain/a/20260710A04SJL00"],"created":1794600972,"id":"chatcmpl-24f418f8-7ad4-49e5-8774-a74bc1dd4fce","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"328名平民死亡、"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20261019A07IN500","https://new.qq.com/rain/a/20260710A04SJL00"],"created":1794600972,"id":"chatcmpl-24f418f8-7ad4-49e5-8774-a74bc1dd4fce","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"2105人受伤**，"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20261019A07IN500","https://new.qq.com/rain/a/20260710A04SJL00"],"created":1794600972,"id":"chatcmpl-24f418f8-7ad4-49e5-8774-a74bc1dd4fce","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"两项"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20261019A07IN500","https://new.qq.com/rain/a/20260710A04SJL00"],"created":1794600972,"id":"chatcmpl-24f418f8-7ad4-49e5-8774-a74bc1dd4fce","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"合计"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20261019A07IN500","https://new.qq.com/rain/a/20260710A04SJL00"],"created":1794600972,"id":"chatcmpl-24f418f8-7ad4-49e5-8774-a74bc1dd4fce","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"的"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20261019A07IN500","https://new.qq.com/rain/a/20260710A04SJL00"],"created":1794600972,"id":"chatcmpl-24f418f8-7ad4-49e5-8774-a74bc1dd4fce","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"伤亡人数比2025年"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20261019A07IN500","https://new.qq.com/rain/a/20260710A04SJL00"],"created":1794600972,"id":"chatcmpl-24f418f8-7ad4-49e5-8774-a74bc1dd4fce","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"9月高85%["},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20261019A07IN500","https://new.qq.com/rain/a/20260710A04SJL00"],"created":1794600972,"id":"chatcmpl-24f418f8-7ad4-49e5-8774-a74bc1dd4fce","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"2]。\n\n需要说明的是，"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20261019A07IN500","https://new.qq.com/rain/a/20260710A04SJL00"],"created":1794600972,"id":"chatcmpl-24f418f8-7ad4-49e5-8774-a74bc1dd4fce","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"这属于“"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20261019A07IN500","https://new.qq.com/rain/a/20260710A04SJL00"],"created":1794600972,"id":"chatcmpl-24f418f8-7ad4-49e5-8774-a74bc1dd4fce","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"经核实的最低数”，遇"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20261019A07IN500","https://new.qq.com/rain/a/20260710A04SJL00"],"created":1794600972,"id":"chatcmpl-24f418f8-7ad4-49e5-8774-a74bc1dd4fce","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"难"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20261019A07IN500","https://new.qq.com/rain/a/20260710A04SJL00"],"created":1794600972,"id":"chatcmpl-24f418f8-7ad4-49e5-8774-a74bc1dd4fce","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"和"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20261019A07IN500","https://new.qq.com/rain/a/20260710A04SJL00"],"created":1794600972,"id":"chatcmpl-24f418f8-7ad4-49e5-8774-a74bc1dd4fce","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"受伤人数都不"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20261019A07IN500","https://new.qq.com/rain/a/20260710A04SJL00"],"created":1794600972,"id":"chatcmpl-24f418f8-7ad4-49e5-8774-a74bc1dd4fce","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"包括"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20261019A07IN500","https://new.qq.com/rain/a/20260710A04SJL00"],"created":1794600972,"id":"chatcmpl-24f418f8-7ad4-49e5-8774-a74bc1dd4fce","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"联合国"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20261019A07IN500","https://new.qq.com/rain/a/20260710A04SJL00"],"created":1794600972,"id":"chatcmpl-24f418f8-7ad4-49e5-8774-a74bc1dd4fce","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"无法及时进入或"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20261019A07IN500","https://new.qq.com/rain/a/20260710A04SJL00"],"created":1794600972,"id":"chatcmpl-24f418f8-7ad4-49e5-8774-a74bc1dd4fce","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"无法充分核验地区内的"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20261019A07IN500","https://new.qq.com/rain/a/20260710A04SJL00"],"created":1794600972,"id":"chatcmpl-24f418f8-7ad4-49e5-8774-a74bc1dd4fce","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"全部伤亡"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20261019A07IN500","https://new.qq.com/rain/a/20260710A04SJL00"],"created":1794600972,"id":"chatcmpl-24f418f8-7ad4-49e5-8774-a74bc1dd4fce","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"；因此，"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20261019A07IN500","https://new.qq.com/rain/a/20260710A04SJL00"],"created":1794600972,"id":"chatcmpl-24f418f8-7ad4-49e5-8774-a74bc1dd4fce","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"实际数字"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20261019A07IN500","https://new.qq.com/rain/a/20260710A04SJL00"],"created":1794600972,"id":"chatcmpl-24f418f8-7ad4-49e5-8774-a74bc1dd4fce","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"可能更高["},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20261019A07IN500","https://new.qq.com/rain/a/20260710A04SJL00"],"created":1794600972,"id":"chatcmpl-24f418f8-7ad4-49e5-8774-a74bc1dd4fce","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"2]。"},"finish_reason":"stop","index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20261019A07IN500","https://new.qq.com/rain/a/20260710A04SJL00"],"created":1794600972,"id":"chatcmpl-24f418f8-7ad4-49e5-8774-a74bc1dd4fce","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[],"citations":["https://news.qq.com/rain/a/20261019A07IN500","https://new.qq.com/rain/a/20260710A04SJL00"],"created":1794600972,"id":"chatcmpl-24f418f8-7ad4-49e5-8774-a74bc1dd4fce","model":"deepseek-flash","object":"chat.completion.chunk","usage":{"completion_tokens":165,"completion_tokens_details":{"reasoning_tokens":82},"prompt_tokens":954,"prompt_tokens_details":{"cached_tokens":0},"total_tokens":1119}}
+
+data: [DONE]
+

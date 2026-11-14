@@ -1,0 +1,59 @@
+{
+  "task_id": "T0237",
+  "model": "qwen",
+  "news_id": "E019",
+  "question_index": 4,
+  "question_original": "【事实】图书馆纠纷案二审是哪天作出的，结果是什么？",
+  "question": "图书馆纠纷案二审是哪天作出的，结果是什么？",
+  "attempt": 1,
+  "provider": "302.ai",
+  "model_requested": "qwen3.8-max",
+  "query_date": "2026-11-14",
+  "search_service": "metaso",
+  "prompt_version": "news-search-v1",
+  "prompt_sha256": "ea56fd5557d32615a9115f2368a0c4983ff1188f4935369e694d7d46f2493be1",
+  "requested_at": "2026-11-14T12:05:05.043932+08:00",
+  "raw_file": "raw/T0237_qwen_a001_b4745d.json",
+  "transport": "sse",
+  "stream_file": "raw/T0237_qwen_a001_b4745d.sse",
+  "status": "ok",
+  "model_returned": "qwen3.8-max",
+  "answer": "如果你说的是引发关注的“武汉大学图书馆案”，二审判决是在**2025年9月17日**作出的，武汉市中级人民法院二审**驳回杨某媛的上诉，维持一审原判**，即维持“肖某瑫不构成性骚扰”的一审认定[5]。\n\n不过，搜索结果中还有一起名称相关的“北京三面向版权代理有限公司与国家图书馆著作权权属纠纷、侵害著作权纠纷”二审案件。该案二审裁判日期显示为**2020年12月某日**，资料中具体日期未完整显示；裁判结果为**撤销一审判决**[4]。",
+  "sources": [
+    {
+      "index": 1,
+      "url": "http://jyglj.guizhou.gov.cn/pb/jywh/gzdt/201811/t20181108_25644351.html",
+      "title": null,
+      "origin": "citations"
+    },
+    {
+      "index": 2,
+      "url": "https://www.iphouse.cn/cases/detail/084okq92gy1xjr9no2gjnewzd3rmv7p5.html",
+      "title": null,
+      "origin": "citations"
+    },
+    {
+      "index": 3,
+      "url": "https://www.163.com/dy/article/K9V82MFT0553TFBT.html",
+      "title": null,
+      "origin": "citations"
+    }
+  ],
+  "usage": {
+    "completion_tokens": 456,
+    "completion_tokens_details": {
+      "reasoning_tokens": 329,
+      "text_tokens": 456
+    },
+    "prompt_tokens": 1166,
+    "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "text_tokens": 1166
+    },
+    "total_tokens": 1622
+  },
+  "finish_reason": "stop",
+  "note": [],
+  "request_id": "dbe145b5-82bd-4204-806a-20c7b6c0adc4",
+  "duration_seconds": 13.703
+}

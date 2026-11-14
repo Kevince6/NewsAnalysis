@@ -1,0 +1,69 @@
+{
+  "task_id": "T0181",
+  "model": "doubao",
+  "news_id": "E015",
+  "question_index": 2,
+  "question_original": "【开放】2025年11月的拨款案，是不是代表整个财年的预算都解决了？临时拨款部分覆盖什么范围？",
+  "question": "2025年11月的拨款案，是不是代表整个财年的预算都解决了？临时拨款部分覆盖什么范围？",
+  "attempt": 1,
+  "provider": "302.ai",
+  "model_requested": "doubao-seed-2-1-pro-260628",
+  "query_date": "2026-11-14",
+  "search_service": "metaso",
+  "prompt_version": "news-search-v1",
+  "prompt_sha256": "ea56fd5557d32615a9115f2368a0c4983ff1188f4935369e694d7d46f2493be1",
+  "requested_at": "2026-11-14T11:49:42.118301+08:00",
+  "raw_file": "raw/T0181_doubao_a001_5afec1.json",
+  "transport": "sse",
+  "stream_file": "raw/T0181_doubao_a001_5afec1.sse",
+  "status": "ok",
+  "model_returned": "doubao-seed-2-1-pro-260628",
+  "answer": "根据现有检索到的公开资料，暂无法确认您所提及的“2025年11月的拨款案”的具体内容，也无法判断这笔拨款是否覆盖2025整个财年的全部预算需求；目前公开资料中仅披露了临时救助类专项财政经费的相关安排，未提及其他类型临时拨款的信息，这类临时救助经费主要用于困难群众的临时生活保障。\n\n相关事实与背景说明如下：\n1.  关于11月拨款案的信息边界\n现有检索结果涵盖的2025年财政相关内容，均为各单位公开的年度预算安排、专项民生经费管理规则，未涉及2025年11月时点的拨款方案信息，缺少拨款总额、资金用途、拨付规则等判断资金覆盖范围的核心依据，因此无法就“该拨款是否解决全财年预算”给出确定性结论。\n从已披露的2025年财政预算结构来看，年度财政支出覆盖领域广、资金规模大：仅单个公开预算主体的2025年财政拨款支出总预算就达2625.63万元，涵盖一般公共服务、社会保障和就业、卫生健康、城乡社区、援助其他地区、粮油物资储备六大类支出[1]；细分支出项既包括财政行政运行、财政国库业务等政务保障类支出[5]，也包括特困人员救助供养、流浪乞讨人员救助、其他农村生活救助等民生保障类支出[3][4]，全口径年度预算需求规模较大，单一拨款能否覆盖全财年需结合拨款实际规模判断，但目前无对应信息可供验证。\n2.  可查的临时类专项经费（临时救助资金）覆盖范围\n目前检索结果中所有带有“临时”属性的财政资金均为困难群众临时救助专项经费，这类资金严格执行专款专用要求，具体覆盖三类生活困难群体：\n    一是急难型救助对象，包括因火灾、交通事故等意外事件导致生命健康或家庭财产遭受重大损失，陷入或可能陷入生活困境的家庭和个人；以及因家庭成员突发重大疾病导致刚性支出骤然增加，基本生活暂时出现严重困难的低收入人口[2]。\n    二是支出型救助对象，即因教育、医疗等生活必需支出突然增加、超出家庭承受能力，导致基本生活在一定时期内出现严重困难的家庭[2]。\n    三是其他特殊困难对象，即因其他特殊原因造成生活困难，经规范认定确需给予救助的群体[2]。\n3.  临时救助类资金的2025年安排情况\n2025年不同层级、不同预算单位均安排了对应规模的临时救助资金：县级层面统筹拨付了181万元临时救助县级补助经费，直接分配至各镇（区、街道）按规定范围使用[2]；部分预算单位在2025年社会保障和就业类预算中，安排220万元临时救助支出、5万元流浪乞讨人员救助支出，专项用于对应临时救助场景[3]；另有部分预算单位安排45万元临时救助支出、5万元流浪乞讨人员救助支出，用于城乡生活困难居民临时救助、生活无着流浪乞讨人员救助及救助管理机构运转支出[4]。除上述临时救助类民生经费外，现有资料未记载其他临时拨款的设置、规模和覆盖范围。",
+  "sources": [
+    {
+      "index": 1,
+      "url": "http://www.tjhb.gov.cn/zwgk/zfxxgk/zfxxgkqjjg/qfzhggwyh/fdzdgknr4/czyjs4/czys112227/2025n/202501/t20250126_6847263.html",
+      "title": null,
+      "origin": "citations"
+    },
+    {
+      "index": 2,
+      "url": "https://www.rudong.gov.cn/rdxmzj/zdgz/content/4b88c24c-5f97-4bfb-9de7-0237538e770a.html",
+      "title": null,
+      "origin": "citations"
+    },
+    {
+      "index": 3,
+      "url": "http://www.scnx.gov.cn/zwgk/zdxxgk/czyjs/qjbmyjsgk/mzj/202501/t20250122_2089413.html",
+      "title": null,
+      "origin": "citations"
+    },
+    {
+      "index": 4,
+      "url": "https://www.gyct.gov.cn/gongkai/show/20250306095422236.html",
+      "title": null,
+      "origin": "citations"
+    },
+    {
+      "index": 5,
+      "url": "https://lingshui.hainan.gov.cn/xxgkzl/czj/xxxgkml/202502/t20250228_3825327_mo.html",
+      "title": null,
+      "origin": "citations"
+    }
+  ],
+  "usage": {
+    "completion_tokens": 5582,
+    "completion_tokens_details": {
+      "reasoning_tokens": 4850
+    },
+    "prompt_tokens": 1767,
+    "prompt_tokens_details": {
+      "cached_tokens": 0
+    },
+    "total_tokens": 7349
+  },
+  "finish_reason": "stop",
+  "note": [],
+  "request_id": "9a7fe045-4207-4120-ba5e-9620ea5f483e",
+  "duration_seconds": 96.313
+}

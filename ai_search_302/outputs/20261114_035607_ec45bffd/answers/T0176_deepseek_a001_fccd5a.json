@@ -1,0 +1,63 @@
+{
+  "task_id": "T0176",
+  "model": "deepseek",
+  "news_id": "E014",
+  "question_index": 5,
+  "question_original": "【事实】2026年7月9日获最高法院维持的7年刑期，针对的是哪起案件？",
+  "question": "2026年7月9日获最高法院维持的7年刑期，针对的是哪起案件？",
+  "attempt": 1,
+  "provider": "302.ai",
+  "model_requested": "deepseek-flash",
+  "query_date": "2026-11-14",
+  "search_service": "metaso",
+  "prompt_version": "news-search-v1",
+  "prompt_sha256": "ea56fd5557d32615a9115f2368a0c4983ff1188f4935369e694d7d46f2493be1",
+  "requested_at": "2026-11-14T11:48:57.454526+08:00",
+  "raw_file": "raw/T0176_deepseek_a001_fccd5a.json",
+  "transport": "sse",
+  "stream_file": "raw/T0176_deepseek_a001_fccd5a.sse",
+  "status": "ok",
+  "model_returned": "deepseek-flash",
+  "answer": "根据目前检索到的资料，**无法确认**“2026年7月9日由最高法院维持的7年刑期”具体对应哪起案件。检索结果中没有出现这一时间点，也没有“最高法院维持7年刑期”的相应报道。\n\n可以说明两点：\n\n1. 检索结果里唯一与“7年刑期”直接相关的是**傅文尧受贿案**：检方就一审判决提出抗诉，省高院采纳抗诉理由，认定其中5万元具有非法占有故意，以受贿罪改判傅文尧有期徒刑7年[webpage 4]。但该案是**省高院二审改判**，并非“最高法院维持”，报道中也未出现“2026年7月9日”这一时间节点，因此不能据此认为二者是同一案件。\n\n2. 其余检索结果分别涉及一起驾车撞人报复案件[webpage 2]、虚开增值税专用发票案[webpage 3]和演员片酬事件[webpage 5]，均与“最高法院维持7年刑期”无关。\n\n因此，现有资料不足以给出确定答案；这属于**尚未确认**的内容。若要继续核查，建议补充以下任一信息：案件当事人姓名、案发国家或地区（“最高法院”可能指中国最高人民法院，也可能指其他国家的最高法院）、罪名（如受贿、诈骗、危害公共安全等），或该案一审法院名称。补充这些线索后，就可以进一步定位该案。",
+  "sources": [
+    {
+      "index": 1,
+      "url": "http://djk.sy.hbjc.gov.cn/jcxw_69786/djdt/202204/t20220427_1722085.shtml",
+      "title": null,
+      "origin": "citations"
+    },
+    {
+      "index": 2,
+      "url": "https://www.thepaper.cn/newsDetail_forward_15575641",
+      "title": null,
+      "origin": "citations"
+    },
+    {
+      "index": 3,
+      "url": "https://news.sina.cn/sa/2003-07-16/detail-ikknscsi0787973.d.html",
+      "title": null,
+      "origin": "citations"
+    },
+    {
+      "index": 4,
+      "url": "https://weibo.com/ttarticle/p/show?id=2309404632048491954341",
+      "title": null,
+      "origin": "citations"
+    }
+  ],
+  "usage": {
+    "completion_tokens": 707,
+    "completion_tokens_details": {
+      "reasoning_tokens": 399
+    },
+    "prompt_tokens": 1156,
+    "prompt_tokens_details": {
+      "cached_tokens": 0
+    },
+    "total_tokens": 1863
+  },
+  "finish_reason": "stop",
+  "note": [],
+  "request_id": "53c04a93-a23f-40b5-953f-bf2996f7c41f",
+  "duration_seconds": 24.031
+}

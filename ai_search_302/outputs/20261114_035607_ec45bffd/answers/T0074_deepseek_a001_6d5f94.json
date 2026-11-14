@@ -1,0 +1,45 @@
+{
+  "task_id": "T0074",
+  "model": "deepseek",
+  "news_id": "E006",
+  "question_index": 3,
+  "question_original": "【事实】美伊在2026年6月哪天宣布达成停战谅解备忘录？当时计划哪天正式签署？",
+  "question": "美伊在2026年6月哪天宣布达成停战谅解备忘录？当时计划哪天正式签署？",
+  "attempt": 1,
+  "provider": "302.ai",
+  "model_requested": "deepseek-flash",
+  "query_date": "2026-11-14",
+  "search_service": "metaso",
+  "prompt_version": "news-search-v1",
+  "prompt_sha256": "ea56fd5557d32615a9115f2368a0c4983ff1188f4935369e694d7d46f2493be1",
+  "requested_at": "2026-11-14T11:19:16.962921+08:00",
+  "raw_file": "raw/T0074_deepseek_a001_6d5f94.json",
+  "transport": "sse",
+  "stream_file": "raw/T0074_deepseek_a001_6d5f94.sse",
+  "status": "ok",
+  "model_returned": "deepseek-flash",
+  "answer": "美伊于 **2026年6月14日**宣布达成停战谅解备忘录；按照当时的安排，正式签署仪式定于 **6月19日**在瑞士举行[2]。\n\n补充背景：据伊朗媒体报道，6月15日伊朗外交部副部长加里巴巴迪确认，伊美谅解备忘录文本已经最终确定，这份备忘录被称为“伊斯兰堡备忘录”；加里巴巴迪还表示，在停火、美国解除海上封锁、伊朗遭冻结资产开始解冻之后，双方将进入为期60天的谈判期，磋商最终协议[2]。这说明6月19日是当时公布的签署计划日期，而实际签署情况如何，现有检索资料未作进一步说明。",
+  "sources": [
+    {
+      "index": 1,
+      "url": "https://baike.baidu.com/item/%E7%BE%8E%E4%BC%8A%E5%81%9C%E6%88%98%E8%B0%85%E8%A7%A3%E5%A4%87%E5%BF%98%E5%BD%95/67641986?fromModule=lemma_inlink",
+      "title": null,
+      "origin": "citations"
+    }
+  ],
+  "usage": {
+    "completion_tokens": 294,
+    "completion_tokens_details": {
+      "reasoning_tokens": 149
+    },
+    "prompt_tokens": 724,
+    "prompt_tokens_details": {
+      "cached_tokens": 0
+    },
+    "total_tokens": 1018
+  },
+  "finish_reason": "stop",
+  "note": [],
+  "request_id": "431b6fa7-975f-4f5f-b9f7-491e2949407f",
+  "duration_seconds": 4.703
+}

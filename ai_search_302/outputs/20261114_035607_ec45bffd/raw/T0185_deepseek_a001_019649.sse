@@ -1,0 +1,750 @@
+data: {"choices":[{"delta":{"reasoning_content":"用户","role":"assistant"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://bj.crntt.com/crn-webapp/touch/detail.jsp?coluid=70\u0026docid=107140743"],"created":1794628283,"id":"chatcmpl-97829fe7-d34c-4431-b5bd-e51798437dfe","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"问"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://bj.crntt.com/crn-webapp/touch/detail.jsp?coluid=70\u0026docid=107140743"],"created":1794628283,"id":"chatcmpl-97829fe7-d34c-4431-b5bd-e51798437dfe","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"："},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://bj.crntt.com/crn-webapp/touch/detail.jsp?coluid=70\u0026docid=107140743"],"created":1794628283,"id":"chatcmpl-97829fe7-d34c-4431-b5bd-e51798437dfe","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"2025年11月10"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://bj.crntt.com/crn-webapp/touch/detail.jsp?coluid=70\u0026docid=107140743"],"created":1794628283,"id":"chatcmpl-97829fe7-d34c-4431-b5bd-e51798437dfe","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"日，参议院以多少"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://bj.crntt.com/crn-webapp/touch/detail.jsp?coluid=70\u0026docid=107140743"],"created":1794628283,"id":"chatcmpl-97829fe7-d34c-4431-b5bd-e51798437dfe","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"票通过修订后的拨款案"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://bj.crntt.com/crn-webapp/touch/detail.jsp?coluid=70\u0026docid=107140743"],"created":1794628283,"id":"chatcmpl-97829fe7-d34c-4431-b5bd-e51798437dfe","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"？总统哪天"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://bj.crntt.com/crn-webapp/touch/detail.jsp?coluid=70\u0026docid=107140743"],"created":1794628283,"id":"chatcmpl-97829fe7-d34c-4431-b5bd-e51798437dfe","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"签署成法？\n\n"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://bj.crntt.com/crn-webapp/touch/detail.jsp?coluid=70\u0026docid=107140743"],"created":1794628283,"id":"chatcmpl-97829fe7-d34c-4431-b5bd-e51798437dfe","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"搜索结果只"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://bj.crntt.com/crn-webapp/touch/detail.jsp?coluid=70\u0026docid=107140743"],"created":1794628283,"id":"chatcmpl-97829fe7-d34c-4431-b5bd-e51798437dfe","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"提供了一个网页"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://bj.crntt.com/crn-webapp/touch/detail.jsp?coluid=70\u0026docid=107140743"],"created":1794628283,"id":"chatcmpl-97829fe7-d34c-4431-b5bd-e51798437dfe","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"["},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://bj.crntt.com/crn-webapp/touch/detail.jsp?coluid=70\u0026docid=107140743"],"created":1794628283,"id":"chatcmpl-97829fe7-d34c-4431-b5bd-e51798437dfe","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"5]，讲"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://bj.crntt.com/crn-webapp/touch/detail.jsp?coluid=70\u0026docid=107140743"],"created":1794628283,"id":"chatcmpl-97829fe7-d34c-4431-b5bd-e51798437dfe","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"202"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://bj.crntt.com/crn-webapp/touch/detail.jsp?coluid=70\u0026docid=107140743"],"created":1794628283,"id":"chatcmpl-97829fe7-d34c-4431-b5bd-e51798437dfe","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"5-"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://bj.crntt.com/crn-webapp/touch/detail.jsp?coluid=70\u0026docid=107140743"],"created":1794628283,"id":"chatcmpl-97829fe7-d34c-4431-b5bd-e51798437dfe","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"11-10 参议院"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://bj.crntt.com/crn-webapp/touch/detail.jsp?coluid=70\u0026docid=107140743"],"created":1794628283,"id":"chatcmpl-97829fe7-d34c-4431-b5bd-e51798437dfe","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"有足够民主党"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://bj.crntt.com/crn-webapp/touch/detail.jsp?coluid=70\u0026docid=107140743"],"created":1794628283,"id":"chatcmpl-97829fe7-d34c-4431-b5bd-e51798437dfe","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"议员支持临时"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://bj.crntt.com/crn-webapp/touch/detail.jsp?coluid=70\u0026docid=107140743"],"created":1794628283,"id":"chatcmpl-97829fe7-d34c-4431-b5bd-e51798437dfe","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"拨款法案，可"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://bj.crntt.com/crn-webapp/touch/detail.jsp?coluid=70\u0026docid=107140743"],"created":1794628283,"id":"chatcmpl-97829fe7-d34c-4431-b5bd-e51798437dfe","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"望结束停"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://bj.crntt.com/crn-webapp/touch/detail.jsp?coluid=70\u0026docid=107140743"],"created":1794628283,"id":"chatcmpl-97829fe7-d34c-4431-b5bd-e51798437dfe","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"摆。但没有"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://bj.crntt.com/crn-webapp/touch/detail.jsp?coluid=70\u0026docid=107140743"],"created":1794628283,"id":"chatcmpl-97829fe7-d34c-4431-b5bd-e51798437dfe","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"具体"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://bj.crntt.com/crn-webapp/touch/detail.jsp?coluid=70\u0026docid=107140743"],"created":1794628283,"id":"chatcmpl-97829fe7-d34c-4431-b5bd-e51798437dfe","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"票数，也没有总统"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://bj.crntt.com/crn-webapp/touch/detail.jsp?coluid=70\u0026docid=107140743"],"created":1794628283,"id":"chatcmpl-97829fe7-d34c-4431-b5bd-e51798437dfe","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"签署日期。\n\n我需要"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://bj.crntt.com/crn-webapp/touch/detail.jsp?coluid=70\u0026docid=107140743"],"created":1794628283,"id":"chatcmpl-97829fe7-d34c-4431-b5bd-e51798437dfe","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"基于检索"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://bj.crntt.com/crn-webapp/touch/detail.jsp?coluid=70\u0026docid=107140743"],"created":1794628283,"id":"chatcmpl-97829fe7-d34c-4431-b5bd-e51798437dfe","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"到的"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://bj.crntt.com/crn-webapp/touch/detail.jsp?coluid=70\u0026docid=107140743"],"created":1794628283,"id":"chatcmpl-97829fe7-d34c-4431-b5bd-e51798437dfe","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"资料作答，"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://bj.crntt.com/crn-webapp/touch/detail.jsp?coluid=70\u0026docid=107140743"],"created":1794628283,"id":"chatcmpl-97829fe7-d34c-4431-b5bd-e51798437dfe","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"资料"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://bj.crntt.com/crn-webapp/touch/detail.jsp?coluid=70\u0026docid=107140743"],"created":1794628283,"id":"chatcmpl-97829fe7-d34c-4431-b5bd-e51798437dfe","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"不足要明确"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://bj.crntt.com/crn-webapp/touch/detail.jsp?coluid=70\u0026docid=107140743"],"created":1794628283,"id":"chatcmpl-97829fe7-d34c-4431-b5bd-e51798437dfe","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"说明。可以指出"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://bj.crntt.com/crn-webapp/touch/detail.jsp?coluid=70\u0026docid=107140743"],"created":1794628283,"id":"chatcmpl-97829fe7-d34c-4431-b5bd-e51798437dfe","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"："},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://bj.crntt.com/crn-webapp/touch/detail.jsp?coluid=70\u0026docid=107140743"],"created":1794628283,"id":"chatcmpl-97829fe7-d34c-4431-b5bd-e51798437dfe","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"现有"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://bj.crntt.com/crn-webapp/touch/detail.jsp?coluid=70\u0026docid=107140743"],"created":1794628283,"id":"chatcmpl-97829fe7-d34c-4431-b5bd-e51798437dfe","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"搜索结果只"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://bj.crntt.com/crn-webapp/touch/detail.jsp?coluid=70\u0026docid=107140743"],"created":1794628283,"id":"chatcmpl-97829fe7-d34c-4431-b5bd-e51798437dfe","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"提到\"至少"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://bj.crntt.com/crn-webapp/touch/detail.jsp?coluid=70\u0026docid=107140743"],"created":1794628283,"id":"chatcmpl-97829fe7-d34c-4431-b5bd-e51798437dfe","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"十"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://bj.crntt.com/crn-webapp/touch/detail.jsp?coluid=70\u0026docid=107140743"],"created":1794628283,"id":"chatcmpl-97829fe7-d34c-4431-b5bd-e51798437dfe","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"名民主党参"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://bj.crntt.com/crn-webapp/touch/detail.jsp?coluid=70\u0026docid=107140743"],"created":1794628283,"id":"chatcmpl-97829fe7-d34c-4431-b5bd-e51798437dfe","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"议员准备支持"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://bj.crntt.com/crn-webapp/touch/detail.jsp?coluid=70\u0026docid=107140743"],"created":1794628283,"id":"chatcmpl-97829fe7-d34c-4431-b5bd-e51798437dfe","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"\"，"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://bj.crntt.com/crn-webapp/touch/detail.jsp?coluid=70\u0026docid=107140743"],"created":1794628283,"id":"chatcmpl-97829fe7-d34c-4431-b5bd-e51798437dfe","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"\""},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://bj.crntt.com/crn-webapp/touch/detail.jsp?coluid=70\u0026docid=107140743"],"created":1794628283,"id":"chatcmpl-97829fe7-d34c-4431-b5bd-e51798437dfe","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"意味"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://bj.crntt.com/crn-webapp/touch/detail.jsp?coluid=70\u0026docid=107140743"],"created":1794628283,"id":"chatcmpl-97829fe7-d34c-4431-b5bd-e51798437dfe","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"法案"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://bj.crntt.com/crn-webapp/touch/detail.jsp?coluid=70\u0026docid=107140743"],"created":1794628283,"id":"chatcmpl-97829fe7-d34c-4431-b5bd-e51798437dfe","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"将获得参"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://bj.crntt.com/crn-webapp/touch/detail.jsp?coluid=70\u0026docid=107140743"],"created":1794628283,"id":"chatcmpl-97829fe7-d34c-4431-b5bd-e51798437dfe","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"议院超过60票支持"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://bj.crntt.com/crn-webapp/touch/detail.jsp?coluid=70\u0026docid=107140743"],"created":1794628283,"id":"chatcmpl-97829fe7-d34c-4431-b5bd-e51798437dfe","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"通过\"，没有给出最终表决"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://bj.crntt.com/crn-webapp/touch/detail.jsp?coluid=70\u0026docid=107140743"],"created":1794628283,"id":"chatcmpl-97829fe7-d34c-4431-b5bd-e51798437dfe","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"票数和"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://bj.crntt.com/crn-webapp/touch/detail.jsp?coluid=70\u0026docid=107140743"],"created":1794628283,"id":"chatcmpl-97829fe7-d34c-4431-b5bd-e51798437dfe","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"签署"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://bj.crntt.com/crn-webapp/touch/detail.jsp?coluid=70\u0026docid=107140743"],"created":1794628283,"id":"chatcmpl-97829fe7-d34c-4431-b5bd-e51798437dfe","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"日期。\n\n不过"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://bj.crntt.com/crn-webapp/touch/detail.jsp?coluid=70\u0026docid=107140743"],"created":1794628283,"id":"chatcmpl-97829fe7-d34c-4431-b5bd-e51798437dfe","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"，我可以结合"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://bj.crntt.com/crn-webapp/touch/detail.jsp?coluid=70\u0026docid=107140743"],"created":1794628283,"id":"chatcmpl-97829fe7-d34c-4431-b5bd-e51798437dfe","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"已知"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://bj.crntt.com/crn-webapp/touch/detail.jsp?coluid=70\u0026docid=107140743"],"created":1794628283,"id":"chatcmpl-97829fe7-d34c-4431-b5bd-e51798437dfe","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"事实（我的"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://bj.crntt.com/crn-webapp/touch/detail.jsp?coluid=70\u0026docid=107140743"],"created":1794628283,"id":"chatcmpl-97829fe7-d34c-4431-b5bd-e51798437dfe","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"知识）：2025"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://bj.crntt.com/crn-webapp/touch/detail.jsp?coluid=70\u0026docid=107140743"],"created":1794628283,"id":"chatcmpl-97829fe7-d34c-4431-b5bd-e51798437dfe","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"年11月10日，"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://bj.crntt.com/crn-webapp/touch/detail.jsp?coluid=70\u0026docid=107140743"],"created":1794628283,"id":"chatcmpl-97829fe7-d34c-4431-b5bd-e51798437dfe","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"参议院以60-40"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://bj.crntt.com/crn-webapp/touch/detail.jsp?coluid=70\u0026docid=107140743"],"created":1794628283,"id":"chatcmpl-97829fe7-d34c-4431-b5bd-e51798437dfe","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"票"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://bj.crntt.com/crn-webapp/touch/detail.jsp?coluid=70\u0026docid=107140743"],"created":1794628283,"id":"chatcmpl-97829fe7-d34c-4431-b5bd-e51798437dfe","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"通过修订"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://bj.crntt.com/crn-webapp/touch/detail.jsp?coluid=70\u0026docid=107140743"],"created":1794628283,"id":"chatcmpl-97829fe7-d34c-4431-b5bd-e51798437dfe","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"后的"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://bj.crntt.com/crn-webapp/touch/detail.jsp?coluid=70\u0026docid=107140743"],"created":1794628283,"id":"chatcmpl-97829fe7-d34c-4431-b5bd-e51798437dfe","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"持续"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://bj.crntt.com/crn-webapp/touch/detail.jsp?coluid=70\u0026docid=107140743"],"created":1794628283,"id":"chatcmpl-97829fe7-d34c-4431-b5bd-e51798437dfe","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"拨款法案（H.R"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://bj.crntt.com/crn-webapp/touch/detail.jsp?coluid=70\u0026docid=107140743"],"created":1794628283,"id":"chatcmpl-97829fe7-d34c-4431-b5bd-e51798437dfe","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":". 537"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://bj.crntt.com/crn-webapp/touch/detail.jsp?coluid=70\u0026docid=107140743"],"created":1794628283,"id":"chatcmpl-97829fe7-d34c-4431-b5bd-e51798437dfe","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"1?"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://bj.crntt.com/crn-webapp/touch/detail.jsp?coluid=70\u0026docid=107140743"],"created":1794628283,"id":"chatcmpl-97829fe7-d34c-4431-b5bd-e51798437dfe","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"），"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://bj.crntt.com/crn-webapp/touch/detail.jsp?coluid=70\u0026docid=107140743"],"created":1794628283,"id":"chatcmpl-97829fe7-d34c-4431-b5bd-e51798437dfe","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"结束"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://bj.crntt.com/crn-webapp/touch/detail.jsp?coluid=70\u0026docid=107140743"],"created":1794628283,"id":"chatcmpl-97829fe7-d34c-4431-b5bd-e51798437dfe","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"政府"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://bj.crntt.com/crn-webapp/touch/detail.jsp?coluid=70\u0026docid=107140743"],"created":1794628283,"id":"chatcmpl-97829fe7-d34c-4431-b5bd-e51798437dfe","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"停摆。特朗普"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://bj.crntt.com/crn-webapp/touch/detail.jsp?coluid=70\u0026docid=107140743"],"created":1794628283,"id":"chatcmpl-97829fe7-d34c-4431-b5bd-e51798437dfe","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"于202"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://bj.crntt.com/crn-webapp/touch/detail.jsp?coluid=70\u0026docid=107140743"],"created":1794628283,"id":"chatcmpl-97829fe7-d34c-4431-b5bd-e51798437dfe","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"5年11月12日"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://bj.crntt.com/crn-webapp/touch/detail.jsp?coluid=70\u0026docid=107140743"],"created":1794628283,"id":"chatcmpl-97829fe7-d34c-4431-b5bd-e51798437dfe","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"签署成"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://bj.crntt.com/crn-webapp/touch/detail.jsp?coluid=70\u0026docid=107140743"],"created":1794628283,"id":"chatcmpl-97829fe7-d34c-4431-b5bd-e51798437dfe","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"法。嗯"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://bj.crntt.com/crn-webapp/touch/detail.jsp?coluid=70\u0026docid=107140743"],"created":1794628283,"id":"chatcmpl-97829fe7-d34c-4431-b5bd-e51798437dfe","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"，让我回忆"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://bj.crntt.com/crn-webapp/touch/detail.jsp?coluid=70\u0026docid=107140743"],"created":1794628283,"id":"chatcmpl-97829fe7-d34c-4431-b5bd-e51798437dfe","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"：2025年美国"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://bj.crntt.com/crn-webapp/touch/detail.jsp?coluid=70\u0026docid=107140743"],"created":1794628283,"id":"chatcmpl-97829fe7-d34c-4431-b5bd-e51798437dfe","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"联邦"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://bj.crntt.com/crn-webapp/touch/detail.jsp?coluid=70\u0026docid=107140743"],"created":1794628283,"id":"chatcmpl-97829fe7-d34c-4431-b5bd-e51798437dfe","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"政府停摆从"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://bj.crntt.com/crn-webapp/touch/detail.jsp?coluid=70\u0026docid=107140743"],"created":1794628283,"id":"chatcmpl-97829fe7-d34c-4431-b5bd-e51798437dfe","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"10"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://bj.crntt.com/crn-webapp/touch/detail.jsp?coluid=70\u0026docid=107140743"],"created":1794628283,"id":"chatcmpl-97829fe7-d34c-4431-b5bd-e51798437dfe","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"月1日开始，持续"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://bj.crntt.com/crn-webapp/touch/detail.jsp?coluid=70\u0026docid=107140743"],"created":1794628283,"id":"chatcmpl-97829fe7-d34c-4431-b5bd-e51798437dfe","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"43天，是史上"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://bj.crntt.com/crn-webapp/touch/detail.jsp?coluid=70\u0026docid=107140743"],"created":1794628283,"id":"chatcmpl-97829fe7-d34c-4431-b5bd-e51798437dfe","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"最长。11月10"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://bj.crntt.com/crn-webapp/touch/detail.jsp?coluid=70\u0026docid=107140743"],"created":1794628283,"id":"chatcmpl-97829fe7-d34c-4431-b5bd-e51798437dfe","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"日参议院以"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://bj.crntt.com/crn-webapp/touch/detail.jsp?coluid=70\u0026docid=107140743"],"created":1794628283,"id":"chatcmpl-97829fe7-d34c-4431-b5bd-e51798437dfe","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"60-40通过"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://bj.crntt.com/crn-webapp/touch/detail.jsp?coluid=70\u0026docid=107140743"],"created":1794628283,"id":"chatcmpl-97829fe7-d34c-4431-b5bd-e51798437dfe","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"拨款"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://bj.crntt.com/crn-webapp/touch/detail.jsp?coluid=70\u0026docid=107140743"],"created":1794628283,"id":"chatcmpl-97829fe7-d34c-4431-b5bd-e51798437dfe","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"法案，11月12日"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://bj.crntt.com/crn-webapp/touch/detail.jsp?coluid=70\u0026docid=107140743"],"created":1794628283,"id":"chatcmpl-97829fe7-d34c-4431-b5bd-e51798437dfe","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"众议院以222"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://bj.crntt.com/crn-webapp/touch/detail.jsp?coluid=70\u0026docid=107140743"],"created":1794628283,"id":"chatcmpl-97829fe7-d34c-4431-b5bd-e51798437dfe","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"-209"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://bj.crntt.com/crn-webapp/touch/detail.jsp?coluid=70\u0026docid=107140743"],"created":1794628283,"id":"chatcmpl-97829fe7-d34c-4431-b5bd-e51798437dfe","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"通过，特朗普"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://bj.crntt.com/crn-webapp/touch/detail.jsp?coluid=70\u0026docid=107140743"],"created":1794628283,"id":"chatcmpl-97829fe7-d34c-4431-b5bd-e51798437dfe","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"当天"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://bj.crntt.com/crn-webapp/touch/detail.jsp?coluid=70\u0026docid=107140743"],"created":1794628283,"id":"chatcmpl-97829fe7-d34c-4431-b5bd-e51798437dfe","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"（"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://bj.crntt.com/crn-webapp/touch/detail.jsp?coluid=70\u0026docid=107140743"],"created":1794628283,"id":"chatcmpl-97829fe7-d34c-4431-b5bd-e51798437dfe","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"11月12日）签署"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://bj.crntt.com/crn-webapp/touch/detail.jsp?coluid=70\u0026docid=107140743"],"created":1794628283,"id":"chatcmpl-97829fe7-d34c-4431-b5bd-e51798437dfe","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"。是的"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://bj.crntt.com/crn-webapp/touch/detail.jsp?coluid=70\u0026docid=107140743"],"created":1794628283,"id":"chatcmpl-97829fe7-d34c-4431-b5bd-e51798437dfe","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"，我记得众"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://bj.crntt.com/crn-webapp/touch/detail.jsp?coluid=70\u0026docid=107140743"],"created":1794628283,"id":"chatcmpl-97829fe7-d34c-4431-b5bd-e51798437dfe","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"议院11月12日通过"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://bj.crntt.com/crn-webapp/touch/detail.jsp?coluid=70\u0026docid=107140743"],"created":1794628283,"id":"chatcmpl-97829fe7-d34c-4431-b5bd-e51798437dfe","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"，特朗普"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://bj.crntt.com/crn-webapp/touch/detail.jsp?coluid=70\u0026docid=107140743"],"created":1794628283,"id":"chatcmpl-97829fe7-d34c-4431-b5bd-e51798437dfe","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"当晚"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://bj.crntt.com/crn-webapp/touch/detail.jsp?coluid=70\u0026docid=107140743"],"created":1794628283,"id":"chatcmpl-97829fe7-d34c-4431-b5bd-e51798437dfe","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"签署。参"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://bj.crntt.com/crn-webapp/touch/detail.jsp?coluid=70\u0026docid=107140743"],"created":1794628283,"id":"chatcmpl-97829fe7-d34c-4431-b5bd-e51798437dfe","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"议院11"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://bj.crntt.com/crn-webapp/touch/detail.jsp?coluid=70\u0026docid=107140743"],"created":1794628283,"id":"chatcmpl-97829fe7-d34c-4431-b5bd-e51798437dfe","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"月10日 "},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://bj.crntt.com/crn-webapp/touch/detail.jsp?coluid=70\u0026docid=107140743"],"created":1794628283,"id":"chatcmpl-97829fe7-d34c-4431-b5bd-e51798437dfe","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"60-40。\n\n但"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://bj.crntt.com/crn-webapp/touch/detail.jsp?coluid=70\u0026docid=107140743"],"created":1794628283,"id":"chatcmpl-97829fe7-d34c-4431-b5bd-e51798437dfe","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"用户要求\""},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://bj.crntt.com/crn-webapp/touch/detail.jsp?coluid=70\u0026docid=107140743"],"created":1794628283,"id":"chatcmpl-97829fe7-d34c-4431-b5bd-e51798437dfe","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"依据检索到的资料作答"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://bj.crntt.com/crn-webapp/touch/detail.jsp?coluid=70\u0026docid=107140743"],"created":1794628283,"id":"chatcmpl-97829fe7-d34c-4431-b5bd-e51798437dfe","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"\"，资料"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://bj.crntt.com/crn-webapp/touch/detail.jsp?coluid=70\u0026docid=107140743"],"created":1794628283,"id":"chatcmpl-97829fe7-d34c-4431-b5bd-e51798437dfe","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"不足要"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://bj.crntt.com/crn-webapp/touch/detail.jsp?coluid=70\u0026docid=107140743"],"created":1794628283,"id":"chatcmpl-97829fe7-d34c-4431-b5bd-e51798437dfe","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"说明。搜索结果只有一篇"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://bj.crntt.com/crn-webapp/touch/detail.jsp?coluid=70\u0026docid=107140743"],"created":1794628283,"id":"chatcmpl-97829fe7-d34c-4431-b5bd-e51798437dfe","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"，没有票"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://bj.crntt.com/crn-webapp/touch/detail.jsp?coluid=70\u0026docid=107140743"],"created":1794628283,"id":"chatcmpl-97829fe7-d34c-4431-b5bd-e51798437dfe","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"数和"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://bj.crntt.com/crn-webapp/touch/detail.jsp?coluid=70\u0026docid=107140743"],"created":1794628283,"id":"chatcmpl-97829fe7-d34c-4431-b5bd-e51798437dfe","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"签署日期。我应该"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://bj.crntt.com/crn-webapp/touch/detail.jsp?coluid=70\u0026docid=107140743"],"created":1794628283,"id":"chatcmpl-97829fe7-d34c-4431-b5bd-e51798437dfe","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"说明检索"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://bj.crntt.com/crn-webapp/touch/detail.jsp?coluid=70\u0026docid=107140743"],"created":1794628283,"id":"chatcmpl-97829fe7-d34c-4431-b5bd-e51798437dfe","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"结果未"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://bj.crntt.com/crn-webapp/touch/detail.jsp?coluid=70\u0026docid=107140743"],"created":1794628283,"id":"chatcmpl-97829fe7-d34c-4431-b5bd-e51798437dfe","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"提供确切"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://bj.crntt.com/crn-webapp/touch/detail.jsp?coluid=70\u0026docid=107140743"],"created":1794628283,"id":"chatcmpl-97829fe7-d34c-4431-b5bd-e51798437dfe","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"票数和签署日期，但"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://bj.crntt.com/crn-webapp/touch/detail.jsp?coluid=70\u0026docid=107140743"],"created":1794628283,"id":"chatcmpl-97829fe7-d34c-4431-b5bd-e51798437dfe","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"基于公开"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://bj.crntt.com/crn-webapp/touch/detail.jsp?coluid=70\u0026docid=107140743"],"created":1794628283,"id":"chatcmpl-97829fe7-d34c-4431-b5bd-e51798437dfe","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"报道"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://bj.crntt.com/crn-webapp/touch/detail.jsp?coluid=70\u0026docid=107140743"],"created":1794628283,"id":"chatcmpl-97829fe7-d34c-4431-b5bd-e51798437dfe","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"（若我"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://bj.crntt.com/crn-webapp/touch/detail.jsp?coluid=70\u0026docid=107140743"],"created":1794628283,"id":"chatcmpl-97829fe7-d34c-4431-b5bd-e51798437dfe","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"确定）可"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://bj.crntt.com/crn-webapp/touch/detail.jsp?coluid=70\u0026docid=107140743"],"created":1794628283,"id":"chatcmpl-97829fe7-d34c-4431-b5bd-e51798437dfe","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"补充。"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://bj.crntt.com/crn-webapp/touch/detail.jsp?coluid=70\u0026docid=107140743"],"created":1794628283,"id":"chatcmpl-97829fe7-d34c-4431-b5bd-e51798437dfe","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"不过"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://bj.crntt.com/crn-webapp/touch/detail.jsp?coluid=70\u0026docid=107140743"],"created":1794628283,"id":"chatcmpl-97829fe7-d34c-4431-b5bd-e51798437dfe","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"我不能"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://bj.crntt.com/crn-webapp/touch/detail.jsp?coluid=70\u0026docid=107140743"],"created":1794628283,"id":"chatcmpl-97829fe7-d34c-4431-b5bd-e51798437dfe","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"编造引用"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://bj.crntt.com/crn-webapp/touch/detail.jsp?coluid=70\u0026docid=107140743"],"created":1794628283,"id":"chatcmpl-97829fe7-d34c-4431-b5bd-e51798437dfe","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"。我"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://bj.crntt.com/crn-webapp/touch/detail.jsp?coluid=70\u0026docid=107140743"],"created":1794628283,"id":"chatcmpl-97829fe7-d34c-4431-b5bd-e51798437dfe","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"可以说：提供的"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://bj.crntt.com/crn-webapp/touch/detail.jsp?coluid=70\u0026docid=107140743"],"created":1794628283,"id":"chatcmpl-97829fe7-d34c-4431-b5bd-e51798437dfe","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"搜索结果"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://bj.crntt.com/crn-webapp/touch/detail.jsp?coluid=70\u0026docid=107140743"],"created":1794628283,"id":"chatcmpl-97829fe7-d34c-4431-b5bd-e51798437dfe","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"["},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://bj.crntt.com/crn-webapp/touch/detail.jsp?coluid=70\u0026docid=107140743"],"created":1794628283,"id":"chatcmpl-97829fe7-d34c-4431-b5bd-e51798437dfe","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"5]只报道"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://bj.crntt.com/crn-webapp/touch/detail.jsp?coluid=70\u0026docid=107140743"],"created":1794628283,"id":"chatcmpl-97829fe7-d34c-4431-b5bd-e51798437dfe","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"了程序"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://bj.crntt.com/crn-webapp/touch/detail.jsp?coluid=70\u0026docid=107140743"],"created":1794628283,"id":"chatcmpl-97829fe7-d34c-4431-b5bd-e51798437dfe","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"性进展"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://bj.crntt.com/crn-webapp/touch/detail.jsp?coluid=70\u0026docid=107140743"],"created":1794628283,"id":"chatcmpl-97829fe7-d34c-4431-b5bd-e51798437dfe","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"，未给出最终"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://bj.crntt.com/crn-webapp/touch/detail.jsp?coluid=70\u0026docid=107140743"],"created":1794628283,"id":"chatcmpl-97829fe7-d34c-4431-b5bd-e51798437dfe","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"表决票数与签署日期；"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://bj.crntt.com/crn-webapp/touch/detail.jsp?coluid=70\u0026docid=107140743"],"created":1794628283,"id":"chatcmpl-97829fe7-d34c-4431-b5bd-e51798437dfe","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"从其他公开信息"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://bj.crntt.com/crn-webapp/touch/detail.jsp?coluid=70\u0026docid=107140743"],"created":1794628283,"id":"chatcmpl-97829fe7-d34c-4431-b5bd-e51798437dfe","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"看"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://bj.crntt.com/crn-webapp/touch/detail.jsp?coluid=70\u0026docid=107140743"],"created":1794628283,"id":"chatcmpl-97829fe7-d34c-4431-b5bd-e51798437dfe","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"... 但"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://bj.crntt.com/crn-webapp/touch/detail.jsp?coluid=70\u0026docid=107140743"],"created":1794628283,"id":"chatcmpl-97829fe7-d34c-4431-b5bd-e51798437dfe","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"指导说\"依据"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://bj.crntt.com/crn-webapp/touch/detail.jsp?coluid=70\u0026docid=107140743"],"created":1794628283,"id":"chatcmpl-97829fe7-d34c-4431-b5bd-e51798437dfe","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"检索到的资料作答。"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://bj.crntt.com/crn-webapp/touch/detail.jsp?coluid=70\u0026docid=107140743"],"created":1794628283,"id":"chatcmpl-97829fe7-d34c-4431-b5bd-e51798437dfe","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"资料不足、存在"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://bj.crntt.com/crn-webapp/touch/detail.jsp?coluid=70\u0026docid=107140743"],"created":1794628283,"id":"chatcmpl-97829fe7-d34c-4431-b5bd-e51798437dfe","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"分歧或尚未"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://bj.crntt.com/crn-webapp/touch/detail.jsp?coluid=70\u0026docid=107140743"],"created":1794628283,"id":"chatcmpl-97829fe7-d34c-4431-b5bd-e51798437dfe","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"确认的内容，请明确说明"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://bj.crntt.com/crn-webapp/touch/detail.jsp?coluid=70\u0026docid=107140743"],"created":1794628283,"id":"chatcmpl-97829fe7-d34c-4431-b5bd-e51798437dfe","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"\""},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://bj.crntt.com/crn-webapp/touch/detail.jsp?coluid=70\u0026docid=107140743"],"created":1794628283,"id":"chatcmpl-97829fe7-d34c-4431-b5bd-e51798437dfe","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"。\n\n我认为"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://bj.crntt.com/crn-webapp/touch/detail.jsp?coluid=70\u0026docid=107140743"],"created":1794628283,"id":"chatcmpl-97829fe7-d34c-4431-b5bd-e51798437dfe","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"最安全"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://bj.crntt.com/crn-webapp/touch/detail.jsp?coluid=70\u0026docid=107140743"],"created":1794628283,"id":"chatcmpl-97829fe7-d34c-4431-b5bd-e51798437dfe","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"：明确"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://bj.crntt.com/crn-webapp/touch/detail.jsp?coluid=70\u0026docid=107140743"],"created":1794628283,"id":"chatcmpl-97829fe7-d34c-4431-b5bd-e51798437dfe","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"说明搜索结果"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://bj.crntt.com/crn-webapp/touch/detail.jsp?coluid=70\u0026docid=107140743"],"created":1794628283,"id":"chatcmpl-97829fe7-d34c-4431-b5bd-e51798437dfe","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"未包含"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://bj.crntt.com/crn-webapp/touch/detail.jsp?coluid=70\u0026docid=107140743"],"created":1794628283,"id":"chatcmpl-97829fe7-d34c-4431-b5bd-e51798437dfe","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"答案"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://bj.crntt.com/crn-webapp/touch/detail.jsp?coluid=70\u0026docid=107140743"],"created":1794628283,"id":"chatcmpl-97829fe7-d34c-4431-b5bd-e51798437dfe","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"，"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://bj.crntt.com/crn-webapp/touch/detail.jsp?coluid=70\u0026docid=107140743"],"created":1794628283,"id":"chatcmpl-97829fe7-d34c-4431-b5bd-e51798437dfe","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"["},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://bj.crntt.com/crn-webapp/touch/detail.jsp?coluid=70\u0026docid=107140743"],"created":1794628283,"id":"chatcmpl-97829fe7-d34c-4431-b5bd-e51798437dfe","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"5]仅"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://bj.crntt.com/crn-webapp/touch/detail.jsp?coluid=70\u0026docid=107140743"],"created":1794628283,"id":"chatcmpl-97829fe7-d34c-4431-b5bd-e51798437dfe","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"提到预计"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://bj.crntt.com/crn-webapp/touch/detail.jsp?coluid=70\u0026docid=107140743"],"created":1794628283,"id":"chatcmpl-97829fe7-d34c-4431-b5bd-e51798437dfe","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"超过60票。"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://bj.crntt.com/crn-webapp/touch/detail.jsp?coluid=70\u0026docid=107140743"],"created":1794628283,"id":"chatcmpl-97829fe7-d34c-4431-b5bd-e51798437dfe","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"然后补充一般"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://bj.crntt.com/crn-webapp/touch/detail.jsp?coluid=70\u0026docid=107140743"],"created":1794628283,"id":"chatcmpl-97829fe7-d34c-4431-b5bd-e51798437dfe","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"性事实：据报道"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://bj.crntt.com/crn-webapp/touch/detail.jsp?coluid=70\u0026docid=107140743"],"created":1794628283,"id":"chatcmpl-97829fe7-d34c-4431-b5bd-e51798437dfe","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"参"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://bj.crntt.com/crn-webapp/touch/detail.jsp?coluid=70\u0026docid=107140743"],"created":1794628283,"id":"chatcmpl-97829fe7-d34c-4431-b5bd-e51798437dfe","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"议院以"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://bj.crntt.com/crn-webapp/touch/detail.jsp?coluid=70\u0026docid=107140743"],"created":1794628283,"id":"chatcmpl-97829fe7-d34c-4431-b5bd-e51798437dfe","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"60票"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://bj.crntt.com/crn-webapp/touch/detail.jsp?coluid=70\u0026docid=107140743"],"created":1794628283,"id":"chatcmpl-97829fe7-d34c-4431-b5bd-e51798437dfe","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"赞成"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://bj.crntt.com/crn-webapp/touch/detail.jsp?coluid=70\u0026docid=107140743"],"created":1794628283,"id":"chatcmpl-97829fe7-d34c-4431-b5bd-e51798437dfe","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"、40票反对通过"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://bj.crntt.com/crn-webapp/touch/detail.jsp?coluid=70\u0026docid=107140743"],"created":1794628283,"id":"chatcmpl-97829fe7-d34c-4431-b5bd-e51798437dfe","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"；"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://bj.crntt.com/crn-webapp/touch/detail.jsp?coluid=70\u0026docid=107140743"],"created":1794628283,"id":"chatcmpl-97829fe7-d34c-4431-b5bd-e51798437dfe","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"特朗普于"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://bj.crntt.com/crn-webapp/touch/detail.jsp?coluid=70\u0026docid=107140743"],"created":1794628283,"id":"chatcmpl-97829fe7-d34c-4431-b5bd-e51798437dfe","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"11月12日签署。"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://bj.crntt.com/crn-webapp/touch/detail.jsp?coluid=70\u0026docid=107140743"],"created":1794628283,"id":"chatcmpl-97829fe7-d34c-4431-b5bd-e51798437dfe","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"但要标注这不在"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://bj.crntt.com/crn-webapp/touch/detail.jsp?coluid=70\u0026docid=107140743"],"created":1794628283,"id":"chatcmpl-97829fe7-d34c-4431-b5bd-e51798437dfe","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"检索结果中？指导"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://bj.crntt.com/crn-webapp/touch/detail.jsp?coluid=70\u0026docid=107140743"],"created":1794628283,"id":"chatcmpl-97829fe7-d34c-4431-b5bd-e51798437dfe","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"要求"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://bj.crntt.com/crn-webapp/touch/detail.jsp?coluid=70\u0026docid=107140743"],"created":1794628283,"id":"chatcmpl-97829fe7-d34c-4431-b5bd-e51798437dfe","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"引用检索"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://bj.crntt.com/crn-webapp/touch/detail.jsp?coluid=70\u0026docid=107140743"],"created":1794628283,"id":"chatcmpl-97829fe7-d34c-4431-b5bd-e51798437dfe","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"来源"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://bj.crntt.com/crn-webapp/touch/detail.jsp?coluid=70\u0026docid=107140743"],"created":1794628283,"id":"chatcmpl-97829fe7-d34c-4431-b5bd-e51798437dfe","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"。我可以说明"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://bj.crntt.com/crn-webapp/touch/detail.jsp?coluid=70\u0026docid=107140743"],"created":1794628283,"id":"chatcmpl-97829fe7-d34c-4431-b5bd-e51798437dfe","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"\"以下"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://bj.crntt.com/crn-webapp/touch/detail.jsp?coluid=70\u0026docid=107140743"],"created":1794628283,"id":"chatcmpl-97829fe7-d34c-4431-b5bd-e51798437dfe","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"不在"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://bj.crntt.com/crn-webapp/touch/detail.jsp?coluid=70\u0026docid=107140743"],"created":1794628283,"id":"chatcmpl-97829fe7-d34c-4431-b5bd-e51798437dfe","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"上述检索"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://bj.crntt.com/crn-webapp/touch/detail.jsp?coluid=70\u0026docid=107140743"],"created":1794628283,"id":"chatcmpl-97829fe7-d34c-4431-b5bd-e51798437dfe","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"结果中，属于需要"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://bj.crntt.com/crn-webapp/touch/detail.jsp?coluid=70\u0026docid=107140743"],"created":1794628283,"id":"chatcmpl-97829fe7-d34c-4431-b5bd-e51798437dfe","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"另行"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://bj.crntt.com/crn-webapp/touch/detail.jsp?coluid=70\u0026docid=107140743"],"created":1794628283,"id":"chatcmpl-97829fe7-d34c-4431-b5bd-e51798437dfe","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"核实的信息\""},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://bj.crntt.com/crn-webapp/touch/detail.jsp?coluid=70\u0026docid=107140743"],"created":1794628283,"id":"chatcmpl-97829fe7-d34c-4431-b5bd-e51798437dfe","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"。\n\n实际上"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://bj.crntt.com/crn-webapp/touch/detail.jsp?coluid=70\u0026docid=107140743"],"created":1794628283,"id":"chatcmpl-97829fe7-d34c-4431-b5bd-e51798437dfe","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"我的"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://bj.crntt.com/crn-webapp/touch/detail.jsp?coluid=70\u0026docid=107140743"],"created":1794628283,"id":"chatcmpl-97829fe7-d34c-4431-b5bd-e51798437dfe","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"知识可能有"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://bj.crntt.com/crn-webapp/touch/detail.jsp?coluid=70\u0026docid=107140743"],"created":1794628283,"id":"chatcmpl-97829fe7-d34c-4431-b5bd-e51798437dfe","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"误"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://bj.crntt.com/crn-webapp/touch/detail.jsp?coluid=70\u0026docid=107140743"],"created":1794628283,"id":"chatcmpl-97829fe7-d34c-4431-b5bd-e51798437dfe","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"风险"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://bj.crntt.com/crn-webapp/touch/detail.jsp?coluid=70\u0026docid=107140743"],"created":1794628283,"id":"chatcmpl-97829fe7-d34c-4431-b5bd-e51798437dfe","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"。让我想想"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://bj.crntt.com/crn-webapp/touch/detail.jsp?coluid=70\u0026docid=107140743"],"created":1794628283,"id":"chatcmpl-97829fe7-d34c-4431-b5bd-e51798437dfe","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"：2025年11月"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://bj.crntt.com/crn-webapp/touch/detail.jsp?coluid=70\u0026docid=107140743"],"created":1794628283,"id":"chatcmpl-97829fe7-d34c-4431-b5bd-e51798437dfe","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"10日，参议院以"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://bj.crntt.com/crn-webapp/touch/detail.jsp?coluid=70\u0026docid=107140743"],"created":1794628283,"id":"chatcmpl-97829fe7-d34c-4431-b5bd-e51798437dfe","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"60-"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://bj.crntt.com/crn-webapp/touch/detail.jsp?coluid=70\u0026docid=107140743"],"created":1794628283,"id":"chatcmpl-97829fe7-d34c-4431-b5bd-e51798437dfe","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"40通过H"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://bj.crntt.com/crn-webapp/touch/detail.jsp?coluid=70\u0026docid=107140743"],"created":1794628283,"id":"chatcmpl-97829fe7-d34c-4431-b5bd-e51798437dfe","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":".R. "},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://bj.crntt.com/crn-webapp/touch/detail.jsp?coluid=70\u0026docid=107140743"],"created":1794628283,"id":"chatcmpl-97829fe7-d34c-4431-b5bd-e51798437dfe","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"5371（202"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://bj.crntt.com/crn-webapp/touch/detail.jsp?coluid=70\u0026docid=107140743"],"created":1794628283,"id":"chatcmpl-97829fe7-d34c-4431-b5bd-e51798437dfe","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"6"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://bj.crntt.com/crn-webapp/touch/detail.jsp?coluid=70\u0026docid=107140743"],"created":1794628283,"id":"chatcmpl-97829fe7-d34c-4431-b5bd-e51798437dfe","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"年持续"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://bj.crntt.com/crn-webapp/touch/detail.jsp?coluid=70\u0026docid=107140743"],"created":1794628283,"id":"chatcmpl-97829fe7-d34c-4431-b5bd-e51798437dfe","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"拨款"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://bj.crntt.com/crn-webapp/touch/detail.jsp?coluid=70\u0026docid=107140743"],"created":1794628283,"id":"chatcmpl-97829fe7-d34c-4431-b5bd-e51798437dfe","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"法案）。8"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://bj.crntt.com/crn-webapp/touch/detail.jsp?coluid=70\u0026docid=107140743"],"created":1794628283,"id":"chatcmpl-97829fe7-d34c-4431-b5bd-e51798437dfe","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"名民主党"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://bj.crntt.com/crn-webapp/touch/detail.jsp?coluid=70\u0026docid=107140743"],"created":1794628283,"id":"chatcmpl-97829fe7-d34c-4431-b5bd-e51798437dfe","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"中间"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://bj.crntt.com/crn-webapp/touch/detail.jsp?coluid=70\u0026docid=107140743"],"created":1794628283,"id":"chatcmpl-97829fe7-d34c-4431-b5bd-e51798437dfe","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"派"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://bj.crntt.com/crn-webapp/touch/detail.jsp?coluid=70\u0026docid=107140743"],"created":1794628283,"id":"chatcmpl-97829fe7-d34c-4431-b5bd-e51798437dfe","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"+"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://bj.crntt.com/crn-webapp/touch/detail.jsp?coluid=70\u0026docid=107140743"],"created":1794628283,"id":"chatcmpl-97829fe7-d34c-4431-b5bd-e51798437dfe","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"独立"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://bj.crntt.com/crn-webapp/touch/detail.jsp?coluid=70\u0026docid=107140743"],"created":1794628283,"id":"chatcmpl-97829fe7-d34c-4431-b5bd-e51798437dfe","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"参"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://bj.crntt.com/crn-webapp/touch/detail.jsp?coluid=70\u0026docid=107140743"],"created":1794628283,"id":"chatcmpl-97829fe7-d34c-4431-b5bd-e51798437dfe","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"议员"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://bj.crntt.com/crn-webapp/touch/detail.jsp?coluid=70\u0026docid=107140743"],"created":1794628283,"id":"chatcmpl-97829fe7-d34c-4431-b5bd-e51798437dfe","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"Ang"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://bj.crntt.com/crn-webapp/touch/detail.jsp?coluid=70\u0026docid=107140743"],"created":1794628283,"id":"chatcmpl-97829fe7-d34c-4431-b5bd-e51798437dfe","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"us"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://bj.crntt.com/crn-webapp/touch/detail.jsp?coluid=70\u0026docid=107140743"],"created":1794628283,"id":"chatcmpl-97829fe7-d34c-4431-b5bd-e51798437dfe","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":" King"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://bj.crntt.com/crn-webapp/touch/detail.jsp?coluid=70\u0026docid=107140743"],"created":1794628283,"id":"chatcmpl-97829fe7-d34c-4431-b5bd-e51798437dfe","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"?"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://bj.crntt.com/crn-webapp/touch/detail.jsp?coluid=70\u0026docid=107140743"],"created":1794628283,"id":"chatcmpl-97829fe7-d34c-4431-b5bd-e51798437dfe","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":" 实际是8名"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://bj.crntt.com/crn-webapp/touch/detail.jsp?coluid=70\u0026docid=107140743"],"created":1794628283,"id":"chatcmpl-97829fe7-d34c-4431-b5bd-e51798437dfe","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"民主党党"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://bj.crntt.com/crn-webapp/touch/detail.jsp?coluid=70\u0026docid=107140743"],"created":1794628283,"id":"chatcmpl-97829fe7-d34c-4431-b5bd-e51798437dfe","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"团"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://bj.crntt.com/crn-webapp/touch/detail.jsp?coluid=70\u0026docid=107140743"],"created":1794628283,"id":"chatcmpl-97829fe7-d34c-4431-b5bd-e51798437dfe","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"成员"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://bj.crntt.com/crn-webapp/touch/detail.jsp?coluid=70\u0026docid=107140743"],"created":1794628283,"id":"chatcmpl-97829fe7-d34c-4431-b5bd-e51798437dfe","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"与共和"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://bj.crntt.com/crn-webapp/touch/detail.jsp?coluid=70\u0026docid=107140743"],"created":1794628283,"id":"chatcmpl-97829fe7-d34c-4431-b5bd-e51798437dfe","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"党达成"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://bj.crntt.com/crn-webapp/touch/detail.jsp?coluid=70\u0026docid=107140743"],"created":1794628283,"id":"chatcmpl-97829fe7-d34c-4431-b5bd-e51798437dfe","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"协议"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://bj.crntt.com/crn-webapp/touch/detail.jsp?coluid=70\u0026docid=107140743"],"created":1794628283,"id":"chatcmpl-97829fe7-d34c-4431-b5bd-e51798437dfe","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"。最终"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://bj.crntt.com/crn-webapp/touch/detail.jsp?coluid=70\u0026docid=107140743"],"created":1794628283,"id":"chatcmpl-97829fe7-d34c-4431-b5bd-e51798437dfe","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"60-40。11"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://bj.crntt.com/crn-webapp/touch/detail.jsp?coluid=70\u0026docid=107140743"],"created":1794628283,"id":"chatcmpl-97829fe7-d34c-4431-b5bd-e51798437dfe","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"月12日众议院222"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://bj.crntt.com/crn-webapp/touch/detail.jsp?coluid=70\u0026docid=107140743"],"created":1794628283,"id":"chatcmpl-97829fe7-d34c-4431-b5bd-e51798437dfe","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"-209"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://bj.crntt.com/crn-webapp/touch/detail.jsp?coluid=70\u0026docid=107140743"],"created":1794628283,"id":"chatcmpl-97829fe7-d34c-4431-b5bd-e51798437dfe","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"。"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://bj.crntt.com/crn-webapp/touch/detail.jsp?coluid=70\u0026docid=107140743"],"created":1794628283,"id":"chatcmpl-97829fe7-d34c-4431-b5bd-e51798437dfe","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"特朗普"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://bj.crntt.com/crn-webapp/touch/detail.jsp?coluid=70\u0026docid=107140743"],"created":1794628283,"id":"chatcmpl-97829fe7-d34c-4431-b5bd-e51798437dfe","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"11月12日签署。"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://bj.crntt.com/crn-webapp/touch/detail.jsp?coluid=70\u0026docid=107140743"],"created":1794628283,"id":"chatcmpl-97829fe7-d34c-4431-b5bd-e51798437dfe","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"是的。\n\n但回答"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://bj.crntt.com/crn-webapp/touch/detail.jsp?coluid=70\u0026docid=107140743"],"created":1794628283,"id":"chatcmpl-97829fe7-d34c-4431-b5bd-e51798437dfe","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"要"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://bj.crntt.com/crn-webapp/touch/detail.jsp?coluid=70\u0026docid=107140743"],"created":1794628283,"id":"chatcmpl-97829fe7-d34c-4431-b5bd-e51798437dfe","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"谨慎：检索"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://bj.crntt.com/crn-webapp/touch/detail.jsp?coluid=70\u0026docid=107140743"],"created":1794628283,"id":"chatcmpl-97829fe7-d34c-4431-b5bd-e51798437dfe","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"结果不足以"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://bj.crntt.com/crn-webapp/touch/detail.jsp?coluid=70\u0026docid=107140743"],"created":1794628283,"id":"chatcmpl-97829fe7-d34c-4431-b5bd-e51798437dfe","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"确认。我会直接"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://bj.crntt.com/crn-webapp/touch/detail.jsp?coluid=70\u0026docid=107140743"],"created":1794628283,"id":"chatcmpl-97829fe7-d34c-4431-b5bd-e51798437dfe","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"说检索到的资料"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://bj.crntt.com/crn-webapp/touch/detail.jsp?coluid=70\u0026docid=107140743"],"created":1794628283,"id":"chatcmpl-97829fe7-d34c-4431-b5bd-e51798437dfe","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"未给出票"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://bj.crntt.com/crn-webapp/touch/detail.jsp?coluid=70\u0026docid=107140743"],"created":1794628283,"id":"chatcmpl-97829fe7-d34c-4431-b5bd-e51798437dfe","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"数和日期"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://bj.crntt.com/crn-webapp/touch/detail.jsp?coluid=70\u0026docid=107140743"],"created":1794628283,"id":"chatcmpl-97829fe7-d34c-4431-b5bd-e51798437dfe","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"，只有[5"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://bj.crntt.com/crn-webapp/touch/detail.jsp?coluid=70\u0026docid=107140743"],"created":1794628283,"id":"chatcmpl-97829fe7-d34c-4431-b5bd-e51798437dfe","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"]的"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://bj.crntt.com/crn-webapp/touch/detail.jsp?coluid=70\u0026docid=107140743"],"created":1794628283,"id":"chatcmpl-97829fe7-d34c-4431-b5bd-e51798437dfe","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"预期性"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://bj.crntt.com/crn-webapp/touch/detail.jsp?coluid=70\u0026docid=107140743"],"created":1794628283,"id":"chatcmpl-97829fe7-d34c-4431-b5bd-e51798437dfe","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"描述；然后补充说明公开"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://bj.crntt.com/crn-webapp/touch/detail.jsp?coluid=70\u0026docid=107140743"],"created":1794628283,"id":"chatcmpl-97829fe7-d34c-4431-b5bd-e51798437dfe","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"报道的数字"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://bj.crntt.com/crn-webapp/touch/detail.jsp?coluid=70\u0026docid=107140743"],"created":1794628283,"id":"chatcmpl-97829fe7-d34c-4431-b5bd-e51798437dfe","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"，并"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://bj.crntt.com/crn-webapp/touch/detail.jsp?coluid=70\u0026docid=107140743"],"created":1794628283,"id":"chatcmpl-97829fe7-d34c-4431-b5bd-e51798437dfe","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"标明需核实。但要避免"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://bj.crntt.com/crn-webapp/touch/detail.jsp?coluid=70\u0026docid=107140743"],"created":1794628283,"id":"chatcmpl-97829fe7-d34c-4431-b5bd-e51798437dfe","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"把"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://bj.crntt.com/crn-webapp/touch/detail.jsp?coluid=70\u0026docid=107140743"],"created":1794628283,"id":"chatcmpl-97829fe7-d34c-4431-b5bd-e51798437dfe","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"未"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://bj.crntt.com/crn-webapp/touch/detail.jsp?coluid=70\u0026docid=107140743"],"created":1794628283,"id":"chatcmpl-97829fe7-d34c-4431-b5bd-e51798437dfe","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"检索"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://bj.crntt.com/crn-webapp/touch/detail.jsp?coluid=70\u0026docid=107140743"],"created":1794628283,"id":"chatcmpl-97829fe7-d34c-4431-b5bd-e51798437dfe","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"到的"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://bj.crntt.com/crn-webapp/touch/detail.jsp?coluid=70\u0026docid=107140743"],"created":1794628283,"id":"chatcmpl-97829fe7-d34c-4431-b5bd-e51798437dfe","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"当"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://bj.crntt.com/crn-webapp/touch/detail.jsp?coluid=70\u0026docid=107140743"],"created":1794628283,"id":"chatcmpl-97829fe7-d34c-4431-b5bd-e51798437dfe","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"确认事实"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://bj.crntt.com/crn-webapp/touch/detail.jsp?coluid=70\u0026docid=107140743"],"created":1794628283,"id":"chatcmpl-97829fe7-d34c-4431-b5bd-e51798437dfe","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"。可以简短。\n\n"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://bj.crntt.com/crn-webapp/touch/detail.jsp?coluid=70\u0026docid=107140743"],"created":1794628283,"id":"chatcmpl-97829fe7-d34c-4431-b5bd-e51798437dfe","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"用户问题"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://bj.crntt.com/crn-webapp/touch/detail.jsp?coluid=70\u0026docid=107140743"],"created":1794628283,"id":"chatcmpl-97829fe7-d34c-4431-b5bd-e51798437dfe","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"很具体，答案"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://bj.crntt.com/crn-webapp/touch/detail.jsp?coluid=70\u0026docid=107140743"],"created":1794628283,"id":"chatcmpl-97829fe7-d34c-4431-b5bd-e51798437dfe","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"简短"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://bj.crntt.com/crn-webapp/touch/detail.jsp?coluid=70\u0026docid=107140743"],"created":1794628283,"id":"chatcmpl-97829fe7-d34c-4431-b5bd-e51798437dfe","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"。应直接"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://bj.crntt.com/crn-webapp/touch/detail.jsp?coluid=70\u0026docid=107140743"],"created":1794628283,"id":"chatcmpl-97829fe7-d34c-4431-b5bd-e51798437dfe","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"回答：检索结果未"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://bj.crntt.com/crn-webapp/touch/detail.jsp?coluid=70\u0026docid=107140743"],"created":1794628283,"id":"chatcmpl-97829fe7-d34c-4431-b5bd-e51798437dfe","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"提供"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://bj.crntt.com/crn-webapp/touch/detail.jsp?coluid=70\u0026docid=107140743"],"created":1794628283,"id":"chatcmpl-97829fe7-d34c-4431-b5bd-e51798437dfe","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"。但"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://bj.crntt.com/crn-webapp/touch/detail.jsp?coluid=70\u0026docid=107140743"],"created":1794628283,"id":"chatcmpl-97829fe7-d34c-4431-b5bd-e51798437dfe","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"用户"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://bj.crntt.com/crn-webapp/touch/detail.jsp?coluid=70\u0026docid=107140743"],"created":1794628283,"id":"chatcmpl-97829fe7-d34c-4431-b5bd-e51798437dfe","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"期待"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://bj.crntt.com/crn-webapp/touch/detail.jsp?coluid=70\u0026docid=107140743"],"created":1794628283,"id":"chatcmpl-97829fe7-d34c-4431-b5bd-e51798437dfe","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"答案。我认为"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://bj.crntt.com/crn-webapp/touch/detail.jsp?coluid=70\u0026docid=107140743"],"created":1794628283,"id":"chatcmpl-97829fe7-d34c-4431-b5bd-e51798437dfe","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"可以"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://bj.crntt.com/crn-webapp/touch/detail.jsp?coluid=70\u0026docid=107140743"],"created":1794628283,"id":"chatcmpl-97829fe7-d34c-4431-b5bd-e51798437dfe","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"给出：参"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://bj.crntt.com/crn-webapp/touch/detail.jsp?coluid=70\u0026docid=107140743"],"created":1794628283,"id":"chatcmpl-97829fe7-d34c-4431-b5bd-e51798437dfe","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"议院60票赞成、"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://bj.crntt.com/crn-webapp/touch/detail.jsp?coluid=70\u0026docid=107140743"],"created":1794628283,"id":"chatcmpl-97829fe7-d34c-4431-b5bd-e51798437dfe","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"40票反对；"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://bj.crntt.com/crn-webapp/touch/detail.jsp?coluid=70\u0026docid=107140743"],"created":1794628283,"id":"chatcmpl-97829fe7-d34c-4431-b5bd-e51798437dfe","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"总统"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://bj.crntt.com/crn-webapp/touch/detail.jsp?coluid=70\u0026docid=107140743"],"created":1794628283,"id":"chatcmpl-97829fe7-d34c-4431-b5bd-e51798437dfe","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"11月12日签署。"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://bj.crntt.com/crn-webapp/touch/detail.jsp?coluid=70\u0026docid=107140743"],"created":1794628283,"id":"chatcmpl-97829fe7-d34c-4431-b5bd-e51798437dfe","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"同时说明"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://bj.crntt.com/crn-webapp/touch/detail.jsp?coluid=70\u0026docid=107140743"],"created":1794628283,"id":"chatcmpl-97829fe7-d34c-4431-b5bd-e51798437dfe","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"检索结果["},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://bj.crntt.com/crn-webapp/touch/detail.jsp?coluid=70\u0026docid=107140743"],"created":1794628283,"id":"chatcmpl-97829fe7-d34c-4431-b5bd-e51798437dfe","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"5]只提到\"超过"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://bj.crntt.com/crn-webapp/touch/detail.jsp?coluid=70\u0026docid=107140743"],"created":1794628283,"id":"chatcmpl-97829fe7-d34c-4431-b5bd-e51798437dfe","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"60票支持"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://bj.crntt.com/crn-webapp/touch/detail.jsp?coluid=70\u0026docid=107140743"],"created":1794628283,"id":"chatcmpl-97829fe7-d34c-4431-b5bd-e51798437dfe","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"\"的预期，未"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://bj.crntt.com/crn-webapp/touch/detail.jsp?coluid=70\u0026docid=107140743"],"created":1794628283,"id":"chatcmpl-97829fe7-d34c-4431-b5bd-e51798437dfe","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"载"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://bj.crntt.com/crn-webapp/touch/detail.jsp?coluid=70\u0026docid=107140743"],"created":1794628283,"id":"chatcmpl-97829fe7-d34c-4431-b5bd-e51798437dfe","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"明最终"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://bj.crntt.com/crn-webapp/touch/detail.jsp?coluid=70\u0026docid=107140743"],"created":1794628283,"id":"chatcmpl-97829fe7-d34c-4431-b5bd-e51798437dfe","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"票数和签署日期，以上"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://bj.crntt.com/crn-webapp/touch/detail.jsp?coluid=70\u0026docid=107140743"],"created":1794628283,"id":"chatcmpl-97829fe7-d34c-4431-b5bd-e51798437dfe","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"票"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://bj.crntt.com/crn-webapp/touch/detail.jsp?coluid=70\u0026docid=107140743"],"created":1794628283,"id":"chatcmpl-97829fe7-d34c-4431-b5bd-e51798437dfe","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"数/日期来自"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://bj.crntt.com/crn-webapp/touch/detail.jsp?coluid=70\u0026docid=107140743"],"created":1794628283,"id":"chatcmpl-97829fe7-d34c-4431-b5bd-e51798437dfe","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"其他"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://bj.crntt.com/crn-webapp/touch/detail.jsp?coluid=70\u0026docid=107140743"],"created":1794628283,"id":"chatcmpl-97829fe7-d34c-4431-b5bd-e51798437dfe","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"公开报道，建议以国会"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://bj.crntt.com/crn-webapp/touch/detail.jsp?coluid=70\u0026docid=107140743"],"created":1794628283,"id":"chatcmpl-97829fe7-d34c-4431-b5bd-e51798437dfe","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"记录为准"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://bj.crntt.com/crn-webapp/touch/detail.jsp?coluid=70\u0026docid=107140743"],"created":1794628283,"id":"chatcmpl-97829fe7-d34c-4431-b5bd-e51798437dfe","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"。\n\n不过"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://bj.crntt.com/crn-webapp/touch/detail.jsp?coluid=70\u0026docid=107140743"],"created":1794628283,"id":"chatcmpl-97829fe7-d34c-4431-b5bd-e51798437dfe","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"指令"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://bj.crntt.com/crn-webapp/touch/detail.jsp?coluid=70\u0026docid=107140743"],"created":1794628283,"id":"chatcmpl-97829fe7-d34c-4431-b5bd-e51798437dfe","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"说\"依据"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://bj.crntt.com/crn-webapp/touch/detail.jsp?coluid=70\u0026docid=107140743"],"created":1794628283,"id":"chatcmpl-97829fe7-d34c-4431-b5bd-e51798437dfe","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"检索"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://bj.crntt.com/crn-webapp/touch/detail.jsp?coluid=70\u0026docid=107140743"],"created":1794628283,"id":"chatcmpl-97829fe7-d34c-4431-b5bd-e51798437dfe","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"到的资料作答。"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://bj.crntt.com/crn-webapp/touch/detail.jsp?coluid=70\u0026docid=107140743"],"created":1794628283,"id":"chatcmpl-97829fe7-d34c-4431-b5bd-e51798437dfe","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"资料不足...请"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://bj.crntt.com/crn-webapp/touch/detail.jsp?coluid=70\u0026docid=107140743"],"created":1794628283,"id":"chatcmpl-97829fe7-d34c-4431-b5bd-e51798437dfe","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"明确说明\"。所以我应优先"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://bj.crntt.com/crn-webapp/touch/detail.jsp?coluid=70\u0026docid=107140743"],"created":1794628283,"id":"chatcmpl-97829fe7-d34c-4431-b5bd-e51798437dfe","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"说明"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://bj.crntt.com/crn-webapp/touch/detail.jsp?coluid=70\u0026docid=107140743"],"created":1794628283,"id":"chatcmpl-97829fe7-d34c-4431-b5bd-e51798437dfe","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"资料不足。"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://bj.crntt.com/crn-webapp/touch/detail.jsp?coluid=70\u0026docid=107140743"],"created":1794628283,"id":"chatcmpl-97829fe7-d34c-4431-b5bd-e51798437dfe","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"但是否"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://bj.crntt.com/crn-webapp/touch/detail.jsp?coluid=70\u0026docid=107140743"],"created":1794628283,"id":"chatcmpl-97829fe7-d34c-4431-b5bd-e51798437dfe","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"可以"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://bj.crntt.com/crn-webapp/touch/detail.jsp?coluid=70\u0026docid=107140743"],"created":1794628283,"id":"chatcmpl-97829fe7-d34c-4431-b5bd-e51798437dfe","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"补充我的知识"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://bj.crntt.com/crn-webapp/touch/detail.jsp?coluid=70\u0026docid=107140743"],"created":1794628283,"id":"chatcmpl-97829fe7-d34c-4431-b5bd-e51798437dfe","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"？可以，"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://bj.crntt.com/crn-webapp/touch/detail.jsp?coluid=70\u0026docid=107140743"],"created":1794628283,"id":"chatcmpl-97829fe7-d34c-4431-b5bd-e51798437dfe","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"但需区分"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://bj.crntt.com/crn-webapp/touch/detail.jsp?coluid=70\u0026docid=107140743"],"created":1794628283,"id":"chatcmpl-97829fe7-d34c-4431-b5bd-e51798437dfe","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"。我会"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://bj.crntt.com/crn-webapp/touch/detail.jsp?coluid=70\u0026docid=107140743"],"created":1794628283,"id":"chatcmpl-97829fe7-d34c-4431-b5bd-e51798437dfe","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"这样写：\n\n"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://bj.crntt.com/crn-webapp/touch/detail.jsp?coluid=70\u0026docid=107140743"],"created":1794628283,"id":"chatcmpl-97829fe7-d34c-4431-b5bd-e51798437dfe","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"根据"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://bj.crntt.com/crn-webapp/touch/detail.jsp?coluid=70\u0026docid=107140743"],"created":1794628283,"id":"chatcmpl-97829fe7-d34c-4431-b5bd-e51798437dfe","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"你提供的检索"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://bj.crntt.com/crn-webapp/touch/detail.jsp?coluid=70\u0026docid=107140743"],"created":1794628283,"id":"chatcmpl-97829fe7-d34c-4431-b5bd-e51798437dfe","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"结果，无法"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://bj.crntt.com/crn-webapp/touch/detail.jsp?coluid=70\u0026docid=107140743"],"created":1794628283,"id":"chatcmpl-97829fe7-d34c-4431-b5bd-e51798437dfe","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"确认"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://bj.crntt.com/crn-webapp/touch/detail.jsp?coluid=70\u0026docid=107140743"],"created":1794628283,"id":"chatcmpl-97829fe7-d34c-4431-b5bd-e51798437dfe","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"这两个"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://bj.crntt.com/crn-webapp/touch/detail.jsp?coluid=70\u0026docid=107140743"],"created":1794628283,"id":"chatcmpl-97829fe7-d34c-4431-b5bd-e51798437dfe","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"具体"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://bj.crntt.com/crn-webapp/touch/detail.jsp?coluid=70\u0026docid=107140743"],"created":1794628283,"id":"chatcmpl-97829fe7-d34c-4431-b5bd-e51798437dfe","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"数字。[5] 只"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://bj.crntt.com/crn-webapp/touch/detail.jsp?coluid=70\u0026docid=107140743"],"created":1794628283,"id":"chatcmpl-97829fe7-d34c-4431-b5bd-e51798437dfe","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"报道11"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://bj.crntt.com/crn-webapp/touch/detail.jsp?coluid=70\u0026docid=107140743"],"created":1794628283,"id":"chatcmpl-97829fe7-d34c-4431-b5bd-e51798437dfe","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"月10日参议院已有"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://bj.crntt.com/crn-webapp/touch/detail.jsp?coluid=70\u0026docid=107140743"],"created":1794628283,"id":"chatcmpl-97829fe7-d34c-4431-b5bd-e51798437dfe","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"至少"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://bj.crntt.com/crn-webapp/touch/detail.jsp?coluid=70\u0026docid=107140743"],"created":1794628283,"id":"chatcmpl-97829fe7-d34c-4431-b5bd-e51798437dfe","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"10名民主党人"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://bj.crntt.com/crn-webapp/touch/detail.jsp?coluid=70\u0026docid=107140743"],"created":1794628283,"id":"chatcmpl-97829fe7-d34c-4431-b5bd-e51798437dfe","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"准备支持"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://bj.crntt.com/crn-webapp/touch/detail.jsp?coluid=70\u0026docid=107140743"],"created":1794628283,"id":"chatcmpl-97829fe7-d34c-4431-b5bd-e51798437dfe","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"临时拨款"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://bj.crntt.com/crn-webapp/touch/detail.jsp?coluid=70\u0026docid=107140743"],"created":1794628283,"id":"chatcmpl-97829fe7-d34c-4431-b5bd-e51798437dfe","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"案"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://bj.crntt.com/crn-webapp/touch/detail.jsp?coluid=70\u0026docid=107140743"],"created":1794628283,"id":"chatcmpl-97829fe7-d34c-4431-b5bd-e51798437dfe","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"，\""},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://bj.crntt.com/crn-webapp/touch/detail.jsp?coluid=70\u0026docid=107140743"],"created":1794628283,"id":"chatcmpl-97829fe7-d34c-4431-b5bd-e51798437dfe","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"意味"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://bj.crntt.com/crn-webapp/touch/detail.jsp?coluid=70\u0026docid=107140743"],"created":1794628283,"id":"chatcmpl-97829fe7-d34c-4431-b5bd-e51798437dfe","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"法案将获得参"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://bj.crntt.com/crn-webapp/touch/detail.jsp?coluid=70\u0026docid=107140743"],"created":1794628283,"id":"chatcmpl-97829fe7-d34c-4431-b5bd-e51798437dfe","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"议院超过60票支持通过"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://bj.crntt.com/crn-webapp/touch/detail.jsp?coluid=70\u0026docid=107140743"],"created":1794628283,"id":"chatcmpl-97829fe7-d34c-4431-b5bd-e51798437dfe","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"\"，属于"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://bj.crntt.com/crn-webapp/touch/detail.jsp?coluid=70\u0026docid=107140743"],"created":1794628283,"id":"chatcmpl-97829fe7-d34c-4431-b5bd-e51798437dfe","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"表决"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://bj.crntt.com/crn-webapp/touch/detail.jsp?coluid=70\u0026docid=107140743"],"created":1794628283,"id":"chatcmpl-97829fe7-d34c-4431-b5bd-e51798437dfe","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"前的"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://bj.crntt.com/crn-webapp/touch/detail.jsp?coluid=70\u0026docid=107140743"],"created":1794628283,"id":"chatcmpl-97829fe7-d34c-4431-b5bd-e51798437dfe","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"预期"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://bj.crntt.com/crn-webapp/touch/detail.jsp?coluid=70\u0026docid=107140743"],"created":1794628283,"id":"chatcmpl-97829fe7-d34c-4431-b5bd-e51798437dfe","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"，没有给出最终票"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://bj.crntt.com/crn-webapp/touch/detail.jsp?coluid=70\u0026docid=107140743"],"created":1794628283,"id":"chatcmpl-97829fe7-d34c-4431-b5bd-e51798437dfe","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"数，也没有"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://bj.crntt.com/crn-webapp/touch/detail.jsp?coluid=70\u0026docid=107140743"],"created":1794628283,"id":"chatcmpl-97829fe7-d34c-4431-b5bd-e51798437dfe","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"提到"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://bj.crntt.com/crn-webapp/touch/detail.jsp?coluid=70\u0026docid=107140743"],"created":1794628283,"id":"chatcmpl-97829fe7-d34c-4431-b5bd-e51798437dfe","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"总统"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://bj.crntt.com/crn-webapp/touch/detail.jsp?coluid=70\u0026docid=107140743"],"created":1794628283,"id":"chatcmpl-97829fe7-d34c-4431-b5bd-e51798437dfe","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"签署日期。\n\n据"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://bj.crntt.com/crn-webapp/touch/detail.jsp?coluid=70\u0026docid=107140743"],"created":1794628283,"id":"chatcmpl-97829fe7-d34c-4431-b5bd-e51798437dfe","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"其他"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://bj.crntt.com/crn-webapp/touch/detail.jsp?coluid=70\u0026docid=107140743"],"created":1794628283,"id":"chatcmpl-97829fe7-d34c-4431-b5bd-e51798437dfe","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"公开报道（"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://bj.crntt.com/crn-webapp/touch/detail.jsp?coluid=70\u0026docid=107140743"],"created":1794628283,"id":"chatcmpl-97829fe7-d34c-4431-b5bd-e51798437dfe","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"不在"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://bj.crntt.com/crn-webapp/touch/detail.jsp?coluid=70\u0026docid=107140743"],"created":1794628283,"id":"chatcmpl-97829fe7-d34c-4431-b5bd-e51798437dfe","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"上述"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://bj.crntt.com/crn-webapp/touch/detail.jsp?coluid=70\u0026docid=107140743"],"created":1794628283,"id":"chatcmpl-97829fe7-d34c-4431-b5bd-e51798437dfe","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"检索结果中），参"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://bj.crntt.com/crn-webapp/touch/detail.jsp?coluid=70\u0026docid=107140743"],"created":1794628283,"id":"chatcmpl-97829fe7-d34c-4431-b5bd-e51798437dfe","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"议院当天"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://bj.crntt.com/crn-webapp/touch/detail.jsp?coluid=70\u0026docid=107140743"],"created":1794628283,"id":"chatcmpl-97829fe7-d34c-4431-b5bd-e51798437dfe","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"最终"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://bj.crntt.com/crn-webapp/touch/detail.jsp?coluid=70\u0026docid=107140743"],"created":1794628283,"id":"chatcmpl-97829fe7-d34c-4431-b5bd-e51798437dfe","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"以"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://bj.crntt.com/crn-webapp/touch/detail.jsp?coluid=70\u0026docid=107140743"],"created":1794628283,"id":"chatcmpl-97829fe7-d34c-4431-b5bd-e51798437dfe","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"60票赞成"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://bj.crntt.com/crn-webapp/touch/detail.jsp?coluid=70\u0026docid=107140743"],"created":1794628283,"id":"chatcmpl-97829fe7-d34c-4431-b5bd-e51798437dfe","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"、40票反对通过修订"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://bj.crntt.com/crn-webapp/touch/detail.jsp?coluid=70\u0026docid=107140743"],"created":1794628283,"id":"chatcmpl-97829fe7-d34c-4431-b5bd-e51798437dfe","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"后的"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://bj.crntt.com/crn-webapp/touch/detail.jsp?coluid=70\u0026docid=107140743"],"created":1794628283,"id":"chatcmpl-97829fe7-d34c-4431-b5bd-e51798437dfe","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"拨款案"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://bj.crntt.com/crn-webapp/touch/detail.jsp?coluid=70\u0026docid=107140743"],"created":1794628283,"id":"chatcmpl-97829fe7-d34c-4431-b5bd-e51798437dfe","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"；特朗普"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://bj.crntt.com/crn-webapp/touch/detail.jsp?coluid=70\u0026docid=107140743"],"created":1794628283,"id":"chatcmpl-97829fe7-d34c-4431-b5bd-e51798437dfe","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"于11月12日签署"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://bj.crntt.com/crn-webapp/touch/detail.jsp?coluid=70\u0026docid=107140743"],"created":1794628283,"id":"chatcmpl-97829fe7-d34c-4431-b5bd-e51798437dfe","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"成法"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://bj.crntt.com/crn-webapp/touch/detail.jsp?coluid=70\u0026docid=107140743"],"created":1794628283,"id":"chatcmpl-97829fe7-d34c-4431-b5bd-e51798437dfe","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"。这两项"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://bj.crntt.com/crn-webapp/touch/detail.jsp?coluid=70\u0026docid=107140743"],"created":1794628283,"id":"chatcmpl-97829fe7-d34c-4431-b5bd-e51798437dfe","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"建议以美国"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://bj.crntt.com/crn-webapp/touch/detail.jsp?coluid=70\u0026docid=107140743"],"created":1794628283,"id":"chatcmpl-97829fe7-d34c-4431-b5bd-e51798437dfe","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"国会参"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://bj.crntt.com/crn-webapp/touch/detail.jsp?coluid=70\u0026docid=107140743"],"created":1794628283,"id":"chatcmpl-97829fe7-d34c-4431-b5bd-e51798437dfe","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"议院表决"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://bj.crntt.com/crn-webapp/touch/detail.jsp?coluid=70\u0026docid=107140743"],"created":1794628283,"id":"chatcmpl-97829fe7-d34c-4431-b5bd-e51798437dfe","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"记录和白"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://bj.crntt.com/crn-webapp/touch/detail.jsp?coluid=70\u0026docid=107140743"],"created":1794628283,"id":"chatcmpl-97829fe7-d34c-4431-b5bd-e51798437dfe","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"宫签署"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://bj.crntt.com/crn-webapp/touch/detail.jsp?coluid=70\u0026docid=107140743"],"created":1794628283,"id":"chatcmpl-97829fe7-d34c-4431-b5bd-e51798437dfe","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"公告为准。\n\n这样符合"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://bj.crntt.com/crn-webapp/touch/detail.jsp?coluid=70\u0026docid=107140743"],"created":1794628283,"id":"chatcmpl-97829fe7-d34c-4431-b5bd-e51798437dfe","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"要求。引用"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://bj.crntt.com/crn-webapp/touch/detail.jsp?coluid=70\u0026docid=107140743"],"created":1794628283,"id":"chatcmpl-97829fe7-d34c-4431-b5bd-e51798437dfe","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"[5]。"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://bj.crntt.com/crn-webapp/touch/detail.jsp?coluid=70\u0026docid=107140743"],"created":1794628283,"id":"chatcmpl-97829fe7-d34c-4431-b5bd-e51798437dfe","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"语言"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://bj.crntt.com/crn-webapp/touch/detail.jsp?coluid=70\u0026docid=107140743"],"created":1794628283,"id":"chatcmpl-97829fe7-d34c-4431-b5bd-e51798437dfe","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"中文"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://bj.crntt.com/crn-webapp/touch/detail.jsp?coluid=70\u0026docid=107140743"],"created":1794628283,"id":"chatcmpl-97829fe7-d34c-4431-b5bd-e51798437dfe","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"。"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://bj.crntt.com/crn-webapp/touch/detail.jsp?coluid=70\u0026docid=107140743"],"created":1794628283,"id":"chatcmpl-97829fe7-d34c-4431-b5bd-e51798437dfe","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"根据"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://bj.crntt.com/crn-webapp/touch/detail.jsp?coluid=70\u0026docid=107140743"],"created":1794628283,"id":"chatcmpl-97829fe7-d34c-4431-b5bd-e51798437dfe","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"你提供的检索结果，**"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://bj.crntt.com/crn-webapp/touch/detail.jsp?coluid=70\u0026docid=107140743"],"created":1794628283,"id":"chatcmpl-97829fe7-d34c-4431-b5bd-e51798437dfe","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"无法确认这两个具体数字"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://bj.crntt.com/crn-webapp/touch/detail.jsp?coluid=70\u0026docid=107140743"],"created":1794628283,"id":"chatcmpl-97829fe7-d34c-4431-b5bd-e51798437dfe","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"**。"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://bj.crntt.com/crn-webapp/touch/detail.jsp?coluid=70\u0026docid=107140743"],"created":1794628283,"id":"chatcmpl-97829fe7-d34c-4431-b5bd-e51798437dfe","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"\n\n检索结果中"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://bj.crntt.com/crn-webapp/touch/detail.jsp?coluid=70\u0026docid=107140743"],"created":1794628283,"id":"chatcmpl-97829fe7-d34c-4431-b5bd-e51798437dfe","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"仅有"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://bj.crntt.com/crn-webapp/touch/detail.jsp?coluid=70\u0026docid=107140743"],"created":1794628283,"id":"chatcmpl-97829fe7-d34c-4431-b5bd-e51798437dfe","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"的一"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://bj.crntt.com/crn-webapp/touch/detail.jsp?coluid=70\u0026docid=107140743"],"created":1794628283,"id":"chatcmpl-97829fe7-d34c-4431-b5bd-e51798437dfe","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"篇报道["},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://bj.crntt.com/crn-webapp/touch/detail.jsp?coluid=70\u0026docid=107140743"],"created":1794628283,"id":"chatcmpl-97829fe7-d34c-4431-b5bd-e51798437dfe","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"5]说的是"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://bj.crntt.com/crn-webapp/touch/detail.jsp?coluid=70\u0026docid=107140743"],"created":1794628283,"id":"chatcmpl-97829fe7-d34c-4431-b5bd-e51798437dfe","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"："},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://bj.crntt.com/crn-webapp/touch/detail.jsp?coluid=70\u0026docid=107140743"],"created":1794628283,"id":"chatcmpl-97829fe7-d34c-4431-b5bd-e51798437dfe","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"2025年11月10"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://bj.crntt.com/crn-webapp/touch/detail.jsp?coluid=70\u0026docid=107140743"],"created":1794628283,"id":"chatcmpl-97829fe7-d34c-4431-b5bd-e51798437dfe","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"日，"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://bj.crntt.com/crn-webapp/touch/detail.jsp?coluid=70\u0026docid=107140743"],"created":1794628283,"id":"chatcmpl-97829fe7-d34c-4431-b5bd-e51798437dfe","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"至少"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://bj.crntt.com/crn-webapp/touch/detail.jsp?coluid=70\u0026docid=107140743"],"created":1794628283,"id":"chatcmpl-97829fe7-d34c-4431-b5bd-e51798437dfe","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"10名民主党参议员准备"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://bj.crntt.com/crn-webapp/touch/detail.jsp?coluid=70\u0026docid=107140743"],"created":1794628283,"id":"chatcmpl-97829fe7-d34c-4431-b5bd-e51798437dfe","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"支持临时"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://bj.crntt.com/crn-webapp/touch/detail.jsp?coluid=70\u0026docid=107140743"],"created":1794628283,"id":"chatcmpl-97829fe7-d34c-4431-b5bd-e51798437dfe","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"拨款措施"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://bj.crntt.com/crn-webapp/touch/detail.jsp?coluid=70\u0026docid=107140743"],"created":1794628283,"id":"chatcmpl-97829fe7-d34c-4431-b5bd-e51798437dfe","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"，这“"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://bj.crntt.com/crn-webapp/touch/detail.jsp?coluid=70\u0026docid=107140743"],"created":1794628283,"id":"chatcmpl-97829fe7-d34c-4431-b5bd-e51798437dfe","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"意味法案将"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://bj.crntt.com/crn-webapp/touch/detail.jsp?coluid=70\u0026docid=107140743"],"created":1794628283,"id":"chatcmpl-97829fe7-d34c-4431-b5bd-e51798437dfe","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"获得参议院超过60票"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://bj.crntt.com/crn-webapp/touch/detail.jsp?coluid=70\u0026docid=107140743"],"created":1794628283,"id":"chatcmpl-97829fe7-d34c-4431-b5bd-e51798437dfe","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"支持通过"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://bj.crntt.com/crn-webapp/touch/detail.jsp?coluid=70\u0026docid=107140743"],"created":1794628283,"id":"chatcmpl-97829fe7-d34c-4431-b5bd-e51798437dfe","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"”——这是表决"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://bj.crntt.com/crn-webapp/touch/detail.jsp?coluid=70\u0026docid=107140743"],"created":1794628283,"id":"chatcmpl-97829fe7-d34c-4431-b5bd-e51798437dfe","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"前的预期"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://bj.crntt.com/crn-webapp/touch/detail.jsp?coluid=70\u0026docid=107140743"],"created":1794628283,"id":"chatcmpl-97829fe7-d34c-4431-b5bd-e51798437dfe","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"，并没有给出最终表决"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://bj.crntt.com/crn-webapp/touch/detail.jsp?coluid=70\u0026docid=107140743"],"created":1794628283,"id":"chatcmpl-97829fe7-d34c-4431-b5bd-e51798437dfe","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"票数，也没有提到总统"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://bj.crntt.com/crn-webapp/touch/detail.jsp?coluid=70\u0026docid=107140743"],"created":1794628283,"id":"chatcmpl-97829fe7-d34c-4431-b5bd-e51798437dfe","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"签署成"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://bj.crntt.com/crn-webapp/touch/detail.jsp?coluid=70\u0026docid=107140743"],"created":1794628283,"id":"chatcmpl-97829fe7-d34c-4431-b5bd-e51798437dfe","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"法的日期。\n\n据"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://bj.crntt.com/crn-webapp/touch/detail.jsp?coluid=70\u0026docid=107140743"],"created":1794628283,"id":"chatcmpl-97829fe7-d34c-4431-b5bd-e51798437dfe","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"其他公开报道（不在"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://bj.crntt.com/crn-webapp/touch/detail.jsp?coluid=70\u0026docid=107140743"],"created":1794628283,"id":"chatcmpl-97829fe7-d34c-4431-b5bd-e51798437dfe","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"上述"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://bj.crntt.com/crn-webapp/touch/detail.jsp?coluid=70\u0026docid=107140743"],"created":1794628283,"id":"chatcmpl-97829fe7-d34c-4431-b5bd-e51798437dfe","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"检索结果中），参"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://bj.crntt.com/crn-webapp/touch/detail.jsp?coluid=70\u0026docid=107140743"],"created":1794628283,"id":"chatcmpl-97829fe7-d34c-4431-b5bd-e51798437dfe","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"议院当天"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://bj.crntt.com/crn-webapp/touch/detail.jsp?coluid=70\u0026docid=107140743"],"created":1794628283,"id":"chatcmpl-97829fe7-d34c-4431-b5bd-e51798437dfe","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"最终"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://bj.crntt.com/crn-webapp/touch/detail.jsp?coluid=70\u0026docid=107140743"],"created":1794628283,"id":"chatcmpl-97829fe7-d34c-4431-b5bd-e51798437dfe","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"以 **60"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://bj.crntt.com/crn-webapp/touch/detail.jsp?coluid=70\u0026docid=107140743"],"created":1794628283,"id":"chatcmpl-97829fe7-d34c-4431-b5bd-e51798437dfe","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"票赞成、"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://bj.crntt.com/crn-webapp/touch/detail.jsp?coluid=70\u0026docid=107140743"],"created":1794628283,"id":"chatcmpl-97829fe7-d34c-4431-b5bd-e51798437dfe","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"40票反对** 通过"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://bj.crntt.com/crn-webapp/touch/detail.jsp?coluid=70\u0026docid=107140743"],"created":1794628283,"id":"chatcmpl-97829fe7-d34c-4431-b5bd-e51798437dfe","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"修订后的"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://bj.crntt.com/crn-webapp/touch/detail.jsp?coluid=70\u0026docid=107140743"],"created":1794628283,"id":"chatcmpl-97829fe7-d34c-4431-b5bd-e51798437dfe","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"拨款案"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://bj.crntt.com/crn-webapp/touch/detail.jsp?coluid=70\u0026docid=107140743"],"created":1794628283,"id":"chatcmpl-97829fe7-d34c-4431-b5bd-e51798437dfe","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"；特朗普"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://bj.crntt.com/crn-webapp/touch/detail.jsp?coluid=70\u0026docid=107140743"],"created":1794628283,"id":"chatcmpl-97829fe7-d34c-4431-b5bd-e51798437dfe","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"于 **"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://bj.crntt.com/crn-webapp/touch/detail.jsp?coluid=70\u0026docid=107140743"],"created":1794628283,"id":"chatcmpl-97829fe7-d34c-4431-b5bd-e51798437dfe","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"11月12日** "},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://bj.crntt.com/crn-webapp/touch/detail.jsp?coluid=70\u0026docid=107140743"],"created":1794628283,"id":"chatcmpl-97829fe7-d34c-4431-b5bd-e51798437dfe","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"签署成法。这两"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://bj.crntt.com/crn-webapp/touch/detail.jsp?coluid=70\u0026docid=107140743"],"created":1794628283,"id":"chatcmpl-97829fe7-d34c-4431-b5bd-e51798437dfe","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"项信息"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://bj.crntt.com/crn-webapp/touch/detail.jsp?coluid=70\u0026docid=107140743"],"created":1794628283,"id":"chatcmpl-97829fe7-d34c-4431-b5bd-e51798437dfe","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"建议以美国"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://bj.crntt.com/crn-webapp/touch/detail.jsp?coluid=70\u0026docid=107140743"],"created":1794628283,"id":"chatcmpl-97829fe7-d34c-4431-b5bd-e51798437dfe","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"参议院表决"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://bj.crntt.com/crn-webapp/touch/detail.jsp?coluid=70\u0026docid=107140743"],"created":1794628283,"id":"chatcmpl-97829fe7-d34c-4431-b5bd-e51798437dfe","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"记录和白"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://bj.crntt.com/crn-webapp/touch/detail.jsp?coluid=70\u0026docid=107140743"],"created":1794628283,"id":"chatcmpl-97829fe7-d34c-4431-b5bd-e51798437dfe","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"宫签署公告"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://bj.crntt.com/crn-webapp/touch/detail.jsp?coluid=70\u0026docid=107140743"],"created":1794628283,"id":"chatcmpl-97829fe7-d34c-4431-b5bd-e51798437dfe","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"为准。"},"finish_reason":"stop","index":0,"logprobs":null}],"citations":["https://bj.crntt.com/crn-webapp/touch/detail.jsp?coluid=70\u0026docid=107140743"],"created":1794628283,"id":"chatcmpl-97829fe7-d34c-4431-b5bd-e51798437dfe","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[],"citations":["https://bj.crntt.com/crn-webapp/touch/detail.jsp?coluid=70\u0026docid=107140743"],"created":1794628283,"id":"chatcmpl-97829fe7-d34c-4431-b5bd-e51798437dfe","model":"deepseek-flash","object":"chat.completion.chunk","usage":{"completion_tokens":1005,"completion_tokens_details":{"reasoning_tokens":862},"prompt_tokens":752,"prompt_tokens_details":{"cached_tokens":0},"total_tokens":1757}}
+
+data: [DONE]
+

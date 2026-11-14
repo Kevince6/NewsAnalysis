@@ -1,0 +1,51 @@
+{
+  "task_id": "T0337",
+  "model": "doubao",
+  "news_id": "E028",
+  "question_index": 4,
+  "question_original": "【事实】香港政府2026年10月29日公布的火灾死亡人数、受影响家庭数分别是多少？",
+  "question": "香港政府2026年10月29日公布的火灾死亡人数、受影响家庭数分别是多少？",
+  "attempt": 1,
+  "provider": "302.ai",
+  "model_requested": "doubao-seed-2-1-pro-260628",
+  "query_date": "2026-11-14",
+  "search_service": "metaso",
+  "prompt_version": "news-search-v1",
+  "prompt_sha256": "ea56fd5557d32615a9115f2368a0c4983ff1188f4935369e694d7d46f2493be1",
+  "requested_at": "2026-11-14T12:28:54.650932+08:00",
+  "raw_file": "raw/T0337_doubao_a001_b4df95.json",
+  "transport": "sse",
+  "stream_file": "raw/T0337_doubao_a001_b4df95.sse",
+  "status": "ok",
+  "model_returned": "doubao-seed-2-1-pro-260628",
+  "answer": "根据当前提供的检索资料，无法获取香港政府2026年10月29日公布的火灾死亡人数、受影响家庭数的对应准确数据，现有检索内容未覆盖该时间节点的相关公告信息。\n\n目前检索到的香港新界大埔宏福苑火灾相关信息均不匹配你询问的发布时间要求，可参考的关联内容如下：\n1. 相关事故通报显示，该起火灾救援工作持续期间，截至11月30日下午4时，事故已造成146人遇难、79人受伤；彼时警方已确认159名原失联人员安全，仍有约40名失联人员待搜寻[2]。需说明的是，该统计节点晚于本次查询的基准时间2026年11月14日，并非2026年10月29日公布的统计数据。\n2. 针对该起事故，香港特区政府已成立跨部门调查组彻查事故原因，推出“一户一社工”、免费临时住所、财政援助等措施帮扶受影响居民，同时同步巡查全港所有正在开展大型维修的屋苑，检视棚架及建筑物料安全，但相关通报未提及受影响家庭的具体户数，相关表述也并非2026年10月29日发布的内容[2][3]。",
+  "sources": [
+    {
+      "index": 1,
+      "url": "https://www.chinanews.com.cn/dwq/2025/12-01/10524069.shtml#%3A~%3Atext%3D%E9%A6%99%E6%B8%AF%E6%96%B0%E7%95%8C%E5%A4%A7%E5%9F%94%E7%81%AB%E7%81%BE%2C%E5%90%84%E7%95%8C%E7%BA%B7%E7%BA%B7%E5%90%8A%E5%94%81%E5%AF%84%E6%89%98%E5%93%80%E6%80%9D%E3%80%82",
+      "title": null,
+      "origin": "citations"
+    },
+    {
+      "index": 2,
+      "url": "https://cj.sina.com.cn/articles/view/1703691672/658c459801901tqju",
+      "title": null,
+      "origin": "citations"
+    }
+  ],
+  "usage": {
+    "completion_tokens": 2823,
+    "completion_tokens_details": {
+      "reasoning_tokens": 2530
+    },
+    "prompt_tokens": 978,
+    "prompt_tokens_details": {
+      "cached_tokens": 0
+    },
+    "total_tokens": 3801
+  },
+  "finish_reason": "stop",
+  "note": [],
+  "request_id": "95ae9250-576a-4ea8-a30b-583cad36a929",
+  "duration_seconds": 55.187
+}

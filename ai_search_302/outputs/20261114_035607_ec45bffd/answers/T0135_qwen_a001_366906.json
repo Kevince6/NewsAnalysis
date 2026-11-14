@@ -1,0 +1,59 @@
+{
+  "task_id": "T0135",
+  "model": "qwen",
+  "news_id": "E011",
+  "question_index": 4,
+  "question_original": "【事实】2026年11月暴雨简报提到的15万多顶帐篷，已经送到加沙了吗？有多少安置点、多少户家庭需要援助？",
+  "question": "2026年11月暴雨简报提到的15万多顶帐篷，已经送到加沙了吗？有多少安置点、多少户家庭需要援助？",
+  "attempt": 1,
+  "provider": "302.ai",
+  "model_requested": "qwen3.8-max",
+  "query_date": "2026-11-14",
+  "search_service": "metaso",
+  "prompt_version": "news-search-v1",
+  "prompt_sha256": "ea56fd5557d32615a9115f2368a0c4983ff1188f4935369e694d7d46f2493be1",
+  "requested_at": "2026-11-14T11:37:36.932685+08:00",
+  "raw_file": "raw/T0135_qwen_a001_366906.json",
+  "transport": "sse",
+  "stream_file": "raw/T0135_qwen_a001_366906.sse",
+  "status": "ok",
+  "model_returned": "qwen3.8-max",
+  "answer": "截至目前检索到的报道，**2026年11月暴雨简报中提到的“15万多顶帐篷”尚未被确认已经送到加沙**。新华社报道明确说，**超过15万顶帐篷以及用于排水的水泵已经准备就绪，但仍在等待进入加沙地带**[1]。\n\n关于“有多少安置点、多少户家庭需要援助”，现有资料没有给出完整数字：\n\n1. **安置点数量未明确**。报道只说，由于地势低洼且缺乏排水系统，**多处流离失所者安置点被洪水完全淹没**，但没有列出具体安置点数量[5]。\n\n2. **需援助家庭总数也未明确**。目前可确认的受灾情况是，自11月7日暴雨以来，**约7万顶安置流离失所者的帐篷遭雨水浸淹**[1]。但报道没有说明这些帐篷对应多少户家庭，因此不能直接换算成“需要援助的家庭数”。\n\n3. 检索结果中提到的家庭数来自另一项早前援助数据：**2025年12月，曾向加沙地带约8万户家庭发放超过4万顶帐篷、超过13.5万块防水布以及床垫、毛毯等物资**[5]。但这属于此前援助发放情况，**不等同于本次暴雨后当前需要援助的家庭总数**[5]。\n\n简言之：**15万多顶帐篷目前报道仍显示在等待进入加沙；受灾安置点数量和需援助家庭总数，现有材料未给出明确统计。**",
+  "sources": [
+    {
+      "index": 1,
+      "url": "https://news.qq.com/rain/a/20261113A08KDT00",
+      "title": null,
+      "origin": "citations"
+    },
+    {
+      "index": 2,
+      "url": "https://www.thepaper.cn/newsDetail_forward_34431946",
+      "title": null,
+      "origin": "citations"
+    },
+    {
+      "index": 3,
+      "url": "https://www.chinanews.com.cn/gj/2026/01-07/10547705.shtml",
+      "title": null,
+      "origin": "citations"
+    }
+  ],
+  "usage": {
+    "completion_tokens": 1673,
+    "completion_tokens_details": {
+      "reasoning_tokens": 1343,
+      "text_tokens": 1673
+    },
+    "prompt_tokens": 1215,
+    "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "text_tokens": 1215
+    },
+    "total_tokens": 2888
+  },
+  "finish_reason": "stop",
+  "note": [],
+  "request_id": "2bf9acec-57a1-4039-9e04-ccc56d79b8b6",
+  "duration_seconds": 41.421
+}

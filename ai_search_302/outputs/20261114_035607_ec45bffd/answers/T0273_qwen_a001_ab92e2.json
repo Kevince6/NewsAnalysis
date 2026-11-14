@@ -1,0 +1,53 @@
+{
+  "task_id": "T0273",
+  "model": "qwen",
+  "news_id": "E023",
+  "question_index": 2,
+  "question_original": "【开放】张碧晨工作室一边说有永久演唱权，一边又说以后不唱《年轮》，这两种表态矛盾吗？声明是怎么解释的？",
+  "question": "张碧晨工作室一边说有永久演唱权，一边又说以后不唱《年轮》，这两种表态矛盾吗？声明是怎么解释的？",
+  "attempt": 1,
+  "provider": "302.ai",
+  "model_requested": "qwen3.8-max",
+  "query_date": "2026-11-14",
+  "search_service": "metaso",
+  "prompt_version": "news-search-v1",
+  "prompt_sha256": "ea56fd5557d32615a9115f2368a0c4983ff1188f4935369e694d7d46f2493be1",
+  "requested_at": "2026-11-14T12:12:47.401195+08:00",
+  "raw_file": "raw/T0273_qwen_a001_ab92e2.json",
+  "transport": "sse",
+  "stream_file": "raw/T0273_qwen_a001_ab92e2.sse",
+  "status": "ok",
+  "model_returned": "qwen3.8-max",
+  "answer": "从现有声明表述看，这两种说法**并不必然矛盾**。张碧晨工作室的解释可以理解为：他们是在区分“**有没有权利唱**”和“**今后是否继续实际演唱**”两件事。\n\n声明中的关键表态是：经查阅正式合约，张碧晨依法享有歌曲《年轮》在全球范围内的**永久演唱权利**[4]；但同时，出于“尊重与自我选择”，张碧晨今后将**不再演唱该歌曲**[4]。\n\n也就是说，工作室并不是说“因为没有权利，所以不唱”，而是说“即使依法享有演唱权利，也主动选择不再演唱”[4]。这种逻辑类似“拥有某项权利，但自愿不行使”。因此，“有永久演唱权”和“以后不再演唱”在表述上可以同时成立[2][4]。\n\n补充背景是，这一声明出现在《年轮》授权与原唱争议持续发酵的背景下，相关报道还提到汪苏泷收回授权等争议[2]。不过，目前检索到的资料只给出了张碧晨方声明要点，并未展示完整合约条款，也未对“永久演唱权”的具体法律边界作进一步说明，因此只能依据声明原文理解其表态[2][4]。",
+  "sources": [
+    {
+      "index": 1,
+      "url": "https://k.sina.cn/article_7879924004_m1d5ae192403301jrt8.html",
+      "title": null,
+      "origin": "citations"
+    },
+    {
+      "index": 2,
+      "url": "https://new.qq.com/rain/a/20250726A06N1700",
+      "title": null,
+      "origin": "citations"
+    }
+  ],
+  "usage": {
+    "completion_tokens": 957,
+    "completion_tokens_details": {
+      "reasoning_tokens": 699,
+      "text_tokens": 957
+    },
+    "prompt_tokens": 1025,
+    "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "text_tokens": 1025
+    },
+    "total_tokens": 1982
+  },
+  "finish_reason": "stop",
+  "note": [],
+  "request_id": "11fb2322-0945-4b61-9cbe-4da8be1e5663",
+  "duration_seconds": 27.297
+}

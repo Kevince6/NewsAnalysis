@@ -1,0 +1,57 @@
+{
+  "task_id": "T0095",
+  "model": "deepseek",
+  "news_id": "E008",
+  "question_index": 2,
+  "question_original": "【开放】马杜罗被抓、在美国出庭和被判有罪是一回事吗？他和妻子在首次出庭时作了什么答辩？",
+  "question": "马杜罗被抓、在美国出庭和被判有罪是一回事吗？他和妻子在首次出庭时作了什么答辩？",
+  "attempt": 1,
+  "provider": "302.ai",
+  "model_requested": "deepseek-flash",
+  "query_date": "2026-11-14",
+  "search_service": "metaso",
+  "prompt_version": "news-search-v1",
+  "prompt_sha256": "ea56fd5557d32615a9115f2368a0c4983ff1188f4935369e694d7d46f2493be1",
+  "requested_at": "2026-11-14T11:26:28.803016+08:00",
+  "raw_file": "raw/T0095_deepseek_a001_7608fa.json",
+  "transport": "sse",
+  "stream_file": "raw/T0095_deepseek_a001_7608fa.sse",
+  "status": "ok",
+  "model_returned": "deepseek-flash",
+  "answer": "**不是一回事。**“被抓”“在美国出庭”“被判有罪”分别对应刑事程序中的不同阶段：被捕或被拘留、首次提讯（arraignment，即被告就指控作答辩）、审判后定罪。现有检索资料只显示马杜罗夫妇已被美方控制并完成首次出庭答辩，**没有任何资料显示他们已被判有罪**；相反，两人在庭上均表示不认罪[citation:1][citation:2][citation:4]。\n\n**首次出庭时两人的答辩情况：**\n\n1. **马杜罗：不认罪，并称自己“被绑架”**  \n   马杜罗在法庭上表示“我无罪”，拒绝美方一切指控，并强调自己仍是委内瑞拉总统；他还称自己是“被绑架的”[citation:2][citation:4]。美方对他的指控包括“毒品恐怖主义阴谋罪、可卡因走私阴谋罪、持有机枪及破坏性装置罪”等[citation:1][citation:2]。\n\n2. **妻子西利娅·弗洛雷斯：同样不认罪**  \n   弗洛雷斯对美方多项指控表示不认罪，称自己“完全无辜”[citation:2][citation:4]。她的律师告诉法庭，弗洛雷斯在美军突袭时受伤，眼睛和额头附近有绷带，并请求为她提供适当医疗，包括对可能的肋骨瘀伤和骨折进行X光检查[citation:1][citation:2]。\n\n3. **程序性细节**  \n   马杜罗夫妇在庭上未申请保释，意味着将继续被联邦拘留[citation:1]；两人还提出希望与委内瑞拉领事人员会面，检方对此表示支持[citation:4]。整个提讯过程约30分钟，法官将下一次出庭日期定为3月17日[citation:2][citation:4]。\n\n**需要说明的是：** 检索结果只覆盖到首次提讯阶段，未提供后续审判或判决信息。因此，可以确认的是“两人被抓并在美国首次出庭、均作无罪答辩”，但不能据此认为“已被判有罪”。",
+  "sources": [
+    {
+      "index": 1,
+      "url": "https://www.bbc.com/zhongwen/articles/c3r1q5xj19no/trad",
+      "title": null,
+      "origin": "citations"
+    },
+    {
+      "index": 2,
+      "url": "https://finance.sina.cn/2026-01-06/detail-inhfiehz7551481.d.html",
+      "title": null,
+      "origin": "citations"
+    },
+    {
+      "index": 3,
+      "url": "https://www.oushinet.com/static/content/wechat/europeantimes/2026-01-07/1458508858326553328.html",
+      "title": null,
+      "origin": "citations"
+    }
+  ],
+  "usage": {
+    "completion_tokens": 826,
+    "completion_tokens_details": {
+      "reasoning_tokens": 377
+    },
+    "prompt_tokens": 1123,
+    "prompt_tokens_details": {
+      "cached_tokens": 0
+    },
+    "total_tokens": 1949
+  },
+  "finish_reason": "stop",
+  "note": [],
+  "request_id": "f33cdb41-9af0-4b2c-977e-48096cbeffeb",
+  "duration_seconds": 39.234
+}

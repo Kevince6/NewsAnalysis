@@ -1,0 +1,63 @@
+{
+  "task_id": "T0308",
+  "model": "deepseek",
+  "news_id": "E026",
+  "question_index": 3,
+  "question_original": "【事实】那次被误报成9.9级的实际地震发生在哪里，震级和震源深度各是多少？",
+  "question": "那次被误报成9.9级的实际地震发生在哪里，震级和震源深度各是多少？",
+  "attempt": 1,
+  "provider": "302.ai",
+  "model_requested": "deepseek-flash",
+  "query_date": "2026-11-14",
+  "search_service": "metaso",
+  "prompt_version": "news-search-v1",
+  "prompt_sha256": "ea56fd5557d32615a9115f2368a0c4983ff1188f4935369e694d7d46f2493be1",
+  "requested_at": "2026-11-14T12:20:25.202652+08:00",
+  "raw_file": "raw/T0308_deepseek_a001_72b7d3.json",
+  "transport": "sse",
+  "stream_file": "raw/T0308_deepseek_a001_72b7d3.sse",
+  "status": "ok",
+  "model_returned": "deepseek-flash",
+  "answer": "那次被日本气象厅误报为“9.9级”的地震，实际发生在**俄罗斯堪察加半岛南部**，并非日本或千岛群岛。日本气象厅随后说明，这次“9.9级”速报属于**误判**，并已取消，具体原因仍在调查中[5]。\n\n具体参数如下：\n\n- **震级**：日本气象厅速报所对应的实际地震为**6.9级**；欧洲地中海地震中心测得**7.0级**，不同机构的结果略有差异[4]。\n- **震源深度**：属于**深源地震**，美国地质调查局给出的深度约为**143至160公里**；有报道概括为约150公里[4][5]。\n- **震中位置**：美国地质调查局给出的震中位于**奥泽尔诺夫斯基东北方约76公里**处[4]。\n- **影响**：由于震源较深，地表破坏通常较弱；日本北海道函馆仅观测到震度1，没有海啸疑虑[4]。\n\n简单说，误报中的“9.9级”并不存在；真实地震是堪察加半岛南部一次约6.9级、深约150公里的深源地震[4][5]。",
+  "sources": [
+    {
+      "index": 1,
+      "url": "https://www.cnr.cn/newscenter/native/gd/kx/20250216/t20250216_527073164.shtml",
+      "title": null,
+      "origin": "citations"
+    },
+    {
+      "index": 2,
+      "url": "https://finance.sina.cn/2025-02-16/detail-inekrvxm9294947.d.html?vt=4&cid=76729&node_id=76729",
+      "title": null,
+      "origin": "citations"
+    },
+    {
+      "index": 3,
+      "url": "https://news.china.com/socialgd/10000169/20261016/49798232.html",
+      "title": null,
+      "origin": "citations"
+    },
+    {
+      "index": 4,
+      "url": "https://www.jiemian.com/article/15198771.html",
+      "title": null,
+      "origin": "citations"
+    }
+  ],
+  "usage": {
+    "completion_tokens": 662,
+    "completion_tokens_details": {
+      "reasoning_tokens": 395
+    },
+    "prompt_tokens": 1248,
+    "prompt_tokens_details": {
+      "cached_tokens": 0
+    },
+    "total_tokens": 1910
+  },
+  "finish_reason": "stop",
+  "note": [],
+  "request_id": "03fafb8c-79cf-45c2-b7c8-8c93f1b91f8d",
+  "duration_seconds": 8.796
+}

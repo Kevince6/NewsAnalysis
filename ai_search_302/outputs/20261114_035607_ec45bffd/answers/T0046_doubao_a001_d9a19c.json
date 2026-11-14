@@ -1,0 +1,63 @@
+{
+  "task_id": "T0046",
+  "model": "doubao",
+  "news_id": "E004",
+  "question_index": 4,
+  "question_original": "【事实】巴黎警方通报中，10月17日拘捕了多少人？18日又有多少家商店受损、被抢掠？",
+  "question": "巴黎警方通报中，10月17日拘捕了多少人？18日又有多少家商店受损、被抢掠？",
+  "attempt": 1,
+  "provider": "302.ai",
+  "model_requested": "doubao-seed-2-1-pro-260628",
+  "query_date": "2026-11-14",
+  "search_service": "metaso",
+  "prompt_version": "news-search-v1",
+  "prompt_sha256": "ea56fd5557d32615a9115f2368a0c4983ff1188f4935369e694d7d46f2493be1",
+  "requested_at": "2026-11-14T04:21:53.992734+08:00",
+  "raw_file": "raw/T0046_doubao_a001_d9a19c.json",
+  "transport": "sse",
+  "stream_file": "raw/T0046_doubao_a001_d9a19c.sse",
+  "status": "ok",
+  "model_returned": "doubao-seed-2-1-pro-260628",
+  "answer": "根据目前提供的搜索结果，并未收录巴黎警方针对10月17日拘捕人数、10月18日辖区内商店受损被抢掠情况的官方通报内容，因此无法提供巴黎警方口径下的对应精确统计值。现有公开报道披露的均为法国全国层面的骚乱相关汇总数据，不同信源的统计结果存在一定差异，相关可参考信息如下：\n### 一、拘捕人数相关统计\n针对10月17日和平抗议活动中衍生的暴力打砸抢事件，早期公开报道统计全国范围内约有1800人被捕[1]；随着后续搜捕处置工作推进，相关统计数据持续更新：截至10月18日晚，法国内政部的官方统计显示，全国累计已有超过2000人在骚乱中被捕[5]；BBC综合各方信息发布的统计则显示，截至10月18日全国累计被拘捕人数约为2400人[4]。需要说明的是，上述所有拘捕数据均为法国全国口径，并未单独拆分巴黎警方管辖范围内的拘捕人数，也不属于巴黎警方发布的通报内容。\n### 二、商店受损被抢掠相关情况\n综合BBC的统计数据，截至10月18日，法国全国范围内共有1500家商店和零售商在骚乱中遭打砸、抢劫受损[4]，受影响的商铺覆盖超市、药店、奢侈品店、服装店、眼镜店、化妆品店、消费电子产品店等多个行业[1]。巴黎是本次骚乱受影响较严重的城市之一：市中心聚集大量奢侈品牌门店、距离总统府爱丽舍宫仅数百米的蒙田大道也未能幸免，事发当晚发生多起抢劫事件，多家商店被砸、部分店铺遭洗劫，爱丽舍宫周边出现多批流动破坏人员，附近地铁站区域升起浓烟，现场局势紧张[2]；但现有公开报道并未披露巴黎警方统计的10月18日当地受损、被抢掠商店的具体数量。",
+  "sources": [
+    {
+      "index": 1,
+      "url": "https://news.qq.com/rain/a/20261019A04Z5H00",
+      "title": null,
+      "origin": "citations"
+    },
+    {
+      "index": 2,
+      "url": "https://news.qq.com/rain/a/20261018A0A5YC00",
+      "title": null,
+      "origin": "citations"
+    },
+    {
+      "index": 3,
+      "url": "https://www.163.com/dy/article/L9KQ2NGF051996QS.html",
+      "title": null,
+      "origin": "citations"
+    },
+    {
+      "index": 4,
+      "url": "https://k.sina.cn/article_1887344341_707e96d501901wvvi.html",
+      "title": null,
+      "origin": "citations"
+    }
+  ],
+  "usage": {
+    "completion_tokens": 3245,
+    "completion_tokens_details": {
+      "reasoning_tokens": 2811
+    },
+    "prompt_tokens": 1389,
+    "prompt_tokens_details": {
+      "cached_tokens": 0
+    },
+    "total_tokens": 4634
+  },
+  "finish_reason": "stop",
+  "note": [],
+  "request_id": "e1be272b-73d9-4a45-b840-bdea64340222",
+  "duration_seconds": 65.484
+}

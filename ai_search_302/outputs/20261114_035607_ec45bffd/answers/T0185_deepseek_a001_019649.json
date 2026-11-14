@@ -1,0 +1,45 @@
+{
+  "task_id": "T0185",
+  "model": "deepseek",
+  "news_id": "E015",
+  "question_index": 3,
+  "question_original": "【事实】2025年11月10日，参议院以多少票通过修订后的拨款案？总统哪天签署成法？",
+  "question": "2025年11月10日，参议院以多少票通过修订后的拨款案？总统哪天签署成法？",
+  "attempt": 1,
+  "provider": "302.ai",
+  "model_requested": "deepseek-flash",
+  "query_date": "2026-11-14",
+  "search_service": "metaso",
+  "prompt_version": "news-search-v1",
+  "prompt_sha256": "ea56fd5557d32615a9115f2368a0c4983ff1188f4935369e694d7d46f2493be1",
+  "requested_at": "2026-11-14T11:51:18.419585+08:00",
+  "raw_file": "raw/T0185_deepseek_a001_019649.json",
+  "transport": "sse",
+  "stream_file": "raw/T0185_deepseek_a001_019649.sse",
+  "status": "ok",
+  "model_returned": "deepseek-flash",
+  "answer": "根据你提供的检索结果，**无法确认这两个具体数字**。\n\n检索结果中仅有的一篇报道[5]说的是：2025年11月10日，至少10名民主党参议员准备支持临时拨款措施，这“意味法案将获得参议院超过60票支持通过”——这是表决前的预期，并没有给出最终表决票数，也没有提到总统签署成法的日期。\n\n据其他公开报道（不在上述检索结果中），参议院当天最终以 **60票赞成、40票反对** 通过修订后的拨款案；特朗普于 **11月12日** 签署成法。这两项信息建议以美国参议院表决记录和白宫签署公告为准。",
+  "sources": [
+    {
+      "index": 1,
+      "url": "https://bj.crntt.com/crn-webapp/touch/detail.jsp?coluid=70&docid=107140743",
+      "title": null,
+      "origin": "citations"
+    }
+  ],
+  "usage": {
+    "completion_tokens": 1005,
+    "completion_tokens_details": {
+      "reasoning_tokens": 862
+    },
+    "prompt_tokens": 752,
+    "prompt_tokens_details": {
+      "cached_tokens": 0
+    },
+    "total_tokens": 1757
+  },
+  "finish_reason": "stop",
+  "note": [],
+  "request_id": "91d3077f-48e7-494a-8a28-792a14637034",
+  "duration_seconds": 44.75
+}

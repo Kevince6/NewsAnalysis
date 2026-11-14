@@ -1,0 +1,63 @@
+{
+  "task_id": "T0206",
+  "model": "deepseek",
+  "news_id": "E017",
+  "question_index": 2,
+  "question_original": "【开放】《李白》授权争议中，单依纯和联合主办方分别承认了什么问题，后来怎样调整演出安排？",
+  "question": "《李白》授权争议中，单依纯和联合主办方分别承认了什么问题，后来怎样调整演出安排？",
+  "attempt": 1,
+  "provider": "302.ai",
+  "model_requested": "deepseek-flash",
+  "query_date": "2026-11-14",
+  "search_service": "metaso",
+  "prompt_version": "news-search-v1",
+  "prompt_sha256": "ea56fd5557d32615a9115f2368a0c4983ff1188f4935369e694d7d46f2493be1",
+  "requested_at": "2026-11-14T11:56:34.668723+08:00",
+  "raw_file": "raw/T0206_deepseek_a001_be3968.json",
+  "transport": "sse",
+  "stream_file": "raw/T0206_deepseek_a001_be3968.sse",
+  "status": "ok",
+  "model_returned": "deepseek-flash",
+  "answer": "## 一、双方各自承认的问题\n\n**单依纯方面**：她承认自己在授权核查上存在监督疏忽。她说明，因信任主办方，没有亲自核查授权文件，并表态“错误全在我，与任何人无关”，愿意承担全部责任、赔偿相关费用[citation:1][citation:4]。她同时承认自己需要为“自身监督疏忽负责”[citation:1]。\n\n**主办方方面**：在2026年3月30日凌晨发布的致歉信中，主办方承认，在巡演曲目著作权授权审核的落实工作中“存在疏漏与瑕疵”，这是深圳站演出中单依纯表演《李白》引发著作权授权争议的直接原因[citation:5]。\n\n## 二、演出安排的调整\n\n争议发生后，双方主要作了以下调整：\n\n1. **叫停《李白》演出**：主办方第一时间叫停后续所有巡演场次中《李白》的表演安排，并表示坚决杜绝此类问题再次发生[citation:5]；单依纯也宣布停止《李白》的所有演出[citation:1]。\n2. **删除相关宣传物料**：单依纯方面删除与《李白》相关的宣传物料[citation:1]。\n3. **承担版权费用及赔偿**：单依纯由个人承担全额版权使用费及赔偿[citation:1]。\n4. **开放退票通道**：主办方针对本次巡演官方授权票务渠道已售出、但尚未演出场次的门票，开启48小时限时自愿免责退票流程[citation:3]。\n\n需要说明的是，上述退票安排针对的是“已售出但未演出场次”，并不代表巡演整体取消——报道显示，武汉（4月10日—12日）、郑州（4月25日—26日）等场次当时仍照常进行，且5场演唱会已全部售罄[citation:3]。也就是说，调整集中在**剔除《李白》这一曲目**，而非停办巡演。",
+  "sources": [
+    {
+      "index": 1,
+      "url": "https://finance.sina.cn/2026-03-30/detail-inhstpih6605749.d.html",
+      "title": null,
+      "origin": "citations"
+    },
+    {
+      "index": 2,
+      "url": "https://browser.qq.com/mobile/news?doc_id=76869cb312292052",
+      "title": null,
+      "origin": "citations"
+    },
+    {
+      "index": 3,
+      "url": "https://www.163.com/dy/article/KP9SUUHS0556E0G2.html",
+      "title": null,
+      "origin": "citations"
+    },
+    {
+      "index": 4,
+      "url": "http://k.sina.com.cn/article_1497087080_593bbc6804001anho.html",
+      "title": null,
+      "origin": "citations"
+    }
+  ],
+  "usage": {
+    "completion_tokens": 725,
+    "completion_tokens_details": {
+      "reasoning_tokens": 303
+    },
+    "prompt_tokens": 1133,
+    "prompt_tokens_details": {
+      "cached_tokens": 0
+    },
+    "total_tokens": 1858
+  },
+  "finish_reason": "stop",
+  "note": [],
+  "request_id": "22f82f5a-7b00-418a-8170-ee0c79256f3a",
+  "duration_seconds": 5.516
+}

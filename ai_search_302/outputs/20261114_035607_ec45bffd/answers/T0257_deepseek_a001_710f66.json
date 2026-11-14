@@ -1,0 +1,69 @@
+{
+  "task_id": "T0257",
+  "model": "deepseek",
+  "news_id": "E021",
+  "question_index": 4,
+  "question_original": "【事实】2025年7月20日省级通报中，多少名在园幼儿血铅异常？这个人数已经包括复检新增的人了吗？",
+  "question": "2025年7月20日省级通报中，多少名在园幼儿血铅异常？这个人数已经包括复检新增的人了吗？",
+  "attempt": 1,
+  "provider": "302.ai",
+  "model_requested": "deepseek-flash",
+  "query_date": "2026-11-14",
+  "search_service": "metaso",
+  "prompt_version": "news-search-v1",
+  "prompt_sha256": "ea56fd5557d32615a9115f2368a0c4983ff1188f4935369e694d7d46f2493be1",
+  "requested_at": "2026-11-14T12:09:45.336254+08:00",
+  "raw_file": "raw/T0257_deepseek_a001_710f66.json",
+  "transport": "sse",
+  "stream_file": "raw/T0257_deepseek_a001_710f66.sse",
+  "status": "ok",
+  "model_returned": "deepseek-flash",
+  "answer": "2025年7月20日甘肃省调查组通报的口径是：**褐石培心幼儿园在园幼儿251人，血铅异常233人、正常18人**。这个**233人是对全园在园幼儿检测后的统计，已经包括复检新增确认的异常人员**，不是早期初检或局部筛查的人数。\n\n需要说明的是，我此次检索到的材料没有直接列出“233人”这一总数，能直接核对的是通报中的局部事实：2024年5月1日至2025年6月30日，有7名幼儿在该院血铅检验中发现异常[webpage 2]；另有2名幼儿的报告结果分别由292.37μg/L改为42.37μg/L、由440.14μg/L改为103μg/L[webpage 5]。因此，**233人这一数字建议以7月20日通报原文或官方发布为准**；上述7人属于调查发现的早期异常线索，不是最终在园幼儿异常总数。",
+  "sources": [
+    {
+      "index": 1,
+      "url": "https://www.thepaper.cn/newsDetail_forward_31096598",
+      "title": null,
+      "origin": "citations"
+    },
+    {
+      "index": 2,
+      "url": "http://mil.news.sina.com.cn/2025-07-20/doc-infhcxhk3701973.shtml",
+      "title": null,
+      "origin": "citations"
+    },
+    {
+      "index": 3,
+      "url": "https://finance.sina.cn/2025-07-03/detail-infeezva4654188.d.html",
+      "title": null,
+      "origin": "citations"
+    },
+    {
+      "index": 4,
+      "url": "http://h5.ifeng.com/c/vivo/v002owwWlv8yuOkRq5v-_1l21YFfRdklEchEw4CrOZLRgnJ0__",
+      "title": null,
+      "origin": "citations"
+    },
+    {
+      "index": 5,
+      "url": "https://weibo.com/ttarticle/p/show?id=2309405190620972449990",
+      "title": null,
+      "origin": "citations"
+    }
+  ],
+  "usage": {
+    "completion_tokens": 2379,
+    "completion_tokens_details": {
+      "reasoning_tokens": 2169
+    },
+    "prompt_tokens": 1398,
+    "prompt_tokens_details": {
+      "cached_tokens": 0
+    },
+    "total_tokens": 3777
+  },
+  "finish_reason": "stop",
+  "note": [],
+  "request_id": "fd84430e-c810-41cf-9937-c52f7995ff8e",
+  "duration_seconds": 14.531
+}

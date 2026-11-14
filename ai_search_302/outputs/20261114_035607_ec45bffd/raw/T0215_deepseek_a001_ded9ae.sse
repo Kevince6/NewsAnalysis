@@ -1,0 +1,830 @@
+data: {"choices":[{"delta":{"reasoning_content":"用户","role":"assistant"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.sina.cn/2025-11-12/detail-infxatcm3791036.d.html"],"created":1794628709,"id":"chatcmpl-f41aeb4e-951f-445b-9fb8-d0a89d6d83ca","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"问的是赤"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.sina.cn/2025-11-12/detail-infxatcm3791036.d.html"],"created":1794628709,"id":"chatcmpl-f41aeb4e-951f-445b-9fb8-d0a89d6d83ca","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"峰“"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.sina.cn/2025-11-12/detail-infxatcm3791036.d.html"],"created":1794628709,"id":"chatcmpl-f41aeb4e-951f-445b-9fb8-d0a89d6d83ca","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"免费砍白菜”事件的信息"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.sina.cn/2025-11-12/detail-infxatcm3791036.d.html"],"created":1794628709,"id":"chatcmpl-f41aeb4e-951f-445b-9fb8-d0a89d6d83ca","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"传播链条和"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.sina.cn/2025-11-12/detail-infxatcm3791036.d.html"],"created":1794628709,"id":"chatcmpl-f41aeb4e-951f-445b-9fb8-d0a89d6d83ca","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"调查结果。我"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.sina.cn/2025-11-12/detail-infxatcm3791036.d.html"],"created":1794628709,"id":"chatcmpl-f41aeb4e-951f-445b-9fb8-d0a89d6d83ca","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"只有一条搜索结果（"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.sina.cn/2025-11-12/detail-infxatcm3791036.d.html"],"created":1794628709,"id":"chatcmpl-f41aeb4e-951f-445b-9fb8-d0a89d6d83ca","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"webpage 5），内容"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.sina.cn/2025-11-12/detail-infxatcm3791036.d.html"],"created":1794628709,"id":"chatcmpl-f41aeb4e-951f-445b-9fb8-d0a89d6d83ca","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"很"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.sina.cn/2025-11-12/detail-infxatcm3791036.d.html"],"created":1794628709,"id":"chatcmpl-f41aeb4e-951f-445b-9fb8-d0a89d6d83ca","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"有限"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.sina.cn/2025-11-12/detail-infxatcm3791036.d.html"],"created":1794628709,"id":"chatcmpl-f41aeb4e-951f-445b-9fb8-d0a89d6d83ca","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"：津"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.sina.cn/2025-11-12/detail-infxatcm3791036.d.html"],"created":1794628709,"id":"chatcmpl-f41aeb4e-951f-445b-9fb8-d0a89d6d83ca","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"云"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.sina.cn/2025-11-12/detail-infxatcm3791036.d.html"],"created":1794628709,"id":"chatcmpl-f41aeb4e-951f-445b-9fb8-d0a89d6d83ca","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"报道，松山区"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.sina.cn/2025-11-12/detail-infxatcm3791036.d.html"],"created":1794628709,"id":"chatcmpl-f41aeb4e-951f-445b-9fb8-d0a89d6d83ca","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"联合"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.sina.cn/2025-11-12/detail-infxatcm3791036.d.html"],"created":1794628709,"id":"chatcmpl-f41aeb4e-951f-445b-9fb8-d0a89d6d83ca","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"调查组11月11"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.sina.cn/2025-11-12/detail-infxatcm3791036.d.html"],"created":1794628709,"id":"chatcmpl-f41aeb4e-951f-445b-9fb8-d0a89d6d83ca","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"日发布情况"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.sina.cn/2025-11-12/detail-infxatcm3791036.d.html"],"created":1794628709,"id":"chatcmpl-f41aeb4e-951f-445b-9fb8-d0a89d6d83ca","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"通报，说"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.sina.cn/2025-11-12/detail-infxatcm3791036.d.html"],"created":1794628709,"id":"chatcmpl-f41aeb4e-951f-445b-9fb8-d0a89d6d83ca","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"网民反映因"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.sina.cn/2025-11-12/detail-infxatcm3791036.d.html"],"created":1794628709,"id":"chatcmpl-f41aeb4e-951f-445b-9fb8-d0a89d6d83ca","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"网上"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.sina.cn/2025-11-12/detail-infxatcm3791036.d.html"],"created":1794628709,"id":"chatcmpl-f41aeb4e-951f-445b-9fb8-d0a89d6d83ca","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"传播免费采收"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.sina.cn/2025-11-12/detail-infxatcm3791036.d.html"],"created":1794628709,"id":"chatcmpl-f41aeb4e-951f-445b-9fb8-d0a89d6d83ca","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"白菜信息致使"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.sina.cn/2025-11-12/detail-infxatcm3791036.d.html"],"created":1794628709,"id":"chatcmpl-f41aeb4e-951f-445b-9fb8-d0a89d6d83ca","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"菜"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.sina.cn/2025-11-12/detail-infxatcm3791036.d.html"],"created":1794628709,"id":"chatcmpl-f41aeb4e-951f-445b-9fb8-d0a89d6d83ca","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"地被"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.sina.cn/2025-11-12/detail-infxatcm3791036.d.html"],"created":1794628709,"id":"chatcmpl-f41aeb4e-951f-445b-9fb8-d0a89d6d83ca","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"他人"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.sina.cn/2025-11-12/detail-infxatcm3791036.d.html"],"created":1794628709,"id":"chatcmpl-f41aeb4e-951f-445b-9fb8-d0a89d6d83ca","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"采收，区委"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.sina.cn/2025-11-12/detail-infxatcm3791036.d.html"],"created":1794628709,"id":"chatcmpl-f41aeb4e-951f-445b-9fb8-d0a89d6d83ca","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"区政府成立联合"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.sina.cn/2025-11-12/detail-infxatcm3791036.d.html"],"created":1794628709,"id":"chatcmpl-f41aeb4e-951f-445b-9fb8-d0a89d6d83ca","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"调查组开展"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.sina.cn/2025-11-12/detail-infxatcm3791036.d.html"],"created":1794628709,"id":"chatcmpl-f41aeb4e-951f-445b-9fb8-d0a89d6d83ca","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"调查处置"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.sina.cn/2025-11-12/detail-infxatcm3791036.d.html"],"created":1794628709,"id":"chatcmpl-f41aeb4e-951f-445b-9fb8-d0a89d6d83ca","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"，后续将"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.sina.cn/2025-11-12/detail-infxatcm3791036.d.html"],"created":1794628709,"id":"chatcmpl-f41aeb4e-951f-445b-9fb8-d0a89d6d83ca","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"及时发布"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.sina.cn/2025-11-12/detail-infxatcm3791036.d.html"],"created":1794628709,"id":"chatcmpl-f41aeb4e-951f-445b-9fb8-d0a89d6d83ca","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"。提到"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.sina.cn/2025-11-12/detail-infxatcm3791036.d.html"],"created":1794628709,"id":"chatcmpl-f41aeb4e-951f-445b-9fb8-d0a89d6d83ca","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"“损失近"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.sina.cn/2025-11-12/detail-infxatcm3791036.d.html"],"created":1794628709,"id":"chatcmpl-f41aeb4e-951f-445b-9fb8-d0a89d6d83ca","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"100万元”是"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.sina.cn/2025-11-12/detail-infxatcm3791036.d.html"],"created":1794628709,"id":"chatcmpl-f41aeb4e-951f-445b-9fb8-d0a89d6d83ca","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"标题里菜"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.sina.cn/2025-11-12/detail-infxatcm3791036.d.html"],"created":1794628709,"id":"chatcmpl-f41aeb4e-951f-445b-9fb8-d0a89d6d83ca","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"地承包者的"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.sina.cn/2025-11-12/detail-infxatcm3791036.d.html"],"created":1794628709,"id":"chatcmpl-f41aeb4e-951f-445b-9fb8-d0a89d6d83ca","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"说法。\n\n但用户问的是"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.sina.cn/2025-11-12/detail-infxatcm3791036.d.html"],"created":1794628709,"id":"chatcmpl-f41aeb4e-951f-445b-9fb8-d0a89d6d83ca","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"“信息"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.sina.cn/2025-11-12/detail-infxatcm3791036.d.html"],"created":1794628709,"id":"chatcmpl-f41aeb4e-951f-445b-9fb8-d0a89d6d83ca","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"是怎么传开的"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.sina.cn/2025-11-12/detail-infxatcm3791036.d.html"],"created":1794628709,"id":"chatcmpl-f41aeb4e-951f-445b-9fb8-d0a89d6d83ca","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"”“"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.sina.cn/2025-11-12/detail-infxatcm3791036.d.html"],"created":1794628709,"id":"chatcmpl-f41aeb4e-951f-445b-9fb8-d0a89d6d83ca","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"后来调查发现了什么”。"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.sina.cn/2025-11-12/detail-infxatcm3791036.d.html"],"created":1794628709,"id":"chatcmpl-f41aeb4e-951f-445b-9fb8-d0a89d6d83ca","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"搜索结果没有"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.sina.cn/2025-11-12/detail-infxatcm3791036.d.html"],"created":1794628709,"id":"chatcmpl-f41aeb4e-951f-445b-9fb8-d0a89d6d83ca","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"提供详细调查结论"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.sina.cn/2025-11-12/detail-infxatcm3791036.d.html"],"created":1794628709,"id":"chatcmpl-f41aeb4e-951f-445b-9fb8-d0a89d6d83ca","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"。我需要"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.sina.cn/2025-11-12/detail-infxatcm3791036.d.html"],"created":1794628709,"id":"chatcmpl-f41aeb4e-951f-445b-9fb8-d0a89d6d83ca","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"联网"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.sina.cn/2025-11-12/detail-infxatcm3791036.d.html"],"created":1794628709,"id":"chatcmpl-f41aeb4e-951f-445b-9fb8-d0a89d6d83ca","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"检索吗？系统"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.sina.cn/2025-11-12/detail-infxatcm3791036.d.html"],"created":1794628709,"id":"chatcmpl-f41aeb4e-951f-445b-9fb8-d0a89d6d83ca","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"提示说“请"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.sina.cn/2025-11-12/detail-infxatcm3791036.d.html"],"created":1794628709,"id":"chatcmpl-f41aeb4e-951f-445b-9fb8-d0a89d6d83ca","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"联网检索后回答"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.sina.cn/2025-11-12/detail-infxatcm3791036.d.html"],"created":1794628709,"id":"chatcmpl-f41aeb4e-951f-445b-9fb8-d0a89d6d83ca","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"”，但实际"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.sina.cn/2025-11-12/detail-infxatcm3791036.d.html"],"created":1794628709,"id":"chatcmpl-f41aeb4e-951f-445b-9fb8-d0a89d6d83ca","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"提供的"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.sina.cn/2025-11-12/detail-infxatcm3791036.d.html"],"created":1794628709,"id":"chatcmpl-f41aeb4e-951f-445b-9fb8-d0a89d6d83ca","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"搜索结果只有一个"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.sina.cn/2025-11-12/detail-infxatcm3791036.d.html"],"created":1794628709,"id":"chatcmpl-f41aeb4e-951f-445b-9fb8-d0a89d6d83ca","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"网页"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.sina.cn/2025-11-12/detail-infxatcm3791036.d.html"],"created":1794628709,"id":"chatcmpl-f41aeb4e-951f-445b-9fb8-d0a89d6d83ca","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"。我应该基于"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.sina.cn/2025-11-12/detail-infxatcm3791036.d.html"],"created":1794628709,"id":"chatcmpl-f41aeb4e-951f-445b-9fb8-d0a89d6d83ca","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"现有资料"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.sina.cn/2025-11-12/detail-infxatcm3791036.d.html"],"created":1794628709,"id":"chatcmpl-f41aeb4e-951f-445b-9fb8-d0a89d6d83ca","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"回答，并"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.sina.cn/2025-11-12/detail-infxatcm3791036.d.html"],"created":1794628709,"id":"chatcmpl-f41aeb4e-951f-445b-9fb8-d0a89d6d83ca","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"明确说明资料"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.sina.cn/2025-11-12/detail-infxatcm3791036.d.html"],"created":1794628709,"id":"chatcmpl-f41aeb4e-951f-445b-9fb8-d0a89d6d83ca","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"不足。不过我可以尝试补充"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.sina.cn/2025-11-12/detail-infxatcm3791036.d.html"],"created":1794628709,"id":"chatcmpl-f41aeb4e-951f-445b-9fb8-d0a89d6d83ca","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"一些"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.sina.cn/2025-11-12/detail-infxatcm3791036.d.html"],"created":1794628709,"id":"chatcmpl-f41aeb4e-951f-445b-9fb8-d0a89d6d83ca","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"常识性背景"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.sina.cn/2025-11-12/detail-infxatcm3791036.d.html"],"created":1794628709,"id":"chatcmpl-f41aeb4e-951f-445b-9fb8-d0a89d6d83ca","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"，"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.sina.cn/2025-11-12/detail-infxatcm3791036.d.html"],"created":1794628709,"id":"chatcmpl-f41aeb4e-951f-445b-9fb8-d0a89d6d83ca","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"但要"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.sina.cn/2025-11-12/detail-infxatcm3791036.d.html"],"created":1794628709,"id":"chatcmpl-f41aeb4e-951f-445b-9fb8-d0a89d6d83ca","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"区分事实"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.sina.cn/2025-11-12/detail-infxatcm3791036.d.html"],"created":1794628709,"id":"chatcmpl-f41aeb4e-951f-445b-9fb8-d0a89d6d83ca","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"与"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.sina.cn/2025-11-12/detail-infxatcm3791036.d.html"],"created":1794628709,"id":"chatcmpl-f41aeb4e-951f-445b-9fb8-d0a89d6d83ca","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"判断。\n\n注意：查询"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.sina.cn/2025-11-12/detail-infxatcm3791036.d.html"],"created":1794628709,"id":"chatcmpl-f41aeb4e-951f-445b-9fb8-d0a89d6d83ca","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"日期202"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.sina.cn/2025-11-12/detail-infxatcm3791036.d.html"],"created":1794628709,"id":"chatcmpl-f41aeb4e-951f-445b-9fb8-d0a89d6d83ca","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"6-11-14，"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.sina.cn/2025-11-12/detail-infxatcm3791036.d.html"],"created":1794628709,"id":"chatcmpl-f41aeb4e-951f-445b-9fb8-d0a89d6d83ca","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"但事件似乎是"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.sina.cn/2025-11-12/detail-infxatcm3791036.d.html"],"created":1794628709,"id":"chatcmpl-f41aeb4e-951f-445b-9fb8-d0a89d6d83ca","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"2025年11月？"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.sina.cn/2025-11-12/detail-infxatcm3791036.d.html"],"created":1794628709,"id":"chatcmpl-f41aeb4e-951f-445b-9fb8-d0a89d6d83ca","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"网页"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.sina.cn/2025-11-12/detail-infxatcm3791036.d.html"],"created":1794628709,"id":"chatcmpl-f41aeb4e-951f-445b-9fb8-d0a89d6d83ca","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"没"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.sina.cn/2025-11-12/detail-infxatcm3791036.d.html"],"created":1794628709,"id":"chatcmpl-f41aeb4e-951f-445b-9fb8-d0a89d6d83ca","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"写年份"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.sina.cn/2025-11-12/detail-infxatcm3791036.d.html"],"created":1794628709,"id":"chatcmpl-f41aeb4e-951f-445b-9fb8-d0a89d6d83ca","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"。用户"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.sina.cn/2025-11-12/detail-infxatcm3791036.d.html"],"created":1794628709,"id":"chatcmpl-f41aeb4e-951f-445b-9fb8-d0a89d6d83ca","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"说"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.sina.cn/2025-11-12/detail-infxatcm3791036.d.html"],"created":1794628709,"id":"chatcmpl-f41aeb4e-951f-445b-9fb8-d0a89d6d83ca","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"“现在"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.sina.cn/2025-11-12/detail-infxatcm3791036.d.html"],"created":1794628709,"id":"chatcmpl-f41aeb4e-951f-445b-9fb8-d0a89d6d83ca","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"”，以202"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.sina.cn/2025-11-12/detail-infxatcm3791036.d.html"],"created":1794628709,"id":"chatcmpl-f41aeb4e-951f-445b-9fb8-d0a89d6d83ca","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"6-11-14为"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.sina.cn/2025-11-12/detail-infxatcm3791036.d.html"],"created":1794628709,"id":"chatcmpl-f41aeb4e-951f-445b-9fb8-d0a89d6d83ca","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"参照。这个"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.sina.cn/2025-11-12/detail-infxatcm3791036.d.html"],"created":1794628709,"id":"chatcmpl-f41aeb4e-951f-445b-9fb8-d0a89d6d83ca","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"事件可能是"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.sina.cn/2025-11-12/detail-infxatcm3791036.d.html"],"created":1794628709,"id":"chatcmpl-f41aeb4e-951f-445b-9fb8-d0a89d6d83ca","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"2025年11月发生的"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.sina.cn/2025-11-12/detail-infxatcm3791036.d.html"],"created":1794628709,"id":"chatcmpl-f41aeb4e-951f-445b-9fb8-d0a89d6d83ca","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"。我不应编"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.sina.cn/2025-11-12/detail-infxatcm3791036.d.html"],"created":1794628709,"id":"chatcmpl-f41aeb4e-951f-445b-9fb8-d0a89d6d83ca","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"造。\n\n"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.sina.cn/2025-11-12/detail-infxatcm3791036.d.html"],"created":1794628709,"id":"chatcmpl-f41aeb4e-951f-445b-9fb8-d0a89d6d83ca","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"我的回答应"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.sina.cn/2025-11-12/detail-infxatcm3791036.d.html"],"created":1794628709,"id":"chatcmpl-f41aeb4e-951f-445b-9fb8-d0a89d6d83ca","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"：\n1. 直接"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.sina.cn/2025-11-12/detail-infxatcm3791036.d.html"],"created":1794628709,"id":"chatcmpl-f41aeb4e-951f-445b-9fb8-d0a89d6d83ca","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"回答：根据"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.sina.cn/2025-11-12/detail-infxatcm3791036.d.html"],"created":1794628709,"id":"chatcmpl-f41aeb4e-951f-445b-9fb8-d0a89d6d83ca","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"现有检索"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.sina.cn/2025-11-12/detail-infxatcm3791036.d.html"],"created":1794628709,"id":"chatcmpl-f41aeb4e-951f-445b-9fb8-d0a89d6d83ca","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"到的"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.sina.cn/2025-11-12/detail-infxatcm3791036.d.html"],"created":1794628709,"id":"chatcmpl-f41aeb4e-951f-445b-9fb8-d0a89d6d83ca","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"资料，能"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.sina.cn/2025-11-12/detail-infxatcm3791036.d.html"],"created":1794628709,"id":"chatcmpl-f41aeb4e-951f-445b-9fb8-d0a89d6d83ca","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"确认的信息"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.sina.cn/2025-11-12/detail-infxatcm3791036.d.html"],"created":1794628709,"id":"chatcmpl-f41aeb4e-951f-445b-9fb8-d0a89d6d83ca","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"传播"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.sina.cn/2025-11-12/detail-infxatcm3791036.d.html"],"created":1794628709,"id":"chatcmpl-f41aeb4e-951f-445b-9fb8-d0a89d6d83ca","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"大致"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.sina.cn/2025-11-12/detail-infxatcm3791036.d.html"],"created":1794628709,"id":"chatcmpl-f41aeb4e-951f-445b-9fb8-d0a89d6d83ca","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"是：网络上"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.sina.cn/2025-11-12/detail-infxatcm3791036.d.html"],"created":1794628709,"id":"chatcmpl-f41aeb4e-951f-445b-9fb8-d0a89d6d83ca","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"出现"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.sina.cn/2025-11-12/detail-infxatcm3791036.d.html"],"created":1794628709,"id":"chatcmpl-f41aeb4e-951f-445b-9fb8-d0a89d6d83ca","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"“免费采收"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.sina.cn/2025-11-12/detail-infxatcm3791036.d.html"],"created":1794628709,"id":"chatcmpl-f41aeb4e-951f-445b-9fb8-d0a89d6d83ca","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"/"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.sina.cn/2025-11-12/detail-infxatcm3791036.d.html"],"created":1794628709,"id":"chatcmpl-f41aeb4e-951f-445b-9fb8-d0a89d6d83ca","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"免费砍"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.sina.cn/2025-11-12/detail-infxatcm3791036.d.html"],"created":1794628709,"id":"chatcmpl-f41aeb4e-951f-445b-9fb8-d0a89d6d83ca","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"白菜”的视频信息 →"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.sina.cn/2025-11-12/detail-infxatcm3791036.d.html"],"created":1794628709,"id":"chatcmpl-f41aeb4e-951f-445b-9fb8-d0a89d6d83ca","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":" 吸引"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.sina.cn/2025-11-12/detail-infxatcm3791036.d.html"],"created":1794628709,"id":"chatcmpl-f41aeb4e-951f-445b-9fb8-d0a89d6d83ca","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"他人"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.sina.cn/2025-11-12/detail-infxatcm3791036.d.html"],"created":1794628709,"id":"chatcmpl-f41aeb4e-951f-445b-9fb8-d0a89d6d83ca","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"到菜"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.sina.cn/2025-11-12/detail-infxatcm3791036.d.html"],"created":1794628709,"id":"chatcmpl-f41aeb4e-951f-445b-9fb8-d0a89d6d83ca","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"地采收"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.sina.cn/2025-11-12/detail-infxatcm3791036.d.html"],"created":1794628709,"id":"chatcmpl-f41aeb4e-951f-445b-9fb8-d0a89d6d83ca","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":" → 承包"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.sina.cn/2025-11-12/detail-infxatcm3791036.d.html"],"created":1794628709,"id":"chatcmpl-f41aeb4e-951f-445b-9fb8-d0a89d6d83ca","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"者"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.sina.cn/2025-11-12/detail-infxatcm3791036.d.html"],"created":1794628709,"id":"chatcmpl-f41aeb4e-951f-445b-9fb8-d0a89d6d83ca","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"称损失近"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.sina.cn/2025-11-12/detail-infxatcm3791036.d.html"],"created":1794628709,"id":"chatcmpl-f41aeb4e-951f-445b-9fb8-d0a89d6d83ca","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"100万元 → 网民"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.sina.cn/2025-11-12/detail-infxatcm3791036.d.html"],"created":1794628709,"id":"chatcmpl-f41aeb4e-951f-445b-9fb8-d0a89d6d83ca","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"在网络"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.sina.cn/2025-11-12/detail-infxatcm3791036.d.html"],"created":1794628709,"id":"chatcmpl-f41aeb4e-951f-445b-9fb8-d0a89d6d83ca","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"平台反映 → 松山区"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.sina.cn/2025-11-12/detail-infxatcm3791036.d.html"],"created":1794628709,"id":"chatcmpl-f41aeb4e-951f-445b-9fb8-d0a89d6d83ca","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"委区政府"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.sina.cn/2025-11-12/detail-infxatcm3791036.d.html"],"created":1794628709,"id":"chatcmpl-f41aeb4e-951f-445b-9fb8-d0a89d6d83ca","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"成立联合调查"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.sina.cn/2025-11-12/detail-infxatcm3791036.d.html"],"created":1794628709,"id":"chatcmpl-f41aeb4e-951f-445b-9fb8-d0a89d6d83ca","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"组 →"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.sina.cn/2025-11-12/detail-infxatcm3791036.d.html"],"created":1794628709,"id":"chatcmpl-f41aeb4e-951f-445b-9fb8-d0a89d6d83ca","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":" 11月11日发布"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.sina.cn/2025-11-12/detail-infxatcm3791036.d.html"],"created":1794628709,"id":"chatcmpl-f41aeb4e-951f-445b-9fb8-d0a89d6d83ca","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"通报称"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.sina.cn/2025-11-12/detail-infxatcm3791036.d.html"],"created":1794628709,"id":"chatcmpl-f41aeb4e-951f-445b-9fb8-d0a89d6d83ca","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"正在"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.sina.cn/2025-11-12/detail-infxatcm3791036.d.html"],"created":1794628709,"id":"chatcmpl-f41aeb4e-951f-445b-9fb8-d0a89d6d83ca","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"调查处置"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.sina.cn/2025-11-12/detail-infxatcm3791036.d.html"],"created":1794628709,"id":"chatcmpl-f41aeb4e-951f-445b-9fb8-d0a89d6d83ca","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"，后续将及时"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.sina.cn/2025-11-12/detail-infxatcm3791036.d.html"],"created":1794628709,"id":"chatcmpl-f41aeb4e-951f-445b-9fb8-d0a89d6d83ca","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"发布"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.sina.cn/2025-11-12/detail-infxatcm3791036.d.html"],"created":1794628709,"id":"chatcmpl-f41aeb4e-951f-445b-9fb8-d0a89d6d83ca","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"。至于"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.sina.cn/2025-11-12/detail-infxatcm3791036.d.html"],"created":1794628709,"id":"chatcmpl-f41aeb4e-951f-445b-9fb8-d0a89d6d83ca","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"“"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.sina.cn/2025-11-12/detail-infxatcm3791036.d.html"],"created":1794628709,"id":"chatcmpl-f41aeb4e-951f-445b-9fb8-d0a89d6d83ca","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"后来"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.sina.cn/2025-11-12/detail-infxatcm3791036.d.html"],"created":1794628709,"id":"chatcmpl-f41aeb4e-951f-445b-9fb8-d0a89d6d83ca","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"调查"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.sina.cn/2025-11-12/detail-infxatcm3791036.d.html"],"created":1794628709,"id":"chatcmpl-f41aeb4e-951f-445b-9fb8-d0a89d6d83ca","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"发现了什么”，"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.sina.cn/2025-11-12/detail-infxatcm3791036.d.html"],"created":1794628709,"id":"chatcmpl-f41aeb4e-951f-445b-9fb8-d0a89d6d83ca","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"检索"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.sina.cn/2025-11-12/detail-infxatcm3791036.d.html"],"created":1794628709,"id":"chatcmpl-f41aeb4e-951f-445b-9fb8-d0a89d6d83ca","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"结果"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.sina.cn/2025-11-12/detail-infxatcm3791036.d.html"],"created":1794628709,"id":"chatcmpl-f41aeb4e-951f-445b-9fb8-d0a89d6d83ca","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"中没有"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.sina.cn/2025-11-12/detail-infxatcm3791036.d.html"],"created":1794628709,"id":"chatcmpl-f41aeb4e-951f-445b-9fb8-d0a89d6d83ca","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"调查结论，"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.sina.cn/2025-11-12/detail-infxatcm3791036.d.html"],"created":1794628709,"id":"chatcmpl-f41aeb4e-951f-445b-9fb8-d0a89d6d83ca","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"只有"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.sina.cn/2025-11-12/detail-infxatcm3791036.d.html"],"created":1794628709,"id":"chatcmpl-f41aeb4e-951f-445b-9fb8-d0a89d6d83ca","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"“"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.sina.cn/2025-11-12/detail-infxatcm3791036.d.html"],"created":1794628709,"id":"chatcmpl-f41aeb4e-951f-445b-9fb8-d0a89d6d83ca","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"正在开展调查处置"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.sina.cn/2025-11-12/detail-infxatcm3791036.d.html"],"created":1794628709,"id":"chatcmpl-f41aeb4e-951f-445b-9fb8-d0a89d6d83ca","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"”“后续及时"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.sina.cn/2025-11-12/detail-infxatcm3791036.d.html"],"created":1794628709,"id":"chatcmpl-f41aeb4e-951f-445b-9fb8-d0a89d6d83ca","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"发布”。\n"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.sina.cn/2025-11-12/detail-infxatcm3791036.d.html"],"created":1794628709,"id":"chatcmpl-f41aeb4e-951f-445b-9fb8-d0a89d6d83ca","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"2. 明确"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.sina.cn/2025-11-12/detail-infxatcm3791036.d.html"],"created":1794628709,"id":"chatcmpl-f41aeb4e-951f-445b-9fb8-d0a89d6d83ca","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"说明"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.sina.cn/2025-11-12/detail-infxatcm3791036.d.html"],"created":1794628709,"id":"chatcmpl-f41aeb4e-951f-445b-9fb8-d0a89d6d83ca","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"资料"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.sina.cn/2025-11-12/detail-infxatcm3791036.d.html"],"created":1794628709,"id":"chatcmpl-f41aeb4e-951f-445b-9fb8-d0a89d6d83ca","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"不足，不能确认传播"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.sina.cn/2025-11-12/detail-infxatcm3791036.d.html"],"created":1794628709,"id":"chatcmpl-f41aeb4e-951f-445b-9fb8-d0a89d6d83ca","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"的具体"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.sina.cn/2025-11-12/detail-infxatcm3791036.d.html"],"created":1794628709,"id":"chatcmpl-f41aeb4e-951f-445b-9fb8-d0a89d6d83ca","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"节点"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.sina.cn/2025-11-12/detail-infxatcm3791036.d.html"],"created":1794628709,"id":"chatcmpl-f41aeb4e-951f-445b-9fb8-d0a89d6d83ca","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"（"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.sina.cn/2025-11-12/detail-infxatcm3791036.d.html"],"created":1794628709,"id":"chatcmpl-f41aeb4e-951f-445b-9fb8-d0a89d6d83ca","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"首发"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.sina.cn/2025-11-12/detail-infxatcm3791036.d.html"],"created":1794628709,"id":"chatcmpl-f41aeb4e-951f-445b-9fb8-d0a89d6d83ca","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"平台"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.sina.cn/2025-11-12/detail-infxatcm3791036.d.html"],"created":1794628709,"id":"chatcmpl-f41aeb4e-951f-445b-9fb8-d0a89d6d83ca","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"、发布者身份"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.sina.cn/2025-11-12/detail-infxatcm3791036.d.html"],"created":1794628709,"id":"chatcmpl-f41aeb4e-951f-445b-9fb8-d0a89d6d83ca","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"、视频"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.sina.cn/2025-11-12/detail-infxatcm3791036.d.html"],"created":1794628709,"id":"chatcmpl-f41aeb4e-951f-445b-9fb8-d0a89d6d83ca","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"内容、转发"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.sina.cn/2025-11-12/detail-infxatcm3791036.d.html"],"created":1794628709,"id":"chatcmpl-f41aeb4e-951f-445b-9fb8-d0a89d6d83ca","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"路径"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.sina.cn/2025-11-12/detail-infxatcm3791036.d.html"],"created":1794628709,"id":"chatcmpl-f41aeb4e-951f-445b-9fb8-d0a89d6d83ca","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"），"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.sina.cn/2025-11-12/detail-infxatcm3791036.d.html"],"created":1794628709,"id":"chatcmpl-f41aeb4e-951f-445b-9fb8-d0a89d6d83ca","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"也不能确认调查最终"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.sina.cn/2025-11-12/detail-infxatcm3791036.d.html"],"created":1794628709,"id":"chatcmpl-f41aeb4e-951f-445b-9fb8-d0a89d6d83ca","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"认定"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.sina.cn/2025-11-12/detail-infxatcm3791036.d.html"],"created":1794628709,"id":"chatcmpl-f41aeb4e-951f-445b-9fb8-d0a89d6d83ca","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"。\n3. 可以"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.sina.cn/2025-11-12/detail-infxatcm3791036.d.html"],"created":1794628709,"id":"chatcmpl-f41aeb4e-951f-445b-9fb8-d0a89d6d83ca","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"补充需要"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.sina.cn/2025-11-12/detail-infxatcm3791036.d.html"],"created":1794628709,"id":"chatcmpl-f41aeb4e-951f-445b-9fb8-d0a89d6d83ca","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"关注"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.sina.cn/2025-11-12/detail-infxatcm3791036.d.html"],"created":1794628709,"id":"chatcmpl-f41aeb4e-951f-445b-9fb8-d0a89d6d83ca","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"什么"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.sina.cn/2025-11-12/detail-infxatcm3791036.d.html"],"created":1794628709,"id":"chatcmpl-f41aeb4e-951f-445b-9fb8-d0a89d6d83ca","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"：官方后续"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.sina.cn/2025-11-12/detail-infxatcm3791036.d.html"],"created":1794628709,"id":"chatcmpl-f41aeb4e-951f-445b-9fb8-d0a89d6d83ca","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"通报、警方"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.sina.cn/2025-11-12/detail-infxatcm3791036.d.html"],"created":1794628709,"id":"chatcmpl-f41aeb4e-951f-445b-9fb8-d0a89d6d83ca","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"是否"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.sina.cn/2025-11-12/detail-infxatcm3791036.d.html"],"created":1794628709,"id":"chatcmpl-f41aeb4e-951f-445b-9fb8-d0a89d6d83ca","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"立案、是否"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.sina.cn/2025-11-12/detail-infxatcm3791036.d.html"],"created":1794628709,"id":"chatcmpl-f41aeb4e-951f-445b-9fb8-d0a89d6d83ca","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"有人被"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.sina.cn/2025-11-12/detail-infxatcm3791036.d.html"],"created":1794628709,"id":"chatcmpl-f41aeb4e-951f-445b-9fb8-d0a89d6d83ca","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"处理"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.sina.cn/2025-11-12/detail-infxatcm3791036.d.html"],"created":1794628709,"id":"chatcmpl-f41aeb4e-951f-445b-9fb8-d0a89d6d83ca","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"、损失认定"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.sina.cn/2025-11-12/detail-infxatcm3791036.d.html"],"created":1794628709,"id":"chatcmpl-f41aeb4e-951f-445b-9fb8-d0a89d6d83ca","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"等。\n4. 引用"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.sina.cn/2025-11-12/detail-infxatcm3791036.d.html"],"created":1794628709,"id":"chatcmpl-f41aeb4e-951f-445b-9fb8-d0a89d6d83ca","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"[5]。\n\n用户"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.sina.cn/2025-11-12/detail-infxatcm3791036.d.html"],"created":1794628709,"id":"chatcmpl-f41aeb4e-951f-445b-9fb8-d0a89d6d83ca","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"可能"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.sina.cn/2025-11-12/detail-infxatcm3791036.d.html"],"created":1794628709,"id":"chatcmpl-f41aeb4e-951f-445b-9fb8-d0a89d6d83ca","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"期待"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.sina.cn/2025-11-12/detail-infxatcm3791036.d.html"],"created":1794628709,"id":"chatcmpl-f41aeb4e-951f-445b-9fb8-d0a89d6d83ca","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"详细"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.sina.cn/2025-11-12/detail-infxatcm3791036.d.html"],"created":1794628709,"id":"chatcmpl-f41aeb4e-951f-445b-9fb8-d0a89d6d83ca","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"的信息"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.sina.cn/2025-11-12/detail-infxatcm3791036.d.html"],"created":1794628709,"id":"chatcmpl-f41aeb4e-951f-445b-9fb8-d0a89d6d83ca","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"传播"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.sina.cn/2025-11-12/detail-infxatcm3791036.d.html"],"created":1794628709,"id":"chatcmpl-f41aeb4e-951f-445b-9fb8-d0a89d6d83ca","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"链条，但我"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.sina.cn/2025-11-12/detail-infxatcm3791036.d.html"],"created":1794628709,"id":"chatcmpl-f41aeb4e-951f-445b-9fb8-d0a89d6d83ca","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"不能"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.sina.cn/2025-11-12/detail-infxatcm3791036.d.html"],"created":1794628709,"id":"chatcmpl-f41aeb4e-951f-445b-9fb8-d0a89d6d83ca","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"编造。要诚实说明"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.sina.cn/2025-11-12/detail-infxatcm3791036.d.html"],"created":1794628709,"id":"chatcmpl-f41aeb4e-951f-445b-9fb8-d0a89d6d83ca","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"。可以结构化"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.sina.cn/2025-11-12/detail-infxatcm3791036.d.html"],"created":1794628709,"id":"chatcmpl-f41aeb4e-951f-445b-9fb8-d0a89d6d83ca","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"回答，"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.sina.cn/2025-11-12/detail-infxatcm3791036.d.html"],"created":1794628709,"id":"chatcmpl-f41aeb4e-951f-445b-9fb8-d0a89d6d83ca","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"分“"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.sina.cn/2025-11-12/detail-infxatcm3791036.d.html"],"created":1794628709,"id":"chatcmpl-f41aeb4e-951f-445b-9fb8-d0a89d6d83ca","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"已确认"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.sina.cn/2025-11-12/detail-infxatcm3791036.d.html"],"created":1794628709,"id":"chatcmpl-f41aeb4e-951f-445b-9fb8-d0a89d6d83ca","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"的事实”“"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.sina.cn/2025-11-12/detail-infxatcm3791036.d.html"],"created":1794628709,"id":"chatcmpl-f41aeb4e-951f-445b-9fb8-d0a89d6d83ca","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"尚不能"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.sina.cn/2025-11-12/detail-infxatcm3791036.d.html"],"created":1794628709,"id":"chatcmpl-f41aeb4e-951f-445b-9fb8-d0a89d6d83ca","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"确认/"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.sina.cn/2025-11-12/detail-infxatcm3791036.d.html"],"created":1794628709,"id":"chatcmpl-f41aeb4e-951f-445b-9fb8-d0a89d6d83ca","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"资料"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.sina.cn/2025-11-12/detail-infxatcm3791036.d.html"],"created":1794628709,"id":"chatcmpl-f41aeb4e-951f-445b-9fb8-d0a89d6d83ca","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"不足”“"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.sina.cn/2025-11-12/detail-infxatcm3791036.d.html"],"created":1794628709,"id":"chatcmpl-f41aeb4e-951f-445b-9fb8-d0a89d6d83ca","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"如何"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.sina.cn/2025-11-12/detail-infxatcm3791036.d.html"],"created":1794628709,"id":"chatcmpl-f41aeb4e-951f-445b-9fb8-d0a89d6d83ca","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"理解‘"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.sina.cn/2025-11-12/detail-infxatcm3791036.d.html"],"created":1794628709,"id":"chatcmpl-f41aeb4e-951f-445b-9fb8-d0a89d6d83ca","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"损失100万元"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.sina.cn/2025-11-12/detail-infxatcm3791036.d.html"],"created":1794628709,"id":"chatcmpl-f41aeb4e-951f-445b-9fb8-d0a89d6d83ca","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"’这一"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.sina.cn/2025-11-12/detail-infxatcm3791036.d.html"],"created":1794628709,"id":"chatcmpl-f41aeb4e-951f-445b-9fb8-d0a89d6d83ca","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"说法”。\n\n另外"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.sina.cn/2025-11-12/detail-infxatcm3791036.d.html"],"created":1794628709,"id":"chatcmpl-f41aeb4e-951f-445b-9fb8-d0a89d6d83ca","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"注意：只有"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.sina.cn/2025-11-12/detail-infxatcm3791036.d.html"],"created":1794628709,"id":"chatcmpl-f41aeb4e-951f-445b-9fb8-d0a89d6d83ca","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"一条来源"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.sina.cn/2025-11-12/detail-infxatcm3791036.d.html"],"created":1794628709,"id":"chatcmpl-f41aeb4e-951f-445b-9fb8-d0a89d6d83ca","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"，不能重复"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.sina.cn/2025-11-12/detail-infxatcm3791036.d.html"],"created":1794628709,"id":"chatcmpl-f41aeb4e-951f-445b-9fb8-d0a89d6d83ca","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"引用一个"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.sina.cn/2025-11-12/detail-infxatcm3791036.d.html"],"created":1794628709,"id":"chatcmpl-f41aeb4e-951f-445b-9fb8-d0a89d6d83ca","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"网页——"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.sina.cn/2025-11-12/detail-infxatcm3791036.d.html"],"created":1794628709,"id":"chatcmpl-f41aeb4e-951f-445b-9fb8-d0a89d6d83ca","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"但只有"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.sina.cn/2025-11-12/detail-infxatcm3791036.d.html"],"created":1794628709,"id":"chatcmpl-f41aeb4e-951f-445b-9fb8-d0a89d6d83ca","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"这一个"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.sina.cn/2025-11-12/detail-infxatcm3791036.d.html"],"created":1794628709,"id":"chatcmpl-f41aeb4e-951f-445b-9fb8-d0a89d6d83ca","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"相关"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.sina.cn/2025-11-12/detail-infxatcm3791036.d.html"],"created":1794628709,"id":"chatcmpl-f41aeb4e-951f-445b-9fb8-d0a89d6d83ca","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"网页，只能"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.sina.cn/2025-11-12/detail-infxatcm3791036.d.html"],"created":1794628709,"id":"chatcmpl-f41aeb4e-951f-445b-9fb8-d0a89d6d83ca","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"引用它。这是特殊情况"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.sina.cn/2025-11-12/detail-infxatcm3791036.d.html"],"created":1794628709,"id":"chatcmpl-f41aeb4e-951f-445b-9fb8-d0a89d6d83ca","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"，可以说明"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.sina.cn/2025-11-12/detail-infxatcm3791036.d.html"],"created":1794628709,"id":"chatcmpl-f41aeb4e-951f-445b-9fb8-d0a89d6d83ca","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"。\n\n我应该用"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.sina.cn/2025-11-12/detail-infxatcm3791036.d.html"],"created":1794628709,"id":"chatcmpl-f41aeb4e-951f-445b-9fb8-d0a89d6d83ca","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"自然"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.sina.cn/2025-11-12/detail-infxatcm3791036.d.html"],"created":1794628709,"id":"chatcmpl-f41aeb4e-951f-445b-9fb8-d0a89d6d83ca","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"中文，简洁。不要太长"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.sina.cn/2025-11-12/detail-infxatcm3791036.d.html"],"created":1794628709,"id":"chatcmpl-f41aeb4e-951f-445b-9fb8-d0a89d6d83ca","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"。格式"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.sina.cn/2025-11-12/detail-infxatcm3791036.d.html"],"created":1794628709,"id":"chatcmpl-f41aeb4e-951f-445b-9fb8-d0a89d6d83ca","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"美观"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.sina.cn/2025-11-12/detail-infxatcm3791036.d.html"],"created":1794628709,"id":"chatcmpl-f41aeb4e-951f-445b-9fb8-d0a89d6d83ca","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"。"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.sina.cn/2025-11-12/detail-infxatcm3791036.d.html"],"created":1794628709,"id":"chatcmpl-f41aeb4e-951f-445b-9fb8-d0a89d6d83ca","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"根据"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.sina.cn/2025-11-12/detail-infxatcm3791036.d.html"],"created":1794628709,"id":"chatcmpl-f41aeb4e-951f-445b-9fb8-d0a89d6d83ca","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"目前检索"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.sina.cn/2025-11-12/detail-infxatcm3791036.d.html"],"created":1794628709,"id":"chatcmpl-f41aeb4e-951f-445b-9fb8-d0a89d6d83ca","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"到的资料，这件事"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.sina.cn/2025-11-12/detail-infxatcm3791036.d.html"],"created":1794628709,"id":"chatcmpl-f41aeb4e-951f-445b-9fb8-d0a89d6d83ca","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"能确认的"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.sina.cn/2025-11-12/detail-infxatcm3791036.d.html"],"created":1794628709,"id":"chatcmpl-f41aeb4e-951f-445b-9fb8-d0a89d6d83ca","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"公开信息还"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.sina.cn/2025-11-12/detail-infxatcm3791036.d.html"],"created":1794628709,"id":"chatcmpl-f41aeb4e-951f-445b-9fb8-d0a89d6d83ca","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"比较有限：**信息"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.sina.cn/2025-11-12/detail-infxatcm3791036.d.html"],"created":1794628709,"id":"chatcmpl-f41aeb4e-951f-445b-9fb8-d0a89d6d83ca","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"是先"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.sina.cn/2025-11-12/detail-infxatcm3791036.d.html"],"created":1794628709,"id":"chatcmpl-f41aeb4e-951f-445b-9fb8-d0a89d6d83ca","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"以"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.sina.cn/2025-11-12/detail-infxatcm3791036.d.html"],"created":1794628709,"id":"chatcmpl-f41aeb4e-951f-445b-9fb8-d0a89d6d83ca","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"“免费砍"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.sina.cn/2025-11-12/detail-infxatcm3791036.d.html"],"created":1794628709,"id":"chatcmpl-f41aeb4e-951f-445b-9fb8-d0a89d6d83ca","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"白菜/"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.sina.cn/2025-11-12/detail-infxatcm3791036.d.html"],"created":1794628709,"id":"chatcmpl-f41aeb4e-951f-445b-9fb8-d0a89d6d83ca","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"免费采收白菜"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.sina.cn/2025-11-12/detail-infxatcm3791036.d.html"],"created":1794628709,"id":"chatcmpl-f41aeb4e-951f-445b-9fb8-d0a89d6d83ca","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"”的网络"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.sina.cn/2025-11-12/detail-infxatcm3791036.d.html"],"created":1794628709,"id":"chatcmpl-f41aeb4e-951f-445b-9fb8-d0a89d6d83ca","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"视频形式传"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.sina.cn/2025-11-12/detail-infxatcm3791036.d.html"],"created":1794628709,"id":"chatcmpl-f41aeb4e-951f-445b-9fb8-d0a89d6d83ca","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"开"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.sina.cn/2025-11-12/detail-infxatcm3791036.d.html"],"created":1794628709,"id":"chatcmpl-f41aeb4e-951f-445b-9fb8-d0a89d6d83ca","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"，引来"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.sina.cn/2025-11-12/detail-infxatcm3791036.d.html"],"created":1794628709,"id":"chatcmpl-f41aeb4e-951f-445b-9fb8-d0a89d6d83ca","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"他人"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.sina.cn/2025-11-12/detail-infxatcm3791036.d.html"],"created":1794628709,"id":"chatcmpl-f41aeb4e-951f-445b-9fb8-d0a89d6d83ca","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"到承包"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.sina.cn/2025-11-12/detail-infxatcm3791036.d.html"],"created":1794628709,"id":"chatcmpl-f41aeb4e-951f-445b-9fb8-d0a89d6d83ca","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"者"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.sina.cn/2025-11-12/detail-infxatcm3791036.d.html"],"created":1794628709,"id":"chatcmpl-f41aeb4e-951f-445b-9fb8-d0a89d6d83ca","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"菜地采收"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.sina.cn/2025-11-12/detail-infxatcm3791036.d.html"],"created":1794628709,"id":"chatcmpl-f41aeb4e-951f-445b-9fb8-d0a89d6d83ca","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"；"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.sina.cn/2025-11-12/detail-infxatcm3791036.d.html"],"created":1794628709,"id":"chatcmpl-f41aeb4e-951f-445b-9fb8-d0a89d6d83ca","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"承包者"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.sina.cn/2025-11-12/detail-infxatcm3791036.d.html"],"created":1794628709,"id":"chatcmpl-f41aeb4e-951f-445b-9fb8-d0a89d6d83ca","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"一方"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.sina.cn/2025-11-12/detail-infxatcm3791036.d.html"],"created":1794628709,"id":"chatcmpl-f41aeb4e-951f-445b-9fb8-d0a89d6d83ca","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"称损失近100万元；"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.sina.cn/2025-11-12/detail-infxatcm3791036.d.html"],"created":1794628709,"id":"chatcmpl-f41aeb4e-951f-445b-9fb8-d0a89d6d83ca","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"随后网民"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.sina.cn/2025-11-12/detail-infxatcm3791036.d.html"],"created":1794628709,"id":"chatcmpl-f41aeb4e-951f-445b-9fb8-d0a89d6d83ca","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"在网络"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.sina.cn/2025-11-12/detail-infxatcm3791036.d.html"],"created":1794628709,"id":"chatcmpl-f41aeb4e-951f-445b-9fb8-d0a89d6d83ca","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"平台反映，松山区"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.sina.cn/2025-11-12/detail-infxatcm3791036.d.html"],"created":1794628709,"id":"chatcmpl-f41aeb4e-951f-445b-9fb8-d0a89d6d83ca","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"成立"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.sina.cn/2025-11-12/detail-infxatcm3791036.d.html"],"created":1794628709,"id":"chatcmpl-f41aeb4e-951f-445b-9fb8-d0a89d6d83ca","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"联合调查组，并于"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.sina.cn/2025-11-12/detail-infxatcm3791036.d.html"],"created":1794628709,"id":"chatcmpl-f41aeb4e-951f-445b-9fb8-d0a89d6d83ca","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"11月11日发布通报"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.sina.cn/2025-11-12/detail-infxatcm3791036.d.html"],"created":1794628709,"id":"chatcmpl-f41aeb4e-951f-445b-9fb8-d0a89d6d83ca","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"称"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.sina.cn/2025-11-12/detail-infxatcm3791036.d.html"],"created":1794628709,"id":"chatcmpl-f41aeb4e-951f-445b-9fb8-d0a89d6d83ca","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"正在"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.sina.cn/2025-11-12/detail-infxatcm3791036.d.html"],"created":1794628709,"id":"chatcmpl-f41aeb4e-951f-445b-9fb8-d0a89d6d83ca","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"调查处置，"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.sina.cn/2025-11-12/detail-infxatcm3791036.d.html"],"created":1794628709,"id":"chatcmpl-f41aeb4e-951f-445b-9fb8-d0a89d6d83ca","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"承诺"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.sina.cn/2025-11-12/detail-infxatcm3791036.d.html"],"created":1794628709,"id":"chatcmpl-f41aeb4e-951f-445b-9fb8-d0a89d6d83ca","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"后续及时"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.sina.cn/2025-11-12/detail-infxatcm3791036.d.html"],"created":1794628709,"id":"chatcmpl-f41aeb4e-951f-445b-9fb8-d0a89d6d83ca","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"向社会发布"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.sina.cn/2025-11-12/detail-infxatcm3791036.d.html"],"created":1794628709,"id":"chatcmpl-f41aeb4e-951f-445b-9fb8-d0a89d6d83ca","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"**["},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.sina.cn/2025-11-12/detail-infxatcm3791036.d.html"],"created":1794628709,"id":"chatcmpl-f41aeb4e-951f-445b-9fb8-d0a89d6d83ca","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"5]。"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.sina.cn/2025-11-12/detail-infxatcm3791036.d.html"],"created":1794628709,"id":"chatcmpl-f41aeb4e-951f-445b-9fb8-d0a89d6d83ca","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"\n\n具体"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.sina.cn/2025-11-12/detail-infxatcm3791036.d.html"],"created":1794628709,"id":"chatcmpl-f41aeb4e-951f-445b-9fb8-d0a89d6d83ca","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"可分"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.sina.cn/2025-11-12/detail-infxatcm3791036.d.html"],"created":1794628709,"id":"chatcmpl-f41aeb4e-951f-445b-9fb8-d0a89d6d83ca","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"几点"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.sina.cn/2025-11-12/detail-infxatcm3791036.d.html"],"created":1794628709,"id":"chatcmpl-f41aeb4e-951f-445b-9fb8-d0a89d6d83ca","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"看：\n\n1. **"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.sina.cn/2025-11-12/detail-infxatcm3791036.d.html"],"created":1794628709,"id":"chatcmpl-f41aeb4e-951f-445b-9fb8-d0a89d6d83ca","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"传播起点"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.sina.cn/2025-11-12/detail-infxatcm3791036.d.html"],"created":1794628709,"id":"chatcmpl-f41aeb4e-951f-445b-9fb8-d0a89d6d83ca","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"："},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.sina.cn/2025-11-12/detail-infxatcm3791036.d.html"],"created":1794628709,"id":"chatcmpl-f41aeb4e-951f-445b-9fb8-d0a89d6d83ca","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"网上出现"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.sina.cn/2025-11-12/detail-infxatcm3791036.d.html"],"created":1794628709,"id":"chatcmpl-f41aeb4e-951f-445b-9fb8-d0a89d6d83ca","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"“免费采收白菜”信息"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.sina.cn/2025-11-12/detail-infxatcm3791036.d.html"],"created":1794628709,"id":"chatcmpl-f41aeb4e-951f-445b-9fb8-d0a89d6d83ca","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"**"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.sina.cn/2025-11-12/detail-infxatcm3791036.d.html"],"created":1794628709,"id":"chatcmpl-f41aeb4e-951f-445b-9fb8-d0a89d6d83ca","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"\n   现有"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.sina.cn/2025-11-12/detail-infxatcm3791036.d.html"],"created":1794628709,"id":"chatcmpl-f41aeb4e-951f-445b-9fb8-d0a89d6d83ca","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"报道"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.sina.cn/2025-11-12/detail-infxatcm3791036.d.html"],"created":1794628709,"id":"chatcmpl-f41aeb4e-951f-445b-9fb8-d0a89d6d83ca","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"明确"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.sina.cn/2025-11-12/detail-infxatcm3791036.d.html"],"created":1794628709,"id":"chatcmpl-f41aeb4e-951f-445b-9fb8-d0a89d6d83ca","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"提到，网民"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.sina.cn/2025-11-12/detail-infxatcm3791036.d.html"],"created":1794628709,"id":"chatcmpl-f41aeb4e-951f-445b-9fb8-d0a89d6d83ca","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"反映的问题是"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.sina.cn/2025-11-12/detail-infxatcm3791036.d.html"],"created":1794628709,"id":"chatcmpl-f41aeb4e-951f-445b-9fb8-d0a89d6d83ca","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"“因网上"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.sina.cn/2025-11-12/detail-infxatcm3791036.d.html"],"created":1794628709,"id":"chatcmpl-f41aeb4e-951f-445b-9fb8-d0a89d6d83ca","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"传播免费采收白菜"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.sina.cn/2025-11-12/detail-infxatcm3791036.d.html"],"created":1794628709,"id":"chatcmpl-f41aeb4e-951f-445b-9fb8-d0a89d6d83ca","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"信息，致使"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.sina.cn/2025-11-12/detail-infxatcm3791036.d.html"],"created":1794628709,"id":"chatcmpl-f41aeb4e-951f-445b-9fb8-d0a89d6d83ca","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"自己菜地的"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.sina.cn/2025-11-12/detail-infxatcm3791036.d.html"],"created":1794628709,"id":"chatcmpl-f41aeb4e-951f-445b-9fb8-d0a89d6d83ca","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"白菜被他人"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.sina.cn/2025-11-12/detail-infxatcm3791036.d.html"],"created":1794628709,"id":"chatcmpl-f41aeb4e-951f-445b-9fb8-d0a89d6d83ca","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"采收”[5"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.sina.cn/2025-11-12/detail-infxatcm3791036.d.html"],"created":1794628709,"id":"chatcmpl-f41aeb4e-951f-445b-9fb8-d0a89d6d83ca","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"]。也就是说，传播"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.sina.cn/2025-11-12/detail-infxatcm3791036.d.html"],"created":1794628709,"id":"chatcmpl-f41aeb4e-951f-445b-9fb8-d0a89d6d83ca","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"的核心"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.sina.cn/2025-11-12/detail-infxatcm3791036.d.html"],"created":1794628709,"id":"chatcmpl-f41aeb4e-951f-445b-9fb8-d0a89d6d83ca","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"内容是“这片"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.sina.cn/2025-11-12/detail-infxatcm3791036.d.html"],"created":1794628709,"id":"chatcmpl-f41aeb4e-951f-445b-9fb8-d0a89d6d83ca","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"白菜"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.sina.cn/2025-11-12/detail-infxatcm3791036.d.html"],"created":1794628709,"id":"chatcmpl-f41aeb4e-951f-445b-9fb8-d0a89d6d83ca","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"可以免费砍"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.sina.cn/2025-11-12/detail-infxatcm3791036.d.html"],"created":1794628709,"id":"chatcmpl-f41aeb4e-951f-445b-9fb8-d0a89d6d83ca","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"/免费采收"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.sina.cn/2025-11-12/detail-infxatcm3791036.d.html"],"created":1794628709,"id":"chatcmpl-f41aeb4e-951f-445b-9fb8-d0a89d6d83ca","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"”，但"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.sina.cn/2025-11-12/detail-infxatcm3791036.d.html"],"created":1794628709,"id":"chatcmpl-f41aeb4e-951f-445b-9fb8-d0a89d6d83ca","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"检索"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.sina.cn/2025-11-12/detail-infxatcm3791036.d.html"],"created":1794628709,"id":"chatcmpl-f41aeb4e-951f-445b-9fb8-d0a89d6d83ca","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"结果没有"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.sina.cn/2025-11-12/detail-infxatcm3791036.d.html"],"created":1794628709,"id":"chatcmpl-f41aeb4e-951f-445b-9fb8-d0a89d6d83ca","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"披露"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.sina.cn/2025-11-12/detail-infxatcm3791036.d.html"],"created":1794628709,"id":"chatcmpl-f41aeb4e-951f-445b-9fb8-d0a89d6d83ca","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"首发平台"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.sina.cn/2025-11-12/detail-infxatcm3791036.d.html"],"created":1794628709,"id":"chatcmpl-f41aeb4e-951f-445b-9fb8-d0a89d6d83ca","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"、首发账号"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.sina.cn/2025-11-12/detail-infxatcm3791036.d.html"],"created":1794628709,"id":"chatcmpl-f41aeb4e-951f-445b-9fb8-d0a89d6d83ca","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"、视频具体"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.sina.cn/2025-11-12/detail-infxatcm3791036.d.html"],"created":1794628709,"id":"chatcmpl-f41aeb4e-951f-445b-9fb8-d0a89d6d83ca","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"内容、"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.sina.cn/2025-11-12/detail-infxatcm3791036.d.html"],"created":1794628709,"id":"chatcmpl-f41aeb4e-951f-445b-9fb8-d0a89d6d83ca","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"发布时间"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.sina.cn/2025-11-12/detail-infxatcm3791036.d.html"],"created":1794628709,"id":"chatcmpl-f41aeb4e-951f-445b-9fb8-d0a89d6d83ca","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"和"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.sina.cn/2025-11-12/detail-infxatcm3791036.d.html"],"created":1794628709,"id":"chatcmpl-f41aeb4e-951f-445b-9fb8-d0a89d6d83ca","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"转发路径"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.sina.cn/2025-11-12/detail-infxatcm3791036.d.html"],"created":1794628709,"id":"chatcmpl-f41aeb4e-951f-445b-9fb8-d0a89d6d83ca","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"，因此"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.sina.cn/2025-11-12/detail-infxatcm3791036.d.html"],"created":1794628709,"id":"chatcmpl-f41aeb4e-951f-445b-9fb8-d0a89d6d83ca","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"无法"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.sina.cn/2025-11-12/detail-infxatcm3791036.d.html"],"created":1794628709,"id":"chatcmpl-f41aeb4e-951f-445b-9fb8-d0a89d6d83ca","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"还原"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.sina.cn/2025-11-12/detail-infxatcm3791036.d.html"],"created":1794628709,"id":"chatcmpl-f41aeb4e-951f-445b-9fb8-d0a89d6d83ca","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"完整的"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.sina.cn/2025-11-12/detail-infxatcm3791036.d.html"],"created":1794628709,"id":"chatcmpl-f41aeb4e-951f-445b-9fb8-d0a89d6d83ca","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"传播链条。\n\n2. **"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.sina.cn/2025-11-12/detail-infxatcm3791036.d.html"],"created":1794628709,"id":"chatcmpl-f41aeb4e-951f-445b-9fb8-d0a89d6d83ca","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"后果"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.sina.cn/2025-11-12/detail-infxatcm3791036.d.html"],"created":1794628709,"id":"chatcmpl-f41aeb4e-951f-445b-9fb8-d0a89d6d83ca","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"说法"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.sina.cn/2025-11-12/detail-infxatcm3791036.d.html"],"created":1794628709,"id":"chatcmpl-f41aeb4e-951f-445b-9fb8-d0a89d6d83ca","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"：承包"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.sina.cn/2025-11-12/detail-infxatcm3791036.d.html"],"created":1794628709,"id":"chatcmpl-f41aeb4e-951f-445b-9fb8-d0a89d6d83ca","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"者"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.sina.cn/2025-11-12/detail-infxatcm3791036.d.html"],"created":1794628709,"id":"chatcmpl-f41aeb4e-951f-445b-9fb8-d0a89d6d83ca","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"称“损失近"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.sina.cn/2025-11-12/detail-infxatcm3791036.d.html"],"created":1794628709,"id":"chatcmpl-f41aeb4e-951f-445b-9fb8-d0a89d6d83ca","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"100万元”**\n  "},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.sina.cn/2025-11-12/detail-infxatcm3791036.d.html"],"created":1794628709,"id":"chatcmpl-f41aeb4e-951f-445b-9fb8-d0a89d6d83ca","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":" “损失近100万元”"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.sina.cn/2025-11-12/detail-infxatcm3791036.d.html"],"created":1794628709,"id":"chatcmpl-f41aeb4e-951f-445b-9fb8-d0a89d6d83ca","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"出现在报道标题"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.sina.cn/2025-11-12/detail-infxatcm3791036.d.html"],"created":1794628709,"id":"chatcmpl-f41aeb4e-951f-445b-9fb8-d0a89d6d83ca","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"中"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.sina.cn/2025-11-12/detail-infxatcm3791036.d.html"],"created":1794628709,"id":"chatcmpl-f41aeb4e-951f-445b-9fb8-d0a89d6d83ca","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"，属于"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.sina.cn/2025-11-12/detail-infxatcm3791036.d.html"],"created":1794628709,"id":"chatcmpl-f41aeb4e-951f-445b-9fb8-d0a89d6d83ca","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"菜"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.sina.cn/2025-11-12/detail-infxatcm3791036.d.html"],"created":1794628709,"id":"chatcmpl-f41aeb4e-951f-445b-9fb8-d0a89d6d83ca","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"地承包者"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.sina.cn/2025-11-12/detail-infxatcm3791036.d.html"],"created":1794628709,"id":"chatcmpl-f41aeb4e-951f-445b-9fb8-d0a89d6d83ca","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"一方的说法[5]。"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.sina.cn/2025-11-12/detail-infxatcm3791036.d.html"],"created":1794628709,"id":"chatcmpl-f41aeb4e-951f-445b-9fb8-d0a89d6d83ca","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"现有资料"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.sina.cn/2025-11-12/detail-infxatcm3791036.d.html"],"created":1794628709,"id":"chatcmpl-f41aeb4e-951f-445b-9fb8-d0a89d6d83ca","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"没有给出"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.sina.cn/2025-11-12/detail-infxatcm3791036.d.html"],"created":1794628709,"id":"chatcmpl-f41aeb4e-951f-445b-9fb8-d0a89d6d83ca","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"损失"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.sina.cn/2025-11-12/detail-infxatcm3791036.d.html"],"created":1794628709,"id":"chatcmpl-f41aeb4e-951f-445b-9fb8-d0a89d6d83ca","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"的计算"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.sina.cn/2025-11-12/detail-infxatcm3791036.d.html"],"created":1794628709,"id":"chatcmpl-f41aeb4e-951f-445b-9fb8-d0a89d6d83ca","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"依据"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.sina.cn/2025-11-12/detail-infxatcm3791036.d.html"],"created":1794628709,"id":"chatcmpl-f41aeb4e-951f-445b-9fb8-d0a89d6d83ca","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"、认定"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.sina.cn/2025-11-12/detail-infxatcm3791036.d.html"],"created":1794628709,"id":"chatcmpl-f41aeb4e-951f-445b-9fb8-d0a89d6d83ca","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"主体"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.sina.cn/2025-11-12/detail-infxatcm3791036.d.html"],"created":1794628709,"id":"chatcmpl-f41aeb4e-951f-445b-9fb8-d0a89d6d83ca","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"或核"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.sina.cn/2025-11-12/detail-infxatcm3791036.d.html"],"created":1794628709,"id":"chatcmpl-f41aeb4e-951f-445b-9fb8-d0a89d6d83ca","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"损"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.sina.cn/2025-11-12/detail-infxatcm3791036.d.html"],"created":1794628709,"id":"chatcmpl-f41aeb4e-951f-445b-9fb8-d0a89d6d83ca","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"结果"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.sina.cn/2025-11-12/detail-infxatcm3791036.d.html"],"created":1794628709,"id":"chatcmpl-f41aeb4e-951f-445b-9fb8-d0a89d6d83ca","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"，所以"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.sina.cn/2025-11-12/detail-infxatcm3791036.d.html"],"created":1794628709,"id":"chatcmpl-f41aeb4e-951f-445b-9fb8-d0a89d6d83ca","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"这个"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.sina.cn/2025-11-12/detail-infxatcm3791036.d.html"],"created":1794628709,"id":"chatcmpl-f41aeb4e-951f-445b-9fb8-d0a89d6d83ca","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"数字目前应"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.sina.cn/2025-11-12/detail-infxatcm3791036.d.html"],"created":1794628709,"id":"chatcmpl-f41aeb4e-951f-445b-9fb8-d0a89d6d83ca","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"理解为"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.sina.cn/2025-11-12/detail-infxatcm3791036.d.html"],"created":1794628709,"id":"chatcmpl-f41aeb4e-951f-445b-9fb8-d0a89d6d83ca","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"当事人"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.sina.cn/2025-11-12/detail-infxatcm3791036.d.html"],"created":1794628709,"id":"chatcmpl-f41aeb4e-951f-445b-9fb8-d0a89d6d83ca","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"主张"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.sina.cn/2025-11-12/detail-infxatcm3791036.d.html"],"created":1794628709,"id":"chatcmpl-f41aeb4e-951f-445b-9fb8-d0a89d6d83ca","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"，而不是官方"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.sina.cn/2025-11-12/detail-infxatcm3791036.d.html"],"created":1794628709,"id":"chatcmpl-f41aeb4e-951f-445b-9fb8-d0a89d6d83ca","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"最终"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.sina.cn/2025-11-12/detail-infxatcm3791036.d.html"],"created":1794628709,"id":"chatcmpl-f41aeb4e-951f-445b-9fb8-d0a89d6d83ca","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"认定"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.sina.cn/2025-11-12/detail-infxatcm3791036.d.html"],"created":1794628709,"id":"chatcmpl-f41aeb4e-951f-445b-9fb8-d0a89d6d83ca","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"。\n\n3. **官方"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.sina.cn/2025-11-12/detail-infxatcm3791036.d.html"],"created":1794628709,"id":"chatcmpl-f41aeb4e-951f-445b-9fb8-d0a89d6d83ca","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"介入"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.sina.cn/2025-11-12/detail-infxatcm3791036.d.html"],"created":1794628709,"id":"chatcmpl-f41aeb4e-951f-445b-9fb8-d0a89d6d83ca","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"：区委区政府成立"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.sina.cn/2025-11-12/detail-infxatcm3791036.d.html"],"created":1794628709,"id":"chatcmpl-f41aeb4e-951f-445b-9fb8-d0a89d6d83ca","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"联合调查组**"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.sina.cn/2025-11-12/detail-infxatcm3791036.d.html"],"created":1794628709,"id":"chatcmpl-f41aeb4e-951f-445b-9fb8-d0a89d6d83ca","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"\n   松"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.sina.cn/2025-11-12/detail-infxatcm3791036.d.html"],"created":1794628709,"id":"chatcmpl-f41aeb4e-951f-445b-9fb8-d0a89d6d83ca","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"山区"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.sina.cn/2025-11-12/detail-infxatcm3791036.d.html"],"created":1794628709,"id":"chatcmpl-f41aeb4e-951f-445b-9fb8-d0a89d6d83ca","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"委、区政府在"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.sina.cn/2025-11-12/detail-infxatcm3791036.d.html"],"created":1794628709,"id":"chatcmpl-f41aeb4e-951f-445b-9fb8-d0a89d6d83ca","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"舆情"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.sina.cn/2025-11-12/detail-infxatcm3791036.d.html"],"created":1794628709,"id":"chatcmpl-f41aeb4e-951f-445b-9fb8-d0a89d6d83ca","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"出现"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.sina.cn/2025-11-12/detail-infxatcm3791036.d.html"],"created":1794628709,"id":"chatcmpl-f41aeb4e-951f-445b-9fb8-d0a89d6d83ca","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"后成立联合"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.sina.cn/2025-11-12/detail-infxatcm3791036.d.html"],"created":1794628709,"id":"chatcmpl-f41aeb4e-951f-445b-9fb8-d0a89d6d83ca","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"调查组，开展调查处置"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.sina.cn/2025-11-12/detail-infxatcm3791036.d.html"],"created":1794628709,"id":"chatcmpl-f41aeb4e-951f-445b-9fb8-d0a89d6d83ca","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"工作；"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.sina.cn/2025-11-12/detail-infxatcm3791036.d.html"],"created":1794628709,"id":"chatcmpl-f41aeb4e-951f-445b-9fb8-d0a89d6d83ca","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"11月11日的"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.sina.cn/2025-11-12/detail-infxatcm3791036.d.html"],"created":1794628709,"id":"chatcmpl-f41aeb4e-951f-445b-9fb8-d0a89d6d83ca","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"通报主要是"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.sina.cn/2025-11-12/detail-infxatcm3791036.d.html"],"created":1794628709,"id":"chatcmpl-f41aeb4e-951f-445b-9fb8-d0a89d6d83ca","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"“"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.sina.cn/2025-11-12/detail-infxatcm3791036.d.html"],"created":1794628709,"id":"chatcmpl-f41aeb4e-951f-445b-9fb8-d0a89d6d83ca","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"已"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.sina.cn/2025-11-12/detail-infxatcm3791036.d.html"],"created":1794628709,"id":"chatcmpl-f41aeb4e-951f-445b-9fb8-d0a89d6d83ca","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"关注"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.sina.cn/2025-11-12/detail-infxatcm3791036.d.html"],"created":1794628709,"id":"chatcmpl-f41aeb4e-951f-445b-9fb8-d0a89d6d83ca","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"、已成立"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.sina.cn/2025-11-12/detail-infxatcm3791036.d.html"],"created":1794628709,"id":"chatcmpl-f41aeb4e-951f-445b-9fb8-d0a89d6d83ca","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"调查"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.sina.cn/2025-11-12/detail-infxatcm3791036.d.html"],"created":1794628709,"id":"chatcmpl-f41aeb4e-951f-445b-9fb8-d0a89d6d83ca","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"组、后续"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.sina.cn/2025-11-12/detail-infxatcm3791036.d.html"],"created":1794628709,"id":"chatcmpl-f41aeb4e-951f-445b-9fb8-d0a89d6d83ca","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"将发布"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.sina.cn/2025-11-12/detail-infxatcm3791036.d.html"],"created":1794628709,"id":"chatcmpl-f41aeb4e-951f-445b-9fb8-d0a89d6d83ca","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"”"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.sina.cn/2025-11-12/detail-infxatcm3791036.d.html"],"created":1794628709,"id":"chatcmpl-f41aeb4e-951f-445b-9fb8-d0a89d6d83ca","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"的程序"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.sina.cn/2025-11-12/detail-infxatcm3791036.d.html"],"created":1794628709,"id":"chatcmpl-f41aeb4e-951f-445b-9fb8-d0a89d6d83ca","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"性回应[5]。\n\n4"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.sina.cn/2025-11-12/detail-infxatcm3791036.d.html"],"created":1794628709,"id":"chatcmpl-f41aeb4e-951f-445b-9fb8-d0a89d6d83ca","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":". **“后来调查发现了"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.sina.cn/2025-11-12/detail-infxatcm3791036.d.html"],"created":1794628709,"id":"chatcmpl-f41aeb4e-951f-445b-9fb8-d0a89d6d83ca","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"什么”：现有"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.sina.cn/2025-11-12/detail-infxatcm3791036.d.html"],"created":1794628709,"id":"chatcmpl-f41aeb4e-951f-445b-9fb8-d0a89d6d83ca","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"检索"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.sina.cn/2025-11-12/detail-infxatcm3791036.d.html"],"created":1794628709,"id":"chatcmpl-f41aeb4e-951f-445b-9fb8-d0a89d6d83ca","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"结果没有给出"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.sina.cn/2025-11-12/detail-infxatcm3791036.d.html"],"created":1794628709,"id":"chatcmpl-f41aeb4e-951f-445b-9fb8-d0a89d6d83ca","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"调查结论**\n   这是"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.sina.cn/2025-11-12/detail-infxatcm3791036.d.html"],"created":1794628709,"id":"chatcmpl-f41aeb4e-951f-445b-9fb8-d0a89d6d83ca","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"关键限制"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.sina.cn/2025-11-12/detail-infxatcm3791036.d.html"],"created":1794628709,"id":"chatcmpl-f41aeb4e-951f-445b-9fb8-d0a89d6d83ca","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"：目前能"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.sina.cn/2025-11-12/detail-infxatcm3791036.d.html"],"created":1794628709,"id":"chatcmpl-f41aeb4e-951f-445b-9fb8-d0a89d6d83ca","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"看到的"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.sina.cn/2025-11-12/detail-infxatcm3791036.d.html"],"created":1794628709,"id":"chatcmpl-f41aeb4e-951f-445b-9fb8-d0a89d6d83ca","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"只是"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.sina.cn/2025-11-12/detail-infxatcm3791036.d.html"],"created":1794628709,"id":"chatcmpl-f41aeb4e-951f-445b-9fb8-d0a89d6d83ca","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"11月11"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.sina.cn/2025-11-12/detail-infxatcm3791036.d.html"],"created":1794628709,"id":"chatcmpl-f41aeb4e-951f-445b-9fb8-d0a89d6d83ca","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"日"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.sina.cn/2025-11-12/detail-infxatcm3791036.d.html"],"created":1794628709,"id":"chatcmpl-f41aeb4e-951f-445b-9fb8-d0a89d6d83ca","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"的情况"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.sina.cn/2025-11-12/detail-infxatcm3791036.d.html"],"created":1794628709,"id":"chatcmpl-f41aeb4e-951f-445b-9fb8-d0a89d6d83ca","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"通报，内容"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.sina.cn/2025-11-12/detail-infxatcm3791036.d.html"],"created":1794628709,"id":"chatcmpl-f41aeb4e-951f-445b-9fb8-d0a89d6d83ca","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"为调查"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.sina.cn/2025-11-12/detail-infxatcm3791036.d.html"],"created":1794628709,"id":"chatcmpl-f41aeb4e-951f-445b-9fb8-d0a89d6d83ca","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"处置"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.sina.cn/2025-11-12/detail-infxatcm3791036.d.html"],"created":1794628709,"id":"chatcmpl-f41aeb4e-951f-445b-9fb8-d0a89d6d83ca","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"正在进行"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.sina.cn/2025-11-12/detail-infxatcm3791036.d.html"],"created":1794628709,"id":"chatcmpl-f41aeb4e-951f-445b-9fb8-d0a89d6d83ca","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"、"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.sina.cn/2025-11-12/detail-infxatcm3791036.d.html"],"created":1794628709,"id":"chatcmpl-f41aeb4e-951f-445b-9fb8-d0a89d6d83ca","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"后续情况将"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.sina.cn/2025-11-12/detail-infxatcm3791036.d.html"],"created":1794628709,"id":"chatcmpl-f41aeb4e-951f-445b-9fb8-d0a89d6d83ca","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"及时发布[5]。"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.sina.cn/2025-11-12/detail-infxatcm3791036.d.html"],"created":1794628709,"id":"chatcmpl-f41aeb4e-951f-445b-9fb8-d0a89d6d83ca","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"检索"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.sina.cn/2025-11-12/detail-infxatcm3791036.d.html"],"created":1794628709,"id":"chatcmpl-f41aeb4e-951f-445b-9fb8-d0a89d6d83ca","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"资料"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.sina.cn/2025-11-12/detail-infxatcm3791036.d.html"],"created":1794628709,"id":"chatcmpl-f41aeb4e-951f-445b-9fb8-d0a89d6d83ca","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"中没有出现"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.sina.cn/2025-11-12/detail-infxatcm3791036.d.html"],"created":1794628709,"id":"chatcmpl-f41aeb4e-951f-445b-9fb8-d0a89d6d83ca","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"最终"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.sina.cn/2025-11-12/detail-infxatcm3791036.d.html"],"created":1794628709,"id":"chatcmpl-f41aeb4e-951f-445b-9fb8-d0a89d6d83ca","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"调查结论，"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.sina.cn/2025-11-12/detail-infxatcm3791036.d.html"],"created":1794628709,"id":"chatcmpl-f41aeb4e-951f-445b-9fb8-d0a89d6d83ca","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"例如："},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.sina.cn/2025-11-12/detail-infxatcm3791036.d.html"],"created":1794628709,"id":"chatcmpl-f41aeb4e-951f-445b-9fb8-d0a89d6d83ca","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"免费"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.sina.cn/2025-11-12/detail-infxatcm3791036.d.html"],"created":1794628709,"id":"chatcmpl-f41aeb4e-951f-445b-9fb8-d0a89d6d83ca","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"信息"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.sina.cn/2025-11-12/detail-infxatcm3791036.d.html"],"created":1794628709,"id":"chatcmpl-f41aeb4e-951f-445b-9fb8-d0a89d6d83ca","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"由"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.sina.cn/2025-11-12/detail-infxatcm3791036.d.html"],"created":1794628709,"id":"chatcmpl-f41aeb4e-951f-445b-9fb8-d0a89d6d83ca","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"谁发布、是否有人"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.sina.cn/2025-11-12/detail-infxatcm3791036.d.html"],"created":1794628709,"id":"chatcmpl-f41aeb4e-951f-445b-9fb8-d0a89d6d83ca","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"故意"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.sina.cn/2025-11-12/detail-infxatcm3791036.d.html"],"created":1794628709,"id":"chatcmpl-f41aeb4e-951f-445b-9fb8-d0a89d6d83ca","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"编"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.sina.cn/2025-11-12/detail-infxatcm3791036.d.html"],"created":1794628709,"id":"chatcmpl-f41aeb4e-951f-445b-9fb8-d0a89d6d83ca","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"造、采收"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.sina.cn/2025-11-12/detail-infxatcm3791036.d.html"],"created":1794628709,"id":"chatcmpl-f41aeb4e-951f-445b-9fb8-d0a89d6d83ca","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"者"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.sina.cn/2025-11-12/detail-infxatcm3791036.d.html"],"created":1794628709,"id":"chatcmpl-f41aeb4e-951f-445b-9fb8-d0a89d6d83ca","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"是否"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.sina.cn/2025-11-12/detail-infxatcm3791036.d.html"],"created":1794628709,"id":"chatcmpl-f41aeb4e-951f-445b-9fb8-d0a89d6d83ca","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"被追"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.sina.cn/2025-11-12/detail-infxatcm3791036.d.html"],"created":1794628709,"id":"chatcmpl-f41aeb4e-951f-445b-9fb8-d0a89d6d83ca","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"责、实际"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.sina.cn/2025-11-12/detail-infxatcm3791036.d.html"],"created":1794628709,"id":"chatcmpl-f41aeb4e-951f-445b-9fb8-d0a89d6d83ca","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"损失如何"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.sina.cn/2025-11-12/detail-infxatcm3791036.d.html"],"created":1794628709,"id":"chatcmpl-f41aeb4e-951f-445b-9fb8-d0a89d6d83ca","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"认定"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.sina.cn/2025-11-12/detail-infxatcm3791036.d.html"],"created":1794628709,"id":"chatcmpl-f41aeb4e-951f-445b-9fb8-d0a89d6d83ca","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"、是否"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.sina.cn/2025-11-12/detail-infxatcm3791036.d.html"],"created":1794628709,"id":"chatcmpl-f41aeb4e-951f-445b-9fb8-d0a89d6d83ca","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"立案"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.sina.cn/2025-11-12/detail-infxatcm3791036.d.html"],"created":1794628709,"id":"chatcmpl-f41aeb4e-951f-445b-9fb8-d0a89d6d83ca","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"等"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.sina.cn/2025-11-12/detail-infxatcm3791036.d.html"],"created":1794628709,"id":"chatcmpl-f41aeb4e-951f-445b-9fb8-d0a89d6d83ca","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"。因此，**"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.sina.cn/2025-11-12/detail-infxatcm3791036.d.html"],"created":1794628709,"id":"chatcmpl-f41aeb4e-951f-445b-9fb8-d0a89d6d83ca","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"不能"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.sina.cn/2025-11-12/detail-infxatcm3791036.d.html"],"created":1794628709,"id":"chatcmpl-f41aeb4e-951f-445b-9fb8-d0a89d6d83ca","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"根据现有"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.sina.cn/2025-11-12/detail-infxatcm3791036.d.html"],"created":1794628709,"id":"chatcmpl-f41aeb4e-951f-445b-9fb8-d0a89d6d83ca","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"资料"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.sina.cn/2025-11-12/detail-infxatcm3791036.d.html"],"created":1794628709,"id":"chatcmpl-f41aeb4e-951f-445b-9fb8-d0a89d6d83ca","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"判断"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.sina.cn/2025-11-12/detail-infxatcm3791036.d.html"],"created":1794628709,"id":"chatcmpl-f41aeb4e-951f-445b-9fb8-d0a89d6d83ca","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"“调查发现了"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.sina.cn/2025-11-12/detail-infxatcm3791036.d.html"],"created":1794628709,"id":"chatcmpl-f41aeb4e-951f-445b-9fb8-d0a89d6d83ca","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"什么”**，"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.sina.cn/2025-11-12/detail-infxatcm3791036.d.html"],"created":1794628709,"id":"chatcmpl-f41aeb4e-951f-445b-9fb8-d0a89d6d83ca","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"只能"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.sina.cn/2025-11-12/detail-infxatcm3791036.d.html"],"created":1794628709,"id":"chatcmpl-f41aeb4e-951f-445b-9fb8-d0a89d6d83ca","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"确认官方"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.sina.cn/2025-11-12/detail-infxatcm3791036.d.html"],"created":1794628709,"id":"chatcmpl-f41aeb4e-951f-445b-9fb8-d0a89d6d83ca","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"已介入"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.sina.cn/2025-11-12/detail-infxatcm3791036.d.html"],"created":1794628709,"id":"chatcmpl-f41aeb4e-951f-445b-9fb8-d0a89d6d83ca","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"调查并承诺"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.sina.cn/2025-11-12/detail-infxatcm3791036.d.html"],"created":1794628709,"id":"chatcmpl-f41aeb4e-951f-445b-9fb8-d0a89d6d83ca","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"后续通报。\n\n简单"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.sina.cn/2025-11-12/detail-infxatcm3791036.d.html"],"created":1794628709,"id":"chatcmpl-f41aeb4e-951f-445b-9fb8-d0a89d6d83ca","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"说，"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.sina.cn/2025-11-12/detail-infxatcm3791036.d.html"],"created":1794628709,"id":"chatcmpl-f41aeb4e-951f-445b-9fb8-d0a89d6d83ca","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"目前"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.sina.cn/2025-11-12/detail-infxatcm3791036.d.html"],"created":1794628709,"id":"chatcmpl-f41aeb4e-951f-445b-9fb8-d0a89d6d83ca","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"可"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.sina.cn/2025-11-12/detail-infxatcm3791036.d.html"],"created":1794628709,"id":"chatcmpl-f41aeb4e-951f-445b-9fb8-d0a89d6d83ca","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"确认的传播"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.sina.cn/2025-11-12/detail-infxatcm3791036.d.html"],"created":1794628709,"id":"chatcmpl-f41aeb4e-951f-445b-9fb8-d0a89d6d83ca","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"逻辑"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.sina.cn/2025-11-12/detail-infxatcm3791036.d.html"],"created":1794628709,"id":"chatcmpl-f41aeb4e-951f-445b-9fb8-d0a89d6d83ca","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"是“"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.sina.cn/2025-11-12/detail-infxatcm3791036.d.html"],"created":1794628709,"id":"chatcmpl-f41aeb4e-951f-445b-9fb8-d0a89d6d83ca","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"**网络免费"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.sina.cn/2025-11-12/detail-infxatcm3791036.d.html"],"created":1794628709,"id":"chatcmpl-f41aeb4e-951f-445b-9fb8-d0a89d6d83ca","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"采收信息→他人"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.sina.cn/2025-11-12/detail-infxatcm3791036.d.html"],"created":1794628709,"id":"chatcmpl-f41aeb4e-951f-445b-9fb8-d0a89d6d83ca","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"进"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.sina.cn/2025-11-12/detail-infxatcm3791036.d.html"],"created":1794628709,"id":"chatcmpl-f41aeb4e-951f-445b-9fb8-d0a89d6d83ca","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"地"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.sina.cn/2025-11-12/detail-infxatcm3791036.d.html"],"created":1794628709,"id":"chatcmpl-f41aeb4e-951f-445b-9fb8-d0a89d6d83ca","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"采收→承包者"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.sina.cn/2025-11-12/detail-infxatcm3791036.d.html"],"created":1794628709,"id":"chatcmpl-f41aeb4e-951f-445b-9fb8-d0a89d6d83ca","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"称重大"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.sina.cn/2025-11-12/detail-infxatcm3791036.d.html"],"created":1794628709,"id":"chatcmpl-f41aeb4e-951f-445b-9fb8-d0a89d6d83ca","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"损失→网民"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.sina.cn/2025-11-12/detail-infxatcm3791036.d.html"],"created":1794628709,"id":"chatcmpl-f41aeb4e-951f-445b-9fb8-d0a89d6d83ca","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"反映→官方成立"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.sina.cn/2025-11-12/detail-infxatcm3791036.d.html"],"created":1794628709,"id":"chatcmpl-f41aeb4e-951f-445b-9fb8-d0a89d6d83ca","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"调查组并"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.sina.cn/2025-11-12/detail-infxatcm3791036.d.html"],"created":1794628709,"id":"chatcmpl-f41aeb4e-951f-445b-9fb8-d0a89d6d83ca","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"通报**”["},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.sina.cn/2025-11-12/detail-infxatcm3791036.d.html"],"created":1794628709,"id":"chatcmpl-f41aeb4e-951f-445b-9fb8-d0a89d6d83ca","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"5]；但传播"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.sina.cn/2025-11-12/detail-infxatcm3791036.d.html"],"created":1794628709,"id":"chatcmpl-f41aeb4e-951f-445b-9fb8-d0a89d6d83ca","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"的具体"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.sina.cn/2025-11-12/detail-infxatcm3791036.d.html"],"created":1794628709,"id":"chatcmpl-f41aeb4e-951f-445b-9fb8-d0a89d6d83ca","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"节点和"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.sina.cn/2025-11-12/detail-infxatcm3791036.d.html"],"created":1794628709,"id":"chatcmpl-f41aeb4e-951f-445b-9fb8-d0a89d6d83ca","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"调查的"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.sina.cn/2025-11-12/detail-infxatcm3791036.d.html"],"created":1794628709,"id":"chatcmpl-f41aeb4e-951f-445b-9fb8-d0a89d6d83ca","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"最终结论，现有"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.sina.cn/2025-11-12/detail-infxatcm3791036.d.html"],"created":1794628709,"id":"chatcmpl-f41aeb4e-951f-445b-9fb8-d0a89d6d83ca","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"资料尚"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.sina.cn/2025-11-12/detail-infxatcm3791036.d.html"],"created":1794628709,"id":"chatcmpl-f41aeb4e-951f-445b-9fb8-d0a89d6d83ca","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"不足以回答，需要"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.sina.cn/2025-11-12/detail-infxatcm3791036.d.html"],"created":1794628709,"id":"chatcmpl-f41aeb4e-951f-445b-9fb8-d0a89d6d83ca","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"等待"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.sina.cn/2025-11-12/detail-infxatcm3791036.d.html"],"created":1794628709,"id":"chatcmpl-f41aeb4e-951f-445b-9fb8-d0a89d6d83ca","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"官方"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.sina.cn/2025-11-12/detail-infxatcm3791036.d.html"],"created":1794628709,"id":"chatcmpl-f41aeb4e-951f-445b-9fb8-d0a89d6d83ca","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"后续通报或更"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.sina.cn/2025-11-12/detail-infxatcm3791036.d.html"],"created":1794628709,"id":"chatcmpl-f41aeb4e-951f-445b-9fb8-d0a89d6d83ca","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"完整的"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.sina.cn/2025-11-12/detail-infxatcm3791036.d.html"],"created":1794628709,"id":"chatcmpl-f41aeb4e-951f-445b-9fb8-d0a89d6d83ca","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"报道"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.sina.cn/2025-11-12/detail-infxatcm3791036.d.html"],"created":1794628709,"id":"chatcmpl-f41aeb4e-951f-445b-9fb8-d0a89d6d83ca","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"。"},"finish_reason":"stop","index":0,"logprobs":null}],"citations":["https://finance.sina.cn/2025-11-12/detail-infxatcm3791036.d.html"],"created":1794628709,"id":"chatcmpl-f41aeb4e-951f-445b-9fb8-d0a89d6d83ca","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[],"citations":["https://finance.sina.cn/2025-11-12/detail-infxatcm3791036.d.html"],"created":1794628709,"id":"chatcmpl-f41aeb4e-951f-445b-9fb8-d0a89d6d83ca","model":"deepseek-flash","object":"chat.completion.chunk","usage":{"completion_tokens":968,"completion_tokens_details":{"reasoning_tokens":484},"prompt_tokens":750,"prompt_tokens_details":{"cached_tokens":0},"total_tokens":1718}}
+
+data: [DONE]
+

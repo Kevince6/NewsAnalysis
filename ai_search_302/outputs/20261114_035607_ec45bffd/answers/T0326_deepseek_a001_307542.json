@@ -1,0 +1,69 @@
+{
+  "task_id": "T0326",
+  "model": "deepseek",
+  "news_id": "E027",
+  "question_index": 5,
+  "question_original": "【事实】美国批准部分H20出口许可后，库存真的卖到中国了吗？英伟达2026年8月的财报怎么说？",
+  "question": "美国批准部分H20出口许可后，库存真的卖到中国了吗？英伟达2026年8月的财报怎么说？",
+  "attempt": 1,
+  "provider": "302.ai",
+  "model_requested": "deepseek-flash",
+  "query_date": "2026-11-14",
+  "search_service": "metaso",
+  "prompt_version": "news-search-v1",
+  "prompt_sha256": "ea56fd5557d32615a9115f2368a0c4983ff1188f4935369e694d7d46f2493be1",
+  "requested_at": "2026-11-14T12:24:49.634070+08:00",
+  "raw_file": "raw/T0326_deepseek_a001_307542.json",
+  "transport": "sse",
+  "stream_file": "raw/T0326_deepseek_a001_307542.sse",
+  "status": "ok",
+  "model_returned": "deepseek-flash",
+  "answer": "**直接回答：卖是卖了一点，但规模很小，谈不上库存被消化；至于“2026年8月的财报”，在你给的检索资料里没有对应数据，而且这个时间点很可能记混了。**\n\n**1. 时间线先厘清：许可不是2026年8月批的**\n\nH20恢复对华出口的关键节点在**2025年**：英伟达7月14日称，美国政府已承诺在其提交申请后授予许可证，公司将恢复向中国销售H20[citation:5]；随后在2025年8月，美方正式授予对中国客户出售H20的许可[citation:2]。所以“8月批许可”对应的是2025年8月，而不是2026年8月。按英伟达财年，2025年8月前后发布的是**2026财年第二季度**财报（截至2025年7月27日）；而2026年8月发布的应是2027财年第二季度财报，这部分内容不在现有检索资料中。\n\n**2. 库存确实出去了一部分，但金额非常有限**\n\n英伟达年报披露，在2025年8月美国政府授予对华出售H20许可后，公司产生了**约6000万美元**的H20收入[citation:2]。这个数字与禁令前的销售体量相比很小——禁令生效前的2026财年第一季度，H20产品销售额还有46亿美元，另有25亿美元订单无法交付[citation:3]。换句话说，许可恢复后实际落地的销售收入，只相当于此前单季H20销售额的零头，远不足以说明积压库存已被中国市场吸收。\n\n**3. 财报里的“损失”口径存在两个数字**\n\n围绕H20禁令的财务冲击，检索结果给出两种说法，需要并列看待：\n\n- 一种说法是，英伟达在截至2025年4月27日的2026财年第一季度计提了**45亿美元**损失，主要为H20库存减值与订单取消，并预计第二财季还将损失80亿美元营收[citation:1][citation:5]。\n- 另一种说法是，同一季度计入的与H20相关的费用约为**55亿美元**，涵盖库存、采购承诺及相关准备金[citation:4]。\n\n两者差异可能来自统计口径（是否包含采购承诺、准备金等），现有资料没有给出统一解释，不宜简单认定哪一个“错”。\n\n**4. 后续H200也只是“少量许可”，尚未产生收入**\n\n年报还提到，2026年2月美国政府批准了一项许可，允许向特定中国客户运送**少量H200**产品；但截至年报披露时，英伟达**尚未在H200许可项目下产生任何收入**，也不确定是否会有进口被允许进入中国[citation:2]。这说明许可放开并不等于销售恢复，审批范围、客户限定和实际交付都存在不确定性。\n\n**5. 需要说明的资料缺口**\n\n关于“2026年8月财报”（即2027财年第二季度）中H20对华销售的具体数字，现有检索结果**没有提供**。目前能确认的最新相关数据，是2025年8月许可后约6000万美元的H20收入，以及2026年2月H200许可“零收入”的状态[citation:2]。如果你要追踪的是2026年自然年内的对华出货，建议直接查阅英伟达2027财年季度财报原文，而不是依据当前这批资料下结论。",
+  "sources": [
+    {
+      "index": 1,
+      "url": "http://www.stcn.com/article/detail/3292097.html",
+      "title": null,
+      "origin": "citations"
+    },
+    {
+      "index": 2,
+      "url": "https://ishare.ifeng.com/c/s/v002--ECIba3k7Y3rUN----1yjNW2FFAVs7lGHtgKg0sqe7qII__",
+      "title": null,
+      "origin": "citations"
+    },
+    {
+      "index": 3,
+      "url": "http://k.sina.com.cn/article_1650111241_625ab30902001dc86.html",
+      "title": null,
+      "origin": "citations"
+    },
+    {
+      "index": 4,
+      "url": "https://fund.eastmoney.com/a/202504163378597678.html",
+      "title": null,
+      "origin": "citations"
+    },
+    {
+      "index": 5,
+      "url": "http://m.chinaaet.com/article/3000173138",
+      "title": null,
+      "origin": "citations"
+    }
+  ],
+  "usage": {
+    "completion_tokens": 1502,
+    "completion_tokens_details": {
+      "reasoning_tokens": 785
+    },
+    "prompt_tokens": 1240,
+    "prompt_tokens_details": {
+      "cached_tokens": 0
+    },
+    "total_tokens": 2742
+  },
+  "finish_reason": "stop",
+  "note": [],
+  "request_id": "472bf8d6-93e8-46f1-90b5-6851d6528bc6",
+  "duration_seconds": 27.25
+}

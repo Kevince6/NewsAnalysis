@@ -1,0 +1,47 @@
+{
+  "task_id": "T0120",
+  "model": "qwen",
+  "news_id": "E010",
+  "question_index": 2,
+  "question_original": "【事实】张雪峰是什么时候、在哪里去世的？公司讣告公布的死因是什么？",
+  "question": "张雪峰是什么时候、在哪里去世的？公司讣告公布的死因是什么？",
+  "attempt": 1,
+  "provider": "302.ai",
+  "model_requested": "qwen3.8-max",
+  "query_date": "2026-11-14",
+  "search_service": "metaso",
+  "prompt_version": "news-search-v1",
+  "prompt_sha256": "ea56fd5557d32615a9115f2368a0c4983ff1188f4935369e694d7d46f2493be1",
+  "requested_at": "2026-11-14T11:32:59.652457+08:00",
+  "raw_file": "raw/T0120_qwen_a001_969d79.json",
+  "transport": "sse",
+  "stream_file": "raw/T0120_qwen_a001_969d79.sse",
+  "status": "ok",
+  "model_returned": "qwen3.8-max",
+  "answer": "根据你提供的检索内容，文中称张雪峰于**3月24日15时50分在苏州去世**，公司讣告公布的死因为**心源性猝死**[3]。\n\n不过需要说明：这一信息目前仅来自该条检索内容，未看到讣告原文、公司官方公告或权威媒体的独立证实；涉及公众人物去世属于重大敏感信息，截至**2026年11月14日**，若无其他可靠来源确认，应谨慎视为**待核实信息**。",
+  "sources": [
+    {
+      "index": 1,
+      "url": "https://news.qq.com/rain/a/20260324A07C2V00",
+      "title": null,
+      "origin": "citations"
+    }
+  ],
+  "usage": {
+    "completion_tokens": 1694,
+    "completion_tokens_details": {
+      "reasoning_tokens": 1578,
+      "text_tokens": 1694
+    },
+    "prompt_tokens": 813,
+    "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "text_tokens": 813
+    },
+    "total_tokens": 2507
+  },
+  "finish_reason": "stop",
+  "note": [],
+  "request_id": "bede9097-8970-40e4-957c-17911967ee0a",
+  "duration_seconds": 50.469
+}

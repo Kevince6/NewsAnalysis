@@ -1,0 +1,57 @@
+{
+  "task_id": "T0196",
+  "model": "doubao",
+  "news_id": "E016",
+  "question_index": 3,
+  "question_original": "【事实】2026年10月13日魏家案一审中，哪些人被判死刑，另有多少人被判无期徒刑？",
+  "question": "2026年10月13日魏家案一审中，哪些人被判死刑，另有多少人被判无期徒刑？",
+  "attempt": 1,
+  "provider": "302.ai",
+  "model_requested": "doubao-seed-2-1-pro-260628",
+  "query_date": "2026-11-14",
+  "search_service": "metaso",
+  "prompt_version": "news-search-v1",
+  "prompt_sha256": "ea56fd5557d32615a9115f2368a0c4983ff1188f4935369e694d7d46f2493be1",
+  "requested_at": "2026-11-14T11:53:59.785411+08:00",
+  "raw_file": "raw/T0196_doubao_a001_bab343.json",
+  "transport": "sse",
+  "stream_file": "raw/T0196_doubao_a001_bab343.sse",
+  "status": "ok",
+  "model_returned": "doubao-seed-2-1-pro-260628",
+  "answer": "2026年10月13日福建省泉州市中级人民法院、南安市人民法院一审公开宣判魏家犯罪集团系列案时，魏怀仁、陈大卫、廖景芳3名被告人被判处死刑；另有3名被告人被判处无期徒刑，分别为魏青涛、康敏、熊恒星。[1][4][5]\n\n### 补充说明\n本次判决中，除上述被判处死刑、无期徒刑的人员外，苏红相、邓子达、陈龙江等55名被告人分别被判处二十四年至三年三个月不等有期徒刑，法院同时根据各被告人的涉案情节，相应判处罚金、没收财产、驱逐出境等附加刑。[1][4][5]",
+  "sources": [
+    {
+      "index": 1,
+      "url": "https://www.news.cn/20261013/27ac6440b25c49919980089c4d1575ca/c.html",
+      "title": null,
+      "origin": "citations"
+    },
+    {
+      "index": 2,
+      "url": "https://k.sina.com.cn/article_1301904252_4d997b7c01901p0e0.html",
+      "title": null,
+      "origin": "citations"
+    },
+    {
+      "index": 3,
+      "url": "https://www.163.com/dy/article/L94I7BMA0514R9P4.html",
+      "title": null,
+      "origin": "citations"
+    }
+  ],
+  "usage": {
+    "completion_tokens": 891,
+    "completion_tokens_details": {
+      "reasoning_tokens": 738
+    },
+    "prompt_tokens": 1389,
+    "prompt_tokens_details": {
+      "cached_tokens": 0
+    },
+    "total_tokens": 2280
+  },
+  "finish_reason": "stop",
+  "note": [],
+  "request_id": "c2978efd-584a-4ce0-affd-05ee17b88970",
+  "duration_seconds": 22.422
+}

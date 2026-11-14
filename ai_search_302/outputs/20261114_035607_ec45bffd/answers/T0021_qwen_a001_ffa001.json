@@ -1,0 +1,65 @@
+{
+  "task_id": "T0021",
+  "model": "qwen",
+  "news_id": "E002",
+  "question_index": 3,
+  "question_original": "【事实】刘欢是什么时候、在哪里去世的？他妻子的公开信又是什么时候发布的？",
+  "question": "刘欢是什么时候、在哪里去世的？他妻子的公开信又是什么时候发布的？",
+  "attempt": 1,
+  "provider": "302.ai",
+  "model_requested": "qwen3.8-max",
+  "query_date": "2026-11-14",
+  "search_service": "metaso",
+  "prompt_version": "news-search-v1",
+  "prompt_sha256": "ea56fd5557d32615a9115f2368a0c4983ff1188f4935369e694d7d46f2493be1",
+  "requested_at": "2026-11-14T04:10:41.557154+08:00",
+  "raw_file": "raw/T0021_qwen_a001_ffa001.json",
+  "transport": "sse",
+  "stream_file": "raw/T0021_qwen_a001_ffa001.sse",
+  "status": "ok",
+  "model_returned": "qwen3.8-max",
+  "answer": "刘欢于**2026年9月25日**在**上海**病逝，享年63岁[1][2]。其中，对外经济贸易大学讣告称，他是在**2026年9月25日上午9时52分**不幸病逝[2]。\n\n其妻子卢璐委托水均益发布的公开信发布于**2026年11月12日**[1][3]。公开信相关内容称，刘欢已于当日在北京安葬，并首次披露其死因等信息[1][3]。\n\n补充背景：对外经济贸易大学是在**9月26日上午**发布讣告确认刘欢病逝消息的[2]；公开信还提到，遵照刘欢生前遗愿，不举行遗体告别仪式和追悼会[1][3]。",
+  "sources": [
+    {
+      "index": 1,
+      "url": "https://news.qq.com/rain/a/20261112A0EAPQ00",
+      "title": null,
+      "origin": "citations"
+    },
+    {
+      "index": 2,
+      "url": "https://m.thepaper.cn/newsDetail_forward_34179161",
+      "title": null,
+      "origin": "citations"
+    },
+    {
+      "index": 3,
+      "url": "https://news.qq.com/rain/a/20261113A01H4G00",
+      "title": null,
+      "origin": "citations"
+    },
+    {
+      "index": 4,
+      "url": "https://www.163.com/dy/article/LBJVS4DO051492LM.html",
+      "title": null,
+      "origin": "citations"
+    }
+  ],
+  "usage": {
+    "completion_tokens": 1363,
+    "completion_tokens_details": {
+      "reasoning_tokens": 1180,
+      "text_tokens": 1363
+    },
+    "prompt_tokens": 1554,
+    "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "text_tokens": 1554
+    },
+    "total_tokens": 2917
+  },
+  "finish_reason": "stop",
+  "note": [],
+  "request_id": "3ebf818a-dac8-41f9-bde1-b07df11c7a22",
+  "duration_seconds": 278.242
+}

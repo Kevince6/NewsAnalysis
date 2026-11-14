@@ -1,0 +1,63 @@
+{
+  "task_id": "T0323",
+  "model": "deepseek",
+  "news_id": "E027",
+  "question_index": 4,
+  "question_original": "【事实】英伟达2025年7月14日公告，说的是已经恢复出货，还是正在申请并获得了许可承诺？",
+  "question": "英伟达2025年7月14日公告，说的是已经恢复出货，还是正在申请并获得了许可承诺？",
+  "attempt": 1,
+  "provider": "302.ai",
+  "model_requested": "deepseek-flash",
+  "query_date": "2026-11-14",
+  "search_service": "metaso",
+  "prompt_version": "news-search-v1",
+  "prompt_sha256": "ea56fd5557d32615a9115f2368a0c4983ff1188f4935369e694d7d46f2493be1",
+  "requested_at": "2026-11-14T12:24:15.301080+08:00",
+  "raw_file": "raw/T0323_deepseek_a001_d8bdce.json",
+  "transport": "sse",
+  "stream_file": "raw/T0323_deepseek_a001_d8bdce.sse",
+  "status": "ok",
+  "model_returned": "deepseek-flash",
+  "answer": "**不是“已经恢复出货”，而是“已提交（重新提交）出口申请、获得美方将发放许可证的承诺，预计近期启动交付”。** 也就是说，2025年7月14日公告所反映的状态是“许可审批推进中”，并非“芯片已经恢复实际出货”。\n\n具体可以分成三层：\n\n1. **申请层面：英伟达已提交或重新提交H20对华销售申请。** 相关报道称，黄仁勋表示英伟达已重新提交H20 GPU销售申请[citation:3]；另一篇报道也提到，英伟达是在提交H20对华出口申请之后，美国政府承诺将授予许可证[citation:1]。\n\n2. **许可层面：获得的是“将发放许可证”的承诺或保证，并非“许可证已经到手、出货已经完成”。** 英伟达称，美国政府已向公司保证将发放许可证[citation:2]；也有报道表述为，英伟达已获美国政府书面确认“将向英伟达核发”H20对华出口许可证[citation:5]。这些说法都指向“许可证待核发或审批推进中”，并非“已恢复出货”。\n\n3. **交付层面：公告使用的是“将恢复销售”“预计近期启动交付”。** 英伟达宣布将恢复向中国销售H20[citation:1][citation:2]，并预计即将启动交付[citation:3]；公司还表示正与物流及海关部门协调，力争在许可证生效后最短时间内完成首批供货[citation:5]。这说明截至公告时，首批供货尚未完成。\n\n所以，更准确的概括是：**2025年7月14日英伟达公告的核心是“申请已提交、美方承诺发许可证、公司将恢复销售并预计很快交付”，而非“已经恢复出货”。** 需要注意，这是对当时公告状态的描述；后续是否实际取得许可证并完成交付，仅凭上述检索材料无法确认。",
+  "sources": [
+    {
+      "index": 1,
+      "url": "http://m.chinaaet.com/article/3000173138",
+      "title": null,
+      "origin": "citations"
+    },
+    {
+      "index": 2,
+      "url": "https://finance.sina.com.cn/roll/2025-07-15/doc-inffpsmu2190548.shtml?froms=ggmp",
+      "title": null,
+      "origin": "citations"
+    },
+    {
+      "index": 3,
+      "url": "https://www.esmchina.com/news/13279.html",
+      "title": null,
+      "origin": "citations"
+    },
+    {
+      "index": 4,
+      "url": "https://www.gelonghui.com/p/2491233",
+      "title": null,
+      "origin": "citations"
+    }
+  ],
+  "usage": {
+    "completion_tokens": 733,
+    "completion_tokens_details": {
+      "reasoning_tokens": 324
+    },
+    "prompt_tokens": 1185,
+    "prompt_tokens_details": {
+      "cached_tokens": 0
+    },
+    "total_tokens": 1918
+  },
+  "finish_reason": "stop",
+  "note": [],
+  "request_id": "688f3c2e-35b8-4660-9036-a763f2db08ba",
+  "duration_seconds": 8.328
+}

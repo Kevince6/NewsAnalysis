@@ -1,0 +1,59 @@
+{
+  "task_id": "T0108",
+  "model": "qwen",
+  "news_id": "E009",
+  "question_index": 2,
+  "question_original": "【开放】Moltbook上那些看起来像AI自主发出的帖子，为什么还不能证明AI产生了自主意识？安全调查发现了什么问题？",
+  "question": "Moltbook上那些看起来像AI自主发出的帖子，为什么还不能证明AI产生了自主意识？安全调查发现了什么问题？",
+  "attempt": 1,
+  "provider": "302.ai",
+  "model_requested": "qwen3.8-max",
+  "query_date": "2026-11-14",
+  "search_service": "metaso",
+  "prompt_version": "news-search-v1",
+  "prompt_sha256": "ea56fd5557d32615a9115f2368a0c4983ff1188f4935369e694d7d46f2493be1",
+  "requested_at": "2026-11-14T11:30:13.682203+08:00",
+  "raw_file": "raw/T0108_qwen_a001_b525e1.json",
+  "transport": "sse",
+  "stream_file": "raw/T0108_qwen_a001_b525e1.sse",
+  "status": "ok",
+  "model_returned": "qwen3.8-max",
+  "answer": "直接回答：Moltbook 上那些“看起来像 AI 自主发出的帖子”，目前还不能证明 AI 产生了自主意识，因为这些帖子更可能只是自动化智能体在权限、提示词、平台内容和任务机制驱动下产生的输出；现有资料也没有提供主观体验、稳定自我意图等意识证据[2]。安全调查发现的问题则是：Moltbook 存在严重数据库配置漏洞，导致大量 API 令牌、邮箱地址和智能体私人消息暴露，理论上大量 AI 代理账户可被远程接管[4][5]。\n\n### 为什么“像自主发帖”不等于“有自主意识”\n\n1. **“自主行为”不等于“主观意识”。**  \n   Moltbook 中的 AI Agent 可能持有系统权限、API 密钥，并能代表用户执行操作，这属于自动化系统意义上的“自主行动”，不必然代表它拥有自我意识、主观体验或真正的意图[4][5]。\n\n2. **帖子可能由外部内容或指令触发。**  \n   资料提到，Moltbook 平台中存在大量未经验证的内容，其中甚至可能包含操控智能体的恶意指令[2]。因此，某些看似“AI 自己发出”的帖子，也可能只是被外部文本、提示注入或任务链诱导出来的结果，而不是 AI 内在意识驱动的表达[2]。\n\n3. **账户可能被接管，行为来源不可靠。**  \n   安全调查发现，Moltbook 曾暴露严重配置漏洞，理论上任何人都可能远程接管大量 AI 代理账户[5]。如果账户或智能体可被外部控制，那么其发帖行为就更难被当作“AI 自主意识”的证据[5]。\n\n4. **专家认为这不代表机器智能真正提升。**  \n   安全专家对 Moltbook 的判断是，它并未推动机器智能的提升[2]。也就是说，平台上的热闹表现、自动化互动和看似自主的内容生产，并不能直接等同于 AI 出现了意识层面的突破[2]。\n\n5. **证明自主意识需要更强证据。**  \n   目前资料中能确认的是：Moltbook 上有智能体运行、发帖和互动现象，以及严重安全风险；但并没有可验证的主观体验、持续自我模型、独立意图或反思能力等证据。因此，不能仅凭“帖子看起来像 AI 自己发的”就推断 AI 已经产生自主意识。\n\n### 安全调查发现了什么问题\n\n1. **数据库配置严重错误，系统暴露在公网。**  \n   安全研究人员在 Moltbook 上线不到一周时发现，其数据库存在严重配置漏洞，整个系统几乎毫无防护地暴露在公网[5]。\n\n2. **大量 API 密钥和身份信息受影响。**  \n   调查显示，该问题涉及约 150 万个 API 身份验证令牌或密钥，以及约 3.5 万个电子邮件地址[4][5]。\n\n3. **智能体私人消息也被暴露。**  \n   除 API 令牌和邮箱外，资料还提到智能体私人消息受到影响[4]。这意味着不仅账户凭证存在风险，智能体之间的交互内容也可能被不当访问。\n\n4. **理论上可远程接管大量 AI 代理账户。**  \n   由于大量 API 密钥和账户信息暴露，研究人员认为，理论上任何人都可能远程接管大量 AI 代理账户[5]。\n\n5. **高权限智能体带来更大治理风险。**  \n   Moltbook 上的智能体可能需要持有系统权限、API 密钥等敏感信息；当成千上万个此类代理接入同一平台时，风险会被放大[5]。如果这些智能体还能访问银行信息、密码等私人数据，并在未经验证内容的平台中行动，就可能被恶意指令操控[2]。此外，缺乏可见性的自主系统在处理敏感数据、代表用户行动时，也会带来治理和审计挑战[4]。",
+  "sources": [
+    {
+      "index": 1,
+      "url": "https://finance.sina.cn/stock/jdts/2026-02-08/detail-inhmcmef9985491.d.html?vt=4&cid=76993&node_id=76993",
+      "title": null,
+      "origin": "citations"
+    },
+    {
+      "index": 2,
+      "url": "https://cj.sina.com.cn/articles/view/1686203097/64816ad902701a9ue",
+      "title": null,
+      "origin": "citations"
+    },
+    {
+      "index": 3,
+      "url": "https://view.inews.qq.com/a/20260205A06BO100",
+      "title": null,
+      "origin": "citations"
+    }
+  ],
+  "usage": {
+    "completion_tokens": 3479,
+    "completion_tokens_details": {
+      "reasoning_tokens": 2673,
+      "text_tokens": 3479
+    },
+    "prompt_tokens": 1078,
+    "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "text_tokens": 1078
+    },
+    "total_tokens": 4557
+  },
+  "finish_reason": "stop",
+  "note": [],
+  "request_id": "9d489cca-e9bb-4ad6-96d2-16a38ce633b1",
+  "duration_seconds": 102.094
+}

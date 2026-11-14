@@ -1,0 +1,63 @@
+{
+  "task_id": "T0139",
+  "model": "doubao",
+  "news_id": "E012",
+  "question_index": 2,
+  "question_original": "【开放】TikTok美国合资公司成立后，美国用户数据和推荐算法由谁负责，公告具体怎么安排？",
+  "question": "TikTok美国合资公司成立后，美国用户数据和推荐算法由谁负责，公告具体怎么安排？",
+  "attempt": 1,
+  "provider": "302.ai",
+  "model_requested": "doubao-seed-2-1-pro-260628",
+  "query_date": "2026-11-14",
+  "search_service": "metaso",
+  "prompt_version": "news-search-v1",
+  "prompt_sha256": "ea56fd5557d32615a9115f2368a0c4983ff1188f4935369e694d7d46f2493be1",
+  "requested_at": "2026-11-14T11:39:09.877722+08:00",
+  "raw_file": "raw/T0139_doubao_a001_b0489d.json",
+  "transport": "sse",
+  "stream_file": "raw/T0139_doubao_a001_b0489d.sse",
+  "status": "ok",
+  "model_returned": "doubao-seed-2-1-pro-260628",
+  "answer": "根据TikTok及美国司法部的公开公告，2026年1月TikTok美国业务交易完成后，成立独立运营实体**TikTok USDS合资公司**统筹负责美国用户数据安全与推荐算法相关工作：字节跳动仅保留该公司近20%的股份，其余股份由包括甲骨文在内的非中国投资者持有，合资公司独立于字节跳动运作、由美国投资者控股[4]。具体安排如下：\n1. **美国用户数据相关安排**\n美国用户数据将本地存储于甲骨文运营的美国境内系统中，由合资公司依托甲骨文的美国安全云环境落实数据安全保护要求[1][4]。\n2. **推荐算法相关安排**\n公告明确的算法规则包括三点：\n- 算法迭代工作由合资公司主导，将基于美国本地用户数据对TikTok内容推荐算法进行重新训练、测试与更新[1][2][4]；\n- 合资公司已对字节跳动最初开发的内容推荐算法、配套网络安全程序完成修改，移除了此前引发美国安全顾虑的相关功能，经调整后的TikTok版本符合美国监管要求，不在此前的相关禁令范围内[4]；\n- 算法调整过程中承诺保障美国用户仍可获取国际内容，不会完全限制内容的跨境来源[4]。\n\n---\n### 补充说明\n- 目前公开公告未明确算法重训对用户体验的具体影响，行业判断多数美国用户可能不会感知到明显差异，仅在系统运行异常时可能察觉推荐内容的明显变化[2]；\n- 此前曾有美国用户在社交平台反馈“For You Page”推荐内容出现异常，TikTok回应称该问题源于数据中心断电导致的级联系统故障，与新算法调整工作无关[2]；\n- 第三方分析显示，目前可观测到的部分推荐内容变动，主要源于训练数据集替换为美国用户数据导致的模型适配，尚无证据显示合资方为自身利益操控算法，但从技术层面看，平台方调整特定内容的推荐权重具备可行性[5]。",
+  "sources": [
+    {
+      "index": 1,
+      "url": "https://www.npr.org/2026/01/22/nx-s1-5685456/tiktok-finalizes-deal-to-form-new-american-entity#%3A~%3Atext%3DOracle%2C%20Silver%20Lake%20and%20the%2Cbillionaire%20founder%20of%20Dell%20Technologies.",
+      "title": null,
+      "origin": "citations"
+    },
+    {
+      "index": 2,
+      "url": "https://www.businessoffashion.com/briefings/technology/tiktoks-new-us-algorithm/",
+      "title": null,
+      "origin": "citations"
+    },
+    {
+      "index": 3,
+      "url": "https://www.163.com/dy/article/L26LDTSH054573I7.html",
+      "title": null,
+      "origin": "citations"
+    },
+    {
+      "index": 4,
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-02-16/doc-inhmzsfw5798279.shtml?cre=tianyi&mod=pchp&loc=30&r=0&rfunc=41&tj=cxvertical_pc_hp&tr=12",
+      "title": null,
+      "origin": "citations"
+    }
+  ],
+  "usage": {
+    "completion_tokens": 4568,
+    "completion_tokens_details": {
+      "reasoning_tokens": 4130
+    },
+    "prompt_tokens": 1327,
+    "prompt_tokens_details": {
+      "cached_tokens": 0
+    },
+    "total_tokens": 5895
+  },
+  "finish_reason": "stop",
+  "note": [],
+  "request_id": "aae9201e-cf01-4d10-a56c-03710b567bad",
+  "duration_seconds": 90.891
+}

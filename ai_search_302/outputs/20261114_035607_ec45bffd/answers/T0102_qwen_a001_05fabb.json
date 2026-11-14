@@ -1,0 +1,59 @@
+{
+  "task_id": "T0102",
+  "model": "qwen",
+  "news_id": "E008",
+  "question_index": 4,
+  "question_original": "【事实】中国外交部2026年1月4日如何回应马杜罗夫妇被带走，提出了什么要求？",
+  "question": "中国外交部2026年1月4日如何回应马杜罗夫妇被带走，提出了什么要求？",
+  "attempt": 1,
+  "provider": "302.ai",
+  "model_requested": "qwen3.8-max",
+  "query_date": "2026-11-14",
+  "search_service": "metaso",
+  "prompt_version": "news-search-v1",
+  "prompt_sha256": "ea56fd5557d32615a9115f2368a0c4983ff1188f4935369e694d7d46f2493be1",
+  "requested_at": "2026-11-14T11:28:29.116457+08:00",
+  "raw_file": "raw/T0102_qwen_a001_05fabb.json",
+  "transport": "sse",
+  "stream_file": "raw/T0102_qwen_a001_05fabb.sse",
+  "status": "ok",
+  "model_returned": "qwen3.8-max",
+  "answer": "根据现有检索结果，中国外交部在相关答记者问中表示：中方呼吁美方确保委内瑞拉总统马杜罗及其夫人的人身安全，并立即释放马杜罗总统和夫人[1][2]。\n\n外交部发言人林剑在回应巴西《圣保罗页报》记者提问时还称，中方已就“美国强行控制委内瑞拉总统马杜罗夫妇”一事表明了立场[2]。\n\n需要说明的是，你指定的日期是“2026年1月4日”，但提供的检索材料中只表述为“外交部昨天发布答记者问”，未直接标注该回应发生于2026年1月4日；因此目前只能确认上述回应内容与要求，无法仅凭这些资料确认其具体日期就是2026年1月4日[1][2]。",
+  "sources": [
+    {
+      "index": 1,
+      "url": "https://www.fmprc.gov.cn/rus/mtfw/ce_cegw_chn/lxjzhzhdh/202601/t20260107_11807610.html",
+      "title": null,
+      "origin": "citations"
+    },
+    {
+      "index": 2,
+      "url": "https://am.china-embassy.gov.cn/ztlm/fyrth/202601/t20260105_11806730.htm",
+      "title": null,
+      "origin": "citations"
+    },
+    {
+      "index": 3,
+      "url": "https://www.thepaper.cn/newsDetail_forward_21771291",
+      "title": null,
+      "origin": "citations"
+    }
+  ],
+  "usage": {
+    "completion_tokens": 955,
+    "completion_tokens_details": {
+      "reasoning_tokens": 782,
+      "text_tokens": 955
+    },
+    "prompt_tokens": 1161,
+    "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "text_tokens": 1161
+    },
+    "total_tokens": 2116
+  },
+  "finish_reason": "stop",
+  "note": [],
+  "request_id": "1d033133-9ce7-4835-9d6f-822cb3815adf",
+  "duration_seconds": 31.156
+}

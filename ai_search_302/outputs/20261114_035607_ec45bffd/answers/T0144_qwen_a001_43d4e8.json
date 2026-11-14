@@ -1,0 +1,42 @@
+{
+  "task_id": "T0144",
+  "model": "qwen",
+  "news_id": "E012",
+  "question_index": 3,
+  "question_original": "【事实】TikTok在美国是哪天暂停、哪天开始恢复服务的？合资公司成立又是什么时候？",
+  "question": "TikTok在美国是哪天暂停、哪天开始恢复服务的？合资公司成立又是什么时候？",
+  "attempt": 1,
+  "provider": "302.ai",
+  "model_requested": "qwen3.8-max",
+  "query_date": "2026-11-14",
+  "search_service": "metaso",
+  "prompt_version": "news-search-v1",
+  "prompt_sha256": "ea56fd5557d32615a9115f2368a0c4983ff1188f4935369e694d7d46f2493be1",
+  "requested_at": "2026-11-14T11:40:40.823696+08:00",
+  "raw_file": "raw/T0144_qwen_a001_43d4e8.json",
+  "transport": "sse",
+  "stream_file": "raw/T0144_qwen_a001_43d4e8.sse",
+  "status": "needs_review",
+  "model_returned": "qwen3.8-max",
+  "answer": "<tool_call>\n<function=web_search>\n  <parameter name=\"query\">\nTikTok 美国 暂停服务 恢复服务 日期 合资公司成立\n</parameter>\n</function>\n</tool_call>\n<tool_call>\n<function=web_search>\n  <parameter name=\"query\">\nTikTok US shutdown restored January 2025 joint venture formed date\n</parameter>\n</function>\n</tool_call>\n<tool_call>\n<function=web_search>\n  <parameter name=\"query\">\nTikTok U.S. joint venture Oracle Silver Lake MGX announcement date\n</parameter>\n</function>\n</tool_call>",
+  "sources": [],
+  "usage": {
+    "completion_tokens": 317,
+    "completion_tokens_details": {
+      "reasoning_tokens": 183,
+      "text_tokens": 317
+    },
+    "prompt_tokens": 227,
+    "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "text_tokens": 227
+    },
+    "total_tokens": 544
+  },
+  "finish_reason": "stop",
+  "note": [
+    "未返回平台来源链接；仅凭正文中的链接不能确认搜索是否成功。"
+  ],
+  "request_id": "def9f6ed-f863-4bbd-85b1-3b26aa110b0d",
+  "duration_seconds": 10.719
+}

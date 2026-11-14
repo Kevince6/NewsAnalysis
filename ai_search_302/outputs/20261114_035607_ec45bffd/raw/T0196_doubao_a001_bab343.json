@@ -1,0 +1,57 @@
+{
+  "request": {
+    "model": "doubao-seed-2-1-pro-260628",
+    "messages": [
+      {
+        "role": "system",
+        "content": "请联网检索后，用自然中文回答用户的问题。\n先直接回答，再补充理解答案所需的事实、背景或说明；复杂问题可分点，简单问题可简答。\n优先参考与问题直接相关的原始发布、机构公告、当事人回应及可信媒体报道。\n依据检索到的资料作答。资料不足、存在分歧或尚未确认的内容，请明确说明；解释和判断应与已确认的事实区分。\n在相关事实后标注检索来源，沿用检索结果提供的引用编号或标记。\n\n查询日期：2026-11-14（北京时间，UTC+8）。问题中的“现在”“近期”“最新”以此日期为参照；问题明确指定时间范围时，以问题为准。"
+      },
+      {
+        "role": "user",
+        "content": "2026年10月13日魏家案一审中，哪些人被判死刑，另有多少人被判无期徒刑？"
+      }
+    ],
+    "web-search": true,
+    "search-service": "metaso",
+    "search-results": 5,
+    "stream": true,
+    "stream_options": {
+      "include_usage": true
+    }
+  },
+  "response": {
+    "object": "chat.completion",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "2026年10月13日福建省泉州市中级人民法院、南安市人民法院一审公开宣判魏家犯罪集团系列案时，魏怀仁、陈大卫、廖景芳3名被告人被判处死刑；另有3名被告人被判处无期徒刑，分别为魏青涛、康敏、熊恒星。[1][4][5]\n\n### 补充说明\n本次判决中，除上述被判处死刑、无期徒刑的人员外，苏红相、邓子达、陈龙江等55名被告人分别被判处二十四年至三年三个月不等有期徒刑，法院同时根据各被告人的涉案情节，相应判处罚金、没收财产、驱逐出境等附加刑。[1][4][5]",
+          "reasoning_content": "\n用户现在需要回答魏家案2026年10月13日一审的死刑和无期的情况对吧，我已确认魏家案2026年10月13日一审宣判结果：3人死刑、3人无期。\n\n本次宣判由福建省泉州市中级人民法院、南安市人民法院共同开展，除已明确的6名涉案人员外，其余55人分别被判处三年至二十四年有期徒刑，同时法院还对涉案人员判处了相应附加刑。\n\n我已核实本次宣判结果的多源信息完全匹配，死刑、无期徒刑的涉案人员名单准确无误，引用标注将按规范对应。\n\n我确认本次判决的补充内容、引用标注均符合规范，所有表述均来自给定搜索结果，无额外新增内容。\n"
+        },
+        "finish_reason": "stop"
+      }
+    ],
+    "id": "021794628444390340ab7310049ce769f86e315fedc912edaca02",
+    "model": "doubao-seed-2-1-pro-260628",
+    "created": 1794628446,
+    "service_tier": "default",
+    "citations": [
+      "https://www.news.cn/20261013/27ac6440b25c49919980089c4d1575ca/c.html",
+      "https://k.sina.com.cn/article_1301904252_4d997b7c01901p0e0.html",
+      "https://www.163.com/dy/article/L94I7BMA0514R9P4.html"
+    ],
+    "usage": {
+      "completion_tokens": 891,
+      "completion_tokens_details": {
+        "reasoning_tokens": 738
+      },
+      "prompt_tokens": 1389,
+      "prompt_tokens_details": {
+        "cached_tokens": 0
+      },
+      "total_tokens": 2280
+    },
+    "_transport": "sse"
+  }
+}

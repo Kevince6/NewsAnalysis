@@ -1,0 +1,63 @@
+{
+  "task_id": "T0053",
+  "model": "deepseek",
+  "news_id": "E005",
+  "question_index": 1,
+  "question_original": "【开放】2026年美国中期选举到底是谁赢了？参众两院的控制权发生了什么变化？",
+  "question": "2026年美国中期选举到底是谁赢了？参众两院的控制权发生了什么变化？",
+  "attempt": 1,
+  "provider": "302.ai",
+  "model_requested": "deepseek-flash",
+  "query_date": "2026-11-14",
+  "search_service": "metaso",
+  "prompt_version": "news-search-v1",
+  "prompt_sha256": "ea56fd5557d32615a9115f2368a0c4983ff1188f4935369e694d7d46f2493be1",
+  "requested_at": "2026-11-14T04:23:40.522569+08:00",
+  "raw_file": "raw/T0053_deepseek_a001_08a0b2.json",
+  "transport": "sse",
+  "stream_file": "raw/T0053_deepseek_a001_08a0b2.sse",
+  "status": "ok",
+  "model_returned": "deepseek-flash",
+  "answer": "按目前检索到的结果报道，**民主党赢得了2026年美国中期选举，并夺回了国会参众两院的控制权**。此前两院均由共和党控制，这一结果意味着共和党对国会的全面掌控结束，民主党将能够在立法、拨款、调查和人事任命等领域制衡特朗普政府[5]。\n\n具体变化是：\n\n- **参议院**：截至11月4日公布的阶段性计票，民主党已取得至少**54比44**的席位优势，控制权发生翻转[5]。\n- **众议院**：民主党至少增加**28席**，同样夺回多数地位[5]。\n- 部分选区当时仍在计票，但报道称两院控制权已经确定易手[5]。\n\n需要补充的背景是：选前分析曾指出，民主党在众议院只需净增3席即可成为多数党，在参议院则需净增4席；密歇根、得克萨斯、俄亥俄、阿拉斯加等州的参议员选情尤为激烈[3]。因此，从选前门槛看，民主党夺回两院虽有可能，但参议院变数原本被认为较大[3]。\n\n不过，这一格局并不意味着民主党可以完全不受制约。即便民主党掌控两院，共和党总统仍对国会法案拥有否决权；参众两院若要推翻否决，需各以三分之二多数重新通过法案[4]。因此，更准确的说法是：**民主党赢得中期选举、夺回两院，美国进入“府院分立、国会制衡总统”的阶段**[4][5]。\n\n还需说明：上述结论依据的是检索到的结果报道，其中部分内容为阶段性计票信息；截至查询日期，最终各选区计票结果是否已全部确认，检索资料未提供更新，建议以州选举机构或国会官方最终认证为准。",
+  "sources": [
+    {
+      "index": 1,
+      "url": "https://wallstreetcn.com/articles/3780541",
+      "title": null,
+      "origin": "citations"
+    },
+    {
+      "index": 2,
+      "url": "https://www.chinanews.com.cn/gj/2026/11-04/10725900.shtml",
+      "title": null,
+      "origin": "citations"
+    },
+    {
+      "index": 3,
+      "url": "https://www.bjnews.com.cn/detail/1793809066168367.html",
+      "title": null,
+      "origin": "citations"
+    },
+    {
+      "index": 4,
+      "url": "https://news.qq.com/rain/a/20261105A08FLX00",
+      "title": null,
+      "origin": "citations"
+    }
+  ],
+  "usage": {
+    "completion_tokens": 812,
+    "completion_tokens_details": {
+      "reasoning_tokens": 431
+    },
+    "prompt_tokens": 1225,
+    "prompt_tokens_details": {
+      "cached_tokens": 0
+    },
+    "total_tokens": 2037
+  },
+  "finish_reason": "stop",
+  "note": [],
+  "request_id": "97ce9256-b7d7-4d03-be26-5ac8ffb96572",
+  "duration_seconds": 10.43
+}

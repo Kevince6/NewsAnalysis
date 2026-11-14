@@ -1,0 +1,45 @@
+{
+  "task_id": "T0133",
+  "model": "doubao",
+  "news_id": "E011",
+  "question_index": 4,
+  "question_original": "【事实】2026年11月暴雨简报提到的15万多顶帐篷，已经送到加沙了吗？有多少安置点、多少户家庭需要援助？",
+  "question": "2026年11月暴雨简报提到的15万多顶帐篷，已经送到加沙了吗？有多少安置点、多少户家庭需要援助？",
+  "attempt": 1,
+  "provider": "302.ai",
+  "model_requested": "doubao-seed-2-1-pro-260628",
+  "query_date": "2026-11-14",
+  "search_service": "metaso",
+  "prompt_version": "news-search-v1",
+  "prompt_sha256": "ea56fd5557d32615a9115f2368a0c4983ff1188f4935369e694d7d46f2493be1",
+  "requested_at": "2026-11-14T11:37:21.679433+08:00",
+  "raw_file": "raw/T0133_doubao_a001_ef4226.json",
+  "transport": "sse",
+  "stream_file": "raw/T0133_doubao_a001_ef4226.sse",
+  "status": "ok",
+  "model_returned": "doubao-seed-2-1-pro-260628",
+  "answer": "根据当前提供的检索资料，无法确认2026年11月加沙暴雨简报提到的15万多顶帐篷是否已送达，也暂未查询到本次灾害中需要援助的安置点总数量、待援助家庭的具体规模数据，无法就这几个问题给出确切答复。\n\n现有检索结果仅记载了2025年12月加沙遭遇风暴灾害的相关受灾与援助情况，可供参考：\n1. 该次风暴对加沙造成了大范围破坏：当地出现帐篷被掀翻或损毁、房屋倒塌、民众个人财物被淹的情况，由于地势低洼且缺乏排水系统，多处流离失所者安置点被洪水完全淹没，临时教学场所、人道主义物资运输道路也遭到损坏[1]。\n2. 针对该次灾害的人道主义援助行动持续开展，2025年12月累计向加沙地带约8万户家庭发放了超过4万顶帐篷、超过13.5万块防水布，以及数千件床垫、毛毯等救灾物资[1]。需要说明的是，该次援助的时间节点、帐篷发放规模，均与你询问的2026年11月暴雨简报涉及的15万多顶帐篷的相关信息不匹配。",
+  "sources": [
+    {
+      "index": 1,
+      "url": "https://www.chinanews.com.cn/gj/2026/01-07/10547705.shtml",
+      "title": null,
+      "origin": "citations"
+    }
+  ],
+  "usage": {
+    "completion_tokens": 2172,
+    "completion_tokens_details": {
+      "reasoning_tokens": 1899
+    },
+    "prompt_tokens": 856,
+    "prompt_tokens_details": {
+      "cached_tokens": 0
+    },
+    "total_tokens": 3028
+  },
+  "finish_reason": "stop",
+  "note": [],
+  "request_id": "3c1b676f-a5b3-4ad4-8edf-512dbba69ee8",
+  "duration_seconds": 46.64
+}

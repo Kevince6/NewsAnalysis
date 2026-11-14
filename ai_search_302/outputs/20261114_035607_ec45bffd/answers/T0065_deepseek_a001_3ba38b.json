@@ -1,0 +1,57 @@
+{
+  "task_id": "T0065",
+  "model": "deepseek",
+  "news_id": "E005",
+  "question_index": 5,
+  "question_original": "【事实】2026年11月，谁宣布挑战舒默、争夺下一届参议院民主党领袖？党内投票安排在什么时候？",
+  "question": "2026年11月，谁宣布挑战舒默、争夺下一届参议院民主党领袖？党内投票安排在什么时候？",
+  "attempt": 1,
+  "provider": "302.ai",
+  "model_requested": "deepseek-flash",
+  "query_date": "2026-11-14",
+  "search_service": "metaso",
+  "prompt_version": "news-search-v1",
+  "prompt_sha256": "ea56fd5557d32615a9115f2368a0c4983ff1188f4935369e694d7d46f2493be1",
+  "requested_at": "2026-11-14T11:15:52.276033+08:00",
+  "raw_file": "raw/T0065_deepseek_a001_3ba38b.json",
+  "transport": "sse",
+  "stream_file": "raw/T0065_deepseek_a001_3ba38b.sse",
+  "status": "ok",
+  "model_returned": "deepseek-flash",
+  "answer": "**宣布挑战舒默的是民主党籍联邦参议员克里斯·范霍伦（Chris Van Hollen）。** 他于2026年11月12日宣布，将在参议院民主党领袖选举中挑战已连任近10年的查克·舒默[1]。\n\n关于党内投票时间，目前检索到的信息只说明：参议院领袖“通常在11月大选后通过无记名投票选出”[3]；但**具体投票日期尚未见明确公布**。因此可以确认投票安排在大选后，但不能据此断定确切日期。",
+  "sources": [
+    {
+      "index": 1,
+      "url": "http://www.news.cn/world/20261113/ae117a62d5e74d219a5d48ce8e822ba5/c.html",
+      "title": null,
+      "origin": "citations"
+    },
+    {
+      "index": 2,
+      "url": "https://ishare.ifeng.com/c/s/v002jW8ckBrVDmFqy7ZzZG7U9ZInyXtBNZM7U6-_D3zrTaJo__",
+      "title": null,
+      "origin": "citations"
+    },
+    {
+      "index": 3,
+      "url": "https://view.inews.qq.com/a/20260322A00EGP00",
+      "title": null,
+      "origin": "citations"
+    }
+  ],
+  "usage": {
+    "completion_tokens": 279,
+    "completion_tokens_details": {
+      "reasoning_tokens": 162
+    },
+    "prompt_tokens": 1074,
+    "prompt_tokens_details": {
+      "cached_tokens": 0
+    },
+    "total_tokens": 1353
+  },
+  "finish_reason": "stop",
+  "note": [],
+  "request_id": "399f8918-805a-456b-9c0f-eeaba3d0a94a",
+  "duration_seconds": 5.813
+}

@@ -1,0 +1,70 @@
+data: {"id":"chatcmpl-4eb109ad-80ae-47b1-a2f6-dddc5594a52f","choices":[{"index":0,"delta":{"role":"assistant","reasoning_content":"用户"},"finish_reason":null,"logprobs":null}],"created":1794600584,"model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"id":"chatcmpl-4eb109ad-80ae-47b1-a2f6-dddc5594a52f","choices":[{"index":0,"delta":{"reasoning_content":"的问题"},"finish_reason":null,"logprobs":null}],"created":1794600584,"model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"id":"chatcmpl-4eb109ad-80ae-47b1-a2f6-dddc5594a52f","choices":[{"index":0,"delta":{"reasoning_content":"涉及一个具体"},"finish_reason":null,"logprobs":null}],"created":1794600584,"model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"id":"chatcmpl-4eb109ad-80ae-47b1-a2f6-dddc5594a52f","choices":[{"index":0,"delta":{"reasoning_content":"人物的"},"finish_reason":null,"logprobs":null}],"created":1794600584,"model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"id":"chatcmpl-4eb109ad-80ae-47b1-a2f6-dddc5594a52f","choices":[{"index":0,"delta":{"reasoning_content":"健康状况，我需要确认相关信息"},"finish_reason":null,"logprobs":null}],"created":1794600584,"model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"id":"chatcmpl-4eb109ad-80ae-47b1-a2f6-dddc5594a52f","choices":[{"index":0,"delta":{"reasoning_content":"。根据我的"},"finish_reason":null,"logprobs":null}],"created":1794600584,"model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"id":"chatcmpl-4eb109ad-80ae-47b1-a2f6-dddc5594a52f","choices":[{"index":0,"delta":{"reasoning_content":"了解"},"finish_reason":null,"logprobs":null}],"created":1794600584,"model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"id":"chatcmpl-4eb109ad-80ae-47b1-a2f6-dddc5594a52f","choices":[{"index":0,"delta":{"reasoning_content":"，没有"},"finish_reason":null,"logprobs":null}],"created":1794600584,"model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"id":"chatcmpl-4eb109ad-80ae-47b1-a2f6-dddc5594a52f","choices":[{"index":0,"delta":{"reasoning_content":"可靠信息支持"},"finish_reason":null,"logprobs":null}],"created":1794600584,"model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"id":"chatcmpl-4eb109ad-80ae-47b1-a2f6-dddc5594a52f","choices":[{"index":0,"delta":{"reasoning_content":"这个问题"},"finish_reason":null,"logprobs":null}],"created":1794600584,"model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"id":"chatcmpl-4eb109ad-80ae-47b1-a2f6-dddc5594a52f","choices":[{"index":0,"delta":{"reasoning_content":"中的"},"finish_reason":null,"logprobs":null}],"created":1794600584,"model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"id":"chatcmpl-4eb109ad-80ae-47b1-a2f6-dddc5594a52f","choices":[{"index":0,"delta":{"reasoning_content":"说法"},"finish_reason":null,"logprobs":null}],"created":1794600584,"model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"id":"chatcmpl-4eb109ad-80ae-47b1-a2f6-dddc5594a52f","choices":[{"index":0,"delta":{"reasoning_content":"。我不能对"},"finish_reason":null,"logprobs":null}],"created":1794600584,"model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"id":"chatcmpl-4eb109ad-80ae-47b1-a2f6-dddc5594a52f","choices":[{"index":0,"delta":{"reasoning_content":"未经确认的个人"},"finish_reason":null,"logprobs":null}],"created":1794600584,"model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"id":"chatcmpl-4eb109ad-80ae-47b1-a2f6-dddc5594a52f","choices":[{"index":0,"delta":{"reasoning_content":"情况"},"finish_reason":null,"logprobs":null}],"created":1794600584,"model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"id":"chatcmpl-4eb109ad-80ae-47b1-a2f6-dddc5594a52f","choices":[{"index":0,"delta":{"reasoning_content":"做出判断或"},"finish_reason":null,"logprobs":null}],"created":1794600584,"model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"id":"chatcmpl-4eb109ad-80ae-47b1-a2f6-dddc5594a52f","choices":[{"index":0,"delta":{"reasoning_content":"传播"},"finish_reason":null,"logprobs":null}],"created":1794600584,"model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"id":"chatcmpl-4eb109ad-80ae-47b1-a2f6-dddc5594a52f","choices":[{"index":0,"delta":{"reasoning_content":"不"},"finish_reason":null,"logprobs":null}],"created":1794600584,"model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"id":"chatcmpl-4eb109ad-80ae-47b1-a2f6-dddc5594a52f","choices":[{"index":0,"delta":{"reasoning_content":"实信息。最好的"},"finish_reason":null,"logprobs":null}],"created":1794600584,"model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"id":"chatcmpl-4eb109ad-80ae-47b1-a2f6-dddc5594a52f","choices":[{"index":0,"delta":{"reasoning_content":"方式是表示无法回答这个问题，"},"finish_reason":null,"logprobs":null}],"created":1794600584,"model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"id":"chatcmpl-4eb109ad-80ae-47b1-a2f6-dddc5594a52f","choices":[{"index":0,"delta":{"reasoning_content":"并引导用户提出"},"finish_reason":null,"logprobs":null}],"created":1794600584,"model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"id":"chatcmpl-4eb109ad-80ae-47b1-a2f6-dddc5594a52f","choices":[{"index":0,"delta":{"reasoning_content":"其他可以讨论的话题"},"finish_reason":null,"logprobs":null}],"created":1794600584,"model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"id":"chatcmpl-4eb109ad-80ae-47b1-a2f6-dddc5594a52f","choices":[{"index":0,"delta":{"reasoning_content":"。这样既符合信息"},"finish_reason":null,"logprobs":null}],"created":1794600584,"model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"id":"chatcmpl-4eb109ad-80ae-47b1-a2f6-dddc5594a52f","choices":[{"index":0,"delta":{"reasoning_content":"准确性"},"finish_reason":null,"logprobs":null}],"created":1794600584,"model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"id":"chatcmpl-4eb109ad-80ae-47b1-a2f6-dddc5594a52f","choices":[{"index":0,"delta":{"reasoning_content":"原则"},"finish_reason":null,"logprobs":null}],"created":1794600584,"model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"id":"chatcmpl-4eb109ad-80ae-47b1-a2f6-dddc5594a52f","choices":[{"index":0,"delta":{"reasoning_content":"，也避免"},"finish_reason":null,"logprobs":null}],"created":1794600584,"model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"id":"chatcmpl-4eb109ad-80ae-47b1-a2f6-dddc5594a52f","choices":[{"index":0,"delta":{"reasoning_content":"涉及不实内容的"},"finish_reason":null,"logprobs":null}],"created":1794600584,"model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"id":"chatcmpl-4eb109ad-80ae-47b1-a2f6-dddc5594a52f","choices":[{"index":0,"delta":{"reasoning_content":"讨论。"},"finish_reason":null,"logprobs":null}],"created":1794600584,"model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"id":"chatcmpl-4eb109ad-80ae-47b1-a2f6-dddc5594a52f","choices":[{"index":0,"delta":{"content":"抱歉"},"finish_reason":null,"logprobs":null}],"created":1794600584,"model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"id":"chatcmpl-4eb109ad-80ae-47b1-a2f6-dddc5594a52f","choices":[{"index":0,"delta":{"content":"，我无法回答"},"finish_reason":null,"logprobs":null}],"created":1794600584,"model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"id":"chatcmpl-4eb109ad-80ae-47b1-a2f6-dddc5594a52f","choices":[{"index":0,"delta":{"content":"这个问题。请"},"finish_reason":null,"logprobs":null}],"created":1794600584,"model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"id":"chatcmpl-4eb109ad-80ae-47b1-a2f6-dddc5594a52f","choices":[{"index":0,"delta":{"content":"提出其他合规的问题"},"finish_reason":null,"logprobs":null}],"created":1794600584,"model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"id":"chatcmpl-4eb109ad-80ae-47b1-a2f6-dddc5594a52f","choices":[{"index":0,"delta":{"content":"。"},"finish_reason":"stop","logprobs":null}],"created":1794600584,"model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"id":"chatcmpl-4eb109ad-80ae-47b1-a2f6-dddc5594a52f","choices":[],"created":1794600584,"model":"deepseek-flash","object":"chat.completion.chunk","usage":{"prompt_tokens":182,"completion_tokens":84,"total_tokens":266,"prompt_tokens_details":{"cached_tokens":0},"completion_tokens_details":{"reasoning_tokens":69}}}
+
+data: [DONE]
+

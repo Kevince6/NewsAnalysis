@@ -1,0 +1,59 @@
+{
+  "request": {
+    "model": "qwen3.8-max",
+    "messages": [
+      {
+        "role": "system",
+        "content": "请联网检索后，用自然中文回答用户的问题。\n先直接回答，再补充理解答案所需的事实、背景或说明；复杂问题可分点，简单问题可简答。\n优先参考与问题直接相关的原始发布、机构公告、当事人回应及可信媒体报道。\n依据检索到的资料作答。资料不足、存在分歧或尚未确认的内容，请明确说明；解释和判断应与已确认的事实区分。\n在相关事实后标注检索来源，沿用检索结果提供的引用编号或标记。\n\n查询日期：2026-11-14（北京时间，UTC+8）。问题中的“现在”“近期”“最新”以此日期为参照；问题明确指定时间范围时，以问题为准。"
+      },
+      {
+        "role": "user",
+        "content": "罗马仕自2025年6月16日起召回了几款充电宝，一共多少台？"
+      }
+    ],
+    "web-search": true,
+    "search-service": "metaso",
+    "search-results": 5,
+    "stream": true,
+    "stream_options": {
+      "include_usage": true
+    }
+  },
+  "response": {
+    "object": "chat.completion",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "罗马仕自 **2025年6月16日** 起召回的是 **3款充电宝**，合计召回 **491,745台**[1][2]。\n\n补充信息：此次召回的是 **2023年6月5日至2024年7月31日期间制造的部分罗马仕 ROMOSS 牌移动电源**，深圳罗马仕科技有限公司已向深圳市市场监督管理局报告召回计划[2]。相关报道也称此次召回总量约 **49.17万台**[1]。",
+          "reasoning_content": "我们需要回答用户问题。必须先调用工具，已调用。需要基于搜索结果中文回答。问题：罗马仕自2025年6月16日起召回了几款充电宝，一共多少台？直接答案：三款产品，共491745台。补充背景：深圳罗马仕科技有限公司按《消费品召回管理暂行规定》向深圳市市场监督管理局报告召回计划，召回2023年6月5日至2024年7月31日期间制造的部分罗马仕 ROMOSS 牌移动电源三款产品。引用 [2]，也可 [1]。需要注意日期今天 2026-11-14，但问题指定时间。回答简洁即可。引用格式在句子末尾标注 [1][2]。避免说未提供。可以补充民航局通知和整治？用户问数量和台数，简短补充即可。需要自然中文。确保引用对应。最终直接回答再补充事实。"
+        },
+        "finish_reason": "stop"
+      }
+    ],
+    "id": "chatcmpl-f29c8155-c751-9400-9c40-2e9251baf964",
+    "model": "qwen3.8-max",
+    "created": 1794629232,
+    "citations": [
+      "https://baike.baidu.com/item/%E7%A7%BB%E5%8A%A8%E7%94%B5%E6%BA%90/10883289#%3A~%3Atext%3D%E5%A4%A7%E9%83%A8%E5%88%86%E7%9A%84%E8%A1%8C%E5%8A%A8%E7%94%B5%E6%BA%90%E4%BD%BF%E7%94%A8%E7%9A%84%E7%94%B5%E6%B1%A0%E4%B8%BA%E9%94%82%2C%E6%9C%80%E8%BD%BB%E5%8F%8A%E6%9C%80%E7%BB%86%E3%80%82",
+      "https://baike.baidu.com/item/%E7%BD%97%E9%A9%AC%E4%BB%95/5828143#%3A~%3Atext%3D%E7%BD%97%E9%A9%AC%E4%BB%95_%E7%99%BE%E5%BA%A6%E7%99%BE%E7%A7%91%26text%3D%E7%BD%97%E9%A9%AC%E4%BB%95%EF%BC%88ROMOSS%EF%BC%89%E5%93%81%E7%89%8C%E9%9A%B6%E5%B1%9E%2C%E6%9C%8D%E5%8A%A1%E5%85%A8%E7%90%83%E2%80%9D%E7%9A%84%E5%8F%91%E5%B1%95%E6%A8%A1%E5%BC%8F%E3%80%82",
+      "https://www.douyin.com/shipin/7517448159577065487",
+      "https://m.thepaper.cn/newsDetail_forward_30996565"
+    ],
+    "usage": {
+      "completion_tokens": 313,
+      "completion_tokens_details": {
+        "reasoning_tokens": 195,
+        "text_tokens": 313
+      },
+      "prompt_tokens": 1366,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "text_tokens": 1366
+      },
+      "total_tokens": 1679
+    },
+    "_transport": "sse"
+  }
+}

@@ -1,0 +1,69 @@
+{
+  "task_id": "T0253",
+  "model": "doubao",
+  "news_id": "E021",
+  "question_index": 3,
+  "question_original": "【事实】天水涉事幼儿园的玉米卷肠包、三色红枣发糕，留样铅含量分别是多少？这些数值是食品检测值还是孩子的血铅值？",
+  "question": "天水涉事幼儿园的玉米卷肠包、三色红枣发糕，留样铅含量分别是多少？这些数值是食品检测值还是孩子的血铅值？",
+  "attempt": 1,
+  "provider": "302.ai",
+  "model_requested": "doubao-seed-2-1-pro-260628",
+  "query_date": "2026-11-14",
+  "search_service": "metaso",
+  "prompt_version": "news-search-v1",
+  "prompt_sha256": "ea56fd5557d32615a9115f2368a0c4983ff1188f4935369e694d7d46f2493be1",
+  "requested_at": "2026-11-14T12:08:34.587136+08:00",
+  "raw_file": "raw/T0253_doubao_a001_9c47ba.json",
+  "transport": "sse",
+  "stream_file": "raw/T0253_doubao_a001_9c47ba.sse",
+  "status": "ok",
+  "model_returned": "doubao-seed-2-1-pro-260628",
+  "answer": "### 核心答案\n1.  涉事餐食留样铅含量：甘肃天水褐石培心幼儿园的餐食留样检测结果显示，玉米卷肠包的铅含量为1340毫克/千克，三色红枣发糕的铅含量为1052毫克/千克[1][2][3][4][5]。\n2.  数值属性：上述数值是针对幼儿园餐食留样开展的食品污染物检测值，并非入园幼儿的血铅检测值[2][3][4]。\n\n---\n\n### 补充说明\n- 对照我国《食品安全国家标准 食品中污染物限量》（GB 2762-2022），相关食品的铅限量指标为≤0.5毫克/千克，两份涉事餐食的铅含量远超标准限值，超标幅度达两千多倍，最高超标2680倍[2][3][4][5]。\n- 同批次其他样本的排查检测显示：除这两份问题餐食留样外，其余餐食留样、36批次现场食材、幼儿园饮用自来水水样、大锅和蒸箱中的残留水样本，铅含量均符合国家标准要求；仅在和面机、压面机留存的面粉残渣、地面面食残渣中检出了不同含量的铅[4]。\n- 事件中提及的233名血铅异常幼儿，是针对在园幼儿开展的人体血铅检测得出的结果，与前述食品铅含量检测属于检测对象、检测类别完全不同的两类结果[1][5]。",
+  "sources": [
+    {
+      "index": 1,
+      "url": "https://www.douyin.com/shipin/7527119750926108722",
+      "title": null,
+      "origin": "citations"
+    },
+    {
+      "index": 2,
+      "url": "https://mp.weixin.qq.com/s?__biz=MzIzMDcxNDgwMw==&mid=2247608404&idx=1&sn=cc90770156340395e62dfecf418261db&chksm=e9d12bbe2a1a3436040f752b5d10b0fec58563e5511ddff00f8630f6247ba7921f12bec06b8f&scene=27",
+      "title": null,
+      "origin": "citations"
+    },
+    {
+      "index": 3,
+      "url": "https://www.kankanews.com/detail/xMwLGKvXvQD",
+      "title": null,
+      "origin": "citations"
+    },
+    {
+      "index": 4,
+      "url": "https://news.china.com/socialgd/10000169/20250721/48636769.html",
+      "title": null,
+      "origin": "citations"
+    },
+    {
+      "index": 5,
+      "url": "https://mp.weixin.qq.com/s?__biz=MzAxMTgzODEyMQ==&mid=2247546076&idx=1&sn=0a848b4371ae2f8f94febbf75d2471c3&chksm=9a175ce0e29ca2dab5471959e3abbcfb1ec2467c5336b4a6f5d97a598b57958155df8b862da8&scene=27",
+      "title": null,
+      "origin": "citations"
+    }
+  ],
+  "usage": {
+    "completion_tokens": 1934,
+    "completion_tokens_details": {
+      "reasoning_tokens": 1600
+    },
+    "prompt_tokens": 1537,
+    "prompt_tokens_details": {
+      "cached_tokens": 0
+    },
+    "total_tokens": 3471
+  },
+  "finish_reason": "stop",
+  "note": [],
+  "request_id": "9583fccd-f825-42d6-a08a-38325a5b29c6",
+  "duration_seconds": 40.453
+}

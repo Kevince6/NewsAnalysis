@@ -1,0 +1,71 @@
+{
+  "task_id": "T0363",
+  "model": "qwen",
+  "news_id": "E030",
+  "question_index": 4,
+  "question_original": "【事实】2026年8月20日许家印被判了什么刑罚？这是刑事一审还是终审结果？",
+  "question": "2026年8月20日许家印被判了什么刑罚？这是刑事一审还是终审结果？",
+  "attempt": 1,
+  "provider": "302.ai",
+  "model_requested": "qwen3.8-max",
+  "query_date": "2026-11-14",
+  "search_service": "metaso",
+  "prompt_version": "news-search-v1",
+  "prompt_sha256": "ea56fd5557d32615a9115f2368a0c4983ff1188f4935369e694d7d46f2493be1",
+  "requested_at": "2026-11-14T12:35:21.292561+08:00",
+  "raw_file": "raw/T0363_qwen_a001_163324.json",
+  "transport": "sse",
+  "stream_file": "raw/T0363_qwen_a001_163324.sse",
+  "status": "ok",
+  "model_returned": "qwen3.8-max",
+  "answer": "2026年8月20日，许家印被判处**无期徒刑**，并被判处**剥夺政治权利终身**、**没收个人全部财产**[5]。相关报道将该次宣判表述为“**一审无期**”[2][3]，因此这应属于**刑事一审判决结果**，而不是终审结果[2][3]。\n\n补充说明：\n\n- **刑罚内容**：报道显示，深圳中院于2026年8月20日宣判，涉及八项罪名，数罪并罚，最终判处许家印无期徒刑，剥夺政治权利终身，并处没收个人全部财产[5]。\n- **程序性质**：检索到的资料明确使用“一审”表述，说明这是刑事一审宣判[2][3]。按照一般刑事诉讼程序，一审判决后通常仍存在上诉、抗诉等程序空间；目前检索到的资料未进一步说明是否上诉、是否已生效或是否进入二审[2][3]。\n- **案件背景**：许家印于2023年9月因涉嫌违法犯罪被依法采取强制措施，2026年4月就非法吸收公众存款、集资诈骗、违法发放贷款、违法运用资金、欺诈发行证券、违规披露重要信息、职务侵占、单位行贿等8项罪名当庭表示认罪悔罪[1]。",
+  "sources": [
+    {
+      "index": 1,
+      "url": "https://news.qq.com/rain/a/20260820A08Q9S00",
+      "title": null,
+      "origin": "citations"
+    },
+    {
+      "index": 2,
+      "url": "https://k.sina.cn/article_7879996919_1d5af35f7020026ghg.html",
+      "title": null,
+      "origin": "citations"
+    },
+    {
+      "index": 3,
+      "url": "https://new.qq.com/rain/a/20260825A07QIH00",
+      "title": null,
+      "origin": "citations"
+    },
+    {
+      "index": 4,
+      "url": "http://bjjbls.com/NewsDetail.aspx?ID=7543",
+      "title": null,
+      "origin": "citations"
+    },
+    {
+      "index": 5,
+      "url": "https://www.163.com/dy/article/L4QKIC110511D0QS.html",
+      "title": null,
+      "origin": "citations"
+    }
+  ],
+  "usage": {
+    "completion_tokens": 1257,
+    "completion_tokens_details": {
+      "reasoning_tokens": 970,
+      "text_tokens": 1257
+    },
+    "prompt_tokens": 1571,
+    "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "text_tokens": 1571
+    },
+    "total_tokens": 2828
+  },
+  "finish_reason": "stop",
+  "note": [],
+  "request_id": "063c076b-bb8a-40f0-8f61-b01701e233f2",
+  "duration_seconds": 31.109
+}

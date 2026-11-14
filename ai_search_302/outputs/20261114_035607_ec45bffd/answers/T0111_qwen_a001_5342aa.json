@@ -1,0 +1,59 @@
+{
+  "task_id": "T0111",
+  "model": "qwen",
+  "news_id": "E009",
+  "question_index": 3,
+  "question_original": "【事实】Wiz披露Moltbook暴露了多少API认证令牌、电子邮箱，还有哪些数据？平台多久修复了问题？",
+  "question": "Wiz披露Moltbook暴露了多少API认证令牌、电子邮箱，还有哪些数据？平台多久修复了问题？",
+  "attempt": 1,
+  "provider": "302.ai",
+  "model_requested": "qwen3.8-max",
+  "query_date": "2026-11-14",
+  "search_service": "metaso",
+  "prompt_version": "news-search-v1",
+  "prompt_sha256": "ea56fd5557d32615a9115f2368a0c4983ff1188f4935369e694d7d46f2493be1",
+  "requested_at": "2026-11-14T11:30:44.702092+08:00",
+  "raw_file": "raw/T0111_qwen_a001_5342aa.json",
+  "transport": "sse",
+  "stream_file": "raw/T0111_qwen_a001_5342aa.sse",
+  "status": "ok",
+  "model_returned": "qwen3.8-max",
+  "answer": "Wiz披露，Moltbook暴露了约 **150万个API认证/身份验证令牌**、约 **3.5万个（35000个）电子邮箱地址**，还包括 **智能体之间的私信/私人消息**[1][2][4]。问题源于一个 **配置错误的Supabase数据库**，外界可对平台数据进行 **完全读写访问**[2]。\n\n关于“平台多久修复了问题”，你提供的检索结果中 **没有说明修复时间或修复时间线**，因此目前无法确认[1][2][4]。\n\n补充背景：Wiz称该漏洞可通过“非侵入性安全审查”发现，相当于像普通用户一样浏览即可触达[2]；相关调查还提到平台缺乏身份验证与频率限制，存在大量账号被少数人批量控制的情况[1][4]。",
+  "sources": [
+    {
+      "index": 1,
+      "url": "https://news.qq.com/rain/a/20260306A0800D00",
+      "title": null,
+      "origin": "citations"
+    },
+    {
+      "index": 2,
+      "url": "https://news.sina.cn/ai/2026-02-10/detail-inhminum5537302.d.html",
+      "title": null,
+      "origin": "citations"
+    },
+    {
+      "index": 3,
+      "url": "https://finance.sina.cn/stock/jdts/2026-03-25/detail-inhseiyf9902729.d.html",
+      "title": null,
+      "origin": "citations"
+    }
+  ],
+  "usage": {
+    "completion_tokens": 1586,
+    "completion_tokens_details": {
+      "reasoning_tokens": 1404,
+      "text_tokens": 1586
+    },
+    "prompt_tokens": 1138,
+    "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "text_tokens": 1138
+    },
+    "total_tokens": 2724
+  },
+  "finish_reason": "stop",
+  "note": [],
+  "request_id": "76b05ab9-db36-4ae8-b3c4-8492fcdc5e1a",
+  "duration_seconds": 43.344
+}

@@ -1,0 +1,59 @@
+{
+  "task_id": "T0147",
+  "model": "qwen",
+  "news_id": "E012",
+  "question_index": 4,
+  "question_original": "【事实】TikTok美国合资公司中，字节跳动、Oracle、Silver Lake和MGX各持多少股权？CEO是谁？",
+  "question": "TikTok美国合资公司中，字节跳动、Oracle、Silver Lake和MGX各持多少股权？CEO是谁？",
+  "attempt": 1,
+  "provider": "302.ai",
+  "model_requested": "qwen3.8-max",
+  "query_date": "2026-11-14",
+  "search_service": "metaso",
+  "prompt_version": "news-search-v1",
+  "prompt_sha256": "ea56fd5557d32615a9115f2368a0c4983ff1188f4935369e694d7d46f2493be1",
+  "requested_at": "2026-11-14T11:40:51.543267+08:00",
+  "raw_file": "raw/T0147_qwen_a001_8dd0e8.json",
+  "transport": "sse",
+  "stream_file": "raw/T0147_qwen_a001_8dd0e8.sse",
+  "status": "ok",
+  "model_returned": "qwen3.8-max",
+  "answer": "TikTok 美国合资公司中，字节跳动保留约 **19.9%** 股权；Oracle、Silver Lake 和 MGX 各持约 **15%** 股权[2][3][5]。该美国合资公司的 CEO 是 **Adam Presser**[5]。\n\n补充来看，Oracle、Silver Lake 和 MGX 三家新投资者合计持股约 **45%**[3]。TikTok 全球 CEO 周受资继续担任全球 CEO，并保留该合资公司董事会席位，但美国合资公司本身的 CEO 是 Adam Presser[5]。",
+  "sources": [
+    {
+      "index": 1,
+      "url": "https://weibo.com/ttarticle/p/show?id=2309405258207370280981",
+      "title": null,
+      "origin": "citations"
+    },
+    {
+      "index": 2,
+      "url": "https://www.thepaper.cn/newsDetail_forward_32209543#%3A~%3Atext%3D%E8%AF%A5%E4%B8%BB%E4%BD%93%E7%94%B1%E5%AD%97%E8%8A%82%2C%E5%90%8E%E8%80%85%E6%94%B6%E5%8F%96%E6%8E%88%E6%9D%83%E8%B4%B9%E3%80%82",
+      "title": null,
+      "origin": "citations"
+    },
+    {
+      "index": 3,
+      "url": "https://svtr.ai/articles/bytedance",
+      "title": null,
+      "origin": "citations"
+    }
+  ],
+  "usage": {
+    "completion_tokens": 928,
+    "completion_tokens_details": {
+      "reasoning_tokens": 797,
+      "text_tokens": 928
+    },
+    "prompt_tokens": 1087,
+    "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "text_tokens": 1087
+    },
+    "total_tokens": 2015
+  },
+  "finish_reason": "stop",
+  "note": [],
+  "request_id": "e1f771cc-269e-42b7-ab0d-9cc8c8aae67c",
+  "duration_seconds": 21.359
+}

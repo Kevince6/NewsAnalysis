@@ -1,0 +1,63 @@
+{
+  "task_id": "T0223",
+  "model": "doubao",
+  "news_id": "E018",
+  "question_index": 4,
+  "question_original": "【事实】红山晚报是哪天发布“免费砍白菜”消息的？调查是否认定记者到现场核实过？",
+  "question": "红山晚报是哪天发布“免费砍白菜”消息的？调查是否认定记者到现场核实过？",
+  "attempt": 1,
+  "provider": "302.ai",
+  "model_requested": "doubao-seed-2-1-pro-260628",
+  "query_date": "2026-11-14",
+  "search_service": "metaso",
+  "prompt_version": "news-search-v1",
+  "prompt_sha256": "ea56fd5557d32615a9115f2368a0c4983ff1188f4935369e694d7d46f2493be1",
+  "requested_at": "2026-11-14T12:02:05.198102+08:00",
+  "raw_file": "raw/T0223_doubao_a001_72538e.json",
+  "transport": "sse",
+  "stream_file": "raw/T0223_doubao_a001_72538e.sse",
+  "status": "ok",
+  "model_returned": "doubao-seed-2-1-pro-260628",
+  "answer": "红山晚报于2025年11月5日上午10时通过官方账号发布“赤峰一地可免费砍白菜”的相关消息；根据已公开的事件经过及报社后续致歉信息，可明确认定采写该报道的记者并未到事发现场核实情况。\n#### 相关事实说明：\n1.  该报道发布前的新闻核验环节存在明显疏漏：2025年11月4日，涉事记者刷到相关网传内容后，仅通过联系相关人员了解情况，始终未前往白菜种植现场核实信息真实性，就制作发布了“免费砍白菜”的视频内容；该消息传播后误导大量群众前往涉事菜地采捡白菜，11月6日涉事菜地种植户经询问采捡群众得知信息来源于红山晚报发布的视频后，私信报社询问信息来源并要求答复，当时报社未予回应[1][4]。\n2.  事件曝光后红山晚报公开致歉：2025年11月17日，红山晚报通过其官方微信公众号发布致歉声明，表态将就这一失实报道深刻吸取教训，诚恳接受公众批评，进一步确认了该报道未按规范完成现场核实、内容失实的问题[5]。\n\n注：本次检索获取的信息中，网页3为上海东方报业有限公司的网站备案信息，与该事件无直接关联，未作为参考依据。",
+  "sources": [
+    {
+      "index": 1,
+      "url": "https://news.qq.com/rain/a/20251117A06P2E00",
+      "title": null,
+      "origin": "citations"
+    },
+    {
+      "index": 2,
+      "url": "https://www.thepaper.cn/newsDetail_forward_31985258",
+      "title": null,
+      "origin": "citations"
+    },
+    {
+      "index": 3,
+      "url": "https://www.163.com/dy/article/KF47NILC055616XV.html",
+      "title": null,
+      "origin": "citations"
+    },
+    {
+      "index": 4,
+      "url": "https://m.thepaper.cn/newsDetail_forward_31985258",
+      "title": null,
+      "origin": "citations"
+    }
+  ],
+  "usage": {
+    "completion_tokens": 2817,
+    "completion_tokens_details": {
+      "reasoning_tokens": 2511
+    },
+    "prompt_tokens": 1206,
+    "prompt_tokens_details": {
+      "cached_tokens": 0
+    },
+    "total_tokens": 4023
+  },
+  "finish_reason": "stop",
+  "note": [],
+  "request_id": "4e8a93cf-b0e2-4766-ac99-8d4c6639ad0a",
+  "duration_seconds": 60.937
+}

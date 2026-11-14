@@ -1,0 +1,65 @@
+{
+  "task_id": "T0174",
+  "model": "qwen",
+  "news_id": "E014",
+  "question_index": 4,
+  "question_original": "【事实】尹锡悦内乱案一审判了什么？2026年11月5日公布的二审宣判时间是什么时候？",
+  "question": "尹锡悦内乱案一审判了什么？2026年11月5日公布的二审宣判时间是什么时候？",
+  "attempt": 1,
+  "provider": "302.ai",
+  "model_requested": "qwen3.8-max",
+  "query_date": "2026-11-14",
+  "search_service": "metaso",
+  "prompt_version": "news-search-v1",
+  "prompt_sha256": "ea56fd5557d32615a9115f2368a0c4983ff1188f4935369e694d7d46f2493be1",
+  "requested_at": "2026-11-14T11:48:19.832526+08:00",
+  "raw_file": "raw/T0174_qwen_a001_adc38b.json",
+  "transport": "sse",
+  "stream_file": "raw/T0174_qwen_a001_adc38b.sse",
+  "status": "ok",
+  "model_returned": "qwen3.8-max",
+  "answer": "根据目前提供的检索结果，**无法确认“尹锡悦内乱案”本体的一审判决结果**，也**没有查到“2026年11月5日公布的二审宣判时间”的具体信息**。\n\n可确认的相关事实是：\n\n- 检索资料中提到，尹锡悦在**妨碍执行特殊公务等罪名**的一审中被判处**有期徒刑5年**；该报道称之为尹锡悦涉嫌内乱相关案件中的“首场宣判”[4]。  \n- 资料还提到，尹锡悦涉及8起刑事诉讼，其中最受关注的是其**涉嫌带头发动内乱案**；特别检察组曾向法院**求处死刑**，并称该案一审将于**2月19日**宣判[4]。  \n- 但现有搜索结果**没有载明该“内乱案”一审最终判了什么**，也**未提供2026年11月5日公布的二审宣判时间**[4]。\n\n因此，若严格依据本次检索资料：  \n**“内乱案一审结果”与“二审宣判时间”均未获确认；只能确认相关的妨碍公务案一审判处5年有期徒刑，以及内乱案曾被安排于2月19日一审宣判、检方曾求死刑。**[4]",
+  "sources": [
+    {
+      "index": 1,
+      "url": "https://www.chinanews.com.cn/gj/2026/01-16/10553091.shtml",
+      "title": null,
+      "origin": "citations"
+    },
+    {
+      "index": 2,
+      "url": "https://www.guancha.cn/internation/2026_02_19_807518.shtml",
+      "title": null,
+      "origin": "citations"
+    },
+    {
+      "index": 3,
+      "url": "https://finance.sina.cn/2026-01-19/detail-inhhwavp7797608.d.html",
+      "title": null,
+      "origin": "citations"
+    },
+    {
+      "index": 4,
+      "url": "https://www.thepaper.cn/newsDetail_forward_32630828",
+      "title": null,
+      "origin": "citations"
+    }
+  ],
+  "usage": {
+    "completion_tokens": 2414,
+    "completion_tokens_details": {
+      "reasoning_tokens": 2142,
+      "text_tokens": 2414
+    },
+    "prompt_tokens": 1859,
+    "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "text_tokens": 1859
+    },
+    "total_tokens": 4273
+  },
+  "finish_reason": "stop",
+  "note": [],
+  "request_id": "a213e482-d750-46c9-bcf1-bd36ce37e37c",
+  "duration_seconds": 57.047
+}

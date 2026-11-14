@@ -1,0 +1,51 @@
+{
+  "request": {
+    "model": "deepseek-flash",
+    "messages": [
+      {
+        "role": "system",
+        "content": "请联网检索后，用自然中文回答用户的问题。\n先直接回答，再补充理解答案所需的事实、背景或说明；复杂问题可分点，简单问题可简答。\n优先参考与问题直接相关的原始发布、机构公告、当事人回应及可信媒体报道。\n依据检索到的资料作答。资料不足、存在分歧或尚未确认的内容，请明确说明；解释和判断应与已确认的事实区分。\n在相关事实后标注检索来源，沿用检索结果提供的引用编号或标记。\n\n查询日期：2026-11-14（北京时间，UTC+8）。问题中的“现在”“近期”“最新”以此日期为参照；问题明确指定时间范围时，以问题为准。"
+      },
+      {
+        "role": "user",
+        "content": "伊朗说打中了巴林的美军雷达，美军却说拦下了无人机，这些说法都来自哪里？哪个说法是准确的？"
+      }
+    ],
+    "web-search": true,
+    "search-service": "metaso",
+    "search-results": 5,
+    "stream": true,
+    "stream_options": {
+      "include_usage": true
+    }
+  },
+  "response": {
+    "object": "chat.completion",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "\n\n<tool_call>\nweb_search\n{\"query\": \"伊朗 巴林 美军雷达 无人机 拦截\", \"date_range\": \"2026-11-01 to 2026-11-14\"}\n</tool_call>",
+          "reasoning_content": "用户问的是伊朗说打中了巴林的美军雷达，美军说拦下了无人机，这两个说法的来源是什么，哪个准确。我需要联网检索。查询日期2026-11-14。这似乎是2026年的事件？我需要搜索。\n\n让我搜索相关信息。"
+        },
+        "finish_reason": "stop"
+      }
+    ],
+    "id": "chatcmpl-b8539203-be33-45cd-b8d9-acbe752b6236",
+    "model": "deepseek-flash",
+    "created": 1794626266,
+    "usage": {
+      "prompt_tokens": 200,
+      "completion_tokens": 105,
+      "total_tokens": 305,
+      "prompt_tokens_details": {
+        "cached_tokens": 0
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 55
+      }
+    },
+    "_transport": "sse"
+  }
+}

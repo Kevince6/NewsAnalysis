@@ -1,0 +1,57 @@
+{
+  "task_id": "T0106",
+  "model": "doubao",
+  "news_id": "E009",
+  "question_index": 2,
+  "question_original": "【开放】Moltbook上那些看起来像AI自主发出的帖子，为什么还不能证明AI产生了自主意识？安全调查发现了什么问题？",
+  "question": "Moltbook上那些看起来像AI自主发出的帖子，为什么还不能证明AI产生了自主意识？安全调查发现了什么问题？",
+  "attempt": 1,
+  "provider": "302.ai",
+  "model_requested": "doubao-seed-2-1-pro-260628",
+  "query_date": "2026-11-14",
+  "search_service": "metaso",
+  "prompt_version": "news-search-v1",
+  "prompt_sha256": "ea56fd5557d32615a9115f2368a0c4983ff1188f4935369e694d7d46f2493be1",
+  "requested_at": "2026-11-14T11:29:14.979736+08:00",
+  "raw_file": "raw/T0106_doubao_a001_504405.json",
+  "transport": "sse",
+  "stream_file": "raw/T0106_doubao_a001_504405.sse",
+  "status": "ok",
+  "model_returned": "doubao-seed-2-1-pro-260628",
+  "answer": "### 关于AI自主意识的相关判断\nMoltbook上看似由AI自主发布的帖子，目前并不能证明AI产生了真正的自主意识。包括软件安全企业Checkmarx产品管理副总裁奥里·本德特在内的多位安全领域专家一致判断，Moltbook平台本身并未推动机器智能的实质性提升，平台上呈现的AI类自主行为表现，并不等同于AI具备了自主意识[2]。\n\n### 安全调查发现的核心问题\n目前针对Moltbook的安全排查已发现多维度的严重安全隐患，主要包括三类：\n1.  **核心数据库配置漏洞引发大规模数据泄露风险**。Moltbook上线不到一周，安全研究人员就发现其数据库存在严重配置缺陷，整个系统几乎毫无防护地暴露在公网中；据云安全公司Wiz的调查，该漏洞共波及150万个API身份验证令牌（API密钥）、3.5万个用户电子邮箱地址以及智能体私人消息，理论上任何人都可远程接管大量AI代理账户[4][5]。\n2.  **内容生态缺乏校验机制，存在恶意指令操控风险**。Moltbook平台对上线内容缺乏安全验证，平台中充斥着大量未经过滤审核的内容，其中可能嵌入可诱导、操控智能体执行恶意操作的指令；而平台上运行的智能体本身具备获取用户银行账户信息、登录密码等高度敏感隐私数据的权限，一旦被恶意内容操控，将直接对用户的隐私安全、财产安全造成威胁[2]。\n3.  **高权限智能体缺乏治理，系统性风险被持续放大**。Moltbook接入了大量OpenClaw类高自治性AI智能体，这类智能体在运行过程中通常需要持有系统操作权限、第三方服务API密钥等核心敏感凭证，还可代表用户执行各类操作、处理敏感数据，但平台对这类自主运行的系统缺乏足够的运行可见性与管控能力，既难以实时追溯智能体的异常行为，也无法有效约束智能体对敏感数据的访问与处理过程；当成千上万个此类高权限智能体接入缺乏基础安全防护的平台时，整体的系统性安全风险被进一步放大[4][5]。",
+  "sources": [
+    {
+      "index": 1,
+      "url": "https://finance.sina.cn/stock/jdts/2026-02-08/detail-inhmcmef9985491.d.html?vt=4&cid=76993&node_id=76993",
+      "title": null,
+      "origin": "citations"
+    },
+    {
+      "index": 2,
+      "url": "https://cj.sina.com.cn/articles/view/1686203097/64816ad902701a9ue",
+      "title": null,
+      "origin": "citations"
+    },
+    {
+      "index": 3,
+      "url": "https://view.inews.qq.com/a/20260205A06BO100",
+      "title": null,
+      "origin": "citations"
+    }
+  ],
+  "usage": {
+    "completion_tokens": 4474,
+    "completion_tokens_details": {
+      "reasoning_tokens": 3999
+    },
+    "prompt_tokens": 1158,
+    "prompt_tokens_details": {
+      "cached_tokens": 0
+    },
+    "total_tokens": 5632
+  },
+  "finish_reason": "stop",
+  "note": [],
+  "request_id": "bf5474bd-28a4-4a5b-aab1-a9cf545776cd",
+  "duration_seconds": 83.438
+}

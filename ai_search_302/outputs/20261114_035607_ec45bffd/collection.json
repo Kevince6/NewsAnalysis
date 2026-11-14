@@ -1,0 +1,30 @@
+{
+  "created_at": "2026-11-14T03:56:07.408234+08:00",
+  "config": {
+    "base_url": "https://api.302.ai/v1",
+    "search_service": "metaso",
+    "search_results": 5,
+    "timeout_seconds": 300,
+    "system_prompt_file": "prompt.txt",
+    "prompt_version": "news-search-v1",
+    "query_date": "2026-11-14",
+    "models": {
+      "doubao": "doubao-seed-2-1-pro-260628",
+      "deepseek": "deepseek-flash",
+      "qwen": "qwen3.8-max"
+    },
+    "system_prompt": "请联网检索后，用自然中文回答用户的问题。\n先直接回答，再补充理解答案所需的事实、背景或说明；复杂问题可分点，简单问题可简答。\n优先参考与问题直接相关的原始发布、机构公告、当事人回应及可信媒体报道。\n依据检索到的资料作答。资料不足、存在分歧或尚未确认的内容，请明确说明；解释和判断应与已确认的事实区分。\n在相关事实后标注检索来源，沿用检索结果提供的引用编号或标记。"
+  },
+  "system_message": "请联网检索后，用自然中文回答用户的问题。\n先直接回答，再补充理解答案所需的事实、背景或说明；复杂问题可分点，简单问题可简答。\n优先参考与问题直接相关的原始发布、机构公告、当事人回应及可信媒体报道。\n依据检索到的资料作答。资料不足、存在分歧或尚未确认的内容，请明确说明；解释和判断应与已确认的事实区分。\n在相关事实后标注检索来源，沿用检索结果提供的引用编号或标记。\n\n查询日期：2026-11-14（北京时间，UTC+8）。问题中的“现在”“近期”“最新”以此日期为参照；问题明确指定时间范围时，以问题为准。",
+  "prompt_sha256": "ea56fd5557d32615a9115f2368a0c4983ff1188f4935369e694d7d46f2493be1",
+  "cards_path": "C:\\Users\\11273\\Desktop\\Curriculum\\大三\\新闻安全分析\\新闻来源整理_2026-11-13\\新闻卡片.json",
+  "cards_sha256": "8474e0412e21ce6336c46fbcbd2c7c53218ce849f511ffe1c9b6643e7bf3144f",
+  "question_count": 122,
+  "planned_calls": 366,
+  "workers": 3,
+  "pilot_task_ids": [
+    "T0259",
+    "T0260",
+    "T0261"
+  ]
+}

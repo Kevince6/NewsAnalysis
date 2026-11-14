@@ -1,0 +1,63 @@
+{
+  "task_id": "T0044",
+  "model": "deepseek",
+  "news_id": "E004",
+  "question_index": 3,
+  "question_original": "【事实】法国内政部公布的2026年11月7日示威人数是多少？全国和巴黎各有多少人？",
+  "question": "法国内政部公布的2026年11月7日示威人数是多少？全国和巴黎各有多少人？",
+  "attempt": 1,
+  "provider": "302.ai",
+  "model_requested": "deepseek-flash",
+  "query_date": "2026-11-14",
+  "search_service": "metaso",
+  "prompt_version": "news-search-v1",
+  "prompt_sha256": "ea56fd5557d32615a9115f2368a0c4983ff1188f4935369e694d7d46f2493be1",
+  "requested_at": "2026-11-14T04:21:17.411107+08:00",
+  "raw_file": "raw/T0044_deepseek_a001_c64cfc.json",
+  "transport": "sse",
+  "stream_file": "raw/T0044_deepseek_a001_c64cfc.sse",
+  "status": "ok",
+  "model_returned": "deepseek-flash",
+  "answer": "按检索到的法国内政部统计，**2026年11月7日法国全国示威人数为55万人，其中巴黎11万人**[4]。\n\n补充两点：  \n- 法国总工会当天给出的全国人数为**80万人**，高于内政部口径[4]。  \n- 检索片段没有在数字旁直接标注“2026年11月7日”，但报道背景是法国政府推进**2027年财政预算案**，与所问时间相符；另有网页提到“全国32万、巴黎20万”并称11月5日将举行全国抗议，那不是同一组数据，不能用于回答11月7日[3]。",
+  "sources": [
+    {
+      "index": 1,
+      "url": "http://www.mofcom.gov.cn/article/ztxx/xmlh/xmb/201306/20130600175759.shtml",
+      "title": null,
+      "origin": "citations"
+    },
+    {
+      "index": 2,
+      "url": "https://news.qq.com/rain/a/20261101A027UH00",
+      "title": null,
+      "origin": "citations"
+    },
+    {
+      "index": 3,
+      "url": "https://military.china.com/news/13004177/20261019/49801382.html",
+      "title": null,
+      "origin": "citations"
+    },
+    {
+      "index": 4,
+      "url": "http://www.cnr.cn/newscenter/gjxw/gnews/20190127/t20190127_524494979.shtml",
+      "title": null,
+      "origin": "citations"
+    }
+  ],
+  "usage": {
+    "completion_tokens": 1758,
+    "completion_tokens_details": {
+      "reasoning_tokens": 1618
+    },
+    "prompt_tokens": 1187,
+    "prompt_tokens_details": {
+      "cached_tokens": 0
+    },
+    "total_tokens": 2945
+  },
+  "finish_reason": "stop",
+  "note": [],
+  "request_id": "155f7082-e9e2-4e6d-9303-542e022f456e",
+  "duration_seconds": 10.623
+}

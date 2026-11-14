@@ -1,0 +1,69 @@
+{
+  "task_id": "T0182",
+  "model": "deepseek",
+  "news_id": "E015",
+  "question_index": 2,
+  "question_original": "【开放】2025年11月的拨款案，是不是代表整个财年的预算都解决了？临时拨款部分覆盖什么范围？",
+  "question": "2025年11月的拨款案，是不是代表整个财年的预算都解决了？临时拨款部分覆盖什么范围？",
+  "attempt": 1,
+  "provider": "302.ai",
+  "model_requested": "deepseek-flash",
+  "query_date": "2026-11-14",
+  "search_service": "metaso",
+  "prompt_version": "news-search-v1",
+  "prompt_sha256": "ea56fd5557d32615a9115f2368a0c4983ff1188f4935369e694d7d46f2493be1",
+  "requested_at": "2026-11-14T11:50:24.102276+08:00",
+  "raw_file": "raw/T0182_deepseek_a001_5c6b9c.json",
+  "transport": "sse",
+  "stream_file": "raw/T0182_deepseek_a001_5c6b9c.sse",
+  "status": "ok",
+  "model_returned": "deepseek-flash",
+  "answer": "## 直接回答\n\n**不能。** 但需要先说明：你给出的搜索结果中，**没有任何一篇涉及“2025年11月的拨款案”、联邦或地方“整个财年预算”或“临时拨款/持续决议”**。这些检索结果都是中国地方政府的年度预算公开文本，例如某单位2025年财政拨款支出预算26,256,332元[citation:1]、某地临时救助县级补助经费181万元[citation:2]、某地临时救助预算220万元[citation:3]等，与“11月拨款案是否解决全年预算”不是同一类事项。\n\n因此，**我无法依据这些资料确认你所指拨款案的具体内容、金额和覆盖范围**。以下只能给出一般性的制度解释，供你判断，**不属于检索到的已确认事实**。\n\n## 一般性理解（非检索资料，需以法案文本核实）\n\n1. **“临时拨款”通常不等于全年预算完成。** 在常见的预算制度中，临时拨款（如美国的 continuing resolution，持续决议）的作用是：在正式年度拨款法案尚未全部通过时，按既定水平或修改后的水平，为部分机构、项目提供一段有限时间的资金，避免政府停摆。它通常设定一个**新的截止日期**，到期后仍需再通过临时拨款或正式拨款法案。\n\n2. **覆盖范围通常是“部分”而非“全部”。** 临时拨款往往只覆盖：\n   - 已经到期或即将到期的拨款账户；\n   - 法案明确列出的机构、项目和活动；\n   - 特定时间段（例如数周或数月）；\n   - 可能附带例外、优先事项或资金调整。\n   未被列入或未获授权的项目，仍可能面临资金中断。\n\n3. **“整个财年预算解决”的标志**，通常是相应财年的**正式拨款法案全部签署生效**，或者通过综合拨款法案/全年持续拨款法案，而不是仅靠短期临时拨款。\n\n## 需要你补充的信息\n\n为了准确回答，请明确：\n- 你指的是**哪个国家、哪一级政府**的拨款案（如美国联邦政府、某州政府，或中国某地财政）？\n- 该“拨款案”的**正式名称或编号**、通过日期和有效期截止日；\n- 你关心的“临时拨款部分”是**按机构、按项目，还是按支出类别**划分。\n\n如果你能提供法案名称或链接，我可以据此逐项核对它是否覆盖全年、覆盖哪些部门和项目。",
+  "sources": [
+    {
+      "index": 1,
+      "url": "http://www.tjhb.gov.cn/zwgk/zfxxgk/zfxxgkqjjg/qfzhggwyh/fdzdgknr4/czyjs4/czys112227/2025n/202501/t20250126_6847263.html",
+      "title": null,
+      "origin": "citations"
+    },
+    {
+      "index": 2,
+      "url": "https://www.rudong.gov.cn/rdxmzj/zdgz/content/4b88c24c-5f97-4bfb-9de7-0237538e770a.html",
+      "title": null,
+      "origin": "citations"
+    },
+    {
+      "index": 3,
+      "url": "http://www.scnx.gov.cn/zwgk/zdxxgk/czyjs/qjbmyjsgk/mzj/202501/t20250122_2089413.html",
+      "title": null,
+      "origin": "citations"
+    },
+    {
+      "index": 4,
+      "url": "https://www.gyct.gov.cn/gongkai/show/20250306095422236.html",
+      "title": null,
+      "origin": "citations"
+    },
+    {
+      "index": 5,
+      "url": "https://www.scnjdx.gov.cn/dxq/xljdyssm/202502/77e8a361dbde4e3581d4074a7171039f.shtml",
+      "title": null,
+      "origin": "citations"
+    }
+  ],
+  "usage": {
+    "completion_tokens": 946,
+    "completion_tokens_details": {
+      "reasoning_tokens": 421
+    },
+    "prompt_tokens": 1582,
+    "prompt_tokens_details": {
+      "cached_tokens": 0
+    },
+    "total_tokens": 2528
+  },
+  "finish_reason": "stop",
+  "note": [],
+  "request_id": "ac5b0bd1-6d30-41cf-90c1-e96796fce6d0",
+  "duration_seconds": 8.766
+}

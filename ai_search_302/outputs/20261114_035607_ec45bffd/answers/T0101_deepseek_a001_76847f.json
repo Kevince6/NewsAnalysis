@@ -1,0 +1,51 @@
+{
+  "task_id": "T0101",
+  "model": "deepseek",
+  "news_id": "E008",
+  "question_index": 4,
+  "question_original": "【事实】中国外交部2026年1月4日如何回应马杜罗夫妇被带走，提出了什么要求？",
+  "question": "中国外交部2026年1月4日如何回应马杜罗夫妇被带走，提出了什么要求？",
+  "attempt": 1,
+  "provider": "302.ai",
+  "model_requested": "deepseek-flash",
+  "query_date": "2026-11-14",
+  "search_service": "metaso",
+  "prompt_version": "news-search-v1",
+  "prompt_sha256": "ea56fd5557d32615a9115f2368a0c4983ff1188f4935369e694d7d46f2493be1",
+  "requested_at": "2026-11-14T11:28:23.556310+08:00",
+  "raw_file": "raw/T0101_deepseek_a001_76847f.json",
+  "transport": "sse",
+  "stream_file": "raw/T0101_deepseek_a001_76847f.sse",
+  "status": "ok",
+  "model_returned": "deepseek-flash",
+  "answer": "根据检索到的外交部答记者问和记者会实录，中方就马杜罗夫妇被美方带走一事提出的核心要求是：**呼吁美方确保马杜罗总统夫妇人身安全，立即释放马杜罗总统和夫人**。外交部发言人林剑在回应中表示，中方已就美国强行控制委内瑞拉总统马杜罗夫妇表明了立场[citation:1][citation:4]。\n\n补充说明：\n\n- 上述“确保人身安全、立即释放”的表述，出现在记者会提问所引述的外交部答记者问中；林剑本人的现场回答较为简短，主要是重申中方已表明立场[citation:1][citation:4]。\n- 同一场记者会上，记者还追问中美是否就此事进行或将要进行沟通，林剑没有直接确认沟通安排，仅重复“中方已就美国强行控制委内瑞拉总统马杜罗夫妇表明了立场”[citation:1][citation:4]。\n- 需要说明的是，检索材料没有标注该答记者问和记者会的具体发布日期，因此无法仅凭现有资料核实是否就是**2026年1月4日**；记者会实录中记者提到的是“外交部昨天发布答记者问”[citation:1][citation:4]。如需确认日期和完整答问原文，建议查阅中国外交部官网当日发布的答记者问及记者会实录。",
+  "sources": [
+    {
+      "index": 1,
+      "url": "https://montreal.china-consulate.gov.cn/wjbfy/202601/t20260105_11806730.htm",
+      "title": null,
+      "origin": "citations"
+    },
+    {
+      "index": 2,
+      "url": "https://new.qq.com/rain/a/20260106A02OTI00",
+      "title": null,
+      "origin": "citations"
+    }
+  ],
+  "usage": {
+    "completion_tokens": 814,
+    "completion_tokens_details": {
+      "reasoning_tokens": 526
+    },
+    "prompt_tokens": 897,
+    "prompt_tokens_details": {
+      "cached_tokens": 0
+    },
+    "total_tokens": 1711
+  },
+  "finish_reason": "stop",
+  "note": [],
+  "request_id": "80322011-d7f1-4689-9f1d-0c2f807abd65",
+  "duration_seconds": 7.625
+}

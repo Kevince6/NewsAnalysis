@@ -15,6 +15,7 @@ from urllib.error import HTTPError, URLError
 from urllib.parse import urlsplit
 from urllib.request import Request, build_opener, HTTPRedirectHandler
 from uuid import uuid4
+sys.dont_write_bytecode = True
 from credentials_302 import load_api_key
 
 
@@ -79,7 +80,10 @@ def decode_body(body):
         return text
 
 
-def api_request(base_url, path, key, timeout, payload=None):
+def api_request(base_url, path, key, timeout, payload=None, *, stream_path=None):
+    if payload and payload.get("stream"):
+        from stream_302 import request_stream
+        return request_stream(base_url, path, key, timeout, payload, stream_path)
     body = None if payload is None else json.dumps(payload, ensure_ascii=False).encode("utf-8")
     request = Request(
         base_url.rstrip("/") + path,
@@ -437,6 +441,9 @@ if __name__ == "__main__":
     try:
         sys.exit(main())
     except (ValueError, KeyError, TypeError, OSError) as error:
-        secret = os.environ.get("AI302_API_KEY", "").strip()
+        try:
+            secret = load_api_key()
+        except Exception:
+            secret = ""
         print(f"错误：{redact(str(error), secret)}", file=sys.stderr)
         sys.exit(2)

@@ -1,0 +1,57 @@
+{
+  "task_id": "T0188",
+  "model": "deepseek",
+  "news_id": "E015",
+  "question_index": 4,
+  "question_original": "【事实】2025年11月通过的H.R.5371中，临时拨款部分给相关机构供资到什么时候？",
+  "question": "2025年11月通过的H.R.5371中，临时拨款部分给相关机构供资到什么时候？",
+  "attempt": 1,
+  "provider": "302.ai",
+  "model_requested": "deepseek-flash",
+  "query_date": "2026-11-14",
+  "search_service": "metaso",
+  "prompt_version": "news-search-v1",
+  "prompt_sha256": "ea56fd5557d32615a9115f2368a0c4983ff1188f4935369e694d7d46f2493be1",
+  "requested_at": "2026-11-14T11:52:12.079283+08:00",
+  "raw_file": "raw/T0188_deepseek_a001_b393bc.json",
+  "transport": "sse",
+  "stream_file": "raw/T0188_deepseek_a001_b393bc.sse",
+  "status": "ok",
+  "model_returned": "deepseek-flash",
+  "answer": "H.R.5371 中的临时拨款（continuing resolution）部分，为相关联邦机构供资至 **2026年1月30日**。该法案在2025年11月结束政府停摆，同时为部分机构提供全年拨款，其余机构则按现有水平延续至上述日期。\n\n需要说明：你提供的搜索结果中没有 H.R.5371 的法案文本或相关报道，只有一些地方资金分配表格，因此无法按检索来源标注引用编号；上述日期需以美国国会文本或白宫签署公告为准。",
+  "sources": [
+    {
+      "index": 1,
+      "url": "https://www.ahhuoshan.gov.cn/public/6597401/37647816.html",
+      "title": null,
+      "origin": "citations"
+    },
+    {
+      "index": 2,
+      "url": "https://www.szyq.gov.cn/public/6623417/161868131.html",
+      "title": null,
+      "origin": "citations"
+    },
+    {
+      "index": 3,
+      "url": "http://www.wuyuan.gov.cn/ylfw/48869.html",
+      "title": null,
+      "origin": "citations"
+    }
+  ],
+  "usage": {
+    "completion_tokens": 731,
+    "completion_tokens_details": {
+      "reasoning_tokens": 614
+    },
+    "prompt_tokens": 1259,
+    "prompt_tokens_details": {
+      "cached_tokens": 0
+    },
+    "total_tokens": 1990
+  },
+  "finish_reason": "stop",
+  "note": [],
+  "request_id": "e107764a-0e35-4f48-9392-2130e67ab417",
+  "duration_seconds": 7.188
+}

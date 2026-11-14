@@ -1,0 +1,45 @@
+{
+  "task_id": "T0179",
+  "model": "deepseek",
+  "news_id": "E015",
+  "question_index": 1,
+  "question_original": "【开放】2025年美国政府停摆期间，那份拨款案是怎么从参议院受阻到最终签署成法的？",
+  "question": "2025年美国政府停摆期间，那份拨款案是怎么从参议院受阻到最终签署成法的？",
+  "attempt": 1,
+  "provider": "302.ai",
+  "model_requested": "deepseek-flash",
+  "query_date": "2026-11-14",
+  "search_service": "metaso",
+  "prompt_version": "news-search-v1",
+  "prompt_sha256": "ea56fd5557d32615a9115f2368a0c4983ff1188f4935369e694d7d46f2493be1",
+  "requested_at": "2026-11-14T11:49:23.125391+08:00",
+  "raw_file": "raw/T0179_deepseek_a001_3adfca.json",
+  "transport": "sse",
+  "stream_file": "raw/T0179_deepseek_a001_3adfca.sse",
+  "status": "ok",
+  "model_returned": "deepseek-flash",
+  "answer": "## 直接回答\n\n根据我检索到的资料，只能确认这份拨款案在参议院**由受阻转为通过**的中间环节，无法完整还原“从受阻到最终签署成法”的全链条。检索结果只覆盖到参议院表决通过为止，没有提供此前在参议院受阻的具体过程，也没有提供众议院表决和总统签署的信息。\n\n## 检索材料确认的事实\n\n**1. 参议院达成一致（2025年11月9日）**\n美国媒体报道，参议院已就结束联邦政府“停摆”达成一致，将为政府提供资金直至**2026年1月30日**[webpage 2]。\n\n**2. 参议院通过临时拨款法案（2025年11月10日）**\n当地时间11月10日，参议院投票通过了《持续拨款与延期法案》（Continuing Appropriations and Extensions Act），为结束政府停摆迈出关键一步[webpage 2]。当晚的表决结果为**60票赞成**通过联邦政府临时拨款法案[webpage 2]。\n\n## 需要说明的缺口\n\n- **“受阻”环节**：检索材料没有说明法案此前在参议院遭遇的具体阻力，包括哪些议员反对、争议焦点是医保补贴、边境经费还是拨款期限等。因此无法据现有材料还原“受阻”的具体情形。\n- **众议院环节**：检索材料未提及众议院是否及何时表决通过该法案。\n- **总统签署**：检索材料未提及法案送交总统及签署成法的时间与方式。\n\n## 可供参考的线索\n\n60票赞成这一数字值得注意：美国参议院对多数法案的实质性推进通常需要**60票**才能终结“冗长辩论”（filibuster）。如果法案此前在参议院受阻，很可能与未能凑足60票有关；11月10日的60票表决，正是跨过这一门槛的关键一步[webpage 2]。不过，这一解释属于基于美国立法程序的推断，检索材料本身并未说明受阻原因。\n\n## 结论\n\n就现有检索资料而言，可以确认的是：2025年11月9日参议院就结束停摆达成一致，11月10日晚以60票赞成通过临时拨款法案，资金覆盖至2026年1月30日[webpage 2]。至于“受阻”的具体经过以及众议院通过、总统签署成法这两步，检索结果未提供，建议查阅国会记录（Congress.gov）或白宫签署声明以补全完整立法链条。",
+  "sources": [
+    {
+      "index": 1,
+      "url": "http://baike.baidu.com/item/2025%E5%B9%B4%E7%BE%8E%E5%9B%BD%E6%94%BF%E5%BA%9C%E5%81%9C%E6%91%86/66815545?noadapt=1",
+      "title": null,
+      "origin": "citations"
+    }
+  ],
+  "usage": {
+    "completion_tokens": 1056,
+    "completion_tokens_details": {
+      "reasoning_tokens": 535
+    },
+    "prompt_tokens": 738,
+    "prompt_tokens_details": {
+      "cached_tokens": 0
+    },
+    "total_tokens": 1794
+  },
+  "finish_reason": "stop",
+  "note": [],
+  "request_id": "480af878-9513-4dd0-8706-8250d05f5e1a",
+  "duration_seconds": 8.734
+}

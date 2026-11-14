@@ -1,0 +1,53 @@
+{
+  "task_id": "T0075",
+  "model": "qwen",
+  "news_id": "E006",
+  "question_index": 3,
+  "question_original": "【事实】美伊在2026年6月哪天宣布达成停战谅解备忘录？当时计划哪天正式签署？",
+  "question": "美伊在2026年6月哪天宣布达成停战谅解备忘录？当时计划哪天正式签署？",
+  "attempt": 1,
+  "provider": "302.ai",
+  "model_requested": "qwen3.8-max",
+  "query_date": "2026-11-14",
+  "search_service": "metaso",
+  "prompt_version": "news-search-v1",
+  "prompt_sha256": "ea56fd5557d32615a9115f2368a0c4983ff1188f4935369e694d7d46f2493be1",
+  "requested_at": "2026-11-14T11:19:21.678460+08:00",
+  "raw_file": "raw/T0075_qwen_a001_c66980.json",
+  "transport": "sse",
+  "stream_file": "raw/T0075_qwen_a001_c66980.sse",
+  "status": "ok",
+  "model_returned": "qwen3.8-max",
+  "answer": "美伊是在 **2026年6月14日** 宣布达成停战谅解备忘录的[1]。当时伊朗方面表示，备忘录文本已最终确定，并计划于 **2026年6月19日** 在瑞士举行正式签署仪式[1]。\n\n后续报道也确认，双方最终于 **6月19日在瑞士日内瓦正式签署**该停战谅解备忘录[3]。",
+  "sources": [
+    {
+      "index": 1,
+      "url": "https://baike.baidu.com/item/%E7%BE%8E%E4%BC%8A%E5%81%9C%E6%88%98%E8%B0%85%E8%A7%A3%E5%A4%87%E5%BF%98%E5%BD%95/67641986?fromModule=lemma_inlink",
+      "title": null,
+      "origin": "citations"
+    },
+    {
+      "index": 2,
+      "url": "https://baike.baidu.com/item/%E4%B8%AD%E4%B8%9C%E6%88%98%E4%BA%89/68040387",
+      "title": null,
+      "origin": "citations"
+    }
+  ],
+  "usage": {
+    "completion_tokens": 278,
+    "completion_tokens_details": {
+      "reasoning_tokens": 180,
+      "text_tokens": 278
+    },
+    "prompt_tokens": 934,
+    "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "text_tokens": 934
+    },
+    "total_tokens": 1212
+  },
+  "finish_reason": "stop",
+  "note": [],
+  "request_id": "1668766d-5da1-42c0-8554-c52c2454e182",
+  "duration_seconds": 10.234
+}

@@ -1,0 +1,63 @@
+{
+  "task_id": "T0157",
+  "model": "doubao",
+  "news_id": "E013",
+  "question_index": 4,
+  "question_original": "【事实】孩子2024年出生、之前一直没申请育儿补贴，2026年还能补申请吗？最晚什么时候提交？",
+  "question": "孩子2024年出生、之前一直没申请育儿补贴，2026年还能补申请吗？最晚什么时候提交？",
+  "attempt": 1,
+  "provider": "302.ai",
+  "model_requested": "doubao-seed-2-1-pro-260628",
+  "query_date": "2026-11-14",
+  "search_service": "metaso",
+  "prompt_version": "news-search-v1",
+  "prompt_sha256": "ea56fd5557d32615a9115f2368a0c4983ff1188f4935369e694d7d46f2493be1",
+  "requested_at": "2026-11-14T11:43:27.428077+08:00",
+  "raw_file": "raw/T0157_doubao_a001_ab5d2c.json",
+  "transport": "sse",
+  "stream_file": "raw/T0157_doubao_a001_ab5d2c.sse",
+  "status": "ok",
+  "model_returned": "doubao-seed-2-1-pro-260628",
+  "answer": "2024年出生、此前未申请过育儿补贴的婴幼儿，2026年仍可提交申请；按照最新的申领时限要求，你需要在2026年12月31日前完成首次申请及第一次续领申请的提交，剩余的第二次续领申请最晚可在2027年12月31日前提交[1][5]。\n\n### 相关规则与注意事项\n1. 基本申领要求\n2024年出生的婴幼儿属于育儿补贴覆盖范围，全程累计可申请3次育儿补贴[1][3][4][5]。首次申请需要按要求提交对应材料；如果申请时婴幼儿的户籍地、监护人等信息较2025年发生了变动，需要提交申请当下的最新信息和材料，避免影响审核进度[1][5]。完成首次申请后，后续续领时如果相关信息没有变化，无需重复提交材料，仅需在线完成确认，或到子女户籍所在地的乡镇（街道）线下确认申请信息即可；若信息有变动，需要按要求补充提交新材料[3]。\n\n2. 时限规则说明\n不同阶段发布的申领时限要求存在一定差异：\n- 2026年发布的最新申领提醒、官方办事问答明确了当前的办理时限，建议优先参照执行：2024年出生婴幼儿的首次申请、第一次续领申请的最终提交节点为2026年12月31日，第二次续领申请可延后至2027年12月31日前提交[1][5]。\n- 2025年发布的申领规则曾提出，2024年出生的婴幼儿3次补贴申请应分别在2025年、2026年、2027年提出，未在对应年度内提交申请的，视为自动放弃当年的申请资格，无法享受当年的育儿补贴[3][4]；2025年年底的办事提醒也曾明确，2025年1月1日之前出生的婴幼儿，首次申请需要在2025年12月31日前提出[4]。\n\n3. 办理提示\n当前日期为2026年11月14日，距离2026年12月31日的申请节点已不足2个月，建议尽快梳理准备材料并提交申请，避免因信息核验、材料补正等问题耽误审核进度。关于2025年未提交申请对应的年度补贴是否可在2026年申请时一并补发，目前公开信息未作明确说明，可在提交申请时向受理窗口咨询确认。",
+  "sources": [
+    {
+      "index": 1,
+      "url": "https://benxi.gov.cn/xw/bmdt/content_668222",
+      "title": null,
+      "origin": "citations"
+    },
+    {
+      "index": 2,
+      "url": "https://mp.weixin.qq.com/s?__biz=MzA3MTA4MjM3MA==&mid=2455863259&idx=5&sn=6c30cd9e51f50c00c8fcf2ff25a3bb94&chksm=8920a9d0c065411eda3bb4a8a08fc0e298f5ab3288a9d23b3b1a8a922474ef67fbe0be536882&scene=27",
+      "title": null,
+      "origin": "citations"
+    },
+    {
+      "index": 3,
+      "url": "http://cangzhou.bendibao.com/live/20141224/19199.shtm",
+      "title": null,
+      "origin": "citations"
+    },
+    {
+      "index": 4,
+      "url": "https://www.sohu.com/a/1054004887_121124318",
+      "title": null,
+      "origin": "citations"
+    }
+  ],
+  "usage": {
+    "completion_tokens": 8829,
+    "completion_tokens_details": {
+      "reasoning_tokens": 8252
+    },
+    "prompt_tokens": 1598,
+    "prompt_tokens_details": {
+      "cached_tokens": 0
+    },
+    "total_tokens": 10427
+  },
+  "finish_reason": "stop",
+  "note": [],
+  "request_id": "72ff4c63-ecd5-49c6-b65a-1935d79e5ca1",
+  "duration_seconds": 163.031
+}

@@ -1,0 +1,28 @@
+{
+  "task_id": "T0058",
+  "model": "doubao",
+  "news_id": "E005",
+  "question_index": 3,
+  "question_original": "【事实】美国中期选举两大阵营在参众两院各有多少席，还有多少席没定？",
+  "question": "美国中期选举两大阵营在参众两院各有多少席，还有多少席没定？",
+  "attempt": 1,
+  "provider": "302.ai",
+  "model_requested": "doubao-seed-2-1-pro-260628",
+  "query_date": "2026-11-14",
+  "search_service": "metaso",
+  "prompt_version": "news-search-v1",
+  "prompt_sha256": "ea56fd5557d32615a9115f2368a0c4983ff1188f4935369e694d7d46f2493be1",
+  "requested_at": "2026-11-14T04:25:50.180377+08:00",
+  "raw_file": "raw/T0058_doubao_a001_e27388.json",
+  "transport": "sse",
+  "stream_file": "raw/T0058_doubao_a001_e27388.sse",
+  "status": "error",
+  "answer": null,
+  "sources": [],
+  "note": [
+    "流式连接中断：流式响应超过本次请求的总时间限制"
+  ],
+  "http_status": null,
+  "request_id": "0118748e-94fc-4f2a-8150-73a2a022f9df",
+  "duration_seconds": 2108.92
+}

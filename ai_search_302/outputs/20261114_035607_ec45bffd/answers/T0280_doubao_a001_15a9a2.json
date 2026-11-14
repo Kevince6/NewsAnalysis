@@ -1,0 +1,51 @@
+{
+  "task_id": "T0280",
+  "model": "doubao",
+  "news_id": "E024",
+  "question_index": 1,
+  "question_original": "【开放】演员王星在泰缅边境失联后，是怎么被找到、接回泰国并回到中国的？",
+  "question": "演员王星在泰缅边境失联后，是怎么被找到、接回泰国并回到中国的？",
+  "attempt": 1,
+  "provider": "302.ai",
+  "model_requested": "doubao-seed-2-1-pro-260628",
+  "query_date": "2026-11-14",
+  "search_service": "metaso",
+  "prompt_version": "news-search-v1",
+  "prompt_sha256": "ea56fd5557d32615a9115f2368a0c4983ff1188f4935369e694d7d46f2493be1",
+  "requested_at": "2026-11-14T12:13:33.494709+08:00",
+  "raw_file": "raw/T0280_doubao_a001_15a9a2.json",
+  "transport": "sse",
+  "stream_file": "raw/T0280_doubao_a001_15a9a2.sse",
+  "status": "ok",
+  "model_returned": "doubao-seed-2-1-pro-260628",
+  "answer": "演员王星在泰缅边境失联后的寻回、返回过程可按时间线梳理如下：\n1. **失联与前期排查定位**\n王星为中国籍演员，于1月3日入境泰国后在泰缅边境失联[5]。失联后相关各方开展排查：泰国警方前期排查确认，王星已被诱骗至缅甸境内的诈骗园区，其当时状态暂时安全，后续将被移送回泰国；泰国总理也公开证实，在泰缅边境的湄索地区发现了王星（相关报道中以昵称“星星”指代）的踪迹，发现他时已被剃光头[2]。据遭遇同类骗局的演员徐大久披露，施害团伙以“赴泰国试戏”为幌子诱骗演艺人员前往边境，他是第一批受骗人员，王星是第二批被骗至边境的人员[2]。处置过程中，王星家属曾抵达曼谷，计划前往中国使领馆求助以推进营救；后续泰方、泰媒先后通报，已找到身处缅甸的王星，确认其安全无恙[2]。\n2. **被正式寻获并接回泰国**\n1月7日，泰国警方成功将王星寻获，并将他接回泰国境内；经泰国警方调查，正式确认王星为人口贩运案件的受害者[2][5]，泰方也公开通报了王星获救的消息，相关现场视频随之曝光[2]。\n3. **顺利返回中国**\n在中泰双方的共同努力下，据中国驻泰国大使馆1月10日通过新华社发布的官方通报，王星已于当地时间1月10日晚离泰返回中国[5]。\n\n需要说明的是，目前公开可查的通报仅披露了上述关键时间节点的进展，暂未公布从缅甸境内将王星寻获的具体营救执行细节。",
+  "sources": [
+    {
+      "index": 1,
+      "url": "https://www.bilibili.com/video/BV1qvrDYjEBJ/",
+      "title": null,
+      "origin": "citations"
+    },
+    {
+      "index": 2,
+      "url": "https://news.qq.com/rain/a/20250110A0AD0A00",
+      "title": null,
+      "origin": "citations"
+    }
+  ],
+  "usage": {
+    "completion_tokens": 3524,
+    "completion_tokens_details": {
+      "reasoning_tokens": 3133
+    },
+    "prompt_tokens": 1031,
+    "prompt_tokens_details": {
+      "cached_tokens": 0
+    },
+    "total_tokens": 4555
+  },
+  "finish_reason": "stop",
+  "note": [],
+  "request_id": "ad9ed6f6-5050-4dda-854e-45f6ffe9c4d5",
+  "duration_seconds": 72.531
+}

@@ -1,0 +1,57 @@
+{
+  "task_id": "T0098",
+  "model": "deepseek",
+  "news_id": "E008",
+  "question_index": 3,
+  "question_original": "【事实】马杜罗和妻子什么时候天、在哪个城市被美方抓捕？",
+  "question": "马杜罗和妻子什么时候天、在哪个城市被美方抓捕？",
+  "attempt": 1,
+  "provider": "302.ai",
+  "model_requested": "deepseek-flash",
+  "query_date": "2026-11-14",
+  "search_service": "metaso",
+  "prompt_version": "news-search-v1",
+  "prompt_sha256": "ea56fd5557d32615a9115f2368a0c4983ff1188f4935369e694d7d46f2493be1",
+  "requested_at": "2026-11-14T11:27:47.238576+08:00",
+  "raw_file": "raw/T0098_deepseek_a001_cca972.json",
+  "transport": "sse",
+  "stream_file": "raw/T0098_deepseek_a001_cca972.sse",
+  "status": "ok",
+  "model_returned": "deepseek-flash",
+  "answer": "据检索到的资料，马杜罗及其妻子西莉亚·弗洛雷斯是在**2026年1月3日凌晨**、于委内瑞拉首都**加拉加斯**被美方抓捕的。相关说法称，美军发动“绝对决心行动”，特种部队袭击加拉加斯军事基地后将其抓获[2]。\n\n需要说明：上述时间、地点来自搜索结果中的叙述，属于重大国际事件，建议再以美国官方公告、委内瑞拉方面回应及权威媒体最新报道交叉核实。",
+  "sources": [
+    {
+      "index": 1,
+      "url": "https://www.163.com/dy/article/KLRIGP610553TEW9.html",
+      "title": null,
+      "origin": "citations"
+    },
+    {
+      "index": 2,
+      "url": "https://www.163.com/dy/article/KIJGUKRA0556BOFT.html",
+      "title": null,
+      "origin": "citations"
+    },
+    {
+      "index": 3,
+      "url": "https://www.bbc.com/zhongwen/articles/c3r1q5xj19no/trad",
+      "title": null,
+      "origin": "citations"
+    }
+  ],
+  "usage": {
+    "completion_tokens": 438,
+    "completion_tokens_details": {
+      "reasoning_tokens": 328
+    },
+    "prompt_tokens": 1051,
+    "prompt_tokens_details": {
+      "cached_tokens": 0
+    },
+    "total_tokens": 1489
+  },
+  "finish_reason": "stop",
+  "note": [],
+  "request_id": "e1b93cb8-1613-4bd4-a5c5-8be32314b81a",
+  "duration_seconds": 7.125
+}

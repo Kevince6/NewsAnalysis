@@ -1,0 +1,45 @@
+{
+  "task_id": "T0073",
+  "model": "doubao",
+  "news_id": "E006",
+  "question_index": 3,
+  "question_original": "【事实】美伊在2026年6月哪天宣布达成停战谅解备忘录？当时计划哪天正式签署？",
+  "question": "美伊在2026年6月哪天宣布达成停战谅解备忘录？当时计划哪天正式签署？",
+  "attempt": 1,
+  "provider": "302.ai",
+  "model_requested": "doubao-seed-2-1-pro-260628",
+  "query_date": "2026-11-14",
+  "search_service": "metaso",
+  "prompt_version": "news-search-v1",
+  "prompt_sha256": "ea56fd5557d32615a9115f2368a0c4983ff1188f4935369e694d7d46f2493be1",
+  "requested_at": "2026-11-14T11:18:25.780848+08:00",
+  "raw_file": "raw/T0073_doubao_a001_f53f58.json",
+  "transport": "sse",
+  "stream_file": "raw/T0073_doubao_a001_f53f58.sse",
+  "status": "ok",
+  "model_returned": "doubao-seed-2-1-pro-260628",
+  "answer": "美伊于2026年6月15日宣布达成停战谅解备忘录，当时双方计划在宣布消息的当周周五正式签署停战协议，现有公开检索片段未明确记载该计划签署日对应的具体公历日期。\n### 相关事实背景\n该消息由新华社援引伊朗媒体报道发布：2026年6月15日凌晨，伊朗最高国家安全委员会发表声明，正式确认伊美停战谅解备忘录达成，相关报道同时提到美伊已确认将于消息发布当周的周五签署停战协议；报道搭配了声明发布前一日（2026年6月14日）在伊朗德黑兰拍摄的现场素材，内容为当地民众驾车经过恩盖拉布广场印有伊朗国旗的广告牌的场景[4]。",
+  "sources": [
+    {
+      "index": 1,
+      "url": "https://m.thepaper.cn/detail/33380502",
+      "title": null,
+      "origin": "citations"
+    }
+  ],
+  "usage": {
+    "completion_tokens": 4905,
+    "completion_tokens_details": {
+      "reasoning_tokens": 4740
+    },
+    "prompt_tokens": 877,
+    "prompt_tokens_details": {
+      "cached_tokens": 0
+    },
+    "total_tokens": 5782
+  },
+  "finish_reason": "stop",
+  "note": [],
+  "request_id": "aa476bf2-0f78-4212-ae4f-373459f83ea9",
+  "duration_seconds": 96.516
+}

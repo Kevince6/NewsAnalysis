@@ -1,0 +1,65 @@
+{
+  "task_id": "T0333",
+  "model": "qwen",
+  "news_id": "E028",
+  "question_index": 2,
+  "question_original": "【开放】宏福苑火灾报告已经公开，为什么还有内容被遮盖？完整版本要等到什么时候才能公布？",
+  "question": "宏福苑火灾报告已经公开，为什么还有内容被遮盖？完整版本要等到什么时候才能公布？",
+  "attempt": 1,
+  "provider": "302.ai",
+  "model_requested": "qwen3.8-max",
+  "query_date": "2026-11-14",
+  "search_service": "metaso",
+  "prompt_version": "news-search-v1",
+  "prompt_sha256": "ea56fd5557d32615a9115f2368a0c4983ff1188f4935369e694d7d46f2493be1",
+  "requested_at": "2026-11-14T12:27:48.956365+08:00",
+  "raw_file": "raw/T0333_qwen_a001_a3101d.json",
+  "transport": "sse",
+  "stream_file": "raw/T0333_qwen_a001_a3101d.sse",
+  "status": "ok",
+  "model_returned": "qwen3.8-max",
+  "answer": "就目前可检索到的资料看，**公开版本中出现遮盖内容，最可确认的原因与“司法程序资料不公开”的限制有关**；至于“完整版本”何时能公布，现有资料并未给出明确日期。\n\n1. **为什么还有内容被遮盖？**  \n   独立委员会曾说明，其发表的报告和建议会**全面公开**，但“**涉及司法程序的资料除外**”[2]。因此，如果公开版报告中有部分文字被遮盖或删节，最直接可解释的原因是这些内容被认为可能牵涉正在处理或可能进入司法程序的事项[2]。  \n   不过，**具体哪些内容被遮盖、遮盖理由是否全部属于司法程序限制**，现有搜索结果没有进一步说明，无法确认[2]。\n\n2. **完整版本什么时候公布？**  \n   委员会在正式展开工作时表示，目标是在**9个月内完成工作**，并向行政长官提交报告[2]。委员会于**2025年12月19日**正式展开工作[2]，按此推算，原定工作目标大约落在**2026年9月中旬前后**。  \n   但现有资料并未确认最终完整报告是否已经提交、是否已经全文公开，也没有说明“未删节完整版”的具体公布时间[2]。\n\n3. **目前公开的是否就是最终完整报告？**  \n   资料显示，2026年7月17日，独立委员会举行最后一场听证会，并公布了长达**627页**的书面文件[4]。但该文件是否等同于最终、完整、无遮盖的报告，搜索结果没有明确说明[4]。  \n   因此，只能确认有一份627页书面文件已经公布；**不能确认它是否已是全部可公开内容的最终版本**[4]。\n\n4. **简单说：**  \n   遮盖内容很可能与“涉及司法程序的资料除外”这一公开限制有关[2]；但完整版何时能全部公开，目前资料不足，没有明确时间表，需要以独立委员会或特区政府的后续公告为准[2][4]。",
+  "sources": [
+    {
+      "index": 1,
+      "url": "https://github.com/horsehcj/Hong-Kong-Fire-Documentary",
+      "title": null,
+      "origin": "citations"
+    },
+    {
+      "index": 2,
+      "url": "https://baike.baidu.com/item/%E5%AE%8F%E7%A6%8F%E8%8B%91/67030959#%3A~%3Atext%3D%E5%AE%8F%E7%A6%8F%E8%8B%91%E7%9A%848%2C%E9%A2%87%E6%9C%89%E4%B8%AD%E5%9B%BD%E4%BC%A0%E7%BB%9F%E7%89%B9%E8%89%B2%E3%80%82",
+      "title": null,
+      "origin": "citations"
+    },
+    {
+      "index": 3,
+      "url": "https://www.chinanews.com.cn/dwq/2025/11-27/10522278.shtml",
+      "title": null,
+      "origin": "citations"
+    },
+    {
+      "index": 4,
+      "url": "https://www.thepaper.cn/newsDetail_forward_33657665",
+      "title": null,
+      "origin": "citations"
+    }
+  ],
+  "usage": {
+    "completion_tokens": 3099,
+    "completion_tokens_details": {
+      "reasoning_tokens": 2659,
+      "text_tokens": 3099
+    },
+    "prompt_tokens": 1457,
+    "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "text_tokens": 1457
+    },
+    "total_tokens": 4556
+  },
+  "finish_reason": "stop",
+  "note": [],
+  "request_id": "21b13cc4-ed97-44bc-bd81-63a78de016fa",
+  "duration_seconds": 79.531
+}

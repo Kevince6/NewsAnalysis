@@ -1,94 +1,41 @@
-302.AI 三模型新闻搜索
+﻿302新闻搜索采集
 
-Python 3.10及以上即可，无需安装第三方库。
-配置文件：config.json；脚本：search_302.py。
-API Key从AI302_API_KEY环境变量或本目录.env文件读取，不写入结果文件。
-公共提示词：prompt.txt；组织说明：提示词与提问组织.txt。
-prompt_version为news-search-v1；每次请求发送公共提示词和当前一个问题。
-三家共用相同的消息文本，开放题/事实题采用同一提示词。
+采集：122个审核问题 × 豆包、DeepSeek、Qwen，共366份回答。
+配置：config.json；公共提示词：prompt.txt；密钥：.env或AI302_API_KEY环境变量。
 
-1. 注入Key（PowerShell，当前终端有效）
+查看进度：
+  python -B .\ai_search_302\monitor_302.py --watch
+  Ctrl+C只退出监控，后台采集继续。
 
-   $env:AI302_API_KEY = "填入你的302 API Key"
+停止新增请求：
+  python -B .\ai_search_302\monitor_302.py --stop
+  已在进行的请求会先保存。
 
-2. 先检查账号中的模型ID，不调用问答
+断点续跑：
+  python -B .\ai_search_302\collect_302.py run "本轮采集目录" --retry-failed
+  已完成回答跳过；接口失败另存重试结果，原记录保留。
 
-   python .\ai_search_302\search_302.py --list-models
+创建新一轮任务：
+  python -B .\ai_search_302\collect_302.py prepare --cards ".\新闻来源整理_2026-11-13\新闻卡片.json"
+  使用上面的续跑命令启动返回的目录。
 
-   脚本默认配置：
-   豆包：doubao-seed-2-1-pro-260628
-   DeepSeek：deepseek-flash（按账号实际模型列表修正）
-   Qwen：qwen3.8-max
+保留的脚本：
+  monitor_302.py      唯一的进度监控入口
+  collect_302.py      批量采集与断点续跑
+  watchdog_302.py     独立守护，进程意外退出后续跑
+  search_302.py       API、问题读取与结果处理的公共模块
+  stream_302.py       流式响应读取
+  credentials_302.py  本地密钥读取
 
-   如果某个ID不在账号模型列表中，按命令列出的实际ID修改config.json。
-   脚本不会静默改用其他模型。模型ID存在，也不代表搜索权限已实测通过。
+outputs/本轮目录：
+  answers/           回答、平台来源、用量等JSON
+  raw/               原始请求、响应及流式记录
+  collection.json    本轮冻结的模型、提示词和查询日期
+  tasks.json         任务清单
+  events.jsonl       采集进度与心跳
+  supervisor.jsonl   守护运行记录
 
-3. 三个模型各回答同一个问题，共3次问答
-
-   python .\ai_search_302\search_302.py --prompt "2026年美国中期选举有哪些已经确认的结果？"
-
-   只调用一家：
-   python .\ai_search_302\search_302.py --models doubao --prompt "你的新闻问题"
-
-   不发送请求，仅预览：
-   python .\ai_search_302\search_302.py --prompt "你的新闻问题" --dry-run
-
-   时间基准默认取本次运行开始时的北京时间日期；每次运行内保持一致。
-   固定时间基准：
-   python .\ai_search_302\search_302.py --prompt "你的新闻问题" --query-date 2026-11-14
-
-   也可以把config.json中的query_date从run_date改为具体日期。
-   查询日期是相对时间参照，不保证搜索接口排除之后发布的网页。
-   现有新闻卡核查截至2026-11-14，采集更晚的进展时需补核资料。
-
-4. 从现有新闻卡中读取审核过的问题（可选）
-
-   python .\ai_search_302\search_302.py --cards ".\新闻来源整理_2026-11-13\新闻卡片.json" --limit 1
-
-   --limit是问题总数，默认1；1个问题×3个模型，共3次问答。
-   --news-ids 后可以填写新闻卡的id，用来选择某几条新闻。
-   全部122个问题：将--limit设为122，共366次问答。
-   脚本只发送问题，去掉【开放】/【事实】标签；事实、摘要和标准来源均不发送。
-   现有新闻卡只读，不会被写回。
-
-5. 结果
-
-   每次运行新建outputs/时间_随机编号目录，保留以前结果。
-   每份回答保存为一个JSON文件，核心字段：
-   question、model_requested、model_returned、answer、sources、usage、status、note。
-   另存请求时间、耗时、请求ID，以及新闻卡问题编号（使用新闻卡时）。
-   保存查询日期、提示词版本及实际system消息的SHA-256摘要，便于比较采集条件。
-   run.json保存本次实际system消息，raw/保存每次实际发送的完整消息。
-   raw/中保存请求正文与完整接口响应，不保存Authorization请求头。
-
-   answer保留自然语言原文，不要求模型输出JSON，不发送response_format参数。
-   sources只读取平台返回的citations或url_citation元数据。
-   citations来源的index保留原始编号与顺序，重复URL也保留。
-   annotations来源没有数字引用编号时，index为null，保留文本位置。
-   不抓取正文URL来补充sources，也不将来源元数据视为事实已经核验。
-
-   status=ok：有回答及平台来源，且未发现下述结构问题；不代表回答正确。
-   status=needs_review：缺少回答/来源、被截断、拒答或仍有待执行工具调用。
-   status=error：接口或网络失败。
-   缺少来源只说明未取得可追溯链接，不据此断言模型没有搜索。
-   失败时保留结果，不自动重试、降级或切换模型。
-   退出码0表示运行通过，1表示有待检查或接口错误，2表示输入/配置错误。
-
-默认使用秘塔搜索，返回5条检索结果，参数是302官方文档中的：
-web-search=true、search-service=metaso、search-results=5。
-可用--search-service切换search1api、tavily、exa、bochaai、metaso。
-搜索结果条数是请求设置，实际返回来源数量可能不同。
-这是302集成搜索条件下的模型比较，搜索服务也应记入实验设置。
-
-批量采集、监控、停止与断点续跑：见本目录“采集监控说明.txt”。
-直接查看当前进度：python .\ai_search_302\monitor_302.py --watch
-
-文档核对日期：2026-11-14。尚未使用真实Key验证三模型的搜索调用。
-模型以302账号模型列表为准，联网及来源返回以实际试跑结果为准。
-
-官方资料：
-豆包：https://302.ai/product/detail/doubao-seed-2-1-pro-260628
-DeepSeek：https://302.ai/product/detail/deepseek-v4.1-flash
-Qwen：https://302.ai/product/detail/qwen3.8-max
-联网搜索及citations示例：https://doc.302.ai/260112819e0
-账号模型列表接口：https://doc.302.ai/147522038e0
+每题独立请求，三家使用同一提示词；核查事实和标准来源不发给模型。
+相对时间以本轮运行日的北京时间为准；自然回答由脚本保存为JSON。
+“有正文与来源”只说明结构完整，事实仍需人工核查。
+监控检查运行锁与心跳；超过60秒无活动显示停滞，进程退出显示中断。

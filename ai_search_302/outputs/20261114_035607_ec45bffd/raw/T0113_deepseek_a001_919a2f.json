@@ -1,0 +1,56 @@
+{
+  "request": {
+    "model": "deepseek-flash",
+    "messages": [
+      {
+        "role": "system",
+        "content": "请联网检索后，用自然中文回答用户的问题。\n先直接回答，再补充理解答案所需的事实、背景或说明；复杂问题可分点，简单问题可简答。\n优先参考与问题直接相关的原始发布、机构公告、当事人回应及可信媒体报道。\n依据检索到的资料作答。资料不足、存在分歧或尚未确认的内容，请明确说明；解释和判断应与已确认的事实区分。\n在相关事实后标注检索来源，沿用检索结果提供的引用编号或标记。\n\n查询日期：2026-11-14（北京时间，UTC+8）。问题中的“现在”“近期”“最新”以此日期为参照；问题明确指定时间范围时，以问题为准。"
+      },
+      {
+        "role": "user",
+        "content": "2026年3月，Meta收购的是Moltbook还是OpenClaw？"
+      }
+    ],
+    "web-search": true,
+    "search-service": "metaso",
+    "search-results": 5,
+    "stream": true,
+    "stream_options": {
+      "include_usage": true
+    }
+  },
+  "response": {
+    "object": "chat.completion",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "Meta 收购的是 **Moltbook**（专为 OpenClaw 打造的社交网络），而不是 **OpenClaw** 本身。\n\n- Moltbook 被 Meta 正式收购，交易完成后并入 Meta 超级智能实验室（MSL），其创始人 Matt Schlicht 与 Ben Parr 也加入该实验室[1]。\n- Moltbook 的定位是“专为 OpenClaw 打造的机器人社交网络”，属于围绕 OpenClaw 生态的应用和社区，并非驱动 OpenClaw 的核心技术[4]。\n- OpenClaw 是一个开源项目，其创始人彼得·斯坦伯格（Peter Steinberger）被 OpenAI 招揽，因此核心人物和技术路线归于 OpenAI，而 Meta 收购的是外围生态[4]。\n\n简而言之：Meta 收购的是 **Moltbook**，即 OpenClaw 专属社交网络；OpenClaw 本身没有被 Meta 收购。",
+          "reasoning_content": "用户问：2026年3月，Meta收购的是Moltbook还是OpenClaw？\n\n根据搜索结果，Meta收购的是Moltbook，OpenClaw专属社交网络。OpenAI招募了OpenClaw创始人Peter Steinberger。\n\n我需要联网检索吗？提示说\"请联网检索后\"，但搜索结果已提供。我可以基于这些回答，也可以尝试补充检索。但作为工具使用，我没有实际检索能力在这轮？实际上这个任务中我可以直接使用提供的搜索结果。不过系统提示说\"请联网检索后\"——但工具调用未提供。我就基于给的结果回答，引用编号。\n\n回答：Meta收购的是Moltbook，不是OpenClaw。Moltbook是专为OpenClaw打造的社交网络/机器人社交网络[1][4]。交易后并入Meta超级智能实验室，创始人Matt Schlicht与Ben Parr加入[1]。OpenClaw是开源项目，其创始人Peter Steinberger被OpenAI招揽[4]。所以Meta收购的是生态应用/社区，而非OpenClaw本身或核心人物[4]。\n\n需要注意日期：今天是2026-11-14，问题是2026年3月。回答简洁。要标注引用在句子末尾。"
+        },
+        "finish_reason": "stop"
+      }
+    ],
+    "id": "chatcmpl-5971d42d-7ca8-455f-8d85-2a0a7a3f1249",
+    "model": "deepseek-flash",
+    "created": 1794627117,
+    "citations": [
+      "https://news.qq.com/rain/a/20260311A03VV000",
+      "https://ishare.ifeng.com/c/s/v002tKkOjrHeEoaYZzLCOtmZaGKWkkS6ax3EIZkp2LbCT-_I__",
+      "https://cj.sina.com.cn/articles/view/5953189932/162d6782c06703xfo2"
+    ],
+    "usage": {
+      "completion_tokens": 438,
+      "completion_tokens_details": {
+        "reasoning_tokens": 247
+      },
+      "prompt_tokens": 1052,
+      "prompt_tokens_details": {
+        "cached_tokens": 0
+      },
+      "total_tokens": 1490
+    },
+    "_transport": "sse"
+  }
+}

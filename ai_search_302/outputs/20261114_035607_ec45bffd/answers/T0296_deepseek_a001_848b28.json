@@ -1,0 +1,63 @@
+{
+  "task_id": "T0296",
+  "model": "deepseek",
+  "news_id": "E025",
+  "question_index": 2,
+  "question_original": "【事实】Manus宣布加入Meta时，说订阅服务会不会继续，运营地在哪里？",
+  "question": "Manus宣布加入Meta时，说订阅服务会不会继续，运营地在哪里？",
+  "attempt": 1,
+  "provider": "302.ai",
+  "model_requested": "deepseek-flash",
+  "query_date": "2026-11-14",
+  "search_service": "metaso",
+  "prompt_version": "news-search-v1",
+  "prompt_sha256": "ea56fd5557d32615a9115f2368a0c4983ff1188f4935369e694d7d46f2493be1",
+  "requested_at": "2026-11-14T12:17:16.490366+08:00",
+  "raw_file": "raw/T0296_deepseek_a001_848b28.json",
+  "transport": "sse",
+  "stream_file": "raw/T0296_deepseek_a001_848b28.sse",
+  "status": "ok",
+  "model_returned": "deepseek-flash",
+  "answer": "Manus在宣布加入Meta时明确表示：**订阅服务会继续，运营地仍在新加坡**。\n\n**1. 订阅服务继续提供**\nManus将继续通过App和网站为用户提供产品和订阅服务[citation:4][citation:1]。其官网和App的订阅方案起价为每月20欧元[citation:3]。\n\n**2. 运营地点维持新加坡**\n公司将继续在新加坡运营[citation:1][citation:4]。据相关报道，Manus团队约105人，分布在新加坡、东京和旧金山，并计划在巴黎开设办公室[citation:3]。\n\n**3. 其他相关表态**\n- Manus CEO肖弘表示，携手Meta能够“在不改变Manus运作方式和决策机制的前提下”，让公司建立在更强大、更可持续的基础上发展[citation:1][citation:4]。\n- Meta方面则表示，Manus将继续独立运营，其Agent能力会逐步整合进Facebook、Instagram、WhatsApp和Meta AI等消费级与企业级产品中[citation:3]。\n\n需要说明的是，搜索结果中该公告的日期显示为“12月30日”，但未明确标注年份；结合当前查询日期（2026年11月14日）判断，应为2025年12月30日。",
+  "sources": [
+    {
+      "index": 1,
+      "url": "https://www.donews.com/news/detail/4/6340583.html",
+      "title": null,
+      "origin": "citations"
+    },
+    {
+      "index": 2,
+      "url": "https://marketing4ecommerce.net/en/meta-purchase-manus/",
+      "title": null,
+      "origin": "citations"
+    },
+    {
+      "index": 3,
+      "url": "https://t.cj.sina.com.cn/articles/view/1826017320/6cd6d02804001ir1k",
+      "title": null,
+      "origin": "citations"
+    },
+    {
+      "index": 4,
+      "url": "https://baike.baidu.com/item/Manus/65463546#%3A~%3Atext%3DManus_%E7%99%BE%E5%BA%A6%E7%99%BE%E7%A7%91%26text%3DManus%EF%BC%8C%E6%98%AF%E7%94%B1%E4%B8%AD%E5%9B%BD%E5%88%9B%E4%B8%9A%2C%E8%AF%B8%E5%AE%9E%E8%B7%B5%EF%BC%8C%E7%9C%9F%E6%AD%A3%E8%A7%A3%E5%86%B3%E9%97%AE%E9%A2%98%E3%80%82",
+      "title": null,
+      "origin": "citations"
+    }
+  ],
+  "usage": {
+    "completion_tokens": 789,
+    "completion_tokens_details": {
+      "reasoning_tokens": 526
+    },
+    "prompt_tokens": 1300,
+    "prompt_tokens_details": {
+      "cached_tokens": 0
+    },
+    "total_tokens": 2089
+  },
+  "finish_reason": "stop",
+  "note": [],
+  "request_id": "1a59e892-c6bb-4cca-bdd3-5cb37e14f7b5",
+  "duration_seconds": 7.485
+}

@@ -1,0 +1,192 @@
+data: {"choices":[{"delta":{"reasoning_content":"用户","role":"assistant"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://baike.baidu.com/item/%E7%BE%8E%E4%BC%8A%E5%81%9C%E6%88%98%E8%B0%85%E8%A7%A3%E5%A4%87%E5%BF%98%E5%BD%95/67641986?fromModule=lemma_inlink"],"created":1794626359,"id":"chatcmpl-eaa2cf51-5416-4466-89d9-8fa931307c61","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"问："},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://baike.baidu.com/item/%E7%BE%8E%E4%BC%8A%E5%81%9C%E6%88%98%E8%B0%85%E8%A7%A3%E5%A4%87%E5%BF%98%E5%BD%95/67641986?fromModule=lemma_inlink"],"created":1794626359,"id":"chatcmpl-eaa2cf51-5416-4466-89d9-8fa931307c61","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"美伊在2026年"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://baike.baidu.com/item/%E7%BE%8E%E4%BC%8A%E5%81%9C%E6%88%98%E8%B0%85%E8%A7%A3%E5%A4%87%E5%BF%98%E5%BD%95/67641986?fromModule=lemma_inlink"],"created":1794626359,"id":"chatcmpl-eaa2cf51-5416-4466-89d9-8fa931307c61","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"6月哪天宣布达成停"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://baike.baidu.com/item/%E7%BE%8E%E4%BC%8A%E5%81%9C%E6%88%98%E8%B0%85%E8%A7%A3%E5%A4%87%E5%BF%98%E5%BD%95/67641986?fromModule=lemma_inlink"],"created":1794626359,"id":"chatcmpl-eaa2cf51-5416-4466-89d9-8fa931307c61","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"战谅解备忘录？当时"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://baike.baidu.com/item/%E7%BE%8E%E4%BC%8A%E5%81%9C%E6%88%98%E8%B0%85%E8%A7%A3%E5%A4%87%E5%BF%98%E5%BD%95/67641986?fromModule=lemma_inlink"],"created":1794626359,"id":"chatcmpl-eaa2cf51-5416-4466-89d9-8fa931307c61","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"计划哪天正式签署？\n\n搜索"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://baike.baidu.com/item/%E7%BE%8E%E4%BC%8A%E5%81%9C%E6%88%98%E8%B0%85%E8%A7%A3%E5%A4%87%E5%BF%98%E5%BD%95/67641986?fromModule=lemma_inlink"],"created":1794626359,"id":"chatcmpl-eaa2cf51-5416-4466-89d9-8fa931307c61","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"结果显示：2026年6"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://baike.baidu.com/item/%E7%BE%8E%E4%BC%8A%E5%81%9C%E6%88%98%E8%B0%85%E8%A7%A3%E5%A4%87%E5%BF%98%E5%BD%95/67641986?fromModule=lemma_inlink"],"created":1794626359,"id":"chatcmpl-eaa2cf51-5416-4466-89d9-8fa931307c61","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"月14日宣布达成停"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://baike.baidu.com/item/%E7%BE%8E%E4%BC%8A%E5%81%9C%E6%88%98%E8%B0%85%E8%A7%A3%E5%A4%87%E5%BF%98%E5%BD%95/67641986?fromModule=lemma_inlink"],"created":1794626359,"id":"chatcmpl-eaa2cf51-5416-4466-89d9-8fa931307c61","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"战谅解备忘录["},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://baike.baidu.com/item/%E7%BE%8E%E4%BC%8A%E5%81%9C%E6%88%98%E8%B0%85%E8%A7%A3%E5%A4%87%E5%BF%98%E5%BD%95/67641986?fromModule=lemma_inlink"],"created":1794626359,"id":"chatcmpl-eaa2cf51-5416-4466-89d9-8fa931307c61","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"web"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://baike.baidu.com/item/%E7%BE%8E%E4%BC%8A%E5%81%9C%E6%88%98%E8%B0%85%E8%A7%A3%E5%A4%87%E5%BF%98%E5%BD%95/67641986?fromModule=lemma_inlink"],"created":1794626359,"id":"chatcmpl-eaa2cf51-5416-4466-89d9-8fa931307c61","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"page 2]。"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://baike.baidu.com/item/%E7%BE%8E%E4%BC%8A%E5%81%9C%E6%88%98%E8%B0%85%E8%A7%A3%E5%A4%87%E5%BF%98%E5%BD%95/67641986?fromModule=lemma_inlink"],"created":1794626359,"id":"chatcmpl-eaa2cf51-5416-4466-89d9-8fa931307c61","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"6月15日伊朗"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://baike.baidu.com/item/%E7%BE%8E%E4%BC%8A%E5%81%9C%E6%88%98%E8%B0%85%E8%A7%A3%E5%A4%87%E5%BF%98%E5%BD%95/67641986?fromModule=lemma_inlink"],"created":1794626359,"id":"chatcmpl-eaa2cf51-5416-4466-89d9-8fa931307c61","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"媒体报道"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://baike.baidu.com/item/%E7%BE%8E%E4%BC%8A%E5%81%9C%E6%88%98%E8%B0%85%E8%A7%A3%E5%A4%87%E5%BF%98%E5%BD%95/67641986?fromModule=lemma_inlink"],"created":1794626359,"id":"chatcmpl-eaa2cf51-5416-4466-89d9-8fa931307c61","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"，"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://baike.baidu.com/item/%E7%BE%8E%E4%BC%8A%E5%81%9C%E6%88%98%E8%B0%85%E8%A7%A3%E5%A4%87%E5%BF%98%E5%BD%95/67641986?fromModule=lemma_inlink"],"created":1794626359,"id":"chatcmpl-eaa2cf51-5416-4466-89d9-8fa931307c61","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"签署"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://baike.baidu.com/item/%E7%BE%8E%E4%BC%8A%E5%81%9C%E6%88%98%E8%B0%85%E8%A7%A3%E5%A4%87%E5%BF%98%E5%BD%95/67641986?fromModule=lemma_inlink"],"created":1794626359,"id":"chatcmpl-eaa2cf51-5416-4466-89d9-8fa931307c61","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"仪式将于19日在"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://baike.baidu.com/item/%E7%BE%8E%E4%BC%8A%E5%81%9C%E6%88%98%E8%B0%85%E8%A7%A3%E5%A4%87%E5%BF%98%E5%BD%95/67641986?fromModule=lemma_inlink"],"created":1794626359,"id":"chatcmpl-eaa2cf51-5416-4466-89d9-8fa931307c61","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"瑞士举行"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://baike.baidu.com/item/%E7%BE%8E%E4%BC%8A%E5%81%9C%E6%88%98%E8%B0%85%E8%A7%A3%E5%A4%87%E5%BF%98%E5%BD%95/67641986?fromModule=lemma_inlink"],"created":1794626359,"id":"chatcmpl-eaa2cf51-5416-4466-89d9-8fa931307c61","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"[webpage "},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://baike.baidu.com/item/%E7%BE%8E%E4%BC%8A%E5%81%9C%E6%88%98%E8%B0%85%E8%A7%A3%E5%A4%87%E5%BF%98%E5%BD%95/67641986?fromModule=lemma_inlink"],"created":1794626359,"id":"chatcmpl-eaa2cf51-5416-4466-89d9-8fa931307c61","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"2]。\n\n需要引用"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://baike.baidu.com/item/%E7%BE%8E%E4%BC%8A%E5%81%9C%E6%88%98%E8%B0%85%E8%A7%A3%E5%A4%87%E5%BF%98%E5%BD%95/67641986?fromModule=lemma_inlink"],"created":1794626359,"id":"chatcmpl-eaa2cf51-5416-4466-89d9-8fa931307c61","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"。答案"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://baike.baidu.com/item/%E7%BE%8E%E4%BC%8A%E5%81%9C%E6%88%98%E8%B0%85%E8%A7%A3%E5%A4%87%E5%BF%98%E5%BD%95/67641986?fromModule=lemma_inlink"],"created":1794626359,"id":"chatcmpl-eaa2cf51-5416-4466-89d9-8fa931307c61","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"简短"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://baike.baidu.com/item/%E7%BE%8E%E4%BC%8A%E5%81%9C%E6%88%98%E8%B0%85%E8%A7%A3%E5%A4%87%E5%BF%98%E5%BD%95/67641986?fromModule=lemma_inlink"],"created":1794626359,"id":"chatcmpl-eaa2cf51-5416-4466-89d9-8fa931307c61","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"。注意检索结果只有一个"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://baike.baidu.com/item/%E7%BE%8E%E4%BC%8A%E5%81%9C%E6%88%98%E8%B0%85%E8%A7%A3%E5%A4%87%E5%BF%98%E5%BD%95/67641986?fromModule=lemma_inlink"],"created":1794626359,"id":"chatcmpl-eaa2cf51-5416-4466-89d9-8fa931307c61","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"网页"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://baike.baidu.com/item/%E7%BE%8E%E4%BC%8A%E5%81%9C%E6%88%98%E8%B0%85%E8%A7%A3%E5%A4%87%E5%BF%98%E5%BD%95/67641986?fromModule=lemma_inlink"],"created":1794626359,"id":"chatcmpl-eaa2cf51-5416-4466-89d9-8fa931307c61","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"，但"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://baike.baidu.com/item/%E7%BE%8E%E4%BC%8A%E5%81%9C%E6%88%98%E8%B0%85%E8%A7%A3%E5%A4%87%E5%BF%98%E5%BD%95/67641986?fromModule=lemma_inlink"],"created":1794626359,"id":"chatcmpl-eaa2cf51-5416-4466-89d9-8fa931307c61","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"用户要求综合"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://baike.baidu.com/item/%E7%BE%8E%E4%BC%8A%E5%81%9C%E6%88%98%E8%B0%85%E8%A7%A3%E5%A4%87%E5%BF%98%E5%BD%95/67641986?fromModule=lemma_inlink"],"created":1794626359,"id":"chatcmpl-eaa2cf51-5416-4466-89d9-8fa931307c61","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"多个网页——"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://baike.baidu.com/item/%E7%BE%8E%E4%BC%8A%E5%81%9C%E6%88%98%E8%B0%85%E8%A7%A3%E5%A4%87%E5%BF%98%E5%BD%95/67641986?fromModule=lemma_inlink"],"created":1794626359,"id":"chatcmpl-eaa2cf51-5416-4466-89d9-8fa931307c61","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"只有一个"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://baike.baidu.com/item/%E7%BE%8E%E4%BC%8A%E5%81%9C%E6%88%98%E8%B0%85%E8%A7%A3%E5%A4%87%E5%BF%98%E5%BD%95/67641986?fromModule=lemma_inlink"],"created":1794626359,"id":"chatcmpl-eaa2cf51-5416-4466-89d9-8fa931307c61","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"可用"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://baike.baidu.com/item/%E7%BE%8E%E4%BC%8A%E5%81%9C%E6%88%98%E8%B0%85%E8%A7%A3%E5%A4%87%E5%BF%98%E5%BD%95/67641986?fromModule=lemma_inlink"],"created":1794626359,"id":"chatcmpl-eaa2cf51-5416-4466-89d9-8fa931307c61","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"。直接"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://baike.baidu.com/item/%E7%BE%8E%E4%BC%8A%E5%81%9C%E6%88%98%E8%B0%85%E8%A7%A3%E5%A4%87%E5%BF%98%E5%BD%95/67641986?fromModule=lemma_inlink"],"created":1794626359,"id":"chatcmpl-eaa2cf51-5416-4466-89d9-8fa931307c61","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"回答即可。\n\n注意日期"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://baike.baidu.com/item/%E7%BE%8E%E4%BC%8A%E5%81%9C%E6%88%98%E8%B0%85%E8%A7%A3%E5%A4%87%E5%BF%98%E5%BD%95/67641986?fromModule=lemma_inlink"],"created":1794626359,"id":"chatcmpl-eaa2cf51-5416-4466-89d9-8fa931307c61","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"：宣布"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://baike.baidu.com/item/%E7%BE%8E%E4%BC%8A%E5%81%9C%E6%88%98%E8%B0%85%E8%A7%A3%E5%A4%87%E5%BF%98%E5%BD%95/67641986?fromModule=lemma_inlink"],"created":1794626359,"id":"chatcmpl-eaa2cf51-5416-4466-89d9-8fa931307c61","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"是"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://baike.baidu.com/item/%E7%BE%8E%E4%BC%8A%E5%81%9C%E6%88%98%E8%B0%85%E8%A7%A3%E5%A4%87%E5%BF%98%E5%BD%95/67641986?fromModule=lemma_inlink"],"created":1794626359,"id":"chatcmpl-eaa2cf51-5416-4466-89d9-8fa931307c61","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"6月14日，计划"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://baike.baidu.com/item/%E7%BE%8E%E4%BC%8A%E5%81%9C%E6%88%98%E8%B0%85%E8%A7%A3%E5%A4%87%E5%BF%98%E5%BD%95/67641986?fromModule=lemma_inlink"],"created":1794626359,"id":"chatcmpl-eaa2cf51-5416-4466-89d9-8fa931307c61","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"签署是"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://baike.baidu.com/item/%E7%BE%8E%E4%BC%8A%E5%81%9C%E6%88%98%E8%B0%85%E8%A7%A3%E5%A4%87%E5%BF%98%E5%BD%95/67641986?fromModule=lemma_inlink"],"created":1794626359,"id":"chatcmpl-eaa2cf51-5416-4466-89d9-8fa931307c61","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"6月19日（"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://baike.baidu.com/item/%E7%BE%8E%E4%BC%8A%E5%81%9C%E6%88%98%E8%B0%85%E8%A7%A3%E5%A4%87%E5%BF%98%E5%BD%95/67641986?fromModule=lemma_inlink"],"created":1794626359,"id":"chatcmpl-eaa2cf51-5416-4466-89d9-8fa931307c61","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"在瑞士）。署名"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://baike.baidu.com/item/%E7%BE%8E%E4%BC%8A%E5%81%9C%E6%88%98%E8%B0%85%E8%A7%A3%E5%A4%87%E5%BF%98%E5%BD%95/67641986?fromModule=lemma_inlink"],"created":1794626359,"id":"chatcmpl-eaa2cf51-5416-4466-89d9-8fa931307c61","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"\""},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://baike.baidu.com/item/%E7%BE%8E%E4%BC%8A%E5%81%9C%E6%88%98%E8%B0%85%E8%A7%A3%E5%A4%87%E5%BF%98%E5%BD%95/67641986?fromModule=lemma_inlink"],"created":1794626359,"id":"chatcmpl-eaa2cf51-5416-4466-89d9-8fa931307c61","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"伊斯兰堡备忘录\"。\n\n补充"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://baike.baidu.com/item/%E7%BE%8E%E4%BC%8A%E5%81%9C%E6%88%98%E8%B0%85%E8%A7%A3%E5%A4%87%E5%BF%98%E5%BD%95/67641986?fromModule=lemma_inlink"],"created":1794626359,"id":"chatcmpl-eaa2cf51-5416-4466-89d9-8fa931307c61","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"：6月15"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://baike.baidu.com/item/%E7%BE%8E%E4%BC%8A%E5%81%9C%E6%88%98%E8%B0%85%E8%A7%A3%E5%A4%87%E5%BF%98%E5%BD%95/67641986?fromModule=lemma_inlink"],"created":1794626359,"id":"chatcmpl-eaa2cf51-5416-4466-89d9-8fa931307c61","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"日加"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://baike.baidu.com/item/%E7%BE%8E%E4%BC%8A%E5%81%9C%E6%88%98%E8%B0%85%E8%A7%A3%E5%A4%87%E5%BF%98%E5%BD%95/67641986?fromModule=lemma_inlink"],"created":1794626359,"id":"chatcmpl-eaa2cf51-5416-4466-89d9-8fa931307c61","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"里"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://baike.baidu.com/item/%E7%BE%8E%E4%BC%8A%E5%81%9C%E6%88%98%E8%B0%85%E8%A7%A3%E5%A4%87%E5%BF%98%E5%BD%95/67641986?fromModule=lemma_inlink"],"created":1794626359,"id":"chatcmpl-eaa2cf51-5416-4466-89d9-8fa931307c61","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"巴巴迪确认文本"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://baike.baidu.com/item/%E7%BE%8E%E4%BC%8A%E5%81%9C%E6%88%98%E8%B0%85%E8%A7%A3%E5%A4%87%E5%BF%98%E5%BD%95/67641986?fromModule=lemma_inlink"],"created":1794626359,"id":"chatcmpl-eaa2cf51-5416-4466-89d9-8fa931307c61","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"最终"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://baike.baidu.com/item/%E7%BE%8E%E4%BC%8A%E5%81%9C%E6%88%98%E8%B0%85%E8%A7%A3%E5%A4%87%E5%BF%98%E5%BD%95/67641986?fromModule=lemma_inlink"],"created":1794626359,"id":"chatcmpl-eaa2cf51-5416-4466-89d9-8fa931307c61","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"确定。"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://baike.baidu.com/item/%E7%BE%8E%E4%BC%8A%E5%81%9C%E6%88%98%E8%B0%85%E8%A7%A3%E5%A4%87%E5%BF%98%E5%BD%95/67641986?fromModule=lemma_inlink"],"created":1794626359,"id":"chatcmpl-eaa2cf51-5416-4466-89d9-8fa931307c61","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"60"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://baike.baidu.com/item/%E7%BE%8E%E4%BC%8A%E5%81%9C%E6%88%98%E8%B0%85%E8%A7%A3%E5%A4%87%E5%BF%98%E5%BD%95/67641986?fromModule=lemma_inlink"],"created":1794626359,"id":"chatcmpl-eaa2cf51-5416-4466-89d9-8fa931307c61","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"天谈判"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://baike.baidu.com/item/%E7%BE%8E%E4%BC%8A%E5%81%9C%E6%88%98%E8%B0%85%E8%A7%A3%E5%A4%87%E5%BF%98%E5%BD%95/67641986?fromModule=lemma_inlink"],"created":1794626359,"id":"chatcmpl-eaa2cf51-5416-4466-89d9-8fa931307c61","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"期等"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://baike.baidu.com/item/%E7%BE%8E%E4%BC%8A%E5%81%9C%E6%88%98%E8%B0%85%E8%A7%A3%E5%A4%87%E5%BF%98%E5%BD%95/67641986?fromModule=lemma_inlink"],"created":1794626359,"id":"chatcmpl-eaa2cf51-5416-4466-89d9-8fa931307c61","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"。要说明"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://baike.baidu.com/item/%E7%BE%8E%E4%BC%8A%E5%81%9C%E6%88%98%E8%B0%85%E8%A7%A3%E5%A4%87%E5%BF%98%E5%BD%95/67641986?fromModule=lemma_inlink"],"created":1794626359,"id":"chatcmpl-eaa2cf51-5416-4466-89d9-8fa931307c61","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"这些"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://baike.baidu.com/item/%E7%BE%8E%E4%BC%8A%E5%81%9C%E6%88%98%E8%B0%85%E8%A7%A3%E5%A4%87%E5%BF%98%E5%BD%95/67641986?fromModule=lemma_inlink"],"created":1794626359,"id":"chatcmpl-eaa2cf51-5416-4466-89d9-8fa931307c61","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"来自检索资料"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://baike.baidu.com/item/%E7%BE%8E%E4%BC%8A%E5%81%9C%E6%88%98%E8%B0%85%E8%A7%A3%E5%A4%87%E5%BF%98%E5%BD%95/67641986?fromModule=lemma_inlink"],"created":1794626359,"id":"chatcmpl-eaa2cf51-5416-4466-89d9-8fa931307c61","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"。"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://baike.baidu.com/item/%E7%BE%8E%E4%BC%8A%E5%81%9C%E6%88%98%E8%B0%85%E8%A7%A3%E5%A4%87%E5%BF%98%E5%BD%95/67641986?fromModule=lemma_inlink"],"created":1794626359,"id":"chatcmpl-eaa2cf51-5416-4466-89d9-8fa931307c61","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"美"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://baike.baidu.com/item/%E7%BE%8E%E4%BC%8A%E5%81%9C%E6%88%98%E8%B0%85%E8%A7%A3%E5%A4%87%E5%BF%98%E5%BD%95/67641986?fromModule=lemma_inlink"],"created":1794626359,"id":"chatcmpl-eaa2cf51-5416-4466-89d9-8fa931307c61","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"伊于"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://baike.baidu.com/item/%E7%BE%8E%E4%BC%8A%E5%81%9C%E6%88%98%E8%B0%85%E8%A7%A3%E5%A4%87%E5%BF%98%E5%BD%95/67641986?fromModule=lemma_inlink"],"created":1794626359,"id":"chatcmpl-eaa2cf51-5416-4466-89d9-8fa931307c61","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":" **2026年6月"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://baike.baidu.com/item/%E7%BE%8E%E4%BC%8A%E5%81%9C%E6%88%98%E8%B0%85%E8%A7%A3%E5%A4%87%E5%BF%98%E5%BD%95/67641986?fromModule=lemma_inlink"],"created":1794626359,"id":"chatcmpl-eaa2cf51-5416-4466-89d9-8fa931307c61","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"14日**宣布达成停"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://baike.baidu.com/item/%E7%BE%8E%E4%BC%8A%E5%81%9C%E6%88%98%E8%B0%85%E8%A7%A3%E5%A4%87%E5%BF%98%E5%BD%95/67641986?fromModule=lemma_inlink"],"created":1794626359,"id":"chatcmpl-eaa2cf51-5416-4466-89d9-8fa931307c61","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"战谅解备忘录；按照"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://baike.baidu.com/item/%E7%BE%8E%E4%BC%8A%E5%81%9C%E6%88%98%E8%B0%85%E8%A7%A3%E5%A4%87%E5%BF%98%E5%BD%95/67641986?fromModule=lemma_inlink"],"created":1794626359,"id":"chatcmpl-eaa2cf51-5416-4466-89d9-8fa931307c61","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"当时的"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://baike.baidu.com/item/%E7%BE%8E%E4%BC%8A%E5%81%9C%E6%88%98%E8%B0%85%E8%A7%A3%E5%A4%87%E5%BF%98%E5%BD%95/67641986?fromModule=lemma_inlink"],"created":1794626359,"id":"chatcmpl-eaa2cf51-5416-4466-89d9-8fa931307c61","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"安排，正式"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://baike.baidu.com/item/%E7%BE%8E%E4%BC%8A%E5%81%9C%E6%88%98%E8%B0%85%E8%A7%A3%E5%A4%87%E5%BF%98%E5%BD%95/67641986?fromModule=lemma_inlink"],"created":1794626359,"id":"chatcmpl-eaa2cf51-5416-4466-89d9-8fa931307c61","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"签署仪式定"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://baike.baidu.com/item/%E7%BE%8E%E4%BC%8A%E5%81%9C%E6%88%98%E8%B0%85%E8%A7%A3%E5%A4%87%E5%BF%98%E5%BD%95/67641986?fromModule=lemma_inlink"],"created":1794626359,"id":"chatcmpl-eaa2cf51-5416-4466-89d9-8fa931307c61","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"于 **6月19日"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://baike.baidu.com/item/%E7%BE%8E%E4%BC%8A%E5%81%9C%E6%88%98%E8%B0%85%E8%A7%A3%E5%A4%87%E5%BF%98%E5%BD%95/67641986?fromModule=lemma_inlink"],"created":1794626359,"id":"chatcmpl-eaa2cf51-5416-4466-89d9-8fa931307c61","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"**在瑞士举行"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://baike.baidu.com/item/%E7%BE%8E%E4%BC%8A%E5%81%9C%E6%88%98%E8%B0%85%E8%A7%A3%E5%A4%87%E5%BF%98%E5%BD%95/67641986?fromModule=lemma_inlink"],"created":1794626359,"id":"chatcmpl-eaa2cf51-5416-4466-89d9-8fa931307c61","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"[2]。\n\n补充"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://baike.baidu.com/item/%E7%BE%8E%E4%BC%8A%E5%81%9C%E6%88%98%E8%B0%85%E8%A7%A3%E5%A4%87%E5%BF%98%E5%BD%95/67641986?fromModule=lemma_inlink"],"created":1794626359,"id":"chatcmpl-eaa2cf51-5416-4466-89d9-8fa931307c61","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"背景："},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://baike.baidu.com/item/%E7%BE%8E%E4%BC%8A%E5%81%9C%E6%88%98%E8%B0%85%E8%A7%A3%E5%A4%87%E5%BF%98%E5%BD%95/67641986?fromModule=lemma_inlink"],"created":1794626359,"id":"chatcmpl-eaa2cf51-5416-4466-89d9-8fa931307c61","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"据"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://baike.baidu.com/item/%E7%BE%8E%E4%BC%8A%E5%81%9C%E6%88%98%E8%B0%85%E8%A7%A3%E5%A4%87%E5%BF%98%E5%BD%95/67641986?fromModule=lemma_inlink"],"created":1794626359,"id":"chatcmpl-eaa2cf51-5416-4466-89d9-8fa931307c61","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"伊朗"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://baike.baidu.com/item/%E7%BE%8E%E4%BC%8A%E5%81%9C%E6%88%98%E8%B0%85%E8%A7%A3%E5%A4%87%E5%BF%98%E5%BD%95/67641986?fromModule=lemma_inlink"],"created":1794626359,"id":"chatcmpl-eaa2cf51-5416-4466-89d9-8fa931307c61","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"媒体报道，6月15日"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://baike.baidu.com/item/%E7%BE%8E%E4%BC%8A%E5%81%9C%E6%88%98%E8%B0%85%E8%A7%A3%E5%A4%87%E5%BF%98%E5%BD%95/67641986?fromModule=lemma_inlink"],"created":1794626359,"id":"chatcmpl-eaa2cf51-5416-4466-89d9-8fa931307c61","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"伊朗外交部副部长加里"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://baike.baidu.com/item/%E7%BE%8E%E4%BC%8A%E5%81%9C%E6%88%98%E8%B0%85%E8%A7%A3%E5%A4%87%E5%BF%98%E5%BD%95/67641986?fromModule=lemma_inlink"],"created":1794626359,"id":"chatcmpl-eaa2cf51-5416-4466-89d9-8fa931307c61","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"巴巴迪确认，伊"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://baike.baidu.com/item/%E7%BE%8E%E4%BC%8A%E5%81%9C%E6%88%98%E8%B0%85%E8%A7%A3%E5%A4%87%E5%BF%98%E5%BD%95/67641986?fromModule=lemma_inlink"],"created":1794626359,"id":"chatcmpl-eaa2cf51-5416-4466-89d9-8fa931307c61","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"美谅解"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://baike.baidu.com/item/%E7%BE%8E%E4%BC%8A%E5%81%9C%E6%88%98%E8%B0%85%E8%A7%A3%E5%A4%87%E5%BF%98%E5%BD%95/67641986?fromModule=lemma_inlink"],"created":1794626359,"id":"chatcmpl-eaa2cf51-5416-4466-89d9-8fa931307c61","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"备忘录文本已经"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://baike.baidu.com/item/%E7%BE%8E%E4%BC%8A%E5%81%9C%E6%88%98%E8%B0%85%E8%A7%A3%E5%A4%87%E5%BF%98%E5%BD%95/67641986?fromModule=lemma_inlink"],"created":1794626359,"id":"chatcmpl-eaa2cf51-5416-4466-89d9-8fa931307c61","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"最终确定，这份备忘录被称为"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://baike.baidu.com/item/%E7%BE%8E%E4%BC%8A%E5%81%9C%E6%88%98%E8%B0%85%E8%A7%A3%E5%A4%87%E5%BF%98%E5%BD%95/67641986?fromModule=lemma_inlink"],"created":1794626359,"id":"chatcmpl-eaa2cf51-5416-4466-89d9-8fa931307c61","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"“伊斯兰堡备忘录”；"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://baike.baidu.com/item/%E7%BE%8E%E4%BC%8A%E5%81%9C%E6%88%98%E8%B0%85%E8%A7%A3%E5%A4%87%E5%BF%98%E5%BD%95/67641986?fromModule=lemma_inlink"],"created":1794626359,"id":"chatcmpl-eaa2cf51-5416-4466-89d9-8fa931307c61","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"加"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://baike.baidu.com/item/%E7%BE%8E%E4%BC%8A%E5%81%9C%E6%88%98%E8%B0%85%E8%A7%A3%E5%A4%87%E5%BF%98%E5%BD%95/67641986?fromModule=lemma_inlink"],"created":1794626359,"id":"chatcmpl-eaa2cf51-5416-4466-89d9-8fa931307c61","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"里巴巴迪还"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://baike.baidu.com/item/%E7%BE%8E%E4%BC%8A%E5%81%9C%E6%88%98%E8%B0%85%E8%A7%A3%E5%A4%87%E5%BF%98%E5%BD%95/67641986?fromModule=lemma_inlink"],"created":1794626359,"id":"chatcmpl-eaa2cf51-5416-4466-89d9-8fa931307c61","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"表示，在停火、"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://baike.baidu.com/item/%E7%BE%8E%E4%BC%8A%E5%81%9C%E6%88%98%E8%B0%85%E8%A7%A3%E5%A4%87%E5%BF%98%E5%BD%95/67641986?fromModule=lemma_inlink"],"created":1794626359,"id":"chatcmpl-eaa2cf51-5416-4466-89d9-8fa931307c61","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"美国解除海上"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://baike.baidu.com/item/%E7%BE%8E%E4%BC%8A%E5%81%9C%E6%88%98%E8%B0%85%E8%A7%A3%E5%A4%87%E5%BF%98%E5%BD%95/67641986?fromModule=lemma_inlink"],"created":1794626359,"id":"chatcmpl-eaa2cf51-5416-4466-89d9-8fa931307c61","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"封锁、伊朗遭"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://baike.baidu.com/item/%E7%BE%8E%E4%BC%8A%E5%81%9C%E6%88%98%E8%B0%85%E8%A7%A3%E5%A4%87%E5%BF%98%E5%BD%95/67641986?fromModule=lemma_inlink"],"created":1794626359,"id":"chatcmpl-eaa2cf51-5416-4466-89d9-8fa931307c61","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"冻结资产开始解冻"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://baike.baidu.com/item/%E7%BE%8E%E4%BC%8A%E5%81%9C%E6%88%98%E8%B0%85%E8%A7%A3%E5%A4%87%E5%BF%98%E5%BD%95/67641986?fromModule=lemma_inlink"],"created":1794626359,"id":"chatcmpl-eaa2cf51-5416-4466-89d9-8fa931307c61","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"之后，双方将进入"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://baike.baidu.com/item/%E7%BE%8E%E4%BC%8A%E5%81%9C%E6%88%98%E8%B0%85%E8%A7%A3%E5%A4%87%E5%BF%98%E5%BD%95/67641986?fromModule=lemma_inlink"],"created":1794626359,"id":"chatcmpl-eaa2cf51-5416-4466-89d9-8fa931307c61","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"为期60天的"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://baike.baidu.com/item/%E7%BE%8E%E4%BC%8A%E5%81%9C%E6%88%98%E8%B0%85%E8%A7%A3%E5%A4%87%E5%BF%98%E5%BD%95/67641986?fromModule=lemma_inlink"],"created":1794626359,"id":"chatcmpl-eaa2cf51-5416-4466-89d9-8fa931307c61","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"谈判期，磋"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://baike.baidu.com/item/%E7%BE%8E%E4%BC%8A%E5%81%9C%E6%88%98%E8%B0%85%E8%A7%A3%E5%A4%87%E5%BF%98%E5%BD%95/67641986?fromModule=lemma_inlink"],"created":1794626359,"id":"chatcmpl-eaa2cf51-5416-4466-89d9-8fa931307c61","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"商最终协议["},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://baike.baidu.com/item/%E7%BE%8E%E4%BC%8A%E5%81%9C%E6%88%98%E8%B0%85%E8%A7%A3%E5%A4%87%E5%BF%98%E5%BD%95/67641986?fromModule=lemma_inlink"],"created":1794626359,"id":"chatcmpl-eaa2cf51-5416-4466-89d9-8fa931307c61","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"2]。这说明6"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://baike.baidu.com/item/%E7%BE%8E%E4%BC%8A%E5%81%9C%E6%88%98%E8%B0%85%E8%A7%A3%E5%A4%87%E5%BF%98%E5%BD%95/67641986?fromModule=lemma_inlink"],"created":1794626359,"id":"chatcmpl-eaa2cf51-5416-4466-89d9-8fa931307c61","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"月19日是当时"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://baike.baidu.com/item/%E7%BE%8E%E4%BC%8A%E5%81%9C%E6%88%98%E8%B0%85%E8%A7%A3%E5%A4%87%E5%BF%98%E5%BD%95/67641986?fromModule=lemma_inlink"],"created":1794626359,"id":"chatcmpl-eaa2cf51-5416-4466-89d9-8fa931307c61","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"公布的签署"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://baike.baidu.com/item/%E7%BE%8E%E4%BC%8A%E5%81%9C%E6%88%98%E8%B0%85%E8%A7%A3%E5%A4%87%E5%BF%98%E5%BD%95/67641986?fromModule=lemma_inlink"],"created":1794626359,"id":"chatcmpl-eaa2cf51-5416-4466-89d9-8fa931307c61","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"计划日期，而"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://baike.baidu.com/item/%E7%BE%8E%E4%BC%8A%E5%81%9C%E6%88%98%E8%B0%85%E8%A7%A3%E5%A4%87%E5%BF%98%E5%BD%95/67641986?fromModule=lemma_inlink"],"created":1794626359,"id":"chatcmpl-eaa2cf51-5416-4466-89d9-8fa931307c61","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"实际签署情况"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://baike.baidu.com/item/%E7%BE%8E%E4%BC%8A%E5%81%9C%E6%88%98%E8%B0%85%E8%A7%A3%E5%A4%87%E5%BF%98%E5%BD%95/67641986?fromModule=lemma_inlink"],"created":1794626359,"id":"chatcmpl-eaa2cf51-5416-4466-89d9-8fa931307c61","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"如何"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://baike.baidu.com/item/%E7%BE%8E%E4%BC%8A%E5%81%9C%E6%88%98%E8%B0%85%E8%A7%A3%E5%A4%87%E5%BF%98%E5%BD%95/67641986?fromModule=lemma_inlink"],"created":1794626359,"id":"chatcmpl-eaa2cf51-5416-4466-89d9-8fa931307c61","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"，现有"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://baike.baidu.com/item/%E7%BE%8E%E4%BC%8A%E5%81%9C%E6%88%98%E8%B0%85%E8%A7%A3%E5%A4%87%E5%BF%98%E5%BD%95/67641986?fromModule=lemma_inlink"],"created":1794626359,"id":"chatcmpl-eaa2cf51-5416-4466-89d9-8fa931307c61","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"检索"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://baike.baidu.com/item/%E7%BE%8E%E4%BC%8A%E5%81%9C%E6%88%98%E8%B0%85%E8%A7%A3%E5%A4%87%E5%BF%98%E5%BD%95/67641986?fromModule=lemma_inlink"],"created":1794626359,"id":"chatcmpl-eaa2cf51-5416-4466-89d9-8fa931307c61","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"资料未"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://baike.baidu.com/item/%E7%BE%8E%E4%BC%8A%E5%81%9C%E6%88%98%E8%B0%85%E8%A7%A3%E5%A4%87%E5%BF%98%E5%BD%95/67641986?fromModule=lemma_inlink"],"created":1794626359,"id":"chatcmpl-eaa2cf51-5416-4466-89d9-8fa931307c61","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"作"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://baike.baidu.com/item/%E7%BE%8E%E4%BC%8A%E5%81%9C%E6%88%98%E8%B0%85%E8%A7%A3%E5%A4%87%E5%BF%98%E5%BD%95/67641986?fromModule=lemma_inlink"],"created":1794626359,"id":"chatcmpl-eaa2cf51-5416-4466-89d9-8fa931307c61","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"进一步"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://baike.baidu.com/item/%E7%BE%8E%E4%BC%8A%E5%81%9C%E6%88%98%E8%B0%85%E8%A7%A3%E5%A4%87%E5%BF%98%E5%BD%95/67641986?fromModule=lemma_inlink"],"created":1794626359,"id":"chatcmpl-eaa2cf51-5416-4466-89d9-8fa931307c61","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"说明。"},"finish_reason":"stop","index":0,"logprobs":null}],"citations":["https://baike.baidu.com/item/%E7%BE%8E%E4%BC%8A%E5%81%9C%E6%88%98%E8%B0%85%E8%A7%A3%E5%A4%87%E5%BF%98%E5%BD%95/67641986?fromModule=lemma_inlink"],"created":1794626359,"id":"chatcmpl-eaa2cf51-5416-4466-89d9-8fa931307c61","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[],"citations":["https://baike.baidu.com/item/%E7%BE%8E%E4%BC%8A%E5%81%9C%E6%88%98%E8%B0%85%E8%A7%A3%E5%A4%87%E5%BF%98%E5%BD%95/67641986?fromModule=lemma_inlink"],"created":1794626359,"id":"chatcmpl-eaa2cf51-5416-4466-89d9-8fa931307c61","model":"deepseek-flash","object":"chat.completion.chunk","usage":{"completion_tokens":294,"completion_tokens_details":{"reasoning_tokens":149},"prompt_tokens":724,"prompt_tokens_details":{"cached_tokens":0},"total_tokens":1018}}
+
+data: [DONE]
+

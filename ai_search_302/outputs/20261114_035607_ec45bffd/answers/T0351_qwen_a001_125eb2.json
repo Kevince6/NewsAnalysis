@@ -1,0 +1,71 @@
+{
+  "task_id": "T0351",
+  "model": "qwen",
+  "news_id": "E029",
+  "question_index": 4,
+  "question_original": "【事实】2026年7月21日的报道预告，阿波罗长廊哪天重开，还会陈列之前那批珠宝吗？",
+  "question": "2026年7月21日的报道预告，阿波罗长廊哪天重开，还会陈列之前那批珠宝吗？",
+  "attempt": 1,
+  "provider": "302.ai",
+  "model_requested": "qwen3.8-max",
+  "query_date": "2026-11-14",
+  "search_service": "metaso",
+  "prompt_version": "news-search-v1",
+  "prompt_sha256": "ea56fd5557d32615a9115f2368a0c4983ff1188f4935369e694d7d46f2493be1",
+  "requested_at": "2026-11-14T12:32:06.949875+08:00",
+  "raw_file": "raw/T0351_qwen_a001_125eb2.json",
+  "transport": "sse",
+  "stream_file": "raw/T0351_qwen_a001_125eb2.sse",
+  "status": "ok",
+  "model_returned": "qwen3.8-max",
+  "answer": "按2026年7月21日的报道预告，卢浮宫阿波罗长廊定于**2026年7月22日**重新对公众开放[2][4][5]。  \n\n**不会再陈列之前那批珠宝。**报道明确说，重开后展厅将**不再展出任何珠宝**，而是恢复其作为17世纪美术陈列室的原始功能，主要展示墙壁彩绘、鎏金雕刻和穹顶装饰等[2][5]。  \n\n背景是：阿波罗长廊曾在2025年10月发生抢劫案，价值约8800万欧元的法国王室珠宝被盗，此后长廊一直关闭；截至相关报道时，被抢珠宝仍下落不明[1][4]。",
+  "sources": [
+    {
+      "index": 1,
+      "url": "https://www.cnr.cn/newscenter/sq/20260721/t20260721_527720977.shtml",
+      "title": null,
+      "origin": "citations"
+    },
+    {
+      "index": 2,
+      "url": "http://www.news.cn/20260721/796ddb6bac304474aa41952ffd3bf18f/c.html",
+      "title": null,
+      "origin": "citations"
+    },
+    {
+      "index": 3,
+      "url": "https://github.com/hanxinchaofanai-web/qmXMpLLu/blob/qLpTeURK/aJzdIDIc/XFWuZiym.md",
+      "title": null,
+      "origin": "citations"
+    },
+    {
+      "index": 4,
+      "url": "https://news.qq.com/rain/a/20260721A02KJ400",
+      "title": null,
+      "origin": "citations"
+    },
+    {
+      "index": 5,
+      "url": "https://news.qq.com/rain/a/20260722A0B3WZ00",
+      "title": null,
+      "origin": "citations"
+    }
+  ],
+  "usage": {
+    "completion_tokens": 706,
+    "completion_tokens_details": {
+      "reasoning_tokens": 546,
+      "text_tokens": 706
+    },
+    "prompt_tokens": 1584,
+    "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "text_tokens": 1584
+    },
+    "total_tokens": 2290
+  },
+  "finish_reason": "stop",
+  "note": [],
+  "request_id": "e2a4cf5b-7710-4080-aa8c-044b79622a3c",
+  "duration_seconds": 18.329
+}

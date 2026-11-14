@@ -1,0 +1,63 @@
+{
+  "task_id": "T0103",
+  "model": "doubao",
+  "news_id": "E009",
+  "question_index": 1,
+  "question_original": "【开放】OpenClaw和Moltbook到底是什么关系？它们是同一个项目吗，后来各自发生了什么？",
+  "question": "OpenClaw和Moltbook到底是什么关系？它们是同一个项目吗，后来各自发生了什么？",
+  "attempt": 1,
+  "provider": "302.ai",
+  "model_requested": "doubao-seed-2-1-pro-260628",
+  "query_date": "2026-11-14",
+  "search_service": "metaso",
+  "prompt_version": "news-search-v1",
+  "prompt_sha256": "ea56fd5557d32615a9115f2368a0c4983ff1188f4935369e694d7d46f2493be1",
+  "requested_at": "2026-11-14T11:28:31.188156+08:00",
+  "raw_file": "raw/T0103_doubao_a001_fbc349.json",
+  "transport": "sse",
+  "stream_file": "raw/T0103_doubao_a001_fbc349.sse",
+  "status": "ok",
+  "model_returned": "doubao-seed-2-1-pro-260628",
+  "answer": "### 核心结论\nOpenClaw与Moltbook并不是同一个项目，二者是存在生态溯源关联、在走红过程中互相引流的两个独立AI产品——Moltbook的早期发展与初期热度增长，都依托于OpenClaw积累的行业影响力。\n---\n### 二者的发展脉络与具体关联\n1. **OpenClaw的产品定位与发展历程**\nOpenClaw是由奥地利开发者Peter Steinberger在2025年末利用一个周末开发完成的开源个人AI助手框架，项目最初发布时的名称为Clawdbot，名字融合了Anthropic公司的AI模型“Claude”与“Claw（爪子）”的意象，寓意产品能像小龙虾一样机敏灵活地响应用户需求[2]。\n从产品能力来看，它是一款可以直接在用户本地电脑运行的自主AI助手，支持对接WhatsApp、Telegram、Discord等主流即时通讯平台，能够帮用户完成日历管理、消息发送、工作流程自动化等高频事务。项目发布短短几周就成为GitHub上增长最快的开源项目之一，星标数突破10万；有技术博主曾分享使用体验，称自己仅通过WhatsApp向OpenClaw发送操作指令，就在三天内完成了两个产品部署、四个功能开发和一个重大bug修复，大半工作都是在沙发上远程操作完成的，效率提升十分显著[4]。\n从开发与传播节点来看，OpenClaw是Peter Steinberger自2009年以来启动的第44个AI相关项目，整个产品基本完全依托AI能力开发完成，仅通过编写提示词（prompt）就实现了全部功能构建。2026年1月24日前后，项目正式完成从“Clawdbot”到“OpenClaw”的品牌切换，随即在全球开发者社区快速走红，在GitHub平台获得了极高的关注度[1][5]。\n2. **Moltbook的产品定位与二者的联动效应**\nMoltbook并不属于OpenClaw项目的组成部分，它是一个界面设计、交互机制都与经典论坛Reddit高度相似的内容平台，最突出的特点是平台的核心参与主体是AI智能体（AI agents），主要供这些智能体在站内完成发帖、评论、互动等行为[1][5]。\n从发展溯源来看，Moltbook的发展源头正是OpenClaw项目，它的初期爆火完全依托于OpenClaw在开发者群体中积攒的关注度[2][4]。在OpenClaw完成品牌切换、迎来第一波热度高峰后，Moltbook在2026年1月底到2月期间也迅速走红，而它的热度反过来又为OpenClaw带来了新一轮的流量增长，形成了两个关联产品热度互相加持的传播效果[1][5]。\n---\n### 补充说明\n目前可检索到的公开信息仅覆盖两个项目2026年2月及之前的发展与联动动态，暂未提及二者在此之后的功能迭代、运营调整等后续进展。",
+  "sources": [
+    {
+      "index": 1,
+      "url": "https://news.qq.com/rain/a/20260323A005VF00?adChannelId=tech",
+      "title": null,
+      "origin": "citations"
+    },
+    {
+      "index": 2,
+      "url": "https://www.fuyuan7.com/post-1427.html",
+      "title": null,
+      "origin": "citations"
+    },
+    {
+      "index": 3,
+      "url": "http://applocal.myzaker.com/news/article.php?pk=697f03eb8e9f09256671cf1c",
+      "title": null,
+      "origin": "citations"
+    },
+    {
+      "index": 4,
+      "url": "https://www.huxiu.com/article/4844349.html",
+      "title": null,
+      "origin": "citations"
+    }
+  ],
+  "usage": {
+    "completion_tokens": 7392,
+    "completion_tokens_details": {
+      "reasoning_tokens": 6729
+    },
+    "prompt_tokens": 1431,
+    "prompt_tokens_details": {
+      "cached_tokens": 0
+    },
+    "total_tokens": 8823
+  },
+  "finish_reason": "stop",
+  "note": [],
+  "request_id": "bbf223e5-2551-4ebc-9267-2ba17fe13a70",
+  "duration_seconds": 118.688
+}

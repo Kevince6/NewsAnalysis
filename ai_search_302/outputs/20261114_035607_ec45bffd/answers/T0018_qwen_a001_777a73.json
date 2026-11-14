@@ -1,0 +1,42 @@
+{
+  "task_id": "T0018",
+  "model": "qwen",
+  "news_id": "E002",
+  "question_index": 2,
+  "question_original": "【事实】中国歌唱家刘欢去世的主要原因是什么？",
+  "question": "中国歌唱家刘欢去世的主要原因是什么？",
+  "attempt": 1,
+  "provider": "302.ai",
+  "model_requested": "qwen3.8-max",
+  "query_date": "2026-11-14",
+  "search_service": "metaso",
+  "prompt_version": "news-search-v1",
+  "prompt_sha256": "ea56fd5557d32615a9115f2368a0c4983ff1188f4935369e694d7d46f2493be1",
+  "requested_at": "2026-11-14T04:09:41.418331+08:00",
+  "raw_file": "raw/T0018_qwen_a001_777a73.json",
+  "transport": "sse",
+  "stream_file": "raw/T0018_qwen_a001_777a73.sse",
+  "status": "needs_review",
+  "model_returned": "qwen3.8-max",
+  "answer": "截至 **2026年11月14日**，没有检索到刘欢去世的权威讣告、官方通报或可信媒体确认报道；因此，**“刘欢去世的主要原因”目前没有可确认的事实依据**。所谓“刘欢去世”的说法若出现在网络帖文中，应先视为未经证实信息或旧闻拼接。\n\n补充说明：\n\n- 刘欢是中国著名歌唱家、音乐人，长期活跃于公众视野。近年来公开报道中确有其健康状况受到关注的记录，例如心脏病相关疾病、股骨头坏死等既往病史传闻或报道，但这些并不能等同于“已去世”，更不是去世原因。\n- 对公众人物去世消息，最可靠的确认来源通常是：家属或工作室声明、官方讣告、所在机构/协会通报，以及新华社、人民日报、央视等权威媒体的正式报道。\n- 如果你看到的是某条具体“刘欢去世”的消息，建议核查是否附带权威来源或官方讣告；仅凭社交平台截图、短视频标题或“病逝”“离世”等字眼，不能作为事实依据。",
+  "sources": [],
+  "usage": {
+    "completion_tokens": 2235,
+    "completion_tokens_details": {
+      "reasoning_tokens": 2009,
+      "text_tokens": 2235
+    },
+    "prompt_tokens": 217,
+    "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "text_tokens": 217
+    },
+    "total_tokens": 2452
+  },
+  "finish_reason": "stop",
+  "note": [
+    "未返回平台来源链接；仅凭正文中的链接不能确认搜索是否成功。"
+  ],
+  "request_id": "b0e69f2f-47e5-46cc-9f89-a5caa8521e79",
+  "duration_seconds": 72.689
+}

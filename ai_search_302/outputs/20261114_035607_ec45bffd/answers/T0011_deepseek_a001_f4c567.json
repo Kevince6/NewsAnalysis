@@ -1,0 +1,69 @@
+{
+  "task_id": "T0011",
+  "model": "deepseek",
+  "news_id": "E001",
+  "question_index": 4,
+  "question_original": "【事实】英伟达董事会启动调查时，有没有表示已经发现公司机密泄露？",
+  "question": "英伟达董事会启动调查时，有没有表示已经发现公司机密泄露？",
+  "attempt": 1,
+  "provider": "302.ai",
+  "model_requested": "deepseek-flash",
+  "query_date": "2026-11-14",
+  "search_service": "metaso",
+  "prompt_version": "news-search-v1",
+  "prompt_sha256": "ea56fd5557d32615a9115f2368a0c4983ff1188f4935369e694d7d46f2493be1",
+  "requested_at": "2026-11-14T04:07:57.314362+08:00",
+  "raw_file": "raw/T0011_deepseek_a001_f4c567.json",
+  "transport": "sse",
+  "stream_file": "raw/T0011_deepseek_a001_f4c567.sse",
+  "status": "ok",
+  "model_returned": "deepseek-flash",
+  "answer": "没有。英伟达董事会启动调查时明确表示，**目前没有理由认为美国国家安全或公司机密已经遭到泄露**，并非表示“已经发现泄露”[1][2][5]。\n\n具体表述和安排如下：\n\n- **董事会声明**：董事会称，目前没有理由认为美国国家安全或英伟达的机密信息受到损害，但调查将审查所有可获得的信息[1][2]。\n- **调查安排**：调查由独立董事组成的委员会负责，并聘请外部法律顾问协助[1]；后续又进一步安排了外部聘请[2]。\n- **调查对象**：核心是核实黄仁勋是否成为外国情报行动目标的相关传闻[3][5]。\n- **公司态度**：董事会表示对黄仁勋及管理团队保持信心，黄仁勋将继续不间断担任CEO，并将全力配合调查[1][3]。\n\n需要区分的是：“目前没有理由认为机密泄露”是董事会在调查启动阶段的初步表态，**不等于调查已经认定“确认没有泄露”**；声明同时强调调查将审查所有可获得的信息，最终结论仍待调查完成[1][2]。",
+  "sources": [
+    {
+      "index": 1,
+      "url": "https://news.qq.com/rain/a/20261109A02SA600",
+      "title": null,
+      "origin": "citations"
+    },
+    {
+      "index": 2,
+      "url": "https://finance.sina.com.cn/tech/roll/2026-11-11/doc-iniyiiak8671394.shtml",
+      "title": null,
+      "origin": "citations"
+    },
+    {
+      "index": 3,
+      "url": "https://news.qq.com/rain/a/20261109A0AXW100",
+      "title": null,
+      "origin": "citations"
+    },
+    {
+      "index": 4,
+      "url": "https://www.thepaper.cn/newsDetail_forward_16974847",
+      "title": null,
+      "origin": "citations"
+    },
+    {
+      "index": 5,
+      "url": "https://finance.sina.com.cn/tech/roll/2026-11-11/doc-iniyiiak8679032.shtml",
+      "title": null,
+      "origin": "citations"
+    }
+  ],
+  "usage": {
+    "completion_tokens": 437,
+    "completion_tokens_details": {
+      "reasoning_tokens": 203
+    },
+    "prompt_tokens": 1357,
+    "prompt_tokens_details": {
+      "cached_tokens": 0
+    },
+    "total_tokens": 1794
+  },
+  "finish_reason": "stop",
+  "note": [],
+  "request_id": "dff71aa9-e2c7-45d4-adde-c67f245b4346",
+  "duration_seconds": 8.027
+}

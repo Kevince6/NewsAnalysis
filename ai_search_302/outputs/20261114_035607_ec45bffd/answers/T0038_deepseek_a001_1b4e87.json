@@ -1,0 +1,63 @@
+{
+  "task_id": "T0038",
+  "model": "deepseek",
+  "news_id": "E004",
+  "question_index": 1,
+  "question_original": "【开放】2026年秋巴黎的示威和骚乱到底有多大规模？官方公布的人数、拘捕和商店受损情况分别是什么？",
+  "question": "2026年秋巴黎的示威和骚乱到底有多大规模？官方公布的人数、拘捕和商店受损情况分别是什么？",
+  "attempt": 1,
+  "provider": "302.ai",
+  "model_requested": "deepseek-flash",
+  "query_date": "2026-11-14",
+  "search_service": "metaso",
+  "prompt_version": "news-search-v1",
+  "prompt_sha256": "ea56fd5557d32615a9115f2368a0c4983ff1188f4935369e694d7d46f2493be1",
+  "requested_at": "2026-11-14T04:19:03.122160+08:00",
+  "raw_file": "raw/T0038_deepseek_a001_1b4e87.json",
+  "transport": "sse",
+  "stream_file": "raw/T0038_deepseek_a001_1b4e87.sse",
+  "status": "ok",
+  "model_returned": "deepseek-flash",
+  "answer": "## 直接回答\n\n**根据目前检索到的资料，无法确认“2026年秋巴黎示威和骚乱”的官方规模。** 检索结果中没有任何一条明确标注为2026年事件的原始发布或机构公告；相反，多条数据互相矛盾，且至少有一条可确认属于2018年“黄衫”运动，而非2026年。因此，下面列出的数字只能视为“检索结果中出现过的说法”，不能当作2026年秋的官方数据使用。\n\n## 检索结果中出现的相关数字\n\n**1. 一组规模较大的说法（年份未标明）**\n- 法国内政部数据：全法约**55万人**参与示威，**2397人**被警方拘捕，近千名执法人员受伤；\n- 《巴黎人报》10月22日统计：仅巴黎一地就有**451家商铺**在“这两天”内遭到破坏；\n- 多家法国媒体称事发区域警力全程缺位，是商家损失惨重的直接原因[citation:1]。\n\n**2. 一组规模较小的说法（年份未标明）**\n- 内政部初步统计：10月24日有**24家商铺**遭到洗劫；巴黎方面另报告一家商铺被撬门盗窃、一家受到破坏[citation:2]。\n- 法国警方称，截至周日凌晨共有**416人**被捕，其中巴黎**283人**；骚乱中至少6辆汽车、**两家商铺**和一个公交站亭受损，至少7名警员受伤[citation:3]。\n\n**3. 可确认不属于2026年的一组**\n- 周日17日上午统计：共**80家店铺**在周六抗议中损毁，其中20余家被掠抢或纵火；拉杜丽、Pierre Hermé、Hugo Boss、Longchamps、Swarovski、小米等店铺受损[citation:5]。这条报道明确提到“黄衫”运动——该运动始于2018年11月，因此这组数据属于2018年事件，与2026年秋无关。\n\n## 为什么不能直接采信这些数字\n\n- **年份缺失**：除[citation:5]可判断为2018年外，[citation:1][citation:2][citation:3]均未标明事件年份，无法确认是否对应2026年秋。\n- **数据严重矛盾**：商铺受损数出现451家、24家、2家、80家四种说法；拘捕人数出现2397人与416人两种说法；参与人数只有[citation:1]给出55万。这些差异更像是不同事件、不同统计口径（全法/巴黎、初步/最终、单日/多日）被混在一起，而非同一事件的更新。\n- **缺乏原始出处**：检索结果中没有法国内政部公告、巴黎警察局通报或当事方回应的原始链接，多为二次转述。\n\n## 建议的核实路径\n\n若要确认2026年秋的官方数据，应直接查证：法国内政部（Ministère de l'Intérieur）新闻公报、巴黎警察局（Préfecture de Police de Paris）通报，以及《巴黎人报》《世界报》等法国媒体对具体日期的报道，并核对报道中的年份与统计截止时间。在拿到这类原始材料前，上述数字不宜作为2026年秋的结论引用。",
+  "sources": [
+    {
+      "index": 1,
+      "url": "https://news.qq.com/rain/a/20261026A0CBGX00",
+      "title": null,
+      "origin": "citations"
+    },
+    {
+      "index": 2,
+      "url": "https://news.qq.com/rain/a/20261026A0A17M00",
+      "title": null,
+      "origin": "citations"
+    },
+    {
+      "index": 3,
+      "url": "http://k.sina.com.cn/article_7879923920_1d5ae18d002001dfgk.html",
+      "title": null,
+      "origin": "citations"
+    },
+    {
+      "index": 4,
+      "url": "https://www.163.com/dy/article/EAH74R3C0514BIJT.html",
+      "title": null,
+      "origin": "citations"
+    }
+  ],
+  "usage": {
+    "completion_tokens": 1391,
+    "completion_tokens_details": {
+      "reasoning_tokens": 685
+    },
+    "prompt_tokens": 1124,
+    "prompt_tokens_details": {
+      "cached_tokens": 0
+    },
+    "total_tokens": 2515
+  },
+  "finish_reason": "stop",
+  "note": [],
+  "request_id": "de3a2550-a959-4f5e-a8f3-9b263ad19ba7",
+  "duration_seconds": 10.145
+}

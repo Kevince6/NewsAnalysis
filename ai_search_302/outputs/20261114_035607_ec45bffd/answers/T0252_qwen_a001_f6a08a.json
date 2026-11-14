@@ -1,0 +1,65 @@
+{
+  "task_id": "T0252",
+  "model": "qwen",
+  "news_id": "E021",
+  "question_index": 2,
+  "question_original": "【开放】天水这起事件中，除了幼儿园，医院的检测环节也查出问题了吗？调查组具体发现了什么？",
+  "question": "天水这起事件中，除了幼儿园，医院的检测环节也查出问题了吗？调查组具体发现了什么？",
+  "attempt": 1,
+  "provider": "302.ai",
+  "model_requested": "qwen3.8-max",
+  "query_date": "2026-11-14",
+  "search_service": "metaso",
+  "prompt_version": "news-search-v1",
+  "prompt_sha256": "ea56fd5557d32615a9115f2368a0c4983ff1188f4935369e694d7d46f2493be1",
+  "requested_at": "2026-11-14T12:08:32.661180+08:00",
+  "raw_file": "raw/T0252_qwen_a001_f6a08a.json",
+  "transport": "sse",
+  "stream_file": "raw/T0252_qwen_a001_f6a08a.sse",
+  "status": "ok",
+  "model_returned": "qwen3.8-max",
+  "answer": "是的，医院检测环节也查出了问题。调查组通报显示，天水市第二人民医院在该事件中存在违规修改检测结果等问题[1][3]。\n\n调查组的具体发现主要包括：\n\n1. **天水市第二人民医院被查出修改检测结果**  \n   该院存在**大幅修改两名幼儿检测结果**的行为[1]；调查还指出其存在**违规修改相关检验数据**的问题[3]。\n\n2. **医院问题被认定为管理混乱、质控失守**  \n   调查称，天水市第二人民医院存在**管理混乱、岗位职责落实不到位、实验室质控落实不到位**等问题，检验人员违规修改结果，并违反多项规定；此前也存在类似问题，纪检监察机关仍在进一步调查[4]。\n\n3. **甘肃省疾控中心检测环节同样查出严重问题**  \n   涉事幼儿园部分血铅检测由甘肃省疾控中心承担，时间为7月2日至3日[4]。调查发现，该中心检测人员**操作违规**，导致检测结果与实际值出现巨大差异[4]，通报也指其**严重违反操作规程**[1]。\n\n4. **省疾控中心存在质控体系不完善、审核把关不严**  \n   调查认为，甘肃省疾控中心对重大任务不重视，存在**质控体系不完善、检测操作不规范、多环节未严格审核把关**等问题；开展检测任务前也未充分评估并制定相应质控措施[4]。\n\n5. **相关责任人已被立案问责**  \n   该事件由甘肃省委省政府提级成立调查组调查[5]。甘肃省纪委监委已对相关责任人严肃处理：对省卫生健康委、省疾控局、天水市等10人立案问责，对教育、市场监管等部门17人立案审查调查[3]。",
+  "sources": [
+    {
+      "index": 1,
+      "url": "https://www.thepaper.cn/newsDetail_forward_31225849",
+      "title": null,
+      "origin": "citations"
+    },
+    {
+      "index": 2,
+      "url": "https://www.douyin.com/shipin/7530093266302453786",
+      "title": null,
+      "origin": "citations"
+    },
+    {
+      "index": 3,
+      "url": "https://stock.hexun.com/2025-07-20/220432080.html",
+      "title": null,
+      "origin": "citations"
+    },
+    {
+      "index": 4,
+      "url": "https://finance.sina.cn/cj/2025-07-12/detail-infffsee6167105.d.html?vt=4",
+      "title": null,
+      "origin": "citations"
+    }
+  ],
+  "usage": {
+    "completion_tokens": 2227,
+    "completion_tokens_details": {
+      "reasoning_tokens": 1867,
+      "text_tokens": 2227
+    },
+    "prompt_tokens": 1198,
+    "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "text_tokens": 1198
+    },
+    "total_tokens": 3425
+  },
+  "finish_reason": "stop",
+  "note": [],
+  "request_id": "f3e50deb-2b90-4b71-94fb-792dca271bf5",
+  "duration_seconds": 53.313
+}

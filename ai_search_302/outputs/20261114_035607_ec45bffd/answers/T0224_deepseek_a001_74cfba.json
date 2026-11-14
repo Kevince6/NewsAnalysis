@@ -1,0 +1,63 @@
+{
+  "task_id": "T0224",
+  "model": "deepseek",
+  "news_id": "E018",
+  "question_index": 4,
+  "question_original": "【事实】红山晚报是哪天发布“免费砍白菜”消息的？调查是否认定记者到现场核实过？",
+  "question": "红山晚报是哪天发布“免费砍白菜”消息的？调查是否认定记者到现场核实过？",
+  "attempt": 1,
+  "provider": "302.ai",
+  "model_requested": "deepseek-flash",
+  "query_date": "2026-11-14",
+  "search_service": "metaso",
+  "prompt_version": "news-search-v1",
+  "prompt_sha256": "ea56fd5557d32615a9115f2368a0c4983ff1188f4935369e694d7d46f2493be1",
+  "requested_at": "2026-11-14T12:02:11.875411+08:00",
+  "raw_file": "raw/T0224_deepseek_a001_74cfba.json",
+  "transport": "sse",
+  "stream_file": "raw/T0224_deepseek_a001_74cfba.sse",
+  "status": "ok",
+  "model_returned": "deepseek-flash",
+  "answer": "红山晚报于**2025年11月5日上午10时**通过官方账号发布了题为“继免费捡土豆后又有新惊喜，赤峰一地可免费砍白菜”的视频[1]。\n\n关于是否到现场核实：相关报道/通报认定，记者**未到现场核实**，仅联系相关人员了解情况后即发布了上述信息[1][4]。红山晚报后续也就该失实报道致歉[5]。不过，检索材料中未见完整调查通报原文，能确认的是报道事实层面认定其未到现场核实[1][4]。",
+  "sources": [
+    {
+      "index": 1,
+      "url": "https://news.qq.com/rain/a/20251117A06P2E00",
+      "title": null,
+      "origin": "citations"
+    },
+    {
+      "index": 2,
+      "url": "https://www.thepaper.cn/newsDetail_forward_31985258",
+      "title": null,
+      "origin": "citations"
+    },
+    {
+      "index": 3,
+      "url": "https://www.163.com/dy/article/KF47NILC055616XV.html",
+      "title": null,
+      "origin": "citations"
+    },
+    {
+      "index": 4,
+      "url": "https://m.thepaper.cn/newsDetail_forward_31985258",
+      "title": null,
+      "origin": "citations"
+    }
+  ],
+  "usage": {
+    "completion_tokens": 617,
+    "completion_tokens_details": {
+      "reasoning_tokens": 496
+    },
+    "prompt_tokens": 1044,
+    "prompt_tokens_details": {
+      "cached_tokens": 0
+    },
+    "total_tokens": 1661
+  },
+  "finish_reason": "stop",
+  "note": [],
+  "request_id": "0a1fd1d1-634c-4474-baf5-ef8e1032824d",
+  "duration_seconds": 63.141
+}

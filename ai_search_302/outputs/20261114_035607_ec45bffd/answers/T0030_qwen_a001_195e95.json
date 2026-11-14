@@ -1,0 +1,53 @@
+{
+  "task_id": "T0030",
+  "model": "qwen",
+  "news_id": "E003",
+  "question_index": 3,
+  "question_original": "【事实】联合国核实的2026年9月乌克兰平民死亡、受伤人数分别是多少？",
+  "question": "联合国核实的2026年9月乌克兰平民死亡、受伤人数分别是多少？",
+  "attempt": 1,
+  "provider": "302.ai",
+  "model_requested": "qwen3.8-max",
+  "query_date": "2026-11-14",
+  "search_service": "metaso",
+  "prompt_version": "news-search-v1",
+  "prompt_sha256": "ea56fd5557d32615a9115f2368a0c4983ff1188f4935369e694d7d46f2493be1",
+  "requested_at": "2026-11-14T04:16:13.405702+08:00",
+  "raw_file": "raw/T0030_qwen_a001_195e95.json",
+  "transport": "sse",
+  "stream_file": "raw/T0030_qwen_a001_195e95.sse",
+  "status": "ok",
+  "model_returned": "qwen3.8-max",
+  "answer": "目前检索到的资料中，没有提供“联合国核实的2026年9月乌克兰平民死亡、受伤人数”的具体数字，因此无法确认该月死亡和受伤人数分别是多少。\n\n补充说明：此类数据通常需以联合国人权高专办或联合国乌克兰人权监测团发布的官方核实报告为准；在现有检索结果中未见相关2026年9月乌克兰平民伤亡统计。",
+  "sources": [
+    {
+      "index": 1,
+      "url": "http://www.hunan.gov.cn/topic/kjbh/hmszfz/gzjxs8/szdt08/202604/t20260429_33966474.html",
+      "title": null,
+      "origin": "citations"
+    },
+    {
+      "index": 2,
+      "url": "https://www.ycjjjc.gov.cn/ycsjwjcw/lltt/201506/640f334998bb43e6b49565706dea6b58.shtml",
+      "title": null,
+      "origin": "citations"
+    }
+  ],
+  "usage": {
+    "completion_tokens": 447,
+    "completion_tokens_details": {
+      "reasoning_tokens": 359,
+      "text_tokens": 447
+    },
+    "prompt_tokens": 942,
+    "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "text_tokens": 942
+    },
+    "total_tokens": 1389
+  },
+  "finish_reason": "stop",
+  "note": [],
+  "request_id": "505e8d5b-50cd-423d-8ebd-fc14e7f285eb",
+  "duration_seconds": 19.449
+}

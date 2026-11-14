@@ -1,0 +1,65 @@
+{
+  "task_id": "T0264",
+  "model": "qwen",
+  "news_id": "E022",
+  "question_index": 2,
+  "question_original": "【事实】我是内地居民，从上海去海南旅游，带居民身份证够不够，还需要因为封关另办通行证吗？",
+  "question": "我是内地居民，从上海去海南旅游，带居民身份证够不够，还需要因为封关另办通行证吗？",
+  "attempt": 1,
+  "provider": "302.ai",
+  "model_requested": "qwen3.8-max",
+  "query_date": "2026-11-14",
+  "search_service": "metaso",
+  "prompt_version": "news-search-v1",
+  "prompt_sha256": "ea56fd5557d32615a9115f2368a0c4983ff1188f4935369e694d7d46f2493be1",
+  "requested_at": "2026-11-14T12:10:41.198760+08:00",
+  "raw_file": "raw/T0264_qwen_a001_26bf60.json",
+  "transport": "sse",
+  "stream_file": "raw/T0264_qwen_a001_26bf60.sse",
+  "status": "ok",
+  "model_returned": "qwen3.8-max",
+  "answer": "够用了。你是内地居民，从上海去海南旅游，属于境内出行，只要携带本人有效**居民身份证**即可购票、乘机/乘车或自驾前往海南，不需要因为海南自贸港“封关”另外办理通行证、许可或特殊证件[1]。\n\n补充说明：\n\n- 政策口径明确：中国公民前往海南自贸港旅游、出差，不需要另外办理证件，与封关前一样；内地居民从境内其他城市往返海南自贸港，仍使用中国居民身份证即可[1]。\n- 只有当你不是从境内城市去海南，而是从境外进入海南时，才涉及使用中国护照或其他国际旅行证件办理入境查验的问题[1]。\n- 你提到的“通行证”如果是往来港澳通行证之类，那是赴港澳事项使用的证件，不适用于单纯从上海到海南旅游[2][3]。如果你的行程还包含去港澳或经港澳中转入境，则需要另行按港澳出行规定办理往来港澳通行证及相应签注[2][3]。",
+  "sources": [
+    {
+      "index": 1,
+      "url": "https://www.nia.gov.cn/n741435/n1194535/n1762482/index.html",
+      "title": null,
+      "origin": "citations"
+    },
+    {
+      "index": 2,
+      "url": "https://zwdt.sh.gov.cn/govPortals/bsfw/item/53abdec0-af0a-4e0f-9a0c-c79d0029b49d",
+      "title": null,
+      "origin": "citations"
+    },
+    {
+      "index": 3,
+      "url": "https://zwdt.sh.gov.cn/govPortals/bsfw/item/add2fedf-0d87-4293-8636-a7e7b9435a24",
+      "title": null,
+      "origin": "citations"
+    },
+    {
+      "index": 4,
+      "url": "https://jtw.sh.gov.cn/zcgd/20241231/5937514701f54d0091a349f29030ac77.html",
+      "title": null,
+      "origin": "citations"
+    }
+  ],
+  "usage": {
+    "completion_tokens": 921,
+    "completion_tokens_details": {
+      "reasoning_tokens": 707,
+      "text_tokens": 921
+    },
+    "prompt_tokens": 1224,
+    "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "text_tokens": 1224
+    },
+    "total_tokens": 2145
+  },
+  "finish_reason": "stop",
+  "note": [],
+  "request_id": "add44cdd-0ded-4e54-80f9-1156522fe9da",
+  "duration_seconds": 26.672
+}

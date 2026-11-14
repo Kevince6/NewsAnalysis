@@ -1,0 +1,418 @@
+data: {"choices":[{"delta":{"content":"","reasoning_content":"","role":"assistant"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.sohu.com/a/1101284732_123031414"],"created":1794600698,"id":"chatcmpl-d2c6375f-e892-9d97-9da1-e618f923d14f","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"我们需要"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.sohu.com/a/1101284732_123031414"],"created":1794600698,"id":"chatcmpl-d2c6375f-e892-9d97-9da1-e618f923d14f","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"回答用户中文"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.sohu.com/a/1101284732_123031414"],"created":1794600698,"id":"chatcmpl-d2c6375f-e892-9d97-9da1-e618f923d14f","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"问题。必须先"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.sohu.com/a/1101284732_123031414"],"created":1794600698,"id":"chatcmpl-d2c6375f-e892-9d97-9da1-e618f923d14f","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"调用工具"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.sohu.com/a/1101284732_123031414"],"created":1794600698,"id":"chatcmpl-d2c6375f-e892-9d97-9da1-e618f923d14f","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"，已调用。"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.sohu.com/a/1101284732_123031414"],"created":1794600698,"id":"chatcmpl-d2c6375f-e892-9d97-9da1-e618f923d14f","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"现在需要基于搜索结果"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.sohu.com/a/1101284732_123031414"],"created":1794600698,"id":"chatcmpl-d2c6375f-e892-9d97-9da1-e618f923d14f","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"回答。"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.sohu.com/a/1101284732_123031414"],"created":1794600698,"id":"chatcmpl-d2c6375f-e892-9d97-9da1-e618f923d14f","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"用户问：2"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.sohu.com/a/1101284732_123031414"],"created":1794600698,"id":"chatcmpl-d2c6375f-e892-9d97-9da1-e618f923d14f","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"0"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.sohu.com/a/1101284732_123031414"],"created":1794600698,"id":"chatcmpl-d2c6375f-e892-9d97-9da1-e618f923d14f","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"26年1"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.sohu.com/a/1101284732_123031414"],"created":1794600698,"id":"chatcmpl-d2c6375f-e892-9d97-9da1-e618f923d14f","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"1月中旬，俄乌"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.sohu.com/a/1101284732_123031414"],"created":1794600698,"id":"chatcmpl-d2c6375f-e892-9d97-9da1-e618f923d14f","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"最近的跨境袭击和"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.sohu.com/a/1101284732_123031414"],"created":1794600698,"id":"chatcmpl-d2c6375f-e892-9d97-9da1-e618f923d14f","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"外交谈判分别有什么"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.sohu.com/a/1101284732_123031414"],"created":1794600698,"id":"chatcmpl-d2c6375f-e892-9d97-9da1-e618f923d14f","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"进展？搜索结果只有一个"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.sohu.com/a/1101284732_123031414"],"created":1794600698,"id":"chatcmpl-d2c6375f-e892-9d97-9da1-e618f923d14f","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":" webpage"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.sohu.com/a/1101284732_123031414"],"created":1794600698,"id":"chatcmpl-d2c6375f-e892-9d97-9da1-e618f923d14f","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":" 1。内容"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.sohu.com/a/1101284732_123031414"],"created":1794600698,"id":"chatcmpl-d2c6375f-e892-9d97-9da1-e618f923d14f","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"：20"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.sohu.com/a/1101284732_123031414"],"created":1794600698,"id":"chatcmpl-d2c6375f-e892-9d97-9da1-e618f923d14f","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"26年1"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.sohu.com/a/1101284732_123031414"],"created":1794600698,"id":"chatcmpl-d2c6375f-e892-9d97-9da1-e618f923d14f","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"1月，俄乌"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.sohu.com/a/1101284732_123031414"],"created":1794600698,"id":"chatcmpl-d2c6375f-e892-9d97-9da1-e618f923d14f","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"冲突外交博弈新"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.sohu.com/a/1101284732_123031414"],"created":1794600698,"id":"chatcmpl-d2c6375f-e892-9d97-9da1-e618f923d14f","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"变化。11"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.sohu.com/a/1101284732_123031414"],"created":1794600698,"id":"chatcmpl-d2c6375f-e892-9d97-9da1-e618f923d14f","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"月10日至"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.sohu.com/a/1101284732_123031414"],"created":1794600698,"id":"chatcmpl-d2c6375f-e892-9d97-9da1-e618f923d14f","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"11日，"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.sohu.com/a/1101284732_123031414"],"created":1794600698,"id":"chatcmpl-d2c6375f-e892-9d97-9da1-e618f923d14f","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"俄罗斯、美国和乌克兰"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.sohu.com/a/1101284732_123031414"],"created":1794600698,"id":"chatcmpl-d2c6375f-e892-9d97-9da1-e618f923d14f","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"代表团在阿联酋"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.sohu.com/a/1101284732_123031414"],"created":1794600698,"id":"chatcmpl-d2c6375f-e892-9d97-9da1-e618f923d14f","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"首都阿布扎比"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.sohu.com/a/1101284732_123031414"],"created":1794600698,"id":"chatcmpl-d2c6375f-e892-9d97-9da1-e618f923d14f","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"恢复"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.sohu.com/a/1101284732_123031414"],"created":1794600698,"id":"chatcmpl-d2c6375f-e892-9d97-9da1-e618f923d14f","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"三方会谈，是自"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.sohu.com/a/1101284732_123031414"],"created":1794600698,"id":"chatcmpl-d2c6375f-e892-9d97-9da1-e618f923d14f","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"2026"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.sohu.com/a/1101284732_123031414"],"created":1794600698,"id":"chatcmpl-d2c6375f-e892-9d97-9da1-e618f923d14f","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"年2月以来首次"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.sohu.com/a/1101284732_123031414"],"created":1794600698,"id":"chatcmpl-d2c6375f-e892-9d97-9da1-e618f923d14f","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"恢复面对面磋商。"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.sohu.com/a/1101284732_123031414"],"created":1794600698,"id":"chatcmpl-d2c6375f-e892-9d97-9da1-e618f923d14f","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"谈判启动时军事"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.sohu.com/a/1101284732_123031414"],"created":1794600698,"id":"chatcmpl-d2c6375f-e892-9d97-9da1-e618f923d14f","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"行动没停："},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.sohu.com/a/1101284732_123031414"],"created":1794600698,"id":"chatcmpl-d2c6375f-e892-9d97-9da1-e618f923d14f","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"会谈期间"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.sohu.com/a/1101284732_123031414"],"created":1794600698,"id":"chatcmpl-d2c6375f-e892-9d97-9da1-e618f923d14f","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"，乌克兰能源设施"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.sohu.com/a/1101284732_123031414"],"created":1794600698,"id":"chatcmpl-d2c6375f-e892-9d97-9da1-e618f923d14f","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"继续承受袭击压力"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.sohu.com/a/1101284732_123031414"],"created":1794600698,"id":"chatcmpl-d2c6375f-e892-9d97-9da1-e618f923d14f","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"，俄方纵深"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.sohu.com/a/1101284732_123031414"],"created":1794600698,"id":"chatcmpl-d2c6375f-e892-9d97-9da1-e618f923d14f","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"目标也遭到乌"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.sohu.com/a/1101284732_123031414"],"created":1794600698,"id":"chatcmpl-d2c6375f-e892-9d97-9da1-e618f923d14f","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"方远程无人机打击"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.sohu.com/a/1101284732_123031414"],"created":1794600698,"id":"chatcmpl-d2c6375f-e892-9d97-9da1-e618f923d14f","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"。一边谈一边"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.sohu.com/a/1101284732_123031414"],"created":1794600698,"id":"chatcmpl-d2c6375f-e892-9d97-9da1-e618f923d14f","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"打。决定本轮"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.sohu.com/a/1101284732_123031414"],"created":1794600698,"id":"chatcmpl-d2c6375f-e892-9d97-9da1-e618f923d14f","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"会谈很难短时间"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.sohu.com/a/1101284732_123031414"],"created":1794600698,"id":"chatcmpl-d2c6375f-e892-9d97-9da1-e618f923d14f","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"拿出能够约束军队"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.sohu.com/a/1101284732_123031414"],"created":1794600698,"id":"chatcmpl-d2c6375f-e892-9d97-9da1-e618f923d14f","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"行动的完整协议。"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.sohu.com/a/1101284732_123031414"],"created":1794600698,"id":"chatcmpl-d2c6375f-e892-9d97-9da1-e618f923d14f","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"\n\n需要自然中文"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.sohu.com/a/1101284732_123031414"],"created":1794600698,"id":"chatcmpl-d2c6375f-e892-9d97-9da1-e618f923d14f","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"回答，先"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.sohu.com/a/1101284732_123031414"],"created":1794600698,"id":"chatcmpl-d2c6375f-e892-9d97-9da1-e618f923d14f","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"直接回答，再"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.sohu.com/a/1101284732_123031414"],"created":1794600698,"id":"chatcmpl-d2c6375f-e892-9d97-9da1-e618f923d14f","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"补充事实背景说明"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.sohu.com/a/1101284732_123031414"],"created":1794600698,"id":"chatcmpl-d2c6375f-e892-9d97-9da1-e618f923d14f","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"。引用日期"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.sohu.com/a/1101284732_123031414"],"created":1794600698,"id":"chatcmpl-d2c6375f-e892-9d97-9da1-e618f923d14f","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"2026"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.sohu.com/a/1101284732_123031414"],"created":1794600698,"id":"chatcmpl-d2c6375f-e892-9d97-9da1-e618f923d14f","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"-11-"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.sohu.com/a/1101284732_123031414"],"created":1794600698,"id":"chatcmpl-d2c6375f-e892-9d97-9da1-e618f923d14f","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"14。需要"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.sohu.com/a/1101284732_123031414"],"created":1794600698,"id":"chatcmpl-d2c6375f-e892-9d97-9da1-e618f923d14f","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"引用 [1]"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.sohu.com/a/1101284732_123031414"],"created":1794600698,"id":"chatcmpl-d2c6375f-e892-9d97-9da1-e618f923d14f","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"。问题"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.sohu.com/a/1101284732_123031414"],"created":1794600698,"id":"chatcmpl-d2c6375f-e892-9d97-9da1-e618f923d14f","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"问“跨境袭击"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.sohu.com/a/1101284732_123031414"],"created":1794600698,"id":"chatcmpl-d2c6375f-e892-9d97-9da1-e618f923d14f","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"和外交谈判"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.sohu.com/a/1101284732_123031414"],"created":1794600698,"id":"chatcmpl-d2c6375f-e892-9d97-9da1-e618f923d14f","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"分别有什么进展？”"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.sohu.com/a/1101284732_123031414"],"created":1794600698,"id":"chatcmpl-d2c6375f-e892-9d97-9da1-e618f923d14f","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":" 跨境袭击："},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.sohu.com/a/1101284732_123031414"],"created":1794600698,"id":"chatcmpl-d2c6375f-e892-9d97-9da1-e618f923d14f","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"乌方远程无人机"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.sohu.com/a/1101284732_123031414"],"created":1794600698,"id":"chatcmpl-d2c6375f-e892-9d97-9da1-e618f923d14f","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"打击"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.sohu.com/a/1101284732_123031414"],"created":1794600698,"id":"chatcmpl-d2c6375f-e892-9d97-9da1-e618f923d14f","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"俄方纵深目标"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.sohu.com/a/1101284732_123031414"],"created":1794600698,"id":"chatcmpl-d2c6375f-e892-9d97-9da1-e618f923d14f","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"；乌克兰能源设施"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.sohu.com/a/1101284732_123031414"],"created":1794600698,"id":"chatcmpl-d2c6375f-e892-9d97-9da1-e618f923d14f","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"继续承受"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.sohu.com/a/1101284732_123031414"],"created":1794600698,"id":"chatcmpl-d2c6375f-e892-9d97-9da1-e618f923d14f","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"袭击压力。外交"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.sohu.com/a/1101284732_123031414"],"created":1794600698,"id":"chatcmpl-d2c6375f-e892-9d97-9da1-e618f923d14f","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"谈判：11"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.sohu.com/a/1101284732_123031414"],"created":1794600698,"id":"chatcmpl-d2c6375f-e892-9d97-9da1-e618f923d14f","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"月10-"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.sohu.com/a/1101284732_123031414"],"created":1794600698,"id":"chatcmpl-d2c6375f-e892-9d97-9da1-e618f923d14f","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"11日俄"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.sohu.com/a/1101284732_123031414"],"created":1794600698,"id":"chatcmpl-d2c6375f-e892-9d97-9da1-e618f923d14f","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"美乌在阿布"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.sohu.com/a/1101284732_123031414"],"created":1794600698,"id":"chatcmpl-d2c6375f-e892-9d97-9da1-e618f923d14f","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"扎比恢复三方"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.sohu.com/a/1101284732_123031414"],"created":1794600698,"id":"chatcmpl-d2c6375f-e892-9d97-9da1-e618f923d14f","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"会谈，2月以来"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.sohu.com/a/1101284732_123031414"],"created":1794600698,"id":"chatcmpl-d2c6375f-e892-9d97-9da1-e618f923d14f","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"首次面对面磋商；"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.sohu.com/a/1101284732_123031414"],"created":1794600698,"id":"chatcmpl-d2c6375f-e892-9d97-9da1-e618f923d14f","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"但边谈边"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.sohu.com/a/1101284732_123031414"],"created":1794600698,"id":"chatcmpl-d2c6375f-e892-9d97-9da1-e618f923d14f","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"打"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.sohu.com/a/1101284732_123031414"],"created":1794600698,"id":"chatcmpl-d2c6375f-e892-9d97-9da1-e618f923d14f","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"，短期难有"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.sohu.com/a/1101284732_123031414"],"created":1794600698,"id":"chatcmpl-d2c6375f-e892-9d97-9da1-e618f923d14f","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"完整约束军队行动"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.sohu.com/a/1101284732_123031414"],"created":1794600698,"id":"chatcmpl-d2c6375f-e892-9d97-9da1-e618f923d14f","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"协议。需要可能"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.sohu.com/a/1101284732_123031414"],"created":1794600698,"id":"chatcmpl-d2c6375f-e892-9d97-9da1-e618f923d14f","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"说明“目前搜索资料"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.sohu.com/a/1101284732_123031414"],"created":1794600698,"id":"chatcmpl-d2c6375f-e892-9d97-9da1-e618f923d14f","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"有限，仅有搜索结果"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.sohu.com/a/1101284732_123031414"],"created":1794600698,"id":"chatcmpl-d2c6375f-e892-9d97-9da1-e618f923d14f","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"提到这些”。但"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.sohu.com/a/1101284732_123031414"],"created":1794600698,"id":"chatcmpl-d2c6375f-e892-9d97-9da1-e618f923d14f","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"用户要求基于搜索结果"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.sohu.com/a/1101284732_123031414"],"created":1794600698,"id":"chatcmpl-d2c6375f-e892-9d97-9da1-e618f923d14f","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"。我们可以简洁分"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.sohu.com/a/1101284732_123031414"],"created":1794600698,"id":"chatcmpl-d2c6375f-e892-9d97-9da1-e618f923d14f","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"点。"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.sohu.com/a/1101284732_123031414"],"created":1794600698,"id":"chatcmpl-d2c6375f-e892-9d97-9da1-e618f923d14f","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"\n\n需要注意引用格式"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.sohu.com/a/1101284732_123031414"],"created":1794600698,"id":"chatcmpl-d2c6375f-e892-9d97-9da1-e618f923d14f","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"在句子末尾。"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.sohu.com/a/1101284732_123031414"],"created":1794600698,"id":"chatcmpl-d2c6375f-e892-9d97-9da1-e618f923d14f","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"不能集中最后。"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.sohu.com/a/1101284732_123031414"],"created":1794600698,"id":"chatcmpl-d2c6375f-e892-9d97-9da1-e618f923d14f","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"可"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.sohu.com/a/1101284732_123031414"],"created":1794600698,"id":"chatcmpl-d2c6375f-e892-9d97-9da1-e618f923d14f","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"写：\n截至"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.sohu.com/a/1101284732_123031414"],"created":1794600698,"id":"chatcmpl-d2c6375f-e892-9d97-9da1-e618f923d14f","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"2026"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.sohu.com/a/1101284732_123031414"],"created":1794600698,"id":"chatcmpl-d2c6375f-e892-9d97-9da1-e618f923d14f","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"年11月中旬"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.sohu.com/a/1101284732_123031414"],"created":1794600698,"id":"chatcmpl-d2c6375f-e892-9d97-9da1-e618f923d14f","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"，进展可概括"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.sohu.com/a/1101284732_123031414"],"created":1794600698,"id":"chatcmpl-d2c6375f-e892-9d97-9da1-e618f923d14f","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"为“"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.sohu.com/a/1101284732_123031414"],"created":1794600698,"id":"chatcmpl-d2c6375f-e892-9d97-9da1-e618f923d14f","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"谈判恢复、袭击"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.sohu.com/a/1101284732_123031414"],"created":1794600698,"id":"chatcmpl-d2c6375f-e892-9d97-9da1-e618f923d14f","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"未停”。\n"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.sohu.com/a/1101284732_123031414"],"created":1794600698,"id":"chatcmpl-d2c6375f-e892-9d97-9da1-e618f923d14f","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"-"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.sohu.com/a/1101284732_123031414"],"created":1794600698,"id":"chatcmpl-d2c6375f-e892-9d97-9da1-e618f923d14f","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":" 外交谈判："},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.sohu.com/a/1101284732_123031414"],"created":1794600698,"id":"chatcmpl-d2c6375f-e892-9d97-9da1-e618f923d14f","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"11"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.sohu.com/a/1101284732_123031414"],"created":1794600698,"id":"chatcmpl-d2c6375f-e892-9d97-9da1-e618f923d14f","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"月10日至"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.sohu.com/a/1101284732_123031414"],"created":1794600698,"id":"chatcmpl-d2c6375f-e892-9d97-9da1-e618f923d14f","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"11日，"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.sohu.com/a/1101284732_123031414"],"created":1794600698,"id":"chatcmpl-d2c6375f-e892-9d97-9da1-e618f923d14f","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"俄罗斯、美国和乌克兰"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.sohu.com/a/1101284732_123031414"],"created":1794600698,"id":"chatcmpl-d2c6375f-e892-9d97-9da1-e618f923d14f","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"代表团"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.sohu.com/a/1101284732_123031414"],"created":1794600698,"id":"chatcmpl-d2c6375f-e892-9d97-9da1-e618f923d14f","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"在阿布扎比"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.sohu.com/a/1101284732_123031414"],"created":1794600698,"id":"chatcmpl-d2c6375f-e892-9d97-9da1-e618f923d14f","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"恢复三方"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.sohu.com/a/1101284732_123031414"],"created":1794600698,"id":"chatcmpl-d2c6375f-e892-9d97-9da1-e618f923d14f","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"会谈，这是三方"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.sohu.com/a/1101284732_123031414"],"created":1794600698,"id":"chatcmpl-d2c6375f-e892-9d97-9da1-e618f923d14f","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"自202"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.sohu.com/a/1101284732_123031414"],"created":1794600698,"id":"chatcmpl-d2c6375f-e892-9d97-9da1-e618f923d14f","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"6年2月以来"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.sohu.com/a/1101284732_123031414"],"created":1794600698,"id":"chatcmpl-d2c6375f-e892-9d97-9da1-e618f923d14f","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"首次恢复面对面磋商"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.sohu.com/a/1101284732_123031414"],"created":1794600698,"id":"chatcmpl-d2c6375f-e892-9d97-9da1-e618f923d14f","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"[1]。"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.sohu.com/a/1101284732_123031414"],"created":1794600698,"id":"chatcmpl-d2c6375f-e892-9d97-9da1-e618f923d14f","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"由于会谈期间军事"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.sohu.com/a/1101284732_123031414"],"created":1794600698,"id":"chatcmpl-d2c6375f-e892-9d97-9da1-e618f923d14f","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"行动仍在继续，"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.sohu.com/a/1101284732_123031414"],"created":1794600698,"id":"chatcmpl-d2c6375f-e892-9d97-9da1-e618f923d14f","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"本轮会谈短期内"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.sohu.com/a/1101284732_123031414"],"created":1794600698,"id":"chatcmpl-d2c6375f-e892-9d97-9da1-e618f923d14f","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"很难形成能约束"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.sohu.com/a/1101284732_123031414"],"created":1794600698,"id":"chatcmpl-d2c6375f-e892-9d97-9da1-e618f923d14f","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"军队行动的完整协议"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.sohu.com/a/1101284732_123031414"],"created":1794600698,"id":"chatcmpl-d2c6375f-e892-9d97-9da1-e618f923d14f","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"[1]。"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.sohu.com/a/1101284732_123031414"],"created":1794600698,"id":"chatcmpl-d2c6375f-e892-9d97-9da1-e618f923d14f","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"\n- 跨境"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.sohu.com/a/1101284732_123031414"],"created":1794600698,"id":"chatcmpl-d2c6375f-e892-9d97-9da1-e618f923d14f","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"/纵深袭击："},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.sohu.com/a/1101284732_123031414"],"created":1794600698,"id":"chatcmpl-d2c6375f-e892-9d97-9da1-e618f923d14f","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"会谈期间"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.sohu.com/a/1101284732_123031414"],"created":1794600698,"id":"chatcmpl-d2c6375f-e892-9d97-9da1-e618f923d14f","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"，乌克兰能源设施"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.sohu.com/a/1101284732_123031414"],"created":1794600698,"id":"chatcmpl-d2c6375f-e892-9d97-9da1-e618f923d14f","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"继续承受袭击压力"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.sohu.com/a/1101284732_123031414"],"created":1794600698,"id":"chatcmpl-d2c6375f-e892-9d97-9da1-e618f923d14f","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"；同时，俄"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.sohu.com/a/1101284732_123031414"],"created":1794600698,"id":"chatcmpl-d2c6375f-e892-9d97-9da1-e618f923d14f","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"方纵深"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.sohu.com/a/1101284732_123031414"],"created":1794600698,"id":"chatcmpl-d2c6375f-e892-9d97-9da1-e618f923d14f","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"目标也遭到乌"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.sohu.com/a/1101284732_123031414"],"created":1794600698,"id":"chatcmpl-d2c6375f-e892-9d97-9da1-e618f923d14f","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"方远程无人机打击"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.sohu.com/a/1101284732_123031414"],"created":1794600698,"id":"chatcmpl-d2c6375f-e892-9d97-9da1-e618f923d14f","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"[1]。"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.sohu.com/a/1101284732_123031414"],"created":1794600698,"id":"chatcmpl-d2c6375f-e892-9d97-9da1-e618f923d14f","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"这说明双方仍处于“"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.sohu.com/a/1101284732_123031414"],"created":1794600698,"id":"chatcmpl-d2c6375f-e892-9d97-9da1-e618f923d14f","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"一边"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.sohu.com/a/1101284732_123031414"],"created":1794600698,"id":"chatcmpl-d2c6375f-e892-9d97-9da1-e618f923d14f","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"谈、一边打"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.sohu.com/a/1101284732_123031414"],"created":1794600698,"id":"chatcmpl-d2c6375f-e892-9d97-9da1-e618f923d14f","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"”的状态[1"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.sohu.com/a/1101284732_123031414"],"created":1794600698,"id":"chatcmpl-d2c6375f-e892-9d97-9da1-e618f923d14f","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"]。\n\n补充"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.sohu.com/a/1101284732_123031414"],"created":1794600698,"id":"chatcmpl-d2c6375f-e892-9d97-9da1-e618f923d14f","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"背景：该判断"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.sohu.com/a/1101284732_123031414"],"created":1794600698,"id":"chatcmpl-d2c6375f-e892-9d97-9da1-e618f923d14f","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"来自现有搜索结果，"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.sohu.com/a/1101284732_123031414"],"created":1794600698,"id":"chatcmpl-d2c6375f-e892-9d97-9da1-e618f923d14f","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"具体"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.sohu.com/a/1101284732_123031414"],"created":1794600698,"id":"chatcmpl-d2c6375f-e892-9d97-9da1-e618f923d14f","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"袭击地点、伤亡"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.sohu.com/a/1101284732_123031414"],"created":1794600698,"id":"chatcmpl-d2c6375f-e892-9d97-9da1-e618f923d14f","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"、设施受损及"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.sohu.com/a/1101284732_123031414"],"created":1794600698,"id":"chatcmpl-d2c6375f-e892-9d97-9da1-e618f923d14f","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"谈判条款未提供"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.sohu.com/a/1101284732_123031414"],"created":1794600698,"id":"chatcmpl-d2c6375f-e892-9d97-9da1-e618f923d14f","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"。要区分事实和"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.sohu.com/a/1101284732_123031414"],"created":1794600698,"id":"chatcmpl-d2c6375f-e892-9d97-9da1-e618f923d14f","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"判断。可以说“"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.sohu.com/a/1101284732_123031414"],"created":1794600698,"id":"chatcmpl-d2c6375f-e892-9d97-9da1-e618f923d14f","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"资料未显示已形成"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.sohu.com/a/1101284732_123031414"],"created":1794600698,"id":"chatcmpl-d2c6375f-e892-9d97-9da1-e618f923d14f","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"停火或具体"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.sohu.com/a/1101284732_123031414"],"created":1794600698,"id":"chatcmpl-d2c6375f-e892-9d97-9da1-e618f923d14f","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"成果”。\n\n"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.sohu.com/a/1101284732_123031414"],"created":1794600698,"id":"chatcmpl-d2c6375f-e892-9d97-9da1-e618f923d14f","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"需要确保不编"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.sohu.com/a/1101284732_123031414"],"created":1794600698,"id":"chatcmpl-d2c6375f-e892-9d97-9da1-e618f923d14f","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"造。日期："},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.sohu.com/a/1101284732_123031414"],"created":1794600698,"id":"chatcmpl-d2c6375f-e892-9d97-9da1-e618f923d14f","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"今天202"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.sohu.com/a/1101284732_123031414"],"created":1794600698,"id":"chatcmpl-d2c6375f-e892-9d97-9da1-e618f923d14f","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"61"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.sohu.com/a/1101284732_123031414"],"created":1794600698,"id":"chatcmpl-d2c6375f-e892-9d97-9da1-e618f923d14f","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"114，"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.sohu.com/a/1101284732_123031414"],"created":1794600698,"id":"chatcmpl-d2c6375f-e892-9d97-9da1-e618f923d14f","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"11月中旬。"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.sohu.com/a/1101284732_123031414"],"created":1794600698,"id":"chatcmpl-d2c6375f-e892-9d97-9da1-e618f923d14f","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"回答。可用标题"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.sohu.com/a/1101284732_123031414"],"created":1794600698,"id":"chatcmpl-d2c6375f-e892-9d97-9da1-e618f923d14f","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"。"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.sohu.com/a/1101284732_123031414"],"created":1794600698,"id":"chatcmpl-d2c6375f-e892-9d97-9da1-e618f923d14f","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"截至 20","reasoning_content":""},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.sohu.com/a/1101284732_123031414"],"created":1794600698,"id":"chatcmpl-d2c6375f-e892-9d97-9da1-e618f923d14f","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"26","reasoning_content":""},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.sohu.com/a/1101284732_123031414"],"created":1794600698,"id":"chatcmpl-d2c6375f-e892-9d97-9da1-e618f923d14f","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":" 年 1","reasoning_content":""},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.sohu.com/a/1101284732_123031414"],"created":1794600698,"id":"chatcmpl-d2c6375f-e892-9d97-9da1-e618f923d14f","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"1 月中旬，","reasoning_content":""},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.sohu.com/a/1101284732_123031414"],"created":1794600698,"id":"chatcmpl-d2c6375f-e892-9d97-9da1-e618f923d14f","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"俄乌局势可概括","reasoning_content":""},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.sohu.com/a/1101284732_123031414"],"created":1794600698,"id":"chatcmpl-d2c6375f-e892-9d97-9da1-e618f923d14f","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"为：**","reasoning_content":""},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.sohu.com/a/1101284732_123031414"],"created":1794600698,"id":"chatcmpl-d2c6375f-e892-9d97-9da1-e618f923d14f","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"外交谈判重新恢复","reasoning_content":""},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.sohu.com/a/1101284732_123031414"],"created":1794600698,"id":"chatcmpl-d2c6375f-e892-9d97-9da1-e618f923d14f","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"，但跨境","reasoning_content":""},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.sohu.com/a/1101284732_123031414"],"created":1794600698,"id":"chatcmpl-d2c6375f-e892-9d97-9da1-e618f923d14f","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"/纵深袭击仍在","reasoning_content":""},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.sohu.com/a/1101284732_123031414"],"created":1794600698,"id":"chatcmpl-d2c6375f-e892-9d97-9da1-e618f923d14f","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"继续","reasoning_content":""},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.sohu.com/a/1101284732_123031414"],"created":1794600698,"id":"chatcmpl-d2c6375f-e892-9d97-9da1-e618f923d14f","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"**。\n\n**外交","reasoning_content":""},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.sohu.com/a/1101284732_123031414"],"created":1794600698,"id":"chatcmpl-d2c6375f-e892-9d97-9da1-e618f923d14f","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"谈判方面：**  \n","reasoning_content":""},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.sohu.com/a/1101284732_123031414"],"created":1794600698,"id":"chatcmpl-d2c6375f-e892-9d97-9da1-e618f923d14f","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"11","reasoning_content":""},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.sohu.com/a/1101284732_123031414"],"created":1794600698,"id":"chatcmpl-d2c6375f-e892-9d97-9da1-e618f923d14f","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":" 月 1","reasoning_content":""},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.sohu.com/a/1101284732_123031414"],"created":1794600698,"id":"chatcmpl-d2c6375f-e892-9d97-9da1-e618f923d14f","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"0 日至 ","reasoning_content":""},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.sohu.com/a/1101284732_123031414"],"created":1794600698,"id":"chatcmpl-d2c6375f-e892-9d97-9da1-e618f923d14f","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"11 日","reasoning_content":""},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.sohu.com/a/1101284732_123031414"],"created":1794600698,"id":"chatcmpl-d2c6375f-e892-9d97-9da1-e618f923d14f","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"，俄罗斯、美国和","reasoning_content":""},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.sohu.com/a/1101284732_123031414"],"created":1794600698,"id":"chatcmpl-d2c6375f-e892-9d97-9da1-e618f923d14f","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"乌克兰代表团在阿联酋","reasoning_content":""},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.sohu.com/a/1101284732_123031414"],"created":1794600698,"id":"chatcmpl-d2c6375f-e892-9d97-9da1-e618f923d14f","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"首都阿布扎比","reasoning_content":""},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.sohu.com/a/1101284732_123031414"],"created":1794600698,"id":"chatcmpl-d2c6375f-e892-9d97-9da1-e618f923d14f","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"恢复三方会谈，","reasoning_content":""},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.sohu.com/a/1101284732_123031414"],"created":1794600698,"id":"chatcmpl-d2c6375f-e892-9d97-9da1-e618f923d14f","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"这是三方自 ","reasoning_content":""},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.sohu.com/a/1101284732_123031414"],"created":1794600698,"id":"chatcmpl-d2c6375f-e892-9d97-9da1-e618f923d14f","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"20","reasoning_content":""},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.sohu.com/a/1101284732_123031414"],"created":1794600698,"id":"chatcmpl-d2c6375f-e892-9d97-9da1-e618f923d14f","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"26 年","reasoning_content":""},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.sohu.com/a/1101284732_123031414"],"created":1794600698,"id":"chatcmpl-d2c6375f-e892-9d97-9da1-e618f923d14f","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":" 2 月以来","reasoning_content":""},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.sohu.com/a/1101284732_123031414"],"created":1794600698,"id":"chatcmpl-d2c6375f-e892-9d97-9da1-e618f923d14f","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"首次恢复面对面磋商","reasoning_content":""},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.sohu.com/a/1101284732_123031414"],"created":1794600698,"id":"chatcmpl-d2c6375f-e892-9d97-9da1-e618f923d14f","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"[1]。","reasoning_content":""},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.sohu.com/a/1101284732_123031414"],"created":1794600698,"id":"chatcmpl-d2c6375f-e892-9d97-9da1-e618f923d14f","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"不过，会谈启动","reasoning_content":""},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.sohu.com/a/1101284732_123031414"],"created":1794600698,"id":"chatcmpl-d2c6375f-e892-9d97-9da1-e618f923d14f","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"时双方","reasoning_content":""},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.sohu.com/a/1101284732_123031414"],"created":1794600698,"id":"chatcmpl-d2c6375f-e892-9d97-9da1-e618f923d14f","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"军事行动并未停止","reasoning_content":""},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.sohu.com/a/1101284732_123031414"],"created":1794600698,"id":"chatcmpl-d2c6375f-e892-9d97-9da1-e618f923d14f","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"，因此本轮会谈","reasoning_content":""},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.sohu.com/a/1101284732_123031414"],"created":1794600698,"id":"chatcmpl-d2c6375f-e892-9d97-9da1-e618f923d14f","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"短期内很难形成能够","reasoning_content":""},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.sohu.com/a/1101284732_123031414"],"created":1794600698,"id":"chatcmpl-d2c6375f-e892-9d97-9da1-e618f923d14f","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"约束军队行动的完整","reasoning_content":""},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.sohu.com/a/1101284732_123031414"],"created":1794600698,"id":"chatcmpl-d2c6375f-e892-9d97-9da1-e618f923d14f","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"协议[1]","reasoning_content":""},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.sohu.com/a/1101284732_123031414"],"created":1794600698,"id":"chatcmpl-d2c6375f-e892-9d97-9da1-e618f923d14f","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"。\n\n**跨境","reasoning_content":""},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.sohu.com/a/1101284732_123031414"],"created":1794600698,"id":"chatcmpl-d2c6375f-e892-9d97-9da1-e618f923d14f","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"袭击方面：**  \n","reasoning_content":""},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.sohu.com/a/1101284732_123031414"],"created":1794600698,"id":"chatcmpl-d2c6375f-e892-9d97-9da1-e618f923d14f","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"会谈期间，乌克兰","reasoning_content":""},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.sohu.com/a/1101284732_123031414"],"created":1794600698,"id":"chatcmpl-d2c6375f-e892-9d97-9da1-e618f923d14f","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"能源设施仍持续","reasoning_content":""},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.sohu.com/a/1101284732_123031414"],"created":1794600698,"id":"chatcmpl-d2c6375f-e892-9d97-9da1-e618f923d14f","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"承受袭击压力；","reasoning_content":""},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.sohu.com/a/1101284732_123031414"],"created":1794600698,"id":"chatcmpl-d2c6375f-e892-9d97-9da1-e618f923d14f","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"同时，俄方","reasoning_content":""},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.sohu.com/a/1101284732_123031414"],"created":1794600698,"id":"chatcmpl-d2c6375f-e892-9d97-9da1-e618f923d14f","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"纵深目标也遭到","reasoning_content":""},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.sohu.com/a/1101284732_123031414"],"created":1794600698,"id":"chatcmpl-d2c6375f-e892-9d97-9da1-e618f923d14f","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"乌方远程无人机","reasoning_content":""},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.sohu.com/a/1101284732_123031414"],"created":1794600698,"id":"chatcmpl-d2c6375f-e892-9d97-9da1-e618f923d14f","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"打击[1]","reasoning_content":""},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.sohu.com/a/1101284732_123031414"],"created":1794600698,"id":"chatcmpl-d2c6375f-e892-9d97-9da1-e618f923d14f","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"。这显示当前","reasoning_content":""},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.sohu.com/a/1101284732_123031414"],"created":1794600698,"id":"chatcmpl-d2c6375f-e892-9d97-9da1-e618f923d14f","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"局势仍呈现“","reasoning_content":""},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.sohu.com/a/1101284732_123031414"],"created":1794600698,"id":"chatcmpl-d2c6375f-e892-9d97-9da1-e618f923d14f","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"一边谈","reasoning_content":""},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.sohu.com/a/1101284732_123031414"],"created":1794600698,"id":"chatcmpl-d2c6375f-e892-9d97-9da1-e618f923d14f","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"、一边打”","reasoning_content":""},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.sohu.com/a/1101284732_123031414"],"created":1794600698,"id":"chatcmpl-d2c6375f-e892-9d97-9da1-e618f923d14f","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"的特点[1]","reasoning_content":""},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.sohu.com/a/1101284732_123031414"],"created":1794600698,"id":"chatcmpl-d2c6375f-e892-9d97-9da1-e618f923d14f","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"。","reasoning_content":""},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.sohu.com/a/1101284732_123031414"],"created":1794600698,"id":"chatcmpl-d2c6375f-e892-9d97-9da1-e618f923d14f","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"\n\n目前可查","reasoning_content":""},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.sohu.com/a/1101284732_123031414"],"created":1794600698,"id":"chatcmpl-d2c6375f-e892-9d97-9da1-e618f923d14f","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"资料","reasoning_content":""},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.sohu.com/a/1101284732_123031414"],"created":1794600698,"id":"chatcmpl-d2c6375f-e892-9d97-9da1-e618f923d14f","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"主要说明到这一","reasoning_content":""},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.sohu.com/a/1101284732_123031414"],"created":1794600698,"id":"chatcmpl-d2c6375f-e892-9d97-9da1-e618f923d14f","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"层；更具体的","reasoning_content":""},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.sohu.com/a/1101284732_123031414"],"created":1794600698,"id":"chatcmpl-d2c6375f-e892-9d97-9da1-e618f923d14f","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"袭击目标","reasoning_content":""},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.sohu.com/a/1101284732_123031414"],"created":1794600698,"id":"chatcmpl-d2c6375f-e892-9d97-9da1-e618f923d14f","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"、伤亡损失、","reasoning_content":""},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.sohu.com/a/1101284732_123031414"],"created":1794600698,"id":"chatcmpl-d2c6375f-e892-9d97-9da1-e618f923d14f","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"谈判成果","reasoning_content":""},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.sohu.com/a/1101284732_123031414"],"created":1794600698,"id":"chatcmpl-d2c6375f-e892-9d97-9da1-e618f923d14f","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"或协议细节，","reasoning_content":""},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.sohu.com/a/1101284732_123031414"],"created":1794600698,"id":"chatcmpl-d2c6375f-e892-9d97-9da1-e618f923d14f","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"尚未在现有信息","reasoning_content":""},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.sohu.com/a/1101284732_123031414"],"created":1794600698,"id":"chatcmpl-d2c6375f-e892-9d97-9da1-e618f923d14f","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"中得到确认。","reasoning_content":""},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.sohu.com/a/1101284732_123031414"],"created":1794600698,"id":"chatcmpl-d2c6375f-e892-9d97-9da1-e618f923d14f","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":""},"finish_reason":"stop","index":0,"logprobs":null}],"citations":["https://www.sohu.com/a/1101284732_123031414"],"created":1794600698,"id":"chatcmpl-d2c6375f-e892-9d97-9da1-e618f923d14f","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[],"citations":["https://www.sohu.com/a/1101284732_123031414"],"created":1794600698,"id":"chatcmpl-d2c6375f-e892-9d97-9da1-e618f923d14f","model":"qwen3.8-max","object":"chat.completion.chunk","usage":{"completion_tokens":725,"completion_tokens_details":{"reasoning_tokens":517,"text_tokens":725},"prompt_tokens":799,"prompt_tokens_details":{"cached_tokens":0,"text_tokens":799},"total_tokens":1524}}
+
+data: [DONE]
+

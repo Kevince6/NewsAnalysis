@@ -1,0 +1,56 @@
+{
+  "request": {
+    "model": "deepseek-flash",
+    "messages": [
+      {
+        "role": "system",
+        "content": "请联网检索后，用自然中文回答用户的问题。\n先直接回答，再补充理解答案所需的事实、背景或说明；复杂问题可分点，简单问题可简答。\n优先参考与问题直接相关的原始发布、机构公告、当事人回应及可信媒体报道。\n依据检索到的资料作答。资料不足、存在分歧或尚未确认的内容，请明确说明；解释和判断应与已确认的事实区分。\n在相关事实后标注检索来源，沿用检索结果提供的引用编号或标记。\n\n查询日期：2026-11-14（北京时间，UTC+8）。问题中的“现在”“近期”“最新”以此日期为参照；问题明确指定时间范围时，以问题为准。"
+      },
+      {
+        "role": "user",
+        "content": "Wiz披露Moltbook暴露了多少API认证令牌、电子邮箱，还有哪些数据？平台多久修复了问题？"
+      }
+    ],
+    "web-search": true,
+    "search-service": "metaso",
+    "search-results": 5,
+    "stream": true,
+    "stream_options": {
+      "include_usage": true
+    }
+  },
+  "response": {
+    "object": "chat.completion",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "据Wiz披露，Moltbook因Supabase数据库配置错误，暴露了**150万个API认证令牌**和**3.5万个电子邮箱地址**[1][2][4]。除这两类数据外，泄露内容还包括**大量智能体之间的私信**；由于配置错误，数据库一度允许对所有平台数据进行完全读写访问[1][2]。\n\n另外两项关键发现是：平台宣称的近300万（或160万）注册智能体，实际可能只对应约**1.7万名人类操作者**，平均每人控制88至近百个账号[1][4]；平台同时还缺乏身份验证与频率限制，任何人可伪装成AI或批量操纵账号[4]。\n\n关于**平台多久修复了问题**：现有检索结果只说明Wiz通过“像普通用户一样浏览”的非侵入性安全审查发现了漏洞，并指出安全并非Moltbook的首要任务[2]，但**没有披露从暴露到修复的具体时长或修复时间点**。因此，修复耗时目前无法依据这些资料确认。",
+          "reasoning_content": "用户问：Wiz披露Moltbook暴露了多少API认证令牌、电子邮箱，还有哪些数据？平台多久修复了问题？\n\n搜索结果给了令牌150万、邮箱3.5万、还有智能体之间的私信。注册智能体近300万对应约1.7万人类操作者（平均每人88或近百个）。修复时间——搜索结果没有提供修复时长。需要明确说明资料不足。\n\n引用[1][2][4]。注意\"多久修复\"搜索结果未提及，不能编造。可以说明Wiz通过非侵入性审查发现，但修复时间未在检索结果中披露。"
+        },
+        "finish_reason": "stop"
+      }
+    ],
+    "id": "chatcmpl-350a61b2-d86f-4915-bbdf-bcf1c38a7556",
+    "model": "deepseek-flash",
+    "created": 1794627041,
+    "citations": [
+      "https://news.qq.com/rain/a/20260306A0800D00",
+      "https://news.sina.cn/ai/2026-02-10/detail-inhminum5537302.d.html",
+      "https://finance.sina.cn/stock/jdts/2026-03-25/detail-inhseiyf9902729.d.html"
+    ],
+    "usage": {
+      "completion_tokens": 346,
+      "completion_tokens_details": {
+        "reasoning_tokens": 127
+      },
+      "prompt_tokens": 1030,
+      "prompt_tokens_details": {
+        "cached_tokens": 0
+      },
+      "total_tokens": 1376
+    },
+    "_transport": "sse"
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "request": {
+    "model": "deepseek-flash",
+    "messages": [
+      {
+        "role": "system",
+        "content": "请联网检索后，用自然中文回答用户的问题。\n先直接回答，再补充理解答案所需的事实、背景或说明；复杂问题可分点，简单问题可简答。\n优先参考与问题直接相关的原始发布、机构公告、当事人回应及可信媒体报道。\n依据检索到的资料作答。资料不足、存在分歧或尚未确认的内容，请明确说明；解释和判断应与已确认的事实区分。\n在相关事实后标注检索来源，沿用检索结果提供的引用编号或标记。\n\n查询日期：2026-11-14（北京时间，UTC+8）。问题中的“现在”“近期”“最新”以此日期为参照；问题明确指定时间范围时，以问题为准。"
+      },
+      {
+        "role": "user",
+        "content": "2025年7月25日，汪苏泷方对《年轮》授权作出了什么决定？"
+      }
+    ],
+    "web-search": true,
+    "search-service": "metaso",
+    "search-results": 5,
+    "stream": true,
+    "stream_options": {
+      "include_usage": true
+    }
+  },
+  "response": {
+    "object": "chat.completion",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "2025年7月25日，汪苏泷方决定**收回歌曲《年轮》的演唱授权，暂时不授权该作品用于任何演唱**[1][4]。\n\n当天，汪苏泷对接号发文说明，这一决定是因为某博主的不当话术引发《年轮》相关争议；团队本无意参与，积极沟通后仍陷入风波，因此在《年轮》发行十年之际收回授权，并希望外界关注回归音乐本身[1]。同日，张碧晨工作室也发表声明，主张张碧晨是《年轮》的“唯一原唱”，双方的争议由此进一步公开化[1][4]。",
+          "reasoning_content": "用户问的是2025年7月25日汪苏泷方对《年轮》授权作出的决定。根据搜索结果，汪苏泷对接号发文称因某博主不当话术引发争议，决定收回授权，暂不授权该作品做任何演唱。需要引用[1]，可能[4][5]。\n\n直接回答，补充背景：争议起因是原唱之争，张碧晨工作室声明称其为唯一原唱[1]。注意日期是2025年7月25日。回答简洁。"
+        },
+        "finish_reason": "stop"
+      }
+    ],
+    "id": "chatcmpl-15d294c9-e261-4a9c-bfe1-300c54fea621",
+    "model": "deepseek-flash",
+    "created": 1794629605,
+    "citations": [
+      "https://baike.baidu.com/item/%E5%B9%B4%E8%BD%AE/17740222#%3A~%3Atext%3D%E5%9B%A0%E6%AD%A4%E5%BC%A0%E7%A2%A7%E6%99%A8%E5%A5%B3%E5%A3%AB%E6%98%AF%E3%80%8A%E5%B9%B4%E8%BD%AE%E3%80%8B%E7%9A%84%E5%94%AF%E4%B8%80%E5%8E%9F%E5%94%B1%E3%80%82",
+      "https://v.qq.com/x/page/j11909fvak4.html",
+      "https://ent.china.com/movie/newszh/11005281/20250727/48657103.html"
+    ],
+    "usage": {
+      "completion_tokens": 245,
+      "completion_tokens_details": {
+        "reasoning_tokens": 108
+      },
+      "prompt_tokens": 1118,
+      "prompt_tokens_details": {
+        "cached_tokens": 0
+      },
+      "total_tokens": 1363
+    },
+    "_transport": "sse"
+  }
+}

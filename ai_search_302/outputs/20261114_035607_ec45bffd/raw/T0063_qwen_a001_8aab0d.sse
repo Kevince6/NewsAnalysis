@@ -1,0 +1,484 @@
+data: {"choices":[{"delta":{"content":"","reasoning_content":"","role":"assistant"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.chinanews.com.cn/gj/2026/11-12/10730753.shtml","https://news.qq.com/rain/a/20261005A08YHF00"],"created":1794626131,"id":"chatcmpl-f6d30164-8137-9daf-a40c-f444ad75db61","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"用户"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.chinanews.com.cn/gj/2026/11-12/10730753.shtml","https://news.qq.com/rain/a/20261005A08YHF00"],"created":1794626131,"id":"chatcmpl-f6d30164-8137-9daf-a40c-f444ad75db61","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"用中文提问："},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.chinanews.com.cn/gj/2026/11-12/10730753.shtml","https://news.qq.com/rain/a/20261005A08YHF00"],"created":1794626131,"id":"chatcmpl-f6d30164-8137-9daf-a40c-f444ad75db61","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"2026"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.chinanews.com.cn/gj/2026/11-12/10730753.shtml","https://news.qq.com/rain/a/20261005A08YHF00"],"created":1794626131,"id":"chatcmpl-f6d30164-8137-9daf-a40c-f444ad75db61","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"年密西西比"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.chinanews.com.cn/gj/2026/11-12/10730753.shtml","https://news.qq.com/rain/a/20261005A08YHF00"],"created":1794626131,"id":"chatcmpl-f6d30164-8137-9daf-a40c-f444ad75db61","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"州参议员选举"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.chinanews.com.cn/gj/2026/11-12/10730753.shtml","https://news.qq.com/rain/a/20261005A08YHF00"],"created":1794626131,"id":"chatcmpl-f6d30164-8137-9daf-a40c-f444ad75db61","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"中，斯科特"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.chinanews.com.cn/gj/2026/11-12/10730753.shtml","https://news.qq.com/rain/a/20261005A08YHF00"],"created":1794626131,"id":"chatcmpl-f6d30164-8137-9daf-a40c-f444ad75db61","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"·科洛姆"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.chinanews.com.cn/gj/2026/11-12/10730753.shtml","https://news.qq.com/rain/a/20261005A08YHF00"],"created":1794626131,"id":"chatcmpl-f6d30164-8137-9daf-a40c-f444ad75db61","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"击败了谁？这是"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.chinanews.com.cn/gj/2026/11-12/10730753.shtml","https://news.qq.com/rain/a/20261005A08YHF00"],"created":1794626131,"id":"chatcmpl-f6d30164-8137-9daf-a40c-f444ad75db61","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"谁从谁手里"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.chinanews.com.cn/gj/2026/11-12/10730753.shtml","https://news.qq.com/rain/a/20261005A08YHF00"],"created":1794626131,"id":"chatcmpl-f6d30164-8137-9daf-a40c-f444ad75db61","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"拿到的席位？"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.chinanews.com.cn/gj/2026/11-12/10730753.shtml","https://news.qq.com/rain/a/20261005A08YHF00"],"created":1794626131,"id":"chatcmpl-f6d30164-8137-9daf-a40c-f444ad75db61","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"需要基于搜索结果回答"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.chinanews.com.cn/gj/2026/11-12/10730753.shtml","https://news.qq.com/rain/a/20261005A08YHF00"],"created":1794626131,"id":"chatcmpl-f6d30164-8137-9daf-a40c-f444ad75db61","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"。必须先调用工具"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.chinanews.com.cn/gj/2026/11-12/10730753.shtml","https://news.qq.com/rain/a/20261005A08YHF00"],"created":1794626131,"id":"chatcmpl-f6d30164-8137-9daf-a40c-f444ad75db61","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"，已调用"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.chinanews.com.cn/gj/2026/11-12/10730753.shtml","https://news.qq.com/rain/a/20261005A08YHF00"],"created":1794626131,"id":"chatcmpl-f6d30164-8137-9daf-a40c-f444ad75db61","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"。需要自然中文"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.chinanews.com.cn/gj/2026/11-12/10730753.shtml","https://news.qq.com/rain/a/20261005A08YHF00"],"created":1794626131,"id":"chatcmpl-f6d30164-8137-9daf-a40c-f444ad75db61","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"回答，先直接"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.chinanews.com.cn/gj/2026/11-12/10730753.shtml","https://news.qq.com/rain/a/20261005A08YHF00"],"created":1794626131,"id":"chatcmpl-f6d30164-8137-9daf-a40c-f444ad75db61","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"回答，再补充"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.chinanews.com.cn/gj/2026/11-12/10730753.shtml","https://news.qq.com/rain/a/20261005A08YHF00"],"created":1794626131,"id":"chatcmpl-f6d30164-8137-9daf-a40c-f444ad75db61","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"背景。引用格式"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.chinanews.com.cn/gj/2026/11-12/10730753.shtml","https://news.qq.com/rain/a/20261005A08YHF00"],"created":1794626131,"id":"chatcmpl-f6d30164-8137-9daf-a40c-f444ad75db61","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":" [X]。"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.chinanews.com.cn/gj/2026/11-12/10730753.shtml","https://news.qq.com/rain/a/20261005A08YHF00"],"created":1794626131,"id":"chatcmpl-f6d30164-8137-9daf-a40c-f444ad75db61","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"今天"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.chinanews.com.cn/gj/2026/11-12/10730753.shtml","https://news.qq.com/rain/a/20261005A08YHF00"],"created":1794626131,"id":"chatcmpl-f6d30164-8137-9daf-a40c-f444ad75db61","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":" 202"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.chinanews.com.cn/gj/2026/11-12/10730753.shtml","https://news.qq.com/rain/a/20261005A08YHF00"],"created":1794626131,"id":"chatcmpl-f6d30164-8137-9daf-a40c-f444ad75db61","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"6"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.chinanews.com.cn/gj/2026/11-12/10730753.shtml","https://news.qq.com/rain/a/20261005A08YHF00"],"created":1794626131,"id":"chatcmpl-f6d30164-8137-9daf-a40c-f444ad75db61","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"-11-"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.chinanews.com.cn/gj/2026/11-12/10730753.shtml","https://news.qq.com/rain/a/20261005A08YHF00"],"created":1794626131,"id":"chatcmpl-f6d30164-8137-9daf-a40c-f444ad75db61","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"14。\n\n"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.chinanews.com.cn/gj/2026/11-12/10730753.shtml","https://news.qq.com/rain/a/20261005A08YHF00"],"created":1794626131,"id":"chatcmpl-f6d30164-8137-9daf-a40c-f444ad75db61","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"提取事实：\n"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.chinanews.com.cn/gj/2026/11-12/10730753.shtml","https://news.qq.com/rain/a/20261005A08YHF00"],"created":1794626131,"id":"chatcmpl-f6d30164-8137-9daf-a40c-f444ad75db61","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"- 密西西"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.chinanews.com.cn/gj/2026/11-12/10730753.shtml","https://news.qq.com/rain/a/20261005A08YHF00"],"created":1794626131,"id":"chatcmpl-f6d30164-8137-9daf-a40c-f444ad75db61","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"比州"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.chinanews.com.cn/gj/2026/11-12/10730753.shtml","https://news.qq.com/rain/a/20261005A08YHF00"],"created":1794626131,"id":"chatcmpl-f6d30164-8137-9daf-a40c-f444ad75db61","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"民主党人翻转参"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.chinanews.com.cn/gj/2026/11-12/10730753.shtml","https://news.qq.com/rain/a/20261005A08YHF00"],"created":1794626131,"id":"chatcmpl-f6d30164-8137-9daf-a40c-f444ad75db61","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"议院席位。美"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.chinanews.com.cn/gj/2026/11-12/10730753.shtml","https://news.qq.com/rain/a/20261005A08YHF00"],"created":1794626131,"id":"chatcmpl-f6d30164-8137-9daf-a40c-f444ad75db61","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"联社11月"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.chinanews.com.cn/gj/2026/11-12/10730753.shtml","https://news.qq.com/rain/a/20261005A08YHF00"],"created":1794626131,"id":"chatcmpl-f6d30164-8137-9daf-a40c-f444ad75db61","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"11日测算"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.chinanews.com.cn/gj/2026/11-12/10730753.shtml","https://news.qq.com/rain/a/20261005A08YHF00"],"created":1794626131,"id":"chatcmpl-f6d30164-8137-9daf-a40c-f444ad75db61","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"，"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.chinanews.com.cn/gj/2026/11-12/10730753.shtml","https://news.qq.com/rain/a/20261005A08YHF00"],"created":1794626131,"id":"chatcmpl-f6d30164-8137-9daf-a40c-f444ad75db61","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"民主党候选人斯科特"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.chinanews.com.cn/gj/2026/11-12/10730753.shtml","https://news.qq.com/rain/a/20261005A08YHF00"],"created":1794626131,"id":"chatcmpl-f6d30164-8137-9daf-a40c-f444ad75db61","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"·科洛姆"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.chinanews.com.cn/gj/2026/11-12/10730753.shtml","https://news.qq.com/rain/a/20261005A08YHF00"],"created":1794626131,"id":"chatcmpl-f6d30164-8137-9daf-a40c-f444ad75db61","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"赢得密西西比"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.chinanews.com.cn/gj/2026/11-12/10730753.shtml","https://news.qq.com/rain/a/20261005A08YHF00"],"created":1794626131,"id":"chatcmpl-f6d30164-8137-9daf-a40c-f444ad75db61","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"州联邦参议员"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.chinanews.com.cn/gj/2026/11-12/10730753.shtml","https://news.qq.com/rain/a/20261005A08YHF00"],"created":1794626131,"id":"chatcmpl-f6d30164-8137-9daf-a40c-f444ad75db61","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"选举，击败共和党"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.chinanews.com.cn/gj/2026/11-12/10730753.shtml","https://news.qq.com/rain/a/20261005A08YHF00"],"created":1794626131,"id":"chatcmpl-f6d30164-8137-9daf-a40c-f444ad75db61","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"籍现任参议员"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.chinanews.com.cn/gj/2026/11-12/10730753.shtml","https://news.qq.com/rain/a/20261005A08YHF00"],"created":1794626131,"id":"chatcmpl-f6d30164-8137-9daf-a40c-f444ad75db61","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"辛迪·海德"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.chinanews.com.cn/gj/2026/11-12/10730753.shtml","https://news.qq.com/rain/a/20261005A08YHF00"],"created":1794626131,"id":"chatcmpl-f6d30164-8137-9daf-a40c-f444ad75db61","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"-史密斯。["},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.chinanews.com.cn/gj/2026/11-12/10730753.shtml","https://news.qq.com/rain/a/20261005A08YHF00"],"created":1794626131,"id":"chatcmpl-f6d30164-8137-9daf-a40c-f444ad75db61","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"1]\n"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.chinanews.com.cn/gj/2026/11-12/10730753.shtml","https://news.qq.com/rain/a/20261005A08YHF00"],"created":1794626131,"id":"chatcmpl-f6d30164-8137-9daf-a40c-f444ad75db61","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"- 20"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.chinanews.com.cn/gj/2026/11-12/10730753.shtml","https://news.qq.com/rain/a/20261005A08YHF00"],"created":1794626131,"id":"chatcmpl-f6d30164-8137-9daf-a40c-f444ad75db61","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"26中期选举"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.chinanews.com.cn/gj/2026/11-12/10730753.shtml","https://news.qq.com/rain/a/20261005A08YHF00"],"created":1794626131,"id":"chatcmpl-f6d30164-8137-9daf-a40c-f444ad75db61","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"11月"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.chinanews.com.cn/gj/2026/11-12/10730753.shtml","https://news.qq.com/rain/a/20261005A08YHF00"],"created":1794626131,"id":"chatcmpl-f6d30164-8137-9daf-a40c-f444ad75db61","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"3日举行。民主党"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.chinanews.com.cn/gj/2026/11-12/10730753.shtml","https://news.qq.com/rain/a/20261005A08YHF00"],"created":1794626131,"id":"chatcmpl-f6d30164-8137-9daf-a40c-f444ad75db61","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"重获国会参"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.chinanews.com.cn/gj/2026/11-12/10730753.shtml","https://news.qq.com/rain/a/20261005A08YHF00"],"created":1794626131,"id":"chatcmpl-f6d30164-8137-9daf-a40c-f444ad75db61","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"众"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.chinanews.com.cn/gj/2026/11-12/10730753.shtml","https://news.qq.com/rain/a/20261005A08YHF00"],"created":1794626131,"id":"chatcmpl-f6d30164-8137-9daf-a40c-f444ad75db61","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"两院控制权已"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.chinanews.com.cn/gj/2026/11-12/10730753.shtml","https://news.qq.com/rain/a/20261005A08YHF00"],"created":1794626131,"id":"chatcmpl-f6d30164-8137-9daf-a40c-f444ad75db61","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"无悬念，但"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.chinanews.com.cn/gj/2026/11-12/10730753.shtml","https://news.qq.com/rain/a/20261005A08YHF00"],"created":1794626131,"id":"chatcmpl-f6d30164-8137-9daf-a40c-f444ad75db61","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"仍有1参议院"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.chinanews.com.cn/gj/2026/11-12/10730753.shtml","https://news.qq.com/rain/a/20261005A08YHF00"],"created":1794626131,"id":"chatcmpl-f6d30164-8137-9daf-a40c-f444ad75db61","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"议席和1"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.chinanews.com.cn/gj/2026/11-12/10730753.shtml","https://news.qq.com/rain/a/20261005A08YHF00"],"created":1794626131,"id":"chatcmpl-f6d30164-8137-9daf-a40c-f444ad75db61","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"2"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.chinanews.com.cn/gj/2026/11-12/10730753.shtml","https://news.qq.com/rain/a/20261005A08YHF00"],"created":1794626131,"id":"chatcmpl-f6d30164-8137-9daf-a40c-f444ad75db61","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"众议院议席"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.chinanews.com.cn/gj/2026/11-12/10730753.shtml","https://news.qq.com/rain/a/20261005A08YHF00"],"created":1794626131,"id":"chatcmpl-f6d30164-8137-9daf-a40c-f444ad75db61","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"未完成计票。"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.chinanews.com.cn/gj/2026/11-12/10730753.shtml","https://news.qq.com/rain/a/20261005A08YHF00"],"created":1794626131,"id":"chatcmpl-f6d30164-8137-9daf-a40c-f444ad75db61","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"[1]\n"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.chinanews.com.cn/gj/2026/11-12/10730753.shtml","https://news.qq.com/rain/a/20261005A08YHF00"],"created":1794626131,"id":"chatcmpl-f6d30164-8137-9daf-a40c-f444ad75db61","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"- 科洛"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.chinanews.com.cn/gj/2026/11-12/10730753.shtml","https://news.qq.com/rain/a/20261005A08YHF00"],"created":1794626131,"id":"chatcmpl-f6d30164-8137-9daf-a40c-f444ad75db61","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"姆以4"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.chinanews.com.cn/gj/2026/11-12/10730753.shtml","https://news.qq.com/rain/a/20261005A08YHF00"],"created":1794626131,"id":"chatcmpl-f6d30164-8137-9daf-a40c-f444ad75db61","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"9.2%"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.chinanews.com.cn/gj/2026/11-12/10730753.shtml","https://news.qq.com/rain/a/20261005A08YHF00"],"created":1794626131,"id":"chatcmpl-f6d30164-8137-9daf-a40c-f444ad75db61","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"得票率击败"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.chinanews.com.cn/gj/2026/11-12/10730753.shtml","https://news.qq.com/rain/a/20261005A08YHF00"],"created":1794626131,"id":"chatcmpl-f6d30164-8137-9daf-a40c-f444ad75db61","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"海德-史密斯。"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.chinanews.com.cn/gj/2026/11-12/10730753.shtml","https://news.qq.com/rain/a/20261005A08YHF00"],"created":1794626131,"id":"chatcmpl-f6d30164-8137-9daf-a40c-f444ad75db61","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"后者当天承认败"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.chinanews.com.cn/gj/2026/11-12/10730753.shtml","https://news.qq.com/rain/a/20261005A08YHF00"],"created":1794626131,"id":"chatcmpl-f6d30164-8137-9daf-a40c-f444ad75db61","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"选。"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.chinanews.com.cn/gj/2026/11-12/10730753.shtml","https://news.qq.com/rain/a/20261005A08YHF00"],"created":1794626131,"id":"chatcmpl-f6d30164-8137-9daf-a40c-f444ad75db61","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"[1]\n"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.chinanews.com.cn/gj/2026/11-12/10730753.shtml","https://news.qq.com/rain/a/20261005A08YHF00"],"created":1794626131,"id":"chatcmpl-f6d30164-8137-9daf-a40c-f444ad75db61","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"- 另一搜索结果"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.chinanews.com.cn/gj/2026/11-12/10730753.shtml","https://news.qq.com/rain/a/20261005A08YHF00"],"created":1794626131,"id":"chatcmpl-f6d30164-8137-9daf-a40c-f444ad75db61","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"说近三十年来"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.chinanews.com.cn/gj/2026/11-12/10730753.shtml","https://news.qq.com/rain/a/20261005A08YHF00"],"created":1794626131,"id":"chatcmpl-f6d30164-8137-9daf-a40c-f444ad75db61","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"没有"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.chinanews.com.cn/gj/2026/11-12/10730753.shtml","https://news.qq.com/rain/a/20261005A08YHF00"],"created":1794626131,"id":"chatcmpl-f6d30164-8137-9daf-a40c-f444ad75db61","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"民主党人赢得南"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.chinanews.com.cn/gj/2026/11-12/10730753.shtml","https://news.qq.com/rain/a/20261005A08YHF00"],"created":1794626131,"id":"chatcmpl-f6d30164-8137-9daf-a40c-f444ad75db61","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"卡参议院席位"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.chinanews.com.cn/gj/2026/11-12/10730753.shtml","https://news.qq.com/rain/a/20261005A08YHF00"],"created":1794626131,"id":"chatcmpl-f6d30164-8137-9daf-a40c-f444ad75db61","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"，密西西比"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.chinanews.com.cn/gj/2026/11-12/10730753.shtml","https://news.qq.com/rain/a/20261005A08YHF00"],"created":1794626131,"id":"chatcmpl-f6d30164-8137-9daf-a40c-f444ad75db61","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"民主党参"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.chinanews.com.cn/gj/2026/11-12/10730753.shtml","https://news.qq.com/rain/a/20261005A08YHF00"],"created":1794626131,"id":"chatcmpl-f6d30164-8137-9daf-a40c-f444ad75db61","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"议院提名人科"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.chinanews.com.cn/gj/2026/11-12/10730753.shtml","https://news.qq.com/rain/a/20261005A08YHF00"],"created":1794626131,"id":"chatcmpl-f6d30164-8137-9daf-a40c-f444ad75db61","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"洛姆对阵海德"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.chinanews.com.cn/gj/2026/11-12/10730753.shtml","https://news.qq.com/rain/a/20261005A08YHF00"],"created":1794626131,"id":"chatcmpl-f6d30164-8137-9daf-a40c-f444ad75db61","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"-史密斯；特朗普"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.chinanews.com.cn/gj/2026/11-12/10730753.shtml","https://news.qq.com/rain/a/20261005A08YHF00"],"created":1794626131,"id":"chatcmpl-f6d30164-8137-9daf-a40c-f444ad75db61","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"以近2"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.chinanews.com.cn/gj/2026/11-12/10730753.shtml","https://news.qq.com/rain/a/20261005A08YHF00"],"created":1794626131,"id":"chatcmpl-f6d30164-8137-9daf-a40c-f444ad75db61","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"3个百分点赢下的"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.chinanews.com.cn/gj/2026/11-12/10730753.shtml","https://news.qq.com/rain/a/20261005A08YHF00"],"created":1794626131,"id":"chatcmpl-f6d30164-8137-9daf-a40c-f444ad75db61","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"州，科洛"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.chinanews.com.cn/gj/2026/11-12/10730753.shtml","https://news.qq.com/rain/a/20261005A08YHF00"],"created":1794626131,"id":"chatcmpl-f6d30164-8137-9daf-a40c-f444ad75db61","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"姆获胜希望渺"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.chinanews.com.cn/gj/2026/11-12/10730753.shtml","https://news.qq.com/rain/a/20261005A08YHF00"],"created":1794626131,"id":"chatcmpl-f6d30164-8137-9daf-a40c-f444ad75db61","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"茫。[3"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.chinanews.com.cn/gj/2026/11-12/10730753.shtml","https://news.qq.com/rain/a/20261005A08YHF00"],"created":1794626131,"id":"chatcmpl-f6d30164-8137-9daf-a40c-f444ad75db61","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"] 这部分可能"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.chinanews.com.cn/gj/2026/11-12/10730753.shtml","https://news.qq.com/rain/a/20261005A08YHF00"],"created":1794626131,"id":"chatcmpl-f6d30164-8137-9daf-a40c-f444ad75db61","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"涉及"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.chinanews.com.cn/gj/2026/11-12/10730753.shtml","https://news.qq.com/rain/a/20261005A08YHF00"],"created":1794626131,"id":"chatcmpl-f6d30164-8137-9daf-a40c-f444ad75db61","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"背景，但“"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.chinanews.com.cn/gj/2026/11-12/10730753.shtml","https://news.qq.com/rain/a/20261005A08YHF00"],"created":1794626131,"id":"chatcmpl-f6d30164-8137-9daf-a40c-f444ad75db61","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"南"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.chinanews.com.cn/gj/2026/11-12/10730753.shtml","https://news.qq.com/rain/a/20261005A08YHF00"],"created":1794626131,"id":"chatcmpl-f6d30164-8137-9daf-a40c-f444ad75db61","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"卡参议院席位"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.chinanews.com.cn/gj/2026/11-12/10730753.shtml","https://news.qq.com/rain/a/20261005A08YHF00"],"created":1794626131,"id":"chatcmpl-f6d30164-8137-9daf-a40c-f444ad75db61","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"”与"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.chinanews.com.cn/gj/2026/11-12/10730753.shtml","https://news.qq.com/rain/a/20261005A08YHF00"],"created":1794626131,"id":"chatcmpl-f6d30164-8137-9daf-a40c-f444ad75db61","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"问题密西西比"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.chinanews.com.cn/gj/2026/11-12/10730753.shtml","https://news.qq.com/rain/a/20261005A08YHF00"],"created":1794626131,"id":"chatcmpl-f6d30164-8137-9daf-a40c-f444ad75db61","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"州不"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.chinanews.com.cn/gj/2026/11-12/10730753.shtml","https://news.qq.com/rain/a/20261005A08YHF00"],"created":1794626131,"id":"chatcmpl-f6d30164-8137-9daf-a40c-f444ad75db61","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"直接相关，需谨慎"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.chinanews.com.cn/gj/2026/11-12/10730753.shtml","https://news.qq.com/rain/a/20261005A08YHF00"],"created":1794626131,"id":"chatcmpl-f6d30164-8137-9daf-a40c-f444ad75db61","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"。可能网页3"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.chinanews.com.cn/gj/2026/11-12/10730753.shtml","https://news.qq.com/rain/a/20261005A08YHF00"],"created":1794626131,"id":"chatcmpl-f6d30164-8137-9daf-a40c-f444ad75db61","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"有"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.chinanews.com.cn/gj/2026/11-12/10730753.shtml","https://news.qq.com/rain/a/20261005A08YHF00"],"created":1794626131,"id":"chatcmpl-f6d30164-8137-9daf-a40c-f444ad75db61","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"混杂信息。不要"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.chinanews.com.cn/gj/2026/11-12/10730753.shtml","https://news.qq.com/rain/a/20261005A08YHF00"],"created":1794626131,"id":"chatcmpl-f6d30164-8137-9daf-a40c-f444ad75db61","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"错误引用南卡"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.chinanews.com.cn/gj/2026/11-12/10730753.shtml","https://news.qq.com/rain/a/20261005A08YHF00"],"created":1794626131,"id":"chatcmpl-f6d30164-8137-9daf-a40c-f444ad75db61","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"。"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.chinanews.com.cn/gj/2026/11-12/10730753.shtml","https://news.qq.com/rain/a/20261005A08YHF00"],"created":1794626131,"id":"chatcmpl-f6d30164-8137-9daf-a40c-f444ad75db61","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"关于“这是谁"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.chinanews.com.cn/gj/2026/11-12/10730753.shtml","https://news.qq.com/rain/a/20261005A08YHF00"],"created":1794626131,"id":"chatcmpl-f6d30164-8137-9daf-a40c-f444ad75db61","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"从谁手里"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.chinanews.com.cn/gj/2026/11-12/10730753.shtml","https://news.qq.com/rain/a/20261005A08YHF00"],"created":1794626131,"id":"chatcmpl-f6d30164-8137-9daf-a40c-f444ad75db61","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"拿到的席位”"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.chinanews.com.cn/gj/2026/11-12/10730753.shtml","https://news.qq.com/rain/a/20261005A08YHF00"],"created":1794626131,"id":"chatcmpl-f6d30164-8137-9daf-a40c-f444ad75db61","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"：民主党（斯科"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.chinanews.com.cn/gj/2026/11-12/10730753.shtml","https://news.qq.com/rain/a/20261005A08YHF00"],"created":1794626131,"id":"chatcmpl-f6d30164-8137-9daf-a40c-f444ad75db61","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"特·科"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.chinanews.com.cn/gj/2026/11-12/10730753.shtml","https://news.qq.com/rain/a/20261005A08YHF00"],"created":1794626131,"id":"chatcmpl-f6d30164-8137-9daf-a40c-f444ad75db61","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"洛姆/民主党"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.chinanews.com.cn/gj/2026/11-12/10730753.shtml","https://news.qq.com/rain/a/20261005A08YHF00"],"created":1794626131,"id":"chatcmpl-f6d30164-8137-9daf-a40c-f444ad75db61","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"）"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.chinanews.com.cn/gj/2026/11-12/10730753.shtml","https://news.qq.com/rain/a/20261005A08YHF00"],"created":1794626131,"id":"chatcmpl-f6d30164-8137-9daf-a40c-f444ad75db61","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"从共和党现任参"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.chinanews.com.cn/gj/2026/11-12/10730753.shtml","https://news.qq.com/rain/a/20261005A08YHF00"],"created":1794626131,"id":"chatcmpl-f6d30164-8137-9daf-a40c-f444ad75db61","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"议员辛迪·"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.chinanews.com.cn/gj/2026/11-12/10730753.shtml","https://news.qq.com/rain/a/20261005A08YHF00"],"created":1794626131,"id":"chatcmpl-f6d30164-8137-9daf-a40c-f444ad75db61","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"海德-史密斯手中"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.chinanews.com.cn/gj/2026/11-12/10730753.shtml","https://news.qq.com/rain/a/20261005A08YHF00"],"created":1794626131,"id":"chatcmpl-f6d30164-8137-9daf-a40c-f444ad75db61","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"赢得/翻转该"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.chinanews.com.cn/gj/2026/11-12/10730753.shtml","https://news.qq.com/rain/a/20261005A08YHF00"],"created":1794626131,"id":"chatcmpl-f6d30164-8137-9daf-a40c-f444ad75db61","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"席位。"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.chinanews.com.cn/gj/2026/11-12/10730753.shtml","https://news.qq.com/rain/a/20261005A08YHF00"],"created":1794626131,"id":"chatcmpl-f6d30164-8137-9daf-a40c-f444ad75db61","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"也可以说民主党从"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.chinanews.com.cn/gj/2026/11-12/10730753.shtml","https://news.qq.com/rain/a/20261005A08YHF00"],"created":1794626131,"id":"chatcmpl-f6d30164-8137-9daf-a40c-f444ad75db61","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"共和党手里"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.chinanews.com.cn/gj/2026/11-12/10730753.shtml","https://news.qq.com/rain/a/20261005A08YHF00"],"created":1794626131,"id":"chatcmpl-f6d30164-8137-9daf-a40c-f444ad75db61","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"拿到席位。\n\n"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.chinanews.com.cn/gj/2026/11-12/10730753.shtml","https://news.qq.com/rain/a/20261005A08YHF00"],"created":1794626131,"id":"chatcmpl-f6d30164-8137-9daf-a40c-f444ad75db61","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"回答要简短但"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.chinanews.com.cn/gj/2026/11-12/10730753.shtml","https://news.qq.com/rain/a/20261005A08YHF00"],"created":1794626131,"id":"chatcmpl-f6d30164-8137-9daf-a40c-f444ad75db61","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"补充背景。需要"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.chinanews.com.cn/gj/2026/11-12/10730753.shtml","https://news.qq.com/rain/a/20261005A08YHF00"],"created":1794626131,"id":"chatcmpl-f6d30164-8137-9daf-a40c-f444ad75db61","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"引用 [1]"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.chinanews.com.cn/gj/2026/11-12/10730753.shtml","https://news.qq.com/rain/a/20261005A08YHF00"],"created":1794626131,"id":"chatcmpl-f6d30164-8137-9daf-a40c-f444ad75db61","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"，"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.chinanews.com.cn/gj/2026/11-12/10730753.shtml","https://news.qq.com/rain/a/20261005A08YHF00"],"created":1794626131,"id":"chatcmpl-f6d30164-8137-9daf-a40c-f444ad75db61","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"可能 [3]"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.chinanews.com.cn/gj/2026/11-12/10730753.shtml","https://news.qq.com/rain/a/20261005A08YHF00"],"created":1794626131,"id":"chatcmpl-f6d30164-8137-9daf-a40c-f444ad75db61","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":" 可引用“"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.chinanews.com.cn/gj/2026/11-12/10730753.shtml","https://news.qq.com/rain/a/20261005A08YHF00"],"created":1794626131,"id":"chatcmpl-f6d30164-8137-9daf-a40c-f444ad75db61","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"对阵共和党参议员"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.chinanews.com.cn/gj/2026/11-12/10730753.shtml","https://news.qq.com/rain/a/20261005A08YHF00"],"created":1794626131,"id":"chatcmpl-f6d30164-8137-9daf-a40c-f444ad75db61","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"辛迪·"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.chinanews.com.cn/gj/2026/11-12/10730753.shtml","https://news.qq.com/rain/a/20261005A08YHF00"],"created":1794626131,"id":"chatcmpl-f6d30164-8137-9daf-a40c-f444ad75db61","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"海德-史密斯”"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.chinanews.com.cn/gj/2026/11-12/10730753.shtml","https://news.qq.com/rain/a/20261005A08YHF00"],"created":1794626131,"id":"chatcmpl-f6d30164-8137-9daf-a40c-f444ad75db61","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"“在特朗普大胜"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.chinanews.com.cn/gj/2026/11-12/10730753.shtml","https://news.qq.com/rain/a/20261005A08YHF00"],"created":1794626131,"id":"chatcmpl-f6d30164-8137-9daf-a40c-f444ad75db61","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"的州”等"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.chinanews.com.cn/gj/2026/11-12/10730753.shtml","https://news.qq.com/rain/a/20261005A08YHF00"],"created":1794626131,"id":"chatcmpl-f6d30164-8137-9daf-a40c-f444ad75db61","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"背景。注意不要"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.chinanews.com.cn/gj/2026/11-12/10730753.shtml","https://news.qq.com/rain/a/20261005A08YHF00"],"created":1794626131,"id":"chatcmpl-f6d30164-8137-9daf-a40c-f444ad75db61","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"引用错误"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.chinanews.com.cn/gj/2026/11-12/10730753.shtml","https://news.qq.com/rain/a/20261005A08YHF00"],"created":1794626131,"id":"chatcmpl-f6d30164-8137-9daf-a40c-f444ad75db61","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"：网页3说"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.chinanews.com.cn/gj/2026/11-12/10730753.shtml","https://news.qq.com/rain/a/20261005A08YHF00"],"created":1794626131,"id":"chatcmpl-f6d30164-8137-9daf-a40c-f444ad75db61","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"“近"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.chinanews.com.cn/gj/2026/11-12/10730753.shtml","https://news.qq.com/rain/a/20261005A08YHF00"],"created":1794626131,"id":"chatcmpl-f6d30164-8137-9daf-a40c-f444ad75db61","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"三十年来没有民主党"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.chinanews.com.cn/gj/2026/11-12/10730753.shtml","https://news.qq.com/rain/a/20261005A08YHF00"],"created":1794626131,"id":"chatcmpl-f6d30164-8137-9daf-a40c-f444ad75db61","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"人赢得南卡"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.chinanews.com.cn/gj/2026/11-12/10730753.shtml","https://news.qq.com/rain/a/20261005A08YHF00"],"created":1794626131,"id":"chatcmpl-f6d30164-8137-9daf-a40c-f444ad75db61","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"参议院席位。”"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.chinanews.com.cn/gj/2026/11-12/10730753.shtml","https://news.qq.com/rain/a/20261005A08YHF00"],"created":1794626131,"id":"chatcmpl-f6d30164-8137-9daf-a40c-f444ad75db61","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"这与密西西比"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.chinanews.com.cn/gj/2026/11-12/10730753.shtml","https://news.qq.com/rain/a/20261005A08YHF00"],"created":1794626131,"id":"chatcmpl-f6d30164-8137-9daf-a40c-f444ad75db61","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"无关"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.chinanews.com.cn/gj/2026/11-12/10730753.shtml","https://news.qq.com/rain/a/20261005A08YHF00"],"created":1794626131,"id":"chatcmpl-f6d30164-8137-9daf-a40c-f444ad75db61","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"。可以不使用或"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.chinanews.com.cn/gj/2026/11-12/10730753.shtml","https://news.qq.com/rain/a/20261005A08YHF00"],"created":1794626131,"id":"chatcmpl-f6d30164-8137-9daf-a40c-f444ad75db61","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"谨慎不用。\n\n"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.chinanews.com.cn/gj/2026/11-12/10730753.shtml","https://news.qq.com/rain/a/20261005A08YHF00"],"created":1794626131,"id":"chatcmpl-f6d30164-8137-9daf-a40c-f444ad75db61","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"最终"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.chinanews.com.cn/gj/2026/11-12/10730753.shtml","https://news.qq.com/rain/a/20261005A08YHF00"],"created":1794626131,"id":"chatcmpl-f6d30164-8137-9daf-a40c-f444ad75db61","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"答案：\n直接"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.chinanews.com.cn/gj/2026/11-12/10730753.shtml","https://news.qq.com/rain/a/20261005A08YHF00"],"created":1794626131,"id":"chatcmpl-f6d30164-8137-9daf-a40c-f444ad75db61","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"：斯科特·"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.chinanews.com.cn/gj/2026/11-12/10730753.shtml","https://news.qq.com/rain/a/20261005A08YHF00"],"created":1794626131,"id":"chatcmpl-f6d30164-8137-9daf-a40c-f444ad75db61","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"科"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.chinanews.com.cn/gj/2026/11-12/10730753.shtml","https://news.qq.com/rain/a/20261005A08YHF00"],"created":1794626131,"id":"chatcmpl-f6d30164-8137-9daf-a40c-f444ad75db61","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"洛姆击败了共和党"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.chinanews.com.cn/gj/2026/11-12/10730753.shtml","https://news.qq.com/rain/a/20261005A08YHF00"],"created":1794626131,"id":"chatcmpl-f6d30164-8137-9daf-a40c-f444ad75db61","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"现任参议员辛"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.chinanews.com.cn/gj/2026/11-12/10730753.shtml","https://news.qq.com/rain/a/20261005A08YHF00"],"created":1794626131,"id":"chatcmpl-f6d30164-8137-9daf-a40c-f444ad75db61","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"迪"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.chinanews.com.cn/gj/2026/11-12/10730753.shtml","https://news.qq.com/rain/a/20261005A08YHF00"],"created":1794626131,"id":"chatcmpl-f6d30164-8137-9daf-a40c-f444ad75db61","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"·海德-史密斯"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.chinanews.com.cn/gj/2026/11-12/10730753.shtml","https://news.qq.com/rain/a/20261005A08YHF00"],"created":1794626131,"id":"chatcmpl-f6d30164-8137-9daf-a40c-f444ad75db61","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"。[1]"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.chinanews.com.cn/gj/2026/11-12/10730753.shtml","https://news.qq.com/rain/a/20261005A08YHF00"],"created":1794626131,"id":"chatcmpl-f6d30164-8137-9daf-a40c-f444ad75db61","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":" 这是"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.chinanews.com.cn/gj/2026/11-12/10730753.shtml","https://news.qq.com/rain/a/20261005A08YHF00"],"created":1794626131,"id":"chatcmpl-f6d30164-8137-9daf-a40c-f444ad75db61","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"民主党从共和党手中"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.chinanews.com.cn/gj/2026/11-12/10730753.shtml","https://news.qq.com/rain/a/20261005A08YHF00"],"created":1794626131,"id":"chatcmpl-f6d30164-8137-9daf-a40c-f444ad75db61","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"夺回/翻转"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.chinanews.com.cn/gj/2026/11-12/10730753.shtml","https://news.qq.com/rain/a/20261005A08YHF00"],"created":1794626131,"id":"chatcmpl-f6d30164-8137-9daf-a40c-f444ad75db61","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"密"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.chinanews.com.cn/gj/2026/11-12/10730753.shtml","https://news.qq.com/rain/a/20261005A08YHF00"],"created":1794626131,"id":"chatcmpl-f6d30164-8137-9daf-a40c-f444ad75db61","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"西西比州联邦"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.chinanews.com.cn/gj/2026/11-12/10730753.shtml","https://news.qq.com/rain/a/20261005A08YHF00"],"created":1794626131,"id":"chatcmpl-f6d30164-8137-9daf-a40c-f444ad75db61","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"参议院席位，"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.chinanews.com.cn/gj/2026/11-12/10730753.shtml","https://news.qq.com/rain/a/20261005A08YHF00"],"created":1794626131,"id":"chatcmpl-f6d30164-8137-9daf-a40c-f444ad75db61","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"即"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.chinanews.com.cn/gj/2026/11-12/10730753.shtml","https://news.qq.com/rain/a/20261005A08YHF00"],"created":1794626131,"id":"chatcmpl-f6d30164-8137-9daf-a40c-f444ad75db61","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"从海德-史密斯"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.chinanews.com.cn/gj/2026/11-12/10730753.shtml","https://news.qq.com/rain/a/20261005A08YHF00"],"created":1794626131,"id":"chatcmpl-f6d30164-8137-9daf-a40c-f444ad75db61","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"（"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.chinanews.com.cn/gj/2026/11-12/10730753.shtml","https://news.qq.com/rain/a/20261005A08YHF00"],"created":1794626131,"id":"chatcmpl-f6d30164-8137-9daf-a40c-f444ad75db61","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"共和党）手里拿下"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.chinanews.com.cn/gj/2026/11-12/10730753.shtml","https://news.qq.com/rain/a/20261005A08YHF00"],"created":1794626131,"id":"chatcmpl-f6d30164-8137-9daf-a40c-f444ad75db61","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"。[1]"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.chinanews.com.cn/gj/2026/11-12/10730753.shtml","https://news.qq.com/rain/a/20261005A08YHF00"],"created":1794626131,"id":"chatcmpl-f6d30164-8137-9daf-a40c-f444ad75db61","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"\n\n补充：选举"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.chinanews.com.cn/gj/2026/11-12/10730753.shtml","https://news.qq.com/rain/a/20261005A08YHF00"],"created":1794626131,"id":"chatcmpl-f6d30164-8137-9daf-a40c-f444ad75db61","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"11月3"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.chinanews.com.cn/gj/2026/11-12/10730753.shtml","https://news.qq.com/rain/a/20261005A08YHF00"],"created":1794626131,"id":"chatcmpl-f6d30164-8137-9daf-a40c-f444ad75db61","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"日举行"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.chinanews.com.cn/gj/2026/11-12/10730753.shtml","https://news.qq.com/rain/a/20261005A08YHF00"],"created":1794626131,"id":"chatcmpl-f6d30164-8137-9daf-a40c-f444ad75db61","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"，经计票"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.chinanews.com.cn/gj/2026/11-12/10730753.shtml","https://news.qq.com/rain/a/20261005A08YHF00"],"created":1794626131,"id":"chatcmpl-f6d30164-8137-9daf-a40c-f444ad75db61","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"，"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.chinanews.com.cn/gj/2026/11-12/10730753.shtml","https://news.qq.com/rain/a/20261005A08YHF00"],"created":1794626131,"id":"chatcmpl-f6d30164-8137-9daf-a40c-f444ad75db61","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"科洛姆得"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.chinanews.com.cn/gj/2026/11-12/10730753.shtml","https://news.qq.com/rain/a/20261005A08YHF00"],"created":1794626131,"id":"chatcmpl-f6d30164-8137-9daf-a40c-f444ad75db61","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"票率49"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.chinanews.com.cn/gj/2026/11-12/10730753.shtml","https://news.qq.com/rain/a/20261005A08YHF00"],"created":1794626131,"id":"chatcmpl-f6d30164-8137-9daf-a40c-f444ad75db61","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":".2%，海德"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.chinanews.com.cn/gj/2026/11-12/10730753.shtml","https://news.qq.com/rain/a/20261005A08YHF00"],"created":1794626131,"id":"chatcmpl-f6d30164-8137-9daf-a40c-f444ad75db61","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"-史密斯已承认"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.chinanews.com.cn/gj/2026/11-12/10730753.shtml","https://news.qq.com/rain/a/20261005A08YHF00"],"created":1794626131,"id":"chatcmpl-f6d30164-8137-9daf-a40c-f444ad75db61","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"败选。"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.chinanews.com.cn/gj/2026/11-12/10730753.shtml","https://news.qq.com/rain/a/20261005A08YHF00"],"created":1794626131,"id":"chatcmpl-f6d30164-8137-9daf-a40c-f444ad75db61","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"[1] "},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.chinanews.com.cn/gj/2026/11-12/10730753.shtml","https://news.qq.com/rain/a/20261005A08YHF00"],"created":1794626131,"id":"chatcmpl-f6d30164-8137-9daf-a40c-f444ad75db61","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"这场胜利是在特朗普"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.chinanews.com.cn/gj/2026/11-12/10730753.shtml","https://news.qq.com/rain/a/20261005A08YHF00"],"created":1794626131,"id":"chatcmpl-f6d30164-8137-9daf-a40c-f444ad75db61","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"曾在该州大幅"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.chinanews.com.cn/gj/2026/11-12/10730753.shtml","https://news.qq.com/rain/a/20261005A08YHF00"],"created":1794626131,"id":"chatcmpl-f6d30164-8137-9daf-a40c-f444ad75db61","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"领先的"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.chinanews.com.cn/gj/2026/11-12/10730753.shtml","https://news.qq.com/rain/a/20261005A08YHF00"],"created":1794626131,"id":"chatcmpl-f6d30164-8137-9daf-a40c-f444ad75db61","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"背景下出现的，因此"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.chinanews.com.cn/gj/2026/11-12/10730753.shtml","https://news.qq.com/rain/a/20261005A08YHF00"],"created":1794626131,"id":"chatcmpl-f6d30164-8137-9daf-a40c-f444ad75db61","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"受到关注。["},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.chinanews.com.cn/gj/2026/11-12/10730753.shtml","https://news.qq.com/rain/a/20261005A08YHF00"],"created":1794626131,"id":"chatcmpl-f6d30164-8137-9daf-a40c-f444ad75db61","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"3"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.chinanews.com.cn/gj/2026/11-12/10730753.shtml","https://news.qq.com/rain/a/20261005A08YHF00"],"created":1794626131,"id":"chatcmpl-f6d30164-8137-9daf-a40c-f444ad75db61","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"] 但要注意"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.chinanews.com.cn/gj/2026/11-12/10730753.shtml","https://news.qq.com/rain/a/20261005A08YHF00"],"created":1794626131,"id":"chatcmpl-f6d30164-8137-9daf-a40c-f444ad75db61","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"“特朗普以近"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.chinanews.com.cn/gj/2026/11-12/10730753.shtml","https://news.qq.com/rain/a/20261005A08YHF00"],"created":1794626131,"id":"chatcmpl-f6d30164-8137-9daf-a40c-f444ad75db61","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"2"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.chinanews.com.cn/gj/2026/11-12/10730753.shtml","https://news.qq.com/rain/a/20261005A08YHF00"],"created":1794626131,"id":"chatcmpl-f6d30164-8137-9daf-a40c-f444ad75db61","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"3个百分点赢下的"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.chinanews.com.cn/gj/2026/11-12/10730753.shtml","https://news.qq.com/rain/a/20261005A08YHF00"],"created":1794626131,"id":"chatcmpl-f6d30164-8137-9daf-a40c-f444ad75db61","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"州”可能指"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.chinanews.com.cn/gj/2026/11-12/10730753.shtml","https://news.qq.com/rain/a/20261005A08YHF00"],"created":1794626131,"id":"chatcmpl-f6d30164-8137-9daf-a40c-f444ad75db61","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"密西西比？"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.chinanews.com.cn/gj/2026/11-12/10730753.shtml","https://news.qq.com/rain/a/20261005A08YHF00"],"created":1794626131,"id":"chatcmpl-f6d30164-8137-9daf-a40c-f444ad75db61","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"网页3说“"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.chinanews.com.cn/gj/2026/11-12/10730753.shtml","https://news.qq.com/rain/a/20261005A08YHF00"],"created":1794626131,"id":"chatcmpl-f6d30164-8137-9daf-a40c-f444ad75db61","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"但在特朗普以近"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.chinanews.com.cn/gj/2026/11-12/10730753.shtml","https://news.qq.com/rain/a/20261005A08YHF00"],"created":1794626131,"id":"chatcmpl-f6d30164-8137-9daf-a40c-f444ad75db61","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"23个百分点赢"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.chinanews.com.cn/gj/2026/11-12/10730753.shtml","https://news.qq.com/rain/a/20261005A08YHF00"],"created":1794626131,"id":"chatcmpl-f6d30164-8137-9daf-a40c-f444ad75db61","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"下的州，科"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.chinanews.com.cn/gj/2026/11-12/10730753.shtml","https://news.qq.com/rain/a/20261005A08YHF00"],"created":1794626131,"id":"chatcmpl-f6d30164-8137-9daf-a40c-f444ad75db61","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"洛姆获胜对"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.chinanews.com.cn/gj/2026/11-12/10730753.shtml","https://news.qq.com/rain/a/20261005A08YHF00"],"created":1794626131,"id":"chatcmpl-f6d30164-8137-9daf-a40c-f444ad75db61","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"民主党来说希望渺"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.chinanews.com.cn/gj/2026/11-12/10730753.shtml","https://news.qq.com/rain/a/20261005A08YHF00"],"created":1794626131,"id":"chatcmpl-f6d30164-8137-9daf-a40c-f444ad75db61","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"茫。” 可以"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.chinanews.com.cn/gj/2026/11-12/10730753.shtml","https://news.qq.com/rain/a/20261005A08YHF00"],"created":1794626131,"id":"chatcmpl-f6d30164-8137-9daf-a40c-f444ad75db61","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"引用作为"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.chinanews.com.cn/gj/2026/11-12/10730753.shtml","https://news.qq.com/rain/a/20261005A08YHF00"],"created":1794626131,"id":"chatcmpl-f6d30164-8137-9daf-a40c-f444ad75db61","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"背景。由于问题"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.chinanews.com.cn/gj/2026/11-12/10730753.shtml","https://news.qq.com/rain/a/20261005A08YHF00"],"created":1794626131,"id":"chatcmpl-f6d30164-8137-9daf-a40c-f444ad75db61","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"问“这是谁"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.chinanews.com.cn/gj/2026/11-12/10730753.shtml","https://news.qq.com/rain/a/20261005A08YHF00"],"created":1794626131,"id":"chatcmpl-f6d30164-8137-9daf-a40c-f444ad75db61","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"从谁手里"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.chinanews.com.cn/gj/2026/11-12/10730753.shtml","https://news.qq.com/rain/a/20261005A08YHF00"],"created":1794626131,"id":"chatcmpl-f6d30164-8137-9daf-a40c-f444ad75db61","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"拿到的席位”，"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.chinanews.com.cn/gj/2026/11-12/10730753.shtml","https://news.qq.com/rain/a/20261005A08YHF00"],"created":1794626131,"id":"chatcmpl-f6d30164-8137-9daf-a40c-f444ad75db61","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"可直接明确：民主党"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.chinanews.com.cn/gj/2026/11-12/10730753.shtml","https://news.qq.com/rain/a/20261005A08YHF00"],"created":1794626131,"id":"chatcmpl-f6d30164-8137-9daf-a40c-f444ad75db61","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"/"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.chinanews.com.cn/gj/2026/11-12/10730753.shtml","https://news.qq.com/rain/a/20261005A08YHF00"],"created":1794626131,"id":"chatcmpl-f6d30164-8137-9daf-a40c-f444ad75db61","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"科洛姆从"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.chinanews.com.cn/gj/2026/11-12/10730753.shtml","https://news.qq.com/rain/a/20261005A08YHF00"],"created":1794626131,"id":"chatcmpl-f6d30164-8137-9daf-a40c-f444ad75db61","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"共和党"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.chinanews.com.cn/gj/2026/11-12/10730753.shtml","https://news.qq.com/rain/a/20261005A08YHF00"],"created":1794626131,"id":"chatcmpl-f6d30164-8137-9daf-a40c-f444ad75db61","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"现任议员海德-"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.chinanews.com.cn/gj/2026/11-12/10730753.shtml","https://news.qq.com/rain/a/20261005A08YHF00"],"created":1794626131,"id":"chatcmpl-f6d30164-8137-9daf-a40c-f444ad75db61","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"史密斯手中"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.chinanews.com.cn/gj/2026/11-12/10730753.shtml","https://news.qq.com/rain/a/20261005A08YHF00"],"created":1794626131,"id":"chatcmpl-f6d30164-8137-9daf-a40c-f444ad75db61","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"拿到。无需更多"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.chinanews.com.cn/gj/2026/11-12/10730753.shtml","https://news.qq.com/rain/a/20261005A08YHF00"],"created":1794626131,"id":"chatcmpl-f6d30164-8137-9daf-a40c-f444ad75db61","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"。\n\n确保语言"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.chinanews.com.cn/gj/2026/11-12/10730753.shtml","https://news.qq.com/rain/a/20261005A08YHF00"],"created":1794626131,"id":"chatcmpl-f6d30164-8137-9daf-a40c-f444ad75db61","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"自然，引用在"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.chinanews.com.cn/gj/2026/11-12/10730753.shtml","https://news.qq.com/rain/a/20261005A08YHF00"],"created":1794626131,"id":"chatcmpl-f6d30164-8137-9daf-a40c-f444ad75db61","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"句末。\n"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.chinanews.com.cn/gj/2026/11-12/10730753.shtml","https://news.qq.com/rain/a/20261005A08YHF00"],"created":1794626131,"id":"chatcmpl-f6d30164-8137-9daf-a40c-f444ad75db61","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"在2","reasoning_content":""},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.chinanews.com.cn/gj/2026/11-12/10730753.shtml","https://news.qq.com/rain/a/20261005A08YHF00"],"created":1794626131,"id":"chatcmpl-f6d30164-8137-9daf-a40c-f444ad75db61","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"026年","reasoning_content":""},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.chinanews.com.cn/gj/2026/11-12/10730753.shtml","https://news.qq.com/rain/a/20261005A08YHF00"],"created":1794626131,"id":"chatcmpl-f6d30164-8137-9daf-a40c-f444ad75db61","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"密西西比州","reasoning_content":""},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.chinanews.com.cn/gj/2026/11-12/10730753.shtml","https://news.qq.com/rain/a/20261005A08YHF00"],"created":1794626131,"id":"chatcmpl-f6d30164-8137-9daf-a40c-f444ad75db61","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"联邦参议员选举","reasoning_content":""},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.chinanews.com.cn/gj/2026/11-12/10730753.shtml","https://news.qq.com/rain/a/20261005A08YHF00"],"created":1794626131,"id":"chatcmpl-f6d30164-8137-9daf-a40c-f444ad75db61","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"中，民主党候选人","reasoning_content":""},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.chinanews.com.cn/gj/2026/11-12/10730753.shtml","https://news.qq.com/rain/a/20261005A08YHF00"],"created":1794626131,"id":"chatcmpl-f6d30164-8137-9daf-a40c-f444ad75db61","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"斯科","reasoning_content":""},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.chinanews.com.cn/gj/2026/11-12/10730753.shtml","https://news.qq.com/rain/a/20261005A08YHF00"],"created":1794626131,"id":"chatcmpl-f6d30164-8137-9daf-a40c-f444ad75db61","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"特·科洛","reasoning_content":""},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.chinanews.com.cn/gj/2026/11-12/10730753.shtml","https://news.qq.com/rain/a/20261005A08YHF00"],"created":1794626131,"id":"chatcmpl-f6d30164-8137-9daf-a40c-f444ad75db61","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"姆击败了共和党籍","reasoning_content":""},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.chinanews.com.cn/gj/2026/11-12/10730753.shtml","https://news.qq.com/rain/a/20261005A08YHF00"],"created":1794626131,"id":"chatcmpl-f6d30164-8137-9daf-a40c-f444ad75db61","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"现任参议员辛","reasoning_content":""},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.chinanews.com.cn/gj/2026/11-12/10730753.shtml","https://news.qq.com/rain/a/20261005A08YHF00"],"created":1794626131,"id":"chatcmpl-f6d30164-8137-9daf-a40c-f444ad75db61","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"迪·海德-","reasoning_content":""},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.chinanews.com.cn/gj/2026/11-12/10730753.shtml","https://news.qq.com/rain/a/20261005A08YHF00"],"created":1794626131,"id":"chatcmpl-f6d30164-8137-9daf-a40c-f444ad75db61","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"史密斯。[1","reasoning_content":""},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.chinanews.com.cn/gj/2026/11-12/10730753.shtml","https://news.qq.com/rain/a/20261005A08YHF00"],"created":1794626131,"id":"chatcmpl-f6d30164-8137-9daf-a40c-f444ad75db61","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"]\n\n这也是民主党","reasoning_content":""},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.chinanews.com.cn/gj/2026/11-12/10730753.shtml","https://news.qq.com/rain/a/20261005A08YHF00"],"created":1794626131,"id":"chatcmpl-f6d30164-8137-9daf-a40c-f444ad75db61","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"从共和党手中","reasoning_content":""},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.chinanews.com.cn/gj/2026/11-12/10730753.shtml","https://news.qq.com/rain/a/20261005A08YHF00"],"created":1794626131,"id":"chatcmpl-f6d30164-8137-9daf-a40c-f444ad75db61","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"拿下的一个参","reasoning_content":""},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.chinanews.com.cn/gj/2026/11-12/10730753.shtml","https://news.qq.com/rain/a/20261005A08YHF00"],"created":1794626131,"id":"chatcmpl-f6d30164-8137-9daf-a40c-f444ad75db61","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"议院席位：具体","reasoning_content":""},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.chinanews.com.cn/gj/2026/11-12/10730753.shtml","https://news.qq.com/rain/a/20261005A08YHF00"],"created":1794626131,"id":"chatcmpl-f6d30164-8137-9daf-a40c-f444ad75db61","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"说，是科","reasoning_content":""},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.chinanews.com.cn/gj/2026/11-12/10730753.shtml","https://news.qq.com/rain/a/20261005A08YHF00"],"created":1794626131,"id":"chatcmpl-f6d30164-8137-9daf-a40c-f444ad75db61","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"洛姆代表民主党","reasoning_content":""},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.chinanews.com.cn/gj/2026/11-12/10730753.shtml","https://news.qq.com/rain/a/20261005A08YHF00"],"created":1794626131,"id":"chatcmpl-f6d30164-8137-9daf-a40c-f444ad75db61","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"击败了","reasoning_content":""},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.chinanews.com.cn/gj/2026/11-12/10730753.shtml","https://news.qq.com/rain/a/20261005A08YHF00"],"created":1794626131,"id":"chatcmpl-f6d30164-8137-9daf-a40c-f444ad75db61","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"共和党现任参议员","reasoning_content":""},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.chinanews.com.cn/gj/2026/11-12/10730753.shtml","https://news.qq.com/rain/a/20261005A08YHF00"],"created":1794626131,"id":"chatcmpl-f6d30164-8137-9daf-a40c-f444ad75db61","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"海德","reasoning_content":""},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.chinanews.com.cn/gj/2026/11-12/10730753.shtml","https://news.qq.com/rain/a/20261005A08YHF00"],"created":1794626131,"id":"chatcmpl-f6d30164-8137-9daf-a40c-f444ad75db61","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"-史密斯，使","reasoning_content":""},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.chinanews.com.cn/gj/2026/11-12/10730753.shtml","https://news.qq.com/rain/a/20261005A08YHF00"],"created":1794626131,"id":"chatcmpl-f6d30164-8137-9daf-a40c-f444ad75db61","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"该席位由共和党","reasoning_content":""},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.chinanews.com.cn/gj/2026/11-12/10730753.shtml","https://news.qq.com/rain/a/20261005A08YHF00"],"created":1794626131,"id":"chatcmpl-f6d30164-8137-9daf-a40c-f444ad75db61","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"转为","reasoning_content":""},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.chinanews.com.cn/gj/2026/11-12/10730753.shtml","https://news.qq.com/rain/a/20261005A08YHF00"],"created":1794626131,"id":"chatcmpl-f6d30164-8137-9daf-a40c-f444ad75db61","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"民主党。[1","reasoning_content":""},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.chinanews.com.cn/gj/2026/11-12/10730753.shtml","https://news.qq.com/rain/a/20261005A08YHF00"],"created":1794626131,"id":"chatcmpl-f6d30164-8137-9daf-a40c-f444ad75db61","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"]\n\n补充信息","reasoning_content":""},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.chinanews.com.cn/gj/2026/11-12/10730753.shtml","https://news.qq.com/rain/a/20261005A08YHF00"],"created":1794626131,"id":"chatcmpl-f6d30164-8137-9daf-a40c-f444ad75db61","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"：根据截至1","reasoning_content":""},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.chinanews.com.cn/gj/2026/11-12/10730753.shtml","https://news.qq.com/rain/a/20261005A08YHF00"],"created":1794626131,"id":"chatcmpl-f6d30164-8137-9daf-a40c-f444ad75db61","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"1月1","reasoning_content":""},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.chinanews.com.cn/gj/2026/11-12/10730753.shtml","https://news.qq.com/rain/a/20261005A08YHF00"],"created":1794626131,"id":"chatcmpl-f6d30164-8137-9daf-a40c-f444ad75db61","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"1日的计票","reasoning_content":""},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.chinanews.com.cn/gj/2026/11-12/10730753.shtml","https://news.qq.com/rain/a/20261005A08YHF00"],"created":1794626131,"id":"chatcmpl-f6d30164-8137-9daf-a40c-f444ad75db61","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"结果，科洛","reasoning_content":""},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.chinanews.com.cn/gj/2026/11-12/10730753.shtml","https://news.qq.com/rain/a/20261005A08YHF00"],"created":1794626131,"id":"chatcmpl-f6d30164-8137-9daf-a40c-f444ad75db61","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"姆以约4","reasoning_content":""},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.chinanews.com.cn/gj/2026/11-12/10730753.shtml","https://news.qq.com/rain/a/20261005A08YHF00"],"created":1794626131,"id":"chatcmpl-f6d30164-8137-9daf-a40c-f444ad75db61","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"9.2%","reasoning_content":""},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.chinanews.com.cn/gj/2026/11-12/10730753.shtml","https://news.qq.com/rain/a/20261005A08YHF00"],"created":1794626131,"id":"chatcmpl-f6d30164-8137-9daf-a40c-f444ad75db61","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"的得票率","reasoning_content":""},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.chinanews.com.cn/gj/2026/11-12/10730753.shtml","https://news.qq.com/rain/a/20261005A08YHF00"],"created":1794626131,"id":"chatcmpl-f6d30164-8137-9daf-a40c-f444ad75db61","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"胜出，海德-","reasoning_content":""},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.chinanews.com.cn/gj/2026/11-12/10730753.shtml","https://news.qq.com/rain/a/20261005A08YHF00"],"created":1794626131,"id":"chatcmpl-f6d30164-8137-9daf-a40c-f444ad75db61","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"史密斯","reasoning_content":""},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.chinanews.com.cn/gj/2026/11-12/10730753.shtml","https://news.qq.com/rain/a/20261005A08YHF00"],"created":1794626131,"id":"chatcmpl-f6d30164-8137-9daf-a40c-f444ad75db61","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"已承认败选","reasoning_content":""},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.chinanews.com.cn/gj/2026/11-12/10730753.shtml","https://news.qq.com/rain/a/20261005A08YHF00"],"created":1794626131,"id":"chatcmpl-f6d30164-8137-9daf-a40c-f444ad75db61","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"。[1]","reasoning_content":""},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.chinanews.com.cn/gj/2026/11-12/10730753.shtml","https://news.qq.com/rain/a/20261005A08YHF00"],"created":1794626131,"id":"chatcmpl-f6d30164-8137-9daf-a40c-f444ad75db61","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":" 这场胜利受到","reasoning_content":""},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.chinanews.com.cn/gj/2026/11-12/10730753.shtml","https://news.qq.com/rain/a/20261005A08YHF00"],"created":1794626131,"id":"chatcmpl-f6d30164-8137-9daf-a40c-f444ad75db61","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"关注，因为密","reasoning_content":""},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.chinanews.com.cn/gj/2026/11-12/10730753.shtml","https://news.qq.com/rain/a/20261005A08YHF00"],"created":1794626131,"id":"chatcmpl-f6d30164-8137-9daf-a40c-f444ad75db61","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"西西比州传统","reasoning_content":""},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.chinanews.com.cn/gj/2026/11-12/10730753.shtml","https://news.qq.com/rain/a/20261005A08YHF00"],"created":1794626131,"id":"chatcmpl-f6d30164-8137-9daf-a40c-f444ad75db61","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"上偏向共和党，","reasoning_content":""},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.chinanews.com.cn/gj/2026/11-12/10730753.shtml","https://news.qq.com/rain/a/20261005A08YHF00"],"created":1794626131,"id":"chatcmpl-f6d30164-8137-9daf-a40c-f444ad75db61","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"且","reasoning_content":""},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.chinanews.com.cn/gj/2026/11-12/10730753.shtml","https://news.qq.com/rain/a/20261005A08YHF00"],"created":1794626131,"id":"chatcmpl-f6d30164-8137-9daf-a40c-f444ad75db61","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"此前民调与","reasoning_content":""},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.chinanews.com.cn/gj/2026/11-12/10730753.shtml","https://news.qq.com/rain/a/20261005A08YHF00"],"created":1794626131,"id":"chatcmpl-f6d30164-8137-9daf-a40c-f444ad75db61","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"政治环境并不被","reasoning_content":""},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.chinanews.com.cn/gj/2026/11-12/10730753.shtml","https://news.qq.com/rain/a/20261005A08YHF00"],"created":1794626131,"id":"chatcmpl-f6d30164-8137-9daf-a40c-f444ad75db61","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"看好。[3","reasoning_content":""},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.chinanews.com.cn/gj/2026/11-12/10730753.shtml","https://news.qq.com/rain/a/20261005A08YHF00"],"created":1794626131,"id":"chatcmpl-f6d30164-8137-9daf-a40c-f444ad75db61","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"]","reasoning_content":""},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.chinanews.com.cn/gj/2026/11-12/10730753.shtml","https://news.qq.com/rain/a/20261005A08YHF00"],"created":1794626131,"id":"chatcmpl-f6d30164-8137-9daf-a40c-f444ad75db61","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":""},"finish_reason":"stop","index":0,"logprobs":null}],"citations":["https://www.chinanews.com.cn/gj/2026/11-12/10730753.shtml","https://news.qq.com/rain/a/20261005A08YHF00"],"created":1794626131,"id":"chatcmpl-f6d30164-8137-9daf-a40c-f444ad75db61","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[],"citations":["https://www.chinanews.com.cn/gj/2026/11-12/10730753.shtml","https://news.qq.com/rain/a/20261005A08YHF00"],"created":1794626131,"id":"chatcmpl-f6d30164-8137-9daf-a40c-f444ad75db61","model":"qwen3.8-max","object":"chat.completion.chunk","usage":{"completion_tokens":814,"completion_tokens_details":{"reasoning_tokens":656,"text_tokens":814},"prompt_tokens":1085,"prompt_tokens_details":{"cached_tokens":0,"text_tokens":1085},"total_tokens":1899}}
+
+data: [DONE]
+

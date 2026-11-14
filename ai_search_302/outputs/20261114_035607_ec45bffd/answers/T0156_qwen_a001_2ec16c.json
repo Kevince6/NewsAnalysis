@@ -1,0 +1,53 @@
+{
+  "task_id": "T0156",
+  "model": "qwen",
+  "news_id": "E013",
+  "question_index": 3,
+  "question_original": "【事实】国家育儿补贴基础标准是每个孩子每年3600元，还是每月3600元？2025年前出生的孩子怎么折算？",
+  "question": "国家育儿补贴基础标准是每个孩子每年3600元，还是每月3600元？2025年前出生的孩子怎么折算？",
+  "attempt": 1,
+  "provider": "302.ai",
+  "model_requested": "qwen3.8-max",
+  "query_date": "2026-11-14",
+  "search_service": "metaso",
+  "prompt_version": "news-search-v1",
+  "prompt_sha256": "ea56fd5557d32615a9115f2368a0c4983ff1188f4935369e694d7d46f2493be1",
+  "requested_at": "2026-11-14T11:43:04.592682+08:00",
+  "raw_file": "raw/T0156_qwen_a001_2ec16c.json",
+  "transport": "sse",
+  "stream_file": "raw/T0156_qwen_a001_2ec16c.sse",
+  "status": "ok",
+  "model_returned": "qwen3.8-max",
+  "answer": "是**每孩每年3600元**，不是每月3600元。育儿补贴按年发放，国家基础标准为**每孩每年3600元**，发放至孩子年满3周岁。[1][2]\n\n**2025年前出生的孩子如何折算：**\n\n- 对**2025年1月1日之前出生且未满3周岁**的婴幼儿，按“应补贴月数”折算计发补贴，直到其年满3周岁。[1][2]\n- 由于国家基础标准是每年3600元，若折算到月，相当于**每月300元**（3600元÷12个月）；实际金额通常可理解为：**300元×应补贴月数**。[1][2]\n- 具体“应补贴月数”由当地根据孩子出生时间和补贴起止时间核算，搜索结果中也提到有具体折算表。[2]\n\n另外，**2025年1月1日及以后出生**的婴幼儿，一般可连续申领3年补贴，共计**10800元**。[2]",
+  "sources": [
+    {
+      "index": 1,
+      "url": "https://www.haian.gov.cn/hasrmzf/dwzsk/content/171c5ea7-198d-459f-a124-a713aa3b0e17.html",
+      "title": null,
+      "origin": "citations"
+    },
+    {
+      "index": 2,
+      "url": "http://www.yzq.gov.cn/yzqrmzf/zwdt1b/202507/0f3d576b6f014ae0a59805362ff64b95.shtml",
+      "title": null,
+      "origin": "citations"
+    }
+  ],
+  "usage": {
+    "completion_tokens": 1382,
+    "completion_tokens_details": {
+      "reasoning_tokens": 1136,
+      "text_tokens": 1382
+    },
+    "prompt_tokens": 1039,
+    "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "text_tokens": 1039
+    },
+    "total_tokens": 2421
+  },
+  "finish_reason": "stop",
+  "note": [],
+  "request_id": "d74563cf-eff6-497b-b8de-b9b87891cb63",
+  "duration_seconds": 34.609
+}

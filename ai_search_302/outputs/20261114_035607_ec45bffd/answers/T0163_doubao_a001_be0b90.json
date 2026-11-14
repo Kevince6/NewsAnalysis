@@ -1,0 +1,63 @@
+{
+  "task_id": "T0163",
+  "model": "doubao",
+  "news_id": "E014",
+  "question_index": 1,
+  "question_original": "【开放】尹锡悦的新闻一会儿说7年、一会儿说无期，又出现死刑，他到底是怎么判的？",
+  "question": "尹锡悦的新闻一会儿说7年、一会儿说无期，又出现死刑，他到底是怎么判的？",
+  "attempt": 1,
+  "provider": "302.ai",
+  "model_requested": "doubao-seed-2-1-pro-260628",
+  "query_date": "2026-11-14",
+  "search_service": "metaso",
+  "prompt_version": "news-search-v1",
+  "prompt_sha256": "ea56fd5557d32615a9115f2368a0c4983ff1188f4935369e694d7d46f2493be1",
+  "requested_at": "2026-11-14T11:45:01.742153+08:00",
+  "raw_file": "raw/T0163_doubao_a001_be0b90.json",
+  "transport": "sse",
+  "stream_file": "raw/T0163_doubao_a001_be0b90.sse",
+  "status": "ok",
+  "model_returned": "doubao-seed-2-1-pro-260628",
+  "answer": "根据目前可核实的公开案件信息，你提到的不同刑期说法存在概念混淆，且部分流传内容暂未得到权威信源确认：\n1. 你听到的“死刑”相关表述，是韩国特别检察组在案件一审审理中向法院提出的量刑请求，并非法院作出的最终判决，一审法院经审理后并未采纳特检组提出的死刑求刑主张[4]。\n2. 你提到的“7年有期徒刑”“无期徒刑”相关判决说法，在本次检索覆盖的权威公开资料中没有对应明确记载，暂无法核实这些说法的来源、对应的审理环节和真实裁判内容，相关信息需要以韩国法院的正式公告为准。\n\n### 目前已确认的案件审理细节：\n一是一审法院未采纳死刑求刑有明确的量刑考量：法院审理认为，尹锡悦的涉案行为并非经过极其缜密的策划，行为过程中存在尽量克制使用武力的情形，几乎没有出现携带实弹或直接实施强制力、暴力的情况；同时，尹锡悦多数涉案计划最终失败、本人无犯罪前科、有长期公职经历、年岁较高等情节，也被纳入量刑参考范围[4]。\n二是一审判决尚未发生最终法律效力：一审宣判后，特别检察组方面评价本次判决“有意义”，但同时对判决中的事实认定部分和量刑结果表示遗憾，明确暗示将提起抗诉，后续案件可能进入二审程序，最终量刑结果仍存在变动可能[4]。公开报道的配图信息显示，2026年1月13日，尹锡悦曾在韩国首尔出席该案的法院庭审[4]。\n\n需要说明的是，本次检索获取的其他内容多为无有效文字说明的图片素材、网站页脚备案版权信息、商业广告，未提供关于尹锡悦案判决刑期的更多权威细节[1][3][5]；目前可查的有效公开信息仅披露了该案一审的部分审理片段，未完整公布法院一审判处的具体刑罚内容，网络上流传的7年、无期徒刑等不同刑期说法可能混杂了不同环节的检方求刑意见、未经证实的传闻信息，请注意甄别信息来源的权威性，具体判决内容请以韩国法院的正式公告为准。",
+  "sources": [
+    {
+      "index": 1,
+      "url": "https://xueqiu.com/4198399524/386574601",
+      "title": null,
+      "origin": "citations"
+    },
+    {
+      "index": 2,
+      "url": "https://www.thepaper.cn/newsDetail_forward_32633834",
+      "title": null,
+      "origin": "citations"
+    },
+    {
+      "index": 3,
+      "url": "http://www.xinhuanet.com/asia/20260224/cb92d3d426794acf8703d80207402c84/c.html",
+      "title": null,
+      "origin": "citations"
+    },
+    {
+      "index": 4,
+      "url": "https://mp.weixin.qq.com/s?__biz=MjM5MjMzODU2MQ==&mid=2650567552&idx=2&sn=dec97bc24751ae323473048a5b80f631&chksm=bf0fb3b18586a503747534b2cc71c590f829761b8c9056243690aa52ac7bb549f97c050126ca&scene=27",
+      "title": null,
+      "origin": "citations"
+    }
+  ],
+  "usage": {
+    "completion_tokens": 4475,
+    "completion_tokens_details": {
+      "reasoning_tokens": 3992
+    },
+    "prompt_tokens": 1890,
+    "prompt_tokens_details": {
+      "cached_tokens": 0
+    },
+    "total_tokens": 6365
+  },
+  "finish_reason": "stop",
+  "note": [],
+  "request_id": "4466d9a4-7911-45b3-b323-5189ce2dfb4a",
+  "duration_seconds": 103.375
+}

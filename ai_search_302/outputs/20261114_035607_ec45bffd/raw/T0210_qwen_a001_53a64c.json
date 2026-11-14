@@ -1,0 +1,59 @@
+{
+  "request": {
+    "model": "qwen3.8-max",
+    "messages": [
+      {
+        "role": "system",
+        "content": "请联网检索后，用自然中文回答用户的问题。\n先直接回答，再补充理解答案所需的事实、背景或说明；复杂问题可分点，简单问题可简答。\n优先参考与问题直接相关的原始发布、机构公告、当事人回应及可信媒体报道。\n依据检索到的资料作答。资料不足、存在分歧或尚未确认的内容，请明确说明；解释和判断应与已确认的事实区分。\n在相关事实后标注检索来源，沿用检索结果提供的引用编号或标记。\n\n查询日期：2026-11-14（北京时间，UTC+8）。问题中的“现在”“近期”“最新”以此日期为参照；问题明确指定时间范围时，以问题为准。"
+      },
+      {
+        "role": "user",
+        "content": "联合主办方公告明确记载的涉事深圳演出，是2026年哪一天？"
+      }
+    ],
+    "web-search": true,
+    "search-service": "metaso",
+    "search-results": 5,
+    "stream": true,
+    "stream_options": {
+      "include_usage": true
+    }
+  },
+  "response": {
+    "object": "chat.completion",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "联合主办方公告明确记载的涉事深圳演出是 **2026年3月28日**[5]。\n\n该公告涉及的是“单依纯「纯妹妹 2.0」2026 巡回演唱会”深圳站，因单依纯在演出中表演歌曲《李白》引发著作权授权争议；联合主办方称已叫停后续巡演场次中该歌曲的表演安排[5]。",
+          "reasoning_content": "我们需要回答用户问题。用户给了搜索结果，要求中文回答，引用格式 [X]。问题：“联合主办方公告明确记载的涉事深圳演出，是2026年哪一天？”\n\n需要找联合主办方公告明确记载的涉事深圳演出日期。搜索结果中 [5] 提到：3月30日凌晨单依纯发文道歉；单依纯演唱会主办方发布道歉信：北京百沐娱乐文化传媒有限公司、阔景音乐(成都)有限公司系“单依纯「纯妹妹 2.0」2026 巡回演唱会”的联合主办方。针对2026年3月28日深圳站演出中，单依纯表演歌曲《李白》所引发的著作权授权争议...事发后叫停后续所有巡演场次中《李白》。\n\n所以答案是 2026年3月28日。需要直接回答，再补充背景。简单问题可简答。引用 [5]。注意今天是2026-11-14。不需要联网检索，已给搜索结果。确保引用在句子末尾或对应部分。可以说：联合主办方公告明确记载，涉事深圳站演出发生在2026年3月28日[5]。该公告指单依纯「纯妹妹2.0」2026巡回演唱会深圳站，因表演《李白》引发著作权授权争议，主办方称已叫停后续场次中该曲表演[5]。\n\n需避免过多。最终中文。"
+        },
+        "finish_reason": "stop"
+      }
+    ],
+    "id": "chatcmpl-a12a8c98-1886-9e54-9cff-72933a12aa77",
+    "model": "qwen3.8-max",
+    "created": 1794628651,
+    "citations": [
+      "https://baike.baidu.com/ja/item/2026%E6%B7%B1%E5%9C%B3%E5%85%A8%E6%B0%91%E8%8A%B8%E8%A1%93%E5%AD%A3/2578650",
+      "https://mp.weixin.qq.com/s?__biz=MjM5MjI2OTU1NA==&mid=2655093817&idx=2&sn=6ac1e407028503729dd5ebba2176a1e1&chksm=bc9b9f44f28fa782a4a3841edfc08507ffdea08f61b3ae397075a629236e3647477a5960704d&scene=27",
+      "https://baike.baidu.com/en/item/2026%20%2818th%29%20Shenzhen%20International%20Auto%20Show/4537282",
+      "http://app.myzaker.com/news/article.php?pk=69c9d67f8e9f09054f45a51c"
+    ],
+    "usage": {
+      "completion_tokens": 401,
+      "completion_tokens_details": {
+        "reasoning_tokens": 309,
+        "text_tokens": 401
+      },
+      "prompt_tokens": 1489,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "text_tokens": 1489
+      },
+      "total_tokens": 1890
+    },
+    "_transport": "sse"
+  }
+}

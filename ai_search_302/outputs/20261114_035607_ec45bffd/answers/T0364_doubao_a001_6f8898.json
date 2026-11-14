@@ -1,0 +1,69 @@
+{
+  "task_id": "T0364",
+  "model": "doubao",
+  "news_id": "E030",
+  "question_index": 5,
+  "question_original": "【事实】恒大地产破产案通知规定的债权申报期限是哪天？只有其他关联公司债权的人，也能在这个案子里申报吗？",
+  "question": "恒大地产破产案通知规定的债权申报期限是哪天？只有其他关联公司债权的人，也能在这个案子里申报吗？",
+  "attempt": 1,
+  "provider": "302.ai",
+  "model_requested": "doubao-seed-2-1-pro-260628",
+  "query_date": "2026-11-14",
+  "search_service": "metaso",
+  "prompt_version": "news-search-v1",
+  "prompt_sha256": "ea56fd5557d32615a9115f2368a0c4983ff1188f4935369e694d7d46f2493be1",
+  "requested_at": "2026-11-14T12:35:36.903207+08:00",
+  "raw_file": "raw/T0364_doubao_a001_6f8898.json",
+  "transport": "sse",
+  "stream_file": "raw/T0364_doubao_a001_6f8898.sse",
+  "status": "ok",
+  "model_returned": "doubao-seed-2-1-pro-260628",
+  "answer": "目前公开通知中，恒大地产不同主体的破产程序对应不同的债权申报期限；仅对恒大其他关联公司享有债权的主体，不属于恒大地产集团有限公司破产案的申报范围，不能在该案中申报债权，具体规则如下：\n### 一、不同破产程序对应的债权申报期限\n1.  **恒大地产集团有限公司破产清算案**：该案由广州市中级人民法院裁定受理，申请方为广州农村商业银行股份有限公司华夏支行，债权人需在2026年11月21日前，通过法院指定的线上系统以非现场方式向案件管理人申报债权，申报时需根据自身债权性质选择“购房人债权”或“其他债权”对应入口提交材料[2][3]。广州中院曾对237户未及时申报的业主作出“不予确认债权”的裁定，逾期申报将直接影响债权权益实现[2]。以查询当日2026年11月14日计算，该案距申报截止日尚有7天，相关债权人需及时完成申报。\n2.  **恒大地产广东公司相关破产程序**：债权人应在2025年11月20日前向管理人申报债权[1][4]；未在上述期限内申报债权的，可依照《中华人民共和国企业破产法》第56条规定补充申报，但无权要求对程序中此前已进行的财产分配主张补充分配，也无法参与补报前破产程序中的各项权利行使[1][4][5]。\n### 二、关联公司债权的申报要求\n仅对恒大其他关联公司（包括各地项目公司等）享有债权的主体，不属于恒大地产集团有限公司破产案的债权申报范围；如果债权人的合同是直接与某一地方项目公司签订的，应当向对应项目公司的破产程序申报债权，不能在恒大地产集团层面的破产案件中申报[2]。",
+  "sources": [
+    {
+      "index": 1,
+      "url": "https://finance.sina.cn/2025-08-22/detail-infmvzeh5621626.d.html?oid=%E4%BA%9A%E9%A9%AC%E9%80%8A%E5%AE%98%E6%96%B9%E6%96%B0%E9%97%BB%E2%96%8D%E9%9C%80%E8%A6%81%E8%81%94%E7%B3%BBTG%3A%40HHCH8%E6%92%9E%E5%BA%93%E6%95%B0%E6%8D%AE%E6%B8%97%E9%80%8F%E6%95%B0%E6%8D%AE%E6%B5%B7%E5%A4%96%E6%94%AF%E4%BB%98%E9%80%9A%E9%81%93%E2%96%8D%E9%A1%BA%E4%B8%B08000%E5%85%83%E8%B4%A7%E5%88%B0%E4%BB%98%E6%AC%BE%E6%89%8B%E7%BB%AD%E8%B4%B9%E8%B0%81%E5%87%BA%E5%91%A2%E2%96%A0%E9%9C%80%E8%A6%81%E8%81%94%E7%B3%BBTG%3A%40HHCH8%E6%92%9E%E5%BA%93%E6%95%B0%E6%8D%AE%E6%B8%97%E9%80%8F%E6%95%B0%E6%8D%AE%E6%B5%B7%E5%A4%96%E6%94%AF%E4%BB%98%E9%80%9A%E9%81%93%E2%96%A0%E4%B8%AD%E5%9B%BD%E5%A4%A7%E6%95%B0%E6%8D%AE%E8%A1%8C%E4%B8%9A%E5%8F%91%E5%B1%95%E7%9A%84%E6%8C%91%E6%88%98%E6%9C%89%E5%93%AA%E4%BA%9B%28%20%29%3F%E2%96%A0%E9%9C%80%E8%A6%81%E8%81%94%E7%B3%BBTG%3A%40HHCH8%E6%92%9E%E5%BA%93%E6%95%B0%E6%8D%AE%E6%B8%97%E9%80%8F%E6%95%B0%E6%8D%AE%E6%B5%B7%E5%A4%96%E6%94%AF%E4%BB%98%E9%80%9A%E9%81%93%E2%96%A04Oju&vt=4",
+      "title": null,
+      "origin": "citations"
+    },
+    {
+      "index": 2,
+      "url": "https://news.qq.com/rain/a/20261031A09BV400",
+      "title": null,
+      "origin": "citations"
+    },
+    {
+      "index": 3,
+      "url": "https://k.sina.cn/article_7857201856_1d45362c001908kcby.html",
+      "title": null,
+      "origin": "citations"
+    },
+    {
+      "index": 4,
+      "url": "https://cd.nbd.com.cn/articles/2025-08-22/4024037.html",
+      "title": null,
+      "origin": "citations"
+    },
+    {
+      "index": 5,
+      "url": "https://m.fang.com/news/bj/03_53376827.html",
+      "title": null,
+      "origin": "citations"
+    }
+  ],
+  "usage": {
+    "completion_tokens": 2933,
+    "completion_tokens_details": {
+      "reasoning_tokens": 2526
+    },
+    "prompt_tokens": 1404,
+    "prompt_tokens_details": {
+      "cached_tokens": 0
+    },
+    "total_tokens": 4337
+  },
+  "finish_reason": "stop",
+  "note": [],
+  "request_id": "e1edff29-9981-4513-b0b5-52f9ab47f6dc",
+  "duration_seconds": 53.203
+}

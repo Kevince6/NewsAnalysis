@@ -1,0 +1,63 @@
+{
+  "task_id": "T0239",
+  "model": "deepseek",
+  "news_id": "E020",
+  "question_index": 1,
+  "question_original": "【开放】2025年6月的民航新规具体限制了哪些充电宝？和罗马仕、安克的召回有什么关系？",
+  "question": "2025年6月的民航新规具体限制了哪些充电宝？和罗马仕、安克的召回有什么关系？",
+  "attempt": 1,
+  "provider": "302.ai",
+  "model_requested": "deepseek-flash",
+  "query_date": "2026-11-14",
+  "search_service": "metaso",
+  "prompt_version": "news-search-v1",
+  "prompt_sha256": "ea56fd5557d32615a9115f2368a0c4983ff1188f4935369e694d7d46f2493be1",
+  "requested_at": "2026-11-14T12:05:22.258762+08:00",
+  "raw_file": "raw/T0239_deepseek_a001_c976a0.json",
+  "transport": "sse",
+  "stream_file": "raw/T0239_deepseek_a001_c976a0.sse",
+  "status": "ok",
+  "model_returned": "deepseek-flash",
+  "answer": "2025年6月民航新规的核心，是禁止携带两类充电宝登机：**无3C标识的充电宝**，以及**属于召回批次或被召回的充电宝**；同时，原有的容量限制继续执行[1][3]。这项新规与罗马仕、安克的召回是直接配套关系：召回明确了“哪些产品有燃烧风险”，民航禁带则把这些产品挡在安检之外。\n\n### 一、民航新规的具体限制\n\n1. **禁带无3C标识的充电宝**  \n   2025年6月28日起，中国民用航空局规定，禁止携带无3C标识的充电宝登机[1]。\n\n2. **禁带被召回型号或批次的充电宝**  \n   主要包括：\n   - 罗马仕：PAC20-272、PAC20-392、PLT20A-152，共约49.1万台[1][3]；\n   - 安克：A1642、A1647、A1652、A1680、A1681、A1689、A1257，共约71.2万台[3]；\n   - 倍思等品牌的部分被召回批次，同样被禁携[3]。\n\n3. **容量限制没有放宽**  \n   - ≤100Wh（约20000mAh）：可直接携带；\n   - 100Wh—160Wh：需航空公司书面批准，限带2块；\n   - ＞160Wh：严禁携带[3]。\n\n4. **机场执行存在差异**  \n   北京、上海、广州、深圳、武汉、成都、长沙等地机场中，多个机场明确禁止携带罗马仕、安克的召回型号及批次；部分机场虽未直接禁止涉事品牌，但表示“不建议旅客携带”，或要求搭乘航司开具放行单[5]。因此实际操作中，涉事品牌其他型号也可能被安检重点查验。\n\n### 二、与罗马仕、安克召回的关系\n\n- **召回是原因，民航禁带是配套措施。**  \n  2025年6月16日，罗马仕宣布召回2023年6月5日至2024年7月31日生产的49.17万台充电宝，原因是电芯原材料缺陷可能导致燃烧风险；安克创新同步召回71.3万台产品，问题电芯指向同一供应商安普瑞斯（无锡）[1]。随后6月20日罗马仕3C认证被暂停、电商平台下架，6月28日民航禁带新规出台[1]。\n\n- **民航限制的是“召回批次＋无3C认证”，并非所有罗马仕、安克产品。**  \n  新规针对的是存在缺陷的召回批次和失去3C认证的产品[1][3]。不过由于机场执行尺度不同，涉事品牌的其他型号也可能被“不建议携带”或要求航司放行单[5]。\n\n- **数字略有差异。**  \n  罗马仕召回量有“49.17万台”和“49.1万台”两种表述，安克有“71.3万台”和“71.2万台”两种表述，属于不同来源的统计或四舍五入差异[1][3]。\n\n简单说：**召回划定了风险产品范围，民航新规则把这些风险产品和无3C认证产品一起禁止带上飞机。** 旅客可通过国家市场监管总局缺陷产品召回技术中心官网或“民航旅客锂电池安全查询”小程序核验自己的充电宝是否在召回批次内[4]。",
+  "sources": [
+    {
+      "index": 1,
+      "url": "https://news.qq.com/rain/a/20250705A084IV00",
+      "title": null,
+      "origin": "citations"
+    },
+    {
+      "index": 2,
+      "url": "https://cj.sina.cn/articles/view/7096020433/v1a6f4add106801d34i?froms=ggmp&vt=4",
+      "title": null,
+      "origin": "citations"
+    },
+    {
+      "index": 3,
+      "url": "https://finance.sina.cn/2025-06-28/detail-infcquyt2351916.d.html?vt=4&cid=76675&node_id=76675",
+      "title": null,
+      "origin": "citations"
+    },
+    {
+      "index": 4,
+      "url": "https://baike.baidu.com/item/%E7%BE%85%E9%A6%AC%E4%BB%95/5828143#%3A~%3Atext%3D%E7%BD%97%E9%A9%AC%E4%BB%95%EF%BC%88ROMOSS%EF%BC%89%EF%BC%8C%E6%98%AF%2C%E6%80%BB%E9%94%80%E9%87%8F%E7%AA%81%E7%A0%B41400%E4%B8%87%E3%80%82",
+      "title": null,
+      "origin": "citations"
+    }
+  ],
+  "usage": {
+    "completion_tokens": 1476,
+    "completion_tokens_details": {
+      "reasoning_tokens": 745
+    },
+    "prompt_tokens": 1241,
+    "prompt_tokens_details": {
+      "cached_tokens": 0
+    },
+    "total_tokens": 2717
+  },
+  "finish_reason": "stop",
+  "note": [],
+  "request_id": "fdbab6c5-d505-46c9-93d0-79d51cdd2926",
+  "duration_seconds": 9.39
+}

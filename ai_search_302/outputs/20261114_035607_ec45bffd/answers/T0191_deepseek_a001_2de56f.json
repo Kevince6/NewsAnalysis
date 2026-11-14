@@ -1,0 +1,57 @@
+{
+  "task_id": "T0191",
+  "model": "deepseek",
+  "news_id": "E016",
+  "question_index": 1,
+  "question_original": "【开放】缅北反诈从把人押解回国到法院判刑，公开资料里有哪些关键进展？",
+  "question": "缅北反诈从把人押解回国到法院判刑，公开资料里有哪些关键进展？",
+  "attempt": 1,
+  "provider": "302.ai",
+  "model_requested": "deepseek-flash",
+  "query_date": "2026-11-14",
+  "search_service": "metaso",
+  "prompt_version": "news-search-v1",
+  "prompt_sha256": "ea56fd5557d32615a9115f2368a0c4983ff1188f4935369e694d7d46f2493be1",
+  "requested_at": "2026-11-14T11:52:38.129874+08:00",
+  "raw_file": "raw/T0191_deepseek_a001_2de56f.json",
+  "transport": "sse",
+  "stream_file": "raw/T0191_deepseek_a001_2de56f.sse",
+  "status": "ok",
+  "model_returned": "deepseek-flash",
+  "answer": "据本次检索到的公开资料，缅北反诈的公开进展主要集中在**通缉、头目落网移交、再次集中通缉**这几个阶段；至于“法院判刑”的具体节点，检索结果中没有提供可核实的判决信息，因此无法确认已有哪些案件宣判、判处何种刑罚。\n\n**已确认的关键进展**\n\n1. **2023年11月12日：首次公开悬赏通缉“四大家族”相关头目**  \n   中国公安机关对明学昌等人发布通缉令，公开悬赏通缉缅北电诈犯罪集团重要头目，被描述为对以“四大家族”为首的缅北诈骗集团打响“全面战争”[2]。\n\n2. **2023年11月15日至16日：明学昌自杀，多名家属到案并移交中国**  \n   11月15日晚间，明学昌自杀身亡；其子女明国平、明菊兰，孙女明珍珍于次日到案并移交中国[2]。这是“押解回国/移交”环节中最明确的公开节点。\n\n3. **2023年12月10日：公安部再发重磅通缉令，扩大至十名头目**  \n   中国公安部再度发布通缉令，最高悬赏50万元通缉十名缅北电信网络诈骗头目，其中不乏多位缅北四大家族成员[2]。\n\n**法律处理层面的公开信息**\n\n检索资料仅概括了从犯可能涉及的罪名：诈骗罪、偷越国（边）境罪或帮信罪等；诈骗罪起刑为三年以下有期徒刑，最高可至十年以上；偷越国（边）境三次以上属于“情节严重”，处一年以下有期徒刑；涉及多种罪名实行数罪并罚[3]。资料还提到，此前有人被“高薪工作”骗去缅北，在殴打、关“水牢”等暴力胁迫下参与电诈[3]。这些属于法律适用和背景说明，并非具体判决结果。\n\n**需要说明的缺口**\n\n本次检索结果主要覆盖2023年11月至12月的通缉、移交和再度通缉信息，没有出现法院开庭、判决、宣判刑期等后续公开进展。因此，若问题是问“从移交到判刑”的完整链条，目前只能确认前半段；判刑部分需进一步查阅公安部、最高人民检察院、最高人民法院及央视等原始公告和报道。",
+  "sources": [
+    {
+      "index": 1,
+      "url": "https://www.thepaper.cn/newsDetail_forward_26211689",
+      "title": null,
+      "origin": "citations"
+    },
+    {
+      "index": 2,
+      "url": "https://news.southcn.com/node_179d29f1ce/de32ba5b20.shtml",
+      "title": null,
+      "origin": "citations"
+    },
+    {
+      "index": 3,
+      "url": "https://m.gmw.cn/2024-01/31/content_1303648370.htm",
+      "title": null,
+      "origin": "citations"
+    }
+  ],
+  "usage": {
+    "completion_tokens": 1315,
+    "completion_tokens_details": {
+      "reasoning_tokens": 813
+    },
+    "prompt_tokens": 1079,
+    "prompt_tokens_details": {
+      "cached_tokens": 0
+    },
+    "total_tokens": 2394
+  },
+  "finish_reason": "stop",
+  "note": [],
+  "request_id": "cb5d47a3-6296-4475-bc7b-f675c30cbca3",
+  "duration_seconds": 11.172
+}

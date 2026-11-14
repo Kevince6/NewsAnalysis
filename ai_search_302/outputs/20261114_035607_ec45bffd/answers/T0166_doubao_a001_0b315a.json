@@ -1,0 +1,57 @@
+{
+  "task_id": "T0166",
+  "model": "doubao",
+  "news_id": "E014",
+  "question_index": 2,
+  "question_original": "【开放】从被罢免到刑事审判，尹锡悦相关案件有哪些关键节点？截至2026年11月，哪些已经作出判决，哪些还在等结果？",
+  "question": "从被罢免到刑事审判，尹锡悦相关案件有哪些关键节点？截至2026年11月，哪些已经作出判决，哪些还在等结果？",
+  "attempt": 1,
+  "provider": "302.ai",
+  "model_requested": "doubao-seed-2-1-pro-260628",
+  "query_date": "2026-11-14",
+  "search_service": "metaso",
+  "prompt_version": "news-search-v1",
+  "prompt_sha256": "ea56fd5557d32615a9115f2368a0c4983ff1188f4935369e694d7d46f2493be1",
+  "requested_at": "2026-11-14T11:46:10.438091+08:00",
+  "raw_file": "raw/T0166_doubao_a001_0b315a.json",
+  "transport": "sse",
+  "stream_file": "raw/T0166_doubao_a001_0b315a.sse",
+  "status": "ok",
+  "model_returned": "doubao-seed-2-1-pro-260628",
+  "answer": "当前检索获取的有效信息存在严重缺口，无法完整梳理尹锡悦从被罢免到刑事审判的全流程关键节点，也无法全面统计截至2026年11月已作出判决、尚待结果的案件全貌，仅能从现有材料中提取到少量零散的涉及其刑事审判的确认信息：\n1.  尹锡悦牵涉的某一起刑事案件已作出无罪判决。判决公布后，负责办理该案的特别检察官方面当即表态将对该判决提起上诉；尹锡悦一方则计划将这份无罪判决书提交给韩国大法院，作为后续其他关联案件办理的参考材料[2]。\n2.  相关报道的背景介绍提及，该份判决作出时尹锡悦正身陷多起刑事诉讼，但现有材料未披露这些案件的具体案由、程序节点、审理进度，也未提及任何与罢免程序相关的事件、时间节点信息[2]。\n\n### 检索内容有效性说明\n本次检索返回的其余内容均不涉及尹锡悦案件的有效事实：其中一份为澎湃新闻平台的通用页脚信息，包含客户端下载入口、新媒体矩阵、新闻报料渠道、服务资质、版权声明等平台日常运维内容，无相关新闻事实披露[1]；另一份为网易号自媒体平台的用户上传内容免责声明，仅说明平台对用户上传内容的信息存储定位，未承载与尹锡悦罢免、审判相关的实质信息[4]。\n\n由于现有检索资料完全缺失罢免环节的相关记录、全量涉诉案件清单、各司法/政治程序的时间节点等核心信息，目前无法完成尹锡悦相关事件的关键节点梳理与案件进度分类，相关完整、准确的信息需要补充检索权威信源（如韩国司法机构公告、当事人正式表态、可信媒体深度报道）后进一步核实。",
+  "sources": [
+    {
+      "index": 1,
+      "url": "https://www.thepaper.cn/newsDetail_forward_32633834",
+      "title": null,
+      "origin": "citations"
+    },
+    {
+      "index": 2,
+      "url": "https://new.qq.com/rain/a/20261008A06J9R00",
+      "title": null,
+      "origin": "citations"
+    },
+    {
+      "index": 3,
+      "url": "https://www.163.com/dy/article/KJDCOH5N0512B07B.html",
+      "title": null,
+      "origin": "citations"
+    }
+  ],
+  "usage": {
+    "completion_tokens": 3088,
+    "completion_tokens_details": {
+      "reasoning_tokens": 2696
+    },
+    "prompt_tokens": 1126,
+    "prompt_tokens_details": {
+      "cached_tokens": 0
+    },
+    "total_tokens": 4214
+  },
+  "finish_reason": "stop",
+  "note": [],
+  "request_id": "452e0a65-f590-43c6-b1cf-2c0f330f4620",
+  "duration_seconds": 61.953
+}

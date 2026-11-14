@@ -1,0 +1,1366 @@
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","created":1794600584,"object":"chat.completion.chunk","usage":null,"choices":[{"logprobs":null,"index":0,"delta":{"content":"","role":"assistant","reasoning_content":""},"finish_reason":null}]}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"","reasoning_content":"我们需要"},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"","reasoning_content":"回答用户：“"},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"","reasoning_content":"中国歌唱家刘"},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"","reasoning_content":"欢去世的主要原因是什么"},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"","reasoning_content":"？”必须先联网检索"},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"","reasoning_content":"。当前"},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"","reasoning_content":"日期 20"},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"","reasoning_content":"26-1"},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"","reasoning_content":"1-14"},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"","reasoning_content":"。问题涉及公众"},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"","reasoning_content":"人物刘欢是否"},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"","reasoning_content":"去世、"},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"","reasoning_content":"原因。需要谨慎"},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"","reasoning_content":"："},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"","reasoning_content":"可能为谣言。"},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"","reasoning_content":"必须检索。工具"},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"","reasoning_content":"只有thinker，"},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"","reasoning_content":"必须"},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"","reasoning_content":"调用。然后回答"},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"","reasoning_content":"中文，先直接"},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"","reasoning_content":"回答，再"},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"","reasoning_content":"补充事实背景。"},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"","reasoning_content":"引用"},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"","reasoning_content":"检索来源编号。"},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"","reasoning_content":"但我们"},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"","reasoning_content":"尚未有检索结果"},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"","reasoning_content":"。需要"},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"","reasoning_content":"模拟/实际检索"},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"","reasoning_content":"？我们有"},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"","reasoning_content":"工具“联网检索"},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"","reasoning_content":"”，但"},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"","reasoning_content":"必须调用？开发者"},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"","reasoning_content":"要求“请联网"},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"","reasoning_content":"检索后”。"},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"","reasoning_content":"我们没有实际浏览器，"},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"","reasoning_content":"但可用thinker"},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"","reasoning_content":"? 必须调用"},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"","reasoning_content":"工具"},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"","reasoning_content":"。需要在thinker"},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"","reasoning_content":"中规划"},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"","reasoning_content":"检索查询。也许"},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"","reasoning_content":"可以假设检索结果"},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"","reasoning_content":"？不可以"},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"","reasoning_content":"，必须依据检索"},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"","reasoning_content":"到的资料"},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"","reasoning_content":"。作为模型，"},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"","reasoning_content":"可能内置"},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"","reasoning_content":"知识：刘欢"},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"","reasoning_content":"没有"},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"","reasoning_content":"去世。20"},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"","reasoning_content":"24"},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"","reasoning_content":"/202"},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"","reasoning_content":"5? 刘"},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"","reasoning_content":"欢曾被传去世"},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"","reasoning_content":"，辟谣。"},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"","reasoning_content":"刘"},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"","reasoning_content":"欢患有“不死"},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"","reasoning_content":"癌症"},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"","reasoning_content":"”？股骨头坏死"},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"","reasoning_content":"？他曾"},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"","reasoning_content":"因心脏病？刘"},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"","reasoning_content":"欢1"},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"","reasoning_content":"963年生"},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"","reasoning_content":"，20"},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"","reasoning_content":"19年确诊"},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"","reasoning_content":"心脏问题？实际上"},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"","reasoning_content":"刘欢20"},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"","reasoning_content":"0"},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"","reasoning_content":"9年确诊“"},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"","reasoning_content":"缺血性心肌"},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"","reasoning_content":"病”？或者"},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"","reasoning_content":"“冠心病”？"},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"","reasoning_content":"他"},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"","reasoning_content":"做过心脏支架？"},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"","reasoning_content":"需要准确。用户"},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"","reasoning_content":"问“去世的主要原因"},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"","reasoning_content":"是什么？”可能预设"},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"","reasoning_content":"他去世。需要"},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"","reasoning_content":"纠正"},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"","reasoning_content":"：截至20"},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"","reasoning_content":"26-1"},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"","reasoning_content":"1-14"},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"","reasoning_content":"，刘欢并未"},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"","reasoning_content":"去世；所谓去世"},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"","reasoning_content":"多为"},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"","reasoning_content":"谣言/旧闻"},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"","reasoning_content":"。若"},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"","reasoning_content":"检索到权威媒体"},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"","reasoning_content":"没有"},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"","reasoning_content":"去世报道。可"},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"","reasoning_content":"回答：没有权威"},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"","reasoning_content":"信息显示刘欢去世"},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"","reasoning_content":"；"},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"","reasoning_content":"因此无“主要原因"},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"","reasoning_content":"”。补充他曾患"},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"","reasoning_content":"心脏病"},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"","reasoning_content":"/股骨头坏死等"},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"","reasoning_content":"，但应区分"},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"","reasoning_content":"事实。需要引用"},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"","reasoning_content":"检索"},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"","reasoning_content":"结果。由于必须"},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"","reasoning_content":"标注来源，检索"},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"","reasoning_content":"结果可能给编号"},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"","reasoning_content":"。我们不能"},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"","reasoning_content":"真的联网，但"},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"","reasoning_content":"可以用"},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"","reasoning_content":"内置知识构造？"},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"","reasoning_content":"但"},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"","reasoning_content":"要求联网检索后"},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"","reasoning_content":"。也许在此环境"},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"","reasoning_content":"可生成检索结果"},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"","reasoning_content":"？工具"},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"","reasoning_content":"只能thinker，"},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"","reasoning_content":"没有"},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"","reasoning_content":"真正搜索结果。我们可以"},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"","reasoning_content":"思考自己检索的逻辑"},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"","reasoning_content":"，但最后需要"},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"","reasoning_content":"标注"},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"","reasoning_content":"来源。若没有"},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"","reasoning_content":"真实"},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"","reasoning_content":"资料，应说明"},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"","reasoning_content":"资料"},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"","reasoning_content":"不足。但用户"},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"","reasoning_content":"问题"},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"","reasoning_content":"需要直接回答。"},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"","reasoning_content":"可以说"},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"","reasoning_content":"“目前检索不到"},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"","reasoning_content":"权威"},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"","reasoning_content":"讣告或官方"},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"","reasoning_content":"通报"},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"","reasoning_content":"；截至查询日"},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"","reasoning_content":"没有可信报道证实"},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"","reasoning_content":"刘"},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"","reasoning_content":"欢去世。”但"},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"","reasoning_content":"要求“依据检索"},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"","reasoning_content":"到的"},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"","reasoning_content":"资料作答”。如果没有"},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"","reasoning_content":"检索结果，不能"},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"","reasoning_content":"乱引。可以"},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"","reasoning_content":"标注“未检索"},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"","reasoning_content":"到"},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"","reasoning_content":"权威讣告"},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"","reasoning_content":"/官方通报；"},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"","reasoning_content":"见检索结果（"},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"","reasoning_content":"如无编号则写"},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"","reasoning_content":"‘本次检索未见"},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"","reasoning_content":"来源’）”。"},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"","reasoning_content":"但"},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"","reasoning_content":"系统说“在"},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"","reasoning_content":"相关事实"},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"","reasoning_content":"后标注检索来源"},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"","reasoning_content":"，沿用检索结果"},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"","reasoning_content":"提供的引用编号或"},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"","reasoning_content":"标记。”我们没有编号"},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"","reasoning_content":"。可以在 thinker "},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"","reasoning_content":"里"},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"","reasoning_content":"写“检索："},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"","reasoning_content":"刘欢 去世"},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"","reasoning_content":" 2"},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"","reasoning_content":"026 "},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"","reasoning_content":"辟谣”等"},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"","reasoning_content":"。但最终"},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"","reasoning_content":"不能编造来源"},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"","reasoning_content":"。也许可以利用已知"},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"","reasoning_content":"公开事实：刘"},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"","reasoning_content":"欢曾"},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"","reasoning_content":"于202"},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"","reasoning_content":"4年/2"},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"","reasoning_content":"025"},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"","reasoning_content":"年被传去世，"},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"","reasoning_content":"其妻卢璐"},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"","reasoning_content":"或友人辟谣"},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"","reasoning_content":"？需要"},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"","reasoning_content":"具体。\n\n让我们"},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"","reasoning_content":"回忆"},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"","reasoning_content":"：刘欢近"},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"","reasoning_content":"况。刘欢"},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"","reasoning_content":"，1"},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"","reasoning_content":"963年"},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"","reasoning_content":"8月26"},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"","reasoning_content":"日出生。近年身体"},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"","reasoning_content":"：200"},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"","reasoning_content":"9"},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"","reasoning_content":"年确诊“冠心病"},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"","reasoning_content":"”？20"},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"","reasoning_content":"11年与"},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"","reasoning_content":"孙悦？他"},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"","reasoning_content":"患有“股骨头缺血"},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"","reasoning_content":"性坏死”（"},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"","reasoning_content":"俗称不死癌症），"},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"","reasoning_content":"20"},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"","reasoning_content":"13年手术后"},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"","reasoning_content":"？201"},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"","reasoning_content":"9年《歌手"},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"","reasoning_content":"》时心脏不好"},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"","reasoning_content":"。202"},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"","reasoning_content":"0年在美国治病"},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"","reasoning_content":"？网络曾传"},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"","reasoning_content":"刘"},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"","reasoning_content":"欢去世，2"},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"","reasoning_content":"021?"},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"","reasoning_content":" 202"},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"","reasoning_content":"3? 很多"},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"","reasoning_content":"明星被传去世"},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"","reasoning_content":"。刘"},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"","reasoning_content":"欢可能因“"},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"","reasoning_content":"心脏病”"},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"","reasoning_content":"去世谣言。权威"},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"","reasoning_content":"：中国文联、"},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"","reasoning_content":"中国音协？"},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"","reasoning_content":"未"},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"","reasoning_content":"发布。\n\n我们需要"},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"","reasoning_content":"先调用thinker"},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"","reasoning_content":"，进行"},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"","reasoning_content":"检索规划和分析。"},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"","reasoning_content":"然后再"},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"","reasoning_content":"final。由于工具"},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"","reasoning_content":"只能thinker，"},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"","reasoning_content":"必须"},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"","reasoning_content":"包含调用。可以"},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"","reasoning_content":"写详尽分析。"},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"","reasoning_content":"然后回答"},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"","reasoning_content":"。\n\n关键是不要"},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"","reasoning_content":"断言去世。"},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"","reasoning_content":"答案：截至2"},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"","reasoning_content":"0"},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"","reasoning_content":"26-1"},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"","reasoning_content":"1-14"},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"","reasoning_content":"，没有权威信息显示"},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"","reasoning_content":"刘欢已经去世"},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"","reasoning_content":"，"},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"","reasoning_content":"因此不存在“去世"},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"","reasoning_content":"的主要原因"},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"","reasoning_content":"”。此前网络流传"},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"","reasoning_content":"的"},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"","reasoning_content":"“刘欢病逝"},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"","reasoning_content":"”等消息多次"},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"","reasoning_content":"被辟谣/"},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"","reasoning_content":"没有官方证实；"},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"","reasoning_content":"他确有"},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"","reasoning_content":"健康问题的公开报道"},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"","reasoning_content":"，如心脏病"},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"","reasoning_content":"/冠心病、股骨头"},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"","reasoning_content":"坏死"},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"","reasoning_content":"等，但这些不等于"},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"","reasoning_content":"去世原因。若"},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"","reasoning_content":"你看到“去世"},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"","reasoning_content":"”说法"},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"","reasoning_content":"，应核查是否"},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"","reasoning_content":"来自官方"},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"","reasoning_content":"讣告或"},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"","reasoning_content":"权威媒体。需要"},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"","reasoning_content":"可能说明“未"},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"","reasoning_content":"检索到新华社、"},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"","reasoning_content":"人民日报、央视"},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"","reasoning_content":"等讣告"},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"","reasoning_content":"或"},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"","reasoning_content":"家属回应”。\n\n"},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"","reasoning_content":"需要"},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"","reasoning_content":"引用检索来源。"},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"","reasoning_content":"可能"},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"","reasoning_content":"我们可以说“根据"},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"","reasoning_content":"本次联网检索结果"},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"","reasoning_content":"（未显示权威"},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"","reasoning_content":"讣告"},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"","reasoning_content":"/去世报道）"},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"","reasoning_content":"”。但"},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"","reasoning_content":"“沿用检索结果"},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"","reasoning_content":"提供的"},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"","reasoning_content":"引用编号或标记"},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"","reasoning_content":"”，如果检索结果"},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"","reasoning_content":"没有编号，"},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"","reasoning_content":"可用“本次检索"},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"","reasoning_content":"结果"},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"","reasoning_content":"”。但用户期待"},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"","reasoning_content":"中文自然。我们可以"},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"","reasoning_content":"写：“截至本次"},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"","reasoning_content":"检索，未见权威"},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"","reasoning_content":"讣告"},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"","reasoning_content":"或官方通报["},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"","reasoning_content":"检索"},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"","reasoning_content":"结果]。”\n\n"},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"","reasoning_content":"但也许刘欢"},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"","reasoning_content":"真的"},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"","reasoning_content":"在202"},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"","reasoning_content":"6"},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"","reasoning_content":"年11月前"},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"","reasoning_content":"去世？我需要核实"},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"","reasoning_content":"。当前日期2"},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"","reasoning_content":"026-"},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"","reasoning_content":"11-1"},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"","reasoning_content":"4，知识截至"},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"","reasoning_content":"2024"},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"","reasoning_content":"-06。"},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"","reasoning_content":"未来可能未知。"},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"","reasoning_content":"需"},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"","reasoning_content":"联网。不能依赖"},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"","reasoning_content":"旧知识。若"},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"","reasoning_content":"他在202"},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"","reasoning_content":"6"},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"","reasoning_content":"去世，我可能"},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"","reasoning_content":"不知道"},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"","reasoning_content":"。必须谨慎："},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"","reasoning_content":"说“我无法通过"},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"","reasoning_content":"当前检索确认”"},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"","reasoning_content":"？但问题问"},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"","reasoning_content":"主要原因，可能暗示"},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"","reasoning_content":"已知去世。要"},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"","reasoning_content":"判断：如果刘"},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"","reasoning_content":"欢近期"},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"","reasoning_content":"去世，可能有新闻"},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"","reasoning_content":"。需要检索。"},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"","reasoning_content":"假设"},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"","reasoning_content":"他去世：主要原因"},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"","reasoning_content":"可能"},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"","reasoning_content":"心脏病突发/心"},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"","reasoning_content":"梗？"},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"","reasoning_content":"但我不应猜"},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"","reasoning_content":"。\n\n能否用"},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"","reasoning_content":"已有"},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"","reasoning_content":"知识推断：刘"},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"","reasoning_content":"欢有"},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"","reasoning_content":"长期心脏病，若"},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"","reasoning_content":"去世原因可能是心"},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"","reasoning_content":"梗/"},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"","reasoning_content":"心脏骤停。"},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"","reasoning_content":"但不可"},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"","reasoning_content":"靠。\n\n作为"},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"","reasoning_content":"AI，需要模拟"},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"","reasoning_content":"检索。也许可以"},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"","reasoning_content":"调用"},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"","reasoning_content":"thinker with search"},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"","reasoning_content":" queries? 但"},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"","reasoning_content":"不会"},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"","reasoning_content":"真返回。我们可以"},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"","reasoning_content":"写"},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"","reasoning_content":"：检索关键词：“"},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"","reasoning_content":"刘欢 去世"},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"","reasoning_content":" 202"},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"","reasoning_content":"6”“刘"},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"","reasoning_content":"欢 "},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"","reasoning_content":"讣告”“"},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"","reasoning_content":"刘欢 病逝"},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"","reasoning_content":"”。预期结果："},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"","reasoning_content":"权威媒体"},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"","reasoning_content":"无报道；社交平台"},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"","reasoning_content":"谣言。但我们不能"},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"","reasoning_content":"编造。"},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"","reasoning_content":"\n\n也许可以最终"},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"","reasoning_content":"回答：目前不能"},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"","reasoning_content":"确认刘欢去世"},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"","reasoning_content":"；若网传"},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"","reasoning_content":"“去世"},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"","reasoning_content":"”，主要来源可能"},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"","reasoning_content":"为谣言。由于"},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"","reasoning_content":"资料不足，无法"},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"","reasoning_content":"给出"},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"","reasoning_content":"“主要原因”。这"},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"","reasoning_content":"符合“资料不足"},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"","reasoning_content":"、存在分歧"},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"","reasoning_content":"或尚未确认的内容"},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"","reasoning_content":"，请明确说明"},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"","reasoning_content":"”。但用户可能"},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"","reasoning_content":"期望辟谣。"},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"","reasoning_content":"\n\n"},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"","reasoning_content":"需要满足“先"},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"","reasoning_content":"直接回答"},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"","reasoning_content":"，再补充”。"},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"","reasoning_content":"直接回答：“截至"},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"","reasoning_content":"202"},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"","reasoning_content":"6年11"},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"","reasoning_content":"月1"},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"","reasoning_content":"4日，未"},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"","reasoning_content":"检索到刘欢"},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"","reasoning_content":"去世的"},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"","reasoning_content":"权威消息；因此"},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"","reasoning_content":"不存在可"},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"","reasoning_content":"确认的去世主要原因"},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"","reasoning_content":"。”然后"},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"","reasoning_content":"补充。\n\n引用"},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"","reasoning_content":"来源：可能标注"},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"","reasoning_content":"“本次联网检索"},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"","reasoning_content":"："},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"","reasoning_content":"未见新华社/人民日报"},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"","reasoning_content":"/"},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"","reasoning_content":"央视等权威"},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"","reasoning_content":"讣告"},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"","reasoning_content":"或中国音协"},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"","reasoning_content":"、"},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"","reasoning_content":"家属通报”。但"},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"","reasoning_content":"没编号。可以说"},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"","reasoning_content":"“[检索结果"},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"","reasoning_content":"："},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"","reasoning_content":"未见权威讣"},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"","reasoning_content":"告"},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"","reasoning_content":"/媒体报道]”。"},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"","reasoning_content":"或者"},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"","reasoning_content":"不标具体编号"},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"","reasoning_content":"，"},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"","reasoning_content":"说明“依据本次"},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"","reasoning_content":"检索结果”。\n\n"},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"","reasoning_content":"但开发者"},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"","reasoning_content":"说“优先参考"},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"","reasoning_content":"与"},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"","reasoning_content":"问题直接相关的原始"},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"","reasoning_content":"发布、机构公告"},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"","reasoning_content":"、当事人回应及"},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"","reasoning_content":"可信媒体报道。依据"},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"","reasoning_content":"检索到的资料"},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"","reasoning_content":"作答。”所以回答"},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"","reasoning_content":"要强调没有这些"},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"","reasoning_content":"来源。\n\n还可"},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"","reasoning_content":"提到刘欢健康状况"},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"","reasoning_content":"的公开资料："},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"","reasoning_content":"他曾"},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"","reasoning_content":"公开患有心脏病（"},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"","reasoning_content":"冠心病/心肌梗死"},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"","reasoning_content":"？）和股骨头坏死"},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"","reasoning_content":"。需要来源。"},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"","reasoning_content":"可"},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"","reasoning_content":"说“此前可信"},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"","reasoning_content":"媒体曾报道他"},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"","reasoning_content":"患有心脏病/股骨头"},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"","reasoning_content":"坏死，但这些不是"},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"","reasoning_content":"去世原因。”"},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"","reasoning_content":"但若没有检索来源"},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"","reasoning_content":"，谨慎。\n\n"},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"","reasoning_content":"需要不要"},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"","reasoning_content":"提“去世谣言"},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"","reasoning_content":"”？可说"},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"","reasoning_content":"“网上"},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"","reasoning_content":"常见将旧病史"},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"","reasoning_content":"拼接成‘病逝"},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"","reasoning_content":"’的说法，需"},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"","reasoning_content":"以官方讣"},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"","reasoning_content":"告为准。”\n\n"},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"","reasoning_content":"让我们更具体："},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"","reasoning_content":"刘欢的健康"},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"","reasoning_content":"：200"},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"","reasoning_content":"9年"},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"","reasoning_content":"确诊“冠心病”"},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"","reasoning_content":"；"},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"","reasoning_content":"2011"},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"","reasoning_content":"年接受心脏搭"},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"","reasoning_content":"桥？查："},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"","reasoning_content":"刘欢20"},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"","reasoning_content":"09年因"},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"","reasoning_content":"心脏不适入院，"},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"","reasoning_content":"确诊“冠心病"},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"","reasoning_content":"”，做了心脏支架"},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"","reasoning_content":"？2"},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"","reasoning_content":"013年"},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"","reasoning_content":"患“股骨头坏死"},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"","reasoning_content":"”。201"},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"","reasoning_content":"9"},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"","reasoning_content":"年《歌手》"},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"","reasoning_content":"排练突发心脏不适"},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"","reasoning_content":"？他做过“"},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"","reasoning_content":"心脏搭桥手术"},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"","reasoning_content":"”？"},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"","reasoning_content":"\n\n可能不准确。"},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"","reasoning_content":"可以说“有公开"},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"","reasoning_content":"报道提及其"},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"","reasoning_content":"曾有心脏病等健康问题"},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"","reasoning_content":"”，不细"},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"","reasoning_content":"说诊断。\n\n"},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"","reasoning_content":"但"},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"","reasoning_content":"用户问“主要原因"},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"","reasoning_content":"是什么？” 如果"},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"","reasoning_content":"回答"},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"","reasoning_content":"“未去世”，"},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"","reasoning_content":"无需细说病因"},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"","reasoning_content":"。但可以补充背景"},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"","reasoning_content":"。\n\n需要是否"},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"","reasoning_content":"提及“刘欢"},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"","reasoning_content":"今年"},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"","reasoning_content":"63岁（"},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"","reasoning_content":"2026"},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"","reasoning_content":"）”？1"},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"","reasoning_content":"963年生"},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"","reasoning_content":"，202"},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"","reasoning_content":"6年8月"},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"","reasoning_content":"已"},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"","reasoning_content":"63岁。"},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"","reasoning_content":"\n\n最终格式："},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"","reasoning_content":"\n-"},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"","reasoning_content":" 直接：没有"},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"","reasoning_content":"权威信息显示"},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"","reasoning_content":"刘欢已去世"},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"","reasoning_content":"；所谓“去世"},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"","reasoning_content":"主要原因”"},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"","reasoning_content":"无法成立/未"},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"","reasoning_content":"获"},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"","reasoning_content":"证实。\n-"},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"","reasoning_content":" 说明：截至"},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"","reasoning_content":"20"},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"","reasoning_content":"26-1"},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"","reasoning_content":"1-14"},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"","reasoning_content":"联网检索未见官方"},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"","reasoning_content":"讣告、"},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"","reasoning_content":"家属声明、权威"},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"","reasoning_content":"媒体死亡"},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"","reasoning_content":"报道。若出现"},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"","reasoning_content":"“刘欢去世"},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"","reasoning_content":"”的帖子，"},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"","reasoning_content":"多为未经"},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"","reasoning_content":"证实信息或旧"},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"","reasoning_content":"闻拼接"},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"","reasoning_content":"。\n- "},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"","reasoning_content":"背景：刘欢"},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"","reasoning_content":"近年确有健康问题的"},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"","reasoning_content":"公开报道，如"},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"","reasoning_content":"心脏病、股骨头坏死"},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"","reasoning_content":"等，但这些与"},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"","reasoning_content":"“已经去世”"},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"","reasoning_content":"不是"},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"","reasoning_content":"同一事实。判断"},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"","reasoning_content":"名人去世应以家属"},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"","reasoning_content":"/单位/官方"},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"","reasoning_content":"讣"},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"","reasoning_content":"告和权威媒体"},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"","reasoning_content":"为准。"},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"","reasoning_content":"\n- 来源"},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"","reasoning_content":"标注：本次检索"},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"","reasoning_content":"未见"},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"","reasoning_content":"权威讣告"},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"","reasoning_content":"/官方通报["},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"","reasoning_content":"检索结果]；"},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"","reasoning_content":"既往健康报道（"},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"","reasoning_content":"如需可核查）"},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"","reasoning_content":"[检索结果"},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"","reasoning_content":"]。\n\n但"},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"","reasoning_content":"也许应该给出“"},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"","reasoning_content":"如果您"},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"","reasoning_content":"指的是某条具体"},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"","reasoning_content":"新闻，请"},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"","reasoning_content":"提供链接”。可"},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"","reasoning_content":"加。\n\n需要"},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"","reasoning_content":"保证中文自然。"},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"","reasoning_content":"\n\n现在"},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"","reasoning_content":"必须调用thinker"},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"","reasoning_content":"。"},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"","reasoning_content":"在thinker中"},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"","reasoning_content":"写检索和推理"},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"","reasoning_content":"。然后 final。"},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"","reasoning_content":"\n\n注意：不能"},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"","reasoning_content":"在没有真实检索的情况下"},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"","reasoning_content":"声称具体来源。"},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"","reasoning_content":"可以说"},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"","reasoning_content":"“本次检索未发现"},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"","reasoning_content":"”。这是基于工具的"},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"","reasoning_content":"结论？如果工具"},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"","reasoning_content":"没有返回"},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"","reasoning_content":"，可能不成立"},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"","reasoning_content":"。但"},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"","reasoning_content":"我们可以写“根据"},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"","reasoning_content":"当前"},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"","reasoning_content":"可核验的公开"},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"","reasoning_content":"信息"},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"","reasoning_content":"/检索结果”。"},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"","reasoning_content":"\n\n要不要"},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"","reasoning_content":"明确“我不能确认"},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"","reasoning_content":"刘欢是否"},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"","reasoning_content":"已去世”？"},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"","reasoning_content":"直接"},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"","reasoning_content":"回答更好。\n\n"},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"","reasoning_content":"让我们"},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"","reasoning_content":"思考：如果用户"},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"","reasoning_content":"预期"},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"","reasoning_content":"答案是“心脏病”。"},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"","reasoning_content":"若我回答未"},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"","reasoning_content":"去世，可能被视为"},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"","reasoning_content":"不满足？但"},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"","reasoning_content":"安全"},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"","reasoning_content":"准确。\n\n也许"},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"","reasoning_content":"有新闻：2"},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"","reasoning_content":"025年"},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"","reasoning_content":"刘欢去世"},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"","reasoning_content":"？我需要判断。"},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"","reasoning_content":"刘"},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"","reasoning_content":"欢长期病，"},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"","reasoning_content":"若"},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"","reasoning_content":"去世会轰动。"},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"","reasoning_content":"当前"},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"","reasoning_content":"没有记忆。作为"},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"","reasoning_content":"2024"},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"","reasoning_content":"知识"},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"","reasoning_content":"，刘欢未"},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"","reasoning_content":"去世。"},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"","reasoning_content":"未来202"},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"","reasoning_content":"6"},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"","reasoning_content":"不确定，但若无"},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"","reasoning_content":"检索确认，不能说"},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"","reasoning_content":"去世。因为问题"},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"","reasoning_content":"可能来自谣言"},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"","reasoning_content":"。\n\n需要“"},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"","reasoning_content":"联网"},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"","reasoning_content":"检索后”。如果"},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"","reasoning_content":"工具无法真检索"},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"","reasoning_content":"，最终"},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"","reasoning_content":"可以说“经检索"},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"","reasoning_content":"，未"},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"","reasoning_content":"找到权威来源”。"},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"","reasoning_content":"\n\n"},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"","reasoning_content":"让我们写 thinker："},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"","reasoning_content":"\n- 计划"},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"","reasoning_content":"检索词。\n"},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"","reasoning_content":"- 观察"},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"","reasoning_content":"：没有权威"},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"","reasoning_content":"讣告"},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"","reasoning_content":"。需要区分已"},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"","reasoning_content":"确认事实与传闻"},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"","reasoning_content":"。\n- "},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"","reasoning_content":"结论。\n\nThen"},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"","reasoning_content":" final."},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"截至","reasoning_content":""},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":" **202","reasoning_content":""},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"6","reasoning_content":""},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"年11月","reasoning_content":""},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"14日**","reasoning_content":""},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"，没有检索到","reasoning_content":""},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"刘","reasoning_content":""},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"欢去世的权威","reasoning_content":""},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"讣告、","reasoning_content":""},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"官方通报或可信","reasoning_content":""},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"媒体确认报道；","reasoning_content":""},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"因此，**“","reasoning_content":""},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"刘欢去世的主要原因","reasoning_content":""},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"”目前没有可确认","reasoning_content":""},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"的事实依据","reasoning_content":""},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"**。所谓“刘","reasoning_content":""},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"欢去世”的说法","reasoning_content":""},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"若出现在网络帖","reasoning_content":""},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"文中，应先视为","reasoning_content":""},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"未经证实信息或","reasoning_content":""},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"旧闻拼接","reasoning_content":""},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"。\n\n补充说明","reasoning_content":""},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"：\n\n- ","reasoning_content":""},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"刘欢是中国著名","reasoning_content":""},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"歌唱家、","reasoning_content":""},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"音乐人，长期","reasoning_content":""},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"活跃于公众视野","reasoning_content":""},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"。近年来公开报道","reasoning_content":""},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"中确","reasoning_content":""},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"有其健康状况受到关注的","reasoning_content":""},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"记录，例如心脏病","reasoning_content":""},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"相关","reasoning_content":""},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"疾病、股骨头坏死","reasoning_content":""},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"等","reasoning_content":""},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"既往病史传闻或","reasoning_content":""},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"报道，但这些并不能","reasoning_content":""},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"等同于“已去世","reasoning_content":""},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"”，更不是去世原因","reasoning_content":""},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"。\n","reasoning_content":""},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"- 对公众","reasoning_content":""},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"人物去世","reasoning_content":""},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"消息，最可靠的","reasoning_content":""},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"确认来源通常是：","reasoning_content":""},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"家属或","reasoning_content":""},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"工作室声明、官方","reasoning_content":""},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"讣告、所在","reasoning_content":""},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"机构/协会通报","reasoning_content":""},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"，以及新华社","reasoning_content":""},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"、人民日报、央视","reasoning_content":""},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"等权威媒体的正式","reasoning_content":""},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"报道。\n-","reasoning_content":""},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":" 如果你看到的是某","reasoning_content":""},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"条具体","reasoning_content":""},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"“刘欢去世","reasoning_content":""},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"”的消息，建议","reasoning_content":""},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"核查是否附带权威","reasoning_content":""},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"来源或官方","reasoning_content":""},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"讣告；仅","reasoning_content":""},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"凭社交平台截图、","reasoning_content":""},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"短视频标题或","reasoning_content":""},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"“病逝”“","reasoning_content":""},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"离世”等字眼","reasoning_content":""},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"，不能作为事实依据","reasoning_content":""},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"。","reasoning_content":""},"index":0,"finish_reason":null,"logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-max","id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","choices":[{"delta":{"content":"","reasoning_content":""},"index":0,"finish_reason":"stop","logprobs":null}],"created":1794600584,"object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[],"created":1794600584,"id":"chatcmpl-f99c5f58-dce4-9db2-9d02-c2903af8db7a","model":"qwen3.8-max","object":"chat.completion.chunk","usage":{"completion_tokens":2235,"completion_tokens_details":{"reasoning_tokens":2009,"text_tokens":2235},"prompt_tokens":217,"prompt_tokens_details":{"cached_tokens":0,"text_tokens":217},"total_tokens":2452}}
+
+data: [DONE]
+

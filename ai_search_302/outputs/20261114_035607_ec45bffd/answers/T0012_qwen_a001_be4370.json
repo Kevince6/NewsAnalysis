@@ -1,0 +1,65 @@
+{
+  "task_id": "T0012",
+  "model": "qwen",
+  "news_id": "E001",
+  "question_index": 4,
+  "question_original": "【事实】英伟达董事会启动调查时，有没有表示已经发现公司机密泄露？",
+  "question": "英伟达董事会启动调查时，有没有表示已经发现公司机密泄露？",
+  "attempt": 1,
+  "provider": "302.ai",
+  "model_requested": "qwen3.8-max",
+  "query_date": "2026-11-14",
+  "search_service": "metaso",
+  "prompt_version": "news-search-v1",
+  "prompt_sha256": "ea56fd5557d32615a9115f2368a0c4983ff1188f4935369e694d7d46f2493be1",
+  "requested_at": "2026-11-14T04:08:05.352627+08:00",
+  "raw_file": "raw/T0012_qwen_a001_be4370.json",
+  "transport": "sse",
+  "stream_file": "raw/T0012_qwen_a001_be4370.sse",
+  "status": "ok",
+  "model_returned": "qwen3.8-max",
+  "answer": "没有。英伟达董事会在宣布启动独立调查时，并未表示已经发现公司机密泄露；相反，其明确称“没有理由认为”美国国家安全或英伟达机密信息已经遭到泄露[1][2][3][5]。\n\n补充背景：\n\n- 董事会称，启动独立调查的原因是近期有报道称英伟达创始人兼首席执行官黄仁勋已成为外国情报行动/情报机构的目标[3][5]。\n- 调查将由独立董事组成的委员会负责，并聘请外部独立律师协助监督或参与调查[1][3][5]。\n- 虽然董事会表示目前没有发现机密泄露，但也说明调查将审查所有可获得的信息，因此这属于预防性、核查性质的安排[1][2][5]。",
+  "sources": [
+    {
+      "index": 1,
+      "url": "https://news.qq.com/rain/a/20261109A02SA600",
+      "title": null,
+      "origin": "citations"
+    },
+    {
+      "index": 2,
+      "url": "https://finance.sina.com.cn/tech/roll/2026-11-11/doc-iniyiiak8671394.shtml",
+      "title": null,
+      "origin": "citations"
+    },
+    {
+      "index": 3,
+      "url": "https://news.qq.com/rain/a/20261110A0549L00",
+      "title": null,
+      "origin": "citations"
+    },
+    {
+      "index": 4,
+      "url": "https://finance.sina.com.cn/tech/roll/2026-11-09/doc-iniyauwh6685635.shtml",
+      "title": null,
+      "origin": "citations"
+    }
+  ],
+  "usage": {
+    "completion_tokens": 302,
+    "completion_tokens_details": {
+      "reasoning_tokens": 142,
+      "text_tokens": 302
+    },
+    "prompt_tokens": 1284,
+    "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "text_tokens": 1284
+    },
+    "total_tokens": 1586
+  },
+  "finish_reason": "stop",
+  "note": [],
+  "request_id": "51e900b7-1b98-4b54-85bd-863a18a8ed70",
+  "duration_seconds": 12.467
+}

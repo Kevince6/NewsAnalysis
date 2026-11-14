@@ -1,0 +1,51 @@
+{
+  "task_id": "T0328",
+  "model": "doubao",
+  "news_id": "E028",
+  "question_index": 1,
+  "question_original": "【开放】香港政府2026年10月29日回应宏福苑火灾调查报告时，重点回应了哪些问题，提出了哪些改革安排？",
+  "question": "香港政府2026年10月29日回应宏福苑火灾调查报告时，重点回应了哪些问题，提出了哪些改革安排？",
+  "attempt": 1,
+  "provider": "302.ai",
+  "model_requested": "doubao-seed-2-1-pro-260628",
+  "query_date": "2026-11-14",
+  "search_service": "metaso",
+  "prompt_version": "news-search-v1",
+  "prompt_sha256": "ea56fd5557d32615a9115f2368a0c4983ff1188f4935369e694d7d46f2493be1",
+  "requested_at": "2026-11-14T12:25:50.214294+08:00",
+  "raw_file": "raw/T0328_doubao_a001_4706a8.json",
+  "transport": "sse",
+  "stream_file": "raw/T0328_doubao_a001_4706a8.sse",
+  "status": "ok",
+  "model_returned": "doubao-seed-2-1-pro-260628",
+  "answer": "根据当前提供的检索资料，并未收录香港特区政府2026年10月29日回应宏福苑火灾调查报告的相关具体内容，无法完整、准确梳理该次回应中重点回应的问题及官方提出的改革安排。\n现有检索内容仅记录了香港两大工商界机构对特区政府处理宏福苑火灾事件、推进相关整改工作的公开立场：\n1. 香港总商会对当局以透明、基于事实和证据的方式处理宏福苑火灾相关事件表示肯定；该会支持政府认真研究火灾独立委员会提交的报告建议，落实系统性改革，同时提出相关改革应重点覆盖三个方向：一是完善楼宇维修工程领域的规管制度，二是厘清事件涉及的各持份者监管责任，三是强化风险防范及落地执行机制，通过系统性整改切实提升城市管理和楼宇安全水平，实现风险前置防控、防患于未然[4][5]。\n2. 香港工业总会公开表态支持特区政府公布宏福苑火灾独立委员会报告，以及围绕报告建议研究提出全面改革措施的相关工作[4][5]。",
+  "sources": [
+    {
+      "index": 1,
+      "url": "https://big5.hmo.gov.cn/gate/big5/www.hmo.gov.cn/2026/10/30/ARTIZpiGh5CGHaiev9MZL2Xz261030.shtml",
+      "title": null,
+      "origin": "citations"
+    },
+    {
+      "index": 2,
+      "url": "https://www.hmo.gov.cn/2026/10/30/ARTIZpiGh5CGHaiev9MZL2Xz261030.shtml",
+      "title": null,
+      "origin": "citations"
+    }
+  ],
+  "usage": {
+    "completion_tokens": 2769,
+    "completion_tokens_details": {
+      "reasoning_tokens": 2528
+    },
+    "prompt_tokens": 970,
+    "prompt_tokens_details": {
+      "cached_tokens": 0
+    },
+    "total_tokens": 3739
+  },
+  "finish_reason": "stop",
+  "note": [],
+  "request_id": "007b68ce-7732-46ab-ae8a-fa0caf85cc59",
+  "duration_seconds": 53.969
+}

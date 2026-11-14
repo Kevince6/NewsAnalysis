@@ -1,0 +1,59 @@
+{
+  "task_id": "T0009",
+  "model": "qwen",
+  "news_id": "E001",
+  "question_index": 3,
+  "question_original": "【事实】英伟达什么时候宣布调查黄仁勋？后来聘请了谁来开展独立调查？",
+  "question": "英伟达什么时候宣布调查黄仁勋？后来聘请了谁来开展独立调查？",
+  "attempt": 1,
+  "provider": "302.ai",
+  "model_requested": "qwen3.8-max",
+  "query_date": "2026-11-14",
+  "search_service": "metaso",
+  "prompt_version": "news-search-v1",
+  "prompt_sha256": "ea56fd5557d32615a9115f2368a0c4983ff1188f4935369e694d7d46f2493be1",
+  "requested_at": "2026-11-14T04:07:21.508539+08:00",
+  "raw_file": "raw/T0009_qwen_a001_9035c6.json",
+  "transport": "sse",
+  "stream_file": "raw/T0009_qwen_a001_9035c6.sse",
+  "status": "ok",
+  "model_returned": "qwen3.8-max",
+  "answer": "英伟达是在**当地时间2026年11月8日（周日）**宣布启动对黄仁勋的独立调查的；这一天黄仁勋在致员工信中承认自己存在婚外情，随后公司董事会宣布启动调查[3][5]。\n\n关于“后来聘请了谁来开展独立调查”：英伟达董事会宣布**成立由独立董事组成的委员会，并聘请外部独立法律顾问**就相关绯闻展开调查；但现有检索到的报道**没有披露具体受聘的律师、律所或机构名称**[3]。\n\n补充一点背景：英伟达董事会声明称，目前“没有理由认为国家安全或英伟达机密遭到泄露”，但会“审查所有可用信息”[3]。另有报道提到美国国会也介入了此事，不过英伟达公司层面披露的调查安排是独立董事委员会加外部独立法律顾问[1][3]。",
+  "sources": [
+    {
+      "index": 1,
+      "url": "https://k.sina.cn/article_5953466437_162dab0450670bhc1g.html",
+      "title": null,
+      "origin": "citations"
+    },
+    {
+      "index": 2,
+      "url": "https://wallstreetcn.com/articles/3785502",
+      "title": null,
+      "origin": "citations"
+    },
+    {
+      "index": 3,
+      "url": "https://www.huxiu.com/article/4904244.html",
+      "title": null,
+      "origin": "citations"
+    }
+  ],
+  "usage": {
+    "completion_tokens": 2787,
+    "completion_tokens_details": {
+      "reasoning_tokens": 2599,
+      "text_tokens": 2787
+    },
+    "prompt_tokens": 1178,
+    "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "text_tokens": 1178
+    },
+    "total_tokens": 3965
+  },
+  "finish_reason": "stop",
+  "note": [],
+  "request_id": "0ced1d54-87ef-4d84-a5f3-e55ec0d6a099",
+  "duration_seconds": 73.743
+}

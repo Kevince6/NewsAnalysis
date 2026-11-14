@@ -1,0 +1,69 @@
+{
+  "task_id": "T0104",
+  "model": "deepseek",
+  "news_id": "E009",
+  "question_index": 1,
+  "question_original": "【开放】OpenClaw和Moltbook到底是什么关系？它们是同一个项目吗，后来各自发生了什么？",
+  "question": "OpenClaw和Moltbook到底是什么关系？它们是同一个项目吗，后来各自发生了什么？",
+  "attempt": 1,
+  "provider": "302.ai",
+  "model_requested": "deepseek-flash",
+  "query_date": "2026-11-14",
+  "search_service": "metaso",
+  "prompt_version": "news-search-v1",
+  "prompt_sha256": "ea56fd5557d32615a9115f2368a0c4983ff1188f4935369e694d7d46f2493be1",
+  "requested_at": "2026-11-14T11:29:00.265259+08:00",
+  "raw_file": "raw/T0104_deepseek_a001_845bce.json",
+  "transport": "sse",
+  "stream_file": "raw/T0104_deepseek_a001_845bce.sse",
+  "status": "ok",
+  "model_returned": "deepseek-flash",
+  "answer": "**不是同一个项目。** OpenClaw 是底层的 AI agent 框架，Moltbook 是搭建在这个框架之上的 AI agent 社交网络；两者的定位和创建者都不同[5]。\n\n### 两者的关系\n\n- **OpenClaw 是“基础技术框架”**：Peter Steinberger 最初开发了 OpenClaw，Moltbook 则把它作为基础技术框架来使用[5]。\n- **Moltbook 是“应用层平台”**：它是一个专供 AI agents 发帖、评论、互动的社交网络，界面和机制类似 Reddit，由 Octane AI CEO Matt Schlicht 创建[5][2]。\n- **容易混淆的名字**：OpenClaw 在改名过程中曾短暂叫过 **Moltbot**，但那是 OpenClaw 的过渡名称；**Moltbook** 则是另一个独立的社交平台，两者不是同一事物[3][2]。\n\n### OpenClaw 后来发生了什么\n\nOpenClaw 于 2025 年 11 月由 Peter Steinberger 发布，最初名为 **Clawdbot**；2026 年初因与 Anthropic 发生商标纠纷，先改名为 **Moltbot**，最终定名为 **OpenClaw**[3]。这次被迫改名反而引发了大量媒体报道，使项目在 GitHub 上迅速走红[3]。到 2026 年 1 月 24 日前后，OpenClaw 完成品牌切换，在开发者社区获得极高关注度；它整体上是借助 AI、通过 prompt 写出来的，据 Peter 自己说，这是他 2009 年以来做的第 44 个 AI 相关项目[2][4]。快速成长也暴露出明显的“成长阵痛”，资料提到其遭遇了安全危机，但没有展开细节[3]。\n\n### Moltbook 后来发生了什么\n\nMoltbook 在 2026 年 1 月底到 2 月迅速走红，并为 OpenClaw 带来了一波关注[2][4]。它的定位是让 AI agents 像在 Reddit 上一样发帖、评论和创建子分类[5]。不过，现有检索资料主要覆盖到 2026 年初的走红阶段，**没有提供 Moltbook 在那之后独立发展的明确信息**，因此无法确认它后续的运营或演变情况。\n\n### 一句话总结\n\nOpenClaw 是 Peter Steinberger 开发的 AI agent 框架，Moltbook 是 Matt Schlicht 基于该框架创建的 AI agent 社交平台；两者是“底层框架”与“上层应用”的关系，并非同一个项目[5]。OpenClaw 经历了 Clawdbot → Moltbot → OpenClaw 的改名并爆红，随后遇到安全问题；Moltbook 则在 2026 年 1 月底至 2 月走红，之后的发展在现有资料中尚不明确[3][2][4]。",
+  "sources": [
+    {
+      "index": 1,
+      "url": "https://github.com/duanyytop/agents-radar/issues/1015",
+      "title": null,
+      "origin": "citations"
+    },
+    {
+      "index": 2,
+      "url": "https://news.qq.com/rain/a/20260323A005VF00?adChannelId=tech",
+      "title": null,
+      "origin": "citations"
+    },
+    {
+      "index": 3,
+      "url": "https://skywork.ai/skypage/en/ultimate-guide-openclaw-github/2036766757436129280",
+      "title": null,
+      "origin": "citations"
+    },
+    {
+      "index": 4,
+      "url": "https://www.huxiu.com/article/4844349.html",
+      "title": null,
+      "origin": "citations"
+    },
+    {
+      "index": 5,
+      "url": "https://unifuncs.com/s/nRwsLrk8",
+      "title": null,
+      "origin": "citations"
+    }
+  ],
+  "usage": {
+    "completion_tokens": 1987,
+    "completion_tokens_details": {
+      "reasoning_tokens": 1364
+    },
+    "prompt_tokens": 1370,
+    "prompt_tokens_details": {
+      "cached_tokens": 0
+    },
+    "total_tokens": 3357
+  },
+  "finish_reason": "stop",
+  "note": [],
+  "request_id": "aaba5c3a-e1dc-4ca3-9078-07b1fcf97a3f",
+  "duration_seconds": 14.703
+}

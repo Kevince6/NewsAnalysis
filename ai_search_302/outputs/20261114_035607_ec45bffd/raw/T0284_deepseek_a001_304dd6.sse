@@ -1,0 +1,64 @@
+data: {"id":"chatcmpl-bba5dde1-bf7e-4241-9859-7471d0cd3999","choices":[{"index":0,"delta":{"role":"assistant","reasoning_content":"用户"},"finish_reason":null,"logprobs":null}],"created":1794629679,"model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"id":"chatcmpl-bba5dde1-bf7e-4241-9859-7471d0cd3999","choices":[{"index":0,"delta":{"reasoning_content":"问的是演员"},"finish_reason":null,"logprobs":null}],"created":1794629679,"model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"id":"chatcmpl-bba5dde1-bf7e-4241-9859-7471d0cd3999","choices":[{"index":0,"delta":{"reasoning_content":"王星（"},"finish_reason":null,"logprobs":null}],"created":1794629679,"model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"id":"chatcmpl-bba5dde1-bf7e-4241-9859-7471d0cd3999","choices":[{"index":0,"delta":{"reasoning_content":"疑似"},"finish_reason":null,"logprobs":null}],"created":1794629679,"model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"id":"chatcmpl-bba5dde1-bf7e-4241-9859-7471d0cd3999","choices":[{"index":0,"delta":{"reasoning_content":"被诱"},"finish_reason":null,"logprobs":null}],"created":1794629679,"model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"id":"chatcmpl-bba5dde1-bf7e-4241-9859-7471d0cd3999","choices":[{"index":0,"delta":{"reasoning_content":"骗到缅甸电"},"finish_reason":null,"logprobs":null}],"created":1794629679,"model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"id":"chatcmpl-bba5dde1-bf7e-4241-9859-7471d0cd3999","choices":[{"index":0,"delta":{"reasoning_content":"诈园区"},"finish_reason":null,"logprobs":null}],"created":1794629679,"model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"id":"chatcmpl-bba5dde1-bf7e-4241-9859-7471d0cd3999","choices":[{"index":0,"delta":{"reasoning_content":"）的事件"},"finish_reason":null,"logprobs":null}],"created":1794629679,"model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"id":"chatcmpl-bba5dde1-bf7e-4241-9859-7471d0cd3999","choices":[{"index":0,"delta":{"reasoning_content":"。"},"finish_reason":null,"logprobs":null}],"created":1794629679,"model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"id":"chatcmpl-bba5dde1-bf7e-4241-9859-7471d0cd3999","choices":[{"index":0,"delta":{"reasoning_content":"1月7"},"finish_reason":null,"logprobs":null}],"created":1794629679,"model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"id":"chatcmpl-bba5dde1-bf7e-4241-9859-7471d0cd3999","choices":[{"index":0,"delta":{"reasoning_content":"日被接回、"},"finish_reason":null,"logprobs":null}],"created":1794629679,"model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"id":"chatcmpl-bba5dde1-bf7e-4241-9859-7471d0cd3999","choices":[{"index":0,"delta":{"reasoning_content":"1月11日又回国"},"finish_reason":null,"logprobs":null}],"created":1794629679,"model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"id":"chatcmpl-bba5dde1-bf7e-4241-9859-7471d0cd3999","choices":[{"index":0,"delta":{"reasoning_content":"，这两个"},"finish_reason":null,"logprobs":null}],"created":1794629679,"model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"id":"chatcmpl-bba5dde1-bf7e-4241-9859-7471d0cd3999","choices":[{"index":0,"delta":{"reasoning_content":"日期为什么不一样？"},"finish_reason":null,"logprobs":null}],"created":1794629679,"model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"id":"chatcmpl-bba5dde1-bf7e-4241-9859-7471d0cd3999","choices":[{"index":0,"delta":{"reasoning_content":"我需要联网"},"finish_reason":null,"logprobs":null}],"created":1794629679,"model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"id":"chatcmpl-bba5dde1-bf7e-4241-9859-7471d0cd3999","choices":[{"index":0,"delta":{"reasoning_content":"检索。\n\n"},"finish_reason":null,"logprobs":null}],"created":1794629679,"model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"id":"chatcmpl-bba5dde1-bf7e-4241-9859-7471d0cd3999","choices":[{"index":0,"delta":{"reasoning_content":"让我搜索相关信息"},"finish_reason":null,"logprobs":null}],"created":1794629679,"model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"id":"chatcmpl-bba5dde1-bf7e-4241-9859-7471d0cd3999","choices":[{"index":0,"delta":{"reasoning_content":"。"},"finish_reason":null,"logprobs":null}],"created":1794629679,"model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"id":"chatcmpl-bba5dde1-bf7e-4241-9859-7471d0cd3999","choices":[{"index":0,"delta":{"content":"\n\n<tool"},"finish_reason":null,"logprobs":null}],"created":1794629679,"model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"id":"chatcmpl-bba5dde1-bf7e-4241-9859-7471d0cd3999","choices":[{"index":0,"delta":{"content":"_search>"},"finish_reason":null,"logprobs":null}],"created":1794629679,"model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"id":"chatcmpl-bba5dde1-bf7e-4241-9859-7471d0cd3999","choices":[{"index":0,"delta":{"content":"\n"},"finish_reason":null,"logprobs":null}],"created":1794629679,"model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"id":"chatcmpl-bba5dde1-bf7e-4241-9859-7471d0cd3999","choices":[{"index":0,"delta":{"content":"<query"},"finish_reason":null,"logprobs":null}],"created":1794629679,"model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"id":"chatcmpl-bba5dde1-bf7e-4241-9859-7471d0cd3999","choices":[{"index":0,"delta":{"content":">王星 "},"finish_reason":null,"logprobs":null}],"created":1794629679,"model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"id":"chatcmpl-bba5dde1-bf7e-4241-9859-7471d0cd3999","choices":[{"index":0,"delta":{"content":"1月7日 接"},"finish_reason":null,"logprobs":null}],"created":1794629679,"model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"id":"chatcmpl-bba5dde1-bf7e-4241-9859-7471d0cd3999","choices":[{"index":0,"delta":{"content":"回 1月11日"},"finish_reason":null,"logprobs":null}],"created":1794629679,"model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"id":"chatcmpl-bba5dde1-bf7e-4241-9859-7471d0cd3999","choices":[{"index":0,"delta":{"content":" 回国 泰国 缅甸"},"finish_reason":null,"logprobs":null}],"created":1794629679,"model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"id":"chatcmpl-bba5dde1-bf7e-4241-9859-7471d0cd3999","choices":[{"index":0,"delta":{"content":"</query"},"finish_reason":null,"logprobs":null}],"created":1794629679,"model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"id":"chatcmpl-bba5dde1-bf7e-4241-9859-7471d0cd3999","choices":[{"index":0,"delta":{"content":">\n"},"finish_reason":null,"logprobs":null}],"created":1794629679,"model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"id":"chatcmpl-bba5dde1-bf7e-4241-9859-7471d0cd3999","choices":[{"index":0,"delta":{"content":"</tool_search>"},"finish_reason":null,"logprobs":null}],"created":1794629679,"model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"id":"chatcmpl-bba5dde1-bf7e-4241-9859-7471d0cd3999","choices":[{"index":0,"delta":{},"finish_reason":"stop","logprobs":null}],"created":1794629679,"model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"id":"chatcmpl-bba5dde1-bf7e-4241-9859-7471d0cd3999","choices":[],"created":1794629679,"model":"deepseek-flash","object":"chat.completion.chunk","usage":{"prompt_tokens":198,"completion_tokens":85,"total_tokens":283,"prompt_tokens_details":{"cached_tokens":0},"completion_tokens_details":{"reasoning_tokens":47}}}
+
+data: [DONE]
+

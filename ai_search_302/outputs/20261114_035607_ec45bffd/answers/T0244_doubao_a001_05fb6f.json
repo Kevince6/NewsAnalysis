@@ -1,0 +1,63 @@
+{
+  "task_id": "T0244",
+  "model": "doubao",
+  "news_id": "E020",
+  "question_index": 3,
+  "question_original": "【事实】罗马仕自2025年6月16日起召回了几款充电宝，一共多少台？",
+  "question": "罗马仕自2025年6月16日起召回了几款充电宝，一共多少台？",
+  "attempt": 1,
+  "provider": "302.ai",
+  "model_requested": "doubao-seed-2-1-pro-260628",
+  "query_date": "2026-11-14",
+  "search_service": "metaso",
+  "prompt_version": "news-search-v1",
+  "prompt_sha256": "ea56fd5557d32615a9115f2368a0c4983ff1188f4935369e694d7d46f2493be1",
+  "requested_at": "2026-11-14T12:07:02.153538+08:00",
+  "raw_file": "raw/T0244_doubao_a001_05fb6f.json",
+  "transport": "sse",
+  "stream_file": "raw/T0244_doubao_a001_05fb6f.sse",
+  "status": "ok",
+  "model_returned": "doubao-seed-2-1-pro-260628",
+  "answer": "### 直接回答\n罗马仕自2025年6月16日起启动的充电宝召回共涉及3款产品，其中其向深圳市市场监督管理局备案的国内召回总量为491745台；据不完全统计，此次涉事问题充电宝的全球召回总规模已超过200万件[1][2]。\n\n### 补充事实与背景说明\n1.  本次国内召回属于依法履行的消费品召回程序，召回覆盖的产品为2023年6月5日至2024年7月31日期间生产的对应批次罗马仕（ROMOSS）牌移动电源，是罗马仕按照《消费品召回管理暂行规定》要求正式报备后实施的[1][2]。目前公开检索结果未披露3款涉事产品的具体型号信息。\n2.  该召回信息发布后迅速引发公众关注，2025年6月17日相关话题就冲上社交平台热搜，不少网友关心具体的召回流程、退换方式，相关内容在短视频平台也产生了大量相关讨论[3][5]。\n3.  此次罗马仕充电宝召回事件也推动了充电宝领域的安全监管升级：2025年6月26日民航局发布紧急通知，自当年6月28日起禁止旅客携带没有3C标识、3C标识不清晰、属于被召回型号或批次的充电宝乘坐境内航班；2025年7月24日，市场监管总局还部署各地市场监管部门开展了为期三个月的充电宝质量安全集中整治行动[1]。",
+  "sources": [
+    {
+      "index": 1,
+      "url": "https://baike.baidu.com/item/%E7%A7%BB%E5%8A%A8%E7%94%B5%E6%BA%90/10883289#%3A~%3Atext%3D%E5%A4%A7%E9%83%A8%E5%88%86%E7%9A%84%E8%A1%8C%E5%8A%A8%E7%94%B5%E6%BA%90%E4%BD%BF%E7%94%A8%E7%9A%84%E7%94%B5%E6%B1%A0%E4%B8%BA%E9%94%82%2C%E6%9C%80%E8%BD%BB%E5%8F%8A%E6%9C%80%E7%BB%86%E3%80%82",
+      "title": null,
+      "origin": "citations"
+    },
+    {
+      "index": 2,
+      "url": "https://baike.baidu.com/item/%E7%BD%97%E9%A9%AC%E4%BB%95/5828143#%3A~%3Atext%3D%E7%BD%97%E9%A9%AC%E4%BB%95_%E7%99%BE%E5%BA%A6%E7%99%BE%E7%A7%91%26text%3D%E7%BD%97%E9%A9%AC%E4%BB%95%EF%BC%88ROMOSS%EF%BC%89%E5%93%81%E7%89%8C%E9%9A%B6%E5%B1%9E%2C%E6%9C%8D%E5%8A%A1%E5%85%A8%E7%90%83%E2%80%9D%E7%9A%84%E5%8F%91%E5%B1%95%E6%A8%A1%E5%BC%8F%E3%80%82",
+      "title": null,
+      "origin": "citations"
+    },
+    {
+      "index": 3,
+      "url": "https://www.douyin.com/shipin/7517448159577065487",
+      "title": null,
+      "origin": "citations"
+    },
+    {
+      "index": 4,
+      "url": "https://m.thepaper.cn/newsDetail_forward_30996565",
+      "title": null,
+      "origin": "citations"
+    }
+  ],
+  "usage": {
+    "completion_tokens": 3275,
+    "completion_tokens_details": {
+      "reasoning_tokens": 2927
+    },
+    "prompt_tokens": 1436,
+    "prompt_tokens_details": {
+      "cached_tokens": 0
+    },
+    "total_tokens": 4711
+  },
+  "finish_reason": "stop",
+  "note": [],
+  "request_id": "c479e245-f488-4d23-9388-fc9c5b8f6afa",
+  "duration_seconds": 65.453
+}

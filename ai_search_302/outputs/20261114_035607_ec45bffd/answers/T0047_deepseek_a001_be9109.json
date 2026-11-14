@@ -1,0 +1,63 @@
+{
+  "task_id": "T0047",
+  "model": "deepseek",
+  "news_id": "E004",
+  "question_index": 4,
+  "question_original": "【事实】巴黎警方通报中，10月17日拘捕了多少人？18日又有多少家商店受损、被抢掠？",
+  "question": "巴黎警方通报中，10月17日拘捕了多少人？18日又有多少家商店受损、被抢掠？",
+  "attempt": 1,
+  "provider": "302.ai",
+  "model_requested": "deepseek-flash",
+  "query_date": "2026-11-14",
+  "search_service": "metaso",
+  "prompt_version": "news-search-v1",
+  "prompt_sha256": "ea56fd5557d32615a9115f2368a0c4983ff1188f4935369e694d7d46f2493be1",
+  "requested_at": "2026-11-14T04:22:08.022039+08:00",
+  "raw_file": "raw/T0047_deepseek_a001_be9109.json",
+  "transport": "sse",
+  "stream_file": "raw/T0047_deepseek_a001_be9109.sse",
+  "status": "ok",
+  "model_returned": "deepseek-flash",
+  "answer": "**直接回答：在我检索到的资料中，没有找到巴黎警方就10月17日单独发布的拘捕人数通报，也没有找到“18日新增多少家商店受损、被抢掠”的巴黎警方分项数据。** 现有报道提供的是全国范围的累计或综合数字，不能直接等同于巴黎警方的单日通报。\n\n可以确认的相关信息如下：\n\n- 截至10月18日，综合BBC数据，法国全国约有**2400人被拘捕**、约1000名警察受伤、约**1500家商店和零售商在骚乱中受损**[5]。不过，这些是全国累计数字，并非巴黎警方针对10月17日单日发布的数据，因此也未区分“受损”与“被抢掠”。\n- 另有报道称这轮骚乱中“约1800人被捕”，但该数字同样没有明确标注为巴黎警方通报，也没有明确限定为10月17日单日[2]。\n- 关于10月17日当天的情形，可确认的是巴黎多处商业街区遭蒙面人员打砸和洗劫，包括距离爱丽舍宫数百米的蒙田大道奢侈品牌门店，发生多起抢劫事件[4]。\n\n需要特别区分的是：10月24日至25日那一轮示威的警方数据（法国内政部称全国1314人被捕，巴黎警方称巴黎142人被捕、126人被拘留调查）属于另一个时间点，不能用来回答10月17日的情况[1]。因此，若你需要“巴黎警方17日单日拘捕人数”和“18日新增受损商铺数”的精确口径，建议直接查阅巴黎警察局（Préfecture de police de Paris）或法国内政部当日的原始公告。",
+  "sources": [
+    {
+      "index": 1,
+      "url": "https://swt.fj.gov.cn/mqchzhfwpt/chzx/fxts/mrfxfx/202610/t20261026_7240723.htm",
+      "title": null,
+      "origin": "citations"
+    },
+    {
+      "index": 2,
+      "url": "https://news.qq.com/rain/a/20261019A04Z5H00",
+      "title": null,
+      "origin": "citations"
+    },
+    {
+      "index": 3,
+      "url": "https://news.qq.com/rain/a/20261018A0A5YC00",
+      "title": null,
+      "origin": "citations"
+    },
+    {
+      "index": 4,
+      "url": "https://www.163.com/dy/article/L9KQ2NGF051996QS.html",
+      "title": null,
+      "origin": "citations"
+    }
+  ],
+  "usage": {
+    "completion_tokens": 837,
+    "completion_tokens_details": {
+      "reasoning_tokens": 475
+    },
+    "prompt_tokens": 1281,
+    "prompt_tokens_details": {
+      "cached_tokens": 0
+    },
+    "total_tokens": 2118
+  },
+  "finish_reason": "stop",
+  "note": [],
+  "request_id": "4503a9f3-6883-4250-bcfd-3d985276fc1c",
+  "duration_seconds": 9.776
+}

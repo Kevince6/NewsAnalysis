@@ -1,0 +1,65 @@
+{
+  "task_id": "T0051",
+  "model": "qwen",
+  "news_id": "E004",
+  "question_index": 5,
+  "question_original": "【事实】巴黎市宣布拿出的300万欧元是用来做什么的，它是什么性质的资金？",
+  "question": "巴黎市宣布拿出的300万欧元是用来做什么的，它是什么性质的资金？",
+  "attempt": 1,
+  "provider": "302.ai",
+  "model_requested": "qwen3.8-max",
+  "query_date": "2026-11-14",
+  "search_service": "metaso",
+  "prompt_version": "news-search-v1",
+  "prompt_sha256": "ea56fd5557d32615a9115f2368a0c4983ff1188f4935369e694d7d46f2493be1",
+  "requested_at": "2026-11-14T04:23:05.338836+08:00",
+  "raw_file": "raw/T0051_qwen_a001_a76bec.json",
+  "transport": "sse",
+  "stream_file": "raw/T0051_qwen_a001_a76bec.sse",
+  "status": "ok",
+  "model_returned": "qwen3.8-max",
+  "answer": "根据目前提供的检索结果，**没有直接出现“巴黎市宣布拿出300万欧元”这一表述**，因此无法仅凭现有资料确认这笔“300万欧元”具体用于做什么、属于什么性质的资金。\n\n与“巴黎市资金”相关的可确认信息主要有两类：\n\n1. **如果指的是“巴黎创新基金”**：  \n   巴黎创新基金主要用于支持有影响力的创新项目，以应对未来生态、经济和社会转型挑战；其性质是巴黎市为支持城市创新而设立的基金，重点支持孵化、实验和制造援助等方向。[1]\n\n2. **如果指的是巴黎市参与式预算中的资金**：  \n   巴黎市曾提出约1亿欧元的参与式预算，其中**3000万欧元**为巴黎市府直属项目资金，6500万欧元划分给各区项目，1000万欧元用于学校；这类资金属于市民参与决策的公共预算资金。[3]\n\n因此，若问题中的“300万欧元”实际是“3000万欧元”的误写，则它可能与巴黎参与式预算中的市府直属项目有关；但就“300万欧元”本身而言，当前资料不足，无法确认其具体用途和资金性质。",
+  "sources": [
+    {
+      "index": 1,
+      "url": "https://m.thepaper.cn/kuaibao_detail.jsp?contid=25864333",
+      "title": null,
+      "origin": "citations"
+    },
+    {
+      "index": 2,
+      "url": "https://m.haiwainet.cn/middle/3541937/2016/1107/content_30479428_2.html",
+      "title": null,
+      "origin": "citations"
+    },
+    {
+      "index": 3,
+      "url": "https://new.qq.com/omn/20221215/20221215A00B4U00.html",
+      "title": null,
+      "origin": "citations"
+    },
+    {
+      "index": 4,
+      "url": "http://www.thepaper.cn/newsDetail_forward_3308808",
+      "title": null,
+      "origin": "citations"
+    }
+  ],
+  "usage": {
+    "completion_tokens": 1560,
+    "completion_tokens_details": {
+      "reasoning_tokens": 1296,
+      "text_tokens": 1560
+    },
+    "prompt_tokens": 1194,
+    "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "text_tokens": 1194
+    },
+    "total_tokens": 2754
+  },
+  "finish_reason": "stop",
+  "note": [],
+  "request_id": "083bc0e7-da1a-4599-96f5-34bd30ce7420",
+  "duration_seconds": 44.042
+}

@@ -1,0 +1,664 @@
+data: {"choices":[{"delta":{"reasoning_content":"用户","role":"assistant"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://www.doumen.gov.cn/zhsdmqrmzfmhwz/zwgk/yjgl/content/post_3911524.html","http://finance.sina.com.cn/roll/2026-11-08/doc-inixzpau3667350.shtml"],"created":1794627264,"id":"chatcmpl-2abebaa0-2db7-4db5-8d2d-c063ba9bc651","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"问的是202"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://www.doumen.gov.cn/zhsdmqrmzfmhwz/zwgk/yjgl/content/post_3911524.html","http://finance.sina.com.cn/roll/2026-11-08/doc-inixzpau3667350.shtml"],"created":1794627264,"id":"chatcmpl-2abebaa0-2db7-4db5-8d2d-c063ba9bc651","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"6年11月初加沙"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://www.doumen.gov.cn/zhsdmqrmzfmhwz/zwgk/yjgl/content/post_3911524.html","http://finance.sina.com.cn/roll/2026-11-08/doc-inixzpau3667350.shtml"],"created":1794627264,"id":"chatcmpl-2abebaa0-2db7-4db5-8d2d-c063ba9bc651","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"停火后的"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://www.doumen.gov.cn/zhsdmqrmzfmhwz/zwgk/yjgl/content/post_3911524.html","http://finance.sina.com.cn/roll/2026-11-08/doc-inixzpau3667350.shtml"],"created":1794627264,"id":"chatcmpl-2abebaa0-2db7-4db5-8d2d-c063ba9bc651","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"伤亡和避难困难"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://www.doumen.gov.cn/zhsdmqrmzfmhwz/zwgk/yjgl/content/post_3911524.html","http://finance.sina.com.cn/roll/2026-11-08/doc-inixzpau3667350.shtml"],"created":1794627264,"id":"chatcmpl-2abebaa0-2db7-4db5-8d2d-c063ba9bc651","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"，以及"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://www.doumen.gov.cn/zhsdmqrmzfmhwz/zwgk/yjgl/content/post_3911524.html","http://finance.sina.com.cn/roll/2026-11-08/doc-inixzpau3667350.shtml"],"created":1794627264,"id":"chatcmpl-2abebaa0-2db7-4db5-8d2d-c063ba9bc651","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"暴雨带来的新"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://www.doumen.gov.cn/zhsdmqrmzfmhwz/zwgk/yjgl/content/post_3911524.html","http://finance.sina.com.cn/roll/2026-11-08/doc-inixzpau3667350.shtml"],"created":1794627264,"id":"chatcmpl-2abebaa0-2db7-4db5-8d2d-c063ba9bc651","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"问题。搜索结果只有两个"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://www.doumen.gov.cn/zhsdmqrmzfmhwz/zwgk/yjgl/content/post_3911524.html","http://finance.sina.com.cn/roll/2026-11-08/doc-inixzpau3667350.shtml"],"created":1794627264,"id":"chatcmpl-2abebaa0-2db7-4db5-8d2d-c063ba9bc651","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"网页，"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://www.doumen.gov.cn/zhsdmqrmzfmhwz/zwgk/yjgl/content/post_3911524.html","http://finance.sina.com.cn/roll/2026-11-08/doc-inixzpau3667350.shtml"],"created":1794627264,"id":"chatcmpl-2abebaa0-2db7-4db5-8d2d-c063ba9bc651","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"其中一个"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://www.doumen.gov.cn/zhsdmqrmzfmhwz/zwgk/yjgl/content/post_3911524.html","http://finance.sina.com.cn/roll/2026-11-08/doc-inixzpau3667350.shtml"],"created":1794627264,"id":"chatcmpl-2abebaa0-2db7-4db5-8d2d-c063ba9bc651","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"["},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://www.doumen.gov.cn/zhsdmqrmzfmhwz/zwgk/yjgl/content/post_3911524.html","http://finance.sina.com.cn/roll/2026-11-08/doc-inixzpau3667350.shtml"],"created":1794627264,"id":"chatcmpl-2abebaa0-2db7-4db5-8d2d-c063ba9bc651","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"webpage "},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://www.doumen.gov.cn/zhsdmqrmzfmhwz/zwgk/yjgl/content/post_3911524.html","http://finance.sina.com.cn/roll/2026-11-08/doc-inixzpau3667350.shtml"],"created":1794627264,"id":"chatcmpl-2abebaa0-2db7-4db5-8d2d-c063ba9bc651","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"4]涉及"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://www.doumen.gov.cn/zhsdmqrmzfmhwz/zwgk/yjgl/content/post_3911524.html","http://finance.sina.com.cn/roll/2026-11-08/doc-inixzpau3667350.shtml"],"created":1794627264,"id":"chatcmpl-2abebaa0-2db7-4db5-8d2d-c063ba9bc651","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"加沙暴雨、损失"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://www.doumen.gov.cn/zhsdmqrmzfmhwz/zwgk/yjgl/content/post_3911524.html","http://finance.sina.com.cn/roll/2026-11-08/doc-inixzpau3667350.shtml"],"created":1794627264,"id":"chatcmpl-2abebaa0-2db7-4db5-8d2d-c063ba9bc651","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"、求助"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://www.doumen.gov.cn/zhsdmqrmzfmhwz/zwgk/yjgl/content/post_3911524.html","http://finance.sina.com.cn/roll/2026-11-08/doc-inixzpau3667350.shtml"],"created":1794627264,"id":"chatcmpl-2abebaa0-2db7-4db5-8d2d-c063ba9bc651","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"电话、建筑"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://www.doumen.gov.cn/zhsdmqrmzfmhwz/zwgk/yjgl/content/post_3911524.html","http://finance.sina.com.cn/roll/2026-11-08/doc-inixzpau3667350.shtml"],"created":1794627264,"id":"chatcmpl-2abebaa0-2db7-4db5-8d2d-c063ba9bc651","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"坍塌风险、帐篷"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://www.doumen.gov.cn/zhsdmqrmzfmhwz/zwgk/yjgl/content/post_3911524.html","http://finance.sina.com.cn/roll/2026-11-08/doc-inixzpau3667350.shtml"],"created":1794627264,"id":"chatcmpl-2abebaa0-2db7-4db5-8d2d-c063ba9bc651","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"需求、死亡人数统计"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://www.doumen.gov.cn/zhsdmqrmzfmhwz/zwgk/yjgl/content/post_3911524.html","http://finance.sina.com.cn/roll/2026-11-08/doc-inixzpau3667350.shtml"],"created":1794627264,"id":"chatcmpl-2abebaa0-2db7-4db5-8d2d-c063ba9bc651","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"。另一个"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://www.doumen.gov.cn/zhsdmqrmzfmhwz/zwgk/yjgl/content/post_3911524.html","http://finance.sina.com.cn/roll/2026-11-08/doc-inixzpau3667350.shtml"],"created":1794627264,"id":"chatcmpl-2abebaa0-2db7-4db5-8d2d-c063ba9bc651","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"["},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://www.doumen.gov.cn/zhsdmqrmzfmhwz/zwgk/yjgl/content/post_3911524.html","http://finance.sina.com.cn/roll/2026-11-08/doc-inixzpau3667350.shtml"],"created":1794627264,"id":"chatcmpl-2abebaa0-2db7-4db5-8d2d-c063ba9bc651","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"webpage 1]是"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://www.doumen.gov.cn/zhsdmqrmzfmhwz/zwgk/yjgl/content/post_3911524.html","http://finance.sina.com.cn/roll/2026-11-08/doc-inixzpau3667350.shtml"],"created":1794627264,"id":"chatcmpl-2abebaa0-2db7-4db5-8d2d-c063ba9bc651","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"珠海避难"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://www.doumen.gov.cn/zhsdmqrmzfmhwz/zwgk/yjgl/content/post_3911524.html","http://finance.sina.com.cn/roll/2026-11-08/doc-inixzpau3667350.shtml"],"created":1794627264,"id":"chatcmpl-2abebaa0-2db7-4db5-8d2d-c063ba9bc651","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"场所，与加沙无关"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://www.doumen.gov.cn/zhsdmqrmzfmhwz/zwgk/yjgl/content/post_3911524.html","http://finance.sina.com.cn/roll/2026-11-08/doc-inixzpau3667350.shtml"],"created":1794627264,"id":"chatcmpl-2abebaa0-2db7-4db5-8d2d-c063ba9bc651","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"。\n\n需要注意"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://www.doumen.gov.cn/zhsdmqrmzfmhwz/zwgk/yjgl/content/post_3911524.html","http://finance.sina.com.cn/roll/2026-11-08/doc-inixzpau3667350.shtml"],"created":1794627264,"id":"chatcmpl-2abebaa0-2db7-4db5-8d2d-c063ba9bc651","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"：网页"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://www.doumen.gov.cn/zhsdmqrmzfmhwz/zwgk/yjgl/content/post_3911524.html","http://finance.sina.com.cn/roll/2026-11-08/doc-inixzpau3667350.shtml"],"created":1794627264,"id":"chatcmpl-2abebaa0-2db7-4db5-8d2d-c063ba9bc651","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"4的内容"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://www.doumen.gov.cn/zhsdmqrmzfmhwz/zwgk/yjgl/content/post_3911524.html","http://finance.sina.com.cn/roll/2026-11-08/doc-inixzpau3667350.shtml"],"created":1794627264,"id":"chatcmpl-2abebaa0-2db7-4db5-8d2d-c063ba9bc651","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"时间标记"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://www.doumen.gov.cn/zhsdmqrmzfmhwz/zwgk/yjgl/content/post_3911524.html","http://finance.sina.com.cn/roll/2026-11-08/doc-inixzpau3667350.shtml"],"created":1794627264,"id":"chatcmpl-2abebaa0-2db7-4db5-8d2d-c063ba9bc651","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"是“"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://www.doumen.gov.cn/zhsdmqrmzfmhwz/zwgk/yjgl/content/post_3911524.html","http://finance.sina.com.cn/roll/2026-11-08/doc-inixzpau3667350.shtml"],"created":1794627264,"id":"chatcmpl-2abebaa0-2db7-4db5-8d2d-c063ba9bc651","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"截至当地时间"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://www.doumen.gov.cn/zhsdmqrmzfmhwz/zwgk/yjgl/content/post_3911524.html","http://finance.sina.com.cn/roll/2026-11-08/doc-inixzpau3667350.shtml"],"created":1794627264,"id":"chatcmpl-2abebaa0-2db7-4db5-8d2d-c063ba9bc651","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"11月7日”，"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://www.doumen.gov.cn/zhsdmqrmzfmhwz/zwgk/yjgl/content/post_3911524.html","http://finance.sina.com.cn/roll/2026-11-08/doc-inixzpau3667350.shtml"],"created":1794627264,"id":"chatcmpl-2abebaa0-2db7-4db5-8d2d-c063ba9bc651","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"但年份"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://www.doumen.gov.cn/zhsdmqrmzfmhwz/zwgk/yjgl/content/post_3911524.html","http://finance.sina.com.cn/roll/2026-11-08/doc-inixzpau3667350.shtml"],"created":1794627264,"id":"chatcmpl-2abebaa0-2db7-4db5-8d2d-c063ba9bc651","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"不确定"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://www.doumen.gov.cn/zhsdmqrmzfmhwz/zwgk/yjgl/content/post_3911524.html","http://finance.sina.com.cn/roll/2026-11-08/doc-inixzpau3667350.shtml"],"created":1794627264,"id":"chatcmpl-2abebaa0-2db7-4db5-8d2d-c063ba9bc651","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"。文中提到“"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://www.doumen.gov.cn/zhsdmqrmzfmhwz/zwgk/yjgl/content/post_3911524.html","http://finance.sina.com.cn/roll/2026-11-08/doc-inixzpau3667350.shtml"],"created":1794627264,"id":"chatcmpl-2abebaa0-2db7-4db5-8d2d-c063ba9bc651","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"自2025年10月"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://www.doumen.gov.cn/zhsdmqrmzfmhwz/zwgk/yjgl/content/post_3911524.html","http://finance.sina.com.cn/roll/2026-11-08/doc-inixzpau3667350.shtml"],"created":1794627264,"id":"chatcmpl-2abebaa0-2db7-4db5-8d2d-c063ba9bc651","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"‘停火’生效以来"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://www.doumen.gov.cn/zhsdmqrmzfmhwz/zwgk/yjgl/content/post_3911524.html","http://finance.sina.com.cn/roll/2026-11-08/doc-inixzpau3667350.shtml"],"created":1794627264,"id":"chatcmpl-2abebaa0-2db7-4db5-8d2d-c063ba9bc651","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"，以色列"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://www.doumen.gov.cn/zhsdmqrmzfmhwz/zwgk/yjgl/content/post_3911524.html","http://finance.sina.com.cn/roll/2026-11-08/doc-inixzpau3667350.shtml"],"created":1794627264,"id":"chatcmpl-2abebaa0-2db7-4db5-8d2d-c063ba9bc651","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"已杀害至少161"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://www.doumen.gov.cn/zhsdmqrmzfmhwz/zwgk/yjgl/content/post_3911524.html","http://finance.sina.com.cn/roll/2026-11-08/doc-inixzpau3667350.shtml"],"created":1794627264,"id":"chatcmpl-2abebaa0-2db7-4db5-8d2d-c063ba9bc651","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"0名巴"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://www.doumen.gov.cn/zhsdmqrmzfmhwz/zwgk/yjgl/content/post_3911524.html","http://finance.sina.com.cn/roll/2026-11-08/doc-inixzpau3667350.shtml"],"created":1794627264,"id":"chatcmpl-2abebaa0-2db7-4db5-8d2d-c063ba9bc651","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"勒斯坦人”，以及加"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://www.doumen.gov.cn/zhsdmqrmzfmhwz/zwgk/yjgl/content/post_3911524.html","http://finance.sina.com.cn/roll/2026-11-08/doc-inixzpau3667350.shtml"],"created":1794627264,"id":"chatcmpl-2abebaa0-2db7-4db5-8d2d-c063ba9bc651","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"沙已有"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://www.doumen.gov.cn/zhsdmqrmzfmhwz/zwgk/yjgl/content/post_3911524.html","http://finance.sina.com.cn/roll/2026-11-08/doc-inixzpau3667350.shtml"],"created":1794627264,"id":"chatcmpl-2abebaa0-2db7-4db5-8d2d-c063ba9bc651","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"超过74640"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://www.doumen.gov.cn/zhsdmqrmzfmhwz/zwgk/yjgl/content/post_3911524.html","http://finance.sina.com.cn/roll/2026-11-08/doc-inixzpau3667350.shtml"],"created":1794627264,"id":"chatcmpl-2abebaa0-2db7-4db5-8d2d-c063ba9bc651","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"人死亡。这"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://www.doumen.gov.cn/zhsdmqrmzfmhwz/zwgk/yjgl/content/post_3911524.html","http://finance.sina.com.cn/roll/2026-11-08/doc-inixzpau3667350.shtml"],"created":1794627264,"id":"chatcmpl-2abebaa0-2db7-4db5-8d2d-c063ba9bc651","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"似乎是2025"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://www.doumen.gov.cn/zhsdmqrmzfmhwz/zwgk/yjgl/content/post_3911524.html","http://finance.sina.com.cn/roll/2026-11-08/doc-inixzpau3667350.shtml"],"created":1794627264,"id":"chatcmpl-2abebaa0-2db7-4db5-8d2d-c063ba9bc651","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"年11月的"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://www.doumen.gov.cn/zhsdmqrmzfmhwz/zwgk/yjgl/content/post_3911524.html","http://finance.sina.com.cn/roll/2026-11-08/doc-inixzpau3667350.shtml"],"created":1794627264,"id":"chatcmpl-2abebaa0-2db7-4db5-8d2d-c063ba9bc651","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"报道，而非"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://www.doumen.gov.cn/zhsdmqrmzfmhwz/zwgk/yjgl/content/post_3911524.html","http://finance.sina.com.cn/roll/2026-11-08/doc-inixzpau3667350.shtml"],"created":1794627264,"id":"chatcmpl-2abebaa0-2db7-4db5-8d2d-c063ba9bc651","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"2026年11"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://www.doumen.gov.cn/zhsdmqrmzfmhwz/zwgk/yjgl/content/post_3911524.html","http://finance.sina.com.cn/roll/2026-11-08/doc-inixzpau3667350.shtml"],"created":1794627264,"id":"chatcmpl-2abebaa0-2db7-4db5-8d2d-c063ba9bc651","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"月。用户问"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://www.doumen.gov.cn/zhsdmqrmzfmhwz/zwgk/yjgl/content/post_3911524.html","http://finance.sina.com.cn/roll/2026-11-08/doc-inixzpau3667350.shtml"],"created":1794627264,"id":"chatcmpl-2abebaa0-2db7-4db5-8d2d-c063ba9bc651","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"202"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://www.doumen.gov.cn/zhsdmqrmzfmhwz/zwgk/yjgl/content/post_3911524.html","http://finance.sina.com.cn/roll/2026-11-08/doc-inixzpau3667350.shtml"],"created":1794627264,"id":"chatcmpl-2abebaa0-2db7-4db5-8d2d-c063ba9bc651","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"6年11月初，但"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://www.doumen.gov.cn/zhsdmqrmzfmhwz/zwgk/yjgl/content/post_3911524.html","http://finance.sina.com.cn/roll/2026-11-08/doc-inixzpau3667350.shtml"],"created":1794627264,"id":"chatcmpl-2abebaa0-2db7-4db5-8d2d-c063ba9bc651","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"检索资料"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://www.doumen.gov.cn/zhsdmqrmzfmhwz/zwgk/yjgl/content/post_3911524.html","http://finance.sina.com.cn/roll/2026-11-08/doc-inixzpau3667350.shtml"],"created":1794627264,"id":"chatcmpl-2abebaa0-2db7-4db5-8d2d-c063ba9bc651","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"可能"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://www.doumen.gov.cn/zhsdmqrmzfmhwz/zwgk/yjgl/content/post_3911524.html","http://finance.sina.com.cn/roll/2026-11-08/doc-inixzpau3667350.shtml"],"created":1794627264,"id":"chatcmpl-2abebaa0-2db7-4db5-8d2d-c063ba9bc651","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"不匹配。需要谨慎说明"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://www.doumen.gov.cn/zhsdmqrmzfmhwz/zwgk/yjgl/content/post_3911524.html","http://finance.sina.com.cn/roll/2026-11-08/doc-inixzpau3667350.shtml"],"created":1794627264,"id":"chatcmpl-2abebaa0-2db7-4db5-8d2d-c063ba9bc651","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"资料"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://www.doumen.gov.cn/zhsdmqrmzfmhwz/zwgk/yjgl/content/post_3911524.html","http://finance.sina.com.cn/roll/2026-11-08/doc-inixzpau3667350.shtml"],"created":1794627264,"id":"chatcmpl-2abebaa0-2db7-4db5-8d2d-c063ba9bc651","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"时间范围与"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://www.doumen.gov.cn/zhsdmqrmzfmhwz/zwgk/yjgl/content/post_3911524.html","http://finance.sina.com.cn/roll/2026-11-08/doc-inixzpau3667350.shtml"],"created":1794627264,"id":"chatcmpl-2abebaa0-2db7-4db5-8d2d-c063ba9bc651","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"问题时间"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://www.doumen.gov.cn/zhsdmqrmzfmhwz/zwgk/yjgl/content/post_3911524.html","http://finance.sina.com.cn/roll/2026-11-08/doc-inixzpau3667350.shtml"],"created":1794627264,"id":"chatcmpl-2abebaa0-2db7-4db5-8d2d-c063ba9bc651","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"可能"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://www.doumen.gov.cn/zhsdmqrmzfmhwz/zwgk/yjgl/content/post_3911524.html","http://finance.sina.com.cn/roll/2026-11-08/doc-inixzpau3667350.shtml"],"created":1794627264,"id":"chatcmpl-2abebaa0-2db7-4db5-8d2d-c063ba9bc651","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"不一致。\n\n我应该"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://www.doumen.gov.cn/zhsdmqrmzfmhwz/zwgk/yjgl/content/post_3911524.html","http://finance.sina.com.cn/roll/2026-11-08/doc-inixzpau3667350.shtml"],"created":1794627264,"id":"chatcmpl-2abebaa0-2db7-4db5-8d2d-c063ba9bc651","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"基于检索到的"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://www.doumen.gov.cn/zhsdmqrmzfmhwz/zwgk/yjgl/content/post_3911524.html","http://finance.sina.com.cn/roll/2026-11-08/doc-inixzpau3667350.shtml"],"created":1794627264,"id":"chatcmpl-2abebaa0-2db7-4db5-8d2d-c063ba9bc651","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"资料回答，并明确指出"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://www.doumen.gov.cn/zhsdmqrmzfmhwz/zwgk/yjgl/content/post_3911524.html","http://finance.sina.com.cn/roll/2026-11-08/doc-inixzpau3667350.shtml"],"created":1794627264,"id":"chatcmpl-2abebaa0-2db7-4db5-8d2d-c063ba9bc651","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"资料的时间"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://www.doumen.gov.cn/zhsdmqrmzfmhwz/zwgk/yjgl/content/post_3911524.html","http://finance.sina.com.cn/roll/2026-11-08/doc-inixzpau3667350.shtml"],"created":1794627264,"id":"chatcmpl-2abebaa0-2db7-4db5-8d2d-c063ba9bc651","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"标记"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://www.doumen.gov.cn/zhsdmqrmzfmhwz/zwgk/yjgl/content/post_3911524.html","http://finance.sina.com.cn/roll/2026-11-08/doc-inixzpau3667350.shtml"],"created":1794627264,"id":"chatcmpl-2abebaa0-2db7-4db5-8d2d-c063ba9bc651","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"。网页"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://www.doumen.gov.cn/zhsdmqrmzfmhwz/zwgk/yjgl/content/post_3911524.html","http://finance.sina.com.cn/roll/2026-11-08/doc-inixzpau3667350.shtml"],"created":1794627264,"id":"chatcmpl-2abebaa0-2db7-4db5-8d2d-c063ba9bc651","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"4没有"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://www.doumen.gov.cn/zhsdmqrmzfmhwz/zwgk/yjgl/content/post_3911524.html","http://finance.sina.com.cn/roll/2026-11-08/doc-inixzpau3667350.shtml"],"created":1794627264,"id":"chatcmpl-2abebaa0-2db7-4db5-8d2d-c063ba9bc651","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"明确年份"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://www.doumen.gov.cn/zhsdmqrmzfmhwz/zwgk/yjgl/content/post_3911524.html","http://finance.sina.com.cn/roll/2026-11-08/doc-inixzpau3667350.shtml"],"created":1794627264,"id":"chatcmpl-2abebaa0-2db7-4db5-8d2d-c063ba9bc651","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"，但提到"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://www.doumen.gov.cn/zhsdmqrmzfmhwz/zwgk/yjgl/content/post_3911524.html","http://finance.sina.com.cn/roll/2026-11-08/doc-inixzpau3667350.shtml"],"created":1794627264,"id":"chatcmpl-2abebaa0-2db7-4db5-8d2d-c063ba9bc651","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"202"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://www.doumen.gov.cn/zhsdmqrmzfmhwz/zwgk/yjgl/content/post_3911524.html","http://finance.sina.com.cn/roll/2026-11-08/doc-inixzpau3667350.shtml"],"created":1794627264,"id":"chatcmpl-2abebaa0-2db7-4db5-8d2d-c063ba9bc651","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"5年10月停火"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://www.doumen.gov.cn/zhsdmqrmzfmhwz/zwgk/yjgl/content/post_3911524.html","http://finance.sina.com.cn/roll/2026-11-08/doc-inixzpau3667350.shtml"],"created":1794627264,"id":"chatcmpl-2abebaa0-2db7-4db5-8d2d-c063ba9bc651","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"，"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://www.doumen.gov.cn/zhsdmqrmzfmhwz/zwgk/yjgl/content/post_3911524.html","http://finance.sina.com.cn/roll/2026-11-08/doc-inixzpau3667350.shtml"],"created":1794627264,"id":"chatcmpl-2abebaa0-2db7-4db5-8d2d-c063ba9bc651","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"统计"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://www.doumen.gov.cn/zhsdmqrmzfmhwz/zwgk/yjgl/content/post_3911524.html","http://finance.sina.com.cn/roll/2026-11-08/doc-inixzpau3667350.shtml"],"created":1794627264,"id":"chatcmpl-2abebaa0-2db7-4db5-8d2d-c063ba9bc651","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"截至11月7日，"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://www.doumen.gov.cn/zhsdmqrmzfmhwz/zwgk/yjgl/content/post_3911524.html","http://finance.sina.com.cn/roll/2026-11-08/doc-inixzpau3667350.shtml"],"created":1794627264,"id":"chatcmpl-2abebaa0-2db7-4db5-8d2d-c063ba9bc651","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"可能是"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://www.doumen.gov.cn/zhsdmqrmzfmhwz/zwgk/yjgl/content/post_3911524.html","http://finance.sina.com.cn/roll/2026-11-08/doc-inixzpau3667350.shtml"],"created":1794627264,"id":"chatcmpl-2abebaa0-2db7-4db5-8d2d-c063ba9bc651","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"2025年11月7"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://www.doumen.gov.cn/zhsdmqrmzfmhwz/zwgk/yjgl/content/post_3911524.html","http://finance.sina.com.cn/roll/2026-11-08/doc-inixzpau3667350.shtml"],"created":1794627264,"id":"chatcmpl-2abebaa0-2db7-4db5-8d2d-c063ba9bc651","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"日。用户问202"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://www.doumen.gov.cn/zhsdmqrmzfmhwz/zwgk/yjgl/content/post_3911524.html","http://finance.sina.com.cn/roll/2026-11-08/doc-inixzpau3667350.shtml"],"created":1794627264,"id":"chatcmpl-2abebaa0-2db7-4db5-8d2d-c063ba9bc651","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"6年11月初"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://www.doumen.gov.cn/zhsdmqrmzfmhwz/zwgk/yjgl/content/post_3911524.html","http://finance.sina.com.cn/roll/2026-11-08/doc-inixzpau3667350.shtml"],"created":1794627264,"id":"chatcmpl-2abebaa0-2db7-4db5-8d2d-c063ba9bc651","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"，存在"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://www.doumen.gov.cn/zhsdmqrmzfmhwz/zwgk/yjgl/content/post_3911524.html","http://finance.sina.com.cn/roll/2026-11-08/doc-inixzpau3667350.shtml"],"created":1794627264,"id":"chatcmpl-2abebaa0-2db7-4db5-8d2d-c063ba9bc651","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"时间差。我不能编造"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://www.doumen.gov.cn/zhsdmqrmzfmhwz/zwgk/yjgl/content/post_3911524.html","http://finance.sina.com.cn/roll/2026-11-08/doc-inixzpau3667350.shtml"],"created":1794627264,"id":"chatcmpl-2abebaa0-2db7-4db5-8d2d-c063ba9bc651","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"2026年的"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://www.doumen.gov.cn/zhsdmqrmzfmhwz/zwgk/yjgl/content/post_3911524.html","http://finance.sina.com.cn/roll/2026-11-08/doc-inixzpau3667350.shtml"],"created":1794627264,"id":"chatcmpl-2abebaa0-2db7-4db5-8d2d-c063ba9bc651","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"数据。\n\n"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://www.doumen.gov.cn/zhsdmqrmzfmhwz/zwgk/yjgl/content/post_3911524.html","http://finance.sina.com.cn/roll/2026-11-08/doc-inixzpau3667350.shtml"],"created":1794627264,"id":"chatcmpl-2abebaa0-2db7-4db5-8d2d-c063ba9bc651","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"回答结构：\n"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://www.doumen.gov.cn/zhsdmqrmzfmhwz/zwgk/yjgl/content/post_3911524.html","http://finance.sina.com.cn/roll/2026-11-08/doc-inixzpau3667350.shtml"],"created":1794627264,"id":"chatcmpl-2abebaa0-2db7-4db5-8d2d-c063ba9bc651","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"1. 先直接"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://www.doumen.gov.cn/zhsdmqrmzfmhwz/zwgk/yjgl/content/post_3911524.html","http://finance.sina.com.cn/roll/2026-11-08/doc-inixzpau3667350.shtml"],"created":1794627264,"id":"chatcmpl-2abebaa0-2db7-4db5-8d2d-c063ba9bc651","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"回答：检索到的"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://www.doumen.gov.cn/zhsdmqrmzfmhwz/zwgk/yjgl/content/post_3911524.html","http://finance.sina.com.cn/roll/2026-11-08/doc-inixzpau3667350.shtml"],"created":1794627264,"id":"chatcmpl-2abebaa0-2db7-4db5-8d2d-c063ba9bc651","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"资料主要"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://www.doumen.gov.cn/zhsdmqrmzfmhwz/zwgk/yjgl/content/post_3911524.html","http://finance.sina.com.cn/roll/2026-11-08/doc-inixzpau3667350.shtml"],"created":1794627264,"id":"chatcmpl-2abebaa0-2db7-4db5-8d2d-c063ba9bc651","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"反映"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://www.doumen.gov.cn/zhsdmqrmzfmhwz/zwgk/yjgl/content/post_3911524.html","http://finance.sina.com.cn/roll/2026-11-08/doc-inixzpau3667350.shtml"],"created":1794627264,"id":"chatcmpl-2abebaa0-2db7-4db5-8d2d-c063ba9bc651","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"停火后"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://www.doumen.gov.cn/zhsdmqrmzfmhwz/zwgk/yjgl/content/post_3911524.html","http://finance.sina.com.cn/roll/2026-11-08/doc-inixzpau3667350.shtml"],"created":1794627264,"id":"chatcmpl-2abebaa0-2db7-4db5-8d2d-c063ba9bc651","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"（202"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://www.doumen.gov.cn/zhsdmqrmzfmhwz/zwgk/yjgl/content/post_3911524.html","http://finance.sina.com.cn/roll/2026-11-08/doc-inixzpau3667350.shtml"],"created":1794627264,"id":"chatcmpl-2abebaa0-2db7-4db5-8d2d-c063ba9bc651","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"5年10月停火"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://www.doumen.gov.cn/zhsdmqrmzfmhwz/zwgk/yjgl/content/post_3911524.html","http://finance.sina.com.cn/roll/2026-11-08/doc-inixzpau3667350.shtml"],"created":1794627264,"id":"chatcmpl-2abebaa0-2db7-4db5-8d2d-c063ba9bc651","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"生效至"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://www.doumen.gov.cn/zhsdmqrmzfmhwz/zwgk/yjgl/content/post_3911524.html","http://finance.sina.com.cn/roll/2026-11-08/doc-inixzpau3667350.shtml"],"created":1794627264,"id":"chatcmpl-2abebaa0-2db7-4db5-8d2d-c063ba9bc651","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"11月7日）的"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://www.doumen.gov.cn/zhsdmqrmzfmhwz/zwgk/yjgl/content/post_3911524.html","http://finance.sina.com.cn/roll/2026-11-08/doc-inixzpau3667350.shtml"],"created":1794627264,"id":"chatcmpl-2abebaa0-2db7-4db5-8d2d-c063ba9bc651","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"伤亡和暴雨"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://www.doumen.gov.cn/zhsdmqrmzfmhwz/zwgk/yjgl/content/post_3911524.html","http://finance.sina.com.cn/roll/2026-11-08/doc-inixzpau3667350.shtml"],"created":1794627264,"id":"chatcmpl-2abebaa0-2db7-4db5-8d2d-c063ba9bc651","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"影响"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://www.doumen.gov.cn/zhsdmqrmzfmhwz/zwgk/yjgl/content/post_3911524.html","http://finance.sina.com.cn/roll/2026-11-08/doc-inixzpau3667350.shtml"],"created":1794627264,"id":"chatcmpl-2abebaa0-2db7-4db5-8d2d-c063ba9bc651","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"，未能"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://www.doumen.gov.cn/zhsdmqrmzfmhwz/zwgk/yjgl/content/post_3911524.html","http://finance.sina.com.cn/roll/2026-11-08/doc-inixzpau3667350.shtml"],"created":1794627264,"id":"chatcmpl-2abebaa0-2db7-4db5-8d2d-c063ba9bc651","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"提供2026年11月初"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://www.doumen.gov.cn/zhsdmqrmzfmhwz/zwgk/yjgl/content/post_3911524.html","http://finance.sina.com.cn/roll/2026-11-08/doc-inixzpau3667350.shtml"],"created":1794627264,"id":"chatcmpl-2abebaa0-2db7-4db5-8d2d-c063ba9bc651","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"的"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://www.doumen.gov.cn/zhsdmqrmzfmhwz/zwgk/yjgl/content/post_3911524.html","http://finance.sina.com.cn/roll/2026-11-08/doc-inixzpau3667350.shtml"],"created":1794627264,"id":"chatcmpl-2abebaa0-2db7-4db5-8d2d-c063ba9bc651","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"独立最新"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://www.doumen.gov.cn/zhsdmqrmzfmhwz/zwgk/yjgl/content/post_3911524.html","http://finance.sina.com.cn/roll/2026-11-08/doc-inixzpau3667350.shtml"],"created":1794627264,"id":"chatcmpl-2abebaa0-2db7-4db5-8d2d-c063ba9bc651","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"数据。\n2. 伤亡"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://www.doumen.gov.cn/zhsdmqrmzfmhwz/zwgk/yjgl/content/post_3911524.html","http://finance.sina.com.cn/roll/2026-11-08/doc-inixzpau3667350.shtml"],"created":1794627264,"id":"chatcmpl-2abebaa0-2db7-4db5-8d2d-c063ba9bc651","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"："},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://www.doumen.gov.cn/zhsdmqrmzfmhwz/zwgk/yjgl/content/post_3911524.html","http://finance.sina.com.cn/roll/2026-11-08/doc-inixzpau3667350.shtml"],"created":1794627264,"id":"chatcmpl-2abebaa0-2db7-4db5-8d2d-c063ba9bc651","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"截至11"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://www.doumen.gov.cn/zhsdmqrmzfmhwz/zwgk/yjgl/content/post_3911524.html","http://finance.sina.com.cn/roll/2026-11-08/doc-inixzpau3667350.shtml"],"created":1794627264,"id":"chatcmpl-2abebaa0-2db7-4db5-8d2d-c063ba9bc651","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"月7日，加沙"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://www.doumen.gov.cn/zhsdmqrmzfmhwz/zwgk/yjgl/content/post_3911524.html","http://finance.sina.com.cn/roll/2026-11-08/doc-inixzpau3667350.shtml"],"created":1794627264,"id":"chatcmpl-2abebaa0-2db7-4db5-8d2d-c063ba9bc651","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"死亡"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://www.doumen.gov.cn/zhsdmqrmzfmhwz/zwgk/yjgl/content/post_3911524.html","http://finance.sina.com.cn/roll/2026-11-08/doc-inixzpau3667350.shtml"],"created":1794627264,"id":"chatcmpl-2abebaa0-2db7-4db5-8d2d-c063ba9bc651","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"超74640"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://www.doumen.gov.cn/zhsdmqrmzfmhwz/zwgk/yjgl/content/post_3911524.html","http://finance.sina.com.cn/roll/2026-11-08/doc-inixzpau3667350.shtml"],"created":1794627264,"id":"chatcmpl-2abebaa0-2db7-4db5-8d2d-c063ba9bc651","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"人；停火生效"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://www.doumen.gov.cn/zhsdmqrmzfmhwz/zwgk/yjgl/content/post_3911524.html","http://finance.sina.com.cn/roll/2026-11-08/doc-inixzpau3667350.shtml"],"created":1794627264,"id":"chatcmpl-2abebaa0-2db7-4db5-8d2d-c063ba9bc651","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"以来至少1610名"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://www.doumen.gov.cn/zhsdmqrmzfmhwz/zwgk/yjgl/content/post_3911524.html","http://finance.sina.com.cn/roll/2026-11-08/doc-inixzpau3667350.shtml"],"created":1794627264,"id":"chatcmpl-2abebaa0-2db7-4db5-8d2d-c063ba9bc651","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"巴勒斯坦人"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://www.doumen.gov.cn/zhsdmqrmzfmhwz/zwgk/yjgl/content/post_3911524.html","http://finance.sina.com.cn/roll/2026-11-08/doc-inixzpau3667350.shtml"],"created":1794627264,"id":"chatcmpl-2abebaa0-2db7-4db5-8d2d-c063ba9bc651","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"被杀"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://www.doumen.gov.cn/zhsdmqrmzfmhwz/zwgk/yjgl/content/post_3911524.html","http://finance.sina.com.cn/roll/2026-11-08/doc-inixzpau3667350.shtml"],"created":1794627264,"id":"chatcmpl-2abebaa0-2db7-4db5-8d2d-c063ba9bc651","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"["},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://www.doumen.gov.cn/zhsdmqrmzfmhwz/zwgk/yjgl/content/post_3911524.html","http://finance.sina.com.cn/roll/2026-11-08/doc-inixzpau3667350.shtml"],"created":1794627264,"id":"chatcmpl-2abebaa0-2db7-4db5-8d2d-c063ba9bc651","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"4]。\n3. "},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://www.doumen.gov.cn/zhsdmqrmzfmhwz/zwgk/yjgl/content/post_3911524.html","http://finance.sina.com.cn/roll/2026-11-08/doc-inixzpau3667350.shtml"],"created":1794627264,"id":"chatcmpl-2abebaa0-2db7-4db5-8d2d-c063ba9bc651","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"避难困难"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://www.doumen.gov.cn/zhsdmqrmzfmhwz/zwgk/yjgl/content/post_3911524.html","http://finance.sina.com.cn/roll/2026-11-08/doc-inixzpau3667350.shtml"],"created":1794627264,"id":"chatcmpl-2abebaa0-2db7-4db5-8d2d-c063ba9bc651","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"：超"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://www.doumen.gov.cn/zhsdmqrmzfmhwz/zwgk/yjgl/content/post_3911524.html","http://finance.sina.com.cn/roll/2026-11-08/doc-inixzpau3667350.shtml"],"created":1794627264,"id":"chatcmpl-2abebaa0-2db7-4db5-8d2d-c063ba9bc651","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"2000栋"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://www.doumen.gov.cn/zhsdmqrmzfmhwz/zwgk/yjgl/content/post_3911524.html","http://finance.sina.com.cn/roll/2026-11-08/doc-inixzpau3667350.shtml"],"created":1794627264,"id":"chatcmpl-2abebaa0-2db7-4db5-8d2d-c063ba9bc651","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"建筑有"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://www.doumen.gov.cn/zhsdmqrmzfmhwz/zwgk/yjgl/content/post_3911524.html","http://finance.sina.com.cn/roll/2026-11-08/doc-inixzpau3667350.shtml"],"created":1794627264,"id":"chatcmpl-2abebaa0-2db7-4db5-8d2d-c063ba9bc651","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"坍塌风险；流"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://www.doumen.gov.cn/zhsdmqrmzfmhwz/zwgk/yjgl/content/post_3911524.html","http://finance.sina.com.cn/roll/2026-11-08/doc-inixzpau3667350.shtml"],"created":1794627264,"id":"chatcmpl-2abebaa0-2db7-4db5-8d2d-c063ba9bc651","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"离"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://www.doumen.gov.cn/zhsdmqrmzfmhwz/zwgk/yjgl/content/post_3911524.html","http://finance.sina.com.cn/roll/2026-11-08/doc-inixzpau3667350.shtml"],"created":1794627264,"id":"chatcmpl-2abebaa0-2db7-4db5-8d2d-c063ba9bc651","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"民众至少还需"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://www.doumen.gov.cn/zhsdmqrmzfmhwz/zwgk/yjgl/content/post_3911524.html","http://finance.sina.com.cn/roll/2026-11-08/doc-inixzpau3667350.shtml"],"created":1794627264,"id":"chatcmpl-2abebaa0-2db7-4db5-8d2d-c063ba9bc651","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"30万顶"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://www.doumen.gov.cn/zhsdmqrmzfmhwz/zwgk/yjgl/content/post_3911524.html","http://finance.sina.com.cn/roll/2026-11-08/doc-inixzpau3667350.shtml"],"created":1794627264,"id":"chatcmpl-2abebaa0-2db7-4db5-8d2d-c063ba9bc651","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"帐篷；民防"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://www.doumen.gov.cn/zhsdmqrmzfmhwz/zwgk/yjgl/content/post_3911524.html","http://finance.sina.com.cn/roll/2026-11-08/doc-inixzpau3667350.shtml"],"created":1794627264,"id":"chatcmpl-2abebaa0-2db7-4db5-8d2d-c063ba9bc651","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"接到"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://www.doumen.gov.cn/zhsdmqrmzfmhwz/zwgk/yjgl/content/post_3911524.html","http://finance.sina.com.cn/roll/2026-11-08/doc-inixzpau3667350.shtml"],"created":1794627264,"id":"chatcmpl-2abebaa0-2db7-4db5-8d2d-c063ba9bc651","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"至少1500"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://www.doumen.gov.cn/zhsdmqrmzfmhwz/zwgk/yjgl/content/post_3911524.html","http://finance.sina.com.cn/roll/2026-11-08/doc-inixzpau3667350.shtml"],"created":1794627264,"id":"chatcmpl-2abebaa0-2db7-4db5-8d2d-c063ba9bc651","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"通紧急求助"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://www.doumen.gov.cn/zhsdmqrmzfmhwz/zwgk/yjgl/content/post_3911524.html","http://finance.sina.com.cn/roll/2026-11-08/doc-inixzpau3667350.shtml"],"created":1794627264,"id":"chatcmpl-2abebaa0-2db7-4db5-8d2d-c063ba9bc651","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"电话"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://www.doumen.gov.cn/zhsdmqrmzfmhwz/zwgk/yjgl/content/post_3911524.html","http://finance.sina.com.cn/roll/2026-11-08/doc-inixzpau3667350.shtml"],"created":1794627264,"id":"chatcmpl-2abebaa0-2db7-4db5-8d2d-c063ba9bc651","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"[4]。\n4."},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://www.doumen.gov.cn/zhsdmqrmzfmhwz/zwgk/yjgl/content/post_3911524.html","http://finance.sina.com.cn/roll/2026-11-08/doc-inixzpau3667350.shtml"],"created":1794627264,"id":"chatcmpl-2abebaa0-2db7-4db5-8d2d-c063ba9bc651","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":" 暴雨新"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://www.doumen.gov.cn/zhsdmqrmzfmhwz/zwgk/yjgl/content/post_3911524.html","http://finance.sina.com.cn/roll/2026-11-08/doc-inixzpau3667350.shtml"],"created":1794627264,"id":"chatcmpl-2abebaa0-2db7-4db5-8d2d-c063ba9bc651","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"问题：加"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://www.doumen.gov.cn/zhsdmqrmzfmhwz/zwgk/yjgl/content/post_3911524.html","http://finance.sina.com.cn/roll/2026-11-08/doc-inixzpau3667350.shtml"],"created":1794627264,"id":"chatcmpl-2abebaa0-2db7-4db5-8d2d-c063ba9bc651","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"沙政府媒体"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://www.doumen.gov.cn/zhsdmqrmzfmhwz/zwgk/yjgl/content/post_3911524.html","http://finance.sina.com.cn/roll/2026-11-08/doc-inixzpau3667350.shtml"],"created":1794627264,"id":"chatcmpl-2abebaa0-2db7-4db5-8d2d-c063ba9bc651","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"办公室估算约300万美元损失"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://www.doumen.gov.cn/zhsdmqrmzfmhwz/zwgk/yjgl/content/post_3911524.html","http://finance.sina.com.cn/roll/2026-11-08/doc-inixzpau3667350.shtml"],"created":1794627264,"id":"chatcmpl-2abebaa0-2db7-4db5-8d2d-c063ba9bc651","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"["},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://www.doumen.gov.cn/zhsdmqrmzfmhwz/zwgk/yjgl/content/post_3911524.html","http://finance.sina.com.cn/roll/2026-11-08/doc-inixzpau3667350.shtml"],"created":1794627264,"id":"chatcmpl-2abebaa0-2db7-4db5-8d2d-c063ba9bc651","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"4]；"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://www.doumen.gov.cn/zhsdmqrmzfmhwz/zwgk/yjgl/content/post_3911524.html","http://finance.sina.com.cn/roll/2026-11-08/doc-inixzpau3667350.shtml"],"created":1794627264,"id":"chatcmpl-2abebaa0-2db7-4db5-8d2d-c063ba9bc651","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"暴雨加剧"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://www.doumen.gov.cn/zhsdmqrmzfmhwz/zwgk/yjgl/content/post_3911524.html","http://finance.sina.com.cn/roll/2026-11-08/doc-inixzpau3667350.shtml"],"created":1794627264,"id":"chatcmpl-2abebaa0-2db7-4db5-8d2d-c063ba9bc651","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"建筑坍塌风险和"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://www.doumen.gov.cn/zhsdmqrmzfmhwz/zwgk/yjgl/content/post_3911524.html","http://finance.sina.com.cn/roll/2026-11-08/doc-inixzpau3667350.shtml"],"created":1794627264,"id":"chatcmpl-2abebaa0-2db7-4db5-8d2d-c063ba9bc651","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"安置"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://www.doumen.gov.cn/zhsdmqrmzfmhwz/zwgk/yjgl/content/post_3911524.html","http://finance.sina.com.cn/roll/2026-11-08/doc-inixzpau3667350.shtml"],"created":1794627264,"id":"chatcmpl-2abebaa0-2db7-4db5-8d2d-c063ba9bc651","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"压力"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://www.doumen.gov.cn/zhsdmqrmzfmhwz/zwgk/yjgl/content/post_3911524.html","http://finance.sina.com.cn/roll/2026-11-08/doc-inixzpau3667350.shtml"],"created":1794627264,"id":"chatcmpl-2abebaa0-2db7-4db5-8d2d-c063ba9bc651","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"。\n5. 说明"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://www.doumen.gov.cn/zhsdmqrmzfmhwz/zwgk/yjgl/content/post_3911524.html","http://finance.sina.com.cn/roll/2026-11-08/doc-inixzpau3667350.shtml"],"created":1794627264,"id":"chatcmpl-2abebaa0-2db7-4db5-8d2d-c063ba9bc651","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"资料"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://www.doumen.gov.cn/zhsdmqrmzfmhwz/zwgk/yjgl/content/post_3911524.html","http://finance.sina.com.cn/roll/2026-11-08/doc-inixzpau3667350.shtml"],"created":1794627264,"id":"chatcmpl-2abebaa0-2db7-4db5-8d2d-c063ba9bc651","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"局限：另一"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://www.doumen.gov.cn/zhsdmqrmzfmhwz/zwgk/yjgl/content/post_3911524.html","http://finance.sina.com.cn/roll/2026-11-08/doc-inixzpau3667350.shtml"],"created":1794627264,"id":"chatcmpl-2abebaa0-2db7-4db5-8d2d-c063ba9bc651","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"检索"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://www.doumen.gov.cn/zhsdmqrmzfmhwz/zwgk/yjgl/content/post_3911524.html","http://finance.sina.com.cn/roll/2026-11-08/doc-inixzpau3667350.shtml"],"created":1794627264,"id":"chatcmpl-2abebaa0-2db7-4db5-8d2d-c063ba9bc651","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"结果与"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://www.doumen.gov.cn/zhsdmqrmzfmhwz/zwgk/yjgl/content/post_3911524.html","http://finance.sina.com.cn/roll/2026-11-08/doc-inixzpau3667350.shtml"],"created":1794627264,"id":"chatcmpl-2abebaa0-2db7-4db5-8d2d-c063ba9bc651","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"加"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://www.doumen.gov.cn/zhsdmqrmzfmhwz/zwgk/yjgl/content/post_3911524.html","http://finance.sina.com.cn/roll/2026-11-08/doc-inixzpau3667350.shtml"],"created":1794627264,"id":"chatcmpl-2abebaa0-2db7-4db5-8d2d-c063ba9bc651","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"沙无关["},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://www.doumen.gov.cn/zhsdmqrmzfmhwz/zwgk/yjgl/content/post_3911524.html","http://finance.sina.com.cn/roll/2026-11-08/doc-inixzpau3667350.shtml"],"created":1794627264,"id":"chatcmpl-2abebaa0-2db7-4db5-8d2d-c063ba9bc651","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"1]；时间"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://www.doumen.gov.cn/zhsdmqrmzfmhwz/zwgk/yjgl/content/post_3911524.html","http://finance.sina.com.cn/roll/2026-11-08/doc-inixzpau3667350.shtml"],"created":1794627264,"id":"chatcmpl-2abebaa0-2db7-4db5-8d2d-c063ba9bc651","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"标记"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://www.doumen.gov.cn/zhsdmqrmzfmhwz/zwgk/yjgl/content/post_3911524.html","http://finance.sina.com.cn/roll/2026-11-08/doc-inixzpau3667350.shtml"],"created":1794627264,"id":"chatcmpl-2abebaa0-2db7-4db5-8d2d-c063ba9bc651","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"与问题"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://www.doumen.gov.cn/zhsdmqrmzfmhwz/zwgk/yjgl/content/post_3911524.html","http://finance.sina.com.cn/roll/2026-11-08/doc-inixzpau3667350.shtml"],"created":1794627264,"id":"chatcmpl-2abebaa0-2db7-4db5-8d2d-c063ba9bc651","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"日期"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://www.doumen.gov.cn/zhsdmqrmzfmhwz/zwgk/yjgl/content/post_3911524.html","http://finance.sina.com.cn/roll/2026-11-08/doc-inixzpau3667350.shtml"],"created":1794627264,"id":"chatcmpl-2abebaa0-2db7-4db5-8d2d-c063ba9bc651","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"不一致。\n\n需要引用"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://www.doumen.gov.cn/zhsdmqrmzfmhwz/zwgk/yjgl/content/post_3911524.html","http://finance.sina.com.cn/roll/2026-11-08/doc-inixzpau3667350.shtml"],"created":1794627264,"id":"chatcmpl-2abebaa0-2db7-4db5-8d2d-c063ba9bc651","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"编号"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://www.doumen.gov.cn/zhsdmqrmzfmhwz/zwgk/yjgl/content/post_3911524.html","http://finance.sina.com.cn/roll/2026-11-08/doc-inixzpau3667350.shtml"],"created":1794627264,"id":"chatcmpl-2abebaa0-2db7-4db5-8d2d-c063ba9bc651","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"。注意"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://www.doumen.gov.cn/zhsdmqrmzfmhwz/zwgk/yjgl/content/post_3911524.html","http://finance.sina.com.cn/roll/2026-11-08/doc-inixzpau3667350.shtml"],"created":1794627264,"id":"chatcmpl-2abebaa0-2db7-4db5-8d2d-c063ba9bc651","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"引用放在"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://www.doumen.gov.cn/zhsdmqrmzfmhwz/zwgk/yjgl/content/post_3911524.html","http://finance.sina.com.cn/roll/2026-11-08/doc-inixzpau3667350.shtml"],"created":1794627264,"id":"chatcmpl-2abebaa0-2db7-4db5-8d2d-c063ba9bc651","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"句子"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://www.doumen.gov.cn/zhsdmqrmzfmhwz/zwgk/yjgl/content/post_3911524.html","http://finance.sina.com.cn/roll/2026-11-08/doc-inixzpau3667350.shtml"],"created":1794627264,"id":"chatcmpl-2abebaa0-2db7-4db5-8d2d-c063ba9bc651","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"末尾"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://www.doumen.gov.cn/zhsdmqrmzfmhwz/zwgk/yjgl/content/post_3911524.html","http://finance.sina.com.cn/roll/2026-11-08/doc-inixzpau3667350.shtml"],"created":1794627264,"id":"chatcmpl-2abebaa0-2db7-4db5-8d2d-c063ba9bc651","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"。语言"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://www.doumen.gov.cn/zhsdmqrmzfmhwz/zwgk/yjgl/content/post_3911524.html","http://finance.sina.com.cn/roll/2026-11-08/doc-inixzpau3667350.shtml"],"created":1794627264,"id":"chatcmpl-2abebaa0-2db7-4db5-8d2d-c063ba9bc651","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"自然"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://www.doumen.gov.cn/zhsdmqrmzfmhwz/zwgk/yjgl/content/post_3911524.html","http://finance.sina.com.cn/roll/2026-11-08/doc-inixzpau3667350.shtml"],"created":1794627264,"id":"chatcmpl-2abebaa0-2db7-4db5-8d2d-c063ba9bc651","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"中文。避免过度断言"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://www.doumen.gov.cn/zhsdmqrmzfmhwz/zwgk/yjgl/content/post_3911524.html","http://finance.sina.com.cn/roll/2026-11-08/doc-inixzpau3667350.shtml"],"created":1794627264,"id":"chatcmpl-2abebaa0-2db7-4db5-8d2d-c063ba9bc651","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"。要区分"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://www.doumen.gov.cn/zhsdmqrmzfmhwz/zwgk/yjgl/content/post_3911524.html","http://finance.sina.com.cn/roll/2026-11-08/doc-inixzpau3667350.shtml"],"created":1794627264,"id":"chatcmpl-2abebaa0-2db7-4db5-8d2d-c063ba9bc651","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"已"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://www.doumen.gov.cn/zhsdmqrmzfmhwz/zwgk/yjgl/content/post_3911524.html","http://finance.sina.com.cn/roll/2026-11-08/doc-inixzpau3667350.shtml"],"created":1794627264,"id":"chatcmpl-2abebaa0-2db7-4db5-8d2d-c063ba9bc651","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"确认事实和"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://www.doumen.gov.cn/zhsdmqrmzfmhwz/zwgk/yjgl/content/post_3911524.html","http://finance.sina.com.cn/roll/2026-11-08/doc-inixzpau3667350.shtml"],"created":1794627264,"id":"chatcmpl-2abebaa0-2db7-4db5-8d2d-c063ba9bc651","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"判断"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://www.doumen.gov.cn/zhsdmqrmzfmhwz/zwgk/yjgl/content/post_3911524.html","http://finance.sina.com.cn/roll/2026-11-08/doc-inixzpau3667350.shtml"],"created":1794627264,"id":"chatcmpl-2abebaa0-2db7-4db5-8d2d-c063ba9bc651","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"。\n\n还要"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://www.doumen.gov.cn/zhsdmqrmzfmhwz/zwgk/yjgl/content/post_3911524.html","http://finance.sina.com.cn/roll/2026-11-08/doc-inixzpau3667350.shtml"],"created":1794627264,"id":"chatcmpl-2abebaa0-2db7-4db5-8d2d-c063ba9bc651","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"注意：网页4"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://www.doumen.gov.cn/zhsdmqrmzfmhwz/zwgk/yjgl/content/post_3911524.html","http://finance.sina.com.cn/roll/2026-11-08/doc-inixzpau3667350.shtml"],"created":1794627264,"id":"chatcmpl-2abebaa0-2db7-4db5-8d2d-c063ba9bc651","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"是"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://www.doumen.gov.cn/zhsdmqrmzfmhwz/zwgk/yjgl/content/post_3911524.html","http://finance.sina.com.cn/roll/2026-11-08/doc-inixzpau3667350.shtml"],"created":1794627264,"id":"chatcmpl-2abebaa0-2db7-4db5-8d2d-c063ba9bc651","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"新浪财经转载"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://www.doumen.gov.cn/zhsdmqrmzfmhwz/zwgk/yjgl/content/post_3911524.html","http://finance.sina.com.cn/roll/2026-11-08/doc-inixzpau3667350.shtml"],"created":1794627264,"id":"chatcmpl-2abebaa0-2db7-4db5-8d2d-c063ba9bc651","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"，"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://www.doumen.gov.cn/zhsdmqrmzfmhwz/zwgk/yjgl/content/post_3911524.html","http://finance.sina.com.cn/roll/2026-11-08/doc-inixzpau3667350.shtml"],"created":1794627264,"id":"chatcmpl-2abebaa0-2db7-4db5-8d2d-c063ba9bc651","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"内容包含加"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://www.doumen.gov.cn/zhsdmqrmzfmhwz/zwgk/yjgl/content/post_3911524.html","http://finance.sina.com.cn/roll/2026-11-08/doc-inixzpau3667350.shtml"],"created":1794627264,"id":"chatcmpl-2abebaa0-2db7-4db5-8d2d-c063ba9bc651","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"沙数据"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://www.doumen.gov.cn/zhsdmqrmzfmhwz/zwgk/yjgl/content/post_3911524.html","http://finance.sina.com.cn/roll/2026-11-08/doc-inixzpau3667350.shtml"],"created":1794627264,"id":"chatcmpl-2abebaa0-2db7-4db5-8d2d-c063ba9bc651","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"，但"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://www.doumen.gov.cn/zhsdmqrmzfmhwz/zwgk/yjgl/content/post_3911524.html","http://finance.sina.com.cn/roll/2026-11-08/doc-inixzpau3667350.shtml"],"created":1794627264,"id":"chatcmpl-2abebaa0-2db7-4db5-8d2d-c063ba9bc651","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"可能"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://www.doumen.gov.cn/zhsdmqrmzfmhwz/zwgk/yjgl/content/post_3911524.html","http://finance.sina.com.cn/roll/2026-11-08/doc-inixzpau3667350.shtml"],"created":1794627264,"id":"chatcmpl-2abebaa0-2db7-4db5-8d2d-c063ba9bc651","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"不是原始"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://www.doumen.gov.cn/zhsdmqrmzfmhwz/zwgk/yjgl/content/post_3911524.html","http://finance.sina.com.cn/roll/2026-11-08/doc-inixzpau3667350.shtml"],"created":1794627264,"id":"chatcmpl-2abebaa0-2db7-4db5-8d2d-c063ba9bc651","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"发布"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://www.doumen.gov.cn/zhsdmqrmzfmhwz/zwgk/yjgl/content/post_3911524.html","http://finance.sina.com.cn/roll/2026-11-08/doc-inixzpau3667350.shtml"],"created":1794627264,"id":"chatcmpl-2abebaa0-2db7-4db5-8d2d-c063ba9bc651","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"。应"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://www.doumen.gov.cn/zhsdmqrmzfmhwz/zwgk/yjgl/content/post_3911524.html","http://finance.sina.com.cn/roll/2026-11-08/doc-inixzpau3667350.shtml"],"created":1794627264,"id":"chatcmpl-2abebaa0-2db7-4db5-8d2d-c063ba9bc651","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"说明来源"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://www.doumen.gov.cn/zhsdmqrmzfmhwz/zwgk/yjgl/content/post_3911524.html","http://finance.sina.com.cn/roll/2026-11-08/doc-inixzpau3667350.shtml"],"created":1794627264,"id":"chatcmpl-2abebaa0-2db7-4db5-8d2d-c063ba9bc651","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"性质"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://www.doumen.gov.cn/zhsdmqrmzfmhwz/zwgk/yjgl/content/post_3911524.html","http://finance.sina.com.cn/roll/2026-11-08/doc-inixzpau3667350.shtml"],"created":1794627264,"id":"chatcmpl-2abebaa0-2db7-4db5-8d2d-c063ba9bc651","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"。\n\n可以简要"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://www.doumen.gov.cn/zhsdmqrmzfmhwz/zwgk/yjgl/content/post_3911524.html","http://finance.sina.com.cn/roll/2026-11-08/doc-inixzpau3667350.shtml"],"created":1794627264,"id":"chatcmpl-2abebaa0-2db7-4db5-8d2d-c063ba9bc651","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"分"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://www.doumen.gov.cn/zhsdmqrmzfmhwz/zwgk/yjgl/content/post_3911524.html","http://finance.sina.com.cn/roll/2026-11-08/doc-inixzpau3667350.shtml"],"created":1794627264,"id":"chatcmpl-2abebaa0-2db7-4db5-8d2d-c063ba9bc651","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"点。"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://www.doumen.gov.cn/zhsdmqrmzfmhwz/zwgk/yjgl/content/post_3911524.html","http://finance.sina.com.cn/roll/2026-11-08/doc-inixzpau3667350.shtml"],"created":1794627264,"id":"chatcmpl-2abebaa0-2db7-4db5-8d2d-c063ba9bc651","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"控制在"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://www.doumen.gov.cn/zhsdmqrmzfmhwz/zwgk/yjgl/content/post_3911524.html","http://finance.sina.com.cn/roll/2026-11-08/doc-inixzpau3667350.shtml"],"created":1794627264,"id":"chatcmpl-2abebaa0-2db7-4db5-8d2d-c063ba9bc651","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"5"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://www.doumen.gov.cn/zhsdmqrmzfmhwz/zwgk/yjgl/content/post_3911524.html","http://finance.sina.com.cn/roll/2026-11-08/doc-inixzpau3667350.shtml"],"created":1794627264,"id":"chatcmpl-2abebaa0-2db7-4db5-8d2d-c063ba9bc651","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"点"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://www.doumen.gov.cn/zhsdmqrmzfmhwz/zwgk/yjgl/content/post_3911524.html","http://finance.sina.com.cn/roll/2026-11-08/doc-inixzpau3667350.shtml"],"created":1794627264,"id":"chatcmpl-2abebaa0-2db7-4db5-8d2d-c063ba9bc651","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"以内。"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://www.doumen.gov.cn/zhsdmqrmzfmhwz/zwgk/yjgl/content/post_3911524.html","http://finance.sina.com.cn/roll/2026-11-08/doc-inixzpau3667350.shtml"],"created":1794627264,"id":"chatcmpl-2abebaa0-2db7-4db5-8d2d-c063ba9bc651","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"根据"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://www.doumen.gov.cn/zhsdmqrmzfmhwz/zwgk/yjgl/content/post_3911524.html","http://finance.sina.com.cn/roll/2026-11-08/doc-inixzpau3667350.shtml"],"created":1794627264,"id":"chatcmpl-2abebaa0-2db7-4db5-8d2d-c063ba9bc651","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"检索到的资料，能确认"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://www.doumen.gov.cn/zhsdmqrmzfmhwz/zwgk/yjgl/content/post_3911524.html","http://finance.sina.com.cn/roll/2026-11-08/doc-inixzpau3667350.shtml"],"created":1794627264,"id":"chatcmpl-2abebaa0-2db7-4db5-8d2d-c063ba9bc651","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"的是**"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://www.doumen.gov.cn/zhsdmqrmzfmhwz/zwgk/yjgl/content/post_3911524.html","http://finance.sina.com.cn/roll/2026-11-08/doc-inixzpau3667350.shtml"],"created":1794627264,"id":"chatcmpl-2abebaa0-2db7-4db5-8d2d-c063ba9bc651","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"停火生效"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://www.doumen.gov.cn/zhsdmqrmzfmhwz/zwgk/yjgl/content/post_3911524.html","http://finance.sina.com.cn/roll/2026-11-08/doc-inixzpau3667350.shtml"],"created":1794627264,"id":"chatcmpl-2abebaa0-2db7-4db5-8d2d-c063ba9bc651","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"后加"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://www.doumen.gov.cn/zhsdmqrmzfmhwz/zwgk/yjgl/content/post_3911524.html","http://finance.sina.com.cn/roll/2026-11-08/doc-inixzpau3667350.shtml"],"created":1794627264,"id":"chatcmpl-2abebaa0-2db7-4db5-8d2d-c063ba9bc651","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"沙仍"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://www.doumen.gov.cn/zhsdmqrmzfmhwz/zwgk/yjgl/content/post_3911524.html","http://finance.sina.com.cn/roll/2026-11-08/doc-inixzpau3667350.shtml"],"created":1794627264,"id":"chatcmpl-2abebaa0-2db7-4db5-8d2d-c063ba9bc651","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"持续"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://www.doumen.gov.cn/zhsdmqrmzfmhwz/zwgk/yjgl/content/post_3911524.html","http://finance.sina.com.cn/roll/2026-11-08/doc-inixzpau3667350.shtml"],"created":1794627264,"id":"chatcmpl-2abebaa0-2db7-4db5-8d2d-c063ba9bc651","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"出现"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://www.doumen.gov.cn/zhsdmqrmzfmhwz/zwgk/yjgl/content/post_3911524.html","http://finance.sina.com.cn/roll/2026-11-08/doc-inixzpau3667350.shtml"],"created":1794627264,"id":"chatcmpl-2abebaa0-2db7-4db5-8d2d-c063ba9bc651","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"伤亡，暴雨"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://www.doumen.gov.cn/zhsdmqrmzfmhwz/zwgk/yjgl/content/post_3911524.html","http://finance.sina.com.cn/roll/2026-11-08/doc-inixzpau3667350.shtml"],"created":1794627264,"id":"chatcmpl-2abebaa0-2db7-4db5-8d2d-c063ba9bc651","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"又"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://www.doumen.gov.cn/zhsdmqrmzfmhwz/zwgk/yjgl/content/post_3911524.html","http://finance.sina.com.cn/roll/2026-11-08/doc-inixzpau3667350.shtml"],"created":1794627264,"id":"chatcmpl-2abebaa0-2db7-4db5-8d2d-c063ba9bc651","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"叠加"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://www.doumen.gov.cn/zhsdmqrmzfmhwz/zwgk/yjgl/content/post_3911524.html","http://finance.sina.com.cn/roll/2026-11-08/doc-inixzpau3667350.shtml"],"created":1794627264,"id":"chatcmpl-2abebaa0-2db7-4db5-8d2d-c063ba9bc651","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"了安置"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://www.doumen.gov.cn/zhsdmqrmzfmhwz/zwgk/yjgl/content/post_3911524.html","http://finance.sina.com.cn/roll/2026-11-08/doc-inixzpau3667350.shtml"],"created":1794627264,"id":"chatcmpl-2abebaa0-2db7-4db5-8d2d-c063ba9bc651","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"与"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://www.doumen.gov.cn/zhsdmqrmzfmhwz/zwgk/yjgl/content/post_3911524.html","http://finance.sina.com.cn/roll/2026-11-08/doc-inixzpau3667350.shtml"],"created":1794627264,"id":"chatcmpl-2abebaa0-2db7-4db5-8d2d-c063ba9bc651","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"建筑安全"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://www.doumen.gov.cn/zhsdmqrmzfmhwz/zwgk/yjgl/content/post_3911524.html","http://finance.sina.com.cn/roll/2026-11-08/doc-inixzpau3667350.shtml"],"created":1794627264,"id":"chatcmpl-2abebaa0-2db7-4db5-8d2d-c063ba9bc651","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"压力**；"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://www.doumen.gov.cn/zhsdmqrmzfmhwz/zwgk/yjgl/content/post_3911524.html","http://finance.sina.com.cn/roll/2026-11-08/doc-inixzpau3667350.shtml"],"created":1794627264,"id":"chatcmpl-2abebaa0-2db7-4db5-8d2d-c063ba9bc651","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"但资料"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://www.doumen.gov.cn/zhsdmqrmzfmhwz/zwgk/yjgl/content/post_3911524.html","http://finance.sina.com.cn/roll/2026-11-08/doc-inixzpau3667350.shtml"],"created":1794627264,"id":"chatcmpl-2abebaa0-2db7-4db5-8d2d-c063ba9bc651","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"的时间"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://www.doumen.gov.cn/zhsdmqrmzfmhwz/zwgk/yjgl/content/post_3911524.html","http://finance.sina.com.cn/roll/2026-11-08/doc-inixzpau3667350.shtml"],"created":1794627264,"id":"chatcmpl-2abebaa0-2db7-4db5-8d2d-c063ba9bc651","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"标记与"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://www.doumen.gov.cn/zhsdmqrmzfmhwz/zwgk/yjgl/content/post_3911524.html","http://finance.sina.com.cn/roll/2026-11-08/doc-inixzpau3667350.shtml"],"created":1794627264,"id":"chatcmpl-2abebaa0-2db7-4db5-8d2d-c063ba9bc651","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"您"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://www.doumen.gov.cn/zhsdmqrmzfmhwz/zwgk/yjgl/content/post_3911524.html","http://finance.sina.com.cn/roll/2026-11-08/doc-inixzpau3667350.shtml"],"created":1794627264,"id":"chatcmpl-2abebaa0-2db7-4db5-8d2d-c063ba9bc651","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"所"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://www.doumen.gov.cn/zhsdmqrmzfmhwz/zwgk/yjgl/content/post_3911524.html","http://finance.sina.com.cn/roll/2026-11-08/doc-inixzpau3667350.shtml"],"created":1794627264,"id":"chatcmpl-2abebaa0-2db7-4db5-8d2d-c063ba9bc651","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"问的“2026年"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://www.doumen.gov.cn/zhsdmqrmzfmhwz/zwgk/yjgl/content/post_3911524.html","http://finance.sina.com.cn/roll/2026-11-08/doc-inixzpau3667350.shtml"],"created":1794627264,"id":"chatcmpl-2abebaa0-2db7-4db5-8d2d-c063ba9bc651","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"11月初”并不"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://www.doumen.gov.cn/zhsdmqrmzfmhwz/zwgk/yjgl/content/post_3911524.html","http://finance.sina.com.cn/roll/2026-11-08/doc-inixzpau3667350.shtml"],"created":1794627264,"id":"chatcmpl-2abebaa0-2db7-4db5-8d2d-c063ba9bc651","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"完全对应"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://www.doumen.gov.cn/zhsdmqrmzfmhwz/zwgk/yjgl/content/post_3911524.html","http://finance.sina.com.cn/roll/2026-11-08/doc-inixzpau3667350.shtml"],"created":1794627264,"id":"chatcmpl-2abebaa0-2db7-4db5-8d2d-c063ba9bc651","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"，需"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://www.doumen.gov.cn/zhsdmqrmzfmhwz/zwgk/yjgl/content/post_3911524.html","http://finance.sina.com.cn/roll/2026-11-08/doc-inixzpau3667350.shtml"],"created":1794627264,"id":"chatcmpl-2abebaa0-2db7-4db5-8d2d-c063ba9bc651","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"先说明这一点"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://www.doumen.gov.cn/zhsdmqrmzfmhwz/zwgk/yjgl/content/post_3911524.html","http://finance.sina.com.cn/roll/2026-11-08/doc-inixzpau3667350.shtml"],"created":1794627264,"id":"chatcmpl-2abebaa0-2db7-4db5-8d2d-c063ba9bc651","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"。\n\n**"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://www.doumen.gov.cn/zhsdmqrmzfmhwz/zwgk/yjgl/content/post_3911524.html","http://finance.sina.com.cn/roll/2026-11-08/doc-inixzpau3667350.shtml"],"created":1794627264,"id":"chatcmpl-2abebaa0-2db7-4db5-8d2d-c063ba9bc651","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"1. 停火后的"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://www.doumen.gov.cn/zhsdmqrmzfmhwz/zwgk/yjgl/content/post_3911524.html","http://finance.sina.com.cn/roll/2026-11-08/doc-inixzpau3667350.shtml"],"created":1794627264,"id":"chatcmpl-2abebaa0-2db7-4db5-8d2d-c063ba9bc651","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"伤亡情况**\n检索"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://www.doumen.gov.cn/zhsdmqrmzfmhwz/zwgk/yjgl/content/post_3911524.html","http://finance.sina.com.cn/roll/2026-11-08/doc-inixzpau3667350.shtml"],"created":1794627264,"id":"chatcmpl-2abebaa0-2db7-4db5-8d2d-c063ba9bc651","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"资料显示"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://www.doumen.gov.cn/zhsdmqrmzfmhwz/zwgk/yjgl/content/post_3911524.html","http://finance.sina.com.cn/roll/2026-11-08/doc-inixzpau3667350.shtml"],"created":1794627264,"id":"chatcmpl-2abebaa0-2db7-4db5-8d2d-c063ba9bc651","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"，自2025年10"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://www.doumen.gov.cn/zhsdmqrmzfmhwz/zwgk/yjgl/content/post_3911524.html","http://finance.sina.com.cn/roll/2026-11-08/doc-inixzpau3667350.shtml"],"created":1794627264,"id":"chatcmpl-2abebaa0-2db7-4db5-8d2d-c063ba9bc651","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"月“停火”生效"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://www.doumen.gov.cn/zhsdmqrmzfmhwz/zwgk/yjgl/content/post_3911524.html","http://finance.sina.com.cn/roll/2026-11-08/doc-inixzpau3667350.shtml"],"created":1794627264,"id":"chatcmpl-2abebaa0-2db7-4db5-8d2d-c063ba9bc651","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"以来，以色列"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://www.doumen.gov.cn/zhsdmqrmzfmhwz/zwgk/yjgl/content/post_3911524.html","http://finance.sina.com.cn/roll/2026-11-08/doc-inixzpau3667350.shtml"],"created":1794627264,"id":"chatcmpl-2abebaa0-2db7-4db5-8d2d-c063ba9bc651","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"已杀害至少161"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://www.doumen.gov.cn/zhsdmqrmzfmhwz/zwgk/yjgl/content/post_3911524.html","http://finance.sina.com.cn/roll/2026-11-08/doc-inixzpau3667350.shtml"],"created":1794627264,"id":"chatcmpl-2abebaa0-2db7-4db5-8d2d-c063ba9bc651","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"0名巴勒斯坦人"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://www.doumen.gov.cn/zhsdmqrmzfmhwz/zwgk/yjgl/content/post_3911524.html","http://finance.sina.com.cn/roll/2026-11-08/doc-inixzpau3667350.shtml"],"created":1794627264,"id":"chatcmpl-2abebaa0-2db7-4db5-8d2d-c063ba9bc651","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"；截至当地时间"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://www.doumen.gov.cn/zhsdmqrmzfmhwz/zwgk/yjgl/content/post_3911524.html","http://finance.sina.com.cn/roll/2026-11-08/doc-inixzpau3667350.shtml"],"created":1794627264,"id":"chatcmpl-2abebaa0-2db7-4db5-8d2d-c063ba9bc651","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"11月7日，加"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://www.doumen.gov.cn/zhsdmqrmzfmhwz/zwgk/yjgl/content/post_3911524.html","http://finance.sina.com.cn/roll/2026-11-08/doc-inixzpau3667350.shtml"],"created":1794627264,"id":"chatcmpl-2abebaa0-2db7-4db5-8d2d-c063ba9bc651","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"沙地带"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://www.doumen.gov.cn/zhsdmqrmzfmhwz/zwgk/yjgl/content/post_3911524.html","http://finance.sina.com.cn/roll/2026-11-08/doc-inixzpau3667350.shtml"],"created":1794627264,"id":"chatcmpl-2abebaa0-2db7-4db5-8d2d-c063ba9bc651","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"卫生"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://www.doumen.gov.cn/zhsdmqrmzfmhwz/zwgk/yjgl/content/post_3911524.html","http://finance.sina.com.cn/roll/2026-11-08/doc-inixzpau3667350.shtml"],"created":1794627264,"id":"chatcmpl-2abebaa0-2db7-4db5-8d2d-c063ba9bc651","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"部门统计的"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://www.doumen.gov.cn/zhsdmqrmzfmhwz/zwgk/yjgl/content/post_3911524.html","http://finance.sina.com.cn/roll/2026-11-08/doc-inixzpau3667350.shtml"],"created":1794627264,"id":"chatcmpl-2abebaa0-2db7-4db5-8d2d-c063ba9bc651","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"冲突爆发"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://www.doumen.gov.cn/zhsdmqrmzfmhwz/zwgk/yjgl/content/post_3911524.html","http://finance.sina.com.cn/roll/2026-11-08/doc-inixzpau3667350.shtml"],"created":1794627264,"id":"chatcmpl-2abebaa0-2db7-4db5-8d2d-c063ba9bc651","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"以来"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://www.doumen.gov.cn/zhsdmqrmzfmhwz/zwgk/yjgl/content/post_3911524.html","http://finance.sina.com.cn/roll/2026-11-08/doc-inixzpau3667350.shtml"],"created":1794627264,"id":"chatcmpl-2abebaa0-2db7-4db5-8d2d-c063ba9bc651","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"死亡人数已"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://www.doumen.gov.cn/zhsdmqrmzfmhwz/zwgk/yjgl/content/post_3911524.html","http://finance.sina.com.cn/roll/2026-11-08/doc-inixzpau3667350.shtml"],"created":1794627264,"id":"chatcmpl-2abebaa0-2db7-4db5-8d2d-c063ba9bc651","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"超过746"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://www.doumen.gov.cn/zhsdmqrmzfmhwz/zwgk/yjgl/content/post_3911524.html","http://finance.sina.com.cn/roll/2026-11-08/doc-inixzpau3667350.shtml"],"created":1794627264,"id":"chatcmpl-2abebaa0-2db7-4db5-8d2d-c063ba9bc651","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"40人["},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://www.doumen.gov.cn/zhsdmqrmzfmhwz/zwgk/yjgl/content/post_3911524.html","http://finance.sina.com.cn/roll/2026-11-08/doc-inixzpau3667350.shtml"],"created":1794627264,"id":"chatcmpl-2abebaa0-2db7-4db5-8d2d-c063ba9bc651","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"4]。这说明"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://www.doumen.gov.cn/zhsdmqrmzfmhwz/zwgk/yjgl/content/post_3911524.html","http://finance.sina.com.cn/roll/2026-11-08/doc-inixzpau3667350.shtml"],"created":1794627264,"id":"chatcmpl-2abebaa0-2db7-4db5-8d2d-c063ba9bc651","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"停火并未"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://www.doumen.gov.cn/zhsdmqrmzfmhwz/zwgk/yjgl/content/post_3911524.html","http://finance.sina.com.cn/roll/2026-11-08/doc-inixzpau3667350.shtml"],"created":1794627264,"id":"chatcmpl-2abebaa0-2db7-4db5-8d2d-c063ba9bc651","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"完全"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://www.doumen.gov.cn/zhsdmqrmzfmhwz/zwgk/yjgl/content/post_3911524.html","http://finance.sina.com.cn/roll/2026-11-08/doc-inixzpau3667350.shtml"],"created":1794627264,"id":"chatcmpl-2abebaa0-2db7-4db5-8d2d-c063ba9bc651","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"终结"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://www.doumen.gov.cn/zhsdmqrmzfmhwz/zwgk/yjgl/content/post_3911524.html","http://finance.sina.com.cn/roll/2026-11-08/doc-inixzpau3667350.shtml"],"created":1794627264,"id":"chatcmpl-2abebaa0-2db7-4db5-8d2d-c063ba9bc651","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"伤亡，"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://www.doumen.gov.cn/zhsdmqrmzfmhwz/zwgk/yjgl/content/post_3911524.html","http://finance.sina.com.cn/roll/2026-11-08/doc-inixzpau3667350.shtml"],"created":1794627264,"id":"chatcmpl-2abebaa0-2db7-4db5-8d2d-c063ba9bc651","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"但"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://www.doumen.gov.cn/zhsdmqrmzfmhwz/zwgk/yjgl/content/post_3911524.html","http://finance.sina.com.cn/roll/2026-11-08/doc-inixzpau3667350.shtml"],"created":1794627264,"id":"chatcmpl-2abebaa0-2db7-4db5-8d2d-c063ba9bc651","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"该"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://www.doumen.gov.cn/zhsdmqrmzfmhwz/zwgk/yjgl/content/post_3911524.html","http://finance.sina.com.cn/roll/2026-11-08/doc-inixzpau3667350.shtml"],"created":1794627264,"id":"chatcmpl-2abebaa0-2db7-4db5-8d2d-c063ba9bc651","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"组"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://www.doumen.gov.cn/zhsdmqrmzfmhwz/zwgk/yjgl/content/post_3911524.html","http://finance.sina.com.cn/roll/2026-11-08/doc-inixzpau3667350.shtml"],"created":1794627264,"id":"chatcmpl-2abebaa0-2db7-4db5-8d2d-c063ba9bc651","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"数据对应"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://www.doumen.gov.cn/zhsdmqrmzfmhwz/zwgk/yjgl/content/post_3911524.html","http://finance.sina.com.cn/roll/2026-11-08/doc-inixzpau3667350.shtml"],"created":1794627264,"id":"chatcmpl-2abebaa0-2db7-4db5-8d2d-c063ba9bc651","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"的是资料"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://www.doumen.gov.cn/zhsdmqrmzfmhwz/zwgk/yjgl/content/post_3911524.html","http://finance.sina.com.cn/roll/2026-11-08/doc-inixzpau3667350.shtml"],"created":1794627264,"id":"chatcmpl-2abebaa0-2db7-4db5-8d2d-c063ba9bc651","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"标注的“"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://www.doumen.gov.cn/zhsdmqrmzfmhwz/zwgk/yjgl/content/post_3911524.html","http://finance.sina.com.cn/roll/2026-11-08/doc-inixzpau3667350.shtml"],"created":1794627264,"id":"chatcmpl-2abebaa0-2db7-4db5-8d2d-c063ba9bc651","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"11月7日”，无法"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://www.doumen.gov.cn/zhsdmqrmzfmhwz/zwgk/yjgl/content/post_3911524.html","http://finance.sina.com.cn/roll/2026-11-08/doc-inixzpau3667350.shtml"],"created":1794627264,"id":"chatcmpl-2abebaa0-2db7-4db5-8d2d-c063ba9bc651","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"确认就是"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://www.doumen.gov.cn/zhsdmqrmzfmhwz/zwgk/yjgl/content/post_3911524.html","http://finance.sina.com.cn/roll/2026-11-08/doc-inixzpau3667350.shtml"],"created":1794627264,"id":"chatcmpl-2abebaa0-2db7-4db5-8d2d-c063ba9bc651","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"2026年11月"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://www.doumen.gov.cn/zhsdmqrmzfmhwz/zwgk/yjgl/content/post_3911524.html","http://finance.sina.com.cn/roll/2026-11-08/doc-inixzpau3667350.shtml"],"created":1794627264,"id":"chatcmpl-2abebaa0-2db7-4db5-8d2d-c063ba9bc651","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"7日。\n\n**2."},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://www.doumen.gov.cn/zhsdmqrmzfmhwz/zwgk/yjgl/content/post_3911524.html","http://finance.sina.com.cn/roll/2026-11-08/doc-inixzpau3667350.shtml"],"created":1794627264,"id":"chatcmpl-2abebaa0-2db7-4db5-8d2d-c063ba9bc651","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":" 避难"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://www.doumen.gov.cn/zhsdmqrmzfmhwz/zwgk/yjgl/content/post_3911524.html","http://finance.sina.com.cn/roll/2026-11-08/doc-inixzpau3667350.shtml"],"created":1794627264,"id":"chatcmpl-2abebaa0-2db7-4db5-8d2d-c063ba9bc651","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"与"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://www.doumen.gov.cn/zhsdmqrmzfmhwz/zwgk/yjgl/content/post_3911524.html","http://finance.sina.com.cn/roll/2026-11-08/doc-inixzpau3667350.shtml"],"created":1794627264,"id":"chatcmpl-2abebaa0-2db7-4db5-8d2d-c063ba9bc651","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"安置困难**\n同一"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://www.doumen.gov.cn/zhsdmqrmzfmhwz/zwgk/yjgl/content/post_3911524.html","http://finance.sina.com.cn/roll/2026-11-08/doc-inixzpau3667350.shtml"],"created":1794627264,"id":"chatcmpl-2abebaa0-2db7-4db5-8d2d-c063ba9bc651","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"资料称，加沙"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://www.doumen.gov.cn/zhsdmqrmzfmhwz/zwgk/yjgl/content/post_3911524.html","http://finance.sina.com.cn/roll/2026-11-08/doc-inixzpau3667350.shtml"],"created":1794627264,"id":"chatcmpl-2abebaa0-2db7-4db5-8d2d-c063ba9bc651","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"民防"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://www.doumen.gov.cn/zhsdmqrmzfmhwz/zwgk/yjgl/content/post_3911524.html","http://finance.sina.com.cn/roll/2026-11-08/doc-inixzpau3667350.shtml"],"created":1794627264,"id":"chatcmpl-2abebaa0-2db7-4db5-8d2d-c063ba9bc651","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"部门已接到至少"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://www.doumen.gov.cn/zhsdmqrmzfmhwz/zwgk/yjgl/content/post_3911524.html","http://finance.sina.com.cn/roll/2026-11-08/doc-inixzpau3667350.shtml"],"created":1794627264,"id":"chatcmpl-2abebaa0-2db7-4db5-8d2d-c063ba9bc651","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"1500通紧急"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://www.doumen.gov.cn/zhsdmqrmzfmhwz/zwgk/yjgl/content/post_3911524.html","http://finance.sina.com.cn/roll/2026-11-08/doc-inixzpau3667350.shtml"],"created":1794627264,"id":"chatcmpl-2abebaa0-2db7-4db5-8d2d-c063ba9bc651","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"求助电话；超过2000"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://www.doumen.gov.cn/zhsdmqrmzfmhwz/zwgk/yjgl/content/post_3911524.html","http://finance.sina.com.cn/roll/2026-11-08/doc-inixzpau3667350.shtml"],"created":1794627264,"id":"chatcmpl-2abebaa0-2db7-4db5-8d2d-c063ba9bc651","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"栋建筑存在坍塌"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://www.doumen.gov.cn/zhsdmqrmzfmhwz/zwgk/yjgl/content/post_3911524.html","http://finance.sina.com.cn/roll/2026-11-08/doc-inixzpau3667350.shtml"],"created":1794627264,"id":"chatcmpl-2abebaa0-2db7-4db5-8d2d-c063ba9bc651","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"风险；"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://www.doumen.gov.cn/zhsdmqrmzfmhwz/zwgk/yjgl/content/post_3911524.html","http://finance.sina.com.cn/roll/2026-11-08/doc-inixzpau3667350.shtml"],"created":1794627264,"id":"chatcmpl-2abebaa0-2db7-4db5-8d2d-c063ba9bc651","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"受灾害"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://www.doumen.gov.cn/zhsdmqrmzfmhwz/zwgk/yjgl/content/post_3911524.html","http://finance.sina.com.cn/roll/2026-11-08/doc-inixzpau3667350.shtml"],"created":1794627264,"id":"chatcmpl-2abebaa0-2db7-4db5-8d2d-c063ba9bc651","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"影响的流离"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://www.doumen.gov.cn/zhsdmqrmzfmhwz/zwgk/yjgl/content/post_3911524.html","http://finance.sina.com.cn/roll/2026-11-08/doc-inixzpau3667350.shtml"],"created":1794627264,"id":"chatcmpl-2abebaa0-2db7-4db5-8d2d-c063ba9bc651","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"民众至少还需要"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://www.doumen.gov.cn/zhsdmqrmzfmhwz/zwgk/yjgl/content/post_3911524.html","http://finance.sina.com.cn/roll/2026-11-08/doc-inixzpau3667350.shtml"],"created":1794627264,"id":"chatcmpl-2abebaa0-2db7-4db5-8d2d-c063ba9bc651","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"30万顶"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://www.doumen.gov.cn/zhsdmqrmzfmhwz/zwgk/yjgl/content/post_3911524.html","http://finance.sina.com.cn/roll/2026-11-08/doc-inixzpau3667350.shtml"],"created":1794627264,"id":"chatcmpl-2abebaa0-2db7-4db5-8d2d-c063ba9bc651","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"帐篷安置"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://www.doumen.gov.cn/zhsdmqrmzfmhwz/zwgk/yjgl/content/post_3911524.html","http://finance.sina.com.cn/roll/2026-11-08/doc-inixzpau3667350.shtml"],"created":1794627264,"id":"chatcmpl-2abebaa0-2db7-4db5-8d2d-c063ba9bc651","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"[4]。这"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://www.doumen.gov.cn/zhsdmqrmzfmhwz/zwgk/yjgl/content/post_3911524.html","http://finance.sina.com.cn/roll/2026-11-08/doc-inixzpau3667350.shtml"],"created":1794627264,"id":"chatcmpl-2abebaa0-2db7-4db5-8d2d-c063ba9bc651","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"反映出"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://www.doumen.gov.cn/zhsdmqrmzfmhwz/zwgk/yjgl/content/post_3911524.html","http://finance.sina.com.cn/roll/2026-11-08/doc-inixzpau3667350.shtml"],"created":1794627264,"id":"chatcmpl-2abebaa0-2db7-4db5-8d2d-c063ba9bc651","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"停"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://www.doumen.gov.cn/zhsdmqrmzfmhwz/zwgk/yjgl/content/post_3911524.html","http://finance.sina.com.cn/roll/2026-11-08/doc-inixzpau3667350.shtml"],"created":1794627264,"id":"chatcmpl-2abebaa0-2db7-4db5-8d2d-c063ba9bc651","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"火后大量"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://www.doumen.gov.cn/zhsdmqrmzfmhwz/zwgk/yjgl/content/post_3911524.html","http://finance.sina.com.cn/roll/2026-11-08/doc-inixzpau3667350.shtml"],"created":1794627264,"id":"chatcmpl-2abebaa0-2db7-4db5-8d2d-c063ba9bc651","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"流"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://www.doumen.gov.cn/zhsdmqrmzfmhwz/zwgk/yjgl/content/post_3911524.html","http://finance.sina.com.cn/roll/2026-11-08/doc-inixzpau3667350.shtml"],"created":1794627264,"id":"chatcmpl-2abebaa0-2db7-4db5-8d2d-c063ba9bc651","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"离失"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://www.doumen.gov.cn/zhsdmqrmzfmhwz/zwgk/yjgl/content/post_3911524.html","http://finance.sina.com.cn/roll/2026-11-08/doc-inixzpau3667350.shtml"],"created":1794627264,"id":"chatcmpl-2abebaa0-2db7-4db5-8d2d-c063ba9bc651","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"所者仍"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://www.doumen.gov.cn/zhsdmqrmzfmhwz/zwgk/yjgl/content/post_3911524.html","http://finance.sina.com.cn/roll/2026-11-08/doc-inixzpau3667350.shtml"],"created":1794627264,"id":"chatcmpl-2abebaa0-2db7-4db5-8d2d-c063ba9bc651","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"缺乏"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://www.doumen.gov.cn/zhsdmqrmzfmhwz/zwgk/yjgl/content/post_3911524.html","http://finance.sina.com.cn/roll/2026-11-08/doc-inixzpau3667350.shtml"],"created":1794627264,"id":"chatcmpl-2abebaa0-2db7-4db5-8d2d-c063ba9bc651","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"足够"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://www.doumen.gov.cn/zhsdmqrmzfmhwz/zwgk/yjgl/content/post_3911524.html","http://finance.sina.com.cn/roll/2026-11-08/doc-inixzpau3667350.shtml"],"created":1794627264,"id":"chatcmpl-2abebaa0-2db7-4db5-8d2d-c063ba9bc651","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"遮蔽"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://www.doumen.gov.cn/zhsdmqrmzfmhwz/zwgk/yjgl/content/post_3911524.html","http://finance.sina.com.cn/roll/2026-11-08/doc-inixzpau3667350.shtml"],"created":1794627264,"id":"chatcmpl-2abebaa0-2db7-4db5-8d2d-c063ba9bc651","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"物，建筑"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://www.doumen.gov.cn/zhsdmqrmzfmhwz/zwgk/yjgl/content/post_3911524.html","http://finance.sina.com.cn/roll/2026-11-08/doc-inixzpau3667350.shtml"],"created":1794627264,"id":"chatcmpl-2abebaa0-2db7-4db5-8d2d-c063ba9bc651","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"结构"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://www.doumen.gov.cn/zhsdmqrmzfmhwz/zwgk/yjgl/content/post_3911524.html","http://finance.sina.com.cn/roll/2026-11-08/doc-inixzpau3667350.shtml"],"created":1794627264,"id":"chatcmpl-2abebaa0-2db7-4db5-8d2d-c063ba9bc651","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"安全也是"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://www.doumen.gov.cn/zhsdmqrmzfmhwz/zwgk/yjgl/content/post_3911524.html","http://finance.sina.com.cn/roll/2026-11-08/doc-inixzpau3667350.shtml"],"created":1794627264,"id":"chatcmpl-2abebaa0-2db7-4db5-8d2d-c063ba9bc651","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"突出"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://www.doumen.gov.cn/zhsdmqrmzfmhwz/zwgk/yjgl/content/post_3911524.html","http://finance.sina.com.cn/roll/2026-11-08/doc-inixzpau3667350.shtml"],"created":1794627264,"id":"chatcmpl-2abebaa0-2db7-4db5-8d2d-c063ba9bc651","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"隐患。\n\n**3. "},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://www.doumen.gov.cn/zhsdmqrmzfmhwz/zwgk/yjgl/content/post_3911524.html","http://finance.sina.com.cn/roll/2026-11-08/doc-inixzpau3667350.shtml"],"created":1794627264,"id":"chatcmpl-2abebaa0-2db7-4db5-8d2d-c063ba9bc651","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"暴雨带来的新问题**\n加"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://www.doumen.gov.cn/zhsdmqrmzfmhwz/zwgk/yjgl/content/post_3911524.html","http://finance.sina.com.cn/roll/2026-11-08/doc-inixzpau3667350.shtml"],"created":1794627264,"id":"chatcmpl-2abebaa0-2db7-4db5-8d2d-c063ba9bc651","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"沙地带政府媒体"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://www.doumen.gov.cn/zhsdmqrmzfmhwz/zwgk/yjgl/content/post_3911524.html","http://finance.sina.com.cn/roll/2026-11-08/doc-inixzpau3667350.shtml"],"created":1794627264,"id":"chatcmpl-2abebaa0-2db7-4db5-8d2d-c063ba9bc651","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"办公室估算，本次"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://www.doumen.gov.cn/zhsdmqrmzfmhwz/zwgk/yjgl/content/post_3911524.html","http://finance.sina.com.cn/roll/2026-11-08/doc-inixzpau3667350.shtml"],"created":1794627264,"id":"chatcmpl-2abebaa0-2db7-4db5-8d2d-c063ba9bc651","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"暴雨造成约300万美元损失"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://www.doumen.gov.cn/zhsdmqrmzfmhwz/zwgk/yjgl/content/post_3911524.html","http://finance.sina.com.cn/roll/2026-11-08/doc-inixzpau3667350.shtml"],"created":1794627264,"id":"chatcmpl-2abebaa0-2db7-4db5-8d2d-c063ba9bc651","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"[4]。"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://www.doumen.gov.cn/zhsdmqrmzfmhwz/zwgk/yjgl/content/post_3911524.html","http://finance.sina.com.cn/roll/2026-11-08/doc-inixzpau3667350.shtml"],"created":1794627264,"id":"chatcmpl-2abebaa0-2db7-4db5-8d2d-c063ba9bc651","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"暴雨的主要"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://www.doumen.gov.cn/zhsdmqrmzfmhwz/zwgk/yjgl/content/post_3911524.html","http://finance.sina.com.cn/roll/2026-11-08/doc-inixzpau3667350.shtml"],"created":1794627264,"id":"chatcmpl-2abebaa0-2db7-4db5-8d2d-c063ba9bc651","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"新问题在于：一方面"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://www.doumen.gov.cn/zhsdmqrmzfmhwz/zwgk/yjgl/content/post_3911524.html","http://finance.sina.com.cn/roll/2026-11-08/doc-inixzpau3667350.shtml"],"created":1794627264,"id":"chatcmpl-2abebaa0-2db7-4db5-8d2d-c063ba9bc651","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"加剧"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://www.doumen.gov.cn/zhsdmqrmzfmhwz/zwgk/yjgl/content/post_3911524.html","http://finance.sina.com.cn/roll/2026-11-08/doc-inixzpau3667350.shtml"],"created":1794627264,"id":"chatcmpl-2abebaa0-2db7-4db5-8d2d-c063ba9bc651","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"了"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://www.doumen.gov.cn/zhsdmqrmzfmhwz/zwgk/yjgl/content/post_3911524.html","http://finance.sina.com.cn/roll/2026-11-08/doc-inixzpau3667350.shtml"],"created":1794627264,"id":"chatcmpl-2abebaa0-2db7-4db5-8d2d-c063ba9bc651","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"本就"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://www.doumen.gov.cn/zhsdmqrmzfmhwz/zwgk/yjgl/content/post_3911524.html","http://finance.sina.com.cn/roll/2026-11-08/doc-inixzpau3667350.shtml"],"created":1794627264,"id":"chatcmpl-2abebaa0-2db7-4db5-8d2d-c063ba9bc651","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"存在坍塌风险的"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://www.doumen.gov.cn/zhsdmqrmzfmhwz/zwgk/yjgl/content/post_3911524.html","http://finance.sina.com.cn/roll/2026-11-08/doc-inixzpau3667350.shtml"],"created":1794627264,"id":"chatcmpl-2abebaa0-2db7-4db5-8d2d-c063ba9bc651","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"建筑的安全"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://www.doumen.gov.cn/zhsdmqrmzfmhwz/zwgk/yjgl/content/post_3911524.html","http://finance.sina.com.cn/roll/2026-11-08/doc-inixzpau3667350.shtml"],"created":1794627264,"id":"chatcmpl-2abebaa0-2db7-4db5-8d2d-c063ba9bc651","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"隐患"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://www.doumen.gov.cn/zhsdmqrmzfmhwz/zwgk/yjgl/content/post_3911524.html","http://finance.sina.com.cn/roll/2026-11-08/doc-inixzpau3667350.shtml"],"created":1794627264,"id":"chatcmpl-2abebaa0-2db7-4db5-8d2d-c063ba9bc651","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"，"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://www.doumen.gov.cn/zhsdmqrmzfmhwz/zwgk/yjgl/content/post_3911524.html","http://finance.sina.com.cn/roll/2026-11-08/doc-inixzpau3667350.shtml"],"created":1794627264,"id":"chatcmpl-2abebaa0-2db7-4db5-8d2d-c063ba9bc651","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"另一方面使"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://www.doumen.gov.cn/zhsdmqrmzfmhwz/zwgk/yjgl/content/post_3911524.html","http://finance.sina.com.cn/roll/2026-11-08/doc-inixzpau3667350.shtml"],"created":1794627264,"id":"chatcmpl-2abebaa0-2db7-4db5-8d2d-c063ba9bc651","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"缺乏"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://www.doumen.gov.cn/zhsdmqrmzfmhwz/zwgk/yjgl/content/post_3911524.html","http://finance.sina.com.cn/roll/2026-11-08/doc-inixzpau3667350.shtml"],"created":1794627264,"id":"chatcmpl-2abebaa0-2db7-4db5-8d2d-c063ba9bc651","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"帐篷和"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://www.doumen.gov.cn/zhsdmqrmzfmhwz/zwgk/yjgl/content/post_3911524.html","http://finance.sina.com.cn/roll/2026-11-08/doc-inixzpau3667350.shtml"],"created":1794627264,"id":"chatcmpl-2abebaa0-2db7-4db5-8d2d-c063ba9bc651","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"固定"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://www.doumen.gov.cn/zhsdmqrmzfmhwz/zwgk/yjgl/content/post_3911524.html","http://finance.sina.com.cn/roll/2026-11-08/doc-inixzpau3667350.shtml"],"created":1794627264,"id":"chatcmpl-2abebaa0-2db7-4db5-8d2d-c063ba9bc651","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"住所的流离民众安置"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://www.doumen.gov.cn/zhsdmqrmzfmhwz/zwgk/yjgl/content/post_3911524.html","http://finance.sina.com.cn/roll/2026-11-08/doc-inixzpau3667350.shtml"],"created":1794627264,"id":"chatcmpl-2abebaa0-2db7-4db5-8d2d-c063ba9bc651","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"条件进一步"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://www.doumen.gov.cn/zhsdmqrmzfmhwz/zwgk/yjgl/content/post_3911524.html","http://finance.sina.com.cn/roll/2026-11-08/doc-inixzpau3667350.shtml"],"created":1794627264,"id":"chatcmpl-2abebaa0-2db7-4db5-8d2d-c063ba9bc651","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"恶化；民"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://www.doumen.gov.cn/zhsdmqrmzfmhwz/zwgk/yjgl/content/post_3911524.html","http://finance.sina.com.cn/roll/2026-11-08/doc-inixzpau3667350.shtml"],"created":1794627264,"id":"chatcmpl-2abebaa0-2db7-4db5-8d2d-c063ba9bc651","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"防求助"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://www.doumen.gov.cn/zhsdmqrmzfmhwz/zwgk/yjgl/content/post_3911524.html","http://finance.sina.com.cn/roll/2026-11-08/doc-inixzpau3667350.shtml"],"created":1794627264,"id":"chatcmpl-2abebaa0-2db7-4db5-8d2d-c063ba9bc651","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"电话数量"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://www.doumen.gov.cn/zhsdmqrmzfmhwz/zwgk/yjgl/content/post_3911524.html","http://finance.sina.com.cn/roll/2026-11-08/doc-inixzpau3667350.shtml"],"created":1794627264,"id":"chatcmpl-2abebaa0-2db7-4db5-8d2d-c063ba9bc651","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"也"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://www.doumen.gov.cn/zhsdmqrmzfmhwz/zwgk/yjgl/content/post_3911524.html","http://finance.sina.com.cn/roll/2026-11-08/doc-inixzpau3667350.shtml"],"created":1794627264,"id":"chatcmpl-2abebaa0-2db7-4db5-8d2d-c063ba9bc651","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"说明"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://www.doumen.gov.cn/zhsdmqrmzfmhwz/zwgk/yjgl/content/post_3911524.html","http://finance.sina.com.cn/roll/2026-11-08/doc-inixzpau3667350.shtml"],"created":1794627264,"id":"chatcmpl-2abebaa0-2db7-4db5-8d2d-c063ba9bc651","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"灾害"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://www.doumen.gov.cn/zhsdmqrmzfmhwz/zwgk/yjgl/content/post_3911524.html","http://finance.sina.com.cn/roll/2026-11-08/doc-inixzpau3667350.shtml"],"created":1794627264,"id":"chatcmpl-2abebaa0-2db7-4db5-8d2d-c063ba9bc651","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"应对"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://www.doumen.gov.cn/zhsdmqrmzfmhwz/zwgk/yjgl/content/post_3911524.html","http://finance.sina.com.cn/roll/2026-11-08/doc-inixzpau3667350.shtml"],"created":1794627264,"id":"chatcmpl-2abebaa0-2db7-4db5-8d2d-c063ba9bc651","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"压力"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://www.doumen.gov.cn/zhsdmqrmzfmhwz/zwgk/yjgl/content/post_3911524.html","http://finance.sina.com.cn/roll/2026-11-08/doc-inixzpau3667350.shtml"],"created":1794627264,"id":"chatcmpl-2abebaa0-2db7-4db5-8d2d-c063ba9bc651","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"较大["},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://www.doumen.gov.cn/zhsdmqrmzfmhwz/zwgk/yjgl/content/post_3911524.html","http://finance.sina.com.cn/roll/2026-11-08/doc-inixzpau3667350.shtml"],"created":1794627264,"id":"chatcmpl-2abebaa0-2db7-4db5-8d2d-c063ba9bc651","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"4]。\n\n**需要"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://www.doumen.gov.cn/zhsdmqrmzfmhwz/zwgk/yjgl/content/post_3911524.html","http://finance.sina.com.cn/roll/2026-11-08/doc-inixzpau3667350.shtml"],"created":1794627264,"id":"chatcmpl-2abebaa0-2db7-4db5-8d2d-c063ba9bc651","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"说明的"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://www.doumen.gov.cn/zhsdmqrmzfmhwz/zwgk/yjgl/content/post_3911524.html","http://finance.sina.com.cn/roll/2026-11-08/doc-inixzpau3667350.shtml"],"created":1794627264,"id":"chatcmpl-2abebaa0-2db7-4db5-8d2d-c063ba9bc651","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"局限**\n我检索到的另一"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://www.doumen.gov.cn/zhsdmqrmzfmhwz/zwgk/yjgl/content/post_3911524.html","http://finance.sina.com.cn/roll/2026-11-08/doc-inixzpau3667350.shtml"],"created":1794627264,"id":"chatcmpl-2abebaa0-2db7-4db5-8d2d-c063ba9bc651","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"条结果是与"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://www.doumen.gov.cn/zhsdmqrmzfmhwz/zwgk/yjgl/content/post_3911524.html","http://finance.sina.com.cn/roll/2026-11-08/doc-inixzpau3667350.shtml"],"created":1794627264,"id":"chatcmpl-2abebaa0-2db7-4db5-8d2d-c063ba9bc651","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"珠海"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://www.doumen.gov.cn/zhsdmqrmzfmhwz/zwgk/yjgl/content/post_3911524.html","http://finance.sina.com.cn/roll/2026-11-08/doc-inixzpau3667350.shtml"],"created":1794627264,"id":"chatcmpl-2abebaa0-2db7-4db5-8d2d-c063ba9bc651","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"台风"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://www.doumen.gov.cn/zhsdmqrmzfmhwz/zwgk/yjgl/content/post_3911524.html","http://finance.sina.com.cn/roll/2026-11-08/doc-inixzpau3667350.shtml"],"created":1794627264,"id":"chatcmpl-2abebaa0-2db7-4db5-8d2d-c063ba9bc651","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"暴雨"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://www.doumen.gov.cn/zhsdmqrmzfmhwz/zwgk/yjgl/content/post_3911524.html","http://finance.sina.com.cn/roll/2026-11-08/doc-inixzpau3667350.shtml"],"created":1794627264,"id":"chatcmpl-2abebaa0-2db7-4db5-8d2d-c063ba9bc651","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"避难场所相关"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://www.doumen.gov.cn/zhsdmqrmzfmhwz/zwgk/yjgl/content/post_3911524.html","http://finance.sina.com.cn/roll/2026-11-08/doc-inixzpau3667350.shtml"],"created":1794627264,"id":"chatcmpl-2abebaa0-2db7-4db5-8d2d-c063ba9bc651","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"的内容["},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://www.doumen.gov.cn/zhsdmqrmzfmhwz/zwgk/yjgl/content/post_3911524.html","http://finance.sina.com.cn/roll/2026-11-08/doc-inixzpau3667350.shtml"],"created":1794627264,"id":"chatcmpl-2abebaa0-2db7-4db5-8d2d-c063ba9bc651","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"1]，与加沙问题"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://www.doumen.gov.cn/zhsdmqrmzfmhwz/zwgk/yjgl/content/post_3911524.html","http://finance.sina.com.cn/roll/2026-11-08/doc-inixzpau3667350.shtml"],"created":1794627264,"id":"chatcmpl-2abebaa0-2db7-4db5-8d2d-c063ba9bc651","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"无关，"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://www.doumen.gov.cn/zhsdmqrmzfmhwz/zwgk/yjgl/content/post_3911524.html","http://finance.sina.com.cn/roll/2026-11-08/doc-inixzpau3667350.shtml"],"created":1794627264,"id":"chatcmpl-2abebaa0-2db7-4db5-8d2d-c063ba9bc651","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"因此不能用于回答"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://www.doumen.gov.cn/zhsdmqrmzfmhwz/zwgk/yjgl/content/post_3911524.html","http://finance.sina.com.cn/roll/2026-11-08/doc-inixzpau3667350.shtml"],"created":1794627264,"id":"chatcmpl-2abebaa0-2db7-4db5-8d2d-c063ba9bc651","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"。关于"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://www.doumen.gov.cn/zhsdmqrmzfmhwz/zwgk/yjgl/content/post_3911524.html","http://finance.sina.com.cn/roll/2026-11-08/doc-inixzpau3667350.shtml"],"created":1794627264,"id":"chatcmpl-2abebaa0-2db7-4db5-8d2d-c063ba9bc651","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"“"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://www.doumen.gov.cn/zhsdmqrmzfmhwz/zwgk/yjgl/content/post_3911524.html","http://finance.sina.com.cn/roll/2026-11-08/doc-inixzpau3667350.shtml"],"created":1794627264,"id":"chatcmpl-2abebaa0-2db7-4db5-8d2d-c063ba9bc651","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"2026年11"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://www.doumen.gov.cn/zhsdmqrmzfmhwz/zwgk/yjgl/content/post_3911524.html","http://finance.sina.com.cn/roll/2026-11-08/doc-inixzpau3667350.shtml"],"created":1794627264,"id":"chatcmpl-2abebaa0-2db7-4db5-8d2d-c063ba9bc651","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"月初”的独立"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://www.doumen.gov.cn/zhsdmqrmzfmhwz/zwgk/yjgl/content/post_3911524.html","http://finance.sina.com.cn/roll/2026-11-08/doc-inixzpau3667350.shtml"],"created":1794627264,"id":"chatcmpl-2abebaa0-2db7-4db5-8d2d-c063ba9bc651","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"最新数据，现有检索"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://www.doumen.gov.cn/zhsdmqrmzfmhwz/zwgk/yjgl/content/post_3911524.html","http://finance.sina.com.cn/roll/2026-11-08/doc-inixzpau3667350.shtml"],"created":1794627264,"id":"chatcmpl-2abebaa0-2db7-4db5-8d2d-c063ba9bc651","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"资料不足"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://www.doumen.gov.cn/zhsdmqrmzfmhwz/zwgk/yjgl/content/post_3911524.html","http://finance.sina.com.cn/roll/2026-11-08/doc-inixzpau3667350.shtml"],"created":1794627264,"id":"chatcmpl-2abebaa0-2db7-4db5-8d2d-c063ba9bc651","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"，无法确认上述"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://www.doumen.gov.cn/zhsdmqrmzfmhwz/zwgk/yjgl/content/post_3911524.html","http://finance.sina.com.cn/roll/2026-11-08/doc-inixzpau3667350.shtml"],"created":1794627264,"id":"chatcmpl-2abebaa0-2db7-4db5-8d2d-c063ba9bc651","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"伤亡"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://www.doumen.gov.cn/zhsdmqrmzfmhwz/zwgk/yjgl/content/post_3911524.html","http://finance.sina.com.cn/roll/2026-11-08/doc-inixzpau3667350.shtml"],"created":1794627264,"id":"chatcmpl-2abebaa0-2db7-4db5-8d2d-c063ba9bc651","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"和损失"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://www.doumen.gov.cn/zhsdmqrmzfmhwz/zwgk/yjgl/content/post_3911524.html","http://finance.sina.com.cn/roll/2026-11-08/doc-inixzpau3667350.shtml"],"created":1794627264,"id":"chatcmpl-2abebaa0-2db7-4db5-8d2d-c063ba9bc651","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"数字是否属于2026年"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://www.doumen.gov.cn/zhsdmqrmzfmhwz/zwgk/yjgl/content/post_3911524.html","http://finance.sina.com.cn/roll/2026-11-08/doc-inixzpau3667350.shtml"],"created":1794627264,"id":"chatcmpl-2abebaa0-2db7-4db5-8d2d-c063ba9bc651","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"11月；上述"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://www.doumen.gov.cn/zhsdmqrmzfmhwz/zwgk/yjgl/content/post_3911524.html","http://finance.sina.com.cn/roll/2026-11-08/doc-inixzpau3667350.shtml"],"created":1794627264,"id":"chatcmpl-2abebaa0-2db7-4db5-8d2d-c063ba9bc651","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"内容"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://www.doumen.gov.cn/zhsdmqrmzfmhwz/zwgk/yjgl/content/post_3911524.html","http://finance.sina.com.cn/roll/2026-11-08/doc-inixzpau3667350.shtml"],"created":1794627264,"id":"chatcmpl-2abebaa0-2db7-4db5-8d2d-c063ba9bc651","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"应理解为"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://www.doumen.gov.cn/zhsdmqrmzfmhwz/zwgk/yjgl/content/post_3911524.html","http://finance.sina.com.cn/roll/2026-11-08/doc-inixzpau3667350.shtml"],"created":1794627264,"id":"chatcmpl-2abebaa0-2db7-4db5-8d2d-c063ba9bc651","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"检索"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://www.doumen.gov.cn/zhsdmqrmzfmhwz/zwgk/yjgl/content/post_3911524.html","http://finance.sina.com.cn/roll/2026-11-08/doc-inixzpau3667350.shtml"],"created":1794627264,"id":"chatcmpl-2abebaa0-2db7-4db5-8d2d-c063ba9bc651","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"资料所"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://www.doumen.gov.cn/zhsdmqrmzfmhwz/zwgk/yjgl/content/post_3911524.html","http://finance.sina.com.cn/roll/2026-11-08/doc-inixzpau3667350.shtml"],"created":1794627264,"id":"chatcmpl-2abebaa0-2db7-4db5-8d2d-c063ba9bc651","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"反映"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://www.doumen.gov.cn/zhsdmqrmzfmhwz/zwgk/yjgl/content/post_3911524.html","http://finance.sina.com.cn/roll/2026-11-08/doc-inixzpau3667350.shtml"],"created":1794627264,"id":"chatcmpl-2abebaa0-2db7-4db5-8d2d-c063ba9bc651","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"的停火"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://www.doumen.gov.cn/zhsdmqrmzfmhwz/zwgk/yjgl/content/post_3911524.html","http://finance.sina.com.cn/roll/2026-11-08/doc-inixzpau3667350.shtml"],"created":1794627264,"id":"chatcmpl-2abebaa0-2db7-4db5-8d2d-c063ba9bc651","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"后阶段"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://www.doumen.gov.cn/zhsdmqrmzfmhwz/zwgk/yjgl/content/post_3911524.html","http://finance.sina.com.cn/roll/2026-11-08/doc-inixzpau3667350.shtml"],"created":1794627264,"id":"chatcmpl-2abebaa0-2db7-4db5-8d2d-c063ba9bc651","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"情况，而非严格"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://www.doumen.gov.cn/zhsdmqrmzfmhwz/zwgk/yjgl/content/post_3911524.html","http://finance.sina.com.cn/roll/2026-11-08/doc-inixzpau3667350.shtml"],"created":1794627264,"id":"chatcmpl-2abebaa0-2db7-4db5-8d2d-c063ba9bc651","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"对应"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://www.doumen.gov.cn/zhsdmqrmzfmhwz/zwgk/yjgl/content/post_3911524.html","http://finance.sina.com.cn/roll/2026-11-08/doc-inixzpau3667350.shtml"],"created":1794627264,"id":"chatcmpl-2abebaa0-2db7-4db5-8d2d-c063ba9bc651","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"2026年11月初"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://www.doumen.gov.cn/zhsdmqrmzfmhwz/zwgk/yjgl/content/post_3911524.html","http://finance.sina.com.cn/roll/2026-11-08/doc-inixzpau3667350.shtml"],"created":1794627264,"id":"chatcmpl-2abebaa0-2db7-4db5-8d2d-c063ba9bc651","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"的"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://www.doumen.gov.cn/zhsdmqrmzfmhwz/zwgk/yjgl/content/post_3911524.html","http://finance.sina.com.cn/roll/2026-11-08/doc-inixzpau3667350.shtml"],"created":1794627264,"id":"chatcmpl-2abebaa0-2db7-4db5-8d2d-c063ba9bc651","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"确认"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://www.doumen.gov.cn/zhsdmqrmzfmhwz/zwgk/yjgl/content/post_3911524.html","http://finance.sina.com.cn/roll/2026-11-08/doc-inixzpau3667350.shtml"],"created":1794627264,"id":"chatcmpl-2abebaa0-2db7-4db5-8d2d-c063ba9bc651","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"数据["},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://www.doumen.gov.cn/zhsdmqrmzfmhwz/zwgk/yjgl/content/post_3911524.html","http://finance.sina.com.cn/roll/2026-11-08/doc-inixzpau3667350.shtml"],"created":1794627264,"id":"chatcmpl-2abebaa0-2db7-4db5-8d2d-c063ba9bc651","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"4]。"},"finish_reason":"stop","index":0,"logprobs":null}],"citations":["http://www.doumen.gov.cn/zhsdmqrmzfmhwz/zwgk/yjgl/content/post_3911524.html","http://finance.sina.com.cn/roll/2026-11-08/doc-inixzpau3667350.shtml"],"created":1794627264,"id":"chatcmpl-2abebaa0-2db7-4db5-8d2d-c063ba9bc651","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[],"citations":["http://www.doumen.gov.cn/zhsdmqrmzfmhwz/zwgk/yjgl/content/post_3911524.html","http://finance.sina.com.cn/roll/2026-11-08/doc-inixzpau3667350.shtml"],"created":1794627264,"id":"chatcmpl-2abebaa0-2db7-4db5-8d2d-c063ba9bc651","model":"deepseek-flash","object":"chat.completion.chunk","usage":{"completion_tokens":887,"completion_tokens_details":{"reasoning_tokens":482},"prompt_tokens":1111,"prompt_tokens_details":{"cached_tokens":0},"total_tokens":1998}}
+
+data: [DONE]
+

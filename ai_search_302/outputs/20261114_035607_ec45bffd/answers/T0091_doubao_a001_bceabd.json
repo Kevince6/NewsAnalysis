@@ -1,0 +1,57 @@
+{
+  "task_id": "T0091",
+  "model": "doubao",
+  "news_id": "E008",
+  "question_index": 1,
+  "question_original": "【开放】马杜罗夫妇2026年1月被美方带走后，经历了什么？美方文件、中方回应和纽约出庭报道分别给出了哪些信息？",
+  "question": "马杜罗夫妇2026年1月被美方带走后，经历了什么？美方文件、中方回应和纽约出庭报道分别给出了哪些信息？",
+  "attempt": 1,
+  "provider": "302.ai",
+  "model_requested": "doubao-seed-2-1-pro-260628",
+  "query_date": "2026-11-14",
+  "search_service": "metaso",
+  "prompt_version": "news-search-v1",
+  "prompt_sha256": "ea56fd5557d32615a9115f2368a0c4983ff1188f4935369e694d7d46f2493be1",
+  "requested_at": "2026-11-14T11:24:45.704954+08:00",
+  "raw_file": "raw/T0091_doubao_a001_bceabd.json",
+  "transport": "sse",
+  "stream_file": "raw/T0091_doubao_a001_bceabd.sse",
+  "status": "ok",
+  "model_returned": "doubao-seed-2-1-pro-260628",
+  "answer": "根据现有检索到的资料，仅能确认马杜罗夫妇被美方控制后纽约首次出庭环节的具体信息，其余时段经历、美方相关文件内容、中方官方回应均无对应可核实的公开记载，相关信息存在明显缺口：\n一、已核实的纽约出庭情况\n据新华社发自纽约的报道，遭美国强行控制的委内瑞拉总统马杜罗夫妇于美国东部时间2026年1月5日中午，在位于纽约的美国纽约南区联邦地区法院完成首次出庭；庭审过程中，马杜罗明确拒绝了美方提出的所谓“犯罪”指控。庭审结束后，马杜罗乘坐的车辆驶离该法院，相关现场情况由新华社驻当地记者拍摄记录[5]。\n二、现有检索资料未覆盖的内容说明\n1. 关于马杜罗夫妇被美方带走后至首次出庭前的经历：当前检索到的其余两组网页均未记载实质事件信息：其中一组网页仅罗列了2026年1月3日至1月4日的10条国际新闻发布时间戳，无对应新闻标题、正文内容，无法确认这些时间条目是否与马杜罗夫妇相关[3]；另一组网页仅为2026年1月3日至1月6日的日期条目堆叠，没有任何事件描述内容，未提及马杜罗夫妇被控制后的押解路径、羁押安排、前置司法程序等具体经历[4]，目前无法基于现有资料还原该时段的具体情况。\n2. 关于问题提及的美方相关文件内容、中方官方回应信息：本次提供的所有检索结果中均无对应记载，无法给出基于可信信源的准确说明，相关信息有待进一步检索核实。",
+  "sources": [
+    {
+      "index": 1,
+      "url": "https://www.chinanews.com.cn/gj/2026/01-05/10545951.shtml",
+      "title": null,
+      "origin": "citations"
+    },
+    {
+      "index": 2,
+      "url": "https://www.nbd.com.cn/app_features/2423",
+      "title": null,
+      "origin": "citations"
+    },
+    {
+      "index": 3,
+      "url": "http://www.news.cn/20260106/c2858a3a542a48beaabdc26cd53dbb2d/c.html",
+      "title": null,
+      "origin": "citations"
+    }
+  ],
+  "usage": {
+    "completion_tokens": 2380,
+    "completion_tokens_details": {
+      "reasoning_tokens": 2008
+    },
+    "prompt_tokens": 1588,
+    "prompt_tokens_details": {
+      "cached_tokens": 0
+    },
+    "total_tokens": 3968
+  },
+  "finish_reason": "stop",
+  "note": [],
+  "request_id": "71c0b3cc-8e5d-48b8-8aa5-864b427245ec",
+  "duration_seconds": 66.719
+}

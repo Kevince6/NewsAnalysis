@@ -1,0 +1,57 @@
+{
+  "request": {
+    "model": "deepseek-flash",
+    "messages": [
+      {
+        "role": "system",
+        "content": "请联网检索后，用自然中文回答用户的问题。\n先直接回答，再补充理解答案所需的事实、背景或说明；复杂问题可分点，简单问题可简答。\n优先参考与问题直接相关的原始发布、机构公告、当事人回应及可信媒体报道。\n依据检索到的资料作答。资料不足、存在分歧或尚未确认的内容，请明确说明；解释和判断应与已确认的事实区分。\n在相关事实后标注检索来源，沿用检索结果提供的引用编号或标记。\n\n查询日期：2026-11-14（北京时间，UTC+8）。问题中的“现在”“近期”“最新”以此日期为参照；问题明确指定时间范围时，以问题为准。"
+      },
+      {
+        "role": "user",
+        "content": "TikTok美国合资公司成立后，美国用户数据和推荐算法由谁负责，公告具体怎么安排？"
+      }
+    ],
+    "web-search": true,
+    "search-service": "metaso",
+    "search-results": 5,
+    "stream": true,
+    "stream_options": {
+      "include_usage": true
+    }
+  },
+  "response": {
+    "object": "chat.completion",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "根据TikTok公告，美国用户数据和推荐算法的安排可以概括为：**数据本地化存储、由Oracle托管；算法由合资企业基于美国用户数据重新训练和更新，并在Oracle美国云环境中受保护**。具体安排如下：\n\n**1. 美国用户数据：本地存储、Oracle运营**\n公告称，美国用户数据将存储在美国本地系统中，该系统由Oracle运营[citation:1][citation:3]。这意味着数据不存放在境外，而是由美方可信合作方负责基础设施层面的管理。\n\n**2. 推荐算法：合资企业负责重新训练、测试和更新**\n合资企业将利用美国用户数据，对内容推荐算法进行**重新训练、测试和更新**[citation:1][citation:3]。公告特别强调，算法将在Oracle的美国云环境中进行安全保护[citation:3]。由于推荐算法一直是TikTok安全争论的核心问题[citation:1]，这一安排意在回应“算法受外部影响”的担忧。\n\n**3. 软件与源代码：通过协议保护并持续审查**\n合资企业将通过**软件保障协议**保护美国应用程序，并在Oracle协助下，持续审查和验证源代码[citation:3]。这属于配套的技术保障措施。\n\n**4. 运营职责：美国实体管理互操作性与商业活动**\nTikTok全球的美国实体将负责管理全球产品互操作性，以及某些商业活动，包括电子商务、广告和营销[citation:3]。\n\n**需要说明的是**：公告并未详细说明算法重新训练后对美国用户体验的具体影响，目前“尚不清楚这会对美国用户体验产生什么实际效果”，许多用户可能不会察觉到差异，除非出现故障[citation:4]。另有部分用户在Reddit上反映“For You”页面突然出现异常视频，但TikTok将此归因于数据中心断电导致的“级联系统故障”，而非算法调整[citation:4]。因此，算法安排的实际效果仍有待观察。",
+          "reasoning_content": "用户问的是TikTok美国合资公司成立后，美国用户数据和推荐算法由谁负责，公告具体怎么安排。我需要基于提供的搜索结果回答。\n\n搜索结果提供的信息：\n- [webpage 1]：美国用户数据存储在由Oracle运营的本地系统中；合资企业还将聚焦TikTok算法；内容推荐公式将基于美国用户数据重新训练、测试和更新；算法一直是安全辩论的核心问题。\n- [webpage 2]：西班牙语版本，同上。\n- [webpage 3]：详细中文：算法保障方面，合资企业将利用美国用户数据对内容推荐算法进行重新训练、测试和更新；该算法将在Oracle的美国云环境中进行安全保护；软件保障方面，合资企业将通过软件保障协议保护美国应用程序，并在可信安全合作伙伴Oracle协助下持续审查和验证源代码；运营职责方面，TikTok全球的美国实体将负责管理全球产品互操作性以及某些商业活动，包括电子商务、广告和营销。\n- [webpage 4]：TikTok表示新合资企业将\"retrain, test, and update the content recommendation algorithm on US user data\"；目前尚不清楚这会对美国用户体验产生什么实际影响；许多美国用户可能永远不会注意到差异——除非出问题；一些人在Reddit上抱怨For You页面突然充满奇怪视频，猜测与新算法有关；TikTok联系时指向X上的声明称问题是由于数据中心断电导致\"级联系统故障\"。\n\n需要回答：美国用户数据和推荐算法由谁负责，公告具体怎么安排。\n\n要点：\n1. 美国用户数据：存储在当地由Oracle运营的系统中[1][3]。\n2. 推荐算法：合资企业将利用美国用户数据重新训练、测试和更新内容推荐算法[1][3]；算法将在Oracle的美国云环境中进行安全保护[3]。\n3. 软件保障：通过软件保障协议保护美国应用程序，并在Oracle协助下持续审查和验证源代码[3]。\n4. 运营职责：TikTok全球的美国实体负责管理全球产品互操作性及某些商业活动（电商、广告、营销）[3]。\n5. 实际影响尚不明确[4]。\n\n注意：搜索结果没有明确说\"合资公司\"由谁控股等细节，也没有说数据\"由谁负责\"的具体法律实体，但可以说数据存储在Oracle运营的系统，算法由合资企业重新训练测试更新，在Oracle云环境安全保护。\n\n引用格式：[1][3]等。需要在句子末尾引用。\n\n回答语言：中文。\n\n结构：先直接回答，再分点说明数据安排和算法安排，最后补充实际影响尚不明确。\n\n注意引用不要集中在最后，要在对应部分列出。\n\n开始写。"
+        },
+        "finish_reason": "stop"
+      }
+    ],
+    "id": "chatcmpl-26f155d1-27fe-4ee1-9112-eb7c94751283",
+    "model": "deepseek-flash",
+    "created": 1794627589,
+    "citations": [
+      "https://www.npr.org/2026/01/22/nx-s1-5685456/tiktok-finalizes-deal-to-form-new-american-entity#%3A~%3Atext%3DOracle%2C%20Silver%20Lake%20and%20the%2Cbillionaire%20founder%20of%20Dell%20Technologies.",
+      "https://apnews.com/article/tiktok-oracle-venta-acuerdo-eeuu-d894daafd8b94c64ffbf37ec969aa1e7",
+      "https://glosellers.com/57085.html",
+      "https://www.businessoffashion.com/briefings/technology/tiktoks-new-us-algorithm/"
+    ],
+    "usage": {
+      "completion_tokens": 958,
+      "completion_tokens_details": {
+        "reasoning_tokens": 560
+      },
+      "prompt_tokens": 1108,
+      "prompt_tokens_details": {
+        "cached_tokens": 0
+      },
+      "total_tokens": 2066
+    },
+    "_transport": "sse"
+  }
+}

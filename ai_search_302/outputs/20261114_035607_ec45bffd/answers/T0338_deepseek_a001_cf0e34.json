@@ -1,0 +1,51 @@
+{
+  "task_id": "T0338",
+  "model": "deepseek",
+  "news_id": "E028",
+  "question_index": 4,
+  "question_original": "【事实】香港政府2026年10月29日公布的火灾死亡人数、受影响家庭数分别是多少？",
+  "question": "香港政府2026年10月29日公布的火灾死亡人数、受影响家庭数分别是多少？",
+  "attempt": 1,
+  "provider": "302.ai",
+  "model_requested": "deepseek-flash",
+  "query_date": "2026-11-14",
+  "search_service": "metaso",
+  "prompt_version": "news-search-v1",
+  "prompt_sha256": "ea56fd5557d32615a9115f2368a0c4983ff1188f4935369e694d7d46f2493be1",
+  "requested_at": "2026-11-14T12:29:07.433109+08:00",
+  "raw_file": "raw/T0338_deepseek_a001_cf0e34.json",
+  "transport": "sse",
+  "stream_file": "raw/T0338_deepseek_a001_cf0e34.sse",
+  "status": "ok",
+  "model_returned": "deepseek-flash",
+  "answer": "根据现有检索结果，**无法确认香港政府在2026年10月29日公布过火灾死亡人数和受影响家庭数**。检索到的资料均指向**香港大埔宏福苑火灾**，且公布的是“截至11月30日下午4时”的数据，并非2026年10月29日：\n\n- 死亡人数：截至11月30日下午4时，火灾已造成**146人遇难、79人受伤**；警方已确认159名原失联人员安全，仍有约40名失联人员待搜寻[3]。\n- 受影响家庭数：检索结果中**没有提供具体数字**。仅提到政府会为受影响家庭提供临时住宿、安排社工支持，并尽快提供财政援助[2]；另推出“一户一社工”、免费住所等措施支援灾民[3]。\n\n因此，就您问题中的“2026年10月29日”这一时间点，现有资料不足，不能给出死亡人数和受影响家庭数。若您指的是2025年11月大埔宏福苑火灾，也需注意火灾及公布发生在11月，检索结果中没有10月29日的数据。",
+  "sources": [
+    {
+      "index": 1,
+      "url": "https://cj.sina.com.cn/articles/view/1703691672/658c459801901tqju",
+      "title": null,
+      "origin": "citations"
+    },
+    {
+      "index": 2,
+      "url": "https://www.chinanews.com.cn/dwq/2025/12-01/10524069.shtml#%3A~%3Atext%3D%E9%A6%99%E6%B8%AF%E6%96%B0%E7%95%8C%E5%A4%A7%E5%9F%94%E7%81%AB%E7%81%BE%2C%E5%90%84%E7%95%8C%E7%BA%B7%E7%BA%B7%E5%90%8A%E5%94%81%E5%AF%84%E6%89%98%E5%93%80%E6%80%9D%E3%80%82",
+      "title": null,
+      "origin": "citations"
+    }
+  ],
+  "usage": {
+    "completion_tokens": 580,
+    "completion_tokens_details": {
+      "reasoning_tokens": 339
+    },
+    "prompt_tokens": 874,
+    "prompt_tokens_details": {
+      "cached_tokens": 0
+    },
+    "total_tokens": 1454
+  },
+  "finish_reason": "stop",
+  "note": [],
+  "request_id": "325b913b-470f-4e94-b55c-e5b3808f00d4",
+  "duration_seconds": 5.297
+}

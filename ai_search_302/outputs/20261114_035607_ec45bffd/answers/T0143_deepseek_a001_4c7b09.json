@@ -1,0 +1,40 @@
+{
+  "task_id": "T0143",
+  "model": "deepseek",
+  "news_id": "E012",
+  "question_index": 3,
+  "question_original": "【事实】TikTok在美国是哪天暂停、哪天开始恢复服务的？合资公司成立又是什么时候？",
+  "question": "TikTok在美国是哪天暂停、哪天开始恢复服务的？合资公司成立又是什么时候？",
+  "attempt": 1,
+  "provider": "302.ai",
+  "model_requested": "deepseek-flash",
+  "query_date": "2026-11-14",
+  "search_service": "metaso",
+  "prompt_version": "news-search-v1",
+  "prompt_sha256": "ea56fd5557d32615a9115f2368a0c4983ff1188f4935369e694d7d46f2493be1",
+  "requested_at": "2026-11-14T11:40:40.762061+08:00",
+  "raw_file": "raw/T0143_deepseek_a001_4c7b09.json",
+  "transport": "sse",
+  "stream_file": "raw/T0143_deepseek_a001_4c7b09.sse",
+  "status": "needs_review",
+  "model_returned": "deepseek-flash",
+  "answer": "\n\n<tool_search tool_call_id=\"search_1\">\n<query>TikTok 美国 暂停服务 恢复 日期 2025年1月</query>\n</tool_search>\n<tool_search tool_call_id=\"search_2\">\n<query>TikTok 美国 合资公司 成立 时间</query>\n</tool_search>\n<tool_search tool_call_id=\"search_3\">\n<query>TikTok ban January 19 2025 restored service date</query>\n</tool_search>\n<tool_search tool_call_id=\"search_4\">\n<query>TikTok US joint venture deal 2025 2026</query>\n</tool_search>\n\n<tool_search tool_call_id=\"search_5\">\n<query>TikTok 美国 合资公司 甲骨文 银湖 MGX 成立 2026</query>\n</tool_search>\n<tool_search tool_call_id=\"search_6\">\n<query>TikTok 恢复 服务 2025年1月19日 暂停 1月18日</query>\n</tool_search>\n</tool_search>",
+  "sources": [],
+  "usage": {
+    "prompt_tokens": 193,
+    "completion_tokens": 293,
+    "total_tokens": 486,
+    "prompt_tokens_details": {
+      "cached_tokens": 0
+    },
+    "completion_tokens_details": {
+      "reasoning_tokens": 64
+    }
+  },
+  "finish_reason": "stop",
+  "note": [
+    "未返回平台来源链接；仅凭正文中的链接不能确认搜索是否成功。"
+  ],
+  "request_id": "5122e2ce-6db3-4af8-ba96-9ebaa297030d",
+  "duration_seconds": 5.484
+}

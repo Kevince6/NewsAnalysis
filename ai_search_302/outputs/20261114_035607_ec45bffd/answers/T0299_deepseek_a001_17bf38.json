@@ -1,0 +1,63 @@
+{
+  "task_id": "T0299",
+  "model": "deepseek",
+  "news_id": "E025",
+  "question_index": 3,
+  "question_original": "【事实】2026年4月27日监管部门要求撤销Manus收购交易，这就能证明交易已经撤销完成了吗？",
+  "question": "2026年4月27日监管部门要求撤销Manus收购交易，这就能证明交易已经撤销完成了吗？",
+  "attempt": 1,
+  "provider": "302.ai",
+  "model_requested": "deepseek-flash",
+  "query_date": "2026-11-14",
+  "search_service": "metaso",
+  "prompt_version": "news-search-v1",
+  "prompt_sha256": "ea56fd5557d32615a9115f2368a0c4983ff1188f4935369e694d7d46f2493be1",
+  "requested_at": "2026-11-14T12:17:43.802822+08:00",
+  "raw_file": "raw/T0299_deepseek_a001_17bf38.json",
+  "transport": "sse",
+  "stream_file": "raw/T0299_deepseek_a001_17bf38.sse",
+  "status": "ok",
+  "model_returned": "deepseek-flash",
+  "answer": "不能。**4月27日的监管决定只能证明“监管部门已作出禁止投资、要求撤销交易的决定”，不能单独证明交易在民事和事实层面已经撤销完成。**\n\n具体可分三层看：\n\n1. **4月27日公告的性质是“决定”，不是“执行完毕”**\n   国家发改委外商投资安全审查工作机制办公室当日宣布，对Meta收购Manus项目作出禁止投资决定，并要求当事人撤销该收购交易[citation:2][citation:4]。这是监管层面的禁止性决定，属于“要求撤销”的行政命令；交易是否真正解除、对价是否退回、股权和资产是否恢复原状，还需要后续履行和事实佐证。该案也被称为2020年《外商投资安全审查办法》实施以来首例公开披露的禁止决定[citation:2]。\n\n2. **“要求撤销”与“撤销完成”是两个不同状态**\n   要证明交易已经撤销完成，通常需要看：交易双方是否公告终止、股权/资产交割是否回转、投资款是否退回、工商登记是否恢复、人员与数据是否完成分离等。4月27日之后，公开报道形容“所有交易相关方陷入沉默”[citation:3]，这本身也说明当时并没有同步出现“已完成撤销”的完整公开证据。\n\n3. **后续事实表明撤销安排确有推进，但仍不等于全部完成**\n   检索资料显示，禁令之后Manus与Meta进行了业务分离，并于9月1日恢复独立运营[citation:1]。这说明“撤销/分离”在后续确实有实际动作，比4月27日只是决定阶段更进一步；但“恢复独立运营”也不必然等同于股权、对价、登记等所有事项都已完全恢复原状。现有检索资料没有提供资金退回、登记变更、监管验收等完整证明。\n\n因此，更准确的表述是：**4月27日决定是交易被要求撤销的起点和监管依据，不能单独作为“交易已经撤销完成”的证明；要确认完成，还需交易双方披露、登记与资金回转等后续证据。**",
+  "sources": [
+    {
+      "index": 1,
+      "url": "https://news.qq.com/rain/a/20261009A0AKJZ00",
+      "title": null,
+      "origin": "citations"
+    },
+    {
+      "index": 2,
+      "url": "https://www.cnblogs.com/gyc567/p/19938759",
+      "title": null,
+      "origin": "citations"
+    },
+    {
+      "index": 3,
+      "url": "https://k.sina.cn/article_5953189932_162d6782c06704mceo.html",
+      "title": null,
+      "origin": "citations"
+    },
+    {
+      "index": 4,
+      "url": "https://k.sina.cn/article_5952915705_162d248f906702ujvu.html",
+      "title": null,
+      "origin": "citations"
+    }
+  ],
+  "usage": {
+    "completion_tokens": 1046,
+    "completion_tokens_details": {
+      "reasoning_tokens": 619
+    },
+    "prompt_tokens": 1097,
+    "prompt_tokens_details": {
+      "cached_tokens": 0
+    },
+    "total_tokens": 2143
+  },
+  "finish_reason": "stop",
+  "note": [],
+  "request_id": "8d767768-eeaf-4f5f-a5ec-a191fa81d743",
+  "duration_seconds": 9.609
+}

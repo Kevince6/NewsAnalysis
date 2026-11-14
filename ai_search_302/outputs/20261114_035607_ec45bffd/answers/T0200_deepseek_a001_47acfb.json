@@ -1,0 +1,57 @@
+{
+  "task_id": "T0200",
+  "model": "deepseek",
+  "news_id": "E016",
+  "question_index": 4,
+  "question_original": "【事实】魏家案公布的122亿余元全是诈骗损失吗？",
+  "question": "魏家案公布的122亿余元全是诈骗损失吗？",
+  "attempt": 1,
+  "provider": "302.ai",
+  "model_requested": "deepseek-flash",
+  "query_date": "2026-11-14",
+  "search_service": "metaso",
+  "prompt_version": "news-search-v1",
+  "prompt_sha256": "ea56fd5557d32615a9115f2368a0c4983ff1188f4935369e694d7d46f2493be1",
+  "requested_at": "2026-11-14T11:54:43.979526+08:00",
+  "raw_file": "raw/T0200_deepseek_a001_47acfb.json",
+  "transport": "sse",
+  "stream_file": "raw/T0200_deepseek_a001_47acfb.sse",
+  "status": "ok",
+  "model_returned": "deepseek-flash",
+  "answer": "不能确认。就你提供的检索材料看，**没有“魏家案”公布“122亿余元”的原始通报或判决信息**，因此无法判断这122亿余元是否全部属于“诈骗损失”。[1]\n\n检索结果中与金额相近的，是另一案件披露的“**90.86万余名被害人实际经济损失99.71亿余元**”，并提到“0元购”、华夏万家金服APP、上海斐讯等情节；这与“魏家案”是否同一案件、122亿余元是否同一口径，材料不足以确认。[1]\n\n即便某案公布“122亿余元”，也要看官方原文的表述口径，不能直接等同于“诈骗损失”：\n\n- **“实际经济损失”**：通常指被害人最终未追回的损失，不等同于诈骗行为人全部诈骗所得，也不等同于集资总额。\n- **“涉案金额/集资总额”**：可能包含反复流转、已返还或已兑付部分，不能直接视为损失。\n- **“诈骗数额”**：才是刑法上对诈骗行为认定的金额，与“损失金额”也不是同一概念。\n\n因此，较稳妥的说法是：**现有材料不能证明“魏家案122亿余元全是诈骗损失”**；需要查该案法院判决书、法院或检察机关通报原文，确认122亿余元对应的具体表述是“造成损失”“涉案金额”还是“诈骗数额”。[1]",
+  "sources": [
+    {
+      "index": 1,
+      "url": "http://jssjt.jiangsu.gov.cn/art/2021/12/31/art_59514_10260768.html",
+      "title": null,
+      "origin": "citations"
+    },
+    {
+      "index": 2,
+      "url": "https://www.thepaper.cn/newsDetail_forward_33211102",
+      "title": null,
+      "origin": "citations"
+    },
+    {
+      "index": 3,
+      "url": "https://github.com/bernettcoia/20260718_10/blob/main/20260722_8k1gt.md",
+      "title": null,
+      "origin": "citations"
+    }
+  ],
+  "usage": {
+    "completion_tokens": 1138,
+    "completion_tokens_details": {
+      "reasoning_tokens": 836
+    },
+    "prompt_tokens": 1093,
+    "prompt_tokens_details": {
+      "cached_tokens": 0
+    },
+    "total_tokens": 2231
+  },
+  "finish_reason": "stop",
+  "note": [],
+  "request_id": "69ae533f-f826-4f97-81ec-7c78dcb41b49",
+  "duration_seconds": 8.86
+}

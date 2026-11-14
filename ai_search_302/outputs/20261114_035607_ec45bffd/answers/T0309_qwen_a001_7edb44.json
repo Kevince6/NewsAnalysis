@@ -1,0 +1,65 @@
+{
+  "task_id": "T0309",
+  "model": "qwen",
+  "news_id": "E026",
+  "question_index": 3,
+  "question_original": "【事实】那次被误报成9.9级的实际地震发生在哪里，震级和震源深度各是多少？",
+  "question": "那次被误报成9.9级的实际地震发生在哪里，震级和震源深度各是多少？",
+  "attempt": 1,
+  "provider": "302.ai",
+  "model_requested": "qwen3.8-max",
+  "query_date": "2026-11-14",
+  "search_service": "metaso",
+  "prompt_version": "news-search-v1",
+  "prompt_sha256": "ea56fd5557d32615a9115f2368a0c4983ff1188f4935369e694d7d46f2493be1",
+  "requested_at": "2026-11-14T12:20:34.017112+08:00",
+  "raw_file": "raw/T0309_qwen_a001_7edb44.json",
+  "transport": "sse",
+  "stream_file": "raw/T0309_qwen_a001_7edb44.sse",
+  "status": "ok",
+  "model_returned": "qwen3.8-max",
+  "answer": "那次被误报为“9.9级”的相关实际地震，检索到的信息显示为：**俄罗斯堪察加半岛发生6.9级地震，震源深度约150千米**[5]。\n\n补充背景：日本气象厅曾发布“千岛群岛地区发生9.9级地震”的紧急地震速报，随后取消，并在记者会上说明初步判断为误判，具体原因仍在调查[5]。",
+  "sources": [
+    {
+      "index": 1,
+      "url": "https://www.cnr.cn/newscenter/native/gd/kx/20250216/t20250216_527073164.shtml",
+      "title": null,
+      "origin": "citations"
+    },
+    {
+      "index": 2,
+      "url": "https://www.jiemian.com/article/12354440.html",
+      "title": null,
+      "origin": "citations"
+    },
+    {
+      "index": 3,
+      "url": "https://www.chinanews.com.cn/sh/2025/02-16/10369501.shtml",
+      "title": null,
+      "origin": "citations"
+    },
+    {
+      "index": 4,
+      "url": "https://www.jiemian.com/article/15198771.html",
+      "title": null,
+      "origin": "citations"
+    }
+  ],
+  "usage": {
+    "completion_tokens": 1875,
+    "completion_tokens_details": {
+      "reasoning_tokens": 1780,
+      "text_tokens": 1875
+    },
+    "prompt_tokens": 1341,
+    "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "text_tokens": 1341
+    },
+    "total_tokens": 3216
+  },
+  "finish_reason": "stop",
+  "note": [],
+  "request_id": "df1f0706-4f87-488a-8f37-69d97c3c4c4f",
+  "duration_seconds": 46.563
+}

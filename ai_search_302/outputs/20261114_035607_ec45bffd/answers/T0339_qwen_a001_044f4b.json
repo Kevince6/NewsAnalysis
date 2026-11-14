@@ -1,0 +1,59 @@
+{
+  "task_id": "T0339",
+  "model": "qwen",
+  "news_id": "E028",
+  "question_index": 4,
+  "question_original": "【事实】香港政府2026年10月29日公布的火灾死亡人数、受影响家庭数分别是多少？",
+  "question": "香港政府2026年10月29日公布的火灾死亡人数、受影响家庭数分别是多少？",
+  "attempt": 1,
+  "provider": "302.ai",
+  "model_requested": "qwen3.8-max",
+  "query_date": "2026-11-14",
+  "search_service": "metaso",
+  "prompt_version": "news-search-v1",
+  "prompt_sha256": "ea56fd5557d32615a9115f2368a0c4983ff1188f4935369e694d7d46f2493be1",
+  "requested_at": "2026-11-14T12:29:08.479389+08:00",
+  "raw_file": "raw/T0339_qwen_a001_044f4b.json",
+  "transport": "sse",
+  "stream_file": "raw/T0339_qwen_a001_044f4b.sse",
+  "status": "ok",
+  "model_returned": "qwen3.8-max",
+  "answer": "根据检索到的港府新闻处数据，2026年10月29日公布的火灾死亡人数为**9人**；受影响家庭数为**约360个受影响家庭登记**[4]。\n\n补充信息：该数据为“截至傍晚”的统计，伤者共有34人，其中6人情况危殆、4人伤情严重[4]。相关受影响家庭登记，是在民政事务总署与多个港府部门联手设立的救助站接获的[4]；政府同时已启动紧急事故监察及支援中心，并在现场设立援助站、安排受影响人士入住临时庇护中心及提供情绪支援[5]。",
+  "sources": [
+    {
+      "index": 1,
+      "url": "https://www.chinanews.com.cn/dwq/2025/12-01/10524069.shtml#%3A~%3Atext%3D%E9%A6%99%E6%B8%AF%E6%96%B0%E7%95%8C%E5%A4%A7%E5%9F%94%E7%81%AB%E7%81%BE%2C%E5%90%84%E7%95%8C%E7%BA%B7%E7%BA%B7%E5%90%8A%E5%94%81%E5%AF%84%E6%89%98%E5%93%80%E6%80%9D%E3%80%82",
+      "title": null,
+      "origin": "citations"
+    },
+    {
+      "index": 2,
+      "url": "http://news.hexun.com/2011-11-30/135856223.html",
+      "title": null,
+      "origin": "citations"
+    },
+    {
+      "index": 3,
+      "url": "https://www.163.com/dy/article/KFAPN9VB05486XZP.html",
+      "title": null,
+      "origin": "citations"
+    }
+  ],
+  "usage": {
+    "completion_tokens": 1408,
+    "completion_tokens_details": {
+      "reasoning_tokens": 1266,
+      "text_tokens": 1408
+    },
+    "prompt_tokens": 1075,
+    "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "text_tokens": 1075
+    },
+    "total_tokens": 2483
+  },
+  "finish_reason": "stop",
+  "note": [],
+  "request_id": "be6cd167-ac10-470e-ac87-166dda816eb9",
+  "duration_seconds": 36.75
+}

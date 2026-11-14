@@ -1,0 +1,63 @@
+{
+  "task_id": "T0226",
+  "model": "doubao",
+  "news_id": "E019",
+  "question_index": 1,
+  "question_original": "【开放】武汉大学图书馆事件后来有什么结果？法院判决、男生处分和女生学位这几件事分别怎么处理？",
+  "question": "武汉大学图书馆事件后来有什么结果？法院判决、男生处分和女生学位这几件事分别怎么处理？",
+  "attempt": 1,
+  "provider": "302.ai",
+  "model_requested": "doubao-seed-2-1-pro-260628",
+  "query_date": "2026-11-14",
+  "search_service": "metaso",
+  "prompt_version": "news-search-v1",
+  "prompt_sha256": "ea56fd5557d32615a9115f2368a0c4983ff1188f4935369e694d7d46f2493be1",
+  "requested_at": "2026-11-14T12:03:15.027869+08:00",
+  "raw_file": "raw/T0226_doubao_a001_51b992.json",
+  "transport": "sse",
+  "stream_file": "raw/T0226_doubao_a001_51b992.sse",
+  "status": "ok",
+  "model_returned": "doubao-seed-2-1-pro-260628",
+  "answer": "根据检索到的事件后续通报、司法进展信息，武汉大学图书馆事件经学校调查复核、司法程序审理后已基本形成定论，你关心的几个具体事项处理结果如下：\n1.  **涉事男生的处分处理**：武汉大学正式发布事件调查复核情况通报，撤销了此前对涉事男生肖某瑫（肖某某）作出的记过处分，纠正了原先的不当处理决定[1][2]。\n2.  **涉事女生的学位处理**：从公开的复核结果信息来看，本次调查未对涉事女生杨某媛作出撤销学位的处理，维持了她的学位资格，相关网络信息提及她涉及的论文问题未被认定为达到需要撤销学位的情形[1][2]。\n3.  **法院相关判决结果**：事件关联的司法程序中，杨某媛提起的上诉被法院依法驳回，法院作出维持原判的判定，意味着该事件在司法层面形成了终局结论[2]。\n\n在对当事人相关处理调整之外，学校同步启动了内部问责：对在原事件处分过程中履职不到位、工作存在疏漏的相关责任领导，均给予党内警告处分，涉及的相关责任部门被责令提交书面检查并落实整改要求[5]。\n\n### 补充说明\n该事件前后处置周期长达两年，有观点认为，事件的漫长处置过程给涉事男生的学业、家庭、心理都造成了十分严重的负面影响，目前的处理结果仍有不足，学校和涉事女方应当向男生公开赔礼道歉，并给予相应的经济赔偿来弥补其实际损失，但这部分主张属于公众提出的完善建议，并非官方公布的正式处理内容[5]。目前检索到的信息中部分来自网络自媒体对事件结果的转述，涉及女生学位认定细节、司法判决具体内容等信息，最终以武汉大学、审理法院公开发布的正式文件为准；另有部分检索结果为无文字说明的图片链接，无法提取有效信息作为参考。",
+  "sources": [
+    {
+      "index": 1,
+      "url": "https://www.bilibili.com/video/BV1Atb8zmEnw/",
+      "title": null,
+      "origin": "citations"
+    },
+    {
+      "index": 2,
+      "url": "https://www.bilibili.com/video/BV14hpQzYEuo/",
+      "title": null,
+      "origin": "citations"
+    },
+    {
+      "index": 3,
+      "url": "https://finance.sina.cn/2025-08-03/detail-infitnsu9398413.d.html?vt=4",
+      "title": null,
+      "origin": "citations"
+    },
+    {
+      "index": 4,
+      "url": "https://www.sina.cn/news/detail/5212892626421971.html",
+      "title": null,
+      "origin": "citations"
+    }
+  ],
+  "usage": {
+    "completion_tokens": 3709,
+    "completion_tokens_details": {
+      "reasoning_tokens": 3281
+    },
+    "prompt_tokens": 1314,
+    "prompt_tokens_details": {
+      "cached_tokens": 0
+    },
+    "total_tokens": 5023
+  },
+  "finish_reason": "stop",
+  "note": [],
+  "request_id": "111691a2-033e-4b20-8797-82e1c3ee24aa",
+  "duration_seconds": 82.016
+}

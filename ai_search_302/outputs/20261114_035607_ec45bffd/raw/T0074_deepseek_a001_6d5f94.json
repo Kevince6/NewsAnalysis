@@ -1,0 +1,54 @@
+{
+  "request": {
+    "model": "deepseek-flash",
+    "messages": [
+      {
+        "role": "system",
+        "content": "请联网检索后，用自然中文回答用户的问题。\n先直接回答，再补充理解答案所需的事实、背景或说明；复杂问题可分点，简单问题可简答。\n优先参考与问题直接相关的原始发布、机构公告、当事人回应及可信媒体报道。\n依据检索到的资料作答。资料不足、存在分歧或尚未确认的内容，请明确说明；解释和判断应与已确认的事实区分。\n在相关事实后标注检索来源，沿用检索结果提供的引用编号或标记。\n\n查询日期：2026-11-14（北京时间，UTC+8）。问题中的“现在”“近期”“最新”以此日期为参照；问题明确指定时间范围时，以问题为准。"
+      },
+      {
+        "role": "user",
+        "content": "美伊在2026年6月哪天宣布达成停战谅解备忘录？当时计划哪天正式签署？"
+      }
+    ],
+    "web-search": true,
+    "search-service": "metaso",
+    "search-results": 5,
+    "stream": true,
+    "stream_options": {
+      "include_usage": true
+    }
+  },
+  "response": {
+    "object": "chat.completion",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "美伊于 **2026年6月14日**宣布达成停战谅解备忘录；按照当时的安排，正式签署仪式定于 **6月19日**在瑞士举行[2]。\n\n补充背景：据伊朗媒体报道，6月15日伊朗外交部副部长加里巴巴迪确认，伊美谅解备忘录文本已经最终确定，这份备忘录被称为“伊斯兰堡备忘录”；加里巴巴迪还表示，在停火、美国解除海上封锁、伊朗遭冻结资产开始解冻之后，双方将进入为期60天的谈判期，磋商最终协议[2]。这说明6月19日是当时公布的签署计划日期，而实际签署情况如何，现有检索资料未作进一步说明。",
+          "reasoning_content": "用户问：美伊在2026年6月哪天宣布达成停战谅解备忘录？当时计划哪天正式签署？\n\n搜索结果显示：2026年6月14日宣布达成停战谅解备忘录[webpage 2]。6月15日伊朗媒体报道，签署仪式将于19日在瑞士举行[webpage 2]。\n\n需要引用。答案简短。注意检索结果只有一个网页，但用户要求综合多个网页——只有一个可用。直接回答即可。\n\n注意日期：宣布是6月14日，计划签署是6月19日（在瑞士）。署名\"伊斯兰堡备忘录\"。\n\n补充：6月15日加里巴巴迪确认文本最终确定。60天谈判期等。要说明这些来自检索资料。"
+        },
+        "finish_reason": "stop"
+      }
+    ],
+    "id": "chatcmpl-eaa2cf51-5416-4466-89d9-8fa931307c61",
+    "model": "deepseek-flash",
+    "created": 1794626359,
+    "citations": [
+      "https://baike.baidu.com/item/%E7%BE%8E%E4%BC%8A%E5%81%9C%E6%88%98%E8%B0%85%E8%A7%A3%E5%A4%87%E5%BF%98%E5%BD%95/67641986?fromModule=lemma_inlink"
+    ],
+    "usage": {
+      "completion_tokens": 294,
+      "completion_tokens_details": {
+        "reasoning_tokens": 149
+      },
+      "prompt_tokens": 724,
+      "prompt_tokens_details": {
+        "cached_tokens": 0
+      },
+      "total_tokens": 1018
+    },
+    "_transport": "sse"
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "task_id": "T0283",
+  "model": "doubao",
+  "news_id": "E024",
+  "question_index": 2,
+  "question_original": "【开放】王星1月7日被接回、1月11日又回国，这两个日期为什么不一样？分别发生了什么？",
+  "question": "王星1月7日被接回、1月11日又回国，这两个日期为什么不一样？分别发生了什么？",
+  "attempt": 1,
+  "provider": "302.ai",
+  "model_requested": "doubao-seed-2-1-pro-260628",
+  "query_date": "2026-11-14",
+  "search_service": "metaso",
+  "prompt_version": "news-search-v1",
+  "prompt_sha256": "ea56fd5557d32615a9115f2368a0c4983ff1188f4935369e694d7d46f2493be1",
+  "requested_at": "2026-11-14T12:14:12.763357+08:00",
+  "raw_file": "raw/T0283_doubao_a001_7e0c21.json",
+  "transport": "sse",
+  "stream_file": "raw/T0283_doubao_a001_7e0c21.sse",
+  "status": "ok",
+  "model_returned": "doubao-seed-2-1-pro-260628",
+  "answer": "根据当前提供的检索资料，未查询到与“王星1月7日被接回、1月11日回国”事件相关的有效信息，无法解释两个日期存在差异的原因，也无法核实两个时间点分别发生的具体事件。\n需要说明的是，现有检索资料仅围绕家庭养老场景展开，分析了父母在养老问题上选择“有儿找女”做法的三类潜在问题：一是通过情绪价值引导实现情感绑架与责任转嫁，二是存在“家产归儿、养老找女”的权利义务不对等的资源分配错位问题，三是易因责任、财产划分不清损害兄弟姐妹关系，相关内容与您询问的王星相关事件无关联[2]。若需要准确解答该问题，建议补充对应事件的权威检索资料后再查询。",
+  "sources": [
+    {
+      "index": 1,
+      "url": "https://k.sina.cn/article_7880068208_1d5b04c7006801k2j0.html",
+      "title": null,
+      "origin": "citations"
+    }
+  ],
+  "usage": {
+    "completion_tokens": 830,
+    "completion_tokens_details": {
+      "reasoning_tokens": 657
+    },
+    "prompt_tokens": 935,
+    "prompt_tokens_details": {
+      "cached_tokens": 0
+    },
+    "total_tokens": 1765
+  },
+  "finish_reason": "stop",
+  "note": [],
+  "request_id": "ead1a12b-ced4-4b4c-836e-820a1cbb815d",
+  "duration_seconds": 24.265
+}

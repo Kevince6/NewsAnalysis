@@ -1,0 +1,53 @@
+{
+  "task_id": "T0084",
+  "model": "qwen",
+  "news_id": "E007",
+  "question_index": 2,
+  "question_original": "【开放】欧洲新闻里既有政府债务比例，又有财政赤字比例，这两组数字分别说的是什么？",
+  "question": "欧洲新闻里既有政府债务比例，又有财政赤字比例，这两组数字分别说的是什么？",
+  "attempt": 1,
+  "provider": "302.ai",
+  "model_requested": "qwen3.8-max",
+  "query_date": "2026-11-14",
+  "search_service": "metaso",
+  "prompt_version": "news-search-v1",
+  "prompt_sha256": "ea56fd5557d32615a9115f2368a0c4983ff1188f4935369e694d7d46f2493be1",
+  "requested_at": "2026-11-14T11:21:50.369311+08:00",
+  "raw_file": "raw/T0084_qwen_a001_c8ca80.json",
+  "transport": "sse",
+  "stream_file": "raw/T0084_qwen_a001_c8ca80.sse",
+  "status": "ok",
+  "model_returned": "qwen3.8-max",
+  "answer": "这两组数字说的是**两件不同但相关的事**：  \n\n- **财政赤字比例**：指某一年政府“花的钱”超过“收的钱”的缺口，占当年 GDP 的比重。它是一个**年度流量指标**，反映政府当年财政是偏松还是偏紧、是否需要新增借债。新闻里常说的“赤字率”就是这个概念。比如法国 2025 年财政赤字占 GDP 的 5.1%[5]。  \n\n- **政府债务比例**：指到某个时点为止，政府尚未偿还的债务总额，占 GDP 的比重。它是一个**存量指标**，反映多年来政府累积下来的负债规模。比如欧盟统计局 2026 年 7 月发布的数据显示，今年一季度欧元区政府债务占 GDP 比例为 88.9%，欧盟为 82.9%[5]。  \n\n可以这样理解：  \n\n1. **赤字是“今年新增的缺口”，债务是“历年累积的总账”。**  \n   如果政府年年赤字，就需要借钱补缺口，债务规模通常会被推高；但如果某年赤字缩小，债务也不一定立刻下降，因为旧债仍在，还要付利息。  \n\n2. **两个指标可能背离。**  \n   一个国家可能**债务比例很高**，但当年**赤字比例不大**，说明历史包袱重但当年财政相对克制；也可能**债务比例还不高**，但**赤字比例很大**，说明正在快速积累负债。  \n\n3. **欧盟为什么常同时看这两个数？**  \n   因为一个看“当年财政纪律”，一个看“长期偿债压力”。按《马斯特里赫特条约》和欧盟财政规则，成员国年度财政赤字原则上不应超过 GDP 的 3%，政府债务不应超过 GDP 的 60%[2][5]。  \n\n4. **新闻里举的例子分别对应这两个指标。**  \n   比如希腊、意大利、法国目前债务水平较高，债务占 GDP 比例分别为 143.5%、138.9%、117.6%[5]；而法国 2025 年财政赤字占 GDP 的 5.1%，说的是赤字率[5]。早期数据里，2004 年欧盟财政赤字从 2.9%降至 2.6%，说的也是赤字率变化[2]。  \n\n简言之：**财政赤字比例看“当年借了多少钱”，政府债务比例看“总共欠了多少钱”。**",
+  "sources": [
+    {
+      "index": 1,
+      "url": "https://finance.sina.cn/sa/2005-03-21/detail-ikkntiak8846118.d.html",
+      "title": null,
+      "origin": "citations"
+    },
+    {
+      "index": 2,
+      "url": "https://www.workercn.cn/c/2026-09-03/8884101.shtml",
+      "title": null,
+      "origin": "citations"
+    }
+  ],
+  "usage": {
+    "completion_tokens": 1540,
+    "completion_tokens_details": {
+      "reasoning_tokens": 1010,
+      "text_tokens": 1540
+    },
+    "prompt_tokens": 1087,
+    "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "text_tokens": 1087
+    },
+    "total_tokens": 2627
+  },
+  "finish_reason": "stop",
+  "note": [],
+  "request_id": "6c061ad4-b650-497e-a1c7-cbc085da51fb",
+  "duration_seconds": 43.297
+}

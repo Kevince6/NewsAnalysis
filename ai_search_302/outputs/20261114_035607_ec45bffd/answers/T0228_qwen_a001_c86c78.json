@@ -1,0 +1,65 @@
+{
+  "task_id": "T0228",
+  "model": "qwen",
+  "news_id": "E019",
+  "question_index": 1,
+  "question_original": "【开放】武汉大学图书馆事件后来有什么结果？法院判决、男生处分和女生学位这几件事分别怎么处理？",
+  "question": "武汉大学图书馆事件后来有什么结果？法院判决、男生处分和女生学位这几件事分别怎么处理？",
+  "attempt": 1,
+  "provider": "302.ai",
+  "model_requested": "qwen3.8-max",
+  "query_date": "2026-11-14",
+  "search_service": "metaso",
+  "prompt_version": "news-search-v1",
+  "prompt_sha256": "ea56fd5557d32615a9115f2368a0c4983ff1188f4935369e694d7d46f2493be1",
+  "requested_at": "2026-11-14T12:03:34.391829+08:00",
+  "raw_file": "raw/T0228_qwen_a001_c86c78.json",
+  "transport": "sse",
+  "stream_file": "raw/T0228_qwen_a001_c86c78.sse",
+  "status": "ok",
+  "model_returned": "qwen3.8-max",
+  "answer": "根据检索到的网络信息，武汉大学“图书馆事件”后续大致结果是：**学校复核后撤销了对涉事男生的记过处分；涉事女生的学位未被取消、基本维持；司法程序中女生的上诉被驳回，维持原判；同时学校对相关责任人进行了问责。**[1][2][5]\n\n分别看你问的三件事：\n\n1. **法院判决：女生上诉被驳回，维持原判**  \n   检索信息称，涉事女生一方的上诉被法院驳回，结果为“维持原判”。[2]另有文章称此事在法院和学校层面已经“盖棺定论”。[5]不过，现有检索材料没有展开说明原判的具体内容、案由或裁判理由，因此只能确认“上诉被驳回、维持原判”这一结果。\n\n2. **男生处分：撤销记过处分**  \n   武汉大学后续通报图书馆事件调查复核情况，决定撤销对涉事男生的记过处分；检索信息中写作“撤销肖某某记过处分”或“撤销肖某瑫记过处分”。[1][2]\n\n3. **女生学位：学位未被取消，检索信息称“保住/维持”**  \n   多篇检索信息称，学校最终没有取消涉事女生学位，表述为“保住女生的学位”或“维持女生学位”。[1][2]其中有材料提到“论文问题不大”等说法，但关于论文是否违规、学位是否经过专门复核等细节，检索资料中并未给出完整说明。[1]\n\n此外，事件后续还涉及**问责处理**：对当时作出处分决定、工作不到位的相关责任领导给予党内警告，相关部门被责令书面检查并整改；整体表述为“多人被问责”。[5][1][2]\n\n补充一点：检索资料中也有评论认为，事件持续两年，对当事男生造成了较大影响，学校和当事女方还应公开道歉并给予经济赔偿；但这属于文章观点或主张，并不是目前检索信息中确认的官方处理结果。[5]",
+  "sources": [
+    {
+      "index": 1,
+      "url": "https://www.bilibili.com/video/BV1Atb8zmEnw/",
+      "title": null,
+      "origin": "citations"
+    },
+    {
+      "index": 2,
+      "url": "https://www.bilibili.com/video/BV14hpQzYEuo/",
+      "title": null,
+      "origin": "citations"
+    },
+    {
+      "index": 3,
+      "url": "https://finance.sina.cn/2025-08-03/detail-infitnsu9398413.d.html?vt=4",
+      "title": null,
+      "origin": "citations"
+    },
+    {
+      "index": 4,
+      "url": "https://www.sina.cn/news/detail/5212892626421971.html",
+      "title": null,
+      "origin": "citations"
+    }
+  ],
+  "usage": {
+    "completion_tokens": 2208,
+    "completion_tokens_details": {
+      "reasoning_tokens": 1795,
+      "text_tokens": 2208
+    },
+    "prompt_tokens": 1244,
+    "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "text_tokens": 1244
+    },
+    "total_tokens": 3452
+  },
+  "finish_reason": "stop",
+  "note": [],
+  "request_id": "d5b4c001-a3ad-419e-bc39-a23f29a66f8f",
+  "duration_seconds": 50.64
+}

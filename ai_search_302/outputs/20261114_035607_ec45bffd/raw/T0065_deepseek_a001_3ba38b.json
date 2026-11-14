@@ -1,0 +1,56 @@
+{
+  "request": {
+    "model": "deepseek-flash",
+    "messages": [
+      {
+        "role": "system",
+        "content": "请联网检索后，用自然中文回答用户的问题。\n先直接回答，再补充理解答案所需的事实、背景或说明；复杂问题可分点，简单问题可简答。\n优先参考与问题直接相关的原始发布、机构公告、当事人回应及可信媒体报道。\n依据检索到的资料作答。资料不足、存在分歧或尚未确认的内容，请明确说明；解释和判断应与已确认的事实区分。\n在相关事实后标注检索来源，沿用检索结果提供的引用编号或标记。\n\n查询日期：2026-11-14（北京时间，UTC+8）。问题中的“现在”“近期”“最新”以此日期为参照；问题明确指定时间范围时，以问题为准。"
+      },
+      {
+        "role": "user",
+        "content": "2026年11月，谁宣布挑战舒默、争夺下一届参议院民主党领袖？党内投票安排在什么时候？"
+      }
+    ],
+    "web-search": true,
+    "search-service": "metaso",
+    "search-results": 5,
+    "stream": true,
+    "stream_options": {
+      "include_usage": true
+    }
+  },
+  "response": {
+    "object": "chat.completion",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "**宣布挑战舒默的是民主党籍联邦参议员克里斯·范霍伦（Chris Van Hollen）。** 他于2026年11月12日宣布，将在参议院民主党领袖选举中挑战已连任近10年的查克·舒默[1]。\n\n关于党内投票时间，目前检索到的信息只说明：参议院领袖“通常在11月大选后通过无记名投票选出”[3]；但**具体投票日期尚未见明确公布**。因此可以确认投票安排在大选后，但不能据此断定确切日期。",
+          "reasoning_content": "用户问：2026年11月，谁宣布挑战舒默、争夺下一届参议院民主党领袖？党内投票安排在什么时候？\n\n根据搜索结果[1]：克里斯·范霍伦（Chris Van Hollen）11月12日宣布将在参议院民主党领袖选举中挑战舒默。\n\n投票时间：搜索结果[3]说\"参议院领袖通常在11月大选后通过无记名投票选出\"。这是通常情况，但具体安排时间未明确。需要说明搜索结果未提供具体日期，只说通常在大选后。\n\n需要区分事实和推断。回答：范霍伦；投票具体日期检索结果未明确，只提到通常在11月大选后以无记名投票方式选出。\n\n要引用[1][3]。注意不要过度补充。中文回答。"
+        },
+        "finish_reason": "stop"
+      }
+    ],
+    "id": "chatcmpl-e222d9a5-b91c-4f16-8638-b7d70c5d7b3b",
+    "model": "deepseek-flash",
+    "created": 1794626155,
+    "citations": [
+      "http://www.news.cn/world/20261113/ae117a62d5e74d219a5d48ce8e822ba5/c.html",
+      "https://ishare.ifeng.com/c/s/v002jW8ckBrVDmFqy7ZzZG7U9ZInyXtBNZM7U6-_D3zrTaJo__",
+      "https://view.inews.qq.com/a/20260322A00EGP00"
+    ],
+    "usage": {
+      "completion_tokens": 279,
+      "completion_tokens_details": {
+        "reasoning_tokens": 162
+      },
+      "prompt_tokens": 1074,
+      "prompt_tokens_details": {
+        "cached_tokens": 0
+      },
+      "total_tokens": 1353
+    },
+    "_transport": "sse"
+  }
+}

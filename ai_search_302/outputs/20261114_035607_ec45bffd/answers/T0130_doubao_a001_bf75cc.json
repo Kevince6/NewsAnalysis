@@ -1,0 +1,45 @@
+{
+  "task_id": "T0130",
+  "model": "doubao",
+  "news_id": "E011",
+  "question_index": 3,
+  "question_original": "【事实】OCHA报告中，2026年10月27日至11月2日加沙报告多少人死亡、受伤？",
+  "question": "OCHA报告中，2026年10月27日至11月2日加沙报告多少人死亡、受伤？",
+  "attempt": 1,
+  "provider": "302.ai",
+  "model_requested": "doubao-seed-2-1-pro-260628",
+  "query_date": "2026-11-14",
+  "search_service": "metaso",
+  "prompt_version": "news-search-v1",
+  "prompt_sha256": "ea56fd5557d32615a9115f2368a0c4983ff1188f4935369e694d7d46f2493be1",
+  "requested_at": "2026-11-14T11:36:03.016808+08:00",
+  "raw_file": "raw/T0130_doubao_a001_bf75cc.json",
+  "transport": "sse",
+  "stream_file": "raw/T0130_doubao_a001_bf75cc.sse",
+  "status": "ok",
+  "model_returned": "doubao-seed-2-1-pro-260628",
+  "answer": "现有检索资料未收录联合国人道主义事务协调厅（OCHA）发布的、统计时段为2026年10月27日至11月2日的加沙地带伤亡情况相关报告，无法为你提供该问题对应的准确数据。\n\n目前检索到的加沙伤亡相关信息均来自巴勒斯坦通讯社WAFA2026年1月25日发自加沙的报道，并非OCHA官方报告，且所有统计时段均早于你询问的2026年10-11月区间，相关信息如下：\n1.  截至2026年1月25日，自2023年10月7日以色列对加沙地带发动军事行动以来，加沙累计报告死亡71657人、受伤171399人；在报道发布前的48小时内，以军炮火与炮击造成3名平民死亡、8人受伤，当时仍有部分受害者被埋在废墟下或流落街头，救护车和救援队无法抵达其位置开展救助[5]。\n2.  该报道援引医疗消息人士信息称，自2025年10月11日停火生效至报道发布时，加沙累计报告死亡484人、受伤1321人，已搜寻到713具遇难者遗体[5]。",
+  "sources": [
+    {
+      "index": 1,
+      "url": "https://una-oic.org/zh-CN/%E5%B7%B4%E5%8B%92%E6%96%AF%E5%9D%A6%E7%9A%84/2026/01/25/%E5%8A%A0%E6%B2%99%E5%9C%B0%E5%B8%A6%E7%9A%84%E6%AD%BB%E4%BA%A1%E4%BA%BA%E6%95%B0%E5%B7%B2%E4%B8%8A%E5%8D%87%E8%87%B371657%E4%BA%BA%E3%80%82/",
+      "title": null,
+      "origin": "citations"
+    }
+  ],
+  "usage": {
+    "completion_tokens": 2796,
+    "completion_tokens_details": {
+      "reasoning_tokens": 2499
+    },
+    "prompt_tokens": 961,
+    "prompt_tokens_details": {
+      "cached_tokens": 0
+    },
+    "total_tokens": 3757
+  },
+  "finish_reason": "stop",
+  "note": [],
+  "request_id": "e6a2c4e4-e16a-4424-8578-af2befc8e313",
+  "duration_seconds": 59.109
+}

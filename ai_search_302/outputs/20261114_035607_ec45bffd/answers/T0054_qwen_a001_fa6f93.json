@@ -1,0 +1,65 @@
+{
+  "task_id": "T0054",
+  "model": "qwen",
+  "news_id": "E005",
+  "question_index": 1,
+  "question_original": "【开放】2026年美国中期选举到底是谁赢了？参众两院的控制权发生了什么变化？",
+  "question": "2026年美国中期选举到底是谁赢了？参众两院的控制权发生了什么变化？",
+  "attempt": 1,
+  "provider": "302.ai",
+  "model_requested": "qwen3.8-max",
+  "query_date": "2026-11-14",
+  "search_service": "metaso",
+  "prompt_version": "news-search-v1",
+  "prompt_sha256": "ea56fd5557d32615a9115f2368a0c4983ff1188f4935369e694d7d46f2493be1",
+  "requested_at": "2026-11-14T04:23:49.394089+08:00",
+  "raw_file": "raw/T0054_qwen_a001_fa6f93.json",
+  "transport": "sse",
+  "stream_file": "raw/T0054_qwen_a001_fa6f93.sse",
+  "status": "ok",
+  "model_returned": "qwen3.8-max",
+  "answer": "2026年美国中期选举中，**民主党是主要赢家**：他们夺回了**参议院和众议院的控制权**，华盛顿由此出现“民主党掌控国会、共和党总统执政”的府院制衡格局。[3][4][5]\n\n具体变化如下：\n\n1. **参议院：民主党拿下多数控制权**  \n   根据11月4日公布的阶段性计票结果，民主党在参议院已取得至少 **54席对44席** 的优势，从而获得参议院控制权。[4] 这意味着参议院由共和党控制转为民主党控制。[4]\n\n2. **众议院：民主党明显增席并夺回控制权**  \n   民主党在众议院至少增加 **28席**，并从共和党手中夺回众议院多数。[4] 虽然部分选区仍在计票，但两院控制权已经发生改变。[4]\n\n3. **整体结果：民主党翻转国会两院**  \n   多家观察称，2026年中期选举后，民主党拿下参众两院控制权，结束共和党此前对国会两院的全面掌控。[4][5] 这将使特朗普在第二任期内首次面对由民主党控制的国会。[4]\n\n4. **后续影响：对总统和政府的制衡增强**  \n   民主党掌控国会后，可以在立法、预算拨款、行政监督和人事任命等方面对共和党总统形成更强制约。[3][4] 不过，总统仍可否决国会法案，国会若要推翻否决，需要参众两院各自以三分之二多数重新通过相关法案。[3]",
+  "sources": [
+    {
+      "index": 1,
+      "url": "https://wallstreetcn.com/articles/3780541",
+      "title": null,
+      "origin": "citations"
+    },
+    {
+      "index": 2,
+      "url": "https://www.bjnews.com.cn/detail/1793809066168367.html",
+      "title": null,
+      "origin": "citations"
+    },
+    {
+      "index": 3,
+      "url": "https://news.qq.com/rain/a/20261105A08FLX00",
+      "title": null,
+      "origin": "citations"
+    },
+    {
+      "index": 4,
+      "url": "https://k.sina.cn/article_7295511718_1b2d8aca602001nqlq.html",
+      "title": null,
+      "origin": "citations"
+    }
+  ],
+  "usage": {
+    "completion_tokens": 803,
+    "completion_tokens_details": {
+      "reasoning_tokens": 461,
+      "text_tokens": 803
+    },
+    "prompt_tokens": 1326,
+    "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "text_tokens": 1326
+    },
+    "total_tokens": 2129
+  },
+  "finish_reason": "stop",
+  "note": [],
+  "request_id": "aedd9e1c-5da1-48c7-8035-cb20f0bdb36d",
+  "duration_seconds": 25.656
+}

@@ -1,0 +1,63 @@
+{
+  "task_id": "T0050",
+  "model": "deepseek",
+  "news_id": "E004",
+  "question_index": 5,
+  "question_original": "【事实】巴黎市宣布拿出的300万欧元是用来做什么的，它是什么性质的资金？",
+  "question": "巴黎市宣布拿出的300万欧元是用来做什么的，它是什么性质的资金？",
+  "attempt": 1,
+  "provider": "302.ai",
+  "model_requested": "deepseek-flash",
+  "query_date": "2026-11-14",
+  "search_service": "metaso",
+  "prompt_version": "news-search-v1",
+  "prompt_sha256": "ea56fd5557d32615a9115f2368a0c4983ff1188f4935369e694d7d46f2493be1",
+  "requested_at": "2026-11-14T04:22:59.483154+08:00",
+  "raw_file": "raw/T0050_deepseek_a001_6e9a8d.json",
+  "transport": "sse",
+  "stream_file": "raw/T0050_deepseek_a001_6e9a8d.sse",
+  "status": "ok",
+  "model_returned": "deepseek-flash",
+  "answer": "根据目前检索到的资料，**无法确认“巴黎市宣布拿出300万欧元”具体用于什么，也无法确认其资金性质**：现有搜索结果中没有直接提到这笔300万欧元的专项安排。\n\n可作参考的是巴黎市两类相关资金，但它们都不是“300万欧元”：\n\n- **巴黎创新基金**：主要用于支持有影响力的创新项目，应对生态、经济和社会转型挑战；自2009年创建以来已帮助近2000家初创企业、年轻企业和经济协会，筹集近7300万欧元，聚焦孵化支持、实验援助和制造援助，面向巴黎或在巴黎设有二级机构的经济参与者[citation:1]。\n- **参与式预算**：总额约1亿欧元，其中3000万欧元为巴黎市府直属项目，6500万欧元划分给巴黎各区项目，另有1000万欧元用于巴黎的学校[citation:3]。\n\n因此，若您指的是某条具体新闻中的“300万欧元”，需要提供该新闻的时间、发布机构或项目名称，才能进一步核实其用途和性质；仅凭当前检索结果不能作出确定判断。",
+  "sources": [
+    {
+      "index": 1,
+      "url": "https://m.thepaper.cn/kuaibao_detail.jsp?contid=25864333",
+      "title": null,
+      "origin": "citations"
+    },
+    {
+      "index": 2,
+      "url": "https://m.haiwainet.cn/middle/3541937/2016/1107/content_30479428_2.html",
+      "title": null,
+      "origin": "citations"
+    },
+    {
+      "index": 3,
+      "url": "http://www.thepaper.cn/newsDetail_forward_3308808",
+      "title": null,
+      "origin": "citations"
+    },
+    {
+      "index": 4,
+      "url": "https://new.qq.com/omn/20221215/20221215A00B4U00.html",
+      "title": null,
+      "origin": "citations"
+    }
+  ],
+  "usage": {
+    "completion_tokens": 711,
+    "completion_tokens_details": {
+      "reasoning_tokens": 481
+    },
+    "prompt_tokens": 1113,
+    "prompt_tokens_details": {
+      "cached_tokens": 0
+    },
+    "total_tokens": 1824
+  },
+  "finish_reason": "stop",
+  "note": [],
+  "request_id": "dc6abadb-7621-4c39-bad4-2204ad0ad25c",
+  "duration_seconds": 5.847
+}

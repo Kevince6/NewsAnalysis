@@ -1,0 +1,63 @@
+{
+  "task_id": "T0227",
+  "model": "deepseek",
+  "news_id": "E019",
+  "question_index": 1,
+  "question_original": "【开放】武汉大学图书馆事件后来有什么结果？法院判决、男生处分和女生学位这几件事分别怎么处理？",
+  "question": "武汉大学图书馆事件后来有什么结果？法院判决、男生处分和女生学位这几件事分别怎么处理？",
+  "attempt": 1,
+  "provider": "302.ai",
+  "model_requested": "deepseek-flash",
+  "query_date": "2026-11-14",
+  "search_service": "metaso",
+  "prompt_version": "news-search-v1",
+  "prompt_sha256": "ea56fd5557d32615a9115f2368a0c4983ff1188f4935369e694d7d46f2493be1",
+  "requested_at": "2026-11-14T12:03:15.407998+08:00",
+  "raw_file": "raw/T0227_deepseek_a001_bd7514.json",
+  "transport": "sse",
+  "stream_file": "raw/T0227_deepseek_a001_bd7514.sse",
+  "status": "ok",
+  "model_returned": "deepseek-flash",
+  "answer": "根据目前检索到的信息，这件事已经有了阶段性处理结果，但**我检索到的多是媒体和自媒体的标题、摘要，没有拿到武汉大学官方通报原文和法院裁判文书全文**，所以下面只能按检索结果概括，具体表述应以校方通报和法院公开信息为准。\n\n## 三件事的处理结果\n\n**1. 法院判决：女生上诉被驳回，维持原判**\n检索结果显示，涉事女生杨某媛的上诉被法院驳回，维持原判[2]。也就是说，此前一审的结论在二审中没有被推翻。不过，检索材料没有提供判决的具体日期、审理法院和判决理由，这部分我无法确认。\n\n**2. 男生处分：撤销记过处分**\n武汉大学通报了图书馆事件调查复核情况，决定撤销对涉事男生肖某某（也有写作“肖某瑫”）的记过处分[1][2]。这是学校层面的复核结论，意味着原先加在该男生身上的纪律处分被取消。\n\n**3. 女生学位：维持不变**\n在撤销男生处分的同时，学校**维持了女生的学位**[1][2]。检索结果中也有“论文问题不大”的说法[1]，但这属于媒体标题式概括，并非官方对论文的正式结论，建议以武汉大学通报原文为准。\n\n## 附带结果：多人被问责\n\n学校对事件中处分决定作出、工作不到位的相关责任领导给予了党内警告，相关部门被责令书面检查并整改[2][5]。检索材料称“多人被问责”[2]，但具体人数和姓名未在搜索结果中完整列出。\n\n## 需要说明的几点\n\n- **信息来源有限**：上述内容主要来自检索到的网页标题和摘要[1][2][5]，其中部分网页标题明显带有情绪化表达，可信度不如官方通报。若要确认，建议直接查看武汉大学官网通报和法院裁判文书。\n- **道歉与赔偿未见明确结果**：有评论认为学校和相关女生还应公开赔礼道歉、赔偿男生损失[5]，但这是评论者观点，不是已确认的处理结果。\n- **事件定性已基本“盖棺定论”**：检索材料称法院和学校均已作出结论[5]，但这属于媒体评论，不代表官方原话。\n\n简单说：**法院这边女生上诉被驳回、维持原判；学校这边撤销了男生的记过处分，同时维持女生的学位，并对相关责任人问责。** 如需确切细节，仍应以官方通报和裁判文书为准。",
+  "sources": [
+    {
+      "index": 1,
+      "url": "https://www.bilibili.com/video/BV1Atb8zmEnw/",
+      "title": null,
+      "origin": "citations"
+    },
+    {
+      "index": 2,
+      "url": "https://www.bilibili.com/video/BV14hpQzYEuo/",
+      "title": null,
+      "origin": "citations"
+    },
+    {
+      "index": 3,
+      "url": "https://finance.sina.cn/2025-08-03/detail-infitnsu9398413.d.html?vt=4",
+      "title": null,
+      "origin": "citations"
+    },
+    {
+      "index": 4,
+      "url": "https://www.sina.cn/news/detail/5212892626421971.html",
+      "title": null,
+      "origin": "citations"
+    }
+  ],
+  "usage": {
+    "completion_tokens": 747,
+    "completion_tokens_details": {
+      "reasoning_tokens": 230
+    },
+    "prompt_tokens": 1145,
+    "prompt_tokens_details": {
+      "cached_tokens": 0
+    },
+    "total_tokens": 1892
+  },
+  "finish_reason": "stop",
+  "note": [],
+  "request_id": "b62beb74-9102-4372-be56-e5eaf555b0eb",
+  "duration_seconds": 21.641
+}

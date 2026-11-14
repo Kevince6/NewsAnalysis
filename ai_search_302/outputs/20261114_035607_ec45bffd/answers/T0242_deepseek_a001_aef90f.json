@@ -1,0 +1,57 @@
+{
+  "task_id": "T0242",
+  "model": "deepseek",
+  "news_id": "E020",
+  "question_index": 2,
+  "question_original": "【事实】我的安克充电宝有清晰的3C标识，但属于召回批次，按2025年6月28日起的新规还能带上境内航班吗？",
+  "question": "我的安克充电宝有清晰的3C标识，但属于召回批次，按2025年6月28日起的新规还能带上境内航班吗？",
+  "attempt": 1,
+  "provider": "302.ai",
+  "model_requested": "deepseek-flash",
+  "query_date": "2026-11-14",
+  "search_service": "metaso",
+  "prompt_version": "news-search-v1",
+  "prompt_sha256": "ea56fd5557d32615a9115f2368a0c4983ff1188f4935369e694d7d46f2493be1",
+  "requested_at": "2026-11-14T12:06:35.214862+08:00",
+  "raw_file": "raw/T0242_deepseek_a001_aef90f.json",
+  "transport": "sse",
+  "stream_file": "raw/T0242_deepseek_a001_aef90f.sse",
+  "status": "ok",
+  "model_returned": "deepseek-flash",
+  "answer": "**不能带。** 即使你的安克充电宝印有清晰完整的 3C 标识，只要它属于被召回的型号或批次，就仍在禁止携带乘机的范围内。\n\n**规则依据**\n\n民航局自 2025 年 6 月 28 日起实施的紧急通知规定，禁止旅客携带以下三类充电宝乘坐**境内航班**[1][3]：\n\n1. 没有 3C 标识的；\n2. 3C 标识不清晰的；\n3. 被召回型号或批次的。\n\n这三类情形是**并列**的禁止条件，并非“满足其一即可通过”。因此，“3C 标识清晰”只能排除第 2 项，不能抵消第 3 项；充电宝一旦进入厂家召回名单，无论外观标识是否完好，都不能随身带上飞机。该规定出台的目的是防范锂电池起火风险，保障航空运行安全[3]。\n\n**到机场后可考虑的处置方式（以深圳机场为例）**\n\n深圳机场对不合规、无法携带乘机的充电宝，现场提供免费寄存、快递收运、召回申请等服务，旅客可按需选择；T3 航站楼四层设有收寄点，可现场邮递充电宝[1]。但要注意两点限制[1]：\n\n- 按照邮递公司要求，**罗马仕、安克品牌的充电宝暂不提供邮寄服务**；因此安克产品在现场基本只能选择寄存或走召回申请；\n- 鼓包、破损、表面有磕碰的充电宝一律不予邮寄。\n\n**两点补充提醒**\n\n- 各机场的寄存、快递细则可能不同，出发前最好先查一下出发机场的现行公告；这些服务属于机场便民措施，并非全国统一标准。\n- 判断是否“属于召回批次”应以厂家（安克）官方召回公告和民航局公布的名单为准，型号或批次代码通常印在机身或包装上。如果你只是凭印象怀疑，建议先向安克客服核实。\n\n另外，网上有投资者把这类新规当作安克销量利好的讨论[2]，那属于个人投资观点，不能作为判断能否带充电宝乘机的依据。\n\n*说明：上述规则内容来自 2025 年 6 月至 7 月前后的公告与机场提示，未检索到此后对该条款的修订信息；如民航局后续有新公告，应以最新文件为准。*",
+  "sources": [
+    {
+      "index": 1,
+      "url": "https://jtys.sz.gov.cn/gkmlpt/content/12/12675/post_12675115.html",
+      "title": null,
+      "origin": "citations"
+    },
+    {
+      "index": 2,
+      "url": "https://xueqiu.com/4634834810/349738874",
+      "title": null,
+      "origin": "citations"
+    },
+    {
+      "index": 3,
+      "url": "https://news.sina.cn/bignews/opinion/2025-11-26/detail-infytqia1004108.d.html",
+      "title": null,
+      "origin": "citations"
+    }
+  ],
+  "usage": {
+    "completion_tokens": 809,
+    "completion_tokens_details": {
+      "reasoning_tokens": 309
+    },
+    "prompt_tokens": 1089,
+    "prompt_tokens_details": {
+      "cached_tokens": 0
+    },
+    "total_tokens": 1898
+  },
+  "finish_reason": "stop",
+  "note": [],
+  "request_id": "64109595-0388-4060-9548-c1884c280757",
+  "duration_seconds": 32.0
+}

@@ -1,0 +1,57 @@
+{
+  "task_id": "T0110",
+  "model": "deepseek",
+  "news_id": "E009",
+  "question_index": 3,
+  "question_original": "【事实】Wiz披露Moltbook暴露了多少API认证令牌、电子邮箱，还有哪些数据？平台多久修复了问题？",
+  "question": "Wiz披露Moltbook暴露了多少API认证令牌、电子邮箱，还有哪些数据？平台多久修复了问题？",
+  "attempt": 1,
+  "provider": "302.ai",
+  "model_requested": "deepseek-flash",
+  "query_date": "2026-11-14",
+  "search_service": "metaso",
+  "prompt_version": "news-search-v1",
+  "prompt_sha256": "ea56fd5557d32615a9115f2368a0c4983ff1188f4935369e694d7d46f2493be1",
+  "requested_at": "2026-11-14T11:30:38.401031+08:00",
+  "raw_file": "raw/T0110_deepseek_a001_0d6f68.json",
+  "transport": "sse",
+  "stream_file": "raw/T0110_deepseek_a001_0d6f68.sse",
+  "status": "ok",
+  "model_returned": "deepseek-flash",
+  "answer": "据Wiz披露，Moltbook因Supabase数据库配置错误，暴露了**150万个API认证令牌**和**3.5万个电子邮箱地址**[1][2][4]。除这两类数据外，泄露内容还包括**大量智能体之间的私信**；由于配置错误，数据库一度允许对所有平台数据进行完全读写访问[1][2]。\n\n另外两项关键发现是：平台宣称的近300万（或160万）注册智能体，实际可能只对应约**1.7万名人类操作者**，平均每人控制88至近百个账号[1][4]；平台同时还缺乏身份验证与频率限制，任何人可伪装成AI或批量操纵账号[4]。\n\n关于**平台多久修复了问题**：现有检索结果只说明Wiz通过“像普通用户一样浏览”的非侵入性安全审查发现了漏洞，并指出安全并非Moltbook的首要任务[2]，但**没有披露从暴露到修复的具体时长或修复时间点**。因此，修复耗时目前无法依据这些资料确认。",
+  "sources": [
+    {
+      "index": 1,
+      "url": "https://news.qq.com/rain/a/20260306A0800D00",
+      "title": null,
+      "origin": "citations"
+    },
+    {
+      "index": 2,
+      "url": "https://news.sina.cn/ai/2026-02-10/detail-inhminum5537302.d.html",
+      "title": null,
+      "origin": "citations"
+    },
+    {
+      "index": 3,
+      "url": "https://finance.sina.cn/stock/jdts/2026-03-25/detail-inhseiyf9902729.d.html",
+      "title": null,
+      "origin": "citations"
+    }
+  ],
+  "usage": {
+    "completion_tokens": 346,
+    "completion_tokens_details": {
+      "reasoning_tokens": 127
+    },
+    "prompt_tokens": 1030,
+    "prompt_tokens_details": {
+      "cached_tokens": 0
+    },
+    "total_tokens": 1376
+  },
+  "finish_reason": "stop",
+  "note": [],
+  "request_id": "2f3704a4-c940-4345-af0c-671fa110e8b6",
+  "duration_seconds": 6.296
+}

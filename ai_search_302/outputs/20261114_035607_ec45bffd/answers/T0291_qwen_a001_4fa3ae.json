@@ -1,0 +1,59 @@
+{
+  "task_id": "T0291",
+  "model": "qwen",
+  "news_id": "E024",
+  "question_index": 4,
+  "question_original": "【事实】王星真正抵达中国是北京时间哪天几点，落地哪个机场？",
+  "question": "王星真正抵达中国是北京时间哪天几点，落地哪个机场？",
+  "attempt": 1,
+  "provider": "302.ai",
+  "model_requested": "qwen3.8-max",
+  "query_date": "2026-11-14",
+  "search_service": "metaso",
+  "prompt_version": "news-search-v1",
+  "prompt_sha256": "ea56fd5557d32615a9115f2368a0c4983ff1188f4935369e694d7d46f2493be1",
+  "requested_at": "2026-11-14T12:15:22.933973+08:00",
+  "raw_file": "raw/T0291_qwen_a001_4fa3ae.json",
+  "transport": "sse",
+  "stream_file": "raw/T0291_qwen_a001_4fa3ae.sse",
+  "status": "ok",
+  "model_returned": "qwen3.8-max",
+  "answer": "王星真正落地中国的时间为：**北京时间凌晨 0 时 55 分，抵达上海浦东国际机场**[1]。\n\n补充说明：  \n- 检索到的北京晚报报道原文写的是“已于北京时间今天零时55分抵达上海浦东国际机场”[1]。该片段没有直接显示“今天”对应的公历日期，因此严格来说，**0 时55分和浦东机场是可确认信息**，具体日期需以原始发布页时间为准[1]。  \n- 结合相关报道时间线及“凌晨回国”的语境，通常对应为**2025年1月11日凌晨0时55分**[1][4]。  \n- 他是从泰国素万那普机场乘机返回中国，在泰国警方护送下经机场绿色通道登机，未公开露面[1]。",
+  "sources": [
+    {
+      "index": 1,
+      "url": "https://finance.sina.cn/2025-01-11/detail-ineeqshx5093258.d.html",
+      "title": null,
+      "origin": "citations"
+    },
+    {
+      "index": 2,
+      "url": "https://mp.weixin.qq.com/s?__biz=MzI4MzcxMzcwOA==&mid=2247750762&idx=1&sn=7ec7a186d1988fa5dcf58bf800263b11&chksm=ea25b8cc94e93274843a17a3cefb74842323bff9e2c97c8bbd9c19ed6cdd235d74f7f8d3e513&scene=27",
+      "title": null,
+      "origin": "citations"
+    },
+    {
+      "index": 3,
+      "url": "https://www.163.com/dy/article/JLJSADRG0534A4SC.html",
+      "title": null,
+      "origin": "citations"
+    }
+  ],
+  "usage": {
+    "completion_tokens": 2247,
+    "completion_tokens_details": {
+      "reasoning_tokens": 2065,
+      "text_tokens": 2247
+    },
+    "prompt_tokens": 1178,
+    "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "text_tokens": 1178
+    },
+    "total_tokens": 3425
+  },
+  "finish_reason": "stop",
+  "note": [],
+  "request_id": "0e7ff514-2f6a-4703-a429-7b844263eeac",
+  "duration_seconds": 56.734
+}

@@ -1,0 +1,65 @@
+{
+  "task_id": "T0366",
+  "model": "qwen",
+  "news_id": "E030",
+  "question_index": 5,
+  "question_original": "【事实】恒大地产破产案通知规定的债权申报期限是哪天？只有其他关联公司债权的人，也能在这个案子里申报吗？",
+  "question": "恒大地产破产案通知规定的债权申报期限是哪天？只有其他关联公司债权的人，也能在这个案子里申报吗？",
+  "attempt": 1,
+  "provider": "302.ai",
+  "model_requested": "qwen3.8-max",
+  "query_date": "2026-11-14",
+  "search_service": "metaso",
+  "prompt_version": "news-search-v1",
+  "prompt_sha256": "ea56fd5557d32615a9115f2368a0c4983ff1188f4935369e694d7d46f2493be1",
+  "requested_at": "2026-11-14T12:36:26.593156+08:00",
+  "raw_file": "raw/T0366_qwen_a001_3a469c.json",
+  "transport": "sse",
+  "stream_file": "raw/T0366_qwen_a001_3a469c.sse",
+  "status": "ok",
+  "model_returned": "qwen3.8-max",
+  "answer": "恒大地产集团有限公司破产清算案的债权申报期限是**2026年11月21日前**，债权人应在该期限前按公告要求向管理人申报债权[1][2]。\n\n**只有其他关联公司债权的人，不能在这个案子里申报。**公告明确：仅对其他关联公司享有债权的，不属于本案申报范围；如果你的合同或债权对应的是某个地方项目公司，应当向该项目公司对应的破产程序申报，而不是在恒大地产集团有限公司本案中申报[1]。\n\n另外需要区分主体：检索中还出现“恒大地产广东公司”的债权申报期限为**2025年11月20日前**，这与恒大地产集团有限公司本案不是同一申报期限[4][5]。",
+  "sources": [
+    {
+      "index": 1,
+      "url": "https://news.qq.com/rain/a/20261031A09BV400",
+      "title": null,
+      "origin": "citations"
+    },
+    {
+      "index": 2,
+      "url": "https://k.sina.cn/article_7857201856_1d45362c001908kcby.html",
+      "title": null,
+      "origin": "citations"
+    },
+    {
+      "index": 3,
+      "url": "https://cd.nbd.com.cn/articles/2025-08-22/4024037.html",
+      "title": null,
+      "origin": "citations"
+    },
+    {
+      "index": 4,
+      "url": "https://gz.house.ifeng.com/news/2025_08_24-57146395_0.shtml",
+      "title": null,
+      "origin": "citations"
+    }
+  ],
+  "usage": {
+    "completion_tokens": 1218,
+    "completion_tokens_details": {
+      "reasoning_tokens": 1064,
+      "text_tokens": 1218
+    },
+    "prompt_tokens": 1185,
+    "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "text_tokens": 1185
+    },
+    "total_tokens": 2403
+  },
+  "finish_reason": "stop",
+  "note": [],
+  "request_id": "863a1d93-07a3-40ed-9b50-d57e92de859a",
+  "duration_seconds": 30.578
+}

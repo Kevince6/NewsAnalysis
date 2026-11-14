@@ -1,0 +1,69 @@
+{
+  "task_id": "T0256",
+  "model": "doubao",
+  "news_id": "E021",
+  "question_index": 4,
+  "question_original": "【事实】2025年7月20日省级通报中，多少名在园幼儿血铅异常？这个人数已经包括复检新增的人了吗？",
+  "question": "2025年7月20日省级通报中，多少名在园幼儿血铅异常？这个人数已经包括复检新增的人了吗？",
+  "attempt": 1,
+  "provider": "302.ai",
+  "model_requested": "doubao-seed-2-1-pro-260628",
+  "query_date": "2026-11-14",
+  "search_service": "metaso",
+  "prompt_version": "news-search-v1",
+  "prompt_sha256": "ea56fd5557d32615a9115f2368a0c4983ff1188f4935369e694d7d46f2493be1",
+  "requested_at": "2026-11-14T12:09:32.986965+08:00",
+  "raw_file": "raw/T0256_doubao_a001_2ed184.json",
+  "transport": "sse",
+  "stream_file": "raw/T0256_doubao_a001_2ed184.sse",
+  "status": "ok",
+  "model_returned": "doubao-seed-2-1-pro-260628",
+  "answer": "根据本次提供的检索资料，暂无法查询到2025年7月20日省级相关通报中公布的在园血铅异常幼儿具体人数，也没有涉及该通报统计口径（即公布人数是否包含复检新增人员）的明确记载，无法给出对应确切答案。\n\n现有检索结果中仅涉及两部分幼儿园血铅异常事件的零散信息，均无法匹配你询问的2025年7月20日省级通报内容：\n1. 2023年甘肃天水麦积区曾处置一起幼儿园违规使用添加剂导致部分幼儿血铅异常的案件：当地接群众举报后开展调查，当时共采集200多份样本送至省疾控中心复检，涉事幼儿园园长被立案，但相关报道未披露具体血铅异常的幼儿人数，且事件处置信息发布于2023年，与你询问的2025年省级通报没有关联[2]。\n2. 褐石培心幼儿园相关调查片段显示，调查人员在核查某医疗机构检验记录时发现，2024年5月1日至2025年6月30日期间，共有7名该园幼儿在这家医院接受血铅检验时结果异常，其中2名幼儿的高值血铅报告被人为篡改为更低的数值；调查同时指出，承担相关检测任务的疾控机构存在任务前评估不足、未落实平行检测、异常值复测等质量控制措施、未对同园连续出现多例血铅异常的情况开展公共卫生层面的关联性研判等问题[3][4][5]。但上述内容仅为调查过程中查明的单家医疗机构的内部检验记录情况，现有资料并未说明这一数据出自2025年7月20日的省级通报，也未提及复检环节的新增人员情况及对应统计规则，不能作为你所询问问题的准确依据。",
+  "sources": [
+    {
+      "index": 1,
+      "url": "https://www.thepaper.cn/newsDetail_forward_31096598",
+      "title": null,
+      "origin": "citations"
+    },
+    {
+      "index": 2,
+      "url": "https://finance.sina.cn/2025-07-03/detail-infeezva4654188.d.html",
+      "title": null,
+      "origin": "citations"
+    },
+    {
+      "index": 3,
+      "url": "http://h5.ifeng.com/c/vivo/v002owwWlv8yuOkRq5v-_1l21YFfRdklEchEw4CrOZLRgnJ0__",
+      "title": null,
+      "origin": "citations"
+    },
+    {
+      "index": 4,
+      "url": "https://mil.news.sina.com.cn/2025-07-20/doc-infhcxhk3701973.shtml",
+      "title": null,
+      "origin": "citations"
+    },
+    {
+      "index": 5,
+      "url": "https://weibo.com/ttarticle/p/show?id=2309405190620972449990",
+      "title": null,
+      "origin": "citations"
+    }
+  ],
+  "usage": {
+    "completion_tokens": 4915,
+    "completion_tokens_details": {
+      "reasoning_tokens": 4506
+    },
+    "prompt_tokens": 1653,
+    "prompt_tokens_details": {
+      "cached_tokens": 0
+    },
+    "total_tokens": 6568
+  },
+  "finish_reason": "stop",
+  "note": [],
+  "request_id": "93a949c2-2321-421f-94b8-1a0413ff6ce3",
+  "duration_seconds": 92.032
+}

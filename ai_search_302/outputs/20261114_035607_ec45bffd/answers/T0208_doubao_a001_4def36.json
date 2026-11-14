@@ -1,0 +1,69 @@
+{
+  "task_id": "T0208",
+  "model": "doubao",
+  "news_id": "E017",
+  "question_index": 3,
+  "question_original": "【事实】联合主办方公告明确记载的涉事深圳演出，是2026年哪一天？",
+  "question": "联合主办方公告明确记载的涉事深圳演出，是2026年哪一天？",
+  "attempt": 1,
+  "provider": "302.ai",
+  "model_requested": "doubao-seed-2-1-pro-260628",
+  "query_date": "2026-11-14",
+  "search_service": "metaso",
+  "prompt_version": "news-search-v1",
+  "prompt_sha256": "ea56fd5557d32615a9115f2368a0c4983ff1188f4935369e694d7d46f2493be1",
+  "requested_at": "2026-11-14T11:56:55.473862+08:00",
+  "raw_file": "raw/T0208_doubao_a001_4def36.json",
+  "transport": "sse",
+  "stream_file": "raw/T0208_doubao_a001_4def36.sse",
+  "status": "ok",
+  "model_returned": "doubao-seed-2-1-pro-260628",
+  "answer": "根据当前提供的检索资料，无法确认联合主办方公告明确记载的涉事深圳演出对应的2026年具体日期。\n### 相关说明\n1. 现有检索内容仅涵盖2026年深圳部分展会、体育赛事、公开商业演出的基础排期信息：包括10月1日-5日在深圳会展中心（福田）举办的第十八届深圳国际汽车展览会[1]，9月在深举办的比利·简·金杯深圳总决赛、世界斯诺克·深圳公开赛两站体育赛事[2]，4-12月在深圳各体育场馆举办的多场演唱会、钢琴演奏会、音乐节活动[3][5]，以及一批未标注对应活动内容、主体信息的零散日期[4]。\n2. 所有检索资料均未提及与“涉事深圳演出”相关的事件描述，也没有出现“联合主办方公告”对应的相关记载，缺少判定问题答案的核心依据，无法通过现有资料匹配到对应的演出及具体日期。",
+  "sources": [
+    {
+      "index": 1,
+      "url": "https://baike.baidu.com/en/item/2026%20%2818th%29%20Shenzhen%20International%20Auto%20Show/4537282",
+      "title": null,
+      "origin": "citations"
+    },
+    {
+      "index": 2,
+      "url": "https://k.sina.cn/article_5426766895_14375e42f00102y31u.html",
+      "title": null,
+      "origin": "citations"
+    },
+    {
+      "index": 3,
+      "url": "https://sz.bendibao.com/xiuxian/2025925/992776.htm",
+      "title": null,
+      "origin": "citations"
+    },
+    {
+      "index": 4,
+      "url": "https://localhub.to/shenzhen?lang=zh",
+      "title": null,
+      "origin": "citations"
+    },
+    {
+      "index": 5,
+      "url": "https://www.sina.cn/news/detail/5318917688135378.html",
+      "title": null,
+      "origin": "citations"
+    }
+  ],
+  "usage": {
+    "completion_tokens": 2576,
+    "completion_tokens_details": {
+      "reasoning_tokens": 2358
+    },
+    "prompt_tokens": 2034,
+    "prompt_tokens_details": {
+      "cached_tokens": 0
+    },
+    "total_tokens": 4610
+  },
+  "finish_reason": "stop",
+  "note": [],
+  "request_id": "82e40727-b511-4a90-a070-117b386a3465",
+  "duration_seconds": 59.891
+}

@@ -1,0 +1,45 @@
+{
+  "task_id": "T0236",
+  "model": "deepseek",
+  "news_id": "E019",
+  "question_index": 4,
+  "question_original": "【事实】图书馆纠纷案二审是哪天作出的，结果是什么？",
+  "question": "图书馆纠纷案二审是哪天作出的，结果是什么？",
+  "attempt": 1,
+  "provider": "302.ai",
+  "model_requested": "deepseek-flash",
+  "query_date": "2026-11-14",
+  "search_service": "metaso",
+  "prompt_version": "news-search-v1",
+  "prompt_sha256": "ea56fd5557d32615a9115f2368a0c4983ff1188f4935369e694d7d46f2493be1",
+  "requested_at": "2026-11-14T12:04:58.496699+08:00",
+  "raw_file": "raw/T0236_deepseek_a001_3def49.json",
+  "transport": "sse",
+  "stream_file": "raw/T0236_deepseek_a001_3def49.sse",
+  "status": "ok",
+  "model_returned": "deepseek-flash",
+  "answer": "根据你提供的搜索结果，相关二审判决由武汉中院于**2025年9月17日**作出，结果为：**驳回上诉，维持原判**[4]。\n\n需要说明的是，该检索片段只提到“武汉中院经不公开开庭审理后认为，一审判决认定事实清楚，适用法律正确，应予维持”，并未在片段中明确写出案件名称为“图书馆纠纷案”。因此，如果所指的“图书馆纠纷案”就是该案，那么二审时间和结果如上；若指其他案件，则现有资料不足以确认。",
+  "sources": [
+    {
+      "index": 1,
+      "url": "https://www.cnr.cn/hubei/yw/20250920/t20250920_527369393.shtml",
+      "title": null,
+      "origin": "citations"
+    }
+  ],
+  "usage": {
+    "completion_tokens": 277,
+    "completion_tokens_details": {
+      "reasoning_tokens": 160
+    },
+    "prompt_tokens": 760,
+    "prompt_tokens_details": {
+      "cached_tokens": 0
+    },
+    "total_tokens": 1037
+  },
+  "finish_reason": "stop",
+  "note": [],
+  "request_id": "8d508aab-441c-4028-9e3c-555fb0ba7b95",
+  "duration_seconds": 6.547
+}

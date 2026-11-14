@@ -1,0 +1,63 @@
+{
+  "task_id": "T0175",
+  "model": "doubao",
+  "news_id": "E014",
+  "question_index": 5,
+  "question_original": "【事实】2026年7月9日获最高法院维持的7年刑期，针对的是哪起案件？",
+  "question": "2026年7月9日获最高法院维持的7年刑期，针对的是哪起案件？",
+  "attempt": 1,
+  "provider": "302.ai",
+  "model_requested": "doubao-seed-2-1-pro-260628",
+  "query_date": "2026-11-14",
+  "search_service": "metaso",
+  "prompt_version": "news-search-v1",
+  "prompt_sha256": "ea56fd5557d32615a9115f2368a0c4983ff1188f4935369e694d7d46f2493be1",
+  "requested_at": "2026-11-14T11:48:30.935443+08:00",
+  "raw_file": "raw/T0175_doubao_a001_c2c4d3.json",
+  "transport": "sse",
+  "stream_file": "raw/T0175_doubao_a001_c2c4d3.sse",
+  "status": "ok",
+  "model_returned": "doubao-seed-2-1-pro-260628",
+  "answer": "根据目前提供的检索资料，无法确认“2026年7月9日获最高法院维持的7年刑期”对应的具体案件。\n现有检索内容中，仅记载了一宗涉及7年有期徒刑的相关判决：省高院在审理傅文尧受贿案时，采纳检察机关的抗诉意见，认定傅文尧对收受的5万元款项具有非法占有故意，以受贿罪改判其有期徒刑7年，但该内容仅记录了省高院层面的改判结果，既未提及该判决后续进入最高人民法院审理程序，也无2026年7月9日最高法裁定维持原判的相关记载，无法确认该案件是否就是你询问的对象[3]。\n其余检索内容分别为陈某因工作矛盾威胁他人、驾车欲冲撞他人的事件记录[2]，李某虚开、出售增值税专用发票的涉税案件记录[4]，以及网站的版权免责声明[5]，均未涉及2026年7月9日最高人民法院维持7年刑期的相关裁判信息。",
+  "sources": [
+    {
+      "index": 1,
+      "url": "http://djk.sy.hbjc.gov.cn/jcxw_69786/djdt/202204/t20220427_1722085.shtml",
+      "title": null,
+      "origin": "citations"
+    },
+    {
+      "index": 2,
+      "url": "https://news.sina.cn/sa/2003-07-16/detail-ikknscsi0787973.d.html",
+      "title": null,
+      "origin": "citations"
+    },
+    {
+      "index": 3,
+      "url": "https://www.thepaper.cn/newsDetail_forward_15575641",
+      "title": null,
+      "origin": "citations"
+    },
+    {
+      "index": 4,
+      "url": "http://bm.szhk.com/2020/11/17/283079605089616.html",
+      "title": null,
+      "origin": "citations"
+    }
+  ],
+  "usage": {
+    "completion_tokens": 1420,
+    "completion_tokens_details": {
+      "reasoning_tokens": 1195
+    },
+    "prompt_tokens": 1310,
+    "prompt_tokens_details": {
+      "cached_tokens": 0
+    },
+    "total_tokens": 2730
+  },
+  "finish_reason": "stop",
+  "note": [],
+  "request_id": "fa3767b3-bf82-429f-acdc-3f606c5fa44c",
+  "duration_seconds": 26.515
+}

@@ -1,0 +1,56 @@
+{
+  "request": {
+    "model": "deepseek-flash",
+    "messages": [
+      {
+        "role": "system",
+        "content": "请联网检索后，用自然中文回答用户的问题。\n先直接回答，再补充理解答案所需的事实、背景或说明；复杂问题可分点，简单问题可简答。\n优先参考与问题直接相关的原始发布、机构公告、当事人回应及可信媒体报道。\n依据检索到的资料作答。资料不足、存在分歧或尚未确认的内容，请明确说明；解释和判断应与已确认的事实区分。\n在相关事实后标注检索来源，沿用检索结果提供的引用编号或标记。\n\n查询日期：2026-11-14（北京时间，UTC+8）。问题中的“现在”“近期”“最新”以此日期为参照；问题明确指定时间范围时，以问题为准。"
+      },
+      {
+        "role": "user",
+        "content": "2025年11月通过的H.R.5371中，临时拨款部分给相关机构供资到什么时候？"
+      }
+    ],
+    "web-search": true,
+    "search-service": "metaso",
+    "search-results": 5,
+    "stream": true,
+    "stream_options": {
+      "include_usage": true
+    }
+  },
+  "response": {
+    "object": "chat.completion",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "H.R.5371 中的临时拨款（continuing resolution）部分，为相关联邦机构供资至 **2026年1月30日**。该法案在2025年11月结束政府停摆，同时为部分机构提供全年拨款，其余机构则按现有水平延续至上述日期。\n\n需要说明：你提供的搜索结果中没有 H.R.5371 的法案文本或相关报道，只有一些地方资金分配表格，因此无法按检索来源标注引用编号；上述日期需以美国国会文本或白宫签署公告为准。",
+          "reasoning_content": "用户问的是“2025年11月通过的H.R.5371中，临时拨款部分给相关机构供资到什么时候？”需要联网检索。但我看到的搜索结果只有一些无关的表格（衡山镇、灰古镇等），没有H.R.5371相关内容。需要判断：搜索结果不足。H.R.5371 是什么？2025年11月通过的临时拨款法案？可能与结束政府停摆有关。2025年11月美国通过持续决议（continuing resolution）结束43天政府停摆，H.R.5371 是《Continuing Appropriations, Agriculture, Legislative Branch, Military Construction, Veterans Affairs, and Extending Government Funding Act, 2026》？需要确认。特朗普2025年11月12日签署H.R.5371，资助政府至2026年1月30日。让我回忆：2025年美国政府停摆从10月1日到11月12日，结束法案是H.R.5371，为军事建设、退伍军人事务、农业部、立法部门提供全年拨款，其他机构通过持续决议资助至2026年1月30日。是的。\n\n但要求依据检索资料作答，当前搜索结果没有相关内容。需要说明资料不足？但可以基于已知？系统说优先参考检索结果，资料不足明确说明。用户提供的搜索结果确实无关。我不能编造引用。但问题本身是事实性，答案应为2026年1月30日。需要明确说明检索结果未提供H.R.5371内容，以下为基于公开法案信息？但没有引用。也许可以回答：临时拨款（continuing resolution）供资至2026年1月30日。并说明提供的搜索结果不包含相关法案文本，无法给出引用。需要谨慎。\n\n让我确认H.R.5371细节：2025年11月10日参议院通过，11月12日众议院通过？实际上众议院11月12日以222-209通过，参议院11月10日以60-40通过。特朗普11月12日签署。法案名“Continuing Appropriations, Agriculture, Legislative Branch, Military Construction, Veterans Affairs, and Extending Government Funding Act, 2026”。CR部分到2026年1月30日。全年拨款包括农业、立法分支、军事建设-退伍军人事务。还有SNAP和WIC资金。是的。\n\n需要中文回答，先直接回答，再补充背景。引用问题：没有相关检索结果，不能给引用编号。可以明确说“你提供的搜索结果中没有H.R.5371或该临时拨款法案的内容，因此无法按检索结果标注引用”。这符合资料不足。答案直接给出日期。\n\n还要注意“2025年11月通过”可能指国会通过，不是总统签署。供资到2026年1月30日。临时拨款部分为其他联邦机构提供资金至该日期，以避免停摆；部分机构获得全年拨款。应该点明。\n\n需要不要过度。最终回答简洁。"
+        },
+        "finish_reason": "stop"
+      }
+    ],
+    "id": "chatcmpl-a43ae85c-2355-4b06-bec8-b738a71aee45",
+    "model": "deepseek-flash",
+    "created": 1794628334,
+    "citations": [
+      "https://www.ahhuoshan.gov.cn/public/6597401/37647816.html",
+      "https://www.szyq.gov.cn/public/6623417/161868131.html",
+      "http://www.wuyuan.gov.cn/ylfw/48869.html"
+    ],
+    "usage": {
+      "completion_tokens": 731,
+      "completion_tokens_details": {
+        "reasoning_tokens": 614
+      },
+      "prompt_tokens": 1259,
+      "prompt_tokens_details": {
+        "cached_tokens": 0
+      },
+      "total_tokens": 1990
+    },
+    "_transport": "sse"
+  }
+}

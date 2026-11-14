@@ -1,0 +1,57 @@
+{
+  "task_id": "T0145",
+  "model": "doubao",
+  "news_id": "E012",
+  "question_index": 4,
+  "question_original": "【事实】TikTok美国合资公司中，字节跳动、Oracle、Silver Lake和MGX各持多少股权？CEO是谁？",
+  "question": "TikTok美国合资公司中，字节跳动、Oracle、Silver Lake和MGX各持多少股权？CEO是谁？",
+  "attempt": 1,
+  "provider": "302.ai",
+  "model_requested": "doubao-seed-2-1-pro-260628",
+  "query_date": "2026-11-14",
+  "search_service": "metaso",
+  "prompt_version": "news-search-v1",
+  "prompt_sha256": "ea56fd5557d32615a9115f2368a0c4983ff1188f4935369e694d7d46f2493be1",
+  "requested_at": "2026-11-14T11:40:46.249880+08:00",
+  "raw_file": "raw/T0145_doubao_a001_bc2780.json",
+  "transport": "sse",
+  "stream_file": "raw/T0145_doubao_a001_bc2780.sse",
+  "status": "ok",
+  "model_returned": "doubao-seed-2-1-pro-260628",
+  "answer": "### 持股比例情况\n在TikTok美国数据安全合资公司（TikTok USDS Joint Venture LLC）中，你所询问的四家主体股权占比明确：\n1.  甲骨文（Oracle）持股15%[2][3][5]；\n2.  银湖资本（Silver Lake）持股15%[2][3][5]；\n3.  阿联酋阿布扎比技术投资公司MGX持股15%，上述三家为本次引入的新管理投资者，合计持有合资公司45%的股份[2][3][5]；\n4.  字节跳动保留19.9%的股份，仍是该合资公司的最大单一股东[2][3]，但不掌握该美国实体的运营和治理控制权[5]。\n\n除上述主体外，剩余股份的公开披露存在详略差异：有信息显示字节跳动部分现有投资者及其关联方合计持股30.1%[2][3]；另有统计口径称美国及盟国投资者整体持股约80.1%，除三家新投资者持有的45%份额外，剩余约35.1%由Michael Dell家族办公室及Vastmere等主体持有[5]。该合资公司由7人董事会管理，多数席位为经美国当局批准的美国公民，TikTok CEO周受资仍保留董事会席位[2][5]。\n\n### CEO任职安排\n相关任职需要区分全球业务与美国合资公司两个层面：\n1.  周受资（新加坡籍，2021年起任职）继续担任TikTok全球CEO，同时保留美国合资公司的董事会席位[5]；\n2.  美国合资公司的CEO由原TikTok运营及信任安全负责人Adam Presser出任[5]。",
+  "sources": [
+    {
+      "index": 1,
+      "url": "https://weibo.com/ttarticle/p/show?id=2309405258207370280981",
+      "title": null,
+      "origin": "citations"
+    },
+    {
+      "index": 2,
+      "url": "https://www.thepaper.cn/newsDetail_forward_32209543#%3A~%3Atext%3D%E8%AF%A5%E4%B8%BB%E4%BD%93%E7%94%B1%E5%AD%97%E8%8A%82%2C%E5%90%8E%E8%80%85%E6%94%B6%E5%8F%96%E6%8E%88%E6%9D%83%E8%B4%B9%E3%80%82",
+      "title": null,
+      "origin": "citations"
+    },
+    {
+      "index": 3,
+      "url": "https://svtr.ai/articles/bytedance",
+      "title": null,
+      "origin": "citations"
+    }
+  ],
+  "usage": {
+    "completion_tokens": 3852,
+    "completion_tokens_details": {
+      "reasoning_tokens": 3472
+    },
+    "prompt_tokens": 1136,
+    "prompt_tokens_details": {
+      "cached_tokens": 0
+    },
+    "total_tokens": 4988
+  },
+  "finish_reason": "stop",
+  "note": [],
+  "request_id": "73e7f446-c8e8-4e04-a01e-06e9abe6fa2b",
+  "duration_seconds": 70.141
+}

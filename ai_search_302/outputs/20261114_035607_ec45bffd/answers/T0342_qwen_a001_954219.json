@@ -1,0 +1,53 @@
+{
+  "task_id": "T0342",
+  "model": "qwen",
+  "news_id": "E029",
+  "question_index": 1,
+  "question_original": "【开放】卢浮宫案到底是丢了几件珠宝？找回的那顶皇冠和官方被盗清单是什么关系？",
+  "question": "卢浮宫案到底是丢了几件珠宝？找回的那顶皇冠和官方被盗清单是什么关系？",
+  "attempt": 1,
+  "provider": "302.ai",
+  "model_requested": "qwen3.8-max",
+  "query_date": "2026-11-14",
+  "search_service": "metaso",
+  "prompt_version": "news-search-v1",
+  "prompt_sha256": "ea56fd5557d32615a9115f2368a0c4983ff1188f4935369e694d7d46f2493be1",
+  "requested_at": "2026-11-14T12:29:49.840579+08:00",
+  "raw_file": "raw/T0342_qwen_a001_954219.json",
+  "transport": "sse",
+  "stream_file": "raw/T0342_qwen_a001_954219.sse",
+  "status": "ok",
+  "model_returned": "qwen3.8-max",
+  "answer": "截至 **2026-11-14**，公开信息里还不能把“丢了 9 件珠宝”当作已获官方确认的数字：**法国媒体称嫌犯共盗走 9 件珠宝，并称包括皇后欧也妮皇冠在内的 2 件已被找回，但这一说法未得到法国警方证实**[2]。因此，“到底丢了几件”目前应理解为：**媒体报道为 9 件，官方尚未证实总数**。\n\n关于“找回的那顶皇冠”和“官方被盗清单”的关系，可以这样理解：\n\n1. **媒体所说的“找回皇冠”，指向的是欧也妮皇后的皇冠**：报道明确提到“包括皇后欧也妮的皇冠在内的2件珠宝已经被找回”，但该消息未获警方证实[2]。\n\n2. **官方公告/资料中确实列有“欧也妮皇后的冠冕”**：检索到的公告内容中出现了“欧也妮皇后的冠冕”等珠宝名称[3]。因此，如果媒体报道的“找回皇冠”属实，它对应的应该就是公告/清单中所列的那件“欧也妮皇后的冠冕”，而不是另一顶未被列入的皇冠。\n\n3. **但“是否已找回”本身仍未被官方确认**：目前能确认的是，法国媒体称已找回 2 件，其中包括欧也妮皇冠；警方尚未证实这一找回情况[2]。同时，相关资料还提到“王冠状况正在评估中”[2]。\n\n补充背景：卢浮宫方面称，嫌犯试图纵火焚毁所用机械设备（疑为升降装置）时，被一名卢浮宫员工阻止，随后逃离，事件中无人受伤[2]。公告还提到，画廊外窗及两座展柜的报警系统均已启动[3]。",
+  "sources": [
+    {
+      "index": 1,
+      "url": "https://news.qq.com/rain/a/20251020A01EU600",
+      "title": null,
+      "origin": "citations"
+    },
+    {
+      "index": 2,
+      "url": "https://m.thepaper.cn/newsDetail_forward_31811254",
+      "title": null,
+      "origin": "citations"
+    }
+  ],
+  "usage": {
+    "completion_tokens": 1442,
+    "completion_tokens_details": {
+      "reasoning_tokens": 1062,
+      "text_tokens": 1442
+    },
+    "prompt_tokens": 979,
+    "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "text_tokens": 979
+    },
+    "total_tokens": 2421
+  },
+  "finish_reason": "stop",
+  "note": [],
+  "request_id": "94e555dc-d0f7-4f07-9b58-9a162a3cc5ce",
+  "duration_seconds": 53.641
+}

@@ -1,0 +1,51 @@
+{
+  "task_id": "T0281",
+  "model": "deepseek",
+  "news_id": "E024",
+  "question_index": 1,
+  "question_original": "【开放】演员王星在泰缅边境失联后，是怎么被找到、接回泰国并回到中国的？",
+  "question": "演员王星在泰缅边境失联后，是怎么被找到、接回泰国并回到中国的？",
+  "attempt": 1,
+  "provider": "302.ai",
+  "model_requested": "deepseek-flash",
+  "query_date": "2026-11-14",
+  "search_service": "metaso",
+  "prompt_version": "news-search-v1",
+  "prompt_sha256": "ea56fd5557d32615a9115f2368a0c4983ff1188f4935369e694d7d46f2493be1",
+  "requested_at": "2026-11-14T12:13:37.920615+08:00",
+  "raw_file": "raw/T0281_deepseek_a001_0fe883.json",
+  "transport": "sse",
+  "stream_file": "raw/T0281_deepseek_a001_0fe883.sse",
+  "status": "ok",
+  "model_returned": "deepseek-flash",
+  "answer": "根据现有检索到的报道，王星（星星）失联后被找到并接回泰国的过程大致是：**泰缅双方协调后，缅方将其送回泰国，泰国警方高层专程赴湄索接人**。但检索资料主要覆盖“找到并接回泰国”这一段，**关于他此后如何从泰国回到中国的具体安排，现有材料没有提供**，因此无法据此确认完整细节。\n\n具体事实如下：\n\n- **发现地点与初步处置**：2025年1月7日，泰国总理佩通坦·钦那瓦透露，在泰缅边境的**湄索边境附近**发现了中国演员“星星”，泰国省警察第6区正在那里等待接回他[5]。\n- **泰方高层赴边境接人**：同日，泰国皇家警察总署署长、警察总监吉迪拉·潘佩奇将军在总理确认已找到星星后，**搭乘特快专机飞往湄索**接他[5]。\n- **缅方拘留与移交**：泰国警方称，星星是被**缅甸边防部队（BGF）拘留**，缅甸方面与泰国当局协调后，于当天中午过后将其送回泰国[5]。另有检索结果标题显示，王星“已被接到泰国”，中国驻泰使领馆对此表示感谢[3]。\n- **泰方表态的背景**：佩通坦当时强调，必须做好一切，避免影响泰国旅游，因为一旦发生此类事件，就会出现“泰国很危险、很可怕”的声音[5]。\n\n需要说明的是：检索结果中还有“人已到缅甸，也到了灰产控制区内”“近照公布已被剃了光头”等标题信息[3]，但这些属于事件过程中的零散报道，不能替代官方完整通报。至于王星**从泰国返回中国的具体时间、航班或口岸安排**，上述资料均未涉及，属于目前检索材料未能确认的部分。",
+  "sources": [
+    {
+      "index": 1,
+      "url": "https://www.bilibili.com/video/BV1MxrmYdEWV",
+      "title": null,
+      "origin": "citations"
+    },
+    {
+      "index": 2,
+      "url": "https://www.nbd.com.cn/articles/2025-01-07/3713068.html",
+      "title": null,
+      "origin": "citations"
+    }
+  ],
+  "usage": {
+    "completion_tokens": 949,
+    "completion_tokens_details": {
+      "reasoning_tokens": 544
+    },
+    "prompt_tokens": 994,
+    "prompt_tokens_details": {
+      "cached_tokens": 0
+    },
+    "total_tokens": 1943
+  },
+  "finish_reason": "stop",
+  "note": [],
+  "request_id": "f4541813-0e9d-4c01-b70a-249cdb9e3a11",
+  "duration_seconds": 7.907
+}

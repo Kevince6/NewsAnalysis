@@ -1,0 +1,59 @@
+{
+  "task_id": "T0243",
+  "model": "qwen",
+  "news_id": "E020",
+  "question_index": 2,
+  "question_original": "【事实】我的安克充电宝有清晰的3C标识，但属于召回批次，按2025年6月28日起的新规还能带上境内航班吗？",
+  "question": "我的安克充电宝有清晰的3C标识，但属于召回批次，按2025年6月28日起的新规还能带上境内航班吗？",
+  "attempt": 1,
+  "provider": "302.ai",
+  "model_requested": "qwen3.8-max",
+  "query_date": "2026-11-14",
+  "search_service": "metaso",
+  "prompt_version": "news-search-v1",
+  "prompt_sha256": "ea56fd5557d32615a9115f2368a0c4983ff1188f4935369e694d7d46f2493be1",
+  "requested_at": "2026-11-14T12:06:52.405246+08:00",
+  "raw_file": "raw/T0243_qwen_a001_a0aa4e.json",
+  "transport": "sse",
+  "stream_file": "raw/T0243_qwen_a001_a0aa4e.sse",
+  "status": "ok",
+  "model_returned": "qwen3.8-max",
+  "answer": "不能。按照2025年6月28日起执行的民航局新规，即使你的安克充电宝有清晰的3C标识，只要它属于“被召回型号或批次”，也一律禁止携带乘坐境内航班[1][3]。\n\n补充说明：\n\n1. **新规禁止的是三类充电宝**：无3C标识、3C标识不清晰、被召回型号或批次的充电宝，均不得带上境内航班[1][2][3]。你的情况虽然3C标识清晰，但属于召回批次，仍在禁止范围内[1][3]。\n\n2. **该规定主要出于航空安全考虑**：民航局要求登机充电宝必须具备清晰、真实、有效的3C认证标识，并排除被召回产品，目的是防范锂电池起火风险[3]。\n\n3. **如果已在机场，可考虑现场处置**：深圳机场等场景提供充电宝免费寄存、快递收运、召回申请等服务[1]。但需要注意，深圳机场T3航站楼四层收寄点按邮递公司要求，**安克品牌充电宝暂不提供邮寄服务**；如果充电宝鼓包、破损或表面有磕碰，也不予邮寄[1]。\n\n因此，你这个“有清晰3C但属于召回批次”的安克充电宝，按该新规不能随身带上境内航班；建议先按召回流程处理，或改带符合规定、非召回批次的充电宝。",
+  "sources": [
+    {
+      "index": 1,
+      "url": "https://jtys.sz.gov.cn/gkmlpt/content/12/12675/post_12675115.html",
+      "title": null,
+      "origin": "citations"
+    },
+    {
+      "index": 2,
+      "url": "https://xueqiu.com/4634834810/349738874",
+      "title": null,
+      "origin": "citations"
+    },
+    {
+      "index": 3,
+      "url": "https://news.sina.cn/bignews/opinion/2025-11-26/detail-infytqia1004108.d.html",
+      "title": null,
+      "origin": "citations"
+    }
+  ],
+  "usage": {
+    "completion_tokens": 750,
+    "completion_tokens_details": {
+      "reasoning_tokens": 453,
+      "text_tokens": 750
+    },
+    "prompt_tokens": 1139,
+    "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "text_tokens": 1139
+    },
+    "total_tokens": 1889
+  },
+  "finish_reason": "stop",
+  "note": [],
+  "request_id": "7eb38c50-ca9c-4684-915b-6201293de422",
+  "duration_seconds": 18.703
+}

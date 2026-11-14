@@ -1,0 +1,51 @@
+{
+  "task_id": "T0076",
+  "model": "doubao",
+  "news_id": "E006",
+  "question_index": 4,
+  "question_original": "【事实】美军2026年11月13日称拦截了多少架飞向巴林的伊朗无人机？有没有报告人员受伤或设施损坏？",
+  "question": "美军2026年11月13日称拦截了多少架飞向巴林的伊朗无人机？有没有报告人员受伤或设施损坏？",
+  "attempt": 1,
+  "provider": "302.ai",
+  "model_requested": "doubao-seed-2-1-pro-260628",
+  "query_date": "2026-11-14",
+  "search_service": "metaso",
+  "prompt_version": "news-search-v1",
+  "prompt_sha256": "ea56fd5557d32615a9115f2368a0c4983ff1188f4935369e694d7d46f2493be1",
+  "requested_at": "2026-11-14T11:19:31.921256+08:00",
+  "raw_file": "raw/T0076_doubao_a001_ed5f6a.json",
+  "transport": "sse",
+  "stream_file": "raw/T0076_doubao_a001_ed5f6a.sse",
+  "status": "ok",
+  "model_returned": "doubao-seed-2-1-pro-260628",
+  "answer": "根据目前提供的检索资料，未查询到2026年11月13日美军关于拦截飞向巴林的伊朗无人机的相关通报内容，暂无法确认该时间点对应的拦截架次、人员受伤及设施损坏情况。\n\n现有检索资料中记录了两起伊朗针对巴林方向发动袭击的相关公开信息，可供参考：\n1.  一起事件发生于未标注具体年份的当地时间某月6日凌晨：当时科威特和巴林全国拉响防空警报。美国中央司令部发表声明称，伊朗向科威特、巴林发射了7枚弹道导弹及无人机，其中6枚弹道导弹被拦截，剩余1枚导弹未击中目标；此次事件中暂无美军人员受伤的报告，美方同时指出伊朗宣称“破坏美军第五舰队总部”的说法是虚假信息。伊朗塔斯尼姆通讯社则在事发后表示，位于巴林的美国海军第五舰队总部升起浓烟[1]。需要说明的是，这份美方通报仅提及伊朗发射了无人机，未公开被拦截的无人机具体数量。\n2.  另一起事件是新华社6月11日发自麦纳麦的报道：巴林内政部当日通报，该国因伊朗袭击两次拉响防空警报；在拦截伊朗无人机过程中产生的碎片坠落在首都麦纳麦和哈马德镇，导致当地车辆起火、房屋受损，还造成1名11岁女童受轻伤，女童已在现场接受治疗，巴林民防部门、国家救护机构已采取必要处置措施。伊朗媒体当日报道称，伊朗使用无人机袭击了位于巴林的美军第五舰队，以此回应美国此前对伊朗南部的袭击；伊朗伊斯兰革命卫队公共关系部门同日发表声明称，革命卫队航空航天部队击中并摧毁了美军位于巴林的谢赫伊萨空军基地等区域的18个重要目标[4]。该报道未提及美军在此次事件中的拦截数量、美军人员受伤及所属设施损坏的相关通报内容。",
+  "sources": [
+    {
+      "index": 1,
+      "url": "https://www.163.com/dy/article/KUOAG6KB0556BOFH.html",
+      "title": null,
+      "origin": "citations"
+    },
+    {
+      "index": 2,
+      "url": "http://www.news.cn/world/20260611/b1d43c0508ec4ce8835f9da2ae0cefa4/c.html",
+      "title": null,
+      "origin": "citations"
+    }
+  ],
+  "usage": {
+    "completion_tokens": 3153,
+    "completion_tokens_details": {
+      "reasoning_tokens": 2738
+    },
+    "prompt_tokens": 1080,
+    "prompt_tokens_details": {
+      "cached_tokens": 0
+    },
+    "total_tokens": 4233
+  },
+  "finish_reason": "stop",
+  "note": [],
+  "request_id": "a0bd3bd3-d433-4f7c-9937-7a8218ce32f6",
+  "duration_seconds": 62.313
+}

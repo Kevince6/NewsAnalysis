@@ -1,0 +1,45 @@
+{
+  "task_id": "T0119",
+  "model": "deepseek",
+  "news_id": "E010",
+  "question_index": 2,
+  "question_original": "【事实】张雪峰是什么时候、在哪里去世的？公司讣告公布的死因是什么？",
+  "question": "张雪峰是什么时候、在哪里去世的？公司讣告公布的死因是什么？",
+  "attempt": 1,
+  "provider": "302.ai",
+  "model_requested": "deepseek-flash",
+  "query_date": "2026-11-14",
+  "search_service": "metaso",
+  "prompt_version": "news-search-v1",
+  "prompt_sha256": "ea56fd5557d32615a9115f2368a0c4983ff1188f4935369e694d7d46f2493be1",
+  "requested_at": "2026-11-14T11:32:52.182641+08:00",
+  "raw_file": "raw/T0119_deepseek_a001_c2a124.json",
+  "transport": "sse",
+  "stream_file": "raw/T0119_deepseek_a001_c2a124.sse",
+  "status": "ok",
+  "model_returned": "deepseek-flash",
+  "answer": "## 检索到的信息\n\n根据目前检索到的报道[3]：\n\n- **时间**：2026年3月24日中午12点26分，张雪峰在公司跑步后出现不适，被紧急送医；当天下午3点50分，经全力抢救无效去世[3]。\n- **地点**：报道只提到他“在公司跑步后出现不适”，**没有写明公司名称或所在城市**，因此无法据此确认具体地点[3]。\n- **死因**：医院诊断原因为**心源性猝死**[3]。\n\n## 需要说明的几点\n\n1. **“公司讣告”的内容未能检索到。** 现有资料只是记者了解到的送医和抢救经过，以及医院诊断，并没有公司讣告原文，因此无法回答“讣告公布的死因”具体是怎么表述的。若按现有资料，可确认的死因表述是“心源性猝死”[3]。\n\n2. **信息来源单一，建议核实。** 该说法目前仅见于这一条检索结果[3]，尚未见到公司官方讣告、家属声明或多家权威媒体的相互印证。涉及生死的信息，建议以公司官方账号、家属声明或权威媒体发布为准；在获得进一步确认前，上述时间、地点和死因应视为“据该报道所述”，不宜当作已经完全确认的事实。\n\n3. 如果你需要，我可以再帮你检索公司官方讣告或后续报道，以确认地点和讣告原文表述。",
+  "sources": [
+    {
+      "index": 1,
+      "url": "https://finance.sina.cn/2026-03-24/detail-inhscaeq1631401.d.html",
+      "title": null,
+      "origin": "citations"
+    }
+  ],
+  "usage": {
+    "completion_tokens": 1058,
+    "completion_tokens_details": {
+      "reasoning_tokens": 744
+    },
+    "prompt_tokens": 735,
+    "prompt_tokens_details": {
+      "cached_tokens": 0
+    },
+    "total_tokens": 1793
+  },
+  "finish_reason": "stop",
+  "note": [],
+  "request_id": "ad92f311-c74a-46e0-890a-5d4e99c8892a",
+  "duration_seconds": 7.469
+}

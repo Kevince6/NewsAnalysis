@@ -1,0 +1,69 @@
+{
+  "task_id": "T0310",
+  "model": "doubao",
+  "news_id": "E026",
+  "question_index": 4,
+  "question_original": "【事实】按日本当地时间，气象厅在2026年10月16日几点发出、几点撤销了这次紧急预警？",
+  "question": "按日本当地时间，气象厅在2026年10月16日几点发出、几点撤销了这次紧急预警？",
+  "attempt": 1,
+  "provider": "302.ai",
+  "model_requested": "doubao-seed-2-1-pro-260628",
+  "query_date": "2026-11-14",
+  "search_service": "metaso",
+  "prompt_version": "news-search-v1",
+  "prompt_sha256": "ea56fd5557d32615a9115f2368a0c4983ff1188f4935369e694d7d46f2493be1",
+  "requested_at": "2026-11-14T12:20:47.533239+08:00",
+  "raw_file": "raw/T0310_doubao_a001_72e6f6.json",
+  "transport": "sse",
+  "stream_file": "raw/T0310_doubao_a001_72e6f6.sse",
+  "status": "ok",
+  "model_returned": "doubao-seed-2-1-pro-260628",
+  "answer": "根据现有检索到的信息，日本气象厅2026年10月16日误发的千岛群岛9.9级地震紧急预警的发布、撤销时间如下：\n1.  预警发布：日本当地时间10月16日12时36分前后，气象厅因系统故障错误判定千岛群岛附近在该时刻发生9.9级地震，预计日本大范围区域将出现强烈震动，据此发布了本次紧急地震速报[3][4][5]。\n2.  预警撤销：预警发布后，公众并未感受到预测中的强震晃动，气象厅在本次预警发出8分多钟后推送通知，宣布取消该紧急地震速报；目前检索到的公开资料未记载撤销动作的精确分钟级时点，按发布时间推算，撤销时间约为当日12时44分前后[5]。\n\n### 相关背景说明\n本次预警属于技术失误导致的误报：系统不仅将震级严重高估至9.9级，还错误判定了震源位置。经后续核实，当日实际发生的是12时38分左右震源位于堪察加半岛附近的6.9级地震，对日本的影响仅为北海道部分地区出现震度1的轻微晃动，完全未达到预警提示的强震影响程度。日本气象厅在10月16日下午专门召开记者会，就本次误发预警事件向公众致歉，事件的具体技术原因在记者会召开时仍在调查中[4][5]。\n\n注：本次检索结果中另有一则驻大阪总领馆针对10月26日前后影响西日本的30号台风的安全提醒，与此次地震预警事件无关[2]。",
+  "sources": [
+    {
+      "index": 1,
+      "url": "https://www.cls.cn/detail/2393086",
+      "title": null,
+      "origin": "citations"
+    },
+    {
+      "index": 2,
+      "url": "https://k.sina.com.cn/article_1893892941_70e2834d020024e7a.html",
+      "title": null,
+      "origin": "citations"
+    },
+    {
+      "index": 3,
+      "url": "https://k.sina.com.cn/article_1726918143_66eeadff01901w9gg.html",
+      "title": null,
+      "origin": "citations"
+    },
+    {
+      "index": 4,
+      "url": "https://feng.ifeng.com/c/8xHLNRDkudk",
+      "title": null,
+      "origin": "citations"
+    },
+    {
+      "index": 5,
+      "url": "https://china.hani.co.kr/arti/international/17529.html",
+      "title": null,
+      "origin": "citations"
+    }
+  ],
+  "usage": {
+    "completion_tokens": 3708,
+    "completion_tokens_details": {
+      "reasoning_tokens": 3332
+    },
+    "prompt_tokens": 1584,
+    "prompt_tokens_details": {
+      "cached_tokens": 0
+    },
+    "total_tokens": 5292
+  },
+  "finish_reason": "stop",
+  "note": [],
+  "request_id": "516acc45-517b-4c7c-a797-50e20600f9d5",
+  "duration_seconds": 78.937
+}

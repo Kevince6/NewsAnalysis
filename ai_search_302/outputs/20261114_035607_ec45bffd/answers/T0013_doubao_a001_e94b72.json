@@ -1,0 +1,69 @@
+{
+  "task_id": "T0013",
+  "model": "doubao",
+  "news_id": "E002",
+  "question_index": 1,
+  "question_original": "【开放】刘欢患过癌症，也有过股骨头坏死，他的去世是这些病导致的吗？",
+  "question": "刘欢患过癌症，也有过股骨头坏死，他的去世是这些病导致的吗？",
+  "attempt": 1,
+  "provider": "302.ai",
+  "model_requested": "doubao-seed-2-1-pro-260628",
+  "query_date": "2026-11-14",
+  "search_service": "metaso",
+  "prompt_version": "news-search-v1",
+  "prompt_sha256": "ea56fd5557d32615a9115f2368a0c4983ff1188f4935369e694d7d46f2493be1",
+  "requested_at": "2026-11-14T04:08:17.961438+08:00",
+  "raw_file": "raw/T0013_doubao_a001_e94b72.json",
+  "transport": "sse",
+  "stream_file": "raw/T0013_doubao_a001_e94b72.sse",
+  "status": "ok",
+  "model_returned": "doubao-seed-2-1-pro-260628",
+  "answer": "### 核心结论\n根据目前公开的权威信息，**没有证据表明刘欢的去世是癌症或股骨头坏死直接导致的：其中“刘欢患过癌症”的说法属于对疾病俗称的误读，目前并无他曾确诊恶性肿瘤的公开记录；而股骨头坏死本身属于非致死性疾病，不会直接造成患者死亡。刘欢的具体逝世病因尚未由其生前单位发布的讣告或家属正式公布**。\n\n---\n\n### 相关事实说明\n1.  **对“患癌”说法的澄清**\n    公开报道中反复提到的“不死癌症”，并非指刘欢罹患恶性肿瘤，而是对他2009年确诊的股骨头缺血性坏死的民间俗称。这种疾病的核心病理是股骨头局部血液供应遭到破坏，骨细胞因缺血逐渐死亡，后续可能出现股骨头塌陷、变形；由于该病难以根治，会伴随长期剧烈疼痛、行走受限甚至严重残疾，对生活质量影响极大，但极少直接造成患者死亡，因此才被民间冠以“不死的癌症”的称呼，晚期患者可通过人工髋关节置换手术改善症状[1][3][4]。\n    据临床医生介绍，股骨头坏死并非老年专属疾病，常见诱因包括运动创伤、长期大量饮酒、长期使用肾上腺糖皮质激素等；结合刘欢的个人情况，医生判断常年大量饮酒是他患病的重要诱因之一，他确诊后便彻底戒酒，但疾病造成的损伤是不可逆的，后续多年他坚持真唱登台，但很多演出下台时都需要人搀扶，也曾因髋部问题接受过相关手术治疗[1][2][3][4]。\n2.  **疾病与逝世的关联说明**\n    从疾病特性来看，股骨头坏死属于致残性疾病而非致死性疾病，本身不会直接导致患者死亡，因此可以确定它并非造成刘欢离世的直接原因[4][5]。\n    目前关于刘欢逝世的权威公开信息，仅来自对外经济贸易大学9月26日发布的讣告：刘欢于2026年9月25日上午9时52分在上海病逝，享年63岁，讣告中并未披露导致其去世的具体疾病[1][4]。网络上流传的各类具体死因猜测（包括饮酒相关、急症相关等说法）均未获得家属或官方证实，有观点结合刘欢确诊股骨头坏死后早已彻底戒酒、后期注重身体保养的情况提出，他的离世与既往饮酒史也不存在直接因果关系，建议公众尊重家属隐私，不必过度追问未公开的私人健康信息[5]。",
+  "sources": [
+    {
+      "index": 1,
+      "url": "https://news.sina.com.cn/c/2026-09-26/doc-initcute0512757.shtml",
+      "title": null,
+      "origin": "citations"
+    },
+    {
+      "index": 2,
+      "url": "https://www.163.com/dy/article/L7OJIV9V0553XF0M.html",
+      "title": null,
+      "origin": "citations"
+    },
+    {
+      "index": 3,
+      "url": "https://www.163.com/dy/article/L7PEMHQ80514A07Q.html",
+      "title": null,
+      "origin": "citations"
+    },
+    {
+      "index": 4,
+      "url": "https://cj.sina.com.cn/articles/view/1887790981/m7085678503301ddns",
+      "title": null,
+      "origin": "citations"
+    },
+    {
+      "index": 5,
+      "url": "https://sina.cn/news/detail/5347463349143617.html",
+      "title": null,
+      "origin": "citations"
+    }
+  ],
+  "usage": {
+    "completion_tokens": 4028,
+    "completion_tokens_details": {
+      "reasoning_tokens": 3467
+    },
+    "prompt_tokens": 1489,
+    "prompt_tokens_details": {
+      "cached_tokens": 0
+    },
+    "total_tokens": 5517
+  },
+  "finish_reason": "stop",
+  "note": [],
+  "request_id": "d3b592b5-9596-492d-b349-52c89fe12376",
+  "duration_seconds": 83.438
+}

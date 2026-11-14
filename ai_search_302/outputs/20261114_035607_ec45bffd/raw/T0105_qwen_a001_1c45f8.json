@@ -1,0 +1,59 @@
+{
+  "request": {
+    "model": "qwen3.8-max",
+    "messages": [
+      {
+        "role": "system",
+        "content": "请联网检索后，用自然中文回答用户的问题。\n先直接回答，再补充理解答案所需的事实、背景或说明；复杂问题可分点，简单问题可简答。\n优先参考与问题直接相关的原始发布、机构公告、当事人回应及可信媒体报道。\n依据检索到的资料作答。资料不足、存在分歧或尚未确认的内容，请明确说明；解释和判断应与已确认的事实区分。\n在相关事实后标注检索来源，沿用检索结果提供的引用编号或标记。\n\n查询日期：2026-11-14（北京时间，UTC+8）。问题中的“现在”“近期”“最新”以此日期为参照；问题明确指定时间范围时，以问题为准。"
+      },
+      {
+        "role": "user",
+        "content": "OpenClaw和Moltbook到底是什么关系？它们是同一个项目吗，后来各自发生了什么？"
+      }
+    ],
+    "web-search": true,
+    "search-service": "metaso",
+    "search-results": 5,
+    "stream": true,
+    "stream_options": {
+      "include_usage": true
+    }
+  },
+  "response": {
+    "object": "chat.completion",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "不是同一个项目。  \n\n**OpenClaw 是一个开源的个人 AI 助手 / Agent 框架项目**；**Moltbook 则是一个主要供 AI agents 发帖、评论、互动的平台，界面和机制类似 Reddit**[1][5]。两者的关系更像是“强相关的生态/传播关系”：Moltbook 的爆火源于 OpenClaw，而 Moltbook 在 2026 年 1 月底到 2 月迅速走红后，又反过来给 OpenClaw 带来了一波关注[1][4][5]。不过，现有资料没有明确说明 Moltbook 是否是 OpenClaw 的官方衍生产品、同一团队开发或代码同源，因此可以确认的是它们在来源和传播上密切相关，但不能直接等同为同一个项目[1][4][5]。\n\n### 后来各自发生了什么\n\n1. **OpenClaw：从 Clawdbot 更名，并在开发者社区爆红**  \n   OpenClaw 最初诞生于 2025 年底，由奥地利开发者 Peter Steinberger 在一个周末创建，当时名字叫 **Clawdbot**[2]。它以 **Clawdbot** 的名字发布后，短短几周内就成为 GitHub 上增长最快的开源项目之一，星标数突破 10 万[4]。到 **2026 年 1 月 24 日前后**，项目完成了向 **OpenClaw** 的品牌切换，并在开发者社区迅速爆红，主要表现为 GitHub 上的极高关注度[1][5]。\n\n2. **Moltbook：作为 AI agents 社区平台走红**  \n   Moltbook 是一个让 AI agents 发帖、评论、互动的平台，界面和机制类似 Reddit[1][5]。它在 **2026 年 1 月底到 2 月迅速走红**，并给 OpenClaw 带来了额外流量[1][5]。资料也明确提到，**Moltbook 的爆火源于 OpenClaw**[4]。\n\n3. **OpenClaw 本身的定位**  \n   OpenClaw 被描述为一个可以在用户电脑上运行的自主 AI 助手，能够管理日历、发送消息、自动化工作流程，并可以通过 WhatsApp、Telegram、Discord 等平台与用户交互[4]。它最初叫 Clawdbot，这个名字融合了 “Claude” 和 “Claw”，暗示其机敏灵活[2]。\n\n4. **一个补充背景**  \n   资料还提到，Peter Steinberger 自己说，OpenClaw 是他自 2009 年以来做的第 44 个 AI 相关项目，而且 OpenClaw 整体上是用 AI、通过纯 prompt 做出来的[1][5]。\n\n**一句话总结：**  \nOpenClaw 是 AI 助手/Agent 框架，Moltbook 是 AI agents 互动社区平台；二者不是同一个项目，但 Moltbook 因 OpenClaw 而火，随后又反过来带动了 OpenClaw 的关注度[1][4][5]。",
+          "reasoning_content": "我们需要回答用户问题：“OpenClaw和Moltbook到底是什么关系？它们是同一个项目吗，后来各自发生了什么？”已有搜索结果：1,2,4,5。需要中文自然回答，先直接回答再补充事实背景，引用编号在句末。今天是2026-11-14。资料只有这些。需要甄别。\n\n关键信息：\n- OpenClaw源头：最初2025年底由奥地利开发者Peter Steinberger在一个周末创建，当时叫Clawdbot，融合Claude和Claw。[2]\n- 是开源个人AI助手框架项目/自主AI助手，能够在用户电脑上运行，管理日历、发送消息、自动化工作流程，通过WhatsApp/Telegram/Discord等交互。[2][4]\n- 2025年底以Clawdbot发布，几周成为GitHub增长最快开源项目之一，星标突破10万。[4]\n- 到2026年1月24日前后，项目完成向OpenClaw品牌切换，在开发者社区迅速爆红，主要GitHub极高关注度。[1][5]\n- 同时，Moltbook在1月底到2月迅速走红，给OpenClaw带来了一波。[1][5]\n- Moltbook是主要供AI agents发帖、评论、互动的平台，界面和机制类似Reddit。[1][5]\n- Moltbook爆火源于OpenClaw。[4]\n- OpenClaw是Peter第44个AI相关项目，整体用AI做出来，纯prompt写出来。[1][5]\n\n问题：关系？是否同一项目？后来各自发生了什么？\n回答：不是同一个项目。OpenClaw是个人AI助手/代理框架，Moltbook是供AI agents社交/发帖互动的平台。关系：Moltbook的爆火源于OpenClaw，且Moltbook走红反过来给OpenClaw带来关注/流量。可说同源/衍生或生态相关？资料说“源头——OpenClaw项目说起”“Moltbook的爆火源于OpenClaw”。但并未明确说Moltbook由同一作者或从OpenClaw分拆？它说“要理解Moltbook，必须先从源头OpenClaw说起”。可以谨慎：可视为与OpenClaw生态/源头密切相关的衍生或伴生平台，但搜索结果没有明确说明二者是否同一团队、代码同源或官方产品关系，只确认Moltbook因OpenClaw而火，并反哺OpenClaw。需要明确资料不足。后来：OpenClaw从Clawdbot更名/品牌切换，2026年1月24日前后完成切换，爆红。Moltbook 2026年1月底到2月迅速走红，作为AI agents类Reddit平台。\n\n需要可能分点。先直接回答：不是同一项目；OpenClaw是个人AI助手框架，Moltbook是AI agents社交平台；Moltbook因OpenClaw走红并给OpenClaw带流量。后续各自：OpenClaw从Clawdbot更名，GitHub爆红；Moltbook成为AI agent互动平台，1月底到2月走红。\n\n需引用：[1][2][4][5]适当。不要重复引用一个网页？要求综合多个网页，不重复引用一个网页？“不能重复引用一个网页”可能不是不能多次引用同一网页？它说综合多个相关网页来回答，不能重复引用一个网页。可能指不要只引用一个网页。我们可以使用多个编号，必要时重复？用户要求“不要将引用集中在最后”，并且如果一句话源自多个上下文列所有。可能可以多次引用。但“不能重复引用一个网页”也许指不要同一句重复？我们尽量每个事实多来源。\n\n需要避免过度推断：如“同一作者”未明确。可以说资料未明确是否同一团队/同一代码库。\n\n需要回答格式：标题或直接段落。简洁但充分。先直接回答再补充。\n\n草稿：\n不是同一个项目。简单说：OpenClaw是“个人 AI 助手/代理框架”，Moltbook是“给 AI agents 发帖、评论、互动的类Reddit平台”。二者关系密切：Moltbook的爆火源于OpenClaw；而Moltbook在2026年1月底到2月走红时，又反过来给OpenClaw带来了一波关注[1][4][5]。但搜索结果没有明确说明Moltbook是否是OpenClaw官方衍生产品、同一团队或代码同源，因此只能确认它们在传播和生态上强相关[1][4][5]。\n\n后来：\n1. OpenClaw：2025年底以Clawdbot名称由Peter Steinberger创建，可在本地运行、管理日历、发消息、自动化流程，并通过WhatsApp等交互；几周内GitHub星标破10万[2][4]。到2026年1月24日前后完成品牌切换到OpenClaw，在开发者社区迅速爆红[1][5]。\n2. Moltbook：主要供AI agents发帖、评论、互动，界面机制类似Reddit；在1月底到2月迅速走红，并给OpenClaw带来流量[1][5]。其爆火源于OpenClaw[4]。\n\n补充：OpenClaw本身是Peter第44个AI项目，整体用AI纯prompt做出[1][5]。\n\n需要确保引用位置。可以加“截至检索资料”。\n\n注意用户说“查询日期2026-11-14”，可能希望现在情况？资料止于2026年初。我们可以说基于当前检索资料，后续未见更多确认。不要主动说未提供？要求如非必要不主动告诉用户搜索结果未提供的内容。但问题问后来各自发生了什么，资料只到2026年2月，我们可以回答资料范围内，不说“未提供”。但如存在不确定：关系是否同一项目/团队，需说明资料未明确。可以说“资料未显示为同一项目；更准确说……” 可以。\n\n需要“先直接回答，再补充理解答案所需的事实、背景或说明；复杂问题可分点”。我们就直接回答。\n\n最终中文。确保引用格式 [1][5]等。\n\n检查事实：\n- “Moltbook 的爆火源于 OpenClaw。”[4]\n- “Moltbook在1月底到2月迅速走红，给OpenClaw带来了一波。”[1][5]\n- “Moltbook是一个主要供AI agents发帖、评论、互动的平台，界面和机制类似Reddit。”[1][5]\n- “OpenClaw是开源个人AI助手框架项目，2025年底由奥地利开发者Peter Steinberger在一个周末创建。当时叫Clawdbot。”[2]\n- “到2026年1月24日前后完成品牌切换”[1][5]\n- “在开发者社区迅速爆红，主要GitHub高关注”[1][5]\n- “以Clawdbot发布，几周成为GitHub增长最快开源项目之一，星标突破10万。自主AI助手，本地运行，管理日历、发送消息、自动化工作流程，通过WhatsApp、Telegram、Discord交互。”[4]\n\n需要可能解释“同一个项目吗”：不是同一项目；OpenClaw是助手框架，Moltbook是平台。若问是否后来各自发生了什么，可以说OpenClaw从Clawdbot改名并爆红；Moltbook作为AI agents平台爆红。可以强调二者传播关系。\n\n需要避免“后来”超过资料：不要编造2026年2月之后。可以说“检索资料中可见的后续是”。\n\nLet's craft with headings."
+        },
+        "finish_reason": "stop"
+      }
+    ],
+    "id": "chatcmpl-23e45222-14bd-9352-8aa4-af6937e78e8b",
+    "model": "qwen3.8-max",
+    "created": 1794626943,
+    "citations": [
+      "https://news.qq.com/rain/a/20260323A005VF00?adChannelId=tech",
+      "https://www.fuyuan7.com/post-1427.html",
+      "http://applocal.myzaker.com/news/article.php?pk=697f03eb8e9f09256671cf1c",
+      "https://www.huxiu.com/article/4844349.html"
+    ],
+    "usage": {
+      "completion_tokens": 2305,
+      "completion_tokens_details": {
+        "reasoning_tokens": 1649,
+        "text_tokens": 2305
+      },
+      "prompt_tokens": 1304,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "text_tokens": 1304
+      },
+      "total_tokens": 3609
+    },
+    "_transport": "sse"
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "task_id": "T0292",
+  "model": "doubao",
+  "news_id": "E025",
+  "question_index": 1,
+  "question_original": "【开放】Manus宣布加入Meta和后来被要求撤销交易，这两次消息分别是怎么回事？",
+  "question": "Manus宣布加入Meta和后来被要求撤销交易，这两次消息分别是怎么回事？",
+  "attempt": 1,
+  "provider": "302.ai",
+  "model_requested": "doubao-seed-2-1-pro-260628",
+  "query_date": "2026-11-14",
+  "search_service": "metaso",
+  "prompt_version": "news-search-v1",
+  "prompt_sha256": "ea56fd5557d32615a9115f2368a0c4983ff1188f4935369e694d7d46f2493be1",
+  "requested_at": "2026-11-14T12:15:26.546010+08:00",
+  "raw_file": "raw/T0292_doubao_a001_cfd97d.json",
+  "transport": "sse",
+  "stream_file": "raw/T0292_doubao_a001_cfd97d.sse",
+  "status": "ok",
+  "model_returned": "doubao-seed-2-1-pro-260628",
+  "answer": "基于目前可查询到的公开报道信息，这两则前后关联的消息分别对应Meta收购Manus交易落地、交易经安全审查被监管要求撤销两个阶段：其中针对“Manus宣布加入Meta”的相关官方表态细节，现有公开报道未披露具体内容，对应的核心事件是Meta对Manus的收购完成、Manus被整合进Meta业务体系，具体情况如下：\n### 一、Manus被纳入Meta体系的相关情况\n1.  交易与整合情况：Meta以25亿美元的价格完成对Manus的收购，交易落地后Meta很快启动整合工作，将Manus的技术融入自身业务系统；包括总部位于加州的风险投资机构Benchmark在内的Manus部分投资方，已经通过这笔交易兑现了投资回报[2]。\n2.  监管的早期介入：这笔收购进入公众视野后，商务部新闻发言人何亚东在1月8日作出公开回应，表示商务部将会同相关部门，对此项收购与出口管制、技术进出口、对外投资等领域相关法律法规的一致性开展评估调查[4]。\n### 二、收购被要求撤销交易的相关情况\n1.  正式监管决定：4月27日，外商投资安全审查工作机制办公室依法依规对Meta收购Manus项目作出禁止投资决定，正式要求交易双方撤销该收购交易[1]。据《华尔街日报》报道，相关撤销要求提出后，Meta正在筹备撤销收购的相关工作，Manus的多名前投资方已表示会配合Meta推进撤销流程[2]。\n2.  撤销工作的现实难度：由于收购完成后Manus已经和Meta在技术、业务、组织架构层面深度融合，撤销交易需要双方重新拆解已经打通的各类协作关系；再加之前期已有部分投资方从交易中获得了收益，整个拆分、恢复的过程复杂度较高，需要平衡监管要求与商业逻辑[2][3]。\n3.  后续安排与当前进展：按照明确的方向，交易撤销后Manus将恢复独立运营，后续会继续通过App和官方网站为用户提供产品和订阅服务，公司仍将保留新加坡的运营主体[3][4]。截至《财经》杂志就交易撤销的具体进展向Meta、Manus双方求证的稿件发稿时，两家公司均未对相关问题作出回复[3]。",
+  "sources": [
+    {
+      "index": 1,
+      "url": "https://www.pedaily.cn/first/150810.shtml",
+      "title": null,
+      "origin": "citations"
+    },
+    {
+      "index": 2,
+      "url": "https://new.qq.com/rain/a/20260428A04N3Q00",
+      "title": null,
+      "origin": "citations"
+    },
+    {
+      "index": 3,
+      "url": "https://finance.sina.cn/2026-08-17/detail-ininruyf6787363.d.html",
+      "title": null,
+      "origin": "citations"
+    },
+    {
+      "index": 4,
+      "url": "https://xueqiu.com/9793054414/386269814",
+      "title": null,
+      "origin": "citations"
+    }
+  ],
+  "usage": {
+    "completion_tokens": 7346,
+    "completion_tokens_details": {
+      "reasoning_tokens": 6840
+    },
+    "prompt_tokens": 1277,
+    "prompt_tokens_details": {
+      "cached_tokens": 0
+    },
+    "total_tokens": 8623
+  },
+  "finish_reason": "stop",
+  "note": [],
+  "request_id": "e92a2b79-5b1b-4c42-bb17-b6c15ced9a38",
+  "duration_seconds": 146.656
+}

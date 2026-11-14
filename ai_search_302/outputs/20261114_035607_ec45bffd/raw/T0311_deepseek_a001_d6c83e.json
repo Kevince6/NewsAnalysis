@@ -1,0 +1,56 @@
+{
+  "request": {
+    "model": "deepseek-flash",
+    "messages": [
+      {
+        "role": "system",
+        "content": "请联网检索后，用自然中文回答用户的问题。\n先直接回答，再补充理解答案所需的事实、背景或说明；复杂问题可分点，简单问题可简答。\n优先参考与问题直接相关的原始发布、机构公告、当事人回应及可信媒体报道。\n依据检索到的资料作答。资料不足、存在分歧或尚未确认的内容，请明确说明；解释和判断应与已确认的事实区分。\n在相关事实后标注检索来源，沿用检索结果提供的引用编号或标记。\n\n查询日期：2026-11-14（北京时间，UTC+8）。问题中的“现在”“近期”“最新”以此日期为参照；问题明确指定时间范围时，以问题为准。"
+      },
+      {
+        "role": "user",
+        "content": "按日本当地时间，气象厅在2026年10月16日几点发出、几点撤销了这次紧急预警？"
+      }
+    ],
+    "web-search": true,
+    "search-service": "metaso",
+    "search-results": 5,
+    "stream": true,
+    "stream_options": {
+      "include_usage": true
+    }
+  },
+  "response": {
+    "object": "chat.completion",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "按日本当地时间，日本气象厅于2026年10月16日**12时40分左右**发出紧急地震预警，并在约8分钟后的**12时48分左右**宣布撤销[2][4]。\n\n补充说明：这次预警最初称千岛群岛附近发生9.9级地震，但实际是俄罗斯堪察加半岛附近一次6.9级地震，日本境内仅北海道函馆市观测到震度1的轻微震动。气象厅承认系统严重高估了震级，并已就此道歉；这也是日本首次撤销已经发布的紧急地震预警“警报”，目前已排除网络攻击的可能性[4]。",
+          "reasoning_content": "用户问：按日本当地时间，气象厅在2026年10月16日几点发出、几点撤销了这次紧急预警？\n\n搜索结果显示：12时40分左右发布紧急地震预警[2][4]，12时48分左右宣布取消[2]。警报短短8分钟后被撤销[4]。\n\n日本当地时间与北京时间时差1小时，但搜索结果中\"当地时间16日12时40分\"已经是日本当地时间。所以答案：12时40分发出，12时48分撤销（约8分钟后）。\n\n需要引用[2][4]。"
+        },
+        "finish_reason": "stop"
+      }
+    ],
+    "id": "chatcmpl-88a75b56-3640-480b-8f4a-269b00896222",
+    "model": "deepseek-flash",
+    "created": 1794630073,
+    "citations": [
+      "https://k.sina.cn/article_7857201856_1d45362c001908r9t6.html",
+      "https://news.qq.com/rain/a/20261016A0AMD300",
+      "https://www.163.com/dy/article/L9K6V8LR0514R9P4.html"
+    ],
+    "usage": {
+      "completion_tokens": 248,
+      "completion_tokens_details": {
+        "reasoning_tokens": 114
+      },
+      "prompt_tokens": 1115,
+      "prompt_tokens_details": {
+        "cached_tokens": 0
+      },
+      "total_tokens": 1363
+    },
+    "_transport": "sse"
+  }
+}

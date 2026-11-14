@@ -1,0 +1,28 @@
+{
+  "task_id": "T0014",
+  "model": "deepseek",
+  "news_id": "E002",
+  "question_index": 1,
+  "question_original": "【开放】刘欢患过癌症，也有过股骨头坏死，他的去世是这些病导致的吗？",
+  "question": "刘欢患过癌症，也有过股骨头坏死，他的去世是这些病导致的吗？",
+  "attempt": 1,
+  "provider": "302.ai",
+  "model_requested": "deepseek-flash",
+  "query_date": "2026-11-14",
+  "search_service": "metaso",
+  "prompt_version": "news-search-v1",
+  "prompt_sha256": "ea56fd5557d32615a9115f2368a0c4983ff1188f4935369e694d7d46f2493be1",
+  "requested_at": "2026-11-14T04:08:35.262531+08:00",
+  "raw_file": "raw/T0014_deepseek_a001_89a000.json",
+  "transport": "sse",
+  "stream_file": "raw/T0014_deepseek_a001_89a000.sse",
+  "status": "error",
+  "answer": null,
+  "sources": [],
+  "note": [
+    "流式连接中断：Remote end closed connection without response"
+  ],
+  "http_status": null,
+  "request_id": null,
+  "duration_seconds": 120.054
+}

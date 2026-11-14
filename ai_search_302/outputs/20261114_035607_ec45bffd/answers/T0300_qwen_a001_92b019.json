@@ -1,0 +1,65 @@
+{
+  "task_id": "T0300",
+  "model": "qwen",
+  "news_id": "E025",
+  "question_index": 3,
+  "question_original": "【事实】2026年4月27日监管部门要求撤销Manus收购交易，这就能证明交易已经撤销完成了吗？",
+  "question": "2026年4月27日监管部门要求撤销Manus收购交易，这就能证明交易已经撤销完成了吗？",
+  "attempt": 1,
+  "provider": "302.ai",
+  "model_requested": "qwen3.8-max",
+  "query_date": "2026-11-14",
+  "search_service": "metaso",
+  "prompt_version": "news-search-v1",
+  "prompt_sha256": "ea56fd5557d32615a9115f2368a0c4983ff1188f4935369e694d7d46f2493be1",
+  "requested_at": "2026-11-14T12:17:53.191916+08:00",
+  "raw_file": "raw/T0300_qwen_a001_92b019.json",
+  "transport": "sse",
+  "stream_file": "raw/T0300_qwen_a001_92b019.sse",
+  "status": "ok",
+  "model_returned": "qwen3.8-max",
+  "answer": "不能。**2026年4月27日监管部门“要求撤销”Manus收购交易，只能证明监管已经作出禁止投资、要求撤销交易的决定，并不当然证明交易已经撤销完成**[5]。\n\n可区分几个层次：\n\n1. **“要求撤销”是监管决定，不是完成凭证**  \n   2026年4月27日，外商投资安全审查工作机制办公室（国家发展改革委）对外资收购Manus项目作出禁止投资决定，并要求当事人撤销该收购交易[5]。这属于行政监管要求，说明交易被禁止、相关方负有撤销或恢复原状的义务，但不能单独证明股权、资产、业务等已经实际剥离完毕。\n\n2. **撤销已实施交易通常需要实际履行剥离程序**  \n   检索资料提到，按照《外商投资安全审查办法》第十二条，已经实施的投资应限期处分股权或资产，并采取其他必要措施恢复到投资实施前的状态、消除对国家安全的影响[3]。这类撤销往往不是“宣布即完成”，而涉及人员、技术、知识产权、财务、运营、公司治理等方面的剥离，程序复杂且耗时[3]。另有分析认为，还可能涉及隔离审计、监管认可期限内完成剥离、剥离后继续接受监督等安排[2]。\n\n3. **检索报道显示：后续有“恢复独立运营”进展，但早期并未完成**  \n   有报道提到，Manus与Meta进行了业务分离，并于2026年9月1日恢复独立运营；该报道还将“收购交易撤销、公司恢复独立运营并完成新融资”作为后续结果来表述[1]。但另一篇较早报道中，知情人士明确表示“不能说目前交易撤销已经完成”，只是最关键步骤接近达成[3]。  \n   因此，若问题是“4月27日的要求本身能否证明已经完成”，答案是不能；它只证明监管已经要求撤销。若问题是“截至2026年11月是否最终完成”，现有材料显示后续有恢复独立运营和相关撤销表述，但仍应以监管确认、交割完成或公司正式公告为最终依据[1][3]。\n\n简言之：**“要求撤销”证明的是监管义务已经产生，不是撤销完成本身。**",
+  "sources": [
+    {
+      "index": 1,
+      "url": "https://news.qq.com/rain/a/20261009A0AKJZ00",
+      "title": null,
+      "origin": "citations"
+    },
+    {
+      "index": 2,
+      "url": "https://finance.sina.cn/stock/ggyj/2026-04-27/detail-inhvyeeu8949441.d.html?oid=%E9%AB%98%E4%BB%BFprada%E7%94%B7%E8%A3%85%E2%97%8F%E5%BE%AE%E4%BF%A1198099199%E2%97%8FxMea&vt=4",
+      "title": null,
+      "origin": "citations"
+    },
+    {
+      "index": 3,
+      "url": "https://finance.sina.cn/2026-08-17/detail-ininruyh8961272.d.html",
+      "title": null,
+      "origin": "citations"
+    },
+    {
+      "index": 4,
+      "url": "https://m.jrj.com.cn/madapter/insurance/2026/04/27161556903838.shtml",
+      "title": null,
+      "origin": "citations"
+    }
+  ],
+  "usage": {
+    "completion_tokens": 2133,
+    "completion_tokens_details": {
+      "reasoning_tokens": 1665,
+      "text_tokens": 2133
+    },
+    "prompt_tokens": 1399,
+    "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "text_tokens": 1399
+    },
+    "total_tokens": 3532
+  },
+  "finish_reason": "stop",
+  "note": [],
+  "request_id": "8cdafaa3-0c9a-4b72-9cc2-5620d5b85368",
+  "duration_seconds": 54.5
+}

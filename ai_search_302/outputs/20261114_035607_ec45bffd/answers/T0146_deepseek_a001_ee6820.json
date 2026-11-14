@@ -1,0 +1,57 @@
+{
+  "task_id": "T0146",
+  "model": "deepseek",
+  "news_id": "E012",
+  "question_index": 4,
+  "question_original": "【事实】TikTok美国合资公司中，字节跳动、Oracle、Silver Lake和MGX各持多少股权？CEO是谁？",
+  "question": "TikTok美国合资公司中，字节跳动、Oracle、Silver Lake和MGX各持多少股权？CEO是谁？",
+  "attempt": 1,
+  "provider": "302.ai",
+  "model_requested": "deepseek-flash",
+  "query_date": "2026-11-14",
+  "search_service": "metaso",
+  "prompt_version": "news-search-v1",
+  "prompt_sha256": "ea56fd5557d32615a9115f2368a0c4983ff1188f4935369e694d7d46f2493be1",
+  "requested_at": "2026-11-14T11:40:50.216189+08:00",
+  "raw_file": "raw/T0146_deepseek_a001_ee6820.json",
+  "transport": "sse",
+  "stream_file": "raw/T0146_deepseek_a001_ee6820.sse",
+  "status": "ok",
+  "model_returned": "deepseek-flash",
+  "answer": "**股权结构**：TikTok 美国合资公司中，**Oracle、Silver Lake、MGX 各持股 15%**，三家合计 45%；**字节跳动保留 19.9%** 股权，仍是最大单一股东；另有 **30.1%** 由字节跳动部分现有投资者及其关联方持有[2][3]。\n\n**CEO**：美国合资公司的 CEO 是 **Adam Presser**（原 TikTok 运营及信任安全负责人）；TikTok 全球 CEO **周受资**继续担任全球 CEO，并保留合资公司董事会席位[5]。",
+  "sources": [
+    {
+      "index": 1,
+      "url": "https://weibo.com/ttarticle/p/show?id=2309405258207370280981",
+      "title": null,
+      "origin": "citations"
+    },
+    {
+      "index": 2,
+      "url": "https://www.thepaper.cn/newsDetail_forward_32209543#%3A~%3Atext%3D%E8%AF%A5%E4%B8%BB%E4%BD%93%E7%94%B1%E5%AD%97%E8%8A%82%2C%E5%90%8E%E8%80%85%E6%94%B6%E5%8F%96%E6%8E%88%E6%9D%83%E8%B4%B9%E3%80%82",
+      "title": null,
+      "origin": "citations"
+    },
+    {
+      "index": 3,
+      "url": "https://svtr.ai/articles/bytedance",
+      "title": null,
+      "origin": "citations"
+    }
+  ],
+  "usage": {
+    "completion_tokens": 463,
+    "completion_tokens_details": {
+      "reasoning_tokens": 335
+    },
+    "prompt_tokens": 1018,
+    "prompt_tokens_details": {
+      "cached_tokens": 0
+    },
+    "total_tokens": 1481
+  },
+  "finish_reason": "stop",
+  "note": [],
+  "request_id": "34ed1990-8d1b-49c6-be21-ef66595ee846",
+  "duration_seconds": 4.781
+}

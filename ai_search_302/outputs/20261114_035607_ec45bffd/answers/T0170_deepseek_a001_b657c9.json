@@ -1,0 +1,63 @@
+{
+  "task_id": "T0170",
+  "model": "deepseek",
+  "news_id": "E014",
+  "question_index": 3,
+  "question_original": "【事实】尹锡悦在2026年10月29日已经被法院判死刑了吗，还是检方提出了死刑请求？",
+  "question": "尹锡悦在2026年10月29日已经被法院判死刑了吗，还是检方提出了死刑请求？",
+  "attempt": 1,
+  "provider": "302.ai",
+  "model_requested": "deepseek-flash",
+  "query_date": "2026-11-14",
+  "search_service": "metaso",
+  "prompt_version": "news-search-v1",
+  "prompt_sha256": "ea56fd5557d32615a9115f2368a0c4983ff1188f4935369e694d7d46f2493be1",
+  "requested_at": "2026-11-14T11:47:17.781700+08:00",
+  "raw_file": "raw/T0170_deepseek_a001_b657c9.json",
+  "transport": "sse",
+  "stream_file": "raw/T0170_deepseek_a001_b657c9.sse",
+  "status": "ok",
+  "model_returned": "deepseek-flash",
+  "answer": "不是法院判死刑，而是**检方在二审结案庭审中提出了死刑请求**。\n\n- 2026年10月29日进行的是尹锡悦内乱案的**二审结案庭审**。检方认为一审量刑过轻，再次请求判处死刑[5]。\n- 当天特别检察组还同时对前国防部长官金龙显等人提出具体求刑，例如请求判处金龙显无期徒刑等[4]。\n- 尹锡悦方面预计于11月5日进行最后辩论并发表最后陈述，此后法院才会公布二审宣判日期[4]。也就是说，10月29日属于检方求刑阶段，**法院并未在当天作出死刑判决**。\n\n另外，按检索到的资料，该内乱案一审结果为无期徒刑[5]；但截至这些资料所反映的进度，二审宣判日期尚未公布，不能把检方求刑等同于法院判决。",
+  "sources": [
+    {
+      "index": 1,
+      "url": "https://www.thepaper.cn/newsDetail_forward_32377742",
+      "title": null,
+      "origin": "citations"
+    },
+    {
+      "index": 2,
+      "url": "https://www.jiemian.com/article/13880175.html",
+      "title": null,
+      "origin": "citations"
+    },
+    {
+      "index": 3,
+      "url": "https://news.qq.com/rain/a/20261029A070WB00",
+      "title": null,
+      "origin": "citations"
+    },
+    {
+      "index": 4,
+      "url": "https://news.qq.com/rain/a/20261109A087DM00",
+      "title": null,
+      "origin": "citations"
+    }
+  ],
+  "usage": {
+    "completion_tokens": 619,
+    "completion_tokens_details": {
+      "reasoning_tokens": 426
+    },
+    "prompt_tokens": 1268,
+    "prompt_tokens_details": {
+      "cached_tokens": 0
+    },
+    "total_tokens": 1887
+  },
+  "finish_reason": "stop",
+  "note": [],
+  "request_id": "f71490a0-7c26-474d-910b-a98cd3bfbfcb",
+  "duration_seconds": 6.765
+}

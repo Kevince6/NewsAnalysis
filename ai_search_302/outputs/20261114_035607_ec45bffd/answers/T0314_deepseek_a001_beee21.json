@@ -1,0 +1,63 @@
+{
+  "task_id": "T0314",
+  "model": "deepseek",
+  "news_id": "E027",
+  "question_index": 1,
+  "question_original": "【开放】从2025年4月到2026年8月，H20对华出口从新增许可要求、申请恢复销售到实际销售情况，经历了哪些变化？",
+  "question": "从2025年4月到2026年8月，H20对华出口从新增许可要求、申请恢复销售到实际销售情况，经历了哪些变化？",
+  "attempt": 1,
+  "provider": "302.ai",
+  "model_requested": "deepseek-flash",
+  "query_date": "2026-11-14",
+  "search_service": "metaso",
+  "prompt_version": "news-search-v1",
+  "prompt_sha256": "ea56fd5557d32615a9115f2368a0c4983ff1188f4935369e694d7d46f2493be1",
+  "requested_at": "2026-11-14T12:21:29.460081+08:00",
+  "raw_file": "raw/T0314_deepseek_a001_beee21.json",
+  "transport": "sse",
+  "stream_file": "raw/T0314_deepseek_a001_beee21.sse",
+  "status": "ok",
+  "model_returned": "deepseek-flash",
+  "answer": "## 先说结论\n\n按照检索到的资料，H20 对华出口大致经历了这样一条线索：**2025年4月新增许可要求 → 2025年7月英伟达宣布“恢复销售”、但实质是清库存 → 2025年8月部分许可获批、出货量回升**。至于 **2026年8月的实际销售情况，现有资料没有提供明确、可靠的信息**，只能确认2026年2月美方曾发放少量 H200 许可，这与 H20 无关[citation:3]。因此，你问的时间段后半段（2026年）目前无法完整回答。\n\n---\n\n## 一、2025年4月：新增许可要求，英伟达计提巨额费用\n\n2025年4月，美国政府要求 H20 等产品对华出口必须申请许可。英伟达因此在2026财年第一季度计提了 **45亿美元** 的相关费用[citation:3]。这是整个变化的起点：H20 从可以正常对华销售，变成需要逐笔申请许可的受控产品。\n\n## 二、2025年7月：英伟达宣布“恢复销售”，但主要是清库存\n\n英伟达官方声明称，美国政府已向英伟达保证将授予许可证，公司希望尽快启动 H20 芯片交付[citation:1]。不过，财联社多方采访得到的说法是，这次“恢复”**主要是开放此前的库存，售完无补**，并且需要大厂配合向美国工业与安全局（BIS）提交申请，申请中要详细写明所需数量；大厂内部还在评估风险，或考虑通过 IDC 提交申请[citation:1]。\n\n同一时期，产业链人士明确表示，此次开放销售的只是 H20 库存，**不影响 Blackwell 架构的 B 系列**；市场传闻英伟达将于9月向中国大陆客户提供 B20、B30、B40 等新特供版芯片，且有云厂已拿到测试产品，多位产业链人士推断“年底前应该会有”[citation:2]。\n\n## 三、2025年8月：部分许可获批，出货量增加\n\n英伟达提交给美国证券交易委员会的文件显示，**2025年8月美方发放了部分 H20 许可**[citation:3]。另有资料提到，8月底出货量有所增加，买家开始下单[citation:4]。这说明 H20 从“宣布恢复”进入了实际出货阶段，但规模仍受许可数量和库存约束。\n\n## 四、2026年的情况：只有零星信息，无法确认到8月\n\n现有资料中唯一涉及2026年的内容是：**2026年2月美方又发放了少量 H200 许可，但 H200 能否真正进入中国市场仍不确定**[citation:3]。这条信息针对的是 H200，并未提及 H20 在2026年的许可、出货或销售数据。因此，**2026年3月至8月 H20 对华出口究竟如何，检索结果不足以支撑结论**，既不能确认持续放量，也不能确认再次收紧。\n\n---\n\n## 需要留意的几点\n\n1. **“恢复销售”不等于“恢复供应”**：2025年7月的恢复主要是消化既有库存，售完无补，且附带 BIS 申请程序[citation:1]。\n2. **H20 与 B 系列是两条线**：H20 清库存不影响 Blackwell 特供版的推进节奏[citation:2]。\n3. **政策反复性很强**：从4月新增许可、7月保证发许可、8月部分许可落地，再到2026年2月才少量发放 H200 许可，说明许可发放是逐批、有限、附带条件的[citation:3]。\n4. **2026年8月的数据缺失**：如果你需要这一时间点的实际销售情况，建议进一步检索英伟达财报、美国 BIS 公告或中国商务部表态，现有搜索结果无法覆盖。",
+  "sources": [
+    {
+      "index": 1,
+      "url": "https://fund.eastmoney.com/a/202507153457747018.html",
+      "title": null,
+      "origin": "citations"
+    },
+    {
+      "index": 2,
+      "url": "https://www.cls.cn/detail/2086126",
+      "title": null,
+      "origin": "citations"
+    },
+    {
+      "index": 3,
+      "url": "https://www.sohu.com/a/1021253728_122575892",
+      "title": null,
+      "origin": "citations"
+    },
+    {
+      "index": 4,
+      "url": "https://m.163.com/dy/article/KEGVF5AL05567B70.html",
+      "title": null,
+      "origin": "citations"
+    }
+  ],
+  "usage": {
+    "completion_tokens": 1737,
+    "completion_tokens_details": {
+      "reasoning_tokens": 904
+    },
+    "prompt_tokens": 1208,
+    "prompt_tokens_details": {
+      "cached_tokens": 0
+    },
+    "total_tokens": 2945
+  },
+  "finish_reason": "stop",
+  "note": [],
+  "request_id": "3ce27a71-cf51-4b5d-829a-447f762d98e1",
+  "duration_seconds": 12.703
+}

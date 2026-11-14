@@ -1,0 +1,51 @@
+{
+  "task_id": "T0031",
+  "model": "doubao",
+  "news_id": "E003",
+  "question_index": 4,
+  "question_original": "【事实】2026年11月13日的报道中，俄罗斯三地袭击和乌克兰扎波罗热住宅楼袭击分别造成多少伤亡？",
+  "question": "2026年11月13日的报道中，俄罗斯三地袭击和乌克兰扎波罗热住宅楼袭击分别造成多少伤亡？",
+  "attempt": 1,
+  "provider": "302.ai",
+  "model_requested": "doubao-seed-2-1-pro-260628",
+  "query_date": "2026-11-14",
+  "search_service": "metaso",
+  "prompt_version": "news-search-v1",
+  "prompt_sha256": "ea56fd5557d32615a9115f2368a0c4983ff1188f4935369e694d7d46f2493be1",
+  "requested_at": "2026-11-14T04:16:32.876674+08:00",
+  "raw_file": "raw/T0031_doubao_a001_8c0752.json",
+  "transport": "sse",
+  "stream_file": "raw/T0031_doubao_a001_8c0752.sse",
+  "status": "ok",
+  "model_returned": "doubao-seed-2-1-pro-260628",
+  "answer": "根据当前提供的检索资料，无法查询到2026年11月13日报道所提及的“俄罗斯三地袭击”“乌克兰扎波罗热住宅楼袭击”的具体伤亡数据，暂无足够可信信息支撑对应问题的准确回答。\n\n补充说明现有检索资料的信息覆盖边界：\n1. 涉及扎波罗热地区的现有检索内容，仅围绕扎波罗热核电站的安全争议展开：国际原子能机构总干事格罗西公开发声谴责针对核电站员工的袭击，称此类行为违反核安全基本原则，要求保障核电站员工能够在无过度压力和恐惧的环境下履职；俄方代表指责乌军对扎波罗热核电站员工开展“系统性、几乎不间断的猎杀”，核电站方面已将相关员工遇袭情况通报驻站的国际原子能机构专家，资料中完全未提及扎波罗热住宅楼遇袭及相关伤亡情况[2]。\n2. 涉及战场伤亡统计的现有检索内容，仅记录了2026年11月12日波克罗夫斯克以西方向的交战情况：该方向当日共记录11次交战，乌方宣称在这一战线击毙对方53人、击伤24人，同时击毁对方车辆、火炮、电子战设施、无人机控制点、弹药库等若干装备与掩体，击落或压制各型无人机238架，资料中完全未涉及俄罗斯三地遭袭的事件及相关伤亡信息[4]。",
+  "sources": [
+    {
+      "index": 1,
+      "url": "http://www.news.cn/world/20261110/37293907e70e4589a33969e20281cbff/c.html",
+      "title": null,
+      "origin": "citations"
+    },
+    {
+      "index": 2,
+      "url": "https://www.163.com/dy/article/LBL2CSBJ0543TJZ6.html",
+      "title": null,
+      "origin": "citations"
+    }
+  ],
+  "usage": {
+    "completion_tokens": 1357,
+    "completion_tokens_details": {
+      "reasoning_tokens": 1050
+    },
+    "prompt_tokens": 1051,
+    "prompt_tokens_details": {
+      "cached_tokens": 0
+    },
+    "total_tokens": 2408
+  },
+  "finish_reason": "stop",
+  "note": [],
+  "request_id": "6f96e331-0630-4e83-b39a-544e3bd6e910",
+  "duration_seconds": 31.616
+}

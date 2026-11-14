@@ -1,0 +1,65 @@
+{
+  "task_id": "T0177",
+  "model": "qwen",
+  "news_id": "E014",
+  "question_index": 5,
+  "question_original": "【事实】2026年7月9日获最高法院维持的7年刑期，针对的是哪起案件？",
+  "question": "2026年7月9日获最高法院维持的7年刑期，针对的是哪起案件？",
+  "attempt": 1,
+  "provider": "302.ai",
+  "model_requested": "qwen3.8-max",
+  "query_date": "2026-11-14",
+  "search_service": "metaso",
+  "prompt_version": "news-search-v1",
+  "prompt_sha256": "ea56fd5557d32615a9115f2368a0c4983ff1188f4935369e694d7d46f2493be1",
+  "requested_at": "2026-11-14T11:49:16.879933+08:00",
+  "raw_file": "raw/T0177_qwen_a001_baa97d.json",
+  "transport": "sse",
+  "stream_file": "raw/T0177_qwen_a001_baa97d.sse",
+  "status": "ok",
+  "model_returned": "qwen3.8-max",
+  "answer": "就目前提供的检索资料来看，**没有直接出现“2026年7月9日获最高法院维持的7年刑期”这一表述**，因此无法严格确认你所说的“最高法院于2026年7月9日维持”的具体案件。\n\n不过，资料中唯一与“7年刑期”直接相关的案件是：**傅文尧受贿案**。该案中，检方对一审判决不满并提出抗诉，理由是傅文尧对涉案5万元具有非法占有故意；省高院采纳检方抗诉理由，以**受贿罪**改判原审被告傅文尧**有期徒刑7年**[3]。\n\n所以可作如下区分：\n\n- 如果你问的是检索资料中提到的“7年刑期”案件：应是**傅文尧受贿案**[3]。\n- 如果你强调的是“**2026年7月9日**”且由“**最高法院维持**”：现有资料未提供对应信息，不能确认与该傅文尧案为同一案件，也不能确认最高法院是否在该日期作出维持决定。",
+  "sources": [
+    {
+      "index": 1,
+      "url": "http://djk.sy.hbjc.gov.cn/jcxw_69786/djdt/202204/t20220427_1722085.shtml",
+      "title": null,
+      "origin": "citations"
+    },
+    {
+      "index": 2,
+      "url": "https://news.sina.cn/sa/2003-07-16/detail-ikknscsi0787973.d.html",
+      "title": null,
+      "origin": "citations"
+    },
+    {
+      "index": 3,
+      "url": "https://global.chinadaily.com.cn/a/202607/10/WS6a504e65a310986e2b4648bd.html",
+      "title": null,
+      "origin": "citations"
+    },
+    {
+      "index": 4,
+      "url": "https://www.thepaper.cn/newsDetail_forward_15575641",
+      "title": null,
+      "origin": "citations"
+    }
+  ],
+  "usage": {
+    "completion_tokens": 969,
+    "completion_tokens_details": {
+      "reasoning_tokens": 744,
+      "text_tokens": 969
+    },
+    "prompt_tokens": 1269,
+    "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "text_tokens": 1269
+    },
+    "total_tokens": 2238
+  },
+  "finish_reason": "stop",
+  "note": [],
+  "request_id": "33ca6673-22c7-413d-a6f5-a59ccd6ef704",
+  "duration_seconds": 25.234
+}

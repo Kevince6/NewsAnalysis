@@ -1,0 +1,65 @@
+{
+  "task_id": "T0294",
+  "model": "qwen",
+  "news_id": "E025",
+  "question_index": 1,
+  "question_original": "【开放】Manus宣布加入Meta和后来被要求撤销交易，这两次消息分别是怎么回事？",
+  "question": "Manus宣布加入Meta和后来被要求撤销交易，这两次消息分别是怎么回事？",
+  "attempt": 1,
+  "provider": "302.ai",
+  "model_requested": "qwen3.8-max",
+  "query_date": "2026-11-14",
+  "search_service": "metaso",
+  "prompt_version": "news-search-v1",
+  "prompt_sha256": "ea56fd5557d32615a9115f2368a0c4983ff1188f4935369e694d7d46f2493be1",
+  "requested_at": "2026-11-14T12:16:01.375532+08:00",
+  "raw_file": "raw/T0294_qwen_a001_d2ba57.json",
+  "transport": "sse",
+  "stream_file": "raw/T0294_qwen_a001_d2ba57.sse",
+  "status": "ok",
+  "model_returned": "qwen3.8-max",
+  "answer": "这两次消息其实对应同一笔 **Meta 收购 Manus** 交易的两个阶段：  \n**第一次是“Manus 加入 Meta”**，即 Meta 收购 Manus 并开始整合；**第二次是“被要求撤销交易”**，即中国外商投资安全审查部门作出禁止投资决定，要求撤销这笔收购，Meta 据报道也在准备撤销并拆解已整合的业务。\n\n1. **“Manus 宣布加入 Meta”：收购完成并开始整合**  \n   - 现有搜索结果中没有看到 Manus 原始“加入”公告全文，但相关报道显示，《华尔街日报》称 **去年 12 月**（按当前时间应为 2025 年 12 月） **Meta 以 25 亿美元收购 Manus**[2]。  \n   - 交易完成后，Meta 很快开始将 Manus 的技术整合进自身系统[2]。  \n   - 在这笔交易引发关注后，商务部新闻发言人曾于 1 月 8 日表示，商务部将会同相关部门对这项收购与出口管制、技术进出口、对外投资等相关法律法规的一致性开展评估调查[4]。\n\n2. **“后来被要求撤销交易”：安全审查要求禁止并撤销收购**  \n   - 4 月 27 日，**外商投资安全审查工作机制办公室**依法依规对 Meta 收购 Manus 项目作出**禁止投资决定**，要求撤销该收购交易[1]。  \n   - 《华尔街日报》称，在中国国家发改委要求撤销相关收购交易后，Meta 正在准备撤销对 Manus 的收购[2]。  \n   - 这笔交易被要求撤销的复杂性在于：交易完成后，Meta 已开始将 Manus 技术整合进自身系统，因此撤销不只是“取消合同”，还涉及重新拆解已经融合的业务、技术与组织关系[2]。此外，Manus 的部分投资方，包括总部位于加州的 Benchmark 等，已经从这笔交易中获得回报，并计划在 Meta 推进撤销时予以配合[2]。\n\n3. **后续影响和尚未完全明确的信息**  \n   - 相关报道提到，Manus 可能会恢复独立运营，但如何将技术、资金、人员、运营从 Meta 中剥离，同时满足监管要求并符合商业逻辑，仍受到广泛关注[3]。  \n   - 截至相关报道发稿，Meta 和 Manus 均未就交易撤销进展回复媒体询问[3]。  \n   - 另有信息称，Manus 将继续通过 App 和网站为用户提供产品和订阅服务，同时公司将继续在新加坡运营[4]。  \n   - 目前公开公告并未详细解释 **为何禁止投资**，也没有完整说明 **如何撤销收购交易**，这些细节仍待后续官方或公司披露确认[3]。",
+  "sources": [
+    {
+      "index": 1,
+      "url": "https://www.pedaily.cn/first/150810.shtml",
+      "title": null,
+      "origin": "citations"
+    },
+    {
+      "index": 2,
+      "url": "https://new.qq.com/rain/a/20260428A04N3Q00",
+      "title": null,
+      "origin": "citations"
+    },
+    {
+      "index": 3,
+      "url": "https://finance.sina.cn/2026-08-17/detail-ininruyf6787363.d.html",
+      "title": null,
+      "origin": "citations"
+    },
+    {
+      "index": 4,
+      "url": "https://xueqiu.com/9793054414/386269814",
+      "title": null,
+      "origin": "citations"
+    }
+  ],
+  "usage": {
+    "completion_tokens": 3303,
+    "completion_tokens_details": {
+      "reasoning_tokens": 2725,
+      "text_tokens": 3303
+    },
+    "prompt_tokens": 1189,
+    "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "text_tokens": 1189
+    },
+    "total_tokens": 4492
+  },
+  "finish_reason": "stop",
+  "note": [],
+  "request_id": "edc71887-a092-45d6-9f67-7a6f42736ed5",
+  "duration_seconds": 75.11
+}

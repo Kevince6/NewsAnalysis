@@ -1,0 +1,51 @@
+{
+  "task_id": "T0002",
+  "model": "deepseek",
+  "news_id": "E001",
+  "question_index": 1,
+  "question_original": "【开放】黄仁勋这次婚外情风波是怎么回事？他本人说了什么，英伟达又在调查什么？",
+  "question": "黄仁勋这次婚外情风波是怎么回事？他本人说了什么，英伟达又在调查什么？",
+  "attempt": 1,
+  "provider": "302.ai",
+  "model_requested": "deepseek-flash",
+  "query_date": "2026-11-14",
+  "search_service": "metaso",
+  "prompt_version": "news-search-v1",
+  "prompt_sha256": "ea56fd5557d32615a9115f2368a0c4983ff1188f4935369e694d7d46f2493be1",
+  "requested_at": "2026-11-14T04:05:41.082167+08:00",
+  "raw_file": "raw/T0002_deepseek_a001_eadf24.json",
+  "transport": "sse",
+  "stream_file": "raw/T0002_deepseek_a001_eadf24.sse",
+  "status": "ok",
+  "model_returned": "deepseek-flash",
+  "answer": "根据目前检索到的有限资料，可以这样概括：有报道称黄仁勋近期承认了一段婚外情，并向英伟达员工致歉；英伟达董事会已就相关事宜启动独立调查。但这些说法目前只出现在个别网页中，尚缺英伟达官方公告或权威媒体的独立核实，建议谨慎看待。\n\n**1. 他本人说了什么**\n\n检索结果中有一封据称是黄仁勋发给英伟达员工的信，他在信中承认对妻子不忠，并道歉称：“我对妻子不忠。我的行为伤害了她和我们的孩子。我所做的事情没有任何借口”“我深感抱歉”[4]。同一报道还称，这是“近期爆出的第二起黄仁勋婚外情事件”，几天前他刚承认与一名女性发生婚外情[4]。\n\n**2. 英伟达在调查什么**\n\n按检索资料，英伟达董事会已对黄仁勋的婚外情事件启动独立调查，调查由Wachtell, Lipton, Rosen & Katz律师事务所主导[3]。此外，报道还称三个有影响力的众议院委员会的共和党领袖要求黄仁勋就他与一名叫“Alice Huang”的女子的交往情况出席闭门简报会[3]。另有报道提到，今年3月有人拍到黄仁勋与“鲍威尔”在加州圣何塞一家酒店举止亲密，并称黄仁勋与鲍威尔之间的婚外情传闻已流传多年[4]。\n\n**3. 需要说明的疑点**\n\n上述信息存在明显不一致：一处称涉事女性为“Alice Huang”[3]，另一处又称黄仁勋与“鲍威尔”关系亲密[4]；且资料中没有英伟达官方声明、黄仁勋本人公开回应全文或可信媒体的一手报道链接。因此，“黄仁勋承认婚外情”“董事会调查”等核心事实目前只能视为检索到的报道内容，尚不能确认已经过权威核实。若要跟进此事，建议以英伟达官方公告、黄仁勋本人声明及主流通讯社报道为准。",
+  "sources": [
+    {
+      "index": 1,
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-11-12/doc-iniymmzp1881601.shtml",
+      "title": null,
+      "origin": "citations"
+    },
+    {
+      "index": 2,
+      "url": "https://www.163.com/dy/article/LBH6ROPK05198CJN.html",
+      "title": null,
+      "origin": "citations"
+    }
+  ],
+  "usage": {
+    "completion_tokens": 1021,
+    "completion_tokens_details": {
+      "reasoning_tokens": 592
+    },
+    "prompt_tokens": 900,
+    "prompt_tokens_details": {
+      "cached_tokens": 0
+    },
+    "total_tokens": 1921
+  },
+  "finish_reason": "stop",
+  "note": [],
+  "request_id": "5fd4b06a-abfc-443f-84c9-f251f39f9059",
+  "duration_seconds": 9.681
+}

@@ -1,0 +1,47 @@
+{
+  "task_id": "T0357",
+  "model": "qwen",
+  "news_id": "E030",
+  "question_index": 2,
+  "question_original": "【开放】看到许家印被判无期、恒大地产进入破产程序，就能说债权人已经拿到钱了吗？相关文件实际确认了什么？",
+  "question": "看到许家印被判无期、恒大地产进入破产程序，就能说债权人已经拿到钱了吗？相关文件实际确认了什么？",
+  "attempt": 1,
+  "provider": "302.ai",
+  "model_requested": "qwen3.8-max",
+  "query_date": "2026-11-14",
+  "search_service": "metaso",
+  "prompt_version": "news-search-v1",
+  "prompt_sha256": "ea56fd5557d32615a9115f2368a0c4983ff1188f4935369e694d7d46f2493be1",
+  "requested_at": "2026-11-14T12:34:24.042110+08:00",
+  "raw_file": "raw/T0357_qwen_a001_bba0ff.json",
+  "transport": "sse",
+  "stream_file": "raw/T0357_qwen_a001_bba0ff.sse",
+  "status": "ok",
+  "model_returned": "qwen3.8-max",
+  "answer": "不能。仅凭“许家印被判无期”“恒大地产进入破产程序”这类说法，不能直接得出“债权人已经拿到钱”的结论。现有检索结果中，也没有确认许家印已被判无期，或恒大地产已进入破产程序；相关文件实际确认的只是债权人正在通过司法途径追偿、处置其名下物业。[4]\n\n按目前可查到的报道，相关文件实际确认的内容大致是：\n\n1. **确认许家印债务问题仍在发酵**  \n   报道提到，中国恒大集团财务困境牵连其创始人许家印的债务问题持续发酵。[4]\n\n2. **确认债权人可在许家印未按时偿债时申请接管、出售其物业**  \n   根据法院裁决，若许家印未能按时偿还债务，债权人和信恒聚有权采取法律行动，申请接管并出售许家印名下的物业。[4]  \n   这说明的是“债权人有权走执行程序、处置资产偿债”，并不等于债权人已经实际收到现金。\n\n3. **确认债权人已就具体物业提出执行申请**  \n   6月25日，和信恒聚向高等法院提交申请，要求许家印根据押记令交出位于尖沙咀的祥景楼空置物业。[4]  \n   这属于针对特定资产的司法处置申请，仍需经过接管、出售、变现、分配等后续环节，不能直接理解为债权人已经拿到钱。\n\n因此，相关文件实际确认的是：**许家印名下有资产可能被接管或出售，用于偿还债务；债权人已经采取法律行动。**  \n但现有资料并未确认：**债务已清偿、债权人已收到款项、清偿比例、分配结果**等关键事实。刑事判决、破产程序或资产处置申请，本身都不等同于债权人已经实际受偿。",
+  "sources": [
+    {
+      "index": 1,
+      "url": "http://www.thepaper.cn/newsDetail_forward_27864312",
+      "title": null,
+      "origin": "citations"
+    }
+  ],
+  "usage": {
+    "completion_tokens": 2185,
+    "completion_tokens_details": {
+      "reasoning_tokens": 1804,
+      "text_tokens": 2185
+    },
+    "prompt_tokens": 798,
+    "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "text_tokens": 798
+    },
+    "total_tokens": 2983
+  },
+  "finish_reason": "stop",
+  "note": [],
+  "request_id": "9b4f393c-bc8b-4cd0-bbae-55f4445a24eb",
+  "duration_seconds": 57.234
+}

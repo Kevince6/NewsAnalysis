@@ -1,0 +1,732 @@
+data: {"choices":[{"delta":{"reasoning_content":"用户","role":"assistant"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20251020A01EU600","https://m.thepaper.cn/newsDetail_forward_31811254"],"created":1794630590,"id":"chatcmpl-b2b82e75-2e2f-42db-9e2d-3d9602c4a5ff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"问"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20251020A01EU600","https://m.thepaper.cn/newsDetail_forward_31811254"],"created":1794630590,"id":"chatcmpl-b2b82e75-2e2f-42db-9e2d-3d9602c4a5ff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"的是卢浮宫案到底"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20251020A01EU600","https://m.thepaper.cn/newsDetail_forward_31811254"],"created":1794630590,"id":"chatcmpl-b2b82e75-2e2f-42db-9e2d-3d9602c4a5ff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"丢了几件珠宝，"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20251020A01EU600","https://m.thepaper.cn/newsDetail_forward_31811254"],"created":1794630590,"id":"chatcmpl-b2b82e75-2e2f-42db-9e2d-3d9602c4a5ff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"找回的"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20251020A01EU600","https://m.thepaper.cn/newsDetail_forward_31811254"],"created":1794630590,"id":"chatcmpl-b2b82e75-2e2f-42db-9e2d-3d9602c4a5ff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"皇冠与"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20251020A01EU600","https://m.thepaper.cn/newsDetail_forward_31811254"],"created":1794630590,"id":"chatcmpl-b2b82e75-2e2f-42db-9e2d-3d9602c4a5ff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"官方被盗清单是什么关系。"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20251020A01EU600","https://m.thepaper.cn/newsDetail_forward_31811254"],"created":1794630590,"id":"chatcmpl-b2b82e75-2e2f-42db-9e2d-3d9602c4a5ff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"搜索结果显示有限"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20251020A01EU600","https://m.thepaper.cn/newsDetail_forward_31811254"],"created":1794630590,"id":"chatcmpl-b2b82e75-2e2f-42db-9e2d-3d9602c4a5ff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"："},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20251020A01EU600","https://m.thepaper.cn/newsDetail_forward_31811254"],"created":1794630590,"id":"chatcmpl-b2b82e75-2e2f-42db-9e2d-3d9602c4a5ff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"webpage"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20251020A01EU600","https://m.thepaper.cn/newsDetail_forward_31811254"],"created":1794630590,"id":"chatcmpl-b2b82e75-2e2f-42db-9e2d-3d9602c4a5ff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":" 2 提到"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20251020A01EU600","https://m.thepaper.cn/newsDetail_forward_31811254"],"created":1794630590,"id":"chatcmpl-b2b82e75-2e2f-42db-9e2d-3d9602c4a5ff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"法国媒体报道"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20251020A01EU600","https://m.thepaper.cn/newsDetail_forward_31811254"],"created":1794630590,"id":"chatcmpl-b2b82e75-2e2f-42db-9e2d-3d9602c4a5ff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"嫌"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20251020A01EU600","https://m.thepaper.cn/newsDetail_forward_31811254"],"created":1794630590,"id":"chatcmpl-b2b82e75-2e2f-42db-9e2d-3d9602c4a5ff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"犯共盗"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20251020A01EU600","https://m.thepaper.cn/newsDetail_forward_31811254"],"created":1794630590,"id":"chatcmpl-b2b82e75-2e2f-42db-9e2d-3d9602c4a5ff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"走9件珠宝，包括"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20251020A01EU600","https://m.thepaper.cn/newsDetail_forward_31811254"],"created":1794630590,"id":"chatcmpl-b2b82e75-2e2f-42db-9e2d-3d9602c4a5ff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"欧也"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20251020A01EU600","https://m.thepaper.cn/newsDetail_forward_31811254"],"created":1794630590,"id":"chatcmpl-b2b82e75-2e2f-42db-9e2d-3d9602c4a5ff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"妮皇后皇"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20251020A01EU600","https://m.thepaper.cn/newsDetail_forward_31811254"],"created":1794630590,"id":"chatcmpl-b2b82e75-2e2f-42db-9e2d-3d9602c4a5ff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"冠在内2件已"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20251020A01EU600","https://m.thepaper.cn/newsDetail_forward_31811254"],"created":1794630590,"id":"chatcmpl-b2b82e75-2e2f-42db-9e2d-3d9602c4a5ff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"找回，该"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20251020A01EU600","https://m.thepaper.cn/newsDetail_forward_31811254"],"created":1794630590,"id":"chatcmpl-b2b82e75-2e2f-42db-9e2d-3d9602c4a5ff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"消息未获法国警方证实"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20251020A01EU600","https://m.thepaper.cn/newsDetail_forward_31811254"],"created":1794630590,"id":"chatcmpl-b2b82e75-2e2f-42db-9e2d-3d9602c4a5ff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"；卢"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20251020A01EU600","https://m.thepaper.cn/newsDetail_forward_31811254"],"created":1794630590,"id":"chatcmpl-b2b82e75-2e2f-42db-9e2d-3d9602c4a5ff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"浮宫方面说法"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20251020A01EU600","https://m.thepaper.cn/newsDetail_forward_31811254"],"created":1794630590,"id":"chatcmpl-b2b82e75-2e2f-42db-9e2d-3d9602c4a5ff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"。web"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20251020A01EU600","https://m.thepaper.cn/newsDetail_forward_31811254"],"created":1794630590,"id":"chatcmpl-b2b82e75-2e2f-42db-9e2d-3d9602c4a5ff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"page 3 列出一些"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20251020A01EU600","https://m.thepaper.cn/newsDetail_forward_31811254"],"created":1794630590,"id":"chatcmpl-b2b82e75-2e2f-42db-9e2d-3d9602c4a5ff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"珠宝名称"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20251020A01EU600","https://m.thepaper.cn/newsDetail_forward_31811254"],"created":1794630590,"id":"chatcmpl-b2b82e75-2e2f-42db-9e2d-3d9602c4a5ff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"，公告"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20251020A01EU600","https://m.thepaper.cn/newsDetail_forward_31811254"],"created":1794630590,"id":"chatcmpl-b2b82e75-2e2f-42db-9e2d-3d9602c4a5ff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"说"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20251020A01EU600","https://m.thepaper.cn/newsDetail_forward_31811254"],"created":1794630590,"id":"chatcmpl-b2b82e75-2e2f-42db-9e2d-3d9602c4a5ff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"画廊外"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20251020A01EU600","https://m.thepaper.cn/newsDetail_forward_31811254"],"created":1794630590,"id":"chatcmpl-b2b82e75-2e2f-42db-9e2d-3d9602c4a5ff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"窗及两座展"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20251020A01EU600","https://m.thepaper.cn/newsDetail_forward_31811254"],"created":1794630590,"id":"chatcmpl-b2b82e75-2e2f-42db-9e2d-3d9602c4a5ff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"柜报警系统"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20251020A01EU600","https://m.thepaper.cn/newsDetail_forward_31811254"],"created":1794630590,"id":"chatcmpl-b2b82e75-2e2f-42db-9e2d-3d9602c4a5ff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"启动"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20251020A01EU600","https://m.thepaper.cn/newsDetail_forward_31811254"],"created":1794630590,"id":"chatcmpl-b2b82e75-2e2f-42db-9e2d-3d9602c4a5ff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"。\n\n需要基于"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20251020A01EU600","https://m.thepaper.cn/newsDetail_forward_31811254"],"created":1794630590,"id":"chatcmpl-b2b82e75-2e2f-42db-9e2d-3d9602c4a5ff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"检索资料"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20251020A01EU600","https://m.thepaper.cn/newsDetail_forward_31811254"],"created":1794630590,"id":"chatcmpl-b2b82e75-2e2f-42db-9e2d-3d9602c4a5ff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"回答。不能编造。"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20251020A01EU600","https://m.thepaper.cn/newsDetail_forward_31811254"],"created":1794630590,"id":"chatcmpl-b2b82e75-2e2f-42db-9e2d-3d9602c4a5ff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"需要说明：目前搜索结果"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20251020A01EU600","https://m.thepaper.cn/newsDetail_forward_31811254"],"created":1794630590,"id":"chatcmpl-b2b82e75-2e2f-42db-9e2d-3d9602c4a5ff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"中，"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20251020A01EU600","https://m.thepaper.cn/newsDetail_forward_31811254"],"created":1794630590,"id":"chatcmpl-b2b82e75-2e2f-42db-9e2d-3d9602c4a5ff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"官方（"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20251020A01EU600","https://m.thepaper.cn/newsDetail_forward_31811254"],"created":1794630590,"id":"chatcmpl-b2b82e75-2e2f-42db-9e2d-3d9602c4a5ff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"卢浮宫公告"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20251020A01EU600","https://m.thepaper.cn/newsDetail_forward_31811254"],"created":1794630590,"id":"chatcmpl-b2b82e75-2e2f-42db-9e2d-3d9602c4a5ff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"）似乎"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20251020A01EU600","https://m.thepaper.cn/newsDetail_forward_31811254"],"created":1794630590,"id":"chatcmpl-b2b82e75-2e2f-42db-9e2d-3d9602c4a5ff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"只"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20251020A01EU600","https://m.thepaper.cn/newsDetail_forward_31811254"],"created":1794630590,"id":"chatcmpl-b2b82e75-2e2f-42db-9e2d-3d9602c4a5ff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"确认"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20251020A01EU600","https://m.thepaper.cn/newsDetail_forward_31811254"],"created":1794630590,"id":"chatcmpl-b2b82e75-2e2f-42db-9e2d-3d9602c4a5ff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"报警"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20251020A01EU600","https://m.thepaper.cn/newsDetail_forward_31811254"],"created":1794630590,"id":"chatcmpl-b2b82e75-2e2f-42db-9e2d-3d9602c4a5ff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"系统启动、无人"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20251020A01EU600","https://m.thepaper.cn/newsDetail_forward_31811254"],"created":1794630590,"id":"chatcmpl-b2b82e75-2e2f-42db-9e2d-3d9602c4a5ff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"受伤"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20251020A01EU600","https://m.thepaper.cn/newsDetail_forward_31811254"],"created":1794630590,"id":"chatcmpl-b2b82e75-2e2f-42db-9e2d-3d9602c4a5ff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"、员工"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20251020A01EU600","https://m.thepaper.cn/newsDetail_forward_31811254"],"created":1794630590,"id":"chatcmpl-b2b82e75-2e2f-42db-9e2d-3d9602c4a5ff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"阻止纵"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20251020A01EU600","https://m.thepaper.cn/newsDetail_forward_31811254"],"created":1794630590,"id":"chatcmpl-b2b82e75-2e2f-42db-9e2d-3d9602c4a5ff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"火等，没有给出明确的"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20251020A01EU600","https://m.thepaper.cn/newsDetail_forward_31811254"],"created":1794630590,"id":"chatcmpl-b2b82e75-2e2f-42db-9e2d-3d9602c4a5ff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"“官方"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20251020A01EU600","https://m.thepaper.cn/newsDetail_forward_31811254"],"created":1794630590,"id":"chatcmpl-b2b82e75-2e2f-42db-9e2d-3d9602c4a5ff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"被盗清单件"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20251020A01EU600","https://m.thepaper.cn/newsDetail_forward_31811254"],"created":1794630590,"id":"chatcmpl-b2b82e75-2e2f-42db-9e2d-3d9602c4a5ff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"数”？web"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20251020A01EU600","https://m.thepaper.cn/newsDetail_forward_31811254"],"created":1794630590,"id":"chatcmpl-b2b82e75-2e2f-42db-9e2d-3d9602c4a5ff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"page 3 列举"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20251020A01EU600","https://m.thepaper.cn/newsDetail_forward_31811254"],"created":1794630590,"id":"chatcmpl-b2b82e75-2e2f-42db-9e2d-3d9602c4a5ff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"了多"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20251020A01EU600","https://m.thepaper.cn/newsDetail_forward_31811254"],"created":1794630590,"id":"chatcmpl-b2b82e75-2e2f-42db-9e2d-3d9602c4a5ff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"件物品"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20251020A01EU600","https://m.thepaper.cn/newsDetail_forward_31811254"],"created":1794630590,"id":"chatcmpl-b2b82e75-2e2f-42db-9e2d-3d9602c4a5ff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"，但不确定"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20251020A01EU600","https://m.thepaper.cn/newsDetail_forward_31811254"],"created":1794630590,"id":"chatcmpl-b2b82e75-2e2f-42db-9e2d-3d9602c4a5ff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"是否为官方被盗"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20251020A01EU600","https://m.thepaper.cn/newsDetail_forward_31811254"],"created":1794630590,"id":"chatcmpl-b2b82e75-2e2f-42db-9e2d-3d9602c4a5ff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"清单。需要"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20251020A01EU600","https://m.thepaper.cn/newsDetail_forward_31811254"],"created":1794630590,"id":"chatcmpl-b2b82e75-2e2f-42db-9e2d-3d9602c4a5ff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"谨慎。\n\n"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20251020A01EU600","https://m.thepaper.cn/newsDetail_forward_31811254"],"created":1794630590,"id":"chatcmpl-b2b82e75-2e2f-42db-9e2d-3d9602c4a5ff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"用户"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20251020A01EU600","https://m.thepaper.cn/newsDetail_forward_31811254"],"created":1794630590,"id":"chatcmpl-b2b82e75-2e2f-42db-9e2d-3d9602c4a5ff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"问“到底"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20251020A01EU600","https://m.thepaper.cn/newsDetail_forward_31811254"],"created":1794630590,"id":"chatcmpl-b2b82e75-2e2f-42db-9e2d-3d9602c4a5ff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"丢了几件”“"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20251020A01EU600","https://m.thepaper.cn/newsDetail_forward_31811254"],"created":1794630590,"id":"chatcmpl-b2b82e75-2e2f-42db-9e2d-3d9602c4a5ff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"找回皇"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20251020A01EU600","https://m.thepaper.cn/newsDetail_forward_31811254"],"created":1794630590,"id":"chatcmpl-b2b82e75-2e2f-42db-9e2d-3d9602c4a5ff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"冠和"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20251020A01EU600","https://m.thepaper.cn/newsDetail_forward_31811254"],"created":1794630590,"id":"chatcmpl-b2b82e75-2e2f-42db-9e2d-3d9602c4a5ff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"官方被盗清单是什么关系”。"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20251020A01EU600","https://m.thepaper.cn/newsDetail_forward_31811254"],"created":1794630590,"id":"chatcmpl-b2b82e75-2e2f-42db-9e2d-3d9602c4a5ff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"检索资料"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20251020A01EU600","https://m.thepaper.cn/newsDetail_forward_31811254"],"created":1794630590,"id":"chatcmpl-b2b82e75-2e2f-42db-9e2d-3d9602c4a5ff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"显示：法"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20251020A01EU600","https://m.thepaper.cn/newsDetail_forward_31811254"],"created":1794630590,"id":"chatcmpl-b2b82e75-2e2f-42db-9e2d-3d9602c4a5ff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"媒称9件，其中"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20251020A01EU600","https://m.thepaper.cn/newsDetail_forward_31811254"],"created":1794630590,"id":"chatcmpl-b2b82e75-2e2f-42db-9e2d-3d9602c4a5ff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"2件找回"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20251020A01EU600","https://m.thepaper.cn/newsDetail_forward_31811254"],"created":1794630590,"id":"chatcmpl-b2b82e75-2e2f-42db-9e2d-3d9602c4a5ff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"（"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20251020A01EU600","https://m.thepaper.cn/newsDetail_forward_31811254"],"created":1794630590,"id":"chatcmpl-b2b82e75-2e2f-42db-9e2d-3d9602c4a5ff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"含皇冠），但警方"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20251020A01EU600","https://m.thepaper.cn/newsDetail_forward_31811254"],"created":1794630590,"id":"chatcmpl-b2b82e75-2e2f-42db-9e2d-3d9602c4a5ff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"未证实。"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20251020A01EU600","https://m.thepaper.cn/newsDetail_forward_31811254"],"created":1794630590,"id":"chatcmpl-b2b82e75-2e2f-42db-9e2d-3d9602c4a5ff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"卢浮"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20251020A01EU600","https://m.thepaper.cn/newsDetail_forward_31811254"],"created":1794630590,"id":"chatcmpl-b2b82e75-2e2f-42db-9e2d-3d9602c4a5ff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"宫公告未确认9"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20251020A01EU600","https://m.thepaper.cn/newsDetail_forward_31811254"],"created":1794630590,"id":"chatcmpl-b2b82e75-2e2f-42db-9e2d-3d9602c4a5ff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"件，"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20251020A01EU600","https://m.thepaper.cn/newsDetail_forward_31811254"],"created":1794630590,"id":"chatcmpl-b2b82e75-2e2f-42db-9e2d-3d9602c4a5ff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"也没有"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20251020A01EU600","https://m.thepaper.cn/newsDetail_forward_31811254"],"created":1794630590,"id":"chatcmpl-b2b82e75-2e2f-42db-9e2d-3d9602c4a5ff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"明确"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20251020A01EU600","https://m.thepaper.cn/newsDetail_forward_31811254"],"created":1794630590,"id":"chatcmpl-b2b82e75-2e2f-42db-9e2d-3d9602c4a5ff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"官方清单？"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20251020A01EU600","https://m.thepaper.cn/newsDetail_forward_31811254"],"created":1794630590,"id":"chatcmpl-b2b82e75-2e2f-42db-9e2d-3d9602c4a5ff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"需要指出：在"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20251020A01EU600","https://m.thepaper.cn/newsDetail_forward_31811254"],"created":1794630590,"id":"chatcmpl-b2b82e75-2e2f-42db-9e2d-3d9602c4a5ff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"现有检索"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20251020A01EU600","https://m.thepaper.cn/newsDetail_forward_31811254"],"created":1794630590,"id":"chatcmpl-b2b82e75-2e2f-42db-9e2d-3d9602c4a5ff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"结果里，无法确认官方"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20251020A01EU600","https://m.thepaper.cn/newsDetail_forward_31811254"],"created":1794630590,"id":"chatcmpl-b2b82e75-2e2f-42db-9e2d-3d9602c4a5ff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"被盗"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20251020A01EU600","https://m.thepaper.cn/newsDetail_forward_31811254"],"created":1794630590,"id":"chatcmpl-b2b82e75-2e2f-42db-9e2d-3d9602c4a5ff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"清单的完整"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20251020A01EU600","https://m.thepaper.cn/newsDetail_forward_31811254"],"created":1794630590,"id":"chatcmpl-b2b82e75-2e2f-42db-9e2d-3d9602c4a5ff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"件数；媒体"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20251020A01EU600","https://m.thepaper.cn/newsDetail_forward_31811254"],"created":1794630590,"id":"chatcmpl-b2b82e75-2e2f-42db-9e2d-3d9602c4a5ff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"所说"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20251020A01EU600","https://m.thepaper.cn/newsDetail_forward_31811254"],"created":1794630590,"id":"chatcmpl-b2b82e75-2e2f-42db-9e2d-3d9602c4a5ff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"9件与官方公告"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20251020A01EU600","https://m.thepaper.cn/newsDetail_forward_31811254"],"created":1794630590,"id":"chatcmpl-b2b82e75-2e2f-42db-9e2d-3d9602c4a5ff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"之间存在"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20251020A01EU600","https://m.thepaper.cn/newsDetail_forward_31811254"],"created":1794630590,"id":"chatcmpl-b2b82e75-2e2f-42db-9e2d-3d9602c4a5ff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"未经"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20251020A01EU600","https://m.thepaper.cn/newsDetail_forward_31811254"],"created":1794630590,"id":"chatcmpl-b2b82e75-2e2f-42db-9e2d-3d9602c4a5ff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"证实的关系"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20251020A01EU600","https://m.thepaper.cn/newsDetail_forward_31811254"],"created":1794630590,"id":"chatcmpl-b2b82e75-2e2f-42db-9e2d-3d9602c4a5ff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"。皇冠是否"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20251020A01EU600","https://m.thepaper.cn/newsDetail_forward_31811254"],"created":1794630590,"id":"chatcmpl-b2b82e75-2e2f-42db-9e2d-3d9602c4a5ff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"在"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20251020A01EU600","https://m.thepaper.cn/newsDetail_forward_31811254"],"created":1794630590,"id":"chatcmpl-b2b82e75-2e2f-42db-9e2d-3d9602c4a5ff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"“官方被盗"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20251020A01EU600","https://m.thepaper.cn/newsDetail_forward_31811254"],"created":1794630590,"id":"chatcmpl-b2b82e75-2e2f-42db-9e2d-3d9602c4a5ff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"清单”上，取决于"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20251020A01EU600","https://m.thepaper.cn/newsDetail_forward_31811254"],"created":1794630590,"id":"chatcmpl-b2b82e75-2e2f-42db-9e2d-3d9602c4a5ff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"官方清单是否包含"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20251020A01EU600","https://m.thepaper.cn/newsDetail_forward_31811254"],"created":1794630590,"id":"chatcmpl-b2b82e75-2e2f-42db-9e2d-3d9602c4a5ff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"该皇"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20251020A01EU600","https://m.thepaper.cn/newsDetail_forward_31811254"],"created":1794630590,"id":"chatcmpl-b2b82e75-2e2f-42db-9e2d-3d9602c4a5ff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"冠——"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20251020A01EU600","https://m.thepaper.cn/newsDetail_forward_31811254"],"created":1794630590,"id":"chatcmpl-b2b82e75-2e2f-42db-9e2d-3d9602c4a5ff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"检索"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20251020A01EU600","https://m.thepaper.cn/newsDetail_forward_31811254"],"created":1794630590,"id":"chatcmpl-b2b82e75-2e2f-42db-9e2d-3d9602c4a5ff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"结果只"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20251020A01EU600","https://m.thepaper.cn/newsDetail_forward_31811254"],"created":1794630590,"id":"chatcmpl-b2b82e75-2e2f-42db-9e2d-3d9602c4a5ff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"显示web"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20251020A01EU600","https://m.thepaper.cn/newsDetail_forward_31811254"],"created":1794630590,"id":"chatcmpl-b2b82e75-2e2f-42db-9e2d-3d9602c4a5ff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"page 3列举"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20251020A01EU600","https://m.thepaper.cn/newsDetail_forward_31811254"],"created":1794630590,"id":"chatcmpl-b2b82e75-2e2f-42db-9e2d-3d9602c4a5ff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"“"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20251020A01EU600","https://m.thepaper.cn/newsDetail_forward_31811254"],"created":1794630590,"id":"chatcmpl-b2b82e75-2e2f-42db-9e2d-3d9602c4a5ff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"欧也"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20251020A01EU600","https://m.thepaper.cn/newsDetail_forward_31811254"],"created":1794630590,"id":"chatcmpl-b2b82e75-2e2f-42db-9e2d-3d9602c4a5ff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"妮皇后的"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20251020A01EU600","https://m.thepaper.cn/newsDetail_forward_31811254"],"created":1794630590,"id":"chatcmpl-b2b82e75-2e2f-42db-9e2d-3d9602c4a5ff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"冠冕”以及公告"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20251020A01EU600","https://m.thepaper.cn/newsDetail_forward_31811254"],"created":1794630590,"id":"chatcmpl-b2b82e75-2e2f-42db-9e2d-3d9602c4a5ff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"报警"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20251020A01EU600","https://m.thepaper.cn/newsDetail_forward_31811254"],"created":1794630590,"id":"chatcmpl-b2b82e75-2e2f-42db-9e2d-3d9602c4a5ff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"系统启动，不能直接证明"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20251020A01EU600","https://m.thepaper.cn/newsDetail_forward_31811254"],"created":1794630590,"id":"chatcmpl-b2b82e75-2e2f-42db-9e2d-3d9602c4a5ff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"官方"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20251020A01EU600","https://m.thepaper.cn/newsDetail_forward_31811254"],"created":1794630590,"id":"chatcmpl-b2b82e75-2e2f-42db-9e2d-3d9602c4a5ff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"清单。需要区分"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20251020A01EU600","https://m.thepaper.cn/newsDetail_forward_31811254"],"created":1794630590,"id":"chatcmpl-b2b82e75-2e2f-42db-9e2d-3d9602c4a5ff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"“媒体报道"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20251020A01EU600","https://m.thepaper.cn/newsDetail_forward_31811254"],"created":1794630590,"id":"chatcmpl-b2b82e75-2e2f-42db-9e2d-3d9602c4a5ff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"”"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20251020A01EU600","https://m.thepaper.cn/newsDetail_forward_31811254"],"created":1794630590,"id":"chatcmpl-b2b82e75-2e2f-42db-9e2d-3d9602c4a5ff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"与“官方确认"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20251020A01EU600","https://m.thepaper.cn/newsDetail_forward_31811254"],"created":1794630590,"id":"chatcmpl-b2b82e75-2e2f-42db-9e2d-3d9602c4a5ff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"”。\n\n可以回答："},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20251020A01EU600","https://m.thepaper.cn/newsDetail_forward_31811254"],"created":1794630590,"id":"chatcmpl-b2b82e75-2e2f-42db-9e2d-3d9602c4a5ff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"目前不能"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20251020A01EU600","https://m.thepaper.cn/newsDetail_forward_31811254"],"created":1794630590,"id":"chatcmpl-b2b82e75-2e2f-42db-9e2d-3d9602c4a5ff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"下"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20251020A01EU600","https://m.thepaper.cn/newsDetail_forward_31811254"],"created":1794630590,"id":"chatcmpl-b2b82e75-2e2f-42db-9e2d-3d9602c4a5ff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"“最终确定”的结论"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20251020A01EU600","https://m.thepaper.cn/newsDetail_forward_31811254"],"created":1794630590,"id":"chatcmpl-b2b82e75-2e2f-42db-9e2d-3d9602c4a5ff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"。可确认"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20251020A01EU600","https://m.thepaper.cn/newsDetail_forward_31811254"],"created":1794630590,"id":"chatcmpl-b2b82e75-2e2f-42db-9e2d-3d9602c4a5ff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"的事实"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20251020A01EU600","https://m.thepaper.cn/newsDetail_forward_31811254"],"created":1794630590,"id":"chatcmpl-b2b82e75-2e2f-42db-9e2d-3d9602c4a5ff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"：卢浮"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20251020A01EU600","https://m.thepaper.cn/newsDetail_forward_31811254"],"created":1794630590,"id":"chatcmpl-b2b82e75-2e2f-42db-9e2d-3d9602c4a5ff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"宫公告称报警"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20251020A01EU600","https://m.thepaper.cn/newsDetail_forward_31811254"],"created":1794630590,"id":"chatcmpl-b2b82e75-2e2f-42db-9e2d-3d9602c4a5ff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"系统"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20251020A01EU600","https://m.thepaper.cn/newsDetail_forward_31811254"],"created":1794630590,"id":"chatcmpl-b2b82e75-2e2f-42db-9e2d-3d9602c4a5ff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"启动、嫌"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20251020A01EU600","https://m.thepaper.cn/newsDetail_forward_31811254"],"created":1794630590,"id":"chatcmpl-b2b82e75-2e2f-42db-9e2d-3d9602c4a5ff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"犯试图"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20251020A01EU600","https://m.thepaper.cn/newsDetail_forward_31811254"],"created":1794630590,"id":"chatcmpl-b2b82e75-2e2f-42db-9e2d-3d9602c4a5ff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"纵火被"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20251020A01EU600","https://m.thepaper.cn/newsDetail_forward_31811254"],"created":1794630590,"id":"chatcmpl-b2b82e75-2e2f-42db-9e2d-3d9602c4a5ff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"员工阻止"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20251020A01EU600","https://m.thepaper.cn/newsDetail_forward_31811254"],"created":1794630590,"id":"chatcmpl-b2b82e75-2e2f-42db-9e2d-3d9602c4a5ff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"后"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20251020A01EU600","https://m.thepaper.cn/newsDetail_forward_31811254"],"created":1794630590,"id":"chatcmpl-b2b82e75-2e2f-42db-9e2d-3d9602c4a5ff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"逃离、无人受伤"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20251020A01EU600","https://m.thepaper.cn/newsDetail_forward_31811254"],"created":1794630590,"id":"chatcmpl-b2b82e75-2e2f-42db-9e2d-3d9602c4a5ff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"["},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20251020A01EU600","https://m.thepaper.cn/newsDetail_forward_31811254"],"created":1794630590,"id":"chatcmpl-b2b82e75-2e2f-42db-9e2d-3d9602c4a5ff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"2]["},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20251020A01EU600","https://m.thepaper.cn/newsDetail_forward_31811254"],"created":1794630590,"id":"chatcmpl-b2b82e75-2e2f-42db-9e2d-3d9602c4a5ff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"3]；法"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20251020A01EU600","https://m.thepaper.cn/newsDetail_forward_31811254"],"created":1794630590,"id":"chatcmpl-b2b82e75-2e2f-42db-9e2d-3d9602c4a5ff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"媒报道"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20251020A01EU600","https://m.thepaper.cn/newsDetail_forward_31811254"],"created":1794630590,"id":"chatcmpl-b2b82e75-2e2f-42db-9e2d-3d9602c4a5ff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"称共"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20251020A01EU600","https://m.thepaper.cn/newsDetail_forward_31811254"],"created":1794630590,"id":"chatcmpl-b2b82e75-2e2f-42db-9e2d-3d9602c4a5ff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"9件珠宝"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20251020A01EU600","https://m.thepaper.cn/newsDetail_forward_31811254"],"created":1794630590,"id":"chatcmpl-b2b82e75-2e2f-42db-9e2d-3d9602c4a5ff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"被盗"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20251020A01EU600","https://m.thepaper.cn/newsDetail_forward_31811254"],"created":1794630590,"id":"chatcmpl-b2b82e75-2e2f-42db-9e2d-3d9602c4a5ff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"、"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20251020A01EU600","https://m.thepaper.cn/newsDetail_forward_31811254"],"created":1794630590,"id":"chatcmpl-b2b82e75-2e2f-42db-9e2d-3d9602c4a5ff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"2件已"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20251020A01EU600","https://m.thepaper.cn/newsDetail_forward_31811254"],"created":1794630590,"id":"chatcmpl-b2b82e75-2e2f-42db-9e2d-3d9602c4a5ff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"找回包括"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20251020A01EU600","https://m.thepaper.cn/newsDetail_forward_31811254"],"created":1794630590,"id":"chatcmpl-b2b82e75-2e2f-42db-9e2d-3d9602c4a5ff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"欧"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20251020A01EU600","https://m.thepaper.cn/newsDetail_forward_31811254"],"created":1794630590,"id":"chatcmpl-b2b82e75-2e2f-42db-9e2d-3d9602c4a5ff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"也妮皇后皇"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20251020A01EU600","https://m.thepaper.cn/newsDetail_forward_31811254"],"created":1794630590,"id":"chatcmpl-b2b82e75-2e2f-42db-9e2d-3d9602c4a5ff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"冠，但未获"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20251020A01EU600","https://m.thepaper.cn/newsDetail_forward_31811254"],"created":1794630590,"id":"chatcmpl-b2b82e75-2e2f-42db-9e2d-3d9602c4a5ff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"警方"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20251020A01EU600","https://m.thepaper.cn/newsDetail_forward_31811254"],"created":1794630590,"id":"chatcmpl-b2b82e75-2e2f-42db-9e2d-3d9602c4a5ff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"证实[2]"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20251020A01EU600","https://m.thepaper.cn/newsDetail_forward_31811254"],"created":1794630590,"id":"chatcmpl-b2b82e75-2e2f-42db-9e2d-3d9602c4a5ff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"；另有"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20251020A01EU600","https://m.thepaper.cn/newsDetail_forward_31811254"],"created":1794630590,"id":"chatcmpl-b2b82e75-2e2f-42db-9e2d-3d9602c4a5ff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"报道"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20251020A01EU600","https://m.thepaper.cn/newsDetail_forward_31811254"],"created":1794630590,"id":"chatcmpl-b2b82e75-2e2f-42db-9e2d-3d9602c4a5ff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"/"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20251020A01EU600","https://m.thepaper.cn/newsDetail_forward_31811254"],"created":1794630590,"id":"chatcmpl-b2b82e75-2e2f-42db-9e2d-3d9602c4a5ff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"资料"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20251020A01EU600","https://m.thepaper.cn/newsDetail_forward_31811254"],"created":1794630590,"id":"chatcmpl-b2b82e75-2e2f-42db-9e2d-3d9602c4a5ff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"列出欧也"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20251020A01EU600","https://m.thepaper.cn/newsDetail_forward_31811254"],"created":1794630590,"id":"chatcmpl-b2b82e75-2e2f-42db-9e2d-3d9602c4a5ff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"妮皇后冠冕等藏品"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20251020A01EU600","https://m.thepaper.cn/newsDetail_forward_31811254"],"created":1794630590,"id":"chatcmpl-b2b82e75-2e2f-42db-9e2d-3d9602c4a5ff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"[3]。因此"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20251020A01EU600","https://m.thepaper.cn/newsDetail_forward_31811254"],"created":1794630590,"id":"chatcmpl-b2b82e75-2e2f-42db-9e2d-3d9602c4a5ff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"，“9件”"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20251020A01EU600","https://m.thepaper.cn/newsDetail_forward_31811254"],"created":1794630590,"id":"chatcmpl-b2b82e75-2e2f-42db-9e2d-3d9602c4a5ff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"是媒体口径而非"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20251020A01EU600","https://m.thepaper.cn/newsDetail_forward_31811254"],"created":1794630590,"id":"chatcmpl-b2b82e75-2e2f-42db-9e2d-3d9602c4a5ff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"官方确认；“找回皇冠"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20251020A01EU600","https://m.thepaper.cn/newsDetail_forward_31811254"],"created":1794630590,"id":"chatcmpl-b2b82e75-2e2f-42db-9e2d-3d9602c4a5ff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"”与官方被盗"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20251020A01EU600","https://m.thepaper.cn/newsDetail_forward_31811254"],"created":1794630590,"id":"chatcmpl-b2b82e75-2e2f-42db-9e2d-3d9602c4a5ff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"清单的关系目前"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20251020A01EU600","https://m.thepaper.cn/newsDetail_forward_31811254"],"created":1794630590,"id":"chatcmpl-b2b82e75-2e2f-42db-9e2d-3d9602c4a5ff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"无法从"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20251020A01EU600","https://m.thepaper.cn/newsDetail_forward_31811254"],"created":1794630590,"id":"chatcmpl-b2b82e75-2e2f-42db-9e2d-3d9602c4a5ff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"检索资料"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20251020A01EU600","https://m.thepaper.cn/newsDetail_forward_31811254"],"created":1794630590,"id":"chatcmpl-b2b82e75-2e2f-42db-9e2d-3d9602c4a5ff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"中确认——"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20251020A01EU600","https://m.thepaper.cn/newsDetail_forward_31811254"],"created":1794630590,"id":"chatcmpl-b2b82e75-2e2f-42db-9e2d-3d9602c4a5ff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"若官方"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20251020A01EU600","https://m.thepaper.cn/newsDetail_forward_31811254"],"created":1794630590,"id":"chatcmpl-b2b82e75-2e2f-42db-9e2d-3d9602c4a5ff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"清单包含"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20251020A01EU600","https://m.thepaper.cn/newsDetail_forward_31811254"],"created":1794630590,"id":"chatcmpl-b2b82e75-2e2f-42db-9e2d-3d9602c4a5ff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"该"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20251020A01EU600","https://m.thepaper.cn/newsDetail_forward_31811254"],"created":1794630590,"id":"chatcmpl-b2b82e75-2e2f-42db-9e2d-3d9602c4a5ff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"冠冕，则属于"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20251020A01EU600","https://m.thepaper.cn/newsDetail_forward_31811254"],"created":1794630590,"id":"chatcmpl-b2b82e75-2e2f-42db-9e2d-3d9602c4a5ff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"已追"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20251020A01EU600","https://m.thepaper.cn/newsDetail_forward_31811254"],"created":1794630590,"id":"chatcmpl-b2b82e75-2e2f-42db-9e2d-3d9602c4a5ff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"回清单"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20251020A01EU600","https://m.thepaper.cn/newsDetail_forward_31811254"],"created":1794630590,"id":"chatcmpl-b2b82e75-2e2f-42db-9e2d-3d9602c4a5ff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"项；若官方清单未"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20251020A01EU600","https://m.thepaper.cn/newsDetail_forward_31811254"],"created":1794630590,"id":"chatcmpl-b2b82e75-2e2f-42db-9e2d-3d9602c4a5ff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"确认"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20251020A01EU600","https://m.thepaper.cn/newsDetail_forward_31811254"],"created":1794630590,"id":"chatcmpl-b2b82e75-2e2f-42db-9e2d-3d9602c4a5ff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"，则只能说"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20251020A01EU600","https://m.thepaper.cn/newsDetail_forward_31811254"],"created":1794630590,"id":"chatcmpl-b2b82e75-2e2f-42db-9e2d-3d9602c4a5ff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"皇"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20251020A01EU600","https://m.thepaper.cn/newsDetail_forward_31811254"],"created":1794630590,"id":"chatcmpl-b2b82e75-2e2f-42db-9e2d-3d9602c4a5ff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"冠是媒体报道"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20251020A01EU600","https://m.thepaper.cn/newsDetail_forward_31811254"],"created":1794630590,"id":"chatcmpl-b2b82e75-2e2f-42db-9e2d-3d9602c4a5ff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"的被"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20251020A01EU600","https://m.thepaper.cn/newsDetail_forward_31811254"],"created":1794630590,"id":"chatcmpl-b2b82e75-2e2f-42db-9e2d-3d9602c4a5ff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"盗"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20251020A01EU600","https://m.thepaper.cn/newsDetail_forward_31811254"],"created":1794630590,"id":"chatcmpl-b2b82e75-2e2f-42db-9e2d-3d9602c4a5ff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"物品"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20251020A01EU600","https://m.thepaper.cn/newsDetail_forward_31811254"],"created":1794630590,"id":"chatcmpl-b2b82e75-2e2f-42db-9e2d-3d9602c4a5ff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"之一并"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20251020A01EU600","https://m.thepaper.cn/newsDetail_forward_31811254"],"created":1794630590,"id":"chatcmpl-b2b82e75-2e2f-42db-9e2d-3d9602c4a5ff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"已找回，不能称"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20251020A01EU600","https://m.thepaper.cn/newsDetail_forward_31811254"],"created":1794630590,"id":"chatcmpl-b2b82e75-2e2f-42db-9e2d-3d9602c4a5ff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"其“"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20251020A01EU600","https://m.thepaper.cn/newsDetail_forward_31811254"],"created":1794630590,"id":"chatcmpl-b2b82e75-2e2f-42db-9e2d-3d9602c4a5ff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"从"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20251020A01EU600","https://m.thepaper.cn/newsDetail_forward_31811254"],"created":1794630590,"id":"chatcmpl-b2b82e75-2e2f-42db-9e2d-3d9602c4a5ff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"官方清单中核"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20251020A01EU600","https://m.thepaper.cn/newsDetail_forward_31811254"],"created":1794630590,"id":"chatcmpl-b2b82e75-2e2f-42db-9e2d-3d9602c4a5ff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"销”。还需说明"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20251020A01EU600","https://m.thepaper.cn/newsDetail_forward_31811254"],"created":1794630590,"id":"chatcmpl-b2b82e75-2e2f-42db-9e2d-3d9602c4a5ff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"官方可能"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20251020A01EU600","https://m.thepaper.cn/newsDetail_forward_31811254"],"created":1794630590,"id":"chatcmpl-b2b82e75-2e2f-42db-9e2d-3d9602c4a5ff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"仍在"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20251020A01EU600","https://m.thepaper.cn/newsDetail_forward_31811254"],"created":1794630590,"id":"chatcmpl-b2b82e75-2e2f-42db-9e2d-3d9602c4a5ff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"评估皇"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20251020A01EU600","https://m.thepaper.cn/newsDetail_forward_31811254"],"created":1794630590,"id":"chatcmpl-b2b82e75-2e2f-42db-9e2d-3d9602c4a5ff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"冠状况["},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20251020A01EU600","https://m.thepaper.cn/newsDetail_forward_31811254"],"created":1794630590,"id":"chatcmpl-b2b82e75-2e2f-42db-9e2d-3d9602c4a5ff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"2]。\n\n需要引用"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20251020A01EU600","https://m.thepaper.cn/newsDetail_forward_31811254"],"created":1794630590,"id":"chatcmpl-b2b82e75-2e2f-42db-9e2d-3d9602c4a5ff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"格式"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20251020A01EU600","https://m.thepaper.cn/newsDetail_forward_31811254"],"created":1794630590,"id":"chatcmpl-b2b82e75-2e2f-42db-9e2d-3d9602c4a5ff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"["},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20251020A01EU600","https://m.thepaper.cn/newsDetail_forward_31811254"],"created":1794630590,"id":"chatcmpl-b2b82e75-2e2f-42db-9e2d-3d9602c4a5ff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"2][3"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20251020A01EU600","https://m.thepaper.cn/newsDetail_forward_31811254"],"created":1794630590,"id":"chatcmpl-b2b82e75-2e2f-42db-9e2d-3d9602c4a5ff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"]。回答"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20251020A01EU600","https://m.thepaper.cn/newsDetail_forward_31811254"],"created":1794630590,"id":"chatcmpl-b2b82e75-2e2f-42db-9e2d-3d9602c4a5ff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"自然"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20251020A01EU600","https://m.thepaper.cn/newsDetail_forward_31811254"],"created":1794630590,"id":"chatcmpl-b2b82e75-2e2f-42db-9e2d-3d9602c4a5ff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"中文。可结构化"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20251020A01EU600","https://m.thepaper.cn/newsDetail_forward_31811254"],"created":1794630590,"id":"chatcmpl-b2b82e75-2e2f-42db-9e2d-3d9602c4a5ff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"。避免"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20251020A01EU600","https://m.thepaper.cn/newsDetail_forward_31811254"],"created":1794630590,"id":"chatcmpl-b2b82e75-2e2f-42db-9e2d-3d9602c4a5ff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"过度。需要提到"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20251020A01EU600","https://m.thepaper.cn/newsDetail_forward_31811254"],"created":1794630590,"id":"chatcmpl-b2b82e75-2e2f-42db-9e2d-3d9602c4a5ff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"“现在"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20251020A01EU600","https://m.thepaper.cn/newsDetail_forward_31811254"],"created":1794630590,"id":"chatcmpl-b2b82e75-2e2f-42db-9e2d-3d9602c4a5ff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"”"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20251020A01EU600","https://m.thepaper.cn/newsDetail_forward_31811254"],"created":1794630590,"id":"chatcmpl-b2b82e75-2e2f-42db-9e2d-3d9602c4a5ff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"202"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20251020A01EU600","https://m.thepaper.cn/newsDetail_forward_31811254"],"created":1794630590,"id":"chatcmpl-b2b82e75-2e2f-42db-9e2d-3d9602c4a5ff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"6-11-14但"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20251020A01EU600","https://m.thepaper.cn/newsDetail_forward_31811254"],"created":1794630590,"id":"chatcmpl-b2b82e75-2e2f-42db-9e2d-3d9602c4a5ff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"事件"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20251020A01EU600","https://m.thepaper.cn/newsDetail_forward_31811254"],"created":1794630590,"id":"chatcmpl-b2b82e75-2e2f-42db-9e2d-3d9602c4a5ff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"可能发生在"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20251020A01EU600","https://m.thepaper.cn/newsDetail_forward_31811254"],"created":1794630590,"id":"chatcmpl-b2b82e75-2e2f-42db-9e2d-3d9602c4a5ff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"近期？搜索"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20251020A01EU600","https://m.thepaper.cn/newsDetail_forward_31811254"],"created":1794630590,"id":"chatcmpl-b2b82e75-2e2f-42db-9e2d-3d9602c4a5ff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"没"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20251020A01EU600","https://m.thepaper.cn/newsDetail_forward_31811254"],"created":1794630590,"id":"chatcmpl-b2b82e75-2e2f-42db-9e2d-3d9602c4a5ff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"日期。不需要"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20251020A01EU600","https://m.thepaper.cn/newsDetail_forward_31811254"],"created":1794630590,"id":"chatcmpl-b2b82e75-2e2f-42db-9e2d-3d9602c4a5ff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"。\n\n我们需"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20251020A01EU600","https://m.thepaper.cn/newsDetail_forward_31811254"],"created":1794630590,"id":"chatcmpl-b2b82e75-2e2f-42db-9e2d-3d9602c4a5ff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"确保"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20251020A01EU600","https://m.thepaper.cn/newsDetail_forward_31811254"],"created":1794630590,"id":"chatcmpl-b2b82e75-2e2f-42db-9e2d-3d9602c4a5ff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"不将"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20251020A01EU600","https://m.thepaper.cn/newsDetail_forward_31811254"],"created":1794630590,"id":"chatcmpl-b2b82e75-2e2f-42db-9e2d-3d9602c4a5ff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"web"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20251020A01EU600","https://m.thepaper.cn/newsDetail_forward_31811254"],"created":1794630590,"id":"chatcmpl-b2b82e75-2e2f-42db-9e2d-3d9602c4a5ff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"page 3的列表"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20251020A01EU600","https://m.thepaper.cn/newsDetail_forward_31811254"],"created":1794630590,"id":"chatcmpl-b2b82e75-2e2f-42db-9e2d-3d9602c4a5ff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"当作官方被盗"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20251020A01EU600","https://m.thepaper.cn/newsDetail_forward_31811254"],"created":1794630590,"id":"chatcmpl-b2b82e75-2e2f-42db-9e2d-3d9602c4a5ff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"清单。webpage 3"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20251020A01EU600","https://m.thepaper.cn/newsDetail_forward_31811254"],"created":1794630590,"id":"chatcmpl-b2b82e75-2e2f-42db-9e2d-3d9602c4a5ff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":" "},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20251020A01EU600","https://m.thepaper.cn/newsDetail_forward_31811254"],"created":1794630590,"id":"chatcmpl-b2b82e75-2e2f-42db-9e2d-3d9602c4a5ff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"是“公告指出"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20251020A01EU600","https://m.thepaper.cn/newsDetail_forward_31811254"],"created":1794630590,"id":"chatcmpl-b2b82e75-2e2f-42db-9e2d-3d9602c4a5ff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"，画廊"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20251020A01EU600","https://m.thepaper.cn/newsDetail_forward_31811254"],"created":1794630590,"id":"chatcmpl-b2b82e75-2e2f-42db-9e2d-3d9602c4a5ff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"外窗及两"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20251020A01EU600","https://m.thepaper.cn/newsDetail_forward_31811254"],"created":1794630590,"id":"chatcmpl-b2b82e75-2e2f-42db-9e2d-3d9602c4a5ff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"座展柜的报警系统"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20251020A01EU600","https://m.thepaper.cn/newsDetail_forward_31811254"],"created":1794630590,"id":"chatcmpl-b2b82e75-2e2f-42db-9e2d-3d9602c4a5ff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"均已启动。”前面"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20251020A01EU600","https://m.thepaper.cn/newsDetail_forward_31811254"],"created":1794630590,"id":"chatcmpl-b2b82e75-2e2f-42db-9e2d-3d9602c4a5ff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"列物品，可能是图说"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20251020A01EU600","https://m.thepaper.cn/newsDetail_forward_31811254"],"created":1794630590,"id":"chatcmpl-b2b82e75-2e2f-42db-9e2d-3d9602c4a5ff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"/清单"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20251020A01EU600","https://m.thepaper.cn/newsDetail_forward_31811254"],"created":1794630590,"id":"chatcmpl-b2b82e75-2e2f-42db-9e2d-3d9602c4a5ff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"。需要谨慎。\n\n最终回答"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20251020A01EU600","https://m.thepaper.cn/newsDetail_forward_31811254"],"created":1794630590,"id":"chatcmpl-b2b82e75-2e2f-42db-9e2d-3d9602c4a5ff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"简洁"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20251020A01EU600","https://m.thepaper.cn/newsDetail_forward_31811254"],"created":1794630590,"id":"chatcmpl-b2b82e75-2e2f-42db-9e2d-3d9602c4a5ff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"。"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20251020A01EU600","https://m.thepaper.cn/newsDetail_forward_31811254"],"created":1794630590,"id":"chatcmpl-b2b82e75-2e2f-42db-9e2d-3d9602c4a5ff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"目前"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20251020A01EU600","https://m.thepaper.cn/newsDetail_forward_31811254"],"created":1794630590,"id":"chatcmpl-b2b82e75-2e2f-42db-9e2d-3d9602c4a5ff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"能"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20251020A01EU600","https://m.thepaper.cn/newsDetail_forward_31811254"],"created":1794630590,"id":"chatcmpl-b2b82e75-2e2f-42db-9e2d-3d9602c4a5ff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"确认的是"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20251020A01EU600","https://m.thepaper.cn/newsDetail_forward_31811254"],"created":1794630590,"id":"chatcmpl-b2b82e75-2e2f-42db-9e2d-3d9602c4a5ff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"：**“9"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20251020A01EU600","https://m.thepaper.cn/newsDetail_forward_31811254"],"created":1794630590,"id":"chatcmpl-b2b82e75-2e2f-42db-9e2d-3d9602c4a5ff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"件珠宝"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20251020A01EU600","https://m.thepaper.cn/newsDetail_forward_31811254"],"created":1794630590,"id":"chatcmpl-b2b82e75-2e2f-42db-9e2d-3d9602c4a5ff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"”是法国"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20251020A01EU600","https://m.thepaper.cn/newsDetail_forward_31811254"],"created":1794630590,"id":"chatcmpl-b2b82e75-2e2f-42db-9e2d-3d9602c4a5ff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"媒体披露"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20251020A01EU600","https://m.thepaper.cn/newsDetail_forward_31811254"],"created":1794630590,"id":"chatcmpl-b2b82e75-2e2f-42db-9e2d-3d9602c4a5ff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"的数字"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20251020A01EU600","https://m.thepaper.cn/newsDetail_forward_31811254"],"created":1794630590,"id":"chatcmpl-b2b82e75-2e2f-42db-9e2d-3d9602c4a5ff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"，尚未"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20251020A01EU600","https://m.thepaper.cn/newsDetail_forward_31811254"],"created":1794630590,"id":"chatcmpl-b2b82e75-2e2f-42db-9e2d-3d9602c4a5ff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"得到"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20251020A01EU600","https://m.thepaper.cn/newsDetail_forward_31811254"],"created":1794630590,"id":"chatcmpl-b2b82e75-2e2f-42db-9e2d-3d9602c4a5ff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"法国警方证实"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20251020A01EU600","https://m.thepaper.cn/newsDetail_forward_31811254"],"created":1794630590,"id":"chatcmpl-b2b82e75-2e2f-42db-9e2d-3d9602c4a5ff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"；卢浮"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20251020A01EU600","https://m.thepaper.cn/newsDetail_forward_31811254"],"created":1794630590,"id":"chatcmpl-b2b82e75-2e2f-42db-9e2d-3d9602c4a5ff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"宫方面的"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20251020A01EU600","https://m.thepaper.cn/newsDetail_forward_31811254"],"created":1794630590,"id":"chatcmpl-b2b82e75-2e2f-42db-9e2d-3d9602c4a5ff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"公告"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20251020A01EU600","https://m.thepaper.cn/newsDetail_forward_31811254"],"created":1794630590,"id":"chatcmpl-b2b82e75-2e2f-42db-9e2d-3d9602c4a5ff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"也没有在"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20251020A01EU600","https://m.thepaper.cn/newsDetail_forward_31811254"],"created":1794630590,"id":"chatcmpl-b2b82e75-2e2f-42db-9e2d-3d9602c4a5ff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"现有"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20251020A01EU600","https://m.thepaper.cn/newsDetail_forward_31811254"],"created":1794630590,"id":"chatcmpl-b2b82e75-2e2f-42db-9e2d-3d9602c4a5ff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"检索资料"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20251020A01EU600","https://m.thepaper.cn/newsDetail_forward_31811254"],"created":1794630590,"id":"chatcmpl-b2b82e75-2e2f-42db-9e2d-3d9602c4a5ff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"中给出"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20251020A01EU600","https://m.thepaper.cn/newsDetail_forward_31811254"],"created":1794630590,"id":"chatcmpl-b2b82e75-2e2f-42db-9e2d-3d9602c4a5ff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"一个"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20251020A01EU600","https://m.thepaper.cn/newsDetail_forward_31811254"],"created":1794630590,"id":"chatcmpl-b2b82e75-2e2f-42db-9e2d-3d9602c4a5ff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"可核对的完整"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20251020A01EU600","https://m.thepaper.cn/newsDetail_forward_31811254"],"created":1794630590,"id":"chatcmpl-b2b82e75-2e2f-42db-9e2d-3d9602c4a5ff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"“"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20251020A01EU600","https://m.thepaper.cn/newsDetail_forward_31811254"],"created":1794630590,"id":"chatcmpl-b2b82e75-2e2f-42db-9e2d-3d9602c4a5ff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"官方被盗清单”件数"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20251020A01EU600","https://m.thepaper.cn/newsDetail_forward_31811254"],"created":1794630590,"id":"chatcmpl-b2b82e75-2e2f-42db-9e2d-3d9602c4a5ff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"。** 因此，现在"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20251020A01EU600","https://m.thepaper.cn/newsDetail_forward_31811254"],"created":1794630590,"id":"chatcmpl-b2b82e75-2e2f-42db-9e2d-3d9602c4a5ff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"还不能"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20251020A01EU600","https://m.thepaper.cn/newsDetail_forward_31811254"],"created":1794630590,"id":"chatcmpl-b2b82e75-2e2f-42db-9e2d-3d9602c4a5ff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"把"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20251020A01EU600","https://m.thepaper.cn/newsDetail_forward_31811254"],"created":1794630590,"id":"chatcmpl-b2b82e75-2e2f-42db-9e2d-3d9602c4a5ff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"“9"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20251020A01EU600","https://m.thepaper.cn/newsDetail_forward_31811254"],"created":1794630590,"id":"chatcmpl-b2b82e75-2e2f-42db-9e2d-3d9602c4a5ff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"件”当成官方最终"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20251020A01EU600","https://m.thepaper.cn/newsDetail_forward_31811254"],"created":1794630590,"id":"chatcmpl-b2b82e75-2e2f-42db-9e2d-3d9602c4a5ff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"结论"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20251020A01EU600","https://m.thepaper.cn/newsDetail_forward_31811254"],"created":1794630590,"id":"chatcmpl-b2b82e75-2e2f-42db-9e2d-3d9602c4a5ff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"["},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20251020A01EU600","https://m.thepaper.cn/newsDetail_forward_31811254"],"created":1794630590,"id":"chatcmpl-b2b82e75-2e2f-42db-9e2d-3d9602c4a5ff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"2]。"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20251020A01EU600","https://m.thepaper.cn/newsDetail_forward_31811254"],"created":1794630590,"id":"chatcmpl-b2b82e75-2e2f-42db-9e2d-3d9602c4a5ff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"\n\n具体"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20251020A01EU600","https://m.thepaper.cn/newsDetail_forward_31811254"],"created":1794630590,"id":"chatcmpl-b2b82e75-2e2f-42db-9e2d-3d9602c4a5ff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"分两点"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20251020A01EU600","https://m.thepaper.cn/newsDetail_forward_31811254"],"created":1794630590,"id":"chatcmpl-b2b82e75-2e2f-42db-9e2d-3d9602c4a5ff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"看：\n\n1"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20251020A01EU600","https://m.thepaper.cn/newsDetail_forward_31811254"],"created":1794630590,"id":"chatcmpl-b2b82e75-2e2f-42db-9e2d-3d9602c4a5ff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":". **丢"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20251020A01EU600","https://m.thepaper.cn/newsDetail_forward_31811254"],"created":1794630590,"id":"chatcmpl-b2b82e75-2e2f-42db-9e2d-3d9602c4a5ff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"了几件？"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20251020A01EU600","https://m.thepaper.cn/newsDetail_forward_31811254"],"created":1794630590,"id":"chatcmpl-b2b82e75-2e2f-42db-9e2d-3d9602c4a5ff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"**"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20251020A01EU600","https://m.thepaper.cn/newsDetail_forward_31811254"],"created":1794630590,"id":"chatcmpl-b2b82e75-2e2f-42db-9e2d-3d9602c4a5ff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"\n   - 法"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20251020A01EU600","https://m.thepaper.cn/newsDetail_forward_31811254"],"created":1794630590,"id":"chatcmpl-b2b82e75-2e2f-42db-9e2d-3d9602c4a5ff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"媒报道称，嫌"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20251020A01EU600","https://m.thepaper.cn/newsDetail_forward_31811254"],"created":1794630590,"id":"chatcmpl-b2b82e75-2e2f-42db-9e2d-3d9602c4a5ff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"犯共盗走"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20251020A01EU600","https://m.thepaper.cn/newsDetail_forward_31811254"],"created":1794630590,"id":"chatcmpl-b2b82e75-2e2f-42db-9e2d-3d9602c4a5ff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":" **"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20251020A01EU600","https://m.thepaper.cn/newsDetail_forward_31811254"],"created":1794630590,"id":"chatcmpl-b2b82e75-2e2f-42db-9e2d-3d9602c4a5ff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"9件珠宝**，其中"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20251020A01EU600","https://m.thepaper.cn/newsDetail_forward_31811254"],"created":1794630590,"id":"chatcmpl-b2b82e75-2e2f-42db-9e2d-3d9602c4a5ff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"包括"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20251020A01EU600","https://m.thepaper.cn/newsDetail_forward_31811254"],"created":1794630590,"id":"chatcmpl-b2b82e75-2e2f-42db-9e2d-3d9602c4a5ff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"欧"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20251020A01EU600","https://m.thepaper.cn/newsDetail_forward_31811254"],"created":1794630590,"id":"chatcmpl-b2b82e75-2e2f-42db-9e2d-3d9602c4a5ff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"也妮皇后皇"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20251020A01EU600","https://m.thepaper.cn/newsDetail_forward_31811254"],"created":1794630590,"id":"chatcmpl-b2b82e75-2e2f-42db-9e2d-3d9602c4a5ff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"冠在内的 **"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20251020A01EU600","https://m.thepaper.cn/newsDetail_forward_31811254"],"created":1794630590,"id":"chatcmpl-b2b82e75-2e2f-42db-9e2d-3d9602c4a5ff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"2件**"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20251020A01EU600","https://m.thepaper.cn/newsDetail_forward_31811254"],"created":1794630590,"id":"chatcmpl-b2b82e75-2e2f-42db-9e2d-3d9602c4a5ff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":" 已被找回；"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20251020A01EU600","https://m.thepaper.cn/newsDetail_forward_31811254"],"created":1794630590,"id":"chatcmpl-b2b82e75-2e2f-42db-9e2d-3d9602c4a5ff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"但这一"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20251020A01EU600","https://m.thepaper.cn/newsDetail_forward_31811254"],"created":1794630590,"id":"chatcmpl-b2b82e75-2e2f-42db-9e2d-3d9602c4a5ff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"说法“"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20251020A01EU600","https://m.thepaper.cn/newsDetail_forward_31811254"],"created":1794630590,"id":"chatcmpl-b2b82e75-2e2f-42db-9e2d-3d9602c4a5ff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"未得到"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20251020A01EU600","https://m.thepaper.cn/newsDetail_forward_31811254"],"created":1794630590,"id":"chatcmpl-b2b82e75-2e2f-42db-9e2d-3d9602c4a5ff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"法国警方证实”[2"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20251020A01EU600","https://m.thepaper.cn/newsDetail_forward_31811254"],"created":1794630590,"id":"chatcmpl-b2b82e75-2e2f-42db-9e2d-3d9602c4a5ff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"]。\n   - 卢"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20251020A01EU600","https://m.thepaper.cn/newsDetail_forward_31811254"],"created":1794630590,"id":"chatcmpl-b2b82e75-2e2f-42db-9e2d-3d9602c4a5ff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"浮宫方面目前"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20251020A01EU600","https://m.thepaper.cn/newsDetail_forward_31811254"],"created":1794630590,"id":"chatcmpl-b2b82e75-2e2f-42db-9e2d-3d9602c4a5ff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"可"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20251020A01EU600","https://m.thepaper.cn/newsDetail_forward_31811254"],"created":1794630590,"id":"chatcmpl-b2b82e75-2e2f-42db-9e2d-3d9602c4a5ff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"确认的是：画廊"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20251020A01EU600","https://m.thepaper.cn/newsDetail_forward_31811254"],"created":1794630590,"id":"chatcmpl-b2b82e75-2e2f-42db-9e2d-3d9602c4a5ff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"外窗及"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20251020A01EU600","https://m.thepaper.cn/newsDetail_forward_31811254"],"created":1794630590,"id":"chatcmpl-b2b82e75-2e2f-42db-9e2d-3d9602c4a5ff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"两座展柜的报警"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20251020A01EU600","https://m.thepaper.cn/newsDetail_forward_31811254"],"created":1794630590,"id":"chatcmpl-b2b82e75-2e2f-42db-9e2d-3d9602c4a5ff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"系统均已启动；"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20251020A01EU600","https://m.thepaper.cn/newsDetail_forward_31811254"],"created":1794630590,"id":"chatcmpl-b2b82e75-2e2f-42db-9e2d-3d9602c4a5ff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"嫌犯试图"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20251020A01EU600","https://m.thepaper.cn/newsDetail_forward_31811254"],"created":1794630590,"id":"chatcmpl-b2b82e75-2e2f-42db-9e2d-3d9602c4a5ff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"纵"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20251020A01EU600","https://m.thepaper.cn/newsDetail_forward_31811254"],"created":1794630590,"id":"chatcmpl-b2b82e75-2e2f-42db-9e2d-3d9602c4a5ff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"火焚毁疑似"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20251020A01EU600","https://m.thepaper.cn/newsDetail_forward_31811254"],"created":1794630590,"id":"chatcmpl-b2b82e75-2e2f-42db-9e2d-3d9602c4a5ff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"升降"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20251020A01EU600","https://m.thepaper.cn/newsDetail_forward_31811254"],"created":1794630590,"id":"chatcmpl-b2b82e75-2e2f-42db-9e2d-3d9602c4a5ff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"装置时被卢"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20251020A01EU600","https://m.thepaper.cn/newsDetail_forward_31811254"],"created":1794630590,"id":"chatcmpl-b2b82e75-2e2f-42db-9e2d-3d9602c4a5ff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"浮宫员工阻止，随后"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20251020A01EU600","https://m.thepaper.cn/newsDetail_forward_31811254"],"created":1794630590,"id":"chatcmpl-b2b82e75-2e2f-42db-9e2d-3d9602c4a5ff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"逃离；事件中无人"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20251020A01EU600","https://m.thepaper.cn/newsDetail_forward_31811254"],"created":1794630590,"id":"chatcmpl-b2b82e75-2e2f-42db-9e2d-3d9602c4a5ff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"受伤[2][3"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20251020A01EU600","https://m.thepaper.cn/newsDetail_forward_31811254"],"created":1794630590,"id":"chatcmpl-b2b82e75-2e2f-42db-9e2d-3d9602c4a5ff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"]"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20251020A01EU600","https://m.thepaper.cn/newsDetail_forward_31811254"],"created":1794630590,"id":"chatcmpl-b2b82e75-2e2f-42db-9e2d-3d9602c4a5ff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"。\n   - 因此，"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20251020A01EU600","https://m.thepaper.cn/newsDetail_forward_31811254"],"created":1794630590,"id":"chatcmpl-b2b82e75-2e2f-42db-9e2d-3d9602c4a5ff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"严格说："},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20251020A01EU600","https://m.thepaper.cn/newsDetail_forward_31811254"],"created":1794630590,"id":"chatcmpl-b2b82e75-2e2f-42db-9e2d-3d9602c4a5ff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"**媒体"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20251020A01EU600","https://m.thepaper.cn/newsDetail_forward_31811254"],"created":1794630590,"id":"chatcmpl-b2b82e75-2e2f-42db-9e2d-3d9602c4a5ff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"口径是"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20251020A01EU600","https://m.thepaper.cn/newsDetail_forward_31811254"],"created":1794630590,"id":"chatcmpl-b2b82e75-2e2f-42db-9e2d-3d9602c4a5ff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"9件，官方确认"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20251020A01EU600","https://m.thepaper.cn/newsDetail_forward_31811254"],"created":1794630590,"id":"chatcmpl-b2b82e75-2e2f-42db-9e2d-3d9602c4a5ff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"口径"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20251020A01EU600","https://m.thepaper.cn/newsDetail_forward_31811254"],"created":1794630590,"id":"chatcmpl-b2b82e75-2e2f-42db-9e2d-3d9602c4a5ff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"在"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20251020A01EU600","https://m.thepaper.cn/newsDetail_forward_31811254"],"created":1794630590,"id":"chatcmpl-b2b82e75-2e2f-42db-9e2d-3d9602c4a5ff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"现有资料"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20251020A01EU600","https://m.thepaper.cn/newsDetail_forward_31811254"],"created":1794630590,"id":"chatcmpl-b2b82e75-2e2f-42db-9e2d-3d9602c4a5ff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"中并不"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20251020A01EU600","https://m.thepaper.cn/newsDetail_forward_31811254"],"created":1794630590,"id":"chatcmpl-b2b82e75-2e2f-42db-9e2d-3d9602c4a5ff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"完整，"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20251020A01EU600","https://m.thepaper.cn/newsDetail_forward_31811254"],"created":1794630590,"id":"chatcmpl-b2b82e75-2e2f-42db-9e2d-3d9602c4a5ff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"不能直接"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20251020A01EU600","https://m.thepaper.cn/newsDetail_forward_31811254"],"created":1794630590,"id":"chatcmpl-b2b82e75-2e2f-42db-9e2d-3d9602c4a5ff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"定论为"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20251020A01EU600","https://m.thepaper.cn/newsDetail_forward_31811254"],"created":1794630590,"id":"chatcmpl-b2b82e75-2e2f-42db-9e2d-3d9602c4a5ff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"“官方"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20251020A01EU600","https://m.thepaper.cn/newsDetail_forward_31811254"],"created":1794630590,"id":"chatcmpl-b2b82e75-2e2f-42db-9e2d-3d9602c4a5ff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"确认丢失"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20251020A01EU600","https://m.thepaper.cn/newsDetail_forward_31811254"],"created":1794630590,"id":"chatcmpl-b2b82e75-2e2f-42db-9e2d-3d9602c4a5ff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"9件”。**\n\n2."},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20251020A01EU600","https://m.thepaper.cn/newsDetail_forward_31811254"],"created":1794630590,"id":"chatcmpl-b2b82e75-2e2f-42db-9e2d-3d9602c4a5ff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":" **找回的皇"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20251020A01EU600","https://m.thepaper.cn/newsDetail_forward_31811254"],"created":1794630590,"id":"chatcmpl-b2b82e75-2e2f-42db-9e2d-3d9602c4a5ff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"冠和"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20251020A01EU600","https://m.thepaper.cn/newsDetail_forward_31811254"],"created":1794630590,"id":"chatcmpl-b2b82e75-2e2f-42db-9e2d-3d9602c4a5ff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"“"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20251020A01EU600","https://m.thepaper.cn/newsDetail_forward_31811254"],"created":1794630590,"id":"chatcmpl-b2b82e75-2e2f-42db-9e2d-3d9602c4a5ff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"官方被盗清单”是什么关系"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20251020A01EU600","https://m.thepaper.cn/newsDetail_forward_31811254"],"created":1794630590,"id":"chatcmpl-b2b82e75-2e2f-42db-9e2d-3d9602c4a5ff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"？**\n   - 现有"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20251020A01EU600","https://m.thepaper.cn/newsDetail_forward_31811254"],"created":1794630590,"id":"chatcmpl-b2b82e75-2e2f-42db-9e2d-3d9602c4a5ff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"资料只能"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20251020A01EU600","https://m.thepaper.cn/newsDetail_forward_31811254"],"created":1794630590,"id":"chatcmpl-b2b82e75-2e2f-42db-9e2d-3d9602c4a5ff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"说明"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20251020A01EU600","https://m.thepaper.cn/newsDetail_forward_31811254"],"created":1794630590,"id":"chatcmpl-b2b82e75-2e2f-42db-9e2d-3d9602c4a5ff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"：欧"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20251020A01EU600","https://m.thepaper.cn/newsDetail_forward_31811254"],"created":1794630590,"id":"chatcmpl-b2b82e75-2e2f-42db-9e2d-3d9602c4a5ff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"也"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20251020A01EU600","https://m.thepaper.cn/newsDetail_forward_31811254"],"created":1794630590,"id":"chatcmpl-b2b82e75-2e2f-42db-9e2d-3d9602c4a5ff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"妮皇"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20251020A01EU600","https://m.thepaper.cn/newsDetail_forward_31811254"],"created":1794630590,"id":"chatcmpl-b2b82e75-2e2f-42db-9e2d-3d9602c4a5ff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"后的冠"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20251020A01EU600","https://m.thepaper.cn/newsDetail_forward_31811254"],"created":1794630590,"id":"chatcmpl-b2b82e75-2e2f-42db-9e2d-3d9602c4a5ff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"冕出现在"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20251020A01EU600","https://m.thepaper.cn/newsDetail_forward_31811254"],"created":1794630590,"id":"chatcmpl-b2b82e75-2e2f-42db-9e2d-3d9602c4a5ff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"相关"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20251020A01EU600","https://m.thepaper.cn/newsDetail_forward_31811254"],"created":1794630590,"id":"chatcmpl-b2b82e75-2e2f-42db-9e2d-3d9602c4a5ff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"报道/资料"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20251020A01EU600","https://m.thepaper.cn/newsDetail_forward_31811254"],"created":1794630590,"id":"chatcmpl-b2b82e75-2e2f-42db-9e2d-3d9602c4a5ff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"列举"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20251020A01EU600","https://m.thepaper.cn/newsDetail_forward_31811254"],"created":1794630590,"id":"chatcmpl-b2b82e75-2e2f-42db-9e2d-3d9602c4a5ff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"中["},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20251020A01EU600","https://m.thepaper.cn/newsDetail_forward_31811254"],"created":1794630590,"id":"chatcmpl-b2b82e75-2e2f-42db-9e2d-3d9602c4a5ff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"3]，同时"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20251020A01EU600","https://m.thepaper.cn/newsDetail_forward_31811254"],"created":1794630590,"id":"chatcmpl-b2b82e75-2e2f-42db-9e2d-3d9602c4a5ff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"法媒称包括"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20251020A01EU600","https://m.thepaper.cn/newsDetail_forward_31811254"],"created":1794630590,"id":"chatcmpl-b2b82e75-2e2f-42db-9e2d-3d9602c4a5ff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"该"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20251020A01EU600","https://m.thepaper.cn/newsDetail_forward_31811254"],"created":1794630590,"id":"chatcmpl-b2b82e75-2e2f-42db-9e2d-3d9602c4a5ff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"皇冠在内的2"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20251020A01EU600","https://m.thepaper.cn/newsDetail_forward_31811254"],"created":1794630590,"id":"chatcmpl-b2b82e75-2e2f-42db-9e2d-3d9602c4a5ff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"件珠宝"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20251020A01EU600","https://m.thepaper.cn/newsDetail_forward_31811254"],"created":1794630590,"id":"chatcmpl-b2b82e75-2e2f-42db-9e2d-3d9602c4a5ff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"已被找回，"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20251020A01EU600","https://m.thepaper.cn/newsDetail_forward_31811254"],"created":1794630590,"id":"chatcmpl-b2b82e75-2e2f-42db-9e2d-3d9602c4a5ff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"但该消息"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20251020A01EU600","https://m.thepaper.cn/newsDetail_forward_31811254"],"created":1794630590,"id":"chatcmpl-b2b82e75-2e2f-42db-9e2d-3d9602c4a5ff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"未"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20251020A01EU600","https://m.thepaper.cn/newsDetail_forward_31811254"],"created":1794630590,"id":"chatcmpl-b2b82e75-2e2f-42db-9e2d-3d9602c4a5ff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"获警方证实"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20251020A01EU600","https://m.thepaper.cn/newsDetail_forward_31811254"],"created":1794630590,"id":"chatcmpl-b2b82e75-2e2f-42db-9e2d-3d9602c4a5ff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"[2]"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20251020A01EU600","https://m.thepaper.cn/newsDetail_forward_31811254"],"created":1794630590,"id":"chatcmpl-b2b82e75-2e2f-42db-9e2d-3d9602c4a5ff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"。\n   - 也就是说"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20251020A01EU600","https://m.thepaper.cn/newsDetail_forward_31811254"],"created":1794630590,"id":"chatcmpl-b2b82e75-2e2f-42db-9e2d-3d9602c4a5ff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"，**不能"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20251020A01EU600","https://m.thepaper.cn/newsDetail_forward_31811254"],"created":1794630590,"id":"chatcmpl-b2b82e75-2e2f-42db-9e2d-3d9602c4a5ff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"仅凭现有"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20251020A01EU600","https://m.thepaper.cn/newsDetail_forward_31811254"],"created":1794630590,"id":"chatcmpl-b2b82e75-2e2f-42db-9e2d-3d9602c4a5ff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"检索"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20251020A01EU600","https://m.thepaper.cn/newsDetail_forward_31811254"],"created":1794630590,"id":"chatcmpl-b2b82e75-2e2f-42db-9e2d-3d9602c4a5ff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"结果认定"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20251020A01EU600","https://m.thepaper.cn/newsDetail_forward_31811254"],"created":1794630590,"id":"chatcmpl-b2b82e75-2e2f-42db-9e2d-3d9602c4a5ff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"这"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20251020A01EU600","https://m.thepaper.cn/newsDetail_forward_31811254"],"created":1794630590,"id":"chatcmpl-b2b82e75-2e2f-42db-9e2d-3d9602c4a5ff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"顶皇冠“原本"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20251020A01EU600","https://m.thepaper.cn/newsDetail_forward_31811254"],"created":1794630590,"id":"chatcmpl-b2b82e75-2e2f-42db-9e2d-3d9602c4a5ff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"就在官方被盗"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20251020A01EU600","https://m.thepaper.cn/newsDetail_forward_31811254"],"created":1794630590,"id":"chatcmpl-b2b82e75-2e2f-42db-9e2d-3d9602c4a5ff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"清单上、"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20251020A01EU600","https://m.thepaper.cn/newsDetail_forward_31811254"],"created":1794630590,"id":"chatcmpl-b2b82e75-2e2f-42db-9e2d-3d9602c4a5ff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"现已从清单"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20251020A01EU600","https://m.thepaper.cn/newsDetail_forward_31811254"],"created":1794630590,"id":"chatcmpl-b2b82e75-2e2f-42db-9e2d-3d9602c4a5ff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"中核销”**。"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20251020A01EU600","https://m.thepaper.cn/newsDetail_forward_31811254"],"created":1794630590,"id":"chatcmpl-b2b82e75-2e2f-42db-9e2d-3d9602c4a5ff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"更"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20251020A01EU600","https://m.thepaper.cn/newsDetail_forward_31811254"],"created":1794630590,"id":"chatcmpl-b2b82e75-2e2f-42db-9e2d-3d9602c4a5ff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"准确的说法是：皇冠"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20251020A01EU600","https://m.thepaper.cn/newsDetail_forward_31811254"],"created":1794630590,"id":"chatcmpl-b2b82e75-2e2f-42db-9e2d-3d9602c4a5ff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"是媒体报道的被"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20251020A01EU600","https://m.thepaper.cn/newsDetail_forward_31811254"],"created":1794630590,"id":"chatcmpl-b2b82e75-2e2f-42db-9e2d-3d9602c4a5ff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"盗物品"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20251020A01EU600","https://m.thepaper.cn/newsDetail_forward_31811254"],"created":1794630590,"id":"chatcmpl-b2b82e75-2e2f-42db-9e2d-3d9602c4a5ff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"之一，并"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20251020A01EU600","https://m.thepaper.cn/newsDetail_forward_31811254"],"created":1794630590,"id":"chatcmpl-b2b82e75-2e2f-42db-9e2d-3d9602c4a5ff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"据"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20251020A01EU600","https://m.thepaper.cn/newsDetail_forward_31811254"],"created":1794630590,"id":"chatcmpl-b2b82e75-2e2f-42db-9e2d-3d9602c4a5ff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"称已找回；但它"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20251020A01EU600","https://m.thepaper.cn/newsDetail_forward_31811254"],"created":1794630590,"id":"chatcmpl-b2b82e75-2e2f-42db-9e2d-3d9602c4a5ff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"与"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20251020A01EU600","https://m.thepaper.cn/newsDetail_forward_31811254"],"created":1794630590,"id":"chatcmpl-b2b82e75-2e2f-42db-9e2d-3d9602c4a5ff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"官方清单的"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20251020A01EU600","https://m.thepaper.cn/newsDetail_forward_31811254"],"created":1794630590,"id":"chatcmpl-b2b82e75-2e2f-42db-9e2d-3d9602c4a5ff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"对应关系，仍需"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20251020A01EU600","https://m.thepaper.cn/newsDetail_forward_31811254"],"created":1794630590,"id":"chatcmpl-b2b82e75-2e2f-42db-9e2d-3d9602c4a5ff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"等待"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20251020A01EU600","https://m.thepaper.cn/newsDetail_forward_31811254"],"created":1794630590,"id":"chatcmpl-b2b82e75-2e2f-42db-9e2d-3d9602c4a5ff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"警方"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20251020A01EU600","https://m.thepaper.cn/newsDetail_forward_31811254"],"created":1794630590,"id":"chatcmpl-b2b82e75-2e2f-42db-9e2d-3d9602c4a5ff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"或卢浮宫正式"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20251020A01EU600","https://m.thepaper.cn/newsDetail_forward_31811254"],"created":1794630590,"id":"chatcmpl-b2b82e75-2e2f-42db-9e2d-3d9602c4a5ff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"清单"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20251020A01EU600","https://m.thepaper.cn/newsDetail_forward_31811254"],"created":1794630590,"id":"chatcmpl-b2b82e75-2e2f-42db-9e2d-3d9602c4a5ff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"确认。卢"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20251020A01EU600","https://m.thepaper.cn/newsDetail_forward_31811254"],"created":1794630590,"id":"chatcmpl-b2b82e75-2e2f-42db-9e2d-3d9602c4a5ff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"浮宫方面还"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20251020A01EU600","https://m.thepaper.cn/newsDetail_forward_31811254"],"created":1794630590,"id":"chatcmpl-b2b82e75-2e2f-42db-9e2d-3d9602c4a5ff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"表示皇冠状况"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20251020A01EU600","https://m.thepaper.cn/newsDetail_forward_31811254"],"created":1794630590,"id":"chatcmpl-b2b82e75-2e2f-42db-9e2d-3d9602c4a5ff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"正在评估中"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20251020A01EU600","https://m.thepaper.cn/newsDetail_forward_31811254"],"created":1794630590,"id":"chatcmpl-b2b82e75-2e2f-42db-9e2d-3d9602c4a5ff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"[2]。\n\n简"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20251020A01EU600","https://m.thepaper.cn/newsDetail_forward_31811254"],"created":1794630590,"id":"chatcmpl-b2b82e75-2e2f-42db-9e2d-3d9602c4a5ff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"言之：**“9"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20251020A01EU600","https://m.thepaper.cn/newsDetail_forward_31811254"],"created":1794630590,"id":"chatcmpl-b2b82e75-2e2f-42db-9e2d-3d9602c4a5ff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"件”目前是媒体数字"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20251020A01EU600","https://m.thepaper.cn/newsDetail_forward_31811254"],"created":1794630590,"id":"chatcmpl-b2b82e75-2e2f-42db-9e2d-3d9602c4a5ff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"，"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20251020A01EU600","https://m.thepaper.cn/newsDetail_forward_31811254"],"created":1794630590,"id":"chatcmpl-b2b82e75-2e2f-42db-9e2d-3d9602c4a5ff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"不是已"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20251020A01EU600","https://m.thepaper.cn/newsDetail_forward_31811254"],"created":1794630590,"id":"chatcmpl-b2b82e75-2e2f-42db-9e2d-3d9602c4a5ff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"证"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20251020A01EU600","https://m.thepaper.cn/newsDetail_forward_31811254"],"created":1794630590,"id":"chatcmpl-b2b82e75-2e2f-42db-9e2d-3d9602c4a5ff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"实的官方数字"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20251020A01EU600","https://m.thepaper.cn/newsDetail_forward_31811254"],"created":1794630590,"id":"chatcmpl-b2b82e75-2e2f-42db-9e2d-3d9602c4a5ff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"；找回皇冠与"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20251020A01EU600","https://m.thepaper.cn/newsDetail_forward_31811254"],"created":1794630590,"id":"chatcmpl-b2b82e75-2e2f-42db-9e2d-3d9602c4a5ff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"官方"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20251020A01EU600","https://m.thepaper.cn/newsDetail_forward_31811254"],"created":1794630590,"id":"chatcmpl-b2b82e75-2e2f-42db-9e2d-3d9602c4a5ff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"清单的关系也尚未"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20251020A01EU600","https://m.thepaper.cn/newsDetail_forward_31811254"],"created":1794630590,"id":"chatcmpl-b2b82e75-2e2f-42db-9e2d-3d9602c4a5ff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"由"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20251020A01EU600","https://m.thepaper.cn/newsDetail_forward_31811254"],"created":1794630590,"id":"chatcmpl-b2b82e75-2e2f-42db-9e2d-3d9602c4a5ff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"官方完整"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20251020A01EU600","https://m.thepaper.cn/newsDetail_forward_31811254"],"created":1794630590,"id":"chatcmpl-b2b82e75-2e2f-42db-9e2d-3d9602c4a5ff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"确认。**"},"finish_reason":"stop","index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20251020A01EU600","https://m.thepaper.cn/newsDetail_forward_31811254"],"created":1794630590,"id":"chatcmpl-b2b82e75-2e2f-42db-9e2d-3d9602c4a5ff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[],"citations":["https://news.qq.com/rain/a/20251020A01EU600","https://m.thepaper.cn/newsDetail_forward_31811254"],"created":1794630590,"id":"chatcmpl-b2b82e75-2e2f-42db-9e2d-3d9602c4a5ff","model":"deepseek-flash","object":"chat.completion.chunk","usage":{"completion_tokens":1008,"completion_tokens_details":{"reasoning_tokens":592},"prompt_tokens":901,"prompt_tokens_details":{"cached_tokens":0},"total_tokens":1909}}
+
+data: [DONE]
+

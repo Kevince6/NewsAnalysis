@@ -1,0 +1,63 @@
+{
+  "task_id": "T0262",
+  "model": "doubao",
+  "news_id": "E022",
+  "question_index": 2,
+  "question_original": "【事实】我是内地居民，从上海去海南旅游，带居民身份证够不够，还需要因为封关另办通行证吗？",
+  "question": "我是内地居民，从上海去海南旅游，带居民身份证够不够，还需要因为封关另办通行证吗？",
+  "attempt": 1,
+  "provider": "302.ai",
+  "model_requested": "doubao-seed-2-1-pro-260628",
+  "query_date": "2026-11-14",
+  "search_service": "metaso",
+  "prompt_version": "news-search-v1",
+  "prompt_sha256": "ea56fd5557d32615a9115f2368a0c4983ff1188f4935369e694d7d46f2493be1",
+  "requested_at": "2026-11-14T12:10:06.670338+08:00",
+  "raw_file": "raw/T0262_doubao_a001_9a3a58.json",
+  "transport": "sse",
+  "stream_file": "raw/T0262_doubao_a001_9a3a58.sse",
+  "status": "ok",
+  "model_returned": "doubao-seed-2-1-pro-260628",
+  "answer": "你作为从上海前往海南旅游的内地居民，携带居民身份证即可满足出行通行要求，不需要因为海南封关另行办理类似港澳通行证的特殊通行证件。\n相关政策背景与提示如下：\n1. 海南“封关”的本质是建设更高水平开放的“超级海关监管区”，绝非“封岛”限制人员正常进出。按照公开的政策解读，封关后内地居民前往海南旅游、出差的通行规则与封关前保持一致，无需额外准备护照、通行证类证件，持居民身份证即可顺畅出发；岛内蔬菜水果、日用品等民生物资也保持自由流通，不会影响正常旅游秩序[2]。\n2. 海南方面已明确封关后的人员通行管理方向：封关运行后，内地居民进入海南自贸港可直接使用居民身份证通行，无需办理类似港澳通行证的特殊通行证件或旅行证件。需要提示的是，海南自贸港的具体管理政策需由海南会同中央有关部门协同商议确定，最终的正式通行管理要求请以官方发布的规定为准[4]。\n3. 相关讨论中提及的特殊通行证件属于面向特定群体的便利化安排，与普通旅游访客无关：有观点提出，不排除未来为部分因业务需要频繁往返海南自贸港与内地的旅客颁发特殊通行证件，以提升这类高频往来群体的通关查验效率，但这类安排并非面向普通游客的强制办证要求，赴海南旅游的内地居民无需为此额外申办证件[3]。",
+  "sources": [
+    {
+      "index": 1,
+      "url": "http://www.ce.cn/xwzx/gnsz/gdxw/202512/t20251222_2657606.shtml",
+      "title": null,
+      "origin": "citations"
+    },
+    {
+      "index": 2,
+      "url": "https://www.cnblogs.com/lzhdim/p/19369148",
+      "title": null,
+      "origin": "citations"
+    },
+    {
+      "index": 3,
+      "url": "https://m.thepaper.cn/newsDetail_forward_16808082",
+      "title": null,
+      "origin": "citations"
+    },
+    {
+      "index": 4,
+      "url": "https://cj.sina.com.cn/articles/view/1650111241/625ab30901900uqjl",
+      "title": null,
+      "origin": "citations"
+    }
+  ],
+  "usage": {
+    "completion_tokens": 2542,
+    "completion_tokens_details": {
+      "reasoning_tokens": 2224
+    },
+    "prompt_tokens": 1312,
+    "prompt_tokens_details": {
+      "cached_tokens": 0
+    },
+    "total_tokens": 3854
+  },
+  "finish_reason": "stop",
+  "note": [],
+  "request_id": "cc1a7e0f-6e09-43c4-85ab-a2003a1fb191",
+  "duration_seconds": 54.453
+}

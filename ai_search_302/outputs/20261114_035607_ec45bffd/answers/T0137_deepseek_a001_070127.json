@@ -1,0 +1,51 @@
+{
+  "task_id": "T0137",
+  "model": "deepseek",
+  "news_id": "E012",
+  "question_index": 1,
+  "question_original": "【开放】TikTok在美国从短暂停服到后来成立合资公司，中间经历了哪些时间节点？",
+  "question": "TikTok在美国从短暂停服到后来成立合资公司，中间经历了哪些时间节点？",
+  "attempt": 1,
+  "provider": "302.ai",
+  "model_requested": "deepseek-flash",
+  "query_date": "2026-11-14",
+  "search_service": "metaso",
+  "prompt_version": "news-search-v1",
+  "prompt_sha256": "ea56fd5557d32615a9115f2368a0c4983ff1188f4935369e694d7d46f2493be1",
+  "requested_at": "2026-11-14T11:38:18.344521+08:00",
+  "raw_file": "raw/T0137_deepseek_a001_070127.json",
+  "transport": "sse",
+  "stream_file": "raw/T0137_deepseek_a001_070127.sse",
+  "status": "ok",
+  "model_returned": "deepseek-flash",
+  "answer": "根据目前检索到的资料，**只能确认到“短暂停服—恢复服务”这一阶段，以及“计划设立合资公司”的表述；合资公司具体何时成立、经历了哪些后续节点，搜索结果中没有提供可核实的信息**。以下是资料中能确认的时间线：\n\n1. **2024年3月**：美国众议院通过法案，要求字节跳动在165天内出售TikTok，否则面临全美应用商店下架[3]。\n2. **2024年4月24日**：拜登总统签署法案生效，最后期限设定为**2025年1月19日**[3]。\n3. **2025年1月18日晚（美国西部时间19时30分左右，北京时间19日11时30分左右）**：TikTok向美国用户推送通知称暂停服务；主要云服务商Oracle关闭托管TikTok数据的服务器，TikTok在苹果和谷歌应用商店下架[1]。\n4. **2025年1月19日（美国西部时间9时30分左右，北京时间20日1时30分左右）**：TikTok在社交媒体发布声明，称已与互联网服务提供商达成一致，正在恢复相关服务[1]。\n5. **关于合资公司**：现有资料只提到“特朗普计划设立合资公司，美国在其中拥有50%的股份，这样既确保掌握TikTok，也能令其继续运营”[1]。**这属于“计划”层面的表述，搜索结果没有给出该合资公司成立的具体日期、协议签署节点或后续审批进展**。\n\n需要说明两点：\n\n- 关于停服日期，网页3概括为“2025年1月19日，TikTok在美国的运营按计划暂停”[3]，而网页1给出的具体时间是“美国西部时间18日19时30分左右”暂停、19日恢复[1]。两者并不完全一致，可能是概括口径与具体时点表述的差异；以现有资料无法进一步确认。\n- 用户问的是“从短暂停服到后来成立合资公司”的完整时间节点，但搜索结果中**缺少合资公司成立阶段的信息**，因此不能据此补出中间节点。若要确认合资公司是否已成立、何时成立，需要查阅后续的官方公告或可信媒体报道。",
+  "sources": [
+    {
+      "index": 1,
+      "url": "https://finance.sina.com.cn/tech/roll/2025-01-21/doc-inefrhrw0255983.shtml",
+      "title": null,
+      "origin": "citations"
+    },
+    {
+      "index": 2,
+      "url": "https://www.menglar123.com/dr/86455.html",
+      "title": null,
+      "origin": "citations"
+    }
+  ],
+  "usage": {
+    "completion_tokens": 1107,
+    "completion_tokens_details": {
+      "reasoning_tokens": 629
+    },
+    "prompt_tokens": 913,
+    "prompt_tokens_details": {
+      "cached_tokens": 0
+    },
+    "total_tokens": 2020
+  },
+  "finish_reason": "stop",
+  "note": [],
+  "request_id": "19e0d7ee-fc7b-4662-b758-74d3dfc78ea1",
+  "duration_seconds": 51.547
+}

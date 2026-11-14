@@ -1,0 +1,65 @@
+{
+  "task_id": "T0324",
+  "model": "qwen",
+  "news_id": "E027",
+  "question_index": 4,
+  "question_original": "【事实】英伟达2025年7月14日公告，说的是已经恢复出货，还是正在申请并获得了许可承诺？",
+  "question": "英伟达2025年7月14日公告，说的是已经恢复出货，还是正在申请并获得了许可承诺？",
+  "attempt": 1,
+  "provider": "302.ai",
+  "model_requested": "qwen3.8-max",
+  "query_date": "2026-11-14",
+  "search_service": "metaso",
+  "prompt_version": "news-search-v1",
+  "prompt_sha256": "ea56fd5557d32615a9115f2368a0c4983ff1188f4935369e694d7d46f2493be1",
+  "requested_at": "2026-11-14T12:24:15.620793+08:00",
+  "raw_file": "raw/T0324_qwen_a001_9f90ef.json",
+  "transport": "sse",
+  "stream_file": "raw/T0324_qwen_a001_9f90ef.sse",
+  "status": "ok",
+  "model_returned": "qwen3.8-max",
+  "answer": "英伟达 2025 年 7 月 14 日公告说的不是“已经恢复出货”，而是：**H20 对华销售可以恢复，但前提是美国政府已承诺将核发/授予出口许可，实际交付仍在推进中**。也就是说，更接近“正在申请并获得了许可承诺”，而不是已经出货。[1][2][5]\n\n具体来说：\n\n1. **公告表述是“将恢复销售”，不是“已出货”**  \n   英伟达 7 月 14 日称，将恢复向中国销售 H20，因为其提交 H20 对华出口申请后，美国政府已承诺将授予许可证。[1] 相关报道也表述为“将恢复对中国的 H20 销售”，并提到英伟达希望尽快开始交付。[2]\n\n2. **许可状态是“承诺将发放/核发”，并非已完成出货**  \n   有资料显示，英伟达称已获美国政府书面确认，将向英伟达核发 H20 对华出口许可证，预计近期启动交付。[5] 黄仁勋在 2025 年 7 月中旬也表示，英伟达已重新提交 H20 销售申请，美国政府已承诺将批准相关许可，公司预计即将启动交付。[3]\n\n3. **“恢复销售”和“恢复出货”需要区分**  \n   公告中的“恢复销售”意味着商业销售限制解除或获准推进，但实际出货还取决于许可证正式生效、物流和海关安排。英伟达当时表示正与物流及海关部门协调，力争在许可证生效后尽快完成首批供货。[5]\n\n因此，准确理解是：**英伟达 2025 年 7 月 14 日公告称美国政府已承诺将批准/核发 H20 对华出口许可，英伟达将恢复对华销售并预计近期交付，但并未表示已经实际恢复出货。**[1][3][5]",
+  "sources": [
+    {
+      "index": 1,
+      "url": "http://m.chinaaet.com/article/3000173138",
+      "title": null,
+      "origin": "citations"
+    },
+    {
+      "index": 2,
+      "url": "https://finance.sina.com.cn/roll/2025-07-15/doc-inffpsmu2190548.shtml?froms=ggmp",
+      "title": null,
+      "origin": "citations"
+    },
+    {
+      "index": 3,
+      "url": "https://www.esmchina.com/news/13279.html",
+      "title": null,
+      "origin": "citations"
+    },
+    {
+      "index": 4,
+      "url": "https://www.gelonghui.com/p/2491233",
+      "title": null,
+      "origin": "citations"
+    }
+  ],
+  "usage": {
+    "completion_tokens": 1451,
+    "completion_tokens_details": {
+      "reasoning_tokens": 1026,
+      "text_tokens": 1451
+    },
+    "prompt_tokens": 1270,
+    "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "text_tokens": 1270
+    },
+    "total_tokens": 2721
+  },
+  "finish_reason": "stop",
+  "note": [],
+  "request_id": "e7547ac2-bd1a-46c3-97ce-62a76f7a1d50",
+  "duration_seconds": 34.0
+}

@@ -1,0 +1,59 @@
+{
+  "request": {
+    "model": "qwen3.8-max",
+    "messages": [
+      {
+        "role": "system",
+        "content": "请联网检索后，用自然中文回答用户的问题。\n先直接回答，再补充理解答案所需的事实、背景或说明；复杂问题可分点，简单问题可简答。\n优先参考与问题直接相关的原始发布、机构公告、当事人回应及可信媒体报道。\n依据检索到的资料作答。资料不足、存在分歧或尚未确认的内容，请明确说明；解释和判断应与已确认的事实区分。\n在相关事实后标注检索来源，沿用检索结果提供的引用编号或标记。\n\n查询日期：2026-11-14（北京时间，UTC+8）。问题中的“现在”“近期”“最新”以此日期为参照；问题明确指定时间范围时，以问题为准。"
+      },
+      {
+        "role": "user",
+        "content": "Manus宣布加入Meta时，说订阅服务会不会继续，运营地在哪里？"
+      }
+    ],
+    "web-search": true,
+    "search-service": "metaso",
+    "search-results": 5,
+    "stream": true,
+    "stream_options": {
+      "include_usage": true
+    }
+  },
+  "response": {
+    "object": "chat.completion",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "Manus 宣布加入 Meta 时表示：**订阅服务会继续**，将继续通过 **App 和网站**为用户提供产品及订阅服务；同时，公司**将继续在新加坡运营**[2][5]。\n\n补充信息：相关说明还提到，Manus 的团队分布在新加坡、东京和旧金山等地，并计划开设巴黎办公室，订阅服务仍将维持，起步价格约为每月 20 欧元[4]。",
+          "reasoning_content": "用户问：Manus宣布加入Meta时，说订阅服务会不会继续，运营地在哪里？需要直接回答，并引用资料。资料：Manus将继续通过App和网站为用户提供产品和订阅服务，同时公司将继续在新加坡运营。[2][5] 英文资料也提到继续在新加坡运营，团队约105人分布在新加坡、东京、旧金山，计划巴黎设办公室，维持网站和app订阅，起价20欧元/月。[4] 需要自然中文，简洁，可补充背景：2026年12月30日消息？注意当前日期为2026-11-14，但资料写12月30日，可能来自未来/错误？必须依据给定资料，问题问“宣布加入Meta时”。不要纠结日期。回答：会继续，通过App和网站提供产品和订阅服务；运营地继续在新加坡。引用[2][5][4]。可补充公司保持独立运营、代理逐步整合进Meta产品，但用户没问。需要标注引用。\n"
+        },
+        "finish_reason": "stop"
+      }
+    ],
+    "id": "chatcmpl-6023a9f2-a210-9778-bec8-9742dbae334e",
+    "model": "qwen3.8-max",
+    "created": 1794629846,
+    "citations": [
+      "https://t.cj.sina.com.cn/articles/view/1826017320/6cd6d02804001ir1k",
+      "https://baike.baidu.com/item/Manus/65463546#%3A~%3Atext%3DManus_%E7%99%BE%E5%BA%A6%E7%99%BE%E7%A7%91%26text%3DManus%EF%BC%8C%E6%98%AF%E7%94%B1%E4%B8%AD%E5%9B%BD%E5%88%9B%E4%B8%9A%2C%E8%AF%B8%E5%AE%9E%E8%B7%B5%EF%BC%8C%E7%9C%9F%E6%AD%A3%E8%A7%A3%E5%86%B3%E9%97%AE%E9%A2%98%E3%80%82",
+      "https://marketing4ecommerce.net/en/meta-purchase-manus/",
+      "http://finance.sina.com.cn/tech/digi/2025-12-30/doc-inhepntu7347749.shtml"
+    ],
+    "usage": {
+      "completion_tokens": 319,
+      "completion_tokens_details": {
+        "reasoning_tokens": 226,
+        "text_tokens": 319
+      },
+      "prompt_tokens": 1519,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "text_tokens": 1519
+      },
+      "total_tokens": 1838
+    },
+    "_transport": "sse"
+  }
+}

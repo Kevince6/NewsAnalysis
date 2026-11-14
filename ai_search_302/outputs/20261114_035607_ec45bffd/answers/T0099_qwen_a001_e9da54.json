@@ -1,0 +1,65 @@
+{
+  "task_id": "T0099",
+  "model": "qwen",
+  "news_id": "E008",
+  "question_index": 3,
+  "question_original": "【事实】马杜罗和妻子什么时候天、在哪个城市被美方抓捕？",
+  "question": "马杜罗和妻子什么时候天、在哪个城市被美方抓捕？",
+  "attempt": 1,
+  "provider": "302.ai",
+  "model_requested": "qwen3.8-max",
+  "query_date": "2026-11-14",
+  "search_service": "metaso",
+  "prompt_version": "news-search-v1",
+  "prompt_sha256": "ea56fd5557d32615a9115f2368a0c4983ff1188f4935369e694d7d46f2493be1",
+  "requested_at": "2026-11-14T11:27:53.436437+08:00",
+  "raw_file": "raw/T0099_qwen_a001_e9da54.json",
+  "transport": "sse",
+  "stream_file": "raw/T0099_qwen_a001_e9da54.sse",
+  "status": "ok",
+  "model_returned": "qwen3.8-max",
+  "answer": "马杜罗和妻子是在**2026年1月3日凌晨**被美方抓捕的；抓捕地点是**委内瑞拉首都加拉加斯**[1][5]。  \n\n报道还称，两人随后被美军带离委内瑞拉，并于**1月3日傍晚**抵达美国纽约州的斯图尔特空军国民警卫队基地，之后被转送至纽约布鲁克林的拘留中心羁押[1][4]。",
+  "sources": [
+    {
+      "index": 1,
+      "url": "https://m.thepaper.cn/newsDetail_forward_32309364",
+      "title": null,
+      "origin": "citations"
+    },
+    {
+      "index": 2,
+      "url": "https://www.163.com/dy/article/KIR8A6080530M570.html",
+      "title": null,
+      "origin": "citations"
+    },
+    {
+      "index": 3,
+      "url": "https://news.qq.com/rain/a/20260104A03OT100",
+      "title": null,
+      "origin": "citations"
+    },
+    {
+      "index": 4,
+      "url": "https://k.sina.cn/article_7295052904_1b2d1ac6802001kn4e.html",
+      "title": null,
+      "origin": "citations"
+    }
+  ],
+  "usage": {
+    "completion_tokens": 961,
+    "completion_tokens_details": {
+      "reasoning_tokens": 870,
+      "text_tokens": 961
+    },
+    "prompt_tokens": 1384,
+    "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "text_tokens": 1384
+    },
+    "total_tokens": 2345
+  },
+  "finish_reason": "stop",
+  "note": [],
+  "request_id": "d9f2dfa7-5ffd-4aea-b32a-784eaa866c9a",
+  "duration_seconds": 30.125
+}

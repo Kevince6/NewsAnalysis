@@ -1,0 +1,45 @@
+{
+  "task_id": "T0265",
+  "model": "doubao",
+  "news_id": "E022",
+  "question_index": 3,
+  "question_original": "【事实】如果一个外国人只适用海南30天免签，他入境海南后能直接去广州旅游吗？",
+  "question": "如果一个外国人只适用海南30天免签，他入境海南后能直接去广州旅游吗？",
+  "attempt": 1,
+  "provider": "302.ai",
+  "model_requested": "doubao-seed-2-1-pro-260628",
+  "query_date": "2026-11-14",
+  "search_service": "metaso",
+  "prompt_version": "news-search-v1",
+  "prompt_sha256": "ea56fd5557d32615a9115f2368a0c4983ff1188f4935369e694d7d46f2493be1",
+  "requested_at": "2026-11-14T12:11:01.130272+08:00",
+  "raw_file": "raw/T0265_doubao_a001_830072.json",
+  "transport": "sse",
+  "stream_file": "raw/T0265_doubao_a001_830072.sse",
+  "status": "ok",
+  "model_returned": "doubao-seed-2-1-pro-260628",
+  "answer": "不能直接前往广州旅游。\n根据现行海南入境免签安排，59国人员适用的海南30天免签政策，仅支持相关人员从海南所有对外开放口岸免签入境后，在海南当地因旅游、商贸、访问、探亲、医疗、会展、体育竞技等非工作、学习事由停留不超过30天[3]。如果免签入境海南的外国人计划离开海南前往中国境内其他地区（包含广州），无法直接凭海南免签资格通行，需要在停留期限届满前7个工作日，以正当合理事由向海南省公安机关出入境管理部门申办外国人签证证件，办妥对应手续后方可前往[3]。",
+  "sources": [
+    {
+      "index": 1,
+      "url": "https://jdxq.haikou.gov.cn/xinwen/2024/show-6891.html",
+      "title": null,
+      "origin": "citations"
+    }
+  ],
+  "usage": {
+    "completion_tokens": 1114,
+    "completion_tokens_details": {
+      "reasoning_tokens": 973
+    },
+    "prompt_tokens": 858,
+    "prompt_tokens_details": {
+      "cached_tokens": 0
+    },
+    "total_tokens": 1972
+  },
+  "finish_reason": "stop",
+  "note": [],
+  "request_id": "19ee8394-76d4-42ce-8c89-493fe6977684",
+  "duration_seconds": 23.796
+}

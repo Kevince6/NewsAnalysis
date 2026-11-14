@@ -1,0 +1,57 @@
+{
+  "task_id": "T0230",
+  "model": "deepseek",
+  "news_id": "E019",
+  "question_index": 2,
+  "question_original": "【开放】武汉大学发现论文有百余处不规范，就等于认定造假、撤销学位了吗？学校实际复核结论是什么？",
+  "question": "武汉大学发现论文有百余处不规范，就等于认定造假、撤销学位了吗？学校实际复核结论是什么？",
+  "attempt": 1,
+  "provider": "302.ai",
+  "model_requested": "deepseek-flash",
+  "query_date": "2026-11-14",
+  "search_service": "metaso",
+  "prompt_version": "news-search-v1",
+  "prompt_sha256": "ea56fd5557d32615a9115f2368a0c4983ff1188f4935369e694d7d46f2493be1",
+  "requested_at": "2026-11-14T12:04:19.756122+08:00",
+  "raw_file": "raw/T0230_deepseek_a001_d07e61.json",
+  "transport": "sse",
+  "stream_file": "raw/T0230_deepseek_a001_d07e61.sse",
+  "status": "ok",
+  "model_returned": "deepseek-flash",
+  "answer": "不等于。发现百余处不规范，并不等于认定论文造假，也不直接导致撤销学位。\n\n**学校的实际复核结论是：**\n- 未发现杨某媛存在抄袭、主观造假、篡改数据和编造结论等学术不端行为[2]。\n- 但专家复核发现其学位论文存在百余处不规范问题，主要集中在表述不规范、引用不规范、格式不规范、翻译不准确、分析不准确等方面[2]。\n- 武汉大学召开学位评定委员会会议，依据当时适用的《中华人民共和国学位条例》及学校有关规定，决定**维持授予其硕士学位的决议**[2]。\n\n**为什么不把“百余处不规范”等同于造假、撤销学位：**\n- 撤销学位通常需要以严重的学术诚信问题为前提，如抄袭、造假定性等；复核结论既然“未发现主观造假”和“未发现抄袭”，就不构成撤销学位的法律基础[3]。\n- 杨某媛论文总文字复制比仅为1.9%，远低于学校规定的10%上限，不存在大段抄袭迹象[4]。\n- 这些不规范被归为“质量瑕疵”和流程执行问题：她在盲审和答辩环节已被要求修改，但只做了部分修改，导师未严格把关，学院学位评定分委员会未严格审核，导致正式提交的论文仍存在大量不规范问题；这属于流程执行层面的失职，而非论文核心内容造假[3][4]。\n\n所以，更准确地说：**“百余处不规范”是学术规范和质量层面的问题，不是学术不端定性；学校实际结论是“不认定抄袭、主观造假等学术不端，但指出论文存在大量不规范，最终维持硕士学位授予决议”。**",
+  "sources": [
+    {
+      "index": 1,
+      "url": "https://m.huxiu.com/brief/291871.html",
+      "title": null,
+      "origin": "citations"
+    },
+    {
+      "index": 2,
+      "url": "http://k.sina.com.cn/article_7880068208_1d5b04c7006801hynm.html",
+      "title": null,
+      "origin": "citations"
+    },
+    {
+      "index": 3,
+      "url": "https://k.sina.com.cn/article_7880068208_1d5b04c7006801hynk.html",
+      "title": null,
+      "origin": "citations"
+    }
+  ],
+  "usage": {
+    "completion_tokens": 1188,
+    "completion_tokens_details": {
+      "reasoning_tokens": 836
+    },
+    "prompt_tokens": 1046,
+    "prompt_tokens_details": {
+      "cached_tokens": 0
+    },
+    "total_tokens": 2234
+  },
+  "finish_reason": "stop",
+  "note": [],
+  "request_id": "6caea941-2f4b-4efa-b2bb-61287ab1df2d",
+  "duration_seconds": 8.453
+}

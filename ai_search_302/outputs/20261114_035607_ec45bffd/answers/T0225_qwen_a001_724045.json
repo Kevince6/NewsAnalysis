@@ -1,0 +1,65 @@
+{
+  "task_id": "T0225",
+  "model": "qwen",
+  "news_id": "E018",
+  "question_index": 4,
+  "question_original": "【事实】红山晚报是哪天发布“免费砍白菜”消息的？调查是否认定记者到现场核实过？",
+  "question": "红山晚报是哪天发布“免费砍白菜”消息的？调查是否认定记者到现场核实过？",
+  "attempt": 1,
+  "provider": "302.ai",
+  "model_requested": "qwen3.8-max",
+  "query_date": "2026-11-14",
+  "search_service": "metaso",
+  "prompt_version": "news-search-v1",
+  "prompt_sha256": "ea56fd5557d32615a9115f2368a0c4983ff1188f4935369e694d7d46f2493be1",
+  "requested_at": "2026-11-14T12:03:06.132998+08:00",
+  "raw_file": "raw/T0225_qwen_a001_724045.json",
+  "transport": "sse",
+  "stream_file": "raw/T0225_qwen_a001_724045.sse",
+  "status": "ok",
+  "model_returned": "qwen3.8-max",
+  "answer": "红山晚报发布“免费砍白菜”消息的时间是**5日上午10时**，按该事件相关报道时间线即**2025年11月5日**；其通过官方账号发布了题为“继免费捡土豆后又有新惊喜，赤峰一地可免费砍白菜”的视频[1]。\n\n调查/通报认定：记者**没有到现场核实**。通报称，红山晚报记者刘某某在4日21时联系相关人员了解情况后，“在未到现场核实的情况下”就发布了该视频[1]；相关报道也表述为记者在未去现场核实的情况下直接发布“免费砍白菜”消息[4][5]。",
+  "sources": [
+    {
+      "index": 1,
+      "url": "https://finance.sina.cn/2025-11-17/detail-infxtqvu6203934.d.html?vt=4&cid=76675&node_id=76675",
+      "title": null,
+      "origin": "citations"
+    },
+    {
+      "index": 2,
+      "url": "https://m.bjnews.com.cn/detail/1763385374129541.html",
+      "title": null,
+      "origin": "citations"
+    },
+    {
+      "index": 3,
+      "url": "https://www.163.com/dy/article/KF47NILC055616XV.html",
+      "title": null,
+      "origin": "citations"
+    },
+    {
+      "index": 4,
+      "url": "https://finance.sina.com.cn/cj/2025-11-11/doc-infwzvxt1857838.shtml",
+      "title": null,
+      "origin": "citations"
+    }
+  ],
+  "usage": {
+    "completion_tokens": 1005,
+    "completion_tokens_details": {
+      "reasoning_tokens": 864,
+      "text_tokens": 1005
+    },
+    "prompt_tokens": 1278,
+    "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "text_tokens": 1278
+    },
+    "total_tokens": 2283
+  },
+  "finish_reason": "stop",
+  "note": [],
+  "request_id": "45165573-d398-4417-9393-9ed7077219a4",
+  "duration_seconds": 28.266
+}

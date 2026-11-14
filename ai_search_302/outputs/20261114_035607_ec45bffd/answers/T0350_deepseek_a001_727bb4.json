@@ -1,0 +1,69 @@
+{
+  "task_id": "T0350",
+  "model": "deepseek",
+  "news_id": "E029",
+  "question_index": 4,
+  "question_original": "【事实】2026年7月21日的报道预告，阿波罗长廊哪天重开，还会陈列之前那批珠宝吗？",
+  "question": "2026年7月21日的报道预告，阿波罗长廊哪天重开，还会陈列之前那批珠宝吗？",
+  "attempt": 1,
+  "provider": "302.ai",
+  "model_requested": "deepseek-flash",
+  "query_date": "2026-11-14",
+  "search_service": "metaso",
+  "prompt_version": "news-search-v1",
+  "prompt_sha256": "ea56fd5557d32615a9115f2368a0c4983ff1188f4935369e694d7d46f2493be1",
+  "requested_at": "2026-11-14T12:32:02.549167+08:00",
+  "raw_file": "raw/T0350_deepseek_a001_727bb4.json",
+  "transport": "sse",
+  "stream_file": "raw/T0350_deepseek_a001_727bb4.sse",
+  "status": "ok",
+  "model_returned": "deepseek-flash",
+  "answer": "**重开日期：2026年7月22日。** 据法新社等法国媒体2026年7月20日报道，2025年10月遭遇抢劫后一直关闭的卢浮宫阿波罗长廊定于7月22日对公众重新开放[webpage 3][webpage 5]；新华社同日报道也确认了这一日期[webpage 1]。\n\n**那批珠宝不会回来了。** 展厅重开后将**不再展出任何珠宝**，而是恢复其17世纪美术陈列室的原始功能，主要展示长廊本身闻名于世的墙壁彩绘、鎏金雕刻和穹顶装饰[webpage 1][webpage 4]。2025年10月失窃的法国王室珠宝价值约8800万欧元，案发后一直下落不明[webpage 3][webpage 5]。\n\n需要说明的一点：上述报道均为7月21日前后发布的“预告”，即当时重开尚未发生；其中个别转载页面把日期写作“7月23日”[webpage 2]，与新华社、央视新闻、中新网等来源的“22日”不一致，应以“22日”为准。就现有资料看，没有信息表明馆方计划在重开后重新陈列这批被盗珠宝。",
+  "sources": [
+    {
+      "index": 1,
+      "url": "http://www.news.cn/20260721/796ddb6bac304474aa41952ffd3bf18f/c.html",
+      "title": null,
+      "origin": "citations"
+    },
+    {
+      "index": 2,
+      "url": "https://github.com/hanxinchaofanai-web/qmXMpLLu/blob/qLpTeURK/aJzdIDIc/XFWuZiym.md",
+      "title": null,
+      "origin": "citations"
+    },
+    {
+      "index": 3,
+      "url": "https://news.qq.com/rain/a/20260721A02KJ400",
+      "title": null,
+      "origin": "citations"
+    },
+    {
+      "index": 4,
+      "url": "https://news.qq.com/rain/a/20260722A0B3WZ00",
+      "title": null,
+      "origin": "citations"
+    },
+    {
+      "index": 5,
+      "url": "https://news.cnr.cn/sq/20260721/t20260721_527720977.shtml",
+      "title": null,
+      "origin": "citations"
+    }
+  ],
+  "usage": {
+    "completion_tokens": 412,
+    "completion_tokens_details": {
+      "reasoning_tokens": 147
+    },
+    "prompt_tokens": 1425,
+    "prompt_tokens_details": {
+      "cached_tokens": 0
+    },
+    "total_tokens": 1837
+  },
+  "finish_reason": "stop",
+  "note": [],
+  "request_id": "eceba31c-bcb4-4859-9bc4-2d31f5998481",
+  "duration_seconds": 4.406
+}

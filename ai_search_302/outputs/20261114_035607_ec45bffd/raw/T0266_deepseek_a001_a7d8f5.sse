@@ -1,0 +1,698 @@
+data: {"choices":[{"delta":{"reasoning_content":"用户","role":"assistant"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://jdxq.haikou.gov.cn/xinwen/2024/show-6891.html"],"created":1794629467,"id":"chatcmpl-ac14ff30-9b36-43cd-bbb9-be022b062d64","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"问：只"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://jdxq.haikou.gov.cn/xinwen/2024/show-6891.html"],"created":1794629467,"id":"chatcmpl-ac14ff30-9b36-43cd-bbb9-be022b062d64","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"适用海南30天免签"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://jdxq.haikou.gov.cn/xinwen/2024/show-6891.html"],"created":1794629467,"id":"chatcmpl-ac14ff30-9b36-43cd-bbb9-be022b062d64","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"的外国人，入境"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://jdxq.haikou.gov.cn/xinwen/2024/show-6891.html"],"created":1794629467,"id":"chatcmpl-ac14ff30-9b36-43cd-bbb9-be022b062d64","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"海南后能直接去广州"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://jdxq.haikou.gov.cn/xinwen/2024/show-6891.html"],"created":1794629467,"id":"chatcmpl-ac14ff30-9b36-43cd-bbb9-be022b062d64","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"旅游吗？\n\n"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://jdxq.haikou.gov.cn/xinwen/2024/show-6891.html"],"created":1794629467,"id":"chatcmpl-ac14ff30-9b36-43cd-bbb9-be022b062d64","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"根据搜索结果[web"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://jdxq.haikou.gov.cn/xinwen/2024/show-6891.html"],"created":1794629467,"id":"chatcmpl-ac14ff30-9b36-43cd-bbb9-be022b062d64","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"page 2]"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://jdxq.haikou.gov.cn/xinwen/2024/show-6891.html"],"created":1794629467,"id":"chatcmpl-ac14ff30-9b36-43cd-bbb9-be022b062d64","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"：免签"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://jdxq.haikou.gov.cn/xinwen/2024/show-6891.html"],"created":1794629467,"id":"chatcmpl-ac14ff30-9b36-43cd-bbb9-be022b062d64","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"入境海南"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://jdxq.haikou.gov.cn/xinwen/2024/show-6891.html"],"created":1794629467,"id":"chatcmpl-ac14ff30-9b36-43cd-bbb9-be022b062d64","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"，"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://jdxq.haikou.gov.cn/xinwen/2024/show-6891.html"],"created":1794629467,"id":"chatcmpl-ac14ff30-9b36-43cd-bbb9-be022b062d64","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"停留不超过30天。期间"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://jdxq.haikou.gov.cn/xinwen/2024/show-6891.html"],"created":1794629467,"id":"chatcmpl-ac14ff30-9b36-43cd-bbb9-be022b062d64","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"如因正当"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://jdxq.haikou.gov.cn/xinwen/2024/show-6891.html"],"created":1794629467,"id":"chatcmpl-ac14ff30-9b36-43cd-bbb9-be022b062d64","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"合理事由需"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://jdxq.haikou.gov.cn/xinwen/2024/show-6891.html"],"created":1794629467,"id":"chatcmpl-ac14ff30-9b36-43cd-bbb9-be022b062d64","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"延长停留期"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://jdxq.haikou.gov.cn/xinwen/2024/show-6891.html"],"created":1794629467,"id":"chatcmpl-ac14ff30-9b36-43cd-bbb9-be022b062d64","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"，或离开海南前往"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://jdxq.haikou.gov.cn/xinwen/2024/show-6891.html"],"created":1794629467,"id":"chatcmpl-ac14ff30-9b36-43cd-bbb9-be022b062d64","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"中国境内其他地区，应在"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://jdxq.haikou.gov.cn/xinwen/2024/show-6891.html"],"created":1794629467,"id":"chatcmpl-ac14ff30-9b36-43cd-bbb9-be022b062d64","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"停留期限"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://jdxq.haikou.gov.cn/xinwen/2024/show-6891.html"],"created":1794629467,"id":"chatcmpl-ac14ff30-9b36-43cd-bbb9-be022b062d64","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"届满前7个工作日内向"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://jdxq.haikou.gov.cn/xinwen/2024/show-6891.html"],"created":1794629467,"id":"chatcmpl-ac14ff30-9b36-43cd-bbb9-be022b062d64","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"海南省公安机关"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://jdxq.haikou.gov.cn/xinwen/2024/show-6891.html"],"created":1794629467,"id":"chatcmpl-ac14ff30-9b36-43cd-bbb9-be022b062d64","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"出入境管理部门申"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://jdxq.haikou.gov.cn/xinwen/2024/show-6891.html"],"created":1794629467,"id":"chatcmpl-ac14ff30-9b36-43cd-bbb9-be022b062d64","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"办外国人签证证件。\n\n所以"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://jdxq.haikou.gov.cn/xinwen/2024/show-6891.html"],"created":1794629467,"id":"chatcmpl-ac14ff30-9b36-43cd-bbb9-be022b062d64","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"答案"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://jdxq.haikou.gov.cn/xinwen/2024/show-6891.html"],"created":1794629467,"id":"chatcmpl-ac14ff30-9b36-43cd-bbb9-be022b062d64","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"：不能直接去广州"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://jdxq.haikou.gov.cn/xinwen/2024/show-6891.html"],"created":1794629467,"id":"chatcmpl-ac14ff30-9b36-43cd-bbb9-be022b062d64","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"，需要"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://jdxq.haikou.gov.cn/xinwen/2024/show-6891.html"],"created":1794629467,"id":"chatcmpl-ac14ff30-9b36-43cd-bbb9-be022b062d64","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"事先"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://jdxq.haikou.gov.cn/xinwen/2024/show-6891.html"],"created":1794629467,"id":"chatcmpl-ac14ff30-9b36-43cd-bbb9-be022b062d64","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"申办签证证件。"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://jdxq.haikou.gov.cn/xinwen/2024/show-6891.html"],"created":1794629467,"id":"chatcmpl-ac14ff30-9b36-43cd-bbb9-be022b062d64","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"注意"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://jdxq.haikou.gov.cn/xinwen/2024/show-6891.html"],"created":1794629467,"id":"chatcmpl-ac14ff30-9b36-43cd-bbb9-be022b062d64","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"\""},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://jdxq.haikou.gov.cn/xinwen/2024/show-6891.html"],"created":1794629467,"id":"chatcmpl-ac14ff30-9b36-43cd-bbb9-be022b062d64","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"停留"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://jdxq.haikou.gov.cn/xinwen/2024/show-6891.html"],"created":1794629467,"id":"chatcmpl-ac14ff30-9b36-43cd-bbb9-be022b062d64","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"期限届满前7个工作"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://jdxq.haikou.gov.cn/xinwen/2024/show-6891.html"],"created":1794629467,"id":"chatcmpl-ac14ff30-9b36-43cd-bbb9-be022b062d64","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"日内\"——"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://jdxq.haikou.gov.cn/xinwen/2024/show-6891.html"],"created":1794629467,"id":"chatcmpl-ac14ff30-9b36-43cd-bbb9-be022b062d64","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"这个"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://jdxq.haikou.gov.cn/xinwen/2024/show-6891.html"],"created":1794629467,"id":"chatcmpl-ac14ff30-9b36-43cd-bbb9-be022b062d64","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"表述有点奇怪，"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://jdxq.haikou.gov.cn/xinwen/2024/show-6891.html"],"created":1794629467,"id":"chatcmpl-ac14ff30-9b36-43cd-bbb9-be022b062d64","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"实际政策"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://jdxq.haikou.gov.cn/xinwen/2024/show-6891.html"],"created":1794629467,"id":"chatcmpl-ac14ff30-9b36-43cd-bbb9-be022b062d64","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"通常是停留"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://jdxq.haikou.gov.cn/xinwen/2024/show-6891.html"],"created":1794629467,"id":"chatcmpl-ac14ff30-9b36-43cd-bbb9-be022b062d64","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"期限"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://jdxq.haikou.gov.cn/xinwen/2024/show-6891.html"],"created":1794629467,"id":"chatcmpl-ac14ff30-9b36-43cd-bbb9-be022b062d64","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"届满前7日内"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://jdxq.haikou.gov.cn/xinwen/2024/show-6891.html"],"created":1794629467,"id":"chatcmpl-ac14ff30-9b36-43cd-bbb9-be022b062d64","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"？"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://jdxq.haikou.gov.cn/xinwen/2024/show-6891.html"],"created":1794629467,"id":"chatcmpl-ac14ff30-9b36-43cd-bbb9-be022b062d64","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"原文"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://jdxq.haikou.gov.cn/xinwen/2024/show-6891.html"],"created":1794629467,"id":"chatcmpl-ac14ff30-9b36-43cd-bbb9-be022b062d64","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"写"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://jdxq.haikou.gov.cn/xinwen/2024/show-6891.html"],"created":1794629467,"id":"chatcmpl-ac14ff30-9b36-43cd-bbb9-be022b062d64","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"的是"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://jdxq.haikou.gov.cn/xinwen/2024/show-6891.html"],"created":1794629467,"id":"chatcmpl-ac14ff30-9b36-43cd-bbb9-be022b062d64","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"\"届满前7个工作"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://jdxq.haikou.gov.cn/xinwen/2024/show-6891.html"],"created":1794629467,"id":"chatcmpl-ac14ff30-9b36-43cd-bbb9-be022b062d64","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"日内\"。我应"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://jdxq.haikou.gov.cn/xinwen/2024/show-6891.html"],"created":1794629467,"id":"chatcmpl-ac14ff30-9b36-43cd-bbb9-be022b062d64","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"引用原文。\n\n"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://jdxq.haikou.gov.cn/xinwen/2024/show-6891.html"],"created":1794629467,"id":"chatcmpl-ac14ff30-9b36-43cd-bbb9-be022b062d64","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"我需要联网"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://jdxq.haikou.gov.cn/xinwen/2024/show-6891.html"],"created":1794629467,"id":"chatcmpl-ac14ff30-9b36-43cd-bbb9-be022b062d64","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"检索吗"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://jdxq.haikou.gov.cn/xinwen/2024/show-6891.html"],"created":1794629467,"id":"chatcmpl-ac14ff30-9b36-43cd-bbb9-be022b062d64","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"？搜索结果只"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://jdxq.haikou.gov.cn/xinwen/2024/show-6891.html"],"created":1794629467,"id":"chatcmpl-ac14ff30-9b36-43cd-bbb9-be022b062d64","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"给了一个网页"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://jdxq.haikou.gov.cn/xinwen/2024/show-6891.html"],"created":1794629467,"id":"chatcmpl-ac14ff30-9b36-43cd-bbb9-be022b062d64","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"。用户要求"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://jdxq.haikou.gov.cn/xinwen/2024/show-6891.html"],"created":1794629467,"id":"chatcmpl-ac14ff30-9b36-43cd-bbb9-be022b062d64","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"联网检索后"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://jdxq.haikou.gov.cn/xinwen/2024/show-6891.html"],"created":1794629467,"id":"chatcmpl-ac14ff30-9b36-43cd-bbb9-be022b062d64","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"回答。我可以"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://jdxq.haikou.gov.cn/xinwen/2024/show-6891.html"],"created":1794629467,"id":"chatcmpl-ac14ff30-9b36-43cd-bbb9-be022b062d64","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"基于搜索结果回答"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://jdxq.haikou.gov.cn/xinwen/2024/show-6891.html"],"created":1794629467,"id":"chatcmpl-ac14ff30-9b36-43cd-bbb9-be022b062d64","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"。但可能应该"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://jdxq.haikou.gov.cn/xinwen/2024/show-6891.html"],"created":1794629467,"id":"chatcmpl-ac14ff30-9b36-43cd-bbb9-be022b062d64","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"补充："},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://jdxq.haikou.gov.cn/xinwen/2024/show-6891.html"],"created":1794629467,"id":"chatcmpl-ac14ff30-9b36-43cd-bbb9-be022b062d64","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"广州"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://jdxq.haikou.gov.cn/xinwen/2024/show-6891.html"],"created":1794629467,"id":"chatcmpl-ac14ff30-9b36-43cd-bbb9-be022b062d64","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"不属于"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://jdxq.haikou.gov.cn/xinwen/2024/show-6891.html"],"created":1794629467,"id":"chatcmpl-ac14ff30-9b36-43cd-bbb9-be022b062d64","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"海南免"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://jdxq.haikou.gov.cn/xinwen/2024/show-6891.html"],"created":1794629467,"id":"chatcmpl-ac14ff30-9b36-43cd-bbb9-be022b062d64","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"签停留范围"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://jdxq.haikou.gov.cn/xinwen/2024/show-6891.html"],"created":1794629467,"id":"chatcmpl-ac14ff30-9b36-43cd-bbb9-be022b062d64","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"，海南"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://jdxq.haikou.gov.cn/xinwen/2024/show-6891.html"],"created":1794629467,"id":"chatcmpl-ac14ff30-9b36-43cd-bbb9-be022b062d64","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"免签是"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://jdxq.haikou.gov.cn/xinwen/2024/show-6891.html"],"created":1794629467,"id":"chatcmpl-ac14ff30-9b36-43cd-bbb9-be022b062d64","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"区域"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://jdxq.haikou.gov.cn/xinwen/2024/show-6891.html"],"created":1794629467,"id":"chatcmpl-ac14ff30-9b36-43cd-bbb9-be022b062d64","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"性的"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://jdxq.haikou.gov.cn/xinwen/2024/show-6891.html"],"created":1794629467,"id":"chatcmpl-ac14ff30-9b36-43cd-bbb9-be022b062d64","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"，活动"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://jdxq.haikou.gov.cn/xinwen/2024/show-6891.html"],"created":1794629467,"id":"chatcmpl-ac14ff30-9b36-43cd-bbb9-be022b062d64","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"范围限于海南省"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://jdxq.haikou.gov.cn/xinwen/2024/show-6891.html"],"created":1794629467,"id":"chatcmpl-ac14ff30-9b36-43cd-bbb9-be022b062d64","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"。离开"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://jdxq.haikou.gov.cn/xinwen/2024/show-6891.html"],"created":1794629467,"id":"chatcmpl-ac14ff30-9b36-43cd-bbb9-be022b062d64","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"海南去"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://jdxq.haikou.gov.cn/xinwen/2024/show-6891.html"],"created":1794629467,"id":"chatcmpl-ac14ff30-9b36-43cd-bbb9-be022b062d64","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"内地"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://jdxq.haikou.gov.cn/xinwen/2024/show-6891.html"],"created":1794629467,"id":"chatcmpl-ac14ff30-9b36-43cd-bbb9-be022b062d64","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"需办理"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://jdxq.haikou.gov.cn/xinwen/2024/show-6891.html"],"created":1794629467,"id":"chatcmpl-ac14ff30-9b36-43cd-bbb9-be022b062d64","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"签证。\n\n"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://jdxq.haikou.gov.cn/xinwen/2024/show-6891.html"],"created":1794629467,"id":"chatcmpl-ac14ff30-9b36-43cd-bbb9-be022b062d64","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"要注意"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://jdxq.haikou.gov.cn/xinwen/2024/show-6891.html"],"created":1794629467,"id":"chatcmpl-ac14ff30-9b36-43cd-bbb9-be022b062d64","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"：政策细节"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://jdxq.haikou.gov.cn/xinwen/2024/show-6891.html"],"created":1794629467,"id":"chatcmpl-ac14ff30-9b36-43cd-bbb9-be022b062d64","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"可能有变化"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://jdxq.haikou.gov.cn/xinwen/2024/show-6891.html"],"created":1794629467,"id":"chatcmpl-ac14ff30-9b36-43cd-bbb9-be022b062d64","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"。截至"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://jdxq.haikou.gov.cn/xinwen/2024/show-6891.html"],"created":1794629467,"id":"chatcmpl-ac14ff30-9b36-43cd-bbb9-be022b062d64","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"2026年11"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://jdxq.haikou.gov.cn/xinwen/2024/show-6891.html"],"created":1794629467,"id":"chatcmpl-ac14ff30-9b36-43cd-bbb9-be022b062d64","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"月？"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://jdxq.haikou.gov.cn/xinwen/2024/show-6891.html"],"created":1794629467,"id":"chatcmpl-ac14ff30-9b36-43cd-bbb9-be022b062d64","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"搜索结果说是"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://jdxq.haikou.gov.cn/xinwen/2024/show-6891.html"],"created":1794629467,"id":"chatcmpl-ac14ff30-9b36-43cd-bbb9-be022b062d64","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"\"最新安排"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://jdxq.haikou.gov.cn/xinwen/2024/show-6891.html"],"created":1794629467,"id":"chatcmpl-ac14ff30-9b36-43cd-bbb9-be022b062d64","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"\"，"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://jdxq.haikou.gov.cn/xinwen/2024/show-6891.html"],"created":1794629467,"id":"chatcmpl-ac14ff30-9b36-43cd-bbb9-be022b062d64","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"59国人员"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://jdxq.haikou.gov.cn/xinwen/2024/show-6891.html"],"created":1794629467,"id":"chatcmpl-ac14ff30-9b36-43cd-bbb9-be022b062d64","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"。"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://jdxq.haikou.gov.cn/xinwen/2024/show-6891.html"],"created":1794629467,"id":"chatcmpl-ac14ff30-9b36-43cd-bbb9-be022b062d64","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"我可以提到该政策。但不能"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://jdxq.haikou.gov.cn/xinwen/2024/show-6891.html"],"created":1794629467,"id":"chatcmpl-ac14ff30-9b36-43cd-bbb9-be022b062d64","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"编"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://jdxq.haikou.gov.cn/xinwen/2024/show-6891.html"],"created":1794629467,"id":"chatcmpl-ac14ff30-9b36-43cd-bbb9-be022b062d64","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"造。\n\n回答"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://jdxq.haikou.gov.cn/xinwen/2024/show-6891.html"],"created":1794629467,"id":"chatcmpl-ac14ff30-9b36-43cd-bbb9-be022b062d64","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"结构："},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://jdxq.haikou.gov.cn/xinwen/2024/show-6891.html"],"created":1794629467,"id":"chatcmpl-ac14ff30-9b36-43cd-bbb9-be022b062d64","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"直接"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://jdxq.haikou.gov.cn/xinwen/2024/show-6891.html"],"created":1794629467,"id":"chatcmpl-ac14ff30-9b36-43cd-bbb9-be022b062d64","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"回答（"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://jdxq.haikou.gov.cn/xinwen/2024/show-6891.html"],"created":1794629467,"id":"chatcmpl-ac14ff30-9b36-43cd-bbb9-be022b062d64","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"不能），然后解释：海南"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://jdxq.haikou.gov.cn/xinwen/2024/show-6891.html"],"created":1794629467,"id":"chatcmpl-ac14ff30-9b36-43cd-bbb9-be022b062d64","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"59"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://jdxq.haikou.gov.cn/xinwen/2024/show-6891.html"],"created":1794629467,"id":"chatcmpl-ac14ff30-9b36-43cd-bbb9-be022b062d64","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"国免签是区域性"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://jdxq.haikou.gov.cn/xinwen/2024/show-6891.html"],"created":1794629467,"id":"chatcmpl-ac14ff30-9b36-43cd-bbb9-be022b062d64","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"免"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://jdxq.haikou.gov.cn/xinwen/2024/show-6891.html"],"created":1794629467,"id":"chatcmpl-ac14ff30-9b36-43cd-bbb9-be022b062d64","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"签，停留"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://jdxq.haikou.gov.cn/xinwen/2024/show-6891.html"],"created":1794629467,"id":"chatcmpl-ac14ff30-9b36-43cd-bbb9-be022b062d64","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"范围限"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://jdxq.haikou.gov.cn/xinwen/2024/show-6891.html"],"created":1794629467,"id":"chatcmpl-ac14ff30-9b36-43cd-bbb9-be022b062d64","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"海南省；去"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://jdxq.haikou.gov.cn/xinwen/2024/show-6891.html"],"created":1794629467,"id":"chatcmpl-ac14ff30-9b36-43cd-bbb9-be022b062d64","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"广州属于"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://jdxq.haikou.gov.cn/xinwen/2024/show-6891.html"],"created":1794629467,"id":"chatcmpl-ac14ff30-9b36-43cd-bbb9-be022b062d64","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"离开"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://jdxq.haikou.gov.cn/xinwen/2024/show-6891.html"],"created":1794629467,"id":"chatcmpl-ac14ff30-9b36-43cd-bbb9-be022b062d64","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"海南前往"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://jdxq.haikou.gov.cn/xinwen/2024/show-6891.html"],"created":1794629467,"id":"chatcmpl-ac14ff30-9b36-43cd-bbb9-be022b062d64","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"境内"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://jdxq.haikou.gov.cn/xinwen/2024/show-6891.html"],"created":1794629467,"id":"chatcmpl-ac14ff30-9b36-43cd-bbb9-be022b062d64","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"其他地区，须"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://jdxq.haikou.gov.cn/xinwen/2024/show-6891.html"],"created":1794629467,"id":"chatcmpl-ac14ff30-9b36-43cd-bbb9-be022b062d64","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"在"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://jdxq.haikou.gov.cn/xinwen/2024/show-6891.html"],"created":1794629467,"id":"chatcmpl-ac14ff30-9b36-43cd-bbb9-be022b062d64","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"停留"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://jdxq.haikou.gov.cn/xinwen/2024/show-6891.html"],"created":1794629467,"id":"chatcmpl-ac14ff30-9b36-43cd-bbb9-be022b062d64","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"期限届满前7个工作"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://jdxq.haikou.gov.cn/xinwen/2024/show-6891.html"],"created":1794629467,"id":"chatcmpl-ac14ff30-9b36-43cd-bbb9-be022b062d64","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"日内向海南省"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://jdxq.haikou.gov.cn/xinwen/2024/show-6891.html"],"created":1794629467,"id":"chatcmpl-ac14ff30-9b36-43cd-bbb9-be022b062d64","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"公安机关"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://jdxq.haikou.gov.cn/xinwen/2024/show-6891.html"],"created":1794629467,"id":"chatcmpl-ac14ff30-9b36-43cd-bbb9-be022b062d64","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"出入境管理部门申"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://jdxq.haikou.gov.cn/xinwen/2024/show-6891.html"],"created":1794629467,"id":"chatcmpl-ac14ff30-9b36-43cd-bbb9-be022b062d64","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"办签证"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://jdxq.haikou.gov.cn/xinwen/2024/show-6891.html"],"created":1794629467,"id":"chatcmpl-ac14ff30-9b36-43cd-bbb9-be022b062d64","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"证件；否则属于"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://jdxq.haikou.gov.cn/xinwen/2024/show-6891.html"],"created":1794629467,"id":"chatcmpl-ac14ff30-9b36-43cd-bbb9-be022b062d64","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"超范围停留"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://jdxq.haikou.gov.cn/xinwen/2024/show-6891.html"],"created":1794629467,"id":"chatcmpl-ac14ff30-9b36-43cd-bbb9-be022b062d64","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"/非法"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://jdxq.haikou.gov.cn/xinwen/2024/show-6891.html"],"created":1794629467,"id":"chatcmpl-ac14ff30-9b36-43cd-bbb9-be022b062d64","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"居"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://jdxq.haikou.gov.cn/xinwen/2024/show-6891.html"],"created":1794629467,"id":"chatcmpl-ac14ff30-9b36-43cd-bbb9-be022b062d64","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"留。建议：如果"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://jdxq.haikou.gov.cn/xinwen/2024/show-6891.html"],"created":1794629467,"id":"chatcmpl-ac14ff30-9b36-43cd-bbb9-be022b062d64","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"行程"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://jdxq.haikou.gov.cn/xinwen/2024/show-6891.html"],"created":1794629467,"id":"chatcmpl-ac14ff30-9b36-43cd-bbb9-be022b062d64","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"含广州，应"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://jdxq.haikou.gov.cn/xinwen/2024/show-6891.html"],"created":1794629467,"id":"chatcmpl-ac14ff30-9b36-43cd-bbb9-be022b062d64","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"事先"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://jdxq.haikou.gov.cn/xinwen/2024/show-6891.html"],"created":1794629467,"id":"chatcmpl-ac14ff30-9b36-43cd-bbb9-be022b062d64","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"申请中国"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://jdxq.haikou.gov.cn/xinwen/2024/show-6891.html"],"created":1794629467,"id":"chatcmpl-ac14ff30-9b36-43cd-bbb9-be022b062d64","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"签证（如L"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://jdxq.haikou.gov.cn/xinwen/2024/show-6891.html"],"created":1794629467,"id":"chatcmpl-ac14ff30-9b36-43cd-bbb9-be022b062d64","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"字"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://jdxq.haikou.gov.cn/xinwen/2024/show-6891.html"],"created":1794629467,"id":"chatcmpl-ac14ff30-9b36-43cd-bbb9-be022b062d64","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"旅游签证）入境"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://jdxq.haikou.gov.cn/xinwen/2024/show-6891.html"],"created":1794629467,"id":"chatcmpl-ac14ff30-9b36-43cd-bbb9-be022b062d64","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"，而不是用"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://jdxq.haikou.gov.cn/xinwen/2024/show-6891.html"],"created":1794629467,"id":"chatcmpl-ac14ff30-9b36-43cd-bbb9-be022b062d64","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"海南免签；或"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://jdxq.haikou.gov.cn/xinwen/2024/show-6891.html"],"created":1794629467,"id":"chatcmpl-ac14ff30-9b36-43cd-bbb9-be022b062d64","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"先办"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://jdxq.haikou.gov.cn/xinwen/2024/show-6891.html"],"created":1794629467,"id":"chatcmpl-ac14ff30-9b36-43cd-bbb9-be022b062d64","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"妥"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://jdxq.haikou.gov.cn/xinwen/2024/show-6891.html"],"created":1794629467,"id":"chatcmpl-ac14ff30-9b36-43cd-bbb9-be022b062d64","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"签证再前往"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://jdxq.haikou.gov.cn/xinwen/2024/show-6891.html"],"created":1794629467,"id":"chatcmpl-ac14ff30-9b36-43cd-bbb9-be022b062d64","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"。\n\n还要"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://jdxq.haikou.gov.cn/xinwen/2024/show-6891.html"],"created":1794629467,"id":"chatcmpl-ac14ff30-9b36-43cd-bbb9-be022b062d64","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"注意\""},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://jdxq.haikou.gov.cn/xinwen/2024/show-6891.html"],"created":1794629467,"id":"chatcmpl-ac14ff30-9b36-43cd-bbb9-be022b062d64","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"直接\""},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://jdxq.haikou.gov.cn/xinwen/2024/show-6891.html"],"created":1794629467,"id":"chatcmpl-ac14ff30-9b36-43cd-bbb9-be022b062d64","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"——"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://jdxq.haikou.gov.cn/xinwen/2024/show-6891.html"],"created":1794629467,"id":"chatcmpl-ac14ff30-9b36-43cd-bbb9-be022b062d64","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"不能"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://jdxq.haikou.gov.cn/xinwen/2024/show-6891.html"],"created":1794629467,"id":"chatcmpl-ac14ff30-9b36-43cd-bbb9-be022b062d64","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"直接，"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://jdxq.haikou.gov.cn/xinwen/2024/show-6891.html"],"created":1794629467,"id":"chatcmpl-ac14ff30-9b36-43cd-bbb9-be022b062d64","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"需要"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://jdxq.haikou.gov.cn/xinwen/2024/show-6891.html"],"created":1794629467,"id":"chatcmpl-ac14ff30-9b36-43cd-bbb9-be022b062d64","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"先办证"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://jdxq.haikou.gov.cn/xinwen/2024/show-6891.html"],"created":1794629467,"id":"chatcmpl-ac14ff30-9b36-43cd-bbb9-be022b062d64","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"。办理"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://jdxq.haikou.gov.cn/xinwen/2024/show-6891.html"],"created":1794629467,"id":"chatcmpl-ac14ff30-9b36-43cd-bbb9-be022b062d64","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"时间"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://jdxq.haikou.gov.cn/xinwen/2024/show-6891.html"],"created":1794629467,"id":"chatcmpl-ac14ff30-9b36-43cd-bbb9-be022b062d64","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"："},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://jdxq.haikou.gov.cn/xinwen/2024/show-6891.html"],"created":1794629467,"id":"chatcmpl-ac14ff30-9b36-43cd-bbb9-be022b062d64","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"届满"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://jdxq.haikou.gov.cn/xinwen/2024/show-6891.html"],"created":1794629467,"id":"chatcmpl-ac14ff30-9b36-43cd-bbb9-be022b062d64","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"前7个工作日内申请"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://jdxq.haikou.gov.cn/xinwen/2024/show-6891.html"],"created":1794629467,"id":"chatcmpl-ac14ff30-9b36-43cd-bbb9-be022b062d64","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"，"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://jdxq.haikou.gov.cn/xinwen/2024/show-6891.html"],"created":1794629467,"id":"chatcmpl-ac14ff30-9b36-43cd-bbb9-be022b062d64","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"意味着"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://jdxq.haikou.gov.cn/xinwen/2024/show-6891.html"],"created":1794629467,"id":"chatcmpl-ac14ff30-9b36-43cd-bbb9-be022b062d64","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"要留出时间"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://jdxq.haikou.gov.cn/xinwen/2024/show-6891.html"],"created":1794629467,"id":"chatcmpl-ac14ff30-9b36-43cd-bbb9-be022b062d64","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"。实际"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://jdxq.haikou.gov.cn/xinwen/2024/show-6891.html"],"created":1794629467,"id":"chatcmpl-ac14ff30-9b36-43cd-bbb9-be022b062d64","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"执行"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://jdxq.haikou.gov.cn/xinwen/2024/show-6891.html"],"created":1794629467,"id":"chatcmpl-ac14ff30-9b36-43cd-bbb9-be022b062d64","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"中是否"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://jdxq.haikou.gov.cn/xinwen/2024/show-6891.html"],"created":1794629467,"id":"chatcmpl-ac14ff30-9b36-43cd-bbb9-be022b062d64","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"必须在"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://jdxq.haikou.gov.cn/xinwen/2024/show-6891.html"],"created":1794629467,"id":"chatcmpl-ac14ff30-9b36-43cd-bbb9-be022b062d64","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"海南"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://jdxq.haikou.gov.cn/xinwen/2024/show-6891.html"],"created":1794629467,"id":"chatcmpl-ac14ff30-9b36-43cd-bbb9-be022b062d64","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"办"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://jdxq.haikou.gov.cn/xinwen/2024/show-6891.html"],"created":1794629467,"id":"chatcmpl-ac14ff30-9b36-43cd-bbb9-be022b062d64","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"？"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://jdxq.haikou.gov.cn/xinwen/2024/show-6891.html"],"created":1794629467,"id":"chatcmpl-ac14ff30-9b36-43cd-bbb9-be022b062d64","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"原文说向"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://jdxq.haikou.gov.cn/xinwen/2024/show-6891.html"],"created":1794629467,"id":"chatcmpl-ac14ff30-9b36-43cd-bbb9-be022b062d64","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"海南省公安机关出入境管理部门申"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://jdxq.haikou.gov.cn/xinwen/2024/show-6891.html"],"created":1794629467,"id":"chatcmpl-ac14ff30-9b36-43cd-bbb9-be022b062d64","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"办。\n\n另外"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://jdxq.haikou.gov.cn/xinwen/2024/show-6891.html"],"created":1794629467,"id":"chatcmpl-ac14ff30-9b36-43cd-bbb9-be022b062d64","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"，从"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://jdxq.haikou.gov.cn/xinwen/2024/show-6891.html"],"created":1794629467,"id":"chatcmpl-ac14ff30-9b36-43cd-bbb9-be022b062d64","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"海南"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://jdxq.haikou.gov.cn/xinwen/2024/show-6891.html"],"created":1794629467,"id":"chatcmpl-ac14ff30-9b36-43cd-bbb9-be022b062d64","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"去"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://jdxq.haikou.gov.cn/xinwen/2024/show-6891.html"],"created":1794629467,"id":"chatcmpl-ac14ff30-9b36-43cd-bbb9-be022b062d64","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"广州需要"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://jdxq.haikou.gov.cn/xinwen/2024/show-6891.html"],"created":1794629467,"id":"chatcmpl-ac14ff30-9b36-43cd-bbb9-be022b062d64","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"乘坐"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://jdxq.haikou.gov.cn/xinwen/2024/show-6891.html"],"created":1794629467,"id":"chatcmpl-ac14ff30-9b36-43cd-bbb9-be022b062d64","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"飞机"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://jdxq.haikou.gov.cn/xinwen/2024/show-6891.html"],"created":1794629467,"id":"chatcmpl-ac14ff30-9b36-43cd-bbb9-be022b062d64","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"等"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://jdxq.haikou.gov.cn/xinwen/2024/show-6891.html"],"created":1794629467,"id":"chatcmpl-ac14ff30-9b36-43cd-bbb9-be022b062d64","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"，离开"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://jdxq.haikou.gov.cn/xinwen/2024/show-6891.html"],"created":1794629467,"id":"chatcmpl-ac14ff30-9b36-43cd-bbb9-be022b062d64","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"海南"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://jdxq.haikou.gov.cn/xinwen/2024/show-6891.html"],"created":1794629467,"id":"chatcmpl-ac14ff30-9b36-43cd-bbb9-be022b062d64","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"时会有查验"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://jdxq.haikou.gov.cn/xinwen/2024/show-6891.html"],"created":1794629467,"id":"chatcmpl-ac14ff30-9b36-43cd-bbb9-be022b062d64","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"。\n\n"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://jdxq.haikou.gov.cn/xinwen/2024/show-6891.html"],"created":1794629467,"id":"chatcmpl-ac14ff30-9b36-43cd-bbb9-be022b062d64","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"我应"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://jdxq.haikou.gov.cn/xinwen/2024/show-6891.html"],"created":1794629467,"id":"chatcmpl-ac14ff30-9b36-43cd-bbb9-be022b062d64","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"标注"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://jdxq.haikou.gov.cn/xinwen/2024/show-6891.html"],"created":1794629467,"id":"chatcmpl-ac14ff30-9b36-43cd-bbb9-be022b062d64","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"[2"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://jdxq.haikou.gov.cn/xinwen/2024/show-6891.html"],"created":1794629467,"id":"chatcmpl-ac14ff30-9b36-43cd-bbb9-be022b062d64","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"]。\n\n"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://jdxq.haikou.gov.cn/xinwen/2024/show-6891.html"],"created":1794629467,"id":"chatcmpl-ac14ff30-9b36-43cd-bbb9-be022b062d64","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"是否需要"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://jdxq.haikou.gov.cn/xinwen/2024/show-6891.html"],"created":1794629467,"id":"chatcmpl-ac14ff30-9b36-43cd-bbb9-be022b062d64","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"说明"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://jdxq.haikou.gov.cn/xinwen/2024/show-6891.html"],"created":1794629467,"id":"chatcmpl-ac14ff30-9b36-43cd-bbb9-be022b062d64","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"\"59"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://jdxq.haikou.gov.cn/xinwen/2024/show-6891.html"],"created":1794629467,"id":"chatcmpl-ac14ff30-9b36-43cd-bbb9-be022b062d64","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"国"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://jdxq.haikou.gov.cn/xinwen/2024/show-6891.html"],"created":1794629467,"id":"chatcmpl-ac14ff30-9b36-43cd-bbb9-be022b062d64","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"人员"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://jdxq.haikou.gov.cn/xinwen/2024/show-6891.html"],"created":1794629467,"id":"chatcmpl-ac14ff30-9b36-43cd-bbb9-be022b062d64","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"\"名单"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://jdxq.haikou.gov.cn/xinwen/2024/show-6891.html"],"created":1794629467,"id":"chatcmpl-ac14ff30-9b36-43cd-bbb9-be022b062d64","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"？不用。\n\n"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://jdxq.haikou.gov.cn/xinwen/2024/show-6891.html"],"created":1794629467,"id":"chatcmpl-ac14ff30-9b36-43cd-bbb9-be022b062d64","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"另外可能"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://jdxq.haikou.gov.cn/xinwen/2024/show-6891.html"],"created":1794629467,"id":"chatcmpl-ac14ff30-9b36-43cd-bbb9-be022b062d64","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"提到：如果"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://jdxq.haikou.gov.cn/xinwen/2024/show-6891.html"],"created":1794629467,"id":"chatcmpl-ac14ff30-9b36-43cd-bbb9-be022b062d64","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"免"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://jdxq.haikou.gov.cn/xinwen/2024/show-6891.html"],"created":1794629467,"id":"chatcmpl-ac14ff30-9b36-43cd-bbb9-be022b062d64","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"签入境后"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://jdxq.haikou.gov.cn/xinwen/2024/show-6891.html"],"created":1794629467,"id":"chatcmpl-ac14ff30-9b36-43cd-bbb9-be022b062d64","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"不去"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://jdxq.haikou.gov.cn/xinwen/2024/show-6891.html"],"created":1794629467,"id":"chatcmpl-ac14ff30-9b36-43cd-bbb9-be022b062d64","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"广州"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://jdxq.haikou.gov.cn/xinwen/2024/show-6891.html"],"created":1794629467,"id":"chatcmpl-ac14ff30-9b36-43cd-bbb9-be022b062d64","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"，仅在"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://jdxq.haikou.gov.cn/xinwen/2024/show-6891.html"],"created":1794629467,"id":"chatcmpl-ac14ff30-9b36-43cd-bbb9-be022b062d64","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"海南旅游"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://jdxq.haikou.gov.cn/xinwen/2024/show-6891.html"],"created":1794629467,"id":"chatcmpl-ac14ff30-9b36-43cd-bbb9-be022b062d64","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"30天内"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://jdxq.haikou.gov.cn/xinwen/2024/show-6891.html"],"created":1794629467,"id":"chatcmpl-ac14ff30-9b36-43cd-bbb9-be022b062d64","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"没问题。若想延伸"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://jdxq.haikou.gov.cn/xinwen/2024/show-6891.html"],"created":1794629467,"id":"chatcmpl-ac14ff30-9b36-43cd-bbb9-be022b062d64","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"，必须转"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://jdxq.haikou.gov.cn/xinwen/2024/show-6891.html"],"created":1794629467,"id":"chatcmpl-ac14ff30-9b36-43cd-bbb9-be022b062d64","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"办签证。\n\n还要提醒："},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://jdxq.haikou.gov.cn/xinwen/2024/show-6891.html"],"created":1794629467,"id":"chatcmpl-ac14ff30-9b36-43cd-bbb9-be022b062d64","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"具体"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://jdxq.haikou.gov.cn/xinwen/2024/show-6891.html"],"created":1794629467,"id":"chatcmpl-ac14ff30-9b36-43cd-bbb9-be022b062d64","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"以出入境"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://jdxq.haikou.gov.cn/xinwen/2024/show-6891.html"],"created":1794629467,"id":"chatcmpl-ac14ff30-9b36-43cd-bbb9-be022b062d64","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"管理部门解释"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://jdxq.haikou.gov.cn/xinwen/2024/show-6891.html"],"created":1794629467,"id":"chatcmpl-ac14ff30-9b36-43cd-bbb9-be022b062d64","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"为准，政策"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://jdxq.haikou.gov.cn/xinwen/2024/show-6891.html"],"created":1794629467,"id":"chatcmpl-ac14ff30-9b36-43cd-bbb9-be022b062d64","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"可能"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://jdxq.haikou.gov.cn/xinwen/2024/show-6891.html"],"created":1794629467,"id":"chatcmpl-ac14ff30-9b36-43cd-bbb9-be022b062d64","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"调整。\n\n语言"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://jdxq.haikou.gov.cn/xinwen/2024/show-6891.html"],"created":1794629467,"id":"chatcmpl-ac14ff30-9b36-43cd-bbb9-be022b062d64","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"自然"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://jdxq.haikou.gov.cn/xinwen/2024/show-6891.html"],"created":1794629467,"id":"chatcmpl-ac14ff30-9b36-43cd-bbb9-be022b062d64","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"中文，简洁"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://jdxq.haikou.gov.cn/xinwen/2024/show-6891.html"],"created":1794629467,"id":"chatcmpl-ac14ff30-9b36-43cd-bbb9-be022b062d64","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"分"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://jdxq.haikou.gov.cn/xinwen/2024/show-6891.html"],"created":1794629467,"id":"chatcmpl-ac14ff30-9b36-43cd-bbb9-be022b062d64","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"点。"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://jdxq.haikou.gov.cn/xinwen/2024/show-6891.html"],"created":1794629467,"id":"chatcmpl-ac14ff30-9b36-43cd-bbb9-be022b062d64","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"**不能"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://jdxq.haikou.gov.cn/xinwen/2024/show-6891.html"],"created":1794629467,"id":"chatcmpl-ac14ff30-9b36-43cd-bbb9-be022b062d64","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"直接去"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://jdxq.haikou.gov.cn/xinwen/2024/show-6891.html"],"created":1794629467,"id":"chatcmpl-ac14ff30-9b36-43cd-bbb9-be022b062d64","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"。** 如果"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://jdxq.haikou.gov.cn/xinwen/2024/show-6891.html"],"created":1794629467,"id":"chatcmpl-ac14ff30-9b36-43cd-bbb9-be022b062d64","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"这名"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://jdxq.haikou.gov.cn/xinwen/2024/show-6891.html"],"created":1794629467,"id":"chatcmpl-ac14ff30-9b36-43cd-bbb9-be022b062d64","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"外国人仅"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://jdxq.haikou.gov.cn/xinwen/2024/show-6891.html"],"created":1794629467,"id":"chatcmpl-ac14ff30-9b36-43cd-bbb9-be022b062d64","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"凭海南59"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://jdxq.haikou.gov.cn/xinwen/2024/show-6891.html"],"created":1794629467,"id":"chatcmpl-ac14ff30-9b36-43cd-bbb9-be022b062d64","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"国免签政策"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://jdxq.haikou.gov.cn/xinwen/2024/show-6891.html"],"created":1794629467,"id":"chatcmpl-ac14ff30-9b36-43cd-bbb9-be022b062d64","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"入境，活动"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://jdxq.haikou.gov.cn/xinwen/2024/show-6891.html"],"created":1794629467,"id":"chatcmpl-ac14ff30-9b36-43cd-bbb9-be022b062d64","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"范围限于"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://jdxq.haikou.gov.cn/xinwen/2024/show-6891.html"],"created":1794629467,"id":"chatcmpl-ac14ff30-9b36-43cd-bbb9-be022b062d64","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"海南省；想去"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://jdxq.haikou.gov.cn/xinwen/2024/show-6891.html"],"created":1794629467,"id":"chatcmpl-ac14ff30-9b36-43cd-bbb9-be022b062d64","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"广州旅游，必须先"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://jdxq.haikou.gov.cn/xinwen/2024/show-6891.html"],"created":1794629467,"id":"chatcmpl-ac14ff30-9b36-43cd-bbb9-be022b062d64","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"办理签证"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://jdxq.haikou.gov.cn/xinwen/2024/show-6891.html"],"created":1794629467,"id":"chatcmpl-ac14ff30-9b36-43cd-bbb9-be022b062d64","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"证件，不能"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://jdxq.haikou.gov.cn/xinwen/2024/show-6891.html"],"created":1794629467,"id":"chatcmpl-ac14ff30-9b36-43cd-bbb9-be022b062d64","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"买"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://jdxq.haikou.gov.cn/xinwen/2024/show-6891.html"],"created":1794629467,"id":"chatcmpl-ac14ff30-9b36-43cd-bbb9-be022b062d64","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"张"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://jdxq.haikou.gov.cn/xinwen/2024/show-6891.html"],"created":1794629467,"id":"chatcmpl-ac14ff30-9b36-43cd-bbb9-be022b062d64","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"机票就直接"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://jdxq.haikou.gov.cn/xinwen/2024/show-6891.html"],"created":1794629467,"id":"chatcmpl-ac14ff30-9b36-43cd-bbb9-be022b062d64","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"飞"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://jdxq.haikou.gov.cn/xinwen/2024/show-6891.html"],"created":1794629467,"id":"chatcmpl-ac14ff30-9b36-43cd-bbb9-be022b062d64","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"过去"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://jdxq.haikou.gov.cn/xinwen/2024/show-6891.html"],"created":1794629467,"id":"chatcmpl-ac14ff30-9b36-43cd-bbb9-be022b062d64","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"。\n\n具体"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://jdxq.haikou.gov.cn/xinwen/2024/show-6891.html"],"created":1794629467,"id":"chatcmpl-ac14ff30-9b36-43cd-bbb9-be022b062d64","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"依据"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://jdxq.haikou.gov.cn/xinwen/2024/show-6891.html"],"created":1794629467,"id":"chatcmpl-ac14ff30-9b36-43cd-bbb9-be022b062d64","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"和注意"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://jdxq.haikou.gov.cn/xinwen/2024/show-6891.html"],"created":1794629467,"id":"chatcmpl-ac14ff30-9b36-43cd-bbb9-be022b062d64","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"点：\n\n1. **海南"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://jdxq.haikou.gov.cn/xinwen/2024/show-6891.html"],"created":1794629467,"id":"chatcmpl-ac14ff30-9b36-43cd-bbb9-be022b062d64","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"免签是“"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://jdxq.haikou.gov.cn/xinwen/2024/show-6891.html"],"created":1794629467,"id":"chatcmpl-ac14ff30-9b36-43cd-bbb9-be022b062d64","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"区域性免签”"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://jdxq.haikou.gov.cn/xinwen/2024/show-6891.html"],"created":1794629467,"id":"chatcmpl-ac14ff30-9b36-43cd-bbb9-be022b062d64","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"**：59国"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://jdxq.haikou.gov.cn/xinwen/2024/show-6891.html"],"created":1794629467,"id":"chatcmpl-ac14ff30-9b36-43cd-bbb9-be022b062d64","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"人员可因"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://jdxq.haikou.gov.cn/xinwen/2024/show-6891.html"],"created":1794629467,"id":"chatcmpl-ac14ff30-9b36-43cd-bbb9-be022b062d64","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"旅游"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://jdxq.haikou.gov.cn/xinwen/2024/show-6891.html"],"created":1794629467,"id":"chatcmpl-ac14ff30-9b36-43cd-bbb9-be022b062d64","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"、商贸"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://jdxq.haikou.gov.cn/xinwen/2024/show-6891.html"],"created":1794629467,"id":"chatcmpl-ac14ff30-9b36-43cd-bbb9-be022b062d64","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"、访问"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://jdxq.haikou.gov.cn/xinwen/2024/show-6891.html"],"created":1794629467,"id":"chatcmpl-ac14ff30-9b36-43cd-bbb9-be022b062d64","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"、"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://jdxq.haikou.gov.cn/xinwen/2024/show-6891.html"],"created":1794629467,"id":"chatcmpl-ac14ff30-9b36-43cd-bbb9-be022b062d64","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"探亲、医疗、会展"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://jdxq.haikou.gov.cn/xinwen/2024/show-6891.html"],"created":1794629467,"id":"chatcmpl-ac14ff30-9b36-43cd-bbb9-be022b062d64","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"、体育竞技等"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://jdxq.haikou.gov.cn/xinwen/2024/show-6891.html"],"created":1794629467,"id":"chatcmpl-ac14ff30-9b36-43cd-bbb9-be022b062d64","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"事由（"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://jdxq.haikou.gov.cn/xinwen/2024/show-6891.html"],"created":1794629467,"id":"chatcmpl-ac14ff30-9b36-43cd-bbb9-be022b062d64","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"工作、"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://jdxq.haikou.gov.cn/xinwen/2024/show-6891.html"],"created":1794629467,"id":"chatcmpl-ac14ff30-9b36-43cd-bbb9-be022b062d64","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"学习除外）免签入境"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://jdxq.haikou.gov.cn/xinwen/2024/show-6891.html"],"created":1794629467,"id":"chatcmpl-ac14ff30-9b36-43cd-bbb9-be022b062d64","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"海南，停留不超过30天"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://jdxq.haikou.gov.cn/xinwen/2024/show-6891.html"],"created":1794629467,"id":"chatcmpl-ac14ff30-9b36-43cd-bbb9-be022b062d64","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"，停留期"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://jdxq.haikou.gov.cn/xinwen/2024/show-6891.html"],"created":1794629467,"id":"chatcmpl-ac14ff30-9b36-43cd-bbb9-be022b062d64","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"从入境次日"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://jdxq.haikou.gov.cn/xinwen/2024/show-6891.html"],"created":1794629467,"id":"chatcmpl-ac14ff30-9b36-43cd-bbb9-be022b062d64","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"零时起算[2"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://jdxq.haikou.gov.cn/xinwen/2024/show-6891.html"],"created":1794629467,"id":"chatcmpl-ac14ff30-9b36-43cd-bbb9-be022b062d64","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"]。免"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://jdxq.haikou.gov.cn/xinwen/2024/show-6891.html"],"created":1794629467,"id":"chatcmpl-ac14ff30-9b36-43cd-bbb9-be022b062d64","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"签允许"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://jdxq.haikou.gov.cn/xinwen/2024/show-6891.html"],"created":1794629467,"id":"chatcmpl-ac14ff30-9b36-43cd-bbb9-be022b062d64","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"的活动"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://jdxq.haikou.gov.cn/xinwen/2024/show-6891.html"],"created":1794629467,"id":"chatcmpl-ac14ff30-9b36-43cd-bbb9-be022b062d64","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"区域"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://jdxq.haikou.gov.cn/xinwen/2024/show-6891.html"],"created":1794629467,"id":"chatcmpl-ac14ff30-9b36-43cd-bbb9-be022b062d64","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"是海南，并不"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://jdxq.haikou.gov.cn/xinwen/2024/show-6891.html"],"created":1794629467,"id":"chatcmpl-ac14ff30-9b36-43cd-bbb9-be022b062d64","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"覆盖"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://jdxq.haikou.gov.cn/xinwen/2024/show-6891.html"],"created":1794629467,"id":"chatcmpl-ac14ff30-9b36-43cd-bbb9-be022b062d64","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"中国内地其他"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://jdxq.haikou.gov.cn/xinwen/2024/show-6891.html"],"created":1794629467,"id":"chatcmpl-ac14ff30-9b36-43cd-bbb9-be022b062d64","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"省市"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://jdxq.haikou.gov.cn/xinwen/2024/show-6891.html"],"created":1794629467,"id":"chatcmpl-ac14ff30-9b36-43cd-bbb9-be022b062d64","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"。\n\n2. **去"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://jdxq.haikou.gov.cn/xinwen/2024/show-6891.html"],"created":1794629467,"id":"chatcmpl-ac14ff30-9b36-43cd-bbb9-be022b062d64","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"广州属于“离开"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://jdxq.haikou.gov.cn/xinwen/2024/show-6891.html"],"created":1794629467,"id":"chatcmpl-ac14ff30-9b36-43cd-bbb9-be022b062d64","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"海南前往"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://jdxq.haikou.gov.cn/xinwen/2024/show-6891.html"],"created":1794629467,"id":"chatcmpl-ac14ff30-9b36-43cd-bbb9-be022b062d64","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"境内"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://jdxq.haikou.gov.cn/xinwen/2024/show-6891.html"],"created":1794629467,"id":"chatcmpl-ac14ff30-9b36-43cd-bbb9-be022b062d64","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"其他地区”**：按规定"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://jdxq.haikou.gov.cn/xinwen/2024/show-6891.html"],"created":1794629467,"id":"chatcmpl-ac14ff30-9b36-43cd-bbb9-be022b062d64","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"，如"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://jdxq.haikou.gov.cn/xinwen/2024/show-6891.html"],"created":1794629467,"id":"chatcmpl-ac14ff30-9b36-43cd-bbb9-be022b062d64","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"因正当合理"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://jdxq.haikou.gov.cn/xinwen/2024/show-6891.html"],"created":1794629467,"id":"chatcmpl-ac14ff30-9b36-43cd-bbb9-be022b062d64","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"事由需"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://jdxq.haikou.gov.cn/xinwen/2024/show-6891.html"],"created":1794629467,"id":"chatcmpl-ac14ff30-9b36-43cd-bbb9-be022b062d64","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"延长停留期"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://jdxq.haikou.gov.cn/xinwen/2024/show-6891.html"],"created":1794629467,"id":"chatcmpl-ac14ff30-9b36-43cd-bbb9-be022b062d64","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"，或离开海南前往"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://jdxq.haikou.gov.cn/xinwen/2024/show-6891.html"],"created":1794629467,"id":"chatcmpl-ac14ff30-9b36-43cd-bbb9-be022b062d64","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"中国境内其他地区，应在"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://jdxq.haikou.gov.cn/xinwen/2024/show-6891.html"],"created":1794629467,"id":"chatcmpl-ac14ff30-9b36-43cd-bbb9-be022b062d64","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"停留期限"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://jdxq.haikou.gov.cn/xinwen/2024/show-6891.html"],"created":1794629467,"id":"chatcmpl-ac14ff30-9b36-43cd-bbb9-be022b062d64","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"届满前7"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://jdxq.haikou.gov.cn/xinwen/2024/show-6891.html"],"created":1794629467,"id":"chatcmpl-ac14ff30-9b36-43cd-bbb9-be022b062d64","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"个工作日内向海南省"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://jdxq.haikou.gov.cn/xinwen/2024/show-6891.html"],"created":1794629467,"id":"chatcmpl-ac14ff30-9b36-43cd-bbb9-be022b062d64","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"公安机关出入境管理部门申"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://jdxq.haikou.gov.cn/xinwen/2024/show-6891.html"],"created":1794629467,"id":"chatcmpl-ac14ff30-9b36-43cd-bbb9-be022b062d64","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"办外国人签证证件[2"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://jdxq.haikou.gov.cn/xinwen/2024/show-6891.html"],"created":1794629467,"id":"chatcmpl-ac14ff30-9b36-43cd-bbb9-be022b062d64","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"]。也就是说，需要"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://jdxq.haikou.gov.cn/xinwen/2024/show-6891.html"],"created":1794629467,"id":"chatcmpl-ac14ff30-9b36-43cd-bbb9-be022b062d64","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"先在"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://jdxq.haikou.gov.cn/xinwen/2024/show-6891.html"],"created":1794629467,"id":"chatcmpl-ac14ff30-9b36-43cd-bbb9-be022b062d64","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"海南把"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://jdxq.haikou.gov.cn/xinwen/2024/show-6891.html"],"created":1794629467,"id":"chatcmpl-ac14ff30-9b36-43cd-bbb9-be022b062d64","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"相应"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://jdxq.haikou.gov.cn/xinwen/2024/show-6891.html"],"created":1794629467,"id":"chatcmpl-ac14ff30-9b36-43cd-bbb9-be022b062d64","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"签证办"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://jdxq.haikou.gov.cn/xinwen/2024/show-6891.html"],"created":1794629467,"id":"chatcmpl-ac14ff30-9b36-43cd-bbb9-be022b062d64","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"妥"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://jdxq.haikou.gov.cn/xinwen/2024/show-6891.html"],"created":1794629467,"id":"chatcmpl-ac14ff30-9b36-43cd-bbb9-be022b062d64","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"，再前往广州。\n\n3"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://jdxq.haikou.gov.cn/xinwen/2024/show-6891.html"],"created":1794629467,"id":"chatcmpl-ac14ff30-9b36-43cd-bbb9-be022b062d64","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":". **不建议“"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://jdxq.haikou.gov.cn/xinwen/2024/show-6891.html"],"created":1794629467,"id":"chatcmpl-ac14ff30-9b36-43cd-bbb9-be022b062d64","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"先飞"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://jdxq.haikou.gov.cn/xinwen/2024/show-6891.html"],"created":1794629467,"id":"chatcmpl-ac14ff30-9b36-43cd-bbb9-be022b062d64","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"广州再补"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://jdxq.haikou.gov.cn/xinwen/2024/show-6891.html"],"created":1794629467,"id":"chatcmpl-ac14ff30-9b36-43cd-bbb9-be022b062d64","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"办”**：离开"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://jdxq.haikou.gov.cn/xinwen/2024/show-6891.html"],"created":1794629467,"id":"chatcmpl-ac14ff30-9b36-43cd-bbb9-be022b062d64","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"海南进入"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://jdxq.haikou.gov.cn/xinwen/2024/show-6891.html"],"created":1794629467,"id":"chatcmpl-ac14ff30-9b36-43cd-bbb9-be022b062d64","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"内地时，航空"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://jdxq.haikou.gov.cn/xinwen/2024/show-6891.html"],"created":1794629467,"id":"chatcmpl-ac14ff30-9b36-43cd-bbb9-be022b062d64","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"公司和"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://jdxq.haikou.gov.cn/xinwen/2024/show-6891.html"],"created":1794629467,"id":"chatcmpl-ac14ff30-9b36-43cd-bbb9-be022b062d64","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"边"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://jdxq.haikou.gov.cn/xinwen/2024/show-6891.html"],"created":1794629467,"id":"chatcmpl-ac14ff30-9b36-43cd-bbb9-be022b062d64","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"检、"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://jdxq.haikou.gov.cn/xinwen/2024/show-6891.html"],"created":1794629467,"id":"chatcmpl-ac14ff30-9b36-43cd-bbb9-be022b062d64","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"公安都可能"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://jdxq.haikou.gov.cn/xinwen/2024/show-6891.html"],"created":1794629467,"id":"chatcmpl-ac14ff30-9b36-43cd-bbb9-be022b062d64","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"查验签证"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://jdxq.haikou.gov.cn/xinwen/2024/show-6891.html"],"created":1794629467,"id":"chatcmpl-ac14ff30-9b36-43cd-bbb9-be022b062d64","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"证件；"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://jdxq.haikou.gov.cn/xinwen/2024/show-6891.html"],"created":1794629467,"id":"chatcmpl-ac14ff30-9b36-43cd-bbb9-be022b062d64","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"没有"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://jdxq.haikou.gov.cn/xinwen/2024/show-6891.html"],"created":1794629467,"id":"chatcmpl-ac14ff30-9b36-43cd-bbb9-be022b062d64","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"相应签证"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://jdxq.haikou.gov.cn/xinwen/2024/show-6891.html"],"created":1794629467,"id":"chatcmpl-ac14ff30-9b36-43cd-bbb9-be022b062d64","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"就"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://jdxq.haikou.gov.cn/xinwen/2024/show-6891.html"],"created":1794629467,"id":"chatcmpl-ac14ff30-9b36-43cd-bbb9-be022b062d64","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"前往"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://jdxq.haikou.gov.cn/xinwen/2024/show-6891.html"],"created":1794629467,"id":"chatcmpl-ac14ff30-9b36-43cd-bbb9-be022b062d64","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"广州，可能被认定为超"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://jdxq.haikou.gov.cn/xinwen/2024/show-6891.html"],"created":1794629467,"id":"chatcmpl-ac14ff30-9b36-43cd-bbb9-be022b062d64","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"范围停留或"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://jdxq.haikou.gov.cn/xinwen/2024/show-6891.html"],"created":1794629467,"id":"chatcmpl-ac14ff30-9b36-43cd-bbb9-be022b062d64","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"非法居"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://jdxq.haikou.gov.cn/xinwen/2024/show-6891.html"],"created":1794629467,"id":"chatcmpl-ac14ff30-9b36-43cd-bbb9-be022b062d64","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"留，面临"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://jdxq.haikou.gov.cn/xinwen/2024/show-6891.html"],"created":1794629467,"id":"chatcmpl-ac14ff30-9b36-43cd-bbb9-be022b062d64","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"处罚，"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://jdxq.haikou.gov.cn/xinwen/2024/show-6891.html"],"created":1794629467,"id":"chatcmpl-ac14ff30-9b36-43cd-bbb9-be022b062d64","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"并影响后续来"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://jdxq.haikou.gov.cn/xinwen/2024/show-6891.html"],"created":1794629467,"id":"chatcmpl-ac14ff30-9b36-43cd-bbb9-be022b062d64","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"华记录"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://jdxq.haikou.gov.cn/xinwen/2024/show-6891.html"],"created":1794629467,"id":"chatcmpl-ac14ff30-9b36-43cd-bbb9-be022b062d64","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"。稳妥"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://jdxq.haikou.gov.cn/xinwen/2024/show-6891.html"],"created":1794629467,"id":"chatcmpl-ac14ff30-9b36-43cd-bbb9-be022b062d64","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"做法"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://jdxq.haikou.gov.cn/xinwen/2024/show-6891.html"],"created":1794629467,"id":"chatcmpl-ac14ff30-9b36-43cd-bbb9-be022b062d64","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"是：行程包含"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://jdxq.haikou.gov.cn/xinwen/2024/show-6891.html"],"created":1794629467,"id":"chatcmpl-ac14ff30-9b36-43cd-bbb9-be022b062d64","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"广州的，"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://jdxq.haikou.gov.cn/xinwen/2024/show-6891.html"],"created":1794629467,"id":"chatcmpl-ac14ff30-9b36-43cd-bbb9-be022b062d64","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"出发"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://jdxq.haikou.gov.cn/xinwen/2024/show-6891.html"],"created":1794629467,"id":"chatcmpl-ac14ff30-9b36-43cd-bbb9-be022b062d64","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"前直接申请中国"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://jdxq.haikou.gov.cn/xinwen/2024/show-6891.html"],"created":1794629467,"id":"chatcmpl-ac14ff30-9b36-43cd-bbb9-be022b062d64","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"签证"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://jdxq.haikou.gov.cn/xinwen/2024/show-6891.html"],"created":1794629467,"id":"chatcmpl-ac14ff30-9b36-43cd-bbb9-be022b062d64","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"（如旅游"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://jdxq.haikou.gov.cn/xinwen/2024/show-6891.html"],"created":1794629467,"id":"chatcmpl-ac14ff30-9b36-43cd-bbb9-be022b062d64","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"签证"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://jdxq.haikou.gov.cn/xinwen/2024/show-6891.html"],"created":1794629467,"id":"chatcmpl-ac14ff30-9b36-43cd-bbb9-be022b062d64","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"）入境；已"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://jdxq.haikou.gov.cn/xinwen/2024/show-6891.html"],"created":1794629467,"id":"chatcmpl-ac14ff30-9b36-43cd-bbb9-be022b062d64","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"免"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://jdxq.haikou.gov.cn/xinwen/2024/show-6891.html"],"created":1794629467,"id":"chatcmpl-ac14ff30-9b36-43cd-bbb9-be022b062d64","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"签入"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://jdxq.haikou.gov.cn/xinwen/2024/show-6891.html"],"created":1794629467,"id":"chatcmpl-ac14ff30-9b36-43cd-bbb9-be022b062d64","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"海南、"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://jdxq.haikou.gov.cn/xinwen/2024/show-6891.html"],"created":1794629467,"id":"chatcmpl-ac14ff30-9b36-43cd-bbb9-be022b062d64","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"临时决定去"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://jdxq.haikou.gov.cn/xinwen/2024/show-6891.html"],"created":1794629467,"id":"chatcmpl-ac14ff30-9b36-43cd-bbb9-be022b062d64","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"广州的，预留"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://jdxq.haikou.gov.cn/xinwen/2024/show-6891.html"],"created":1794629467,"id":"chatcmpl-ac14ff30-9b36-43cd-bbb9-be022b062d64","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"时间"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://jdxq.haikou.gov.cn/xinwen/2024/show-6891.html"],"created":1794629467,"id":"chatcmpl-ac14ff30-9b36-43cd-bbb9-be022b062d64","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"在海南当地出入境"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://jdxq.haikou.gov.cn/xinwen/2024/show-6891.html"],"created":1794629467,"id":"chatcmpl-ac14ff30-9b36-43cd-bbb9-be022b062d64","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"管理部门申办签证"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://jdxq.haikou.gov.cn/xinwen/2024/show-6891.html"],"created":1794629467,"id":"chatcmpl-ac14ff30-9b36-43cd-bbb9-be022b062d64","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"后再"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://jdxq.haikou.gov.cn/xinwen/2024/show-6891.html"],"created":1794629467,"id":"chatcmpl-ac14ff30-9b36-43cd-bbb9-be022b062d64","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"走"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://jdxq.haikou.gov.cn/xinwen/2024/show-6891.html"],"created":1794629467,"id":"chatcmpl-ac14ff30-9b36-43cd-bbb9-be022b062d64","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"。\n\n4. **时间"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://jdxq.haikou.gov.cn/xinwen/2024/show-6891.html"],"created":1794629467,"id":"chatcmpl-ac14ff30-9b36-43cd-bbb9-be022b062d64","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"上要留"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://jdxq.haikou.gov.cn/xinwen/2024/show-6891.html"],"created":1794629467,"id":"chatcmpl-ac14ff30-9b36-43cd-bbb9-be022b062d64","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"余"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://jdxq.haikou.gov.cn/xinwen/2024/show-6891.html"],"created":1794629467,"id":"chatcmpl-ac14ff30-9b36-43cd-bbb9-be022b062d64","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"量**：规定"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://jdxq.haikou.gov.cn/xinwen/2024/show-6891.html"],"created":1794629467,"id":"chatcmpl-ac14ff30-9b36-43cd-bbb9-be022b062d64","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"要求在停留"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://jdxq.haikou.gov.cn/xinwen/2024/show-6891.html"],"created":1794629467,"id":"chatcmpl-ac14ff30-9b36-43cd-bbb9-be022b062d64","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"期"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://jdxq.haikou.gov.cn/xinwen/2024/show-6891.html"],"created":1794629467,"id":"chatcmpl-ac14ff30-9b36-43cd-bbb9-be022b062d64","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"届满前7个工作日内申请"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://jdxq.haikou.gov.cn/xinwen/2024/show-6891.html"],"created":1794629467,"id":"chatcmpl-ac14ff30-9b36-43cd-bbb9-be022b062d64","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"["},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://jdxq.haikou.gov.cn/xinwen/2024/show-6891.html"],"created":1794629467,"id":"chatcmpl-ac14ff30-9b36-43cd-bbb9-be022b062d64","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"2]，实际"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://jdxq.haikou.gov.cn/xinwen/2024/show-6891.html"],"created":1794629467,"id":"chatcmpl-ac14ff30-9b36-43cd-bbb9-be022b062d64","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"办理还需"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://jdxq.haikou.gov.cn/xinwen/2024/show-6891.html"],"created":1794629467,"id":"chatcmpl-ac14ff30-9b36-43cd-bbb9-be022b062d64","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"受理"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://jdxq.haikou.gov.cn/xinwen/2024/show-6891.html"],"created":1794629467,"id":"chatcmpl-ac14ff30-9b36-43cd-bbb9-be022b062d64","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"、"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://jdxq.haikou.gov.cn/xinwen/2024/show-6891.html"],"created":1794629467,"id":"chatcmpl-ac14ff30-9b36-43cd-bbb9-be022b062d64","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"审批"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://jdxq.haikou.gov.cn/xinwen/2024/show-6891.html"],"created":1794629467,"id":"chatcmpl-ac14ff30-9b36-43cd-bbb9-be022b062d64","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"时间，建议尽早"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://jdxq.haikou.gov.cn/xinwen/2024/show-6891.html"],"created":1794629467,"id":"chatcmpl-ac14ff30-9b36-43cd-bbb9-be022b062d64","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"去"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://jdxq.haikou.gov.cn/xinwen/2024/show-6891.html"],"created":1794629467,"id":"chatcmpl-ac14ff30-9b36-43cd-bbb9-be022b062d64","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"办，不要卡"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://jdxq.haikou.gov.cn/xinwen/2024/show-6891.html"],"created":1794629467,"id":"chatcmpl-ac14ff30-9b36-43cd-bbb9-be022b062d64","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"在最后几天"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://jdxq.haikou.gov.cn/xinwen/2024/show-6891.html"],"created":1794629467,"id":"chatcmpl-ac14ff30-9b36-43cd-bbb9-be022b062d64","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"。\n\n需要注意的是，上述"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://jdxq.haikou.gov.cn/xinwen/2024/show-6891.html"],"created":1794629467,"id":"chatcmpl-ac14ff30-9b36-43cd-bbb9-be022b062d64","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"内容"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://jdxq.haikou.gov.cn/xinwen/2024/show-6891.html"],"created":1794629467,"id":"chatcmpl-ac14ff30-9b36-43cd-bbb9-be022b062d64","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"依据"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://jdxq.haikou.gov.cn/xinwen/2024/show-6891.html"],"created":1794629467,"id":"chatcmpl-ac14ff30-9b36-43cd-bbb9-be022b062d64","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"检索"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://jdxq.haikou.gov.cn/xinwen/2024/show-6891.html"],"created":1794629467,"id":"chatcmpl-ac14ff30-9b36-43cd-bbb9-be022b062d64","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"到的政策"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://jdxq.haikou.gov.cn/xinwen/2024/show-6891.html"],"created":1794629467,"id":"chatcmpl-ac14ff30-9b36-43cd-bbb9-be022b062d64","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"介绍"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://jdxq.haikou.gov.cn/xinwen/2024/show-6891.html"],"created":1794629467,"id":"chatcmpl-ac14ff30-9b36-43cd-bbb9-be022b062d64","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"["},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://jdxq.haikou.gov.cn/xinwen/2024/show-6891.html"],"created":1794629467,"id":"chatcmpl-ac14ff30-9b36-43cd-bbb9-be022b062d64","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"2]；具体受理"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://jdxq.haikou.gov.cn/xinwen/2024/show-6891.html"],"created":1794629467,"id":"chatcmpl-ac14ff30-9b36-43cd-bbb9-be022b062d64","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"材料"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://jdxq.haikou.gov.cn/xinwen/2024/show-6891.html"],"created":1794629467,"id":"chatcmpl-ac14ff30-9b36-43cd-bbb9-be022b062d64","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"、办"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://jdxq.haikou.gov.cn/xinwen/2024/show-6891.html"],"created":1794629467,"id":"chatcmpl-ac14ff30-9b36-43cd-bbb9-be022b062d64","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"证时限和是否"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://jdxq.haikou.gov.cn/xinwen/2024/show-6891.html"],"created":1794629467,"id":"chatcmpl-ac14ff30-9b36-43cd-bbb9-be022b062d64","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"准"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://jdxq.haikou.gov.cn/xinwen/2024/show-6891.html"],"created":1794629467,"id":"chatcmpl-ac14ff30-9b36-43cd-bbb9-be022b062d64","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"予，"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://jdxq.haikou.gov.cn/xinwen/2024/show-6891.html"],"created":1794629467,"id":"chatcmpl-ac14ff30-9b36-43cd-bbb9-be022b062d64","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"以"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://jdxq.haikou.gov.cn/xinwen/2024/show-6891.html"],"created":1794629467,"id":"chatcmpl-ac14ff30-9b36-43cd-bbb9-be022b062d64","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"海南省公安机关"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://jdxq.haikou.gov.cn/xinwen/2024/show-6891.html"],"created":1794629467,"id":"chatcmpl-ac14ff30-9b36-43cd-bbb9-be022b062d64","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"出入境管理"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://jdxq.haikou.gov.cn/xinwen/2024/show-6891.html"],"created":1794629467,"id":"chatcmpl-ac14ff30-9b36-43cd-bbb9-be022b062d64","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"部门的实际答复"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://jdxq.haikou.gov.cn/xinwen/2024/show-6891.html"],"created":1794629467,"id":"chatcmpl-ac14ff30-9b36-43cd-bbb9-be022b062d64","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"为准。政策也可能"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://jdxq.haikou.gov.cn/xinwen/2024/show-6891.html"],"created":1794629467,"id":"chatcmpl-ac14ff30-9b36-43cd-bbb9-be022b062d64","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"调整，出行"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://jdxq.haikou.gov.cn/xinwen/2024/show-6891.html"],"created":1794629467,"id":"chatcmpl-ac14ff30-9b36-43cd-bbb9-be022b062d64","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"前最好"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://jdxq.haikou.gov.cn/xinwen/2024/show-6891.html"],"created":1794629467,"id":"chatcmpl-ac14ff30-9b36-43cd-bbb9-be022b062d64","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"再"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://jdxq.haikou.gov.cn/xinwen/2024/show-6891.html"],"created":1794629467,"id":"chatcmpl-ac14ff30-9b36-43cd-bbb9-be022b062d64","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"向当地"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://jdxq.haikou.gov.cn/xinwen/2024/show-6891.html"],"created":1794629467,"id":"chatcmpl-ac14ff30-9b36-43cd-bbb9-be022b062d64","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"出入境管理部门或使"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://jdxq.haikou.gov.cn/xinwen/2024/show-6891.html"],"created":1794629467,"id":"chatcmpl-ac14ff30-9b36-43cd-bbb9-be022b062d64","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"领馆确认。"},"finish_reason":"stop","index":0,"logprobs":null}],"citations":["https://jdxq.haikou.gov.cn/xinwen/2024/show-6891.html"],"created":1794629467,"id":"chatcmpl-ac14ff30-9b36-43cd-bbb9-be022b062d64","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[],"citations":["https://jdxq.haikou.gov.cn/xinwen/2024/show-6891.html"],"created":1794629467,"id":"chatcmpl-ac14ff30-9b36-43cd-bbb9-be022b062d64","model":"deepseek-flash","object":"chat.completion.chunk","usage":{"completion_tokens":865,"completion_tokens_details":{"reasoning_tokens":459},"prompt_tokens":762,"prompt_tokens_details":{"cached_tokens":0},"total_tokens":1627}}
+
+data: [DONE]
+

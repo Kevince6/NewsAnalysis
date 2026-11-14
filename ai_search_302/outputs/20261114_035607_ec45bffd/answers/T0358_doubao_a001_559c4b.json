@@ -1,0 +1,63 @@
+{
+  "task_id": "T0358",
+  "model": "doubao",
+  "news_id": "E030",
+  "question_index": 3,
+  "question_original": "【事实】证监会2024年对恒大地产和许家印分别罚了多少钱，对许家印还有什么市场禁入措施？",
+  "question": "证监会2024年对恒大地产和许家印分别罚了多少钱，对许家印还有什么市场禁入措施？",
+  "attempt": 1,
+  "provider": "302.ai",
+  "model_requested": "doubao-seed-2-1-pro-260628",
+  "query_date": "2026-11-14",
+  "search_service": "metaso",
+  "prompt_version": "news-search-v1",
+  "prompt_sha256": "ea56fd5557d32615a9115f2368a0c4983ff1188f4935369e694d7d46f2493be1",
+  "requested_at": "2026-11-14T12:34:25.369829+08:00",
+  "raw_file": "raw/T0358_doubao_a001_559c4b.json",
+  "transport": "sse",
+  "stream_file": "raw/T0358_doubao_a001_559c4b.sse",
+  "status": "ok",
+  "model_returned": "doubao-seed-2-1-pro-260628",
+  "answer": "根据2024年5月31日证监会公布的对恒大地产债券欺诈发行及信息披露违法案的处罚决定，相关处罚内容如下：\n1. 对恒大地产：责令改正、给予警告，合计罚款41.75亿元[1][5]。\n2. 对许家印：作为恒大地产时任董事长、实际控制人，被处以顶格罚款4700万元；同时证监会依法对其采取终身证券市场禁入措施[1][3][5]。\n\n### 相关背景说明\n- 本次处罚是许家印被采取强制措施后，监管层针对恒大相关违法违规行为落地的严厉惩戒。香颂资本执行董事沈萌指出，相关处罚大幅提高了违法主体的违规成本，对许家印采取终身证券市场禁入的措施，明确传递了监管的严肃态度[2]。\n- 该案其他相关责任人也同步被追责：证监会依据《证券法》《证券市场禁入规定》，对夏海钧等人员采取了相应的证券市场禁入措施；对积极配合调查、主动纠正违法行为的责任人钱程，证监会依据《行政处罚法》相关规定予以减轻处罚[3]。\n- 在本次处罚公布时，市场分析认为这标志着监管层对恒大系、许家印及恒大前管理层的追责程序正逐步推进，后续不排除还会公布其他针对相关主体的处罚措施[2]。",
+  "sources": [
+    {
+      "index": 1,
+      "url": "https://m.jrj.com.cn/madapter/finance/2024/05/31175440851270.shtml",
+      "title": null,
+      "origin": "citations"
+    },
+    {
+      "index": 2,
+      "url": "https://stock.jrj.com.cn/2024/03/19073239894671.shtml",
+      "title": null,
+      "origin": "citations"
+    },
+    {
+      "index": 3,
+      "url": "https://fund.eastmoney.com/a/202403193015571375.html",
+      "title": null,
+      "origin": "citations"
+    },
+    {
+      "index": 4,
+      "url": "https://www.thepaper.cn/newsDetail_forward_26730315",
+      "title": null,
+      "origin": "citations"
+    }
+  ],
+  "usage": {
+    "completion_tokens": 2595,
+    "completion_tokens_details": {
+      "reasoning_tokens": 2287
+    },
+    "prompt_tokens": 1580,
+    "prompt_tokens_details": {
+      "cached_tokens": 0
+    },
+    "total_tokens": 4175
+  },
+  "finish_reason": "stop",
+  "note": [],
+  "request_id": "9dd64667-4e8e-44a8-8db3-28a72cb714cb",
+  "duration_seconds": 53.453
+}

@@ -1,0 +1,58 @@
+{
+  "request": {
+    "model": "deepseek-flash",
+    "messages": [
+      {
+        "role": "system",
+        "content": "请联网检索后，用自然中文回答用户的问题。\n先直接回答，再补充理解答案所需的事实、背景或说明；复杂问题可分点，简单问题可简答。\n优先参考与问题直接相关的原始发布、机构公告、当事人回应及可信媒体报道。\n依据检索到的资料作答。资料不足、存在分歧或尚未确认的内容，请明确说明；解释和判断应与已确认的事实区分。\n在相关事实后标注检索来源，沿用检索结果提供的引用编号或标记。\n\n查询日期：2026-11-14（北京时间，UTC+8）。问题中的“现在”“近期”“最新”以此日期为参照；问题明确指定时间范围时，以问题为准。"
+      },
+      {
+        "role": "user",
+        "content": "2026年7月21日的报道预告，阿波罗长廊哪天重开，还会陈列之前那批珠宝吗？"
+      }
+    ],
+    "web-search": true,
+    "search-service": "metaso",
+    "search-results": 5,
+    "stream": true,
+    "stream_options": {
+      "include_usage": true
+    }
+  },
+  "response": {
+    "object": "chat.completion",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "**重开日期：2026年7月22日。** 据法新社等法国媒体2026年7月20日报道，2025年10月遭遇抢劫后一直关闭的卢浮宫阿波罗长廊定于7月22日对公众重新开放[webpage 3][webpage 5]；新华社同日报道也确认了这一日期[webpage 1]。\n\n**那批珠宝不会回来了。** 展厅重开后将**不再展出任何珠宝**，而是恢复其17世纪美术陈列室的原始功能，主要展示长廊本身闻名于世的墙壁彩绘、鎏金雕刻和穹顶装饰[webpage 1][webpage 4]。2025年10月失窃的法国王室珠宝价值约8800万欧元，案发后一直下落不明[webpage 3][webpage 5]。\n\n需要说明的一点：上述报道均为7月21日前后发布的“预告”，即当时重开尚未发生；其中个别转载页面把日期写作“7月23日”[webpage 2]，与新华社、央视新闻、中新网等来源的“22日”不一致，应以“22日”为准。就现有资料看，没有信息表明馆方计划在重开后重新陈列这批被盗珠宝。",
+          "reasoning_content": "用户问：2026年7月21日的报道预告，阿波罗长廊哪天重开，还会陈列之前那批珠宝吗？\n\n根据搜索结果：定于2026年7月22日重新开放，不再展出任何珠宝，恢复17世纪美术陈列室原始功能。被抢珠宝至今下落不明。\n\n需要引用来源。注意webpage 2 日期说7月23日重开，有冲突，但其他来源都说22日。可以提一下。實際上webpage 2 说\"2026年7月23日...重新向公众开放\" — 这与新华社7月21日报道\"定于22日\"不符，可能是转载误差。可以指出主要来源一致。\n\n回答简洁。"
+        },
+        "finish_reason": "stop"
+      }
+    ],
+    "id": "chatcmpl-866bece5-e8b7-4344-9562-a21c7b3f4d39",
+    "model": "deepseek-flash",
+    "created": 1794630724,
+    "citations": [
+      "http://www.news.cn/20260721/796ddb6bac304474aa41952ffd3bf18f/c.html",
+      "https://github.com/hanxinchaofanai-web/qmXMpLLu/blob/qLpTeURK/aJzdIDIc/XFWuZiym.md",
+      "https://news.qq.com/rain/a/20260721A02KJ400",
+      "https://news.qq.com/rain/a/20260722A0B3WZ00",
+      "https://news.cnr.cn/sq/20260721/t20260721_527720977.shtml"
+    ],
+    "usage": {
+      "completion_tokens": 412,
+      "completion_tokens_details": {
+        "reasoning_tokens": 147
+      },
+      "prompt_tokens": 1425,
+      "prompt_tokens_details": {
+        "cached_tokens": 0
+      },
+      "total_tokens": 1837
+    },
+    "_transport": "sse"
+  }
+}

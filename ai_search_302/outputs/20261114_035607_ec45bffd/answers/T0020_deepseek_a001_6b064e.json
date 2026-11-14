@@ -1,0 +1,51 @@
+{
+  "task_id": "T0020",
+  "model": "deepseek",
+  "news_id": "E002",
+  "question_index": 3,
+  "question_original": "【事实】刘欢是什么时候、在哪里去世的？他妻子的公开信又是什么时候发布的？",
+  "question": "刘欢是什么时候、在哪里去世的？他妻子的公开信又是什么时候发布的？",
+  "attempt": 1,
+  "provider": "302.ai",
+  "model_requested": "deepseek-flash",
+  "query_date": "2026-11-14",
+  "search_service": "metaso",
+  "prompt_version": "news-search-v1",
+  "prompt_sha256": "ea56fd5557d32615a9115f2368a0c4983ff1188f4935369e694d7d46f2493be1",
+  "requested_at": "2026-11-14T04:10:35.330357+08:00",
+  "raw_file": "raw/T0020_deepseek_a001_6b064e.json",
+  "transport": "sse",
+  "stream_file": "raw/T0020_deepseek_a001_6b064e.sse",
+  "status": "ok",
+  "model_returned": "deepseek-flash",
+  "answer": "按你提供的检索结果：\n\n- **去世时间与地点**：刘欢于**9月25日在上海病逝，享年63岁**；其妻卢璐表示遵照遗愿，不举行遗体告别仪式和追悼会[1][5]。\n- **公开信发布时间**：**11月12日**，由央视前主持人**水均益受卢璐委托**发布；信中同时说明刘欢于当日安葬在**北京怀柔长城脚下**，安葬过程得到水均益、毛阿敏等人协助[1][5]。\n\n需要提醒的是：这两条检索结果**都没有标明年份**，而且“63岁”与公开资料中刘欢的出生年份（1958年）对不上，因此上述内容是否准确、是否属于误传，仅凭现有检索资料无法确认。建议以家属、刘欢本人或权威媒体的正式信息为准。",
+  "sources": [
+    {
+      "index": 1,
+      "url": "https://news.qq.com/rain/a/20261112A0ELT600",
+      "title": null,
+      "origin": "citations"
+    },
+    {
+      "index": 2,
+      "url": "https://news.qq.com/rain/a/20261112A0EAPQ00",
+      "title": null,
+      "origin": "citations"
+    }
+  ],
+  "usage": {
+    "completion_tokens": 557,
+    "completion_tokens_details": {
+      "reasoning_tokens": 364
+    },
+    "prompt_tokens": 880,
+    "prompt_tokens_details": {
+      "cached_tokens": 0
+    },
+    "total_tokens": 1437
+  },
+  "finish_reason": "stop",
+  "note": [],
+  "request_id": "28469154-d746-4949-b44b-f790122ae7d8",
+  "duration_seconds": 68.475
+}

@@ -1,0 +1,26 @@
+{
+  "task_id": "T0259",
+  "model": "doubao",
+  "news_id": "E022",
+  "question_index": 1,
+  "question_original": "【开放】海南封关以后，普通游客出行有什么变化？从国内城市过去和从境外入境，证件要求有什么不同？",
+  "question": "海南封关以后，普通游客出行有什么变化？从国内城市过去和从境外入境，证件要求有什么不同？",
+  "attempt": 1,
+  "provider": "302.ai",
+  "model_requested": "doubao-seed-2-1-pro-260628",
+  "query_date": "2026-11-14",
+  "search_service": "metaso",
+  "prompt_version": "news-search-v1",
+  "prompt_sha256": "ea56fd5557d32615a9115f2368a0c4983ff1188f4935369e694d7d46f2493be1",
+  "requested_at": "2026-11-14T03:56:14.449301+08:00",
+  "raw_file": "raw/T0259_doubao_a001_6a614f.json",
+  "status": "error",
+  "answer": null,
+  "sources": [],
+  "note": [
+    "网络请求失败：Remote end closed connection without response。未自动重试，请先检查平台调用日志。"
+  ],
+  "http_status": null,
+  "request_id": null,
+  "duration_seconds": 126.938
+}

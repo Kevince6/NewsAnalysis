@@ -1,0 +1,44 @@
+data: {"id":"chatcmpl-efba6e1e-39df-4cdf-8d03-68e1623df1e0","choices":[{"index":0,"delta":{"role":"assistant","reasoning_content":"用户"},"finish_reason":null,"logprobs":null}],"created":1794628572,"model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"id":"chatcmpl-efba6e1e-39df-4cdf-8d03-68e1623df1e0","choices":[{"index":0,"delta":{"reasoning_content":"问的是单依"},"finish_reason":null,"logprobs":null}],"created":1794628572,"model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"id":"chatcmpl-efba6e1e-39df-4cdf-8d03-68e1623df1e0","choices":[{"index":0,"delta":{"reasoning_content":"纯和李荣"},"finish_reason":null,"logprobs":null}],"created":1794628572,"model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"id":"chatcmpl-efba6e1e-39df-4cdf-8d03-68e1623df1e0","choices":[{"index":0,"delta":{"reasoning_content":"浩因《李白》"},"finish_reason":null,"logprobs":null}],"created":1794628572,"model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"id":"chatcmpl-efba6e1e-39df-4cdf-8d03-68e1623df1e0","choices":[{"index":0,"delta":{"reasoning_content":"起争议的事件"},"finish_reason":null,"logprobs":null}],"created":1794628572,"model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"id":"chatcmpl-efba6e1e-39df-4cdf-8d03-68e1623df1e0","choices":[{"index":0,"delta":{"reasoning_content":"。"},"finish_reason":null,"logprobs":null}],"created":1794628572,"model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"id":"chatcmpl-efba6e1e-39df-4cdf-8d03-68e1623df1e0","choices":[{"index":0,"delta":{"reasoning_content":"需要联网"},"finish_reason":null,"logprobs":null}],"created":1794628572,"model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"id":"chatcmpl-efba6e1e-39df-4cdf-8d03-68e1623df1e0","choices":[{"index":0,"delta":{"reasoning_content":"检索。"},"finish_reason":null,"logprobs":null}],"created":1794628572,"model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"id":"chatcmpl-efba6e1e-39df-4cdf-8d03-68e1623df1e0","choices":[{"index":0,"delta":{"reasoning_content":"让我搜索相关信息"},"finish_reason":null,"logprobs":null}],"created":1794628572,"model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"id":"chatcmpl-efba6e1e-39df-4cdf-8d03-68e1623df1e0","choices":[{"index":0,"delta":{"reasoning_content":"。"},"finish_reason":null,"logprobs":null}],"created":1794628572,"model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"id":"chatcmpl-efba6e1e-39df-4cdf-8d03-68e1623df1e0","choices":[{"index":0,"delta":{"content":"\n\n<tool"},"finish_reason":null,"logprobs":null}],"created":1794628572,"model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"id":"chatcmpl-efba6e1e-39df-4cdf-8d03-68e1623df1e0","choices":[{"index":0,"delta":{"content":"_search"},"finish_reason":null,"logprobs":null}],"created":1794628572,"model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"id":"chatcmpl-efba6e1e-39df-4cdf-8d03-68e1623df1e0","choices":[{"index":0,"delta":{"content":">\n"},"finish_reason":null,"logprobs":null}],"created":1794628572,"model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"id":"chatcmpl-efba6e1e-39df-4cdf-8d03-68e1623df1e0","choices":[{"index":0,"delta":{"content":"<query>单"},"finish_reason":null,"logprobs":null}],"created":1794628572,"model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"id":"chatcmpl-efba6e1e-39df-4cdf-8d03-68e1623df1e0","choices":[{"index":0,"delta":{"content":"依纯 李荣浩"},"finish_reason":null,"logprobs":null}],"created":1794628572,"model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"id":"chatcmpl-efba6e1e-39df-4cdf-8d03-68e1623df1e0","choices":[{"index":0,"delta":{"content":" "},"finish_reason":null,"logprobs":null}],"created":1794628572,"model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"id":"chatcmpl-efba6e1e-39df-4cdf-8d03-68e1623df1e0","choices":[{"index":0,"delta":{"content":"李白 争议 回应"},"finish_reason":null,"logprobs":null}],"created":1794628572,"model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"id":"chatcmpl-efba6e1e-39df-4cdf-8d03-68e1623df1e0","choices":[{"index":0,"delta":{"content":"</query>\n"},"finish_reason":null,"logprobs":null}],"created":1794628572,"model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"id":"chatcmpl-efba6e1e-39df-4cdf-8d03-68e1623df1e0","choices":[{"index":0,"delta":{"content":"</tool_search>"},"finish_reason":null,"logprobs":null}],"created":1794628572,"model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"id":"chatcmpl-efba6e1e-39df-4cdf-8d03-68e1623df1e0","choices":[{"index":0,"delta":{"content":"\n"},"finish_reason":"stop","logprobs":null}],"created":1794628572,"model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"id":"chatcmpl-efba6e1e-39df-4cdf-8d03-68e1623df1e0","choices":[],"created":1794628572,"model":"deepseek-flash","object":"chat.completion.chunk","usage":{"prompt_tokens":193,"completion_tokens":55,"total_tokens":248,"prompt_tokens_details":{"cached_tokens":0},"completion_tokens_details":{"reasoning_tokens":25}}}
+
+data: [DONE]
+

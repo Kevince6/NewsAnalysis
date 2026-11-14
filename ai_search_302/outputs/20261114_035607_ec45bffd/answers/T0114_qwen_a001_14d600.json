@@ -1,0 +1,59 @@
+{
+  "task_id": "T0114",
+  "model": "qwen",
+  "news_id": "E009",
+  "question_index": 4,
+  "question_original": "【事实】2026年3月，Meta收购的是Moltbook还是OpenClaw？",
+  "question": "2026年3月，Meta收购的是Moltbook还是OpenClaw？",
+  "attempt": 1,
+  "provider": "302.ai",
+  "model_requested": "qwen3.8-max",
+  "query_date": "2026-11-14",
+  "search_service": "metaso",
+  "prompt_version": "news-search-v1",
+  "prompt_sha256": "ea56fd5557d32615a9115f2368a0c4983ff1188f4935369e694d7d46f2493be1",
+  "requested_at": "2026-11-14T11:31:55.940116+08:00",
+  "raw_file": "raw/T0114_qwen_a001_14d600.json",
+  "transport": "sse",
+  "stream_file": "raw/T0114_qwen_a001_14d600.sse",
+  "status": "ok",
+  "model_returned": "qwen3.8-max",
+  "answer": "2026年3月，Meta收购的是 **Moltbook**，不是 **OpenClaw** 本身。[1][2]\n\n更准确地说，Moltbook 是专为 AI 智能体 **OpenClaw** 打造的社交平台/专属社交网络；Meta 于当地时间2026年3月10日确认收购 Moltbook。[1][2] 交易后，Moltbook 被并入 Meta 超级智能实验室（Meta Superintelligence Labs，MSL），其创始人 Matt Schlicht 与 Ben Parr 也加入该团队。[2]\n\n所以，收购标的可以理解为：**OpenClaw 生态里的社交平台 Moltbook**，而不是 OpenClaw 这个 AI 智能体本身。[1][4]",
+  "sources": [
+    {
+      "index": 1,
+      "url": "https://www.caixin.com/2026-03-11/102421907.html",
+      "title": null,
+      "origin": "citations"
+    },
+    {
+      "index": 2,
+      "url": "https://news.qq.com/rain/a/20260311A03VV000",
+      "title": null,
+      "origin": "citations"
+    },
+    {
+      "index": 3,
+      "url": "https://new.qq.com/rain/a/20260311A00PXR00",
+      "title": null,
+      "origin": "citations"
+    }
+  ],
+  "usage": {
+    "completion_tokens": 586,
+    "completion_tokens_details": {
+      "reasoning_tokens": 420,
+      "text_tokens": 586
+    },
+    "prompt_tokens": 1175,
+    "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "text_tokens": 1175
+    },
+    "total_tokens": 1761
+  },
+  "finish_reason": "stop",
+  "note": [],
+  "request_id": "b9a93046-a050-484b-9ec8-f61871031880",
+  "duration_seconds": 16.844
+}

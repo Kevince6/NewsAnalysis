@@ -1,0 +1,63 @@
+{
+  "task_id": "T0332",
+  "model": "deepseek",
+  "news_id": "E028",
+  "question_index": 2,
+  "question_original": "【开放】宏福苑火灾报告已经公开，为什么还有内容被遮盖？完整版本要等到什么时候才能公布？",
+  "question": "宏福苑火灾报告已经公开，为什么还有内容被遮盖？完整版本要等到什么时候才能公布？",
+  "attempt": 1,
+  "provider": "302.ai",
+  "model_requested": "deepseek-flash",
+  "query_date": "2026-11-14",
+  "search_service": "metaso",
+  "prompt_version": "news-search-v1",
+  "prompt_sha256": "ea56fd5557d32615a9115f2368a0c4983ff1188f4935369e694d7d46f2493be1",
+  "requested_at": "2026-11-14T12:27:21.043577+08:00",
+  "raw_file": "raw/T0332_deepseek_a001_6a8b02.json",
+  "transport": "sse",
+  "stream_file": "raw/T0332_deepseek_a001_6a8b02.sse",
+  "status": "ok",
+  "model_returned": "deepseek-flash",
+  "answer": "**先直接回答：** 检索到的资料显示，官方对公开范围的表述是“报告和建议将全面公开，涉及司法程序的资料除外”[2]。也就是说，部分内容被遮盖或未公开，主要不是因为报告整体被封锁，而是因为涉及司法程序的材料被依法排除在公开范围之外。至于“完整版本”的确切公布日期，检索资料中没有明确日期；委员会只承诺目标在9个月内完成工作并向行政长官提交报告[2]。\n\n**1. 已公开的是什么？**\n\n2026年7月17日，负责调查的独立委员会举行最后一场听证会，首席代表、资深大律师杜淦堃作总结陈词，并公布了长达627页的书面文件[4]。这份文件属于听证会及调查过程中的书面材料，不等同于委员会最终提交给行政长官的完整报告。\n\n**2. 为什么还有内容被遮盖？**\n\n委员会主席陆启康已明确，委员会发表的报告和建议会“全面公开”，但“涉及司法程序的资料除外”[2]。因此，未公开部分很可能与以下事项有关：刑事调查、检控、死因研讯、纪律程序，或涉及个人隐私和未完成司法程序的材料。这类内容通常不能在调查阶段或司法程序结束前公开，否则可能影响程序公正或相关人员的合法权益。需要说明的是，检索资料只确认了“司法程序资料除外”这一原则，并未逐一列明被遮盖的具体章节和理由。\n\n**3. 完整版本要等到什么时候？**\n\n检索资料没有给出完整报告的具体公布日期。可确认的时间表是：委员会于2025年12月19日正式展开工作，目标是9个月内完成工作并向行政长官提交报告[2]。按此推算，最终报告的目标提交时间大约在2026年9月前后；但报告提交后何时全文公开、被司法程序排除的部分何时解封，资料中没有进一步说明。\n\n**4. 需要注意的不确定性**\n\n截至检索到的资料，无法确认627页文件中被遮盖部分的具体清单，也无法确认最终报告是否已经提交或全文刊出。若需准确日期，应以香港特区政府、独立委员会或行政长官办公室的正式公告为准；民间镜像网站虽在保存相关资料[1]，但不属于官方发布渠道。\n\n简言之：遮盖主要源于“司法程序资料除外”的法定保留[2]；完整版的目标时间是委员会9个月内提交报告[2]，但确切公布日期在现有资料中尚未明确。",
+  "sources": [
+    {
+      "index": 1,
+      "url": "https://github.com/horsehcj/Hong-Kong-Fire-Documentary",
+      "title": null,
+      "origin": "citations"
+    },
+    {
+      "index": 2,
+      "url": "https://baike.baidu.com/item/%E5%AE%8F%E7%A6%8F%E8%8B%91/67030959#%3A~%3Atext%3D%E5%AE%8F%E7%A6%8F%E8%8B%91%E7%9A%848%2C%E9%A2%87%E6%9C%89%E4%B8%AD%E5%9B%BD%E4%BC%A0%E7%BB%9F%E7%89%B9%E8%89%B2%E3%80%82",
+      "title": null,
+      "origin": "citations"
+    },
+    {
+      "index": 3,
+      "url": "https://www.chinanews.com.cn/dwq/2025/11-27/10522278.shtml",
+      "title": null,
+      "origin": "citations"
+    },
+    {
+      "index": 4,
+      "url": "https://www.thepaper.cn/newsDetail_forward_33657665",
+      "title": null,
+      "origin": "citations"
+    }
+  ],
+  "usage": {
+    "completion_tokens": 1865,
+    "completion_tokens_details": {
+      "reasoning_tokens": 1354
+    },
+    "prompt_tokens": 1288,
+    "prompt_tokens_details": {
+      "cached_tokens": 0
+    },
+    "total_tokens": 3153
+  },
+  "finish_reason": "stop",
+  "note": [],
+  "request_id": "b20e4822-380a-4ba3-ad05-ff78a47e25c0",
+  "duration_seconds": 27.906
+}

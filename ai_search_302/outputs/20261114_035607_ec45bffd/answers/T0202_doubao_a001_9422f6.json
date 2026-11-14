@@ -1,0 +1,45 @@
+{
+  "task_id": "T0202",
+  "model": "doubao",
+  "news_id": "E017",
+  "question_index": 1,
+  "question_original": "【开放】单依纯和李荣浩为什么因《李白》起争议？双方先后作了哪些回应？",
+  "question": "单依纯和李荣浩为什么因《李白》起争议？双方先后作了哪些回应？",
+  "attempt": 1,
+  "provider": "302.ai",
+  "model_requested": "doubao-seed-2-1-pro-260628",
+  "query_date": "2026-11-14",
+  "search_service": "metaso",
+  "prompt_version": "news-search-v1",
+  "prompt_sha256": "ea56fd5557d32615a9115f2368a0c4983ff1188f4935369e694d7d46f2493be1",
+  "requested_at": "2026-11-14T11:55:35.797691+08:00",
+  "raw_file": "raw/T0202_doubao_a001_9422f6.json",
+  "transport": "sse",
+  "stream_file": "raw/T0202_doubao_a001_9422f6.sse",
+  "status": "ok",
+  "model_returned": "doubao-seed-2-1-pro-260628",
+  "answer": "根据现有公开检索信息，单依纯与李荣浩围绕歌曲《李白》的争议核心为演出场景下的作品版权使用问题：从李荣浩后续表态可推知，单依纯方在未取得他正式授权的情况下，在相关演出中演唱了他创作的作品《李白》，由此引发双方对峙；目前检索到的资料仅覆盖事件对峙与平息阶段的内容，暂未披露此次争议触发的完整细节，包括涉事演出的具体场次、争议最初的曝光渠道与早期发酵脉络等信息。\n\n双方针对此事的回应存在明确的时间先后顺序：\n1.  争议发酵初期，单依纯首次对外作出回应，仅称“正在了解情况”，该表态当时被舆论批评为“甩锅”[4]。\n2.  3月30日凌晨，单依纯发布详细道歉长文作出正式回应：她承认自身及团队存在监督疏忽的问题，同时作出三项明确承诺：一是在后续所有演出中停止演唱《李白》，二是删除与该涉事事项相关的宣传物料，三是由其个人全额承担此次版权问题对应的全部版权使用费与赔偿费用[4]。\n3.  在单依纯发布道歉长文后，李荣浩针对此事公开作出回应：他表示如果该事件不再继续发酵，也不存在针对他本人及家人的抹黑、谩骂行为，此事就暂且作罢；他特别强调，自己在意的从来不是经济赔偿——如果他想要收取相关版权费用，从一开始就会开放作品授权，他真正的诉求是原创创作者应获得的尊重[4]。",
+  "sources": [
+    {
+      "index": 1,
+      "url": "https://bbs.hupu.com/638535780.html",
+      "title": null,
+      "origin": "citations"
+    }
+  ],
+  "usage": {
+    "completion_tokens": 2659,
+    "completion_tokens_details": {
+      "reasoning_tokens": 2308
+    },
+    "prompt_tokens": 839,
+    "prompt_tokens_details": {
+      "cached_tokens": 0
+    },
+    "total_tokens": 3498
+  },
+  "finish_reason": "stop",
+  "note": [],
+  "request_id": "32827640-9dc6-447a-aa83-5f5b37ab7e14",
+  "duration_seconds": 58.875
+}

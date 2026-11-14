@@ -1,0 +1,47 @@
+{
+  "task_id": "T0180",
+  "model": "qwen",
+  "news_id": "E015",
+  "question_index": 1,
+  "question_original": "【开放】2025年美国政府停摆期间，那份拨款案是怎么从参议院受阻到最终签署成法的？",
+  "question": "2025年美国政府停摆期间，那份拨款案是怎么从参议院受阻到最终签署成法的？",
+  "attempt": 1,
+  "provider": "302.ai",
+  "model_requested": "qwen3.8-max",
+  "query_date": "2026-11-14",
+  "search_service": "metaso",
+  "prompt_version": "news-search-v1",
+  "prompt_sha256": "ea56fd5557d32615a9115f2368a0c4983ff1188f4935369e694d7d46f2493be1",
+  "requested_at": "2026-11-14T11:49:31.859306+08:00",
+  "raw_file": "raw/T0180_qwen_a001_3b120d.json",
+  "transport": "sse",
+  "stream_file": "raw/T0180_qwen_a001_3b120d.sse",
+  "status": "ok",
+  "model_returned": "qwen3.8-max",
+  "answer": "依据目前给出的检索结果，只能确认这份拨款案在**参议院阶段**的关键节点；至于它此前在参议院“受阻”的具体过程、之后如何送交众议院、何时由总统签署成法，检索资料没有提供，无法完整确认。\n\n可确认的时间线是：\n\n- **2025年11月9日**：美国媒体报道称，参议院已就结束联邦政府“停摆”达成一致，相关资金安排将为政府提供资金**直至1月30日**[3][190][192]。\n- **2025年11月10日**：参议院投票通过了《持续拨款与延期法案》（Continuing Appropriations and Extensions Act），被描述为结束政府停摆的关键一步[3][200]。\n- **2025年11月10日晚**：参议院以**60票赞成**的表决结果通过了联邦政府临时拨款法案[3]。\n\n从背景看，这类“持续拨款/临时拨款”法案通常是为政府提供短期资金，避免或结束停摆；按美国立法程序，拨款法案还需要参众两院通过并经总统签署才能成为法律。但这份资料只覆盖到参议院通过这一步，**众议院表决和总统签署的具体情况尚未得到确认**[3]。",
+  "sources": [
+    {
+      "index": 1,
+      "url": "http://baike.baidu.com/item/2025%E5%B9%B4%E7%BE%8E%E5%9B%BD%E6%94%BF%E5%BA%9C%E5%81%9C%E6%91%86/66815545?noadapt=1",
+      "title": null,
+      "origin": "citations"
+    }
+  ],
+  "usage": {
+    "completion_tokens": 3241,
+    "completion_tokens_details": {
+      "reasoning_tokens": 2952,
+      "text_tokens": 3241
+    },
+    "prompt_tokens": 812,
+    "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "text_tokens": 812
+    },
+    "total_tokens": 4053
+  },
+  "finish_reason": "stop",
+  "note": [],
+  "request_id": "8dc69e5c-a7cb-433e-b94d-9f0b92427184",
+  "duration_seconds": 80.078
+}

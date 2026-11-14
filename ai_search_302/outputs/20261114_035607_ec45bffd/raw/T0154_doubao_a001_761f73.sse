@@ -1,0 +1,990 @@
+data: {"choices":[{"delta":{"reasoning_content":"\n","role":"assistant"},"index":0}],"citations":["https://www.bilibili.com/opus/1094838394134986768"],"created":1794627743,"id":"02179462774254818d6e3628ce906dcdb201e7d3c05ff32970c48","model":"doubao-seed-2-1-pro-260628","object":"chat.completion.chunk","service_tier":"default","usage":null}
+
+data: {"choices":[{"delta":{"reasoning_content":"用户","role":"assistant"},"index":0}],"citations":["https://www.bilibili.com/opus/1094838394134986768"],"created":1794627743,"id":"02179462774254818d6e3628ce906dcdb201e7d3c05ff32970c48","model":"doubao-seed-2-1-pro-260628","object":"chat.completion.chunk","service_tier":"default","usage":null}
+
+data: {"choices":[{"delta":{"reasoning_content":"现在","role":"assistant"},"index":0}],"citations":["https://www.bilibili.com/opus/1094838394134986768"],"created":1794627743,"id":"02179462774254818d6e3628ce906dcdb201e7d3c05ff32970c48","model":"doubao-seed-2-1-pro-260628","object":"chat.completion.chunk","service_tier":"default","usage":null}
+
+data: {"choices":[{"delta":{"reasoning_content":"问","role":"assistant"},"index":0}],"citations":["https://www.bilibili.com/opus/1094838394134986768"],"created":1794627743,"id":"02179462774254818d6e3628ce906dcdb201e7d3c05ff32970c48","model":"doubao-seed-2-1-pro-260628","object":"chat.completion.chunk","service_tier":"default","usage":null}
+
+data: {"choices":[{"delta":{"reasoning_content":"的","role":"assistant"},"index":0}],"citations":["https://www.bilibili.com/opus/1094838394134986768"],"created":1794627743,"id":"02179462774254818d6e3628ce906dcdb201e7d3c05ff32970c48","model":"doubao-seed-2-1-pro-260628","object":"chat.completion.chunk","service_tier":"default","usage":null}
+
+data: {"choices":[{"delta":{"reasoning_content":"是","role":"assistant"},"index":0}],"citations":["https://www.bilibili.com/opus/1094838394134986768"],"created":1794627743,"id":"02179462774254818d6e3628ce906dcdb201e7d3c05ff32970c48","model":"doubao-seed-2-1-pro-260628","object":"chat.completion.chunk","service_tier":"default","usage":null}
+
+data: {"choices":[{"delta":{"reasoning_content":"育儿","role":"assistant"},"index":0}],"citations":["https://www.bilibili.com/opus/1094838394134986768"],"created":1794627743,"id":"02179462774254818d6e3628ce906dcdb201e7d3c05ff32970c48","model":"doubao-seed-2-1-pro-260628","object":"chat.completion.chunk","service_tier":"default","usage":null}
+
+data: {"choices":[{"delta":{"reasoning_content":"补贴","role":"assistant"},"index":0}],"citations":["https://www.bilibili.com/opus/1094838394134986768"],"created":1794627743,"id":"02179462774254818d6e3628ce906dcdb201e7d3c05ff32970c48","model":"doubao-seed-2-1-pro-260628","object":"chat.completion.chunk","service_tier":"default","usage":null}
+
+data: {"choices":[{"delta":{"reasoning_content":"是","role":"assistant"},"index":0}],"citations":["https://www.bilibili.com/opus/1094838394134986768"],"created":1794627743,"id":"02179462774254818d6e3628ce906dcdb201e7d3c05ff32970c48","model":"doubao-seed-2-1-pro-260628","object":"chat.completion.chunk","service_tier":"default","usage":null}
+
+data: {"choices":[{"delta":{"reasoning_content":"每年","role":"assistant"},"index":0}],"citations":["https://www.bilibili.com/opus/1094838394134986768"],"created":1794627743,"id":"02179462774254818d6e3628ce906dcdb201e7d3c05ff32970c48","model":"doubao-seed-2-1-pro-260628","object":"chat.completion.chunk","service_tier":"default","usage":null}
+
+data: {"choices":[{"delta":{"reasoning_content":"3","role":"assistant"},"index":0}],"citations":["https://www.bilibili.com/opus/1094838394134986768"],"created":1794627743,"id":"02179462774254818d6e3628ce906dcdb201e7d3c05ff32970c48","model":"doubao-seed-2-1-pro-260628","object":"chat.completion.chunk","service_tier":"default","usage":null}
+
+data: {"choices":[{"delta":{"reasoning_content":"6","role":"assistant"},"index":0}],"citations":["https://www.bilibili.com/opus/1094838394134986768"],"created":1794627743,"id":"02179462774254818d6e3628ce906dcdb201e7d3c05ff32970c48","model":"doubao-seed-2-1-pro-260628","object":"chat.completion.chunk","service_tier":"default","usage":null}
+
+data: {"choices":[{"delta":{"reasoning_content":"0","role":"assistant"},"index":0}],"citations":["https://www.bilibili.com/opus/1094838394134986768"],"created":1794627743,"id":"02179462774254818d6e3628ce906dcdb201e7d3c05ff32970c48","model":"doubao-seed-2-1-pro-260628","object":"chat.completion.chunk","service_tier":"default","usage":null}
+
+data: {"choices":[{"delta":{"reasoning_content":"0","role":"assistant"},"index":0}],"citations":["https://www.bilibili.com/opus/1094838394134986768"],"created":1794627743,"id":"02179462774254818d6e3628ce906dcdb201e7d3c05ff32970c48","model":"doubao-seed-2-1-pro-260628","object":"chat.completion.chunk","service_tier":"default","usage":null}
+
+data: {"choices":[{"delta":{"reasoning_content":"还是","role":"assistant"},"index":0}],"citations":["https://www.bilibili.com/opus/1094838394134986768"],"created":1794627743,"id":"02179462774254818d6e3628ce906dcdb201e7d3c05ff32970c48","model":"doubao-seed-2-1-pro-260628","object":"chat.completion.chunk","service_tier":"default","usage":null}
+
+data: {"choices":[{"delta":{"reasoning_content":"每月","role":"assistant"},"index":0}],"citations":["https://www.bilibili.com/opus/1094838394134986768"],"created":1794627743,"id":"02179462774254818d6e3628ce906dcdb201e7d3c05ff32970c48","model":"doubao-seed-2-1-pro-260628","object":"chat.completion.chunk","service_tier":"default","usage":null}
+
+data: {"choices":[{"delta":{"reasoning_content":"，","role":"assistant"},"index":0}],"citations":["https://www.bilibili.com/opus/1094838394134986768"],"created":1794627743,"id":"02179462774254818d6e3628ce906dcdb201e7d3c05ff32970c48","model":"doubao-seed-2-1-pro-260628","object":"chat.completion.chunk","service_tier":"default","usage":null}
+
+data: {"choices":[{"delta":{"reasoning_content":"\n\n","role":"assistant"},"index":0}],"citations":["https://www.bilibili.com/opus/1094838394134986768"],"created":1794627743,"id":"02179462774254818d6e3628ce906dcdb201e7d3c05ff32970c48","model":"doubao-seed-2-1-pro-260628","object":"chat.completion.chunk","service_tier":"default","usage":null}
+
+data: {"choices":[{"delta":{"reasoning_content":"我","role":"assistant"},"index":0}],"citations":["https://www.bilibili.com/opus/1094838394134986768"],"created":1794627743,"id":"02179462774254818d6e3628ce906dcdb201e7d3c05ff32970c48","model":"doubao-seed-2-1-pro-260628","object":"chat.completion.chunk","service_tier":"default","usage":null}
+
+data: {"choices":[{"delta":{"reasoning_content":"已","role":"assistant"},"index":0}],"citations":["https://www.bilibili.com/opus/1094838394134986768"],"created":1794627743,"id":"02179462774254818d6e3628ce906dcdb201e7d3c05ff32970c48","model":"doubao-seed-2-1-pro-260628","object":"chat.completion.chunk","service_tier":"default","usage":null}
+
+data: {"choices":[{"delta":{"reasoning_content":"核实","role":"assistant"},"index":0}],"citations":["https://www.bilibili.com/opus/1094838394134986768"],"created":1794627743,"id":"02179462774254818d6e3628ce906dcdb201e7d3c05ff32970c48","model":"doubao-seed-2-1-pro-260628","object":"chat.completion.chunk","service_tier":"default","usage":null}
+
+data: {"choices":[{"delta":{"reasoning_content":"，","role":"assistant"},"index":0}],"citations":["https://www.bilibili.com/opus/1094838394134986768"],"created":1794627743,"id":"02179462774254818d6e3628ce906dcdb201e7d3c05ff32970c48","model":"doubao-seed-2-1-pro-260628","object":"chat.completion.chunk","service_tier":"default","usage":null}
+
+data: {"choices":[{"delta":{"reasoning_content":"育儿","role":"assistant"},"index":0}],"citations":["https://www.bilibili.com/opus/1094838394134986768"],"created":1794627743,"id":"02179462774254818d6e3628ce906dcdb201e7d3c05ff32970c48","model":"doubao-seed-2-1-pro-260628","object":"chat.completion.chunk","service_tier":"default","usage":null}
+
+data: {"choices":[{"delta":{"reasoning_content":"补贴","role":"assistant"},"index":0}],"citations":["https://www.bilibili.com/opus/1094838394134986768"],"created":1794627743,"id":"02179462774254818d6e3628ce906dcdb201e7d3c05ff32970c48","model":"doubao-seed-2-1-pro-260628","object":"chat.completion.chunk","service_tier":"default","usage":null}
+
+data: {"choices":[{"delta":{"reasoning_content":"基础","role":"assistant"},"index":0}],"citations":["https://www.bilibili.com/opus/1094838394134986768"],"created":1794627743,"id":"02179462774254818d6e3628ce906dcdb201e7d3c05ff32970c48","model":"doubao-seed-2-1-pro-260628","object":"chat.completion.chunk","service_tier":"default","usage":null}
+
+data: {"choices":[{"delta":{"reasoning_content":"标准","role":"assistant"},"index":0}],"citations":["https://www.bilibili.com/opus/1094838394134986768"],"created":1794627743,"id":"02179462774254818d6e3628ce906dcdb201e7d3c05ff32970c48","model":"doubao-seed-2-1-pro-260628","object":"chat.completion.chunk","service_tier":"default","usage":null}
+
+data: {"choices":[{"delta":{"reasoning_content":"为","role":"assistant"},"index":0}],"citations":["https://www.bilibili.com/opus/1094838394134986768"],"created":1794627743,"id":"02179462774254818d6e3628ce906dcdb201e7d3c05ff32970c48","model":"doubao-seed-2-1-pro-260628","object":"chat.completion.chunk","service_tier":"default","usage":null}
+
+data: {"choices":[{"delta":{"reasoning_content":"每","role":"assistant"},"index":0}],"citations":["https://www.bilibili.com/opus/1094838394134986768"],"created":1794627743,"id":"02179462774254818d6e3628ce906dcdb201e7d3c05ff32970c48","model":"doubao-seed-2-1-pro-260628","object":"chat.completion.chunk","service_tier":"default","usage":null}
+
+data: {"choices":[{"delta":{"reasoning_content":"孩","role":"assistant"},"index":0}],"citations":["https://www.bilibili.com/opus/1094838394134986768"],"created":1794627743,"id":"02179462774254818d6e3628ce906dcdb201e7d3c05ff32970c48","model":"doubao-seed-2-1-pro-260628","object":"chat.completion.chunk","service_tier":"default","usage":null}
+
+data: {"choices":[{"delta":{"reasoning_content":"每年","role":"assistant"},"index":0}],"citations":["https://www.bilibili.com/opus/1094838394134986768"],"created":1794627743,"id":"02179462774254818d6e3628ce906dcdb201e7d3c05ff32970c48","model":"doubao-seed-2-1-pro-260628","object":"chat.completion.chunk","service_tier":"default","usage":null}
+
+data: {"choices":[{"delta":{"reasoning_content":"3","role":"assistant"},"index":0}],"citations":["https://www.bilibili.com/opus/1094838394134986768"],"created":1794627743,"id":"02179462774254818d6e3628ce906dcdb201e7d3c05ff32970c48","model":"doubao-seed-2-1-pro-260628","object":"chat.completion.chunk","service_tier":"default","usage":null}
+
+data: {"choices":[{"delta":{"reasoning_content":"6","role":"assistant"},"index":0}],"citations":["https://www.bilibili.com/opus/1094838394134986768"],"created":1794627743,"id":"02179462774254818d6e3628ce906dcdb201e7d3c05ff32970c48","model":"doubao-seed-2-1-pro-260628","object":"chat.completion.chunk","service_tier":"default","usage":null}
+
+data: {"choices":[{"delta":{"reasoning_content":"0","role":"assistant"},"index":0}],"citations":["https://www.bilibili.com/opus/1094838394134986768"],"created":1794627743,"id":"02179462774254818d6e3628ce906dcdb201e7d3c05ff32970c48","model":"doubao-seed-2-1-pro-260628","object":"chat.completion.chunk","service_tier":"default","usage":null}
+
+data: {"choices":[{"delta":{"reasoning_content":"0","role":"assistant"},"index":0}],"citations":["https://www.bilibili.com/opus/1094838394134986768"],"created":1794627743,"id":"02179462774254818d6e3628ce906dcdb201e7d3c05ff32970c48","model":"doubao-seed-2-1-pro-260628","object":"chat.completion.chunk","service_tier":"default","usage":null}
+
+data: {"choices":[{"delta":{"reasoning_content":"元","role":"assistant"},"index":0}],"citations":["https://www.bilibili.com/opus/1094838394134986768"],"created":1794627743,"id":"02179462774254818d6e3628ce906dcdb201e7d3c05ff32970c48","model":"doubao-seed-2-1-pro-260628","object":"chat.completion.chunk","service_tier":"default","usage":null}
+
+data: {"choices":[{"delta":{"reasoning_content":"，","role":"assistant"},"index":0}],"citations":["https://www.bilibili.com/opus/1094838394134986768"],"created":1794627743,"id":"02179462774254818d6e3628ce906dcdb201e7d3c05ff32970c48","model":"doubao-seed-2-1-pro-260628","object":"chat.completion.chunk","service_tier":"default","usage":null}
+
+data: {"choices":[{"delta":{"reasoning_content":"并非","role":"assistant"},"index":0}],"citations":["https://www.bilibili.com/opus/1094838394134986768"],"created":1794627743,"id":"02179462774254818d6e3628ce906dcdb201e7d3c05ff32970c48","model":"doubao-seed-2-1-pro-260628","object":"chat.completion.chunk","service_tier":"default","usage":null}
+
+data: {"choices":[{"delta":{"reasoning_content":"每月","role":"assistant"},"index":0}],"citations":["https://www.bilibili.com/opus/1094838394134986768"],"created":1794627743,"id":"02179462774254818d6e3628ce906dcdb201e7d3c05ff32970c48","model":"doubao-seed-2-1-pro-260628","object":"chat.completion.chunk","service_tier":"default","usage":null}
+
+data: {"choices":[{"delta":{"reasoning_content":"3","role":"assistant"},"index":0}],"citations":["https://www.bilibili.com/opus/1094838394134986768"],"created":1794627743,"id":"02179462774254818d6e3628ce906dcdb201e7d3c05ff32970c48","model":"doubao-seed-2-1-pro-260628","object":"chat.completion.chunk","service_tier":"default","usage":null}
+
+data: {"choices":[{"delta":{"reasoning_content":"6","role":"assistant"},"index":0}],"citations":["https://www.bilibili.com/opus/1094838394134986768"],"created":1794627743,"id":"02179462774254818d6e3628ce906dcdb201e7d3c05ff32970c48","model":"doubao-seed-2-1-pro-260628","object":"chat.completion.chunk","service_tier":"default","usage":null}
+
+data: {"choices":[{"delta":{"reasoning_content":"0","role":"assistant"},"index":0}],"citations":["https://www.bilibili.com/opus/1094838394134986768"],"created":1794627743,"id":"02179462774254818d6e3628ce906dcdb201e7d3c05ff32970c48","model":"doubao-seed-2-1-pro-260628","object":"chat.completion.chunk","service_tier":"default","usage":null}
+
+data: {"choices":[{"delta":{"reasoning_content":"0","role":"assistant"},"index":0}],"citations":["https://www.bilibili.com/opus/1094838394134986768"],"created":1794627743,"id":"02179462774254818d6e3628ce906dcdb201e7d3c05ff32970c48","model":"doubao-seed-2-1-pro-260628","object":"chat.completion.chunk","service_tier":"default","usage":null}
+
+data: {"choices":[{"delta":{"reasoning_content":"元","role":"assistant"},"index":0}],"citations":["https://www.bilibili.com/opus/1094838394134986768"],"created":1794627743,"id":"02179462774254818d6e3628ce906dcdb201e7d3c05ff32970c48","model":"doubao-seed-2-1-pro-260628","object":"chat.completion.chunk","service_tier":"default","usage":null}
+
+data: {"choices":[{"delta":{"reasoning_content":"，","role":"assistant"},"index":0}],"citations":["https://www.bilibili.com/opus/1094838394134986768"],"created":1794627743,"id":"02179462774254818d6e3628ce906dcdb201e7d3c05ff32970c48","model":"doubao-seed-2-1-pro-260628","object":"chat.completion.chunk","service_tier":"default","usage":null}
+
+data: {"choices":[{"delta":{"reasoning_content":"2","role":"assistant"},"index":0}],"citations":["https://www.bilibili.com/opus/1094838394134986768"],"created":1794627743,"id":"02179462774254818d6e3628ce906dcdb201e7d3c05ff32970c48","model":"doubao-seed-2-1-pro-260628","object":"chat.completion.chunk","service_tier":"default","usage":null}
+
+data: {"choices":[{"delta":{"reasoning_content":"0","role":"assistant"},"index":0}],"citations":["https://www.bilibili.com/opus/1094838394134986768"],"created":1794627743,"id":"02179462774254818d6e3628ce906dcdb201e7d3c05ff32970c48","model":"doubao-seed-2-1-pro-260628","object":"chat.completion.chunk","service_tier":"default","usage":null}
+
+data: {"choices":[{"delta":{"reasoning_content":"2","role":"assistant"},"index":0}],"citations":["https://www.bilibili.com/opus/1094838394134986768"],"created":1794627743,"id":"02179462774254818d6e3628ce906dcdb201e7d3c05ff32970c48","model":"doubao-seed-2-1-pro-260628","object":"chat.completion.chunk","service_tier":"default","usage":null}
+
+data: {"choices":[{"delta":{"reasoning_content":"5","role":"assistant"},"index":0}],"citations":["https://www.bilibili.com/opus/1094838394134986768"],"created":1794627743,"id":"02179462774254818d6e3628ce906dcdb201e7d3c05ff32970c48","model":"doubao-seed-2-1-pro-260628","object":"chat.completion.chunk","service_tier":"default","usage":null}
+
+data: {"choices":[{"delta":{"reasoning_content":"年前","role":"assistant"},"index":0}],"citations":["https://www.bilibili.com/opus/1094838394134986768"],"created":1794627743,"id":"02179462774254818d6e3628ce906dcdb201e7d3c05ff32970c48","model":"doubao-seed-2-1-pro-260628","object":"chat.completion.chunk","service_tier":"default","usage":null}
+
+data: {"choices":[{"delta":{"reasoning_content":"出生","role":"assistant"},"index":0}],"citations":["https://www.bilibili.com/opus/1094838394134986768"],"created":1794627743,"id":"02179462774254818d6e3628ce906dcdb201e7d3c05ff32970c48","model":"doubao-seed-2-1-pro-260628","object":"chat.completion.chunk","service_tier":"default","usage":null}
+
+data: {"choices":[{"delta":{"reasoning_content":"的","role":"assistant"},"index":0}],"citations":["https://www.bilibili.com/opus/1094838394134986768"],"created":1794627743,"id":"02179462774254818d6e3628ce906dcdb201e7d3c05ff32970c48","model":"doubao-seed-2-1-pro-260628","object":"chat.completion.chunk","service_tier":"default","usage":null}
+
+data: {"choices":[{"delta":{"reasoning_content":"未满","role":"assistant"},"index":0}],"citations":["https://www.bilibili.com/opus/1094838394134986768"],"created":1794627743,"id":"02179462774254818d6e3628ce906dcdb201e7d3c05ff32970c48","model":"doubao-seed-2-1-pro-260628","object":"chat.completion.chunk","service_tier":"default","usage":null}
+
+data: {"choices":[{"delta":{"reasoning_content":"3","role":"assistant"},"index":0}],"citations":["https://www.bilibili.com/opus/1094838394134986768"],"created":1794627743,"id":"02179462774254818d6e3628ce906dcdb201e7d3c05ff32970c48","model":"doubao-seed-2-1-pro-260628","object":"chat.completion.chunk","service_tier":"default","usage":null}
+
+data: {"choices":[{"delta":{"reasoning_content":"岁","role":"assistant"},"index":0}],"citations":["https://www.bilibili.com/opus/1094838394134986768"],"created":1794627743,"id":"02179462774254818d6e3628ce906dcdb201e7d3c05ff32970c48","model":"doubao-seed-2-1-pro-260628","object":"chat.completion.chunk","service_tier":"default","usage":null}
+
+data: {"choices":[{"delta":{"reasoning_content":"婴幼儿","role":"assistant"},"index":0}],"citations":["https://www.bilibili.com/opus/1094838394134986768"],"created":1794627743,"id":"02179462774254818d6e3628ce906dcdb201e7d3c05ff32970c48","model":"doubao-seed-2-1-pro-260628","object":"chat.completion.chunk","service_tier":"default","usage":null}
+
+data: {"choices":[{"delta":{"reasoning_content":"可","role":"assistant"},"index":0}],"citations":["https://www.bilibili.com/opus/1094838394134986768"],"created":1794627743,"id":"02179462774254818d6e3628ce906dcdb201e7d3c05ff32970c48","model":"doubao-seed-2-1-pro-260628","object":"chat.completion.chunk","service_tier":"default","usage":null}
+
+data: {"choices":[{"delta":{"reasoning_content":"按","role":"assistant"},"index":0}],"citations":["https://www.bilibili.com/opus/1094838394134986768"],"created":1794627743,"id":"02179462774254818d6e3628ce906dcdb201e7d3c05ff32970c48","model":"doubao-seed-2-1-pro-260628","object":"chat.completion.chunk","service_tier":"default","usage":null}
+
+data: {"choices":[{"delta":{"reasoning_content":"政策","role":"assistant"},"index":0}],"citations":["https://www.bilibili.com/opus/1094838394134986768"],"created":1794627743,"id":"02179462774254818d6e3628ce906dcdb201e7d3c05ff32970c48","model":"doubao-seed-2-1-pro-260628","object":"chat.completion.chunk","service_tier":"default","usage":null}
+
+data: {"choices":[{"delta":{"reasoning_content":"规定","role":"assistant"},"index":0}],"citations":["https://www.bilibili.com/opus/1094838394134986768"],"created":1794627743,"id":"02179462774254818d6e3628ce906dcdb201e7d3c05ff32970c48","model":"doubao-seed-2-1-pro-260628","object":"chat.completion.chunk","service_tier":"default","usage":null}
+
+data: {"choices":[{"delta":{"reasoning_content":"享受","role":"assistant"},"index":0}],"citations":["https://www.bilibili.com/opus/1094838394134986768"],"created":1794627743,"id":"02179462774254818d6e3628ce906dcdb201e7d3c05ff32970c48","model":"doubao-seed-2-1-pro-260628","object":"chat.completion.chunk","service_tier":"default","usage":null}
+
+data: {"choices":[{"delta":{"reasoning_content":"溯","role":"assistant"},"index":0}],"citations":["https://www.bilibili.com/opus/1094838394134986768"],"created":1794627743,"id":"02179462774254818d6e3628ce906dcdb201e7d3c05ff32970c48","model":"doubao-seed-2-1-pro-260628","object":"chat.completion.chunk","service_tier":"default","usage":null}
+
+data: {"choices":[{"delta":{"reasoning_content":"及","role":"assistant"},"index":0}],"citations":["https://www.bilibili.com/opus/1094838394134986768"],"created":1794627743,"id":"02179462774254818d6e3628ce906dcdb201e7d3c05ff32970c48","model":"doubao-seed-2-1-pro-260628","object":"chat.completion.chunk","service_tier":"default","usage":null}
+
+data: {"choices":[{"delta":{"reasoning_content":"折算","role":"assistant"},"index":0}],"citations":["https://www.bilibili.com/opus/1094838394134986768"],"created":1794627743,"id":"02179462774254818d6e3628ce906dcdb201e7d3c05ff32970c48","model":"doubao-seed-2-1-pro-260628","object":"chat.completion.chunk","service_tier":"default","usage":null}
+
+data: {"choices":[{"delta":{"reasoning_content":"的","role":"assistant"},"index":0}],"citations":["https://www.bilibili.com/opus/1094838394134986768"],"created":1794627743,"id":"02179462774254818d6e3628ce906dcdb201e7d3c05ff32970c48","model":"doubao-seed-2-1-pro-260628","object":"chat.completion.chunk","service_tier":"default","usage":null}
+
+data: {"choices":[{"delta":{"reasoning_content":"补贴","role":"assistant"},"index":0}],"citations":["https://www.bilibili.com/opus/1094838394134986768"],"created":1794627743,"id":"02179462774254818d6e3628ce906dcdb201e7d3c05ff32970c48","model":"doubao-seed-2-1-pro-260628","object":"chat.completion.chunk","service_tier":"default","usage":null}
+
+data: {"choices":[{"delta":{"reasoning_content":"。","role":"assistant"},"index":0}],"citations":["https://www.bilibili.com/opus/1094838394134986768"],"created":1794627743,"id":"02179462774254818d6e3628ce906dcdb201e7d3c05ff32970c48","model":"doubao-seed-2-1-pro-260628","object":"chat.completion.chunk","service_tier":"default","usage":null}
+
+data: {"choices":[{"delta":{"reasoning_content":"","role":"assistant"},"index":0}],"citations":["https://www.bilibili.com/opus/1094838394134986768"],"created":1794627743,"id":"02179462774254818d6e3628ce906dcdb201e7d3c05ff32970c48","model":"doubao-seed-2-1-pro-260628","object":"chat.completion.chunk","service_tier":"default","usage":null}
+
+data: {"choices":[{"delta":{"reasoning_content":"\n\n","role":"assistant"},"index":0}],"citations":["https://www.bilibili.com/opus/1094838394134986768"],"created":1794627743,"id":"02179462774254818d6e3628ce906dcdb201e7d3c05ff32970c48","model":"doubao-seed-2-1-pro-260628","object":"chat.completion.chunk","service_tier":"default","usage":null}
+
+data: {"choices":[{"delta":{"reasoning_content":"这","role":"assistant"},"index":0}],"citations":["https://www.bilibili.com/opus/1094838394134986768"],"created":1794627743,"id":"02179462774254818d6e3628ce906dcdb201e7d3c05ff32970c48","model":"doubao-seed-2-1-pro-260628","object":"chat.completion.chunk","service_tier":"default","usage":null}
+
+data: {"choices":[{"delta":{"reasoning_content":"是","role":"assistant"},"index":0}],"citations":["https://www.bilibili.com/opus/1094838394134986768"],"created":1794627743,"id":"02179462774254818d6e3628ce906dcdb201e7d3c05ff32970c48","model":"doubao-seed-2-1-pro-260628","object":"chat.completion.chunk","service_tier":"default","usage":null}
+
+data: {"choices":[{"delta":{"reasoning_content":"我国","role":"assistant"},"index":0}],"citations":["https://www.bilibili.com/opus/1094838394134986768"],"created":1794627743,"id":"02179462774254818d6e3628ce906dcdb201e7d3c05ff32970c48","model":"doubao-seed-2-1-pro-260628","object":"chat.completion.chunk","service_tier":"default","usage":null}
+
+data: {"choices":[{"delta":{"reasoning_content":"首次","role":"assistant"},"index":0}],"citations":["https://www.bilibili.com/opus/1094838394134986768"],"created":1794627743,"id":"02179462774254818d6e3628ce906dcdb201e7d3c05ff32970c48","model":"doubao-seed-2-1-pro-260628","object":"chat.completion.chunk","service_tier":"default","usage":null}
+
+data: {"choices":[{"delta":{"reasoning_content":"建立","role":"assistant"},"index":0}],"citations":["https://www.bilibili.com/opus/1094838394134986768"],"created":1794627743,"id":"02179462774254818d6e3628ce906dcdb201e7d3c05ff32970c48","model":"doubao-seed-2-1-pro-260628","object":"chat.completion.chunk","service_tier":"default","usage":null}
+
+data: {"choices":[{"delta":{"reasoning_content":"的","role":"assistant"},"index":0}],"citations":["https://www.bilibili.com/opus/1094838394134986768"],"created":1794627743,"id":"02179462774254818d6e3628ce906dcdb201e7d3c05ff32970c48","model":"doubao-seed-2-1-pro-260628","object":"chat.completion.chunk","service_tier":"default","usage":null}
+
+data: {"choices":[{"delta":{"reasoning_content":"全国","role":"assistant"},"index":0}],"citations":["https://www.bilibili.com/opus/1094838394134986768"],"created":1794627743,"id":"02179462774254818d6e3628ce906dcdb201e7d3c05ff32970c48","model":"doubao-seed-2-1-pro-260628","object":"chat.completion.chunk","service_tier":"default","usage":null}
+
+data: {"choices":[{"delta":{"reasoning_content":"层面","role":"assistant"},"index":0}],"citations":["https://www.bilibili.com/opus/1094838394134986768"],"created":1794627743,"id":"02179462774254818d6e3628ce906dcdb201e7d3c05ff32970c48","model":"doubao-seed-2-1-pro-260628","object":"chat.completion.chunk","service_tier":"default","usage":null}
+
+data: {"choices":[{"delta":{"reasoning_content":"普惠","role":"assistant"},"index":0}],"citations":["https://www.bilibili.com/opus/1094838394134986768"],"created":1794627743,"id":"02179462774254818d6e3628ce906dcdb201e7d3c05ff32970c48","model":"doubao-seed-2-1-pro-260628","object":"chat.completion.chunk","service_tier":"default","usage":null}
+
+data: {"choices":[{"delta":{"reasoning_content":"性","role":"assistant"},"index":0}],"citations":["https://www.bilibili.com/opus/1094838394134986768"],"created":1794627743,"id":"02179462774254818d6e3628ce906dcdb201e7d3c05ff32970c48","model":"doubao-seed-2-1-pro-260628","object":"chat.completion.chunk","service_tier":"default","usage":null}
+
+data: {"choices":[{"delta":{"reasoning_content":"育儿","role":"assistant"},"index":0}],"citations":["https://www.bilibili.com/opus/1094838394134986768"],"created":1794627743,"id":"02179462774254818d6e3628ce906dcdb201e7d3c05ff32970c48","model":"doubao-seed-2-1-pro-260628","object":"chat.completion.chunk","service_tier":"default","usage":null}
+
+data: {"choices":[{"delta":{"reasoning_content":"现金","role":"assistant"},"index":0}],"citations":["https://www.bilibili.com/opus/1094838394134986768"],"created":1794627743,"id":"02179462774254818d6e3628ce906dcdb201e7d3c05ff32970c48","model":"doubao-seed-2-1-pro-260628","object":"chat.completion.chunk","service_tier":"default","usage":null}
+
+data: {"choices":[{"delta":{"reasoning_content":"补贴","role":"assistant"},"index":0}],"citations":["https://www.bilibili.com/opus/1094838394134986768"],"created":1794627743,"id":"02179462774254818d6e3628ce906dcdb201e7d3c05ff32970c48","model":"doubao-seed-2-1-pro-260628","object":"chat.completion.chunk","service_tier":"default","usage":null}
+
+data: {"choices":[{"delta":{"reasoning_content":"制度","role":"assistant"},"index":0}],"citations":["https://www.bilibili.com/opus/1094838394134986768"],"created":1794627743,"id":"02179462774254818d6e3628ce906dcdb201e7d3c05ff32970c48","model":"doubao-seed-2-1-pro-260628","object":"chat.completion.chunk","service_tier":"default","usage":null}
+
+data: {"choices":[{"delta":{"reasoning_content":"，","role":"assistant"},"index":0}],"citations":["https://www.bilibili.com/opus/1094838394134986768"],"created":1794627743,"id":"02179462774254818d6e3628ce906dcdb201e7d3c05ff32970c48","model":"doubao-seed-2-1-pro-260628","object":"chat.completion.chunk","service_tier":"default","usage":null}
+
+data: {"choices":[{"delta":{"reasoning_content":"生育","role":"assistant"},"index":0}],"citations":["https://www.bilibili.com/opus/1094838394134986768"],"created":1794627743,"id":"02179462774254818d6e3628ce906dcdb201e7d3c05ff32970c48","model":"doubao-seed-2-1-pro-260628","object":"chat.completion.chunk","service_tier":"default","usage":null}
+
+data: {"choices":[{"delta":{"reasoning_content":"支持","role":"assistant"},"index":0}],"citations":["https://www.bilibili.com/opus/1094838394134986768"],"created":1794627743,"id":"02179462774254818d6e3628ce906dcdb201e7d3c05ff32970c48","model":"doubao-seed-2-1-pro-260628","object":"chat.completion.chunk","service_tier":"default","usage":null}
+
+data: {"choices":[{"delta":{"reasoning_content":"政策","role":"assistant"},"index":0}],"citations":["https://www.bilibili.com/opus/1094838394134986768"],"created":1794627743,"id":"02179462774254818d6e3628ce906dcdb201e7d3c05ff32970c48","model":"doubao-seed-2-1-pro-260628","object":"chat.completion.chunk","service_tier":"default","usage":null}
+
+data: {"choices":[{"delta":{"reasoning_content":"已","role":"assistant"},"index":0}],"citations":["https://www.bilibili.com/opus/1094838394134986768"],"created":1794627743,"id":"02179462774254818d6e3628ce906dcdb201e7d3c05ff32970c48","model":"doubao-seed-2-1-pro-260628","object":"chat.completion.chunk","service_tier":"default","usage":null}
+
+data: {"choices":[{"delta":{"reasoning_content":"从","role":"assistant"},"index":0}],"citations":["https://www.bilibili.com/opus/1094838394134986768"],"created":1794627743,"id":"02179462774254818d6e3628ce906dcdb201e7d3c05ff32970c48","model":"doubao-seed-2-1-pro-260628","object":"chat.completion.chunk","service_tier":"default","usage":null}
+
+data: {"choices":[{"delta":{"reasoning_content":"地方","role":"assistant"},"index":0}],"citations":["https://www.bilibili.com/opus/1094838394134986768"],"created":1794627743,"id":"02179462774254818d6e3628ce906dcdb201e7d3c05ff32970c48","model":"doubao-seed-2-1-pro-260628","object":"chat.completion.chunk","service_tier":"default","usage":null}
+
+data: {"choices":[{"delta":{"reasoning_content":"试点","role":"assistant"},"index":0}],"citations":["https://www.bilibili.com/opus/1094838394134986768"],"created":1794627743,"id":"02179462774254818d6e3628ce906dcdb201e7d3c05ff32970c48","model":"doubao-seed-2-1-pro-260628","object":"chat.completion.chunk","service_tier":"default","usage":null}
+
+data: {"choices":[{"delta":{"reasoning_content":"上升","role":"assistant"},"index":0}],"citations":["https://www.bilibili.com/opus/1094838394134986768"],"created":1794627743,"id":"02179462774254818d6e3628ce906dcdb201e7d3c05ff32970c48","model":"doubao-seed-2-1-pro-260628","object":"chat.completion.chunk","service_tier":"default","usage":null}
+
+data: {"choices":[{"delta":{"reasoning_content":"为","role":"assistant"},"index":0}],"citations":["https://www.bilibili.com/opus/1094838394134986768"],"created":1794627743,"id":"02179462774254818d6e3628ce906dcdb201e7d3c05ff32970c48","model":"doubao-seed-2-1-pro-260628","object":"chat.completion.chunk","service_tier":"default","usage":null}
+
+data: {"choices":[{"delta":{"reasoning_content":"国家","role":"assistant"},"index":0}],"citations":["https://www.bilibili.com/opus/1094838394134986768"],"created":1794627743,"id":"02179462774254818d6e3628ce906dcdb201e7d3c05ff32970c48","model":"doubao-seed-2-1-pro-260628","object":"chat.completion.chunk","service_tier":"default","usage":null}
+
+data: {"choices":[{"delta":{"reasoning_content":"行动","role":"assistant"},"index":0}],"citations":["https://www.bilibili.com/opus/1094838394134986768"],"created":1794627743,"id":"02179462774254818d6e3628ce906dcdb201e7d3c05ff32970c48","model":"doubao-seed-2-1-pro-260628","object":"chat.completion.chunk","service_tier":"default","usage":null}
+
+data: {"choices":[{"delta":{"reasoning_content":"，","role":"assistant"},"index":0}],"citations":["https://www.bilibili.com/opus/1094838394134986768"],"created":1794627743,"id":"02179462774254818d6e3628ce906dcdb201e7d3c05ff32970c48","model":"doubao-seed-2-1-pro-260628","object":"chat.completion.chunk","service_tier":"default","usage":null}
+
+data: {"choices":[{"delta":{"reasoning_content":"目前","role":"assistant"},"index":0}],"citations":["https://www.bilibili.com/opus/1094838394134986768"],"created":1794627743,"id":"02179462774254818d6e3628ce906dcdb201e7d3c05ff32970c48","model":"doubao-seed-2-1-pro-260628","object":"chat.completion.chunk","service_tier":"default","usage":null}
+
+data: {"choices":[{"delta":{"reasoning_content":"暂","role":"assistant"},"index":0}],"citations":["https://www.bilibili.com/opus/1094838394134986768"],"created":1794627743,"id":"02179462774254818d6e3628ce906dcdb201e7d3c05ff32970c48","model":"doubao-seed-2-1-pro-260628","object":"chat.completion.chunk","service_tier":"default","usage":null}
+
+data: {"choices":[{"delta":{"reasoning_content":"未","role":"assistant"},"index":0}],"citations":["https://www.bilibili.com/opus/1094838394134986768"],"created":1794627743,"id":"02179462774254818d6e3628ce906dcdb201e7d3c05ff32970c48","model":"doubao-seed-2-1-pro-260628","object":"chat.completion.chunk","service_tier":"default","usage":null}
+
+data: {"choices":[{"delta":{"reasoning_content":"明确","role":"assistant"},"index":0}],"citations":["https://www.bilibili.com/opus/1094838394134986768"],"created":1794627743,"id":"02179462774254818d6e3628ce906dcdb201e7d3c05ff32970c48","model":"doubao-seed-2-1-pro-260628","object":"chat.completion.chunk","service_tier":"default","usage":null}
+
+data: {"choices":[{"delta":{"reasoning_content":"具体","role":"assistant"},"index":0}],"citations":["https://www.bilibili.com/opus/1094838394134986768"],"created":1794627743,"id":"02179462774254818d6e3628ce906dcdb201e7d3c05ff32970c48","model":"doubao-seed-2-1-pro-260628","object":"chat.completion.chunk","service_tier":"default","usage":null}
+
+data: {"choices":[{"delta":{"reasoning_content":"折算","role":"assistant"},"index":0}],"citations":["https://www.bilibili.com/opus/1094838394134986768"],"created":1794627743,"id":"02179462774254818d6e3628ce906dcdb201e7d3c05ff32970c48","model":"doubao-seed-2-1-pro-260628","object":"chat.completion.chunk","service_tier":"default","usage":null}
+
+data: {"choices":[{"delta":{"reasoning_content":"计算","role":"assistant"},"index":0}],"citations":["https://www.bilibili.com/opus/1094838394134986768"],"created":1794627743,"id":"02179462774254818d6e3628ce906dcdb201e7d3c05ff32970c48","model":"doubao-seed-2-1-pro-260628","object":"chat.completion.chunk","service_tier":"default","usage":null}
+
+data: {"choices":[{"delta":{"reasoning_content":"细则","role":"assistant"},"index":0}],"citations":["https://www.bilibili.com/opus/1094838394134986768"],"created":1794627743,"id":"02179462774254818d6e3628ce906dcdb201e7d3c05ff32970c48","model":"doubao-seed-2-1-pro-260628","object":"chat.completion.chunk","service_tier":"default","usage":null}
+
+data: {"choices":[{"delta":{"reasoning_content":"。","role":"assistant"},"index":0}],"citations":["https://www.bilibili.com/opus/1094838394134986768"],"created":1794627743,"id":"02179462774254818d6e3628ce906dcdb201e7d3c05ff32970c48","model":"doubao-seed-2-1-pro-260628","object":"chat.completion.chunk","service_tier":"default","usage":null}
+
+data: {"choices":[{"delta":{"reasoning_content":"","role":"assistant"},"index":0}],"citations":["https://www.bilibili.com/opus/1094838394134986768"],"created":1794627743,"id":"02179462774254818d6e3628ce906dcdb201e7d3c05ff32970c48","model":"doubao-seed-2-1-pro-260628","object":"chat.completion.chunk","service_tier":"default","usage":null}
+
+data: {"choices":[{"delta":{"reasoning_content":"目前","role":"assistant"},"index":0}],"citations":["https://www.bilibili.com/opus/1094838394134986768"],"created":1794627743,"id":"02179462774254818d6e3628ce906dcdb201e7d3c05ff32970c48","model":"doubao-seed-2-1-pro-260628","object":"chat.completion.chunk","service_tier":"default","usage":null}
+
+data: {"choices":[{"delta":{"reasoning_content":"我","role":"assistant"},"index":0}],"citations":["https://www.bilibili.com/opus/1094838394134986768"],"created":1794627743,"id":"02179462774254818d6e3628ce906dcdb201e7d3c05ff32970c48","model":"doubao-seed-2-1-pro-260628","object":"chat.completion.chunk","service_tier":"default","usage":null}
+
+data: {"choices":[{"delta":{"reasoning_content":"仅","role":"assistant"},"index":0}],"citations":["https://www.bilibili.com/opus/1094838394134986768"],"created":1794627743,"id":"02179462774254818d6e3628ce906dcdb201e7d3c05ff32970c48","model":"doubao-seed-2-1-pro-260628","object":"chat.completion.chunk","service_tier":"default","usage":null}
+
+data: {"choices":[{"delta":{"reasoning_content":"拿到","role":"assistant"},"index":0}],"citations":["https://www.bilibili.com/opus/1094838394134986768"],"created":1794627743,"id":"02179462774254818d6e3628ce906dcdb201e7d3c05ff32970c48","model":"doubao-seed-2-1-pro-260628","object":"chat.completion.chunk","service_tier":"default","usage":null}
+
+data: {"choices":[{"delta":{"reasoning_content":"的","role":"assistant"},"index":0}],"citations":["https://www.bilibili.com/opus/1094838394134986768"],"created":1794627743,"id":"02179462774254818d6e3628ce906dcdb201e7d3c05ff32970c48","model":"doubao-seed-2-1-pro-260628","object":"chat.completion.chunk","service_tier":"default","usage":null}
+
+data: {"choices":[{"delta":{"reasoning_content":"公开","role":"assistant"},"index":0}],"citations":["https://www.bilibili.com/opus/1094838394134986768"],"created":1794627743,"id":"02179462774254818d6e3628ce906dcdb201e7d3c05ff32970c48","model":"doubao-seed-2-1-pro-260628","object":"chat.completion.chunk","service_tier":"default","usage":null}
+
+data: {"choices":[{"delta":{"reasoning_content":"检索","role":"assistant"},"index":0}],"citations":["https://www.bilibili.com/opus/1094838394134986768"],"created":1794627743,"id":"02179462774254818d6e3628ce906dcdb201e7d3c05ff32970c48","model":"doubao-seed-2-1-pro-260628","object":"chat.completion.chunk","service_tier":"default","usage":null}
+
+data: {"choices":[{"delta":{"reasoning_content":"资料","role":"assistant"},"index":0}],"citations":["https://www.bilibili.com/opus/1094838394134986768"],"created":1794627743,"id":"02179462774254818d6e3628ce906dcdb201e7d3c05ff32970c48","model":"doubao-seed-2-1-pro-260628","object":"chat.completion.chunk","service_tier":"default","usage":null}
+
+data: {"choices":[{"delta":{"reasoning_content":"，","role":"assistant"},"index":0}],"citations":["https://www.bilibili.com/opus/1094838394134986768"],"created":1794627743,"id":"02179462774254818d6e3628ce906dcdb201e7d3c05ff32970c48","model":"doubao-seed-2-1-pro-260628","object":"chat.completion.chunk","service_tier":"default","usage":null}
+
+data: {"choices":[{"delta":{"reasoning_content":"仅","role":"assistant"},"index":0}],"citations":["https://www.bilibili.com/opus/1094838394134986768"],"created":1794627743,"id":"02179462774254818d6e3628ce906dcdb201e7d3c05ff32970c48","model":"doubao-seed-2-1-pro-260628","object":"chat.completion.chunk","service_tier":"default","usage":null}
+
+data: {"choices":[{"delta":{"reasoning_content":"明确","role":"assistant"},"index":0}],"citations":["https://www.bilibili.com/opus/1094838394134986768"],"created":1794627743,"id":"02179462774254818d6e3628ce906dcdb201e7d3c05ff32970c48","model":"doubao-seed-2-1-pro-260628","object":"chat.completion.chunk","service_tier":"default","usage":null}
+
+data: {"choices":[{"delta":{"reasoning_content":"了","role":"assistant"},"index":0}],"citations":["https://www.bilibili.com/opus/1094838394134986768"],"created":1794627743,"id":"02179462774254818d6e3628ce906dcdb201e7d3c05ff32970c48","model":"doubao-seed-2-1-pro-260628","object":"chat.completion.chunk","service_tier":"default","usage":null}
+
+data: {"choices":[{"delta":{"reasoning_content":"育儿","role":"assistant"},"index":0}],"citations":["https://www.bilibili.com/opus/1094838394134986768"],"created":1794627743,"id":"02179462774254818d6e3628ce906dcdb201e7d3c05ff32970c48","model":"doubao-seed-2-1-pro-260628","object":"chat.completion.chunk","service_tier":"default","usage":null}
+
+data: {"choices":[{"delta":{"reasoning_content":"补贴","role":"assistant"},"index":0}],"citations":["https://www.bilibili.com/opus/1094838394134986768"],"created":1794627743,"id":"02179462774254818d6e3628ce906dcdb201e7d3c05ff32970c48","model":"doubao-seed-2-1-pro-260628","object":"chat.completion.chunk","service_tier":"default","usage":null}
+
+data: {"choices":[{"delta":{"reasoning_content":"的","role":"assistant"},"index":0}],"citations":["https://www.bilibili.com/opus/1094838394134986768"],"created":1794627743,"id":"02179462774254818d6e3628ce906dcdb201e7d3c05ff32970c48","model":"doubao-seed-2-1-pro-260628","object":"chat.completion.chunk","service_tier":"default","usage":null}
+
+data: {"choices":[{"delta":{"reasoning_content":"相关","role":"assistant"},"index":0}],"citations":["https://www.bilibili.com/opus/1094838394134986768"],"created":1794627743,"id":"02179462774254818d6e3628ce906dcdb201e7d3c05ff32970c48","model":"doubao-seed-2-1-pro-260628","object":"chat.completion.chunk","service_tier":"default","usage":null}
+
+data: {"choices":[{"delta":{"reasoning_content":"核心","role":"assistant"},"index":0}],"citations":["https://www.bilibili.com/opus/1094838394134986768"],"created":1794627743,"id":"02179462774254818d6e3628ce906dcdb201e7d3c05ff32970c48","model":"doubao-seed-2-1-pro-260628","object":"chat.completion.chunk","service_tier":"default","usage":null}
+
+data: {"choices":[{"delta":{"reasoning_content":"规则","role":"assistant"},"index":0}],"citations":["https://www.bilibili.com/opus/1094838394134986768"],"created":1794627743,"id":"02179462774254818d6e3628ce906dcdb201e7d3c05ff32970c48","model":"doubao-seed-2-1-pro-260628","object":"chat.completion.chunk","service_tier":"default","usage":null}
+
+data: {"choices":[{"delta":{"reasoning_content":"，","role":"assistant"},"index":0}],"citations":["https://www.bilibili.com/opus/1094838394134986768"],"created":1794627743,"id":"02179462774254818d6e3628ce906dcdb201e7d3c05ff32970c48","model":"doubao-seed-2-1-pro-260628","object":"chat.completion.chunk","service_tier":"default","usage":null}
+
+data: {"choices":[{"delta":{"reasoning_content":"暂","role":"assistant"},"index":0}],"citations":["https://www.bilibili.com/opus/1094838394134986768"],"created":1794627743,"id":"02179462774254818d6e3628ce906dcdb201e7d3c05ff32970c48","model":"doubao-seed-2-1-pro-260628","object":"chat.completion.chunk","service_tier":"default","usage":null}
+
+data: {"choices":[{"delta":{"reasoning_content":"未","role":"assistant"},"index":0}],"citations":["https://www.bilibili.com/opus/1094838394134986768"],"created":1794627743,"id":"02179462774254818d6e3628ce906dcdb201e7d3c05ff32970c48","model":"doubao-seed-2-1-pro-260628","object":"chat.completion.chunk","service_tier":"default","usage":null}
+
+data: {"choices":[{"delta":{"reasoning_content":"披露","role":"assistant"},"index":0}],"citations":["https://www.bilibili.com/opus/1094838394134986768"],"created":1794627743,"id":"02179462774254818d6e3628ce906dcdb201e7d3c05ff32970c48","model":"doubao-seed-2-1-pro-260628","object":"chat.completion.chunk","service_tier":"default","usage":null}
+
+data: {"choices":[{"delta":{"reasoning_content":"更","role":"assistant"},"index":0}],"citations":["https://www.bilibili.com/opus/1094838394134986768"],"created":1794627743,"id":"02179462774254818d6e3628ce906dcdb201e7d3c05ff32970c48","model":"doubao-seed-2-1-pro-260628","object":"chat.completion.chunk","service_tier":"default","usage":null}
+
+data: {"choices":[{"delta":{"reasoning_content":"具体","role":"assistant"},"index":0}],"citations":["https://www.bilibili.com/opus/1094838394134986768"],"created":1794627743,"id":"02179462774254818d6e3628ce906dcdb201e7d3c05ff32970c48","model":"doubao-seed-2-1-pro-260628","object":"chat.completion.chunk","service_tier":"default","usage":null}
+
+data: {"choices":[{"delta":{"reasoning_content":"的","role":"assistant"},"index":0}],"citations":["https://www.bilibili.com/opus/1094838394134986768"],"created":1794627743,"id":"02179462774254818d6e3628ce906dcdb201e7d3c05ff32970c48","model":"doubao-seed-2-1-pro-260628","object":"chat.completion.chunk","service_tier":"default","usage":null}
+
+data: {"choices":[{"delta":{"reasoning_content":"折算","role":"assistant"},"index":0}],"citations":["https://www.bilibili.com/opus/1094838394134986768"],"created":1794627743,"id":"02179462774254818d6e3628ce906dcdb201e7d3c05ff32970c48","model":"doubao-seed-2-1-pro-260628","object":"chat.completion.chunk","service_tier":"default","usage":null}
+
+data: {"choices":[{"delta":{"reasoning_content":"计算","role":"assistant"},"index":0}],"citations":["https://www.bilibili.com/opus/1094838394134986768"],"created":1794627743,"id":"02179462774254818d6e3628ce906dcdb201e7d3c05ff32970c48","model":"doubao-seed-2-1-pro-260628","object":"chat.completion.chunk","service_tier":"default","usage":null}
+
+data: {"choices":[{"delta":{"reasoning_content":"细则","role":"assistant"},"index":0}],"citations":["https://www.bilibili.com/opus/1094838394134986768"],"created":1794627743,"id":"02179462774254818d6e3628ce906dcdb201e7d3c05ff32970c48","model":"doubao-seed-2-1-pro-260628","object":"chat.completion.chunk","service_tier":"default","usage":null}
+
+data: {"choices":[{"delta":{"reasoning_content":"。","role":"assistant"},"index":0}],"citations":["https://www.bilibili.com/opus/1094838394134986768"],"created":1794627743,"id":"02179462774254818d6e3628ce906dcdb201e7d3c05ff32970c48","model":"doubao-seed-2-1-pro-260628","object":"chat.completion.chunk","service_tier":"default","usage":null}
+
+data: {"choices":[{"delta":{"reasoning_content":"","role":"assistant"},"index":0}],"citations":["https://www.bilibili.com/opus/1094838394134986768"],"created":1794627743,"id":"02179462774254818d6e3628ce906dcdb201e7d3c05ff32970c48","model":"doubao-seed-2-1-pro-260628","object":"chat.completion.chunk","service_tier":"default","usage":null}
+
+data: {"choices":[{"delta":{"reasoning_content":"\n\n","role":"assistant"},"index":0}],"citations":["https://www.bilibili.com/opus/1094838394134986768"],"created":1794627743,"id":"02179462774254818d6e3628ce906dcdb201e7d3c05ff32970c48","model":"doubao-seed-2-1-pro-260628","object":"chat.completion.chunk","service_tier":"default","usage":null}
+
+data: {"choices":[{"delta":{"reasoning_content":"我","role":"assistant"},"index":0}],"citations":["https://www.bilibili.com/opus/1094838394134986768"],"created":1794627743,"id":"02179462774254818d6e3628ce906dcdb201e7d3c05ff32970c48","model":"doubao-seed-2-1-pro-260628","object":"chat.completion.chunk","service_tier":"default","usage":null}
+
+data: {"choices":[{"delta":{"reasoning_content":"已","role":"assistant"},"index":0}],"citations":["https://www.bilibili.com/opus/1094838394134986768"],"created":1794627743,"id":"02179462774254818d6e3628ce906dcdb201e7d3c05ff32970c48","model":"doubao-seed-2-1-pro-260628","object":"chat.completion.chunk","service_tier":"default","usage":null}
+
+data: {"choices":[{"delta":{"reasoning_content":"明确","role":"assistant"},"index":0}],"citations":["https://www.bilibili.com/opus/1094838394134986768"],"created":1794627743,"id":"02179462774254818d6e3628ce906dcdb201e7d3c05ff32970c48","model":"doubao-seed-2-1-pro-260628","object":"chat.completion.chunk","service_tier":"default","usage":null}
+
+data: {"choices":[{"delta":{"reasoning_content":"答复","role":"assistant"},"index":0}],"citations":["https://www.bilibili.com/opus/1094838394134986768"],"created":1794627743,"id":"02179462774254818d6e3628ce906dcdb201e7d3c05ff32970c48","model":"doubao-seed-2-1-pro-260628","object":"chat.completion.chunk","service_tier":"default","usage":null}
+
+data: {"choices":[{"delta":{"reasoning_content":"的","role":"assistant"},"index":0}],"citations":["https://www.bilibili.com/opus/1094838394134986768"],"created":1794627743,"id":"02179462774254818d6e3628ce906dcdb201e7d3c05ff32970c48","model":"doubao-seed-2-1-pro-260628","object":"chat.completion.chunk","service_tier":"default","usage":null}
+
+data: {"choices":[{"delta":{"reasoning_content":"相关","role":"assistant"},"index":0}],"citations":["https://www.bilibili.com/opus/1094838394134986768"],"created":1794627743,"id":"02179462774254818d6e3628ce906dcdb201e7d3c05ff32970c48","model":"doubao-seed-2-1-pro-260628","object":"chat.completion.chunk","service_tier":"default","usage":null}
+
+data: {"choices":[{"delta":{"reasoning_content":"核心","role":"assistant"},"index":0}],"citations":["https://www.bilibili.com/opus/1094838394134986768"],"created":1794627743,"id":"02179462774254818d6e3628ce906dcdb201e7d3c05ff32970c48","model":"doubao-seed-2-1-pro-260628","object":"chat.completion.chunk","service_tier":"default","usage":null}
+
+data: {"choices":[{"delta":{"reasoning_content":"规则","role":"assistant"},"index":0}],"citations":["https://www.bilibili.com/opus/1094838394134986768"],"created":1794627743,"id":"02179462774254818d6e3628ce906dcdb201e7d3c05ff32970c48","model":"doubao-seed-2-1-pro-260628","object":"chat.completion.chunk","service_tier":"default","usage":null}
+
+data: {"choices":[{"delta":{"reasoning_content":"，","role":"assistant"},"index":0}],"citations":["https://www.bilibili.com/opus/1094838394134986768"],"created":1794627743,"id":"02179462774254818d6e3628ce906dcdb201e7d3c05ff32970c48","model":"doubao-seed-2-1-pro-260628","object":"chat.completion.chunk","service_tier":"default","usage":null}
+
+data: {"choices":[{"delta":{"reasoning_content":"均","role":"assistant"},"index":0}],"citations":["https://www.bilibili.com/opus/1094838394134986768"],"created":1794627743,"id":"02179462774254818d6e3628ce906dcdb201e7d3c05ff32970c48","model":"doubao-seed-2-1-pro-260628","object":"chat.completion.chunk","service_tier":"default","usage":null}
+
+data: {"choices":[{"delta":{"reasoning_content":"严格","role":"assistant"},"index":0}],"citations":["https://www.bilibili.com/opus/1094838394134986768"],"created":1794627743,"id":"02179462774254818d6e3628ce906dcdb201e7d3c05ff32970c48","model":"doubao-seed-2-1-pro-260628","object":"chat.completion.chunk","service_tier":"default","usage":null}
+
+data: {"choices":[{"delta":{"reasoning_content":"依据","role":"assistant"},"index":0}],"citations":["https://www.bilibili.com/opus/1094838394134986768"],"created":1794627743,"id":"02179462774254818d6e3628ce906dcdb201e7d3c05ff32970c48","model":"doubao-seed-2-1-pro-260628","object":"chat.completion.chunk","service_tier":"default","usage":null}
+
+data: {"choices":[{"delta":{"reasoning_content":"给定","role":"assistant"},"index":0}],"citations":["https://www.bilibili.com/opus/1094838394134986768"],"created":1794627743,"id":"02179462774254818d6e3628ce906dcdb201e7d3c05ff32970c48","model":"doubao-seed-2-1-pro-260628","object":"chat.completion.chunk","service_tier":"default","usage":null}
+
+data: {"choices":[{"delta":{"reasoning_content":"的","role":"assistant"},"index":0}],"citations":["https://www.bilibili.com/opus/1094838394134986768"],"created":1794627743,"id":"02179462774254818d6e3628ce906dcdb201e7d3c05ff32970c48","model":"doubao-seed-2-1-pro-260628","object":"chat.completion.chunk","service_tier":"default","usage":null}
+
+data: {"choices":[{"delta":{"reasoning_content":"检索","role":"assistant"},"index":0}],"citations":["https://www.bilibili.com/opus/1094838394134986768"],"created":1794627743,"id":"02179462774254818d6e3628ce906dcdb201e7d3c05ff32970c48","model":"doubao-seed-2-1-pro-260628","object":"chat.completion.chunk","service_tier":"default","usage":null}
+
+data: {"choices":[{"delta":{"reasoning_content":"资料","role":"assistant"},"index":0}],"citations":["https://www.bilibili.com/opus/1094838394134986768"],"created":1794627743,"id":"02179462774254818d6e3628ce906dcdb201e7d3c05ff32970c48","model":"doubao-seed-2-1-pro-260628","object":"chat.completion.chunk","service_tier":"default","usage":null}
+
+data: {"choices":[{"delta":{"reasoning_content":"整理","role":"assistant"},"index":0}],"citations":["https://www.bilibili.com/opus/1094838394134986768"],"created":1794627743,"id":"02179462774254818d6e3628ce906dcdb201e7d3c05ff32970c48","model":"doubao-seed-2-1-pro-260628","object":"chat.completion.chunk","service_tier":"default","usage":null}
+
+data: {"choices":[{"delta":{"reasoning_content":"，","role":"assistant"},"index":0}],"citations":["https://www.bilibili.com/opus/1094838394134986768"],"created":1794627743,"id":"02179462774254818d6e3628ce906dcdb201e7d3c05ff32970c48","model":"doubao-seed-2-1-pro-260628","object":"chat.completion.chunk","service_tier":"default","usage":null}
+
+data: {"choices":[{"delta":{"reasoning_content":"未","role":"assistant"},"index":0}],"citations":["https://www.bilibili.com/opus/1094838394134986768"],"created":1794627743,"id":"02179462774254818d6e3628ce906dcdb201e7d3c05ff32970c48","model":"doubao-seed-2-1-pro-260628","object":"chat.completion.chunk","service_tier":"default","usage":null}
+
+data: {"choices":[{"delta":{"reasoning_content":"额外","role":"assistant"},"index":0}],"citations":["https://www.bilibili.com/opus/1094838394134986768"],"created":1794627743,"id":"02179462774254818d6e3628ce906dcdb201e7d3c05ff32970c48","model":"doubao-seed-2-1-pro-260628","object":"chat.completion.chunk","service_tier":"default","usage":null}
+
+data: {"choices":[{"delta":{"reasoning_content":"补充","role":"assistant"},"index":0}],"citations":["https://www.bilibili.com/opus/1094838394134986768"],"created":1794627743,"id":"02179462774254818d6e3628ce906dcdb201e7d3c05ff32970c48","model":"doubao-seed-2-1-pro-260628","object":"chat.completion.chunk","service_tier":"default","usage":null}
+
+data: {"choices":[{"delta":{"reasoning_content":"任何","role":"assistant"},"index":0}],"citations":["https://www.bilibili.com/opus/1094838394134986768"],"created":1794627743,"id":"02179462774254818d6e3628ce906dcdb201e7d3c05ff32970c48","model":"doubao-seed-2-1-pro-260628","object":"chat.completion.chunk","service_tier":"default","usage":null}
+
+data: {"choices":[{"delta":{"reasoning_content":"外部","role":"assistant"},"index":0}],"citations":["https://www.bilibili.com/opus/1094838394134986768"],"created":1794627743,"id":"02179462774254818d6e3628ce906dcdb201e7d3c05ff32970c48","model":"doubao-seed-2-1-pro-260628","object":"chat.completion.chunk","service_tier":"default","usage":null}
+
+data: {"choices":[{"delta":{"reasoning_content":"信息","role":"assistant"},"index":0}],"citations":["https://www.bilibili.com/opus/1094838394134986768"],"created":1794627743,"id":"02179462774254818d6e3628ce906dcdb201e7d3c05ff32970c48","model":"doubao-seed-2-1-pro-260628","object":"chat.completion.chunk","service_tier":"default","usage":null}
+
+data: {"choices":[{"delta":{"reasoning_content":"，","role":"assistant"},"index":0}],"citations":["https://www.bilibili.com/opus/1094838394134986768"],"created":1794627743,"id":"02179462774254818d6e3628ce906dcdb201e7d3c05ff32970c48","model":"doubao-seed-2-1-pro-260628","object":"chat.completion.chunk","service_tier":"default","usage":null}
+
+data: {"choices":[{"delta":{"reasoning_content":"折算","role":"assistant"},"index":0}],"citations":["https://www.bilibili.com/opus/1094838394134986768"],"created":1794627743,"id":"02179462774254818d6e3628ce906dcdb201e7d3c05ff32970c48","model":"doubao-seed-2-1-pro-260628","object":"chat.completion.chunk","service_tier":"default","usage":null}
+
+data: {"choices":[{"delta":{"reasoning_content":"细则","role":"assistant"},"index":0}],"citations":["https://www.bilibili.com/opus/1094838394134986768"],"created":1794627743,"id":"02179462774254818d6e3628ce906dcdb201e7d3c05ff32970c48","model":"doubao-seed-2-1-pro-260628","object":"chat.completion.chunk","service_tier":"default","usage":null}
+
+data: {"choices":[{"delta":{"reasoning_content":"暂","role":"assistant"},"index":0}],"citations":["https://www.bilibili.com/opus/1094838394134986768"],"created":1794627743,"id":"02179462774254818d6e3628ce906dcdb201e7d3c05ff32970c48","model":"doubao-seed-2-1-pro-260628","object":"chat.completion.chunk","service_tier":"default","usage":null}
+
+data: {"choices":[{"delta":{"reasoning_content":"未","role":"assistant"},"index":0}],"citations":["https://www.bilibili.com/opus/1094838394134986768"],"created":1794627743,"id":"02179462774254818d6e3628ce906dcdb201e7d3c05ff32970c48","model":"doubao-seed-2-1-pro-260628","object":"chat.completion.chunk","service_tier":"default","usage":null}
+
+data: {"choices":[{"delta":{"reasoning_content":"在","role":"assistant"},"index":0}],"citations":["https://www.bilibili.com/opus/1094838394134986768"],"created":1794627743,"id":"02179462774254818d6e3628ce906dcdb201e7d3c05ff32970c48","model":"doubao-seed-2-1-pro-260628","object":"chat.completion.chunk","service_tier":"default","usage":null}
+
+data: {"choices":[{"delta":{"reasoning_content":"公开","role":"assistant"},"index":0}],"citations":["https://www.bilibili.com/opus/1094838394134986768"],"created":1794627743,"id":"02179462774254818d6e3628ce906dcdb201e7d3c05ff32970c48","model":"doubao-seed-2-1-pro-260628","object":"chat.completion.chunk","service_tier":"default","usage":null}
+
+data: {"choices":[{"delta":{"reasoning_content":"检索","role":"assistant"},"index":0}],"citations":["https://www.bilibili.com/opus/1094838394134986768"],"created":1794627743,"id":"02179462774254818d6e3628ce906dcdb201e7d3c05ff32970c48","model":"doubao-seed-2-1-pro-260628","object":"chat.completion.chunk","service_tier":"default","usage":null}
+
+data: {"choices":[{"delta":{"reasoning_content":"内容","role":"assistant"},"index":0}],"citations":["https://www.bilibili.com/opus/1094838394134986768"],"created":1794627743,"id":"02179462774254818d6e3628ce906dcdb201e7d3c05ff32970c48","model":"doubao-seed-2-1-pro-260628","object":"chat.completion.chunk","service_tier":"default","usage":null}
+
+data: {"choices":[{"delta":{"reasoning_content":"中","role":"assistant"},"index":0}],"citations":["https://www.bilibili.com/opus/1094838394134986768"],"created":1794627743,"id":"02179462774254818d6e3628ce906dcdb201e7d3c05ff32970c48","model":"doubao-seed-2-1-pro-260628","object":"chat.completion.chunk","service_tier":"default","usage":null}
+
+data: {"choices":[{"delta":{"reasoning_content":"披露","role":"assistant"},"index":0}],"citations":["https://www.bilibili.com/opus/1094838394134986768"],"created":1794627743,"id":"02179462774254818d6e3628ce906dcdb201e7d3c05ff32970c48","model":"doubao-seed-2-1-pro-260628","object":"chat.completion.chunk","service_tier":"default","usage":null}
+
+data: {"choices":[{"delta":{"reasoning_content":"。","role":"assistant"},"index":0}],"citations":["https://www.bilibili.com/opus/1094838394134986768"],"created":1794627743,"id":"02179462774254818d6e3628ce906dcdb201e7d3c05ff32970c48","model":"doubao-seed-2-1-pro-260628","object":"chat.completion.chunk","service_tier":"default","usage":null}
+
+data: {"choices":[{"delta":{"reasoning_content":"","role":"assistant"},"index":0}],"citations":["https://www.bilibili.com/opus/1094838394134986768"],"created":1794627743,"id":"02179462774254818d6e3628ce906dcdb201e7d3c05ff32970c48","model":"doubao-seed-2-1-pro-260628","object":"chat.completion.chunk","service_tier":"default","usage":null}
+
+data: {"choices":[{"delta":{"reasoning_content":"我","role":"assistant"},"index":0}],"citations":["https://www.bilibili.com/opus/1094838394134986768"],"created":1794627743,"id":"02179462774254818d6e3628ce906dcdb201e7d3c05ff32970c48","model":"doubao-seed-2-1-pro-260628","object":"chat.completion.chunk","service_tier":"default","usage":null}
+
+data: {"choices":[{"delta":{"reasoning_content":"已","role":"assistant"},"index":0}],"citations":["https://www.bilibili.com/opus/1094838394134986768"],"created":1794627743,"id":"02179462774254818d6e3628ce906dcdb201e7d3c05ff32970c48","model":"doubao-seed-2-1-pro-260628","object":"chat.completion.chunk","service_tier":"default","usage":null}
+
+data: {"choices":[{"delta":{"reasoning_content":"确认","role":"assistant"},"index":0}],"citations":["https://www.bilibili.com/opus/1094838394134986768"],"created":1794627743,"id":"02179462774254818d6e3628ce906dcdb201e7d3c05ff32970c48","model":"doubao-seed-2-1-pro-260628","object":"chat.completion.chunk","service_tier":"default","usage":null}
+
+data: {"choices":[{"delta":{"reasoning_content":"所有","role":"assistant"},"index":0}],"citations":["https://www.bilibili.com/opus/1094838394134986768"],"created":1794627743,"id":"02179462774254818d6e3628ce906dcdb201e7d3c05ff32970c48","model":"doubao-seed-2-1-pro-260628","object":"chat.completion.chunk","service_tier":"default","usage":null}
+
+data: {"choices":[{"delta":{"reasoning_content":"答复","role":"assistant"},"index":0}],"citations":["https://www.bilibili.com/opus/1094838394134986768"],"created":1794627743,"id":"02179462774254818d6e3628ce906dcdb201e7d3c05ff32970c48","model":"doubao-seed-2-1-pro-260628","object":"chat.completion.chunk","service_tier":"default","usage":null}
+
+data: {"choices":[{"delta":{"reasoning_content":"内容","role":"assistant"},"index":0}],"citations":["https://www.bilibili.com/opus/1094838394134986768"],"created":1794627743,"id":"02179462774254818d6e3628ce906dcdb201e7d3c05ff32970c48","model":"doubao-seed-2-1-pro-260628","object":"chat.completion.chunk","service_tier":"default","usage":null}
+
+data: {"choices":[{"delta":{"reasoning_content":"均","role":"assistant"},"index":0}],"citations":["https://www.bilibili.com/opus/1094838394134986768"],"created":1794627743,"id":"02179462774254818d6e3628ce906dcdb201e7d3c05ff32970c48","model":"doubao-seed-2-1-pro-260628","object":"chat.completion.chunk","service_tier":"default","usage":null}
+
+data: {"choices":[{"delta":{"reasoning_content":"严格","role":"assistant"},"index":0}],"citations":["https://www.bilibili.com/opus/1094838394134986768"],"created":1794627743,"id":"02179462774254818d6e3628ce906dcdb201e7d3c05ff32970c48","model":"doubao-seed-2-1-pro-260628","object":"chat.completion.chunk","service_tier":"default","usage":null}
+
+data: {"choices":[{"delta":{"reasoning_content":"锚","role":"assistant"},"index":0}],"citations":["https://www.bilibili.com/opus/1094838394134986768"],"created":1794627743,"id":"02179462774254818d6e3628ce906dcdb201e7d3c05ff32970c48","model":"doubao-seed-2-1-pro-260628","object":"chat.completion.chunk","service_tier":"default","usage":null}
+
+data: {"choices":[{"delta":{"reasoning_content":"定","role":"assistant"},"index":0}],"citations":["https://www.bilibili.com/opus/1094838394134986768"],"created":1794627743,"id":"02179462774254818d6e3628ce906dcdb201e7d3c05ff32970c48","model":"doubao-seed-2-1-pro-260628","object":"chat.completion.chunk","service_tier":"default","usage":null}
+
+data: {"choices":[{"delta":{"reasoning_content":"给定","role":"assistant"},"index":0}],"citations":["https://www.bilibili.com/opus/1094838394134986768"],"created":1794627743,"id":"02179462774254818d6e3628ce906dcdb201e7d3c05ff32970c48","model":"doubao-seed-2-1-pro-260628","object":"chat.completion.chunk","service_tier":"default","usage":null}
+
+data: {"choices":[{"delta":{"reasoning_content":"检索","role":"assistant"},"index":0}],"citations":["https://www.bilibili.com/opus/1094838394134986768"],"created":1794627743,"id":"02179462774254818d6e3628ce906dcdb201e7d3c05ff32970c48","model":"doubao-seed-2-1-pro-260628","object":"chat.completion.chunk","service_tier":"default","usage":null}
+
+data: {"choices":[{"delta":{"reasoning_content":"资料","role":"assistant"},"index":0}],"citations":["https://www.bilibili.com/opus/1094838394134986768"],"created":1794627743,"id":"02179462774254818d6e3628ce906dcdb201e7d3c05ff32970c48","model":"doubao-seed-2-1-pro-260628","object":"chat.completion.chunk","service_tier":"default","usage":null}
+
+data: {"choices":[{"delta":{"reasoning_content":"，","role":"assistant"},"index":0}],"citations":["https://www.bilibili.com/opus/1094838394134986768"],"created":1794627743,"id":"02179462774254818d6e3628ce906dcdb201e7d3c05ff32970c48","model":"doubao-seed-2-1-pro-260628","object":"chat.completion.chunk","service_tier":"default","usage":null}
+
+data: {"choices":[{"delta":{"reasoning_content":"未","role":"assistant"},"index":0}],"citations":["https://www.bilibili.com/opus/1094838394134986768"],"created":1794627743,"id":"02179462774254818d6e3628ce906dcdb201e7d3c05ff32970c48","model":"doubao-seed-2-1-pro-260628","object":"chat.completion.chunk","service_tier":"default","usage":null}
+
+data: {"choices":[{"delta":{"reasoning_content":"添加","role":"assistant"},"index":0}],"citations":["https://www.bilibili.com/opus/1094838394134986768"],"created":1794627743,"id":"02179462774254818d6e3628ce906dcdb201e7d3c05ff32970c48","model":"doubao-seed-2-1-pro-260628","object":"chat.completion.chunk","service_tier":"default","usage":null}
+
+data: {"choices":[{"delta":{"reasoning_content":"任何","role":"assistant"},"index":0}],"citations":["https://www.bilibili.com/opus/1094838394134986768"],"created":1794627743,"id":"02179462774254818d6e3628ce906dcdb201e7d3c05ff32970c48","model":"doubao-seed-2-1-pro-260628","object":"chat.completion.chunk","service_tier":"default","usage":null}
+
+data: {"choices":[{"delta":{"reasoning_content":"外部","role":"assistant"},"index":0}],"citations":["https://www.bilibili.com/opus/1094838394134986768"],"created":1794627743,"id":"02179462774254818d6e3628ce906dcdb201e7d3c05ff32970c48","model":"doubao-seed-2-1-pro-260628","object":"chat.completion.chunk","service_tier":"default","usage":null}
+
+data: {"choices":[{"delta":{"reasoning_content":"编造","role":"assistant"},"index":0}],"citations":["https://www.bilibili.com/opus/1094838394134986768"],"created":1794627743,"id":"02179462774254818d6e3628ce906dcdb201e7d3c05ff32970c48","model":"doubao-seed-2-1-pro-260628","object":"chat.completion.chunk","service_tier":"default","usage":null}
+
+data: {"choices":[{"delta":{"reasoning_content":"信息","role":"assistant"},"index":0}],"citations":["https://www.bilibili.com/opus/1094838394134986768"],"created":1794627743,"id":"02179462774254818d6e3628ce906dcdb201e7d3c05ff32970c48","model":"doubao-seed-2-1-pro-260628","object":"chat.completion.chunk","service_tier":"default","usage":null}
+
+data: {"choices":[{"delta":{"reasoning_content":"，","role":"assistant"},"index":0}],"citations":["https://www.bilibili.com/opus/1094838394134986768"],"created":1794627743,"id":"02179462774254818d6e3628ce906dcdb201e7d3c05ff32970c48","model":"doubao-seed-2-1-pro-260628","object":"chat.completion.chunk","service_tier":"default","usage":null}
+
+data: {"choices":[{"delta":{"reasoning_content":"同时","role":"assistant"},"index":0}],"citations":["https://www.bilibili.com/opus/1094838394134986768"],"created":1794627743,"id":"02179462774254818d6e3628ce906dcdb201e7d3c05ff32970c48","model":"doubao-seed-2-1-pro-260628","object":"chat.completion.chunk","service_tier":"default","usage":null}
+
+data: {"choices":[{"delta":{"reasoning_content":"核实","role":"assistant"},"index":0}],"citations":["https://www.bilibili.com/opus/1094838394134986768"],"created":1794627743,"id":"02179462774254818d6e3628ce906dcdb201e7d3c05ff32970c48","model":"doubao-seed-2-1-pro-260628","object":"chat.completion.chunk","service_tier":"default","usage":null}
+
+data: {"choices":[{"delta":{"reasoning_content":"了","role":"assistant"},"index":0}],"citations":["https://www.bilibili.com/opus/1094838394134986768"],"created":1794627743,"id":"02179462774254818d6e3628ce906dcdb201e7d3c05ff32970c48","model":"doubao-seed-2-1-pro-260628","object":"chat.completion.chunk","service_tier":"default","usage":null}
+
+data: {"choices":[{"delta":{"reasoning_content":"相关","role":"assistant"},"index":0}],"citations":["https://www.bilibili.com/opus/1094838394134986768"],"created":1794627743,"id":"02179462774254818d6e3628ce906dcdb201e7d3c05ff32970c48","model":"doubao-seed-2-1-pro-260628","object":"chat.completion.chunk","service_tier":"default","usage":null}
+
+data: {"choices":[{"delta":{"reasoning_content":"政策","role":"assistant"},"index":0}],"citations":["https://www.bilibili.com/opus/1094838394134986768"],"created":1794627743,"id":"02179462774254818d6e3628ce906dcdb201e7d3c05ff32970c48","model":"doubao-seed-2-1-pro-260628","object":"chat.completion.chunk","service_tier":"default","usage":null}
+
+data: {"choices":[{"delta":{"reasoning_content":"表述","role":"assistant"},"index":0}],"citations":["https://www.bilibili.com/opus/1094838394134986768"],"created":1794627743,"id":"02179462774254818d6e3628ce906dcdb201e7d3c05ff32970c48","model":"doubao-seed-2-1-pro-260628","object":"chat.completion.chunk","service_tier":"default","usage":null}
+
+data: {"choices":[{"delta":{"reasoning_content":"的","role":"assistant"},"index":0}],"citations":["https://www.bilibili.com/opus/1094838394134986768"],"created":1794627743,"id":"02179462774254818d6e3628ce906dcdb201e7d3c05ff32970c48","model":"doubao-seed-2-1-pro-260628","object":"chat.completion.chunk","service_tier":"default","usage":null}
+
+data: {"choices":[{"delta":{"reasoning_content":"引用","role":"assistant"},"index":0}],"citations":["https://www.bilibili.com/opus/1094838394134986768"],"created":1794627743,"id":"02179462774254818d6e3628ce906dcdb201e7d3c05ff32970c48","model":"doubao-seed-2-1-pro-260628","object":"chat.completion.chunk","service_tier":"default","usage":null}
+
+data: {"choices":[{"delta":{"reasoning_content":"标注","role":"assistant"},"index":0}],"citations":["https://www.bilibili.com/opus/1094838394134986768"],"created":1794627743,"id":"02179462774254818d6e3628ce906dcdb201e7d3c05ff32970c48","model":"doubao-seed-2-1-pro-260628","object":"chat.completion.chunk","service_tier":"default","usage":null}
+
+data: {"choices":[{"delta":{"reasoning_content":"均","role":"assistant"},"index":0}],"citations":["https://www.bilibili.com/opus/1094838394134986768"],"created":1794627743,"id":"02179462774254818d6e3628ce906dcdb201e7d3c05ff32970c48","model":"doubao-seed-2-1-pro-260628","object":"chat.completion.chunk","service_tier":"default","usage":null}
+
+data: {"choices":[{"delta":{"reasoning_content":"合规","role":"assistant"},"index":0}],"citations":["https://www.bilibili.com/opus/1094838394134986768"],"created":1794627743,"id":"02179462774254818d6e3628ce906dcdb201e7d3c05ff32970c48","model":"doubao-seed-2-1-pro-260628","object":"chat.completion.chunk","service_tier":"default","usage":null}
+
+data: {"choices":[{"delta":{"reasoning_content":"，","role":"assistant"},"index":0}],"citations":["https://www.bilibili.com/opus/1094838394134986768"],"created":1794627743,"id":"02179462774254818d6e3628ce906dcdb201e7d3c05ff32970c48","model":"doubao-seed-2-1-pro-260628","object":"chat.completion.chunk","service_tier":"default","usage":null}
+
+data: {"choices":[{"delta":{"reasoning_content":"所有","role":"assistant"},"index":0}],"citations":["https://www.bilibili.com/opus/1094838394134986768"],"created":1794627743,"id":"02179462774254818d6e3628ce906dcdb201e7d3c05ff32970c48","model":"doubao-seed-2-1-pro-260628","object":"chat.completion.chunk","service_tier":"default","usage":null}
+
+data: {"choices":[{"delta":{"reasoning_content":"内容","role":"assistant"},"index":0}],"citations":["https://www.bilibili.com/opus/1094838394134986768"],"created":1794627743,"id":"02179462774254818d6e3628ce906dcdb201e7d3c05ff32970c48","model":"doubao-seed-2-1-pro-260628","object":"chat.completion.chunk","service_tier":"default","usage":null}
+
+data: {"choices":[{"delta":{"reasoning_content":"均","role":"assistant"},"index":0}],"citations":["https://www.bilibili.com/opus/1094838394134986768"],"created":1794627743,"id":"02179462774254818d6e3628ce906dcdb201e7d3c05ff32970c48","model":"doubao-seed-2-1-pro-260628","object":"chat.completion.chunk","service_tier":"default","usage":null}
+
+data: {"choices":[{"delta":{"reasoning_content":"符合","role":"assistant"},"index":0}],"citations":["https://www.bilibili.com/opus/1094838394134986768"],"created":1794627743,"id":"02179462774254818d6e3628ce906dcdb201e7d3c05ff32970c48","model":"doubao-seed-2-1-pro-260628","object":"chat.completion.chunk","service_tier":"default","usage":null}
+
+data: {"choices":[{"delta":{"reasoning_content":"要求","role":"assistant"},"index":0}],"citations":["https://www.bilibili.com/opus/1094838394134986768"],"created":1794627743,"id":"02179462774254818d6e3628ce906dcdb201e7d3c05ff32970c48","model":"doubao-seed-2-1-pro-260628","object":"chat.completion.chunk","service_tier":"default","usage":null}
+
+data: {"choices":[{"delta":{"reasoning_content":"。","role":"assistant"},"index":0}],"citations":["https://www.bilibili.com/opus/1094838394134986768"],"created":1794627743,"id":"02179462774254818d6e3628ce906dcdb201e7d3c05ff32970c48","model":"doubao-seed-2-1-pro-260628","object":"chat.completion.chunk","service_tier":"default","usage":null}
+
+data: {"choices":[{"delta":{"reasoning_content":"","role":"assistant"},"index":0}],"citations":["https://www.bilibili.com/opus/1094838394134986768"],"created":1794627743,"id":"02179462774254818d6e3628ce906dcdb201e7d3c05ff32970c48","model":"doubao-seed-2-1-pro-260628","object":"chat.completion.chunk","service_tier":"default","usage":null}
+
+data: {"choices":[{"delta":{"reasoning_content":"\n\n","role":"assistant"},"index":0}],"citations":["https://www.bilibili.com/opus/1094838394134986768"],"created":1794627743,"id":"02179462774254818d6e3628ce906dcdb201e7d3c05ff32970c48","model":"doubao-seed-2-1-pro-260628","object":"chat.completion.chunk","service_tier":"default","usage":null}
+
+data: {"choices":[{"delta":{"reasoning_content":"经","role":"assistant"},"index":0}],"citations":["https://www.bilibili.com/opus/1094838394134986768"],"created":1794627743,"id":"02179462774254818d6e3628ce906dcdb201e7d3c05ff32970c48","model":"doubao-seed-2-1-pro-260628","object":"chat.completion.chunk","service_tier":"default","usage":null}
+
+data: {"choices":[{"delta":{"reasoning_content":"核对","role":"assistant"},"index":0}],"citations":["https://www.bilibili.com/opus/1094838394134986768"],"created":1794627743,"id":"02179462774254818d6e3628ce906dcdb201e7d3c05ff32970c48","model":"doubao-seed-2-1-pro-260628","object":"chat.completion.chunk","service_tier":"default","usage":null}
+
+data: {"choices":[{"delta":{"reasoning_content":"，","role":"assistant"},"index":0}],"citations":["https://www.bilibili.com/opus/1094838394134986768"],"created":1794627743,"id":"02179462774254818d6e3628ce906dcdb201e7d3c05ff32970c48","model":"doubao-seed-2-1-pro-260628","object":"chat.completion.chunk","service_tier":"default","usage":null}
+
+data: {"choices":[{"delta":{"reasoning_content":"本次","role":"assistant"},"index":0}],"citations":["https://www.bilibili.com/opus/1094838394134986768"],"created":1794627743,"id":"02179462774254818d6e3628ce906dcdb201e7d3c05ff32970c48","model":"doubao-seed-2-1-pro-260628","object":"chat.completion.chunk","service_tier":"default","usage":null}
+
+data: {"choices":[{"delta":{"reasoning_content":"检索","role":"assistant"},"index":0}],"citations":["https://www.bilibili.com/opus/1094838394134986768"],"created":1794627743,"id":"02179462774254818d6e3628ce906dcdb201e7d3c05ff32970c48","model":"doubao-seed-2-1-pro-260628","object":"chat.completion.chunk","service_tier":"default","usage":null}
+
+data: {"choices":[{"delta":{"reasoning_content":"内容","role":"assistant"},"index":0}],"citations":["https://www.bilibili.com/opus/1094838394134986768"],"created":1794627743,"id":"02179462774254818d6e3628ce906dcdb201e7d3c05ff32970c48","model":"doubao-seed-2-1-pro-260628","object":"chat.completion.chunk","service_tier":"default","usage":null}
+
+data: {"choices":[{"delta":{"reasoning_content":"对应的","role":"assistant"},"index":0}],"citations":["https://www.bilibili.com/opus/1094838394134986768"],"created":1794627743,"id":"02179462774254818d6e3628ce906dcdb201e7d3c05ff32970c48","model":"doubao-seed-2-1-pro-260628","object":"chat.completion.chunk","service_tier":"default","usage":null}
+
+data: {"choices":[{"delta":{"reasoning_content":"是","role":"assistant"},"index":0}],"citations":["https://www.bilibili.com/opus/1094838394134986768"],"created":1794627743,"id":"02179462774254818d6e3628ce906dcdb201e7d3c05ff32970c48","model":"doubao-seed-2-1-pro-260628","object":"chat.completion.chunk","service_tier":"default","usage":null}
+
+data: {"choices":[{"delta":{"reasoning_content":"方案","role":"assistant"},"index":0}],"citations":["https://www.bilibili.com/opus/1094838394134986768"],"created":1794627743,"id":"02179462774254818d6e3628ce906dcdb201e7d3c05ff32970c48","model":"doubao-seed-2-1-pro-260628","object":"chat.completion.chunk","service_tier":"default","usage":null}
+
+data: {"choices":[{"delta":{"reasoning_content":"公布","role":"assistant"},"index":0}],"citations":["https://www.bilibili.com/opus/1094838394134986768"],"created":1794627743,"id":"02179462774254818d6e3628ce906dcdb201e7d3c05ff32970c48","model":"doubao-seed-2-1-pro-260628","object":"chat.completion.chunk","service_tier":"default","usage":null}
+
+data: {"choices":[{"delta":{"reasoning_content":"版本","role":"assistant"},"index":0}],"citations":["https://www.bilibili.com/opus/1094838394134986768"],"created":1794627743,"id":"02179462774254818d6e3628ce906dcdb201e7d3c05ff32970c48","model":"doubao-seed-2-1-pro-260628","object":"chat.completion.chunk","service_tier":"default","usage":null}
+
+data: {"choices":[{"delta":{"reasoning_content":"，","role":"assistant"},"index":0}],"citations":["https://www.bilibili.com/opus/1094838394134986768"],"created":1794627743,"id":"02179462774254818d6e3628ce906dcdb201e7d3c05ff32970c48","model":"doubao-seed-2-1-pro-260628","object":"chat.completion.chunk","service_tier":"default","usage":null}
+
+data: {"choices":[{"delta":{"reasoning_content":"现有","role":"assistant"},"index":0}],"citations":["https://www.bilibili.com/opus/1094838394134986768"],"created":1794627743,"id":"02179462774254818d6e3628ce906dcdb201e7d3c05ff32970c48","model":"doubao-seed-2-1-pro-260628","object":"chat.completion.chunk","service_tier":"default","usage":null}
+
+data: {"choices":[{"delta":{"reasoning_content":"公开","role":"assistant"},"index":0}],"citations":["https://www.bilibili.com/opus/1094838394134986768"],"created":1794627743,"id":"02179462774254818d6e3628ce906dcdb201e7d3c05ff32970c48","model":"doubao-seed-2-1-pro-260628","object":"chat.completion.chunk","service_tier":"default","usage":null}
+
+data: {"choices":[{"delta":{"reasoning_content":"资料","role":"assistant"},"index":0}],"citations":["https://www.bilibili.com/opus/1094838394134986768"],"created":1794627743,"id":"02179462774254818d6e3628ce906dcdb201e7d3c05ff32970c48","model":"doubao-seed-2-1-pro-260628","object":"chat.completion.chunk","service_tier":"default","usage":null}
+
+data: {"choices":[{"delta":{"reasoning_content":"暂","role":"assistant"},"index":0}],"citations":["https://www.bilibili.com/opus/1094838394134986768"],"created":1794627743,"id":"02179462774254818d6e3628ce906dcdb201e7d3c05ff32970c48","model":"doubao-seed-2-1-pro-260628","object":"chat.completion.chunk","service_tier":"default","usage":null}
+
+data: {"choices":[{"delta":{"reasoning_content":"未","role":"assistant"},"index":0}],"citations":["https://www.bilibili.com/opus/1094838394134986768"],"created":1794627743,"id":"02179462774254818d6e3628ce906dcdb201e7d3c05ff32970c48","model":"doubao-seed-2-1-pro-260628","object":"chat.completion.chunk","service_tier":"default","usage":null}
+
+data: {"choices":[{"delta":{"reasoning_content":"披露","role":"assistant"},"index":0}],"citations":["https://www.bilibili.com/opus/1094838394134986768"],"created":1794627743,"id":"02179462774254818d6e3628ce906dcdb201e7d3c05ff32970c48","model":"doubao-seed-2-1-pro-260628","object":"chat.completion.chunk","service_tier":"default","usage":null}
+
+data: {"choices":[{"delta":{"reasoning_content":"具体","role":"assistant"},"index":0}],"citations":["https://www.bilibili.com/opus/1094838394134986768"],"created":1794627743,"id":"02179462774254818d6e3628ce906dcdb201e7d3c05ff32970c48","model":"doubao-seed-2-1-pro-260628","object":"chat.completion.chunk","service_tier":"default","usage":null}
+
+data: {"choices":[{"delta":{"reasoning_content":"折算","role":"assistant"},"index":0}],"citations":["https://www.bilibili.com/opus/1094838394134986768"],"created":1794627743,"id":"02179462774254818d6e3628ce906dcdb201e7d3c05ff32970c48","model":"doubao-seed-2-1-pro-260628","object":"chat.completion.chunk","service_tier":"default","usage":null}
+
+data: {"choices":[{"delta":{"reasoning_content":"计算","role":"assistant"},"index":0}],"citations":["https://www.bilibili.com/opus/1094838394134986768"],"created":1794627743,"id":"02179462774254818d6e3628ce906dcdb201e7d3c05ff32970c48","model":"doubao-seed-2-1-pro-260628","object":"chat.completion.chunk","service_tier":"default","usage":null}
+
+data: {"choices":[{"delta":{"reasoning_content":"规则","role":"assistant"},"index":0}],"citations":["https://www.bilibili.com/opus/1094838394134986768"],"created":1794627743,"id":"02179462774254818d6e3628ce906dcdb201e7d3c05ff32970c48","model":"doubao-seed-2-1-pro-260628","object":"chat.completion.chunk","service_tier":"default","usage":null}
+
+data: {"choices":[{"delta":{"reasoning_content":"，","role":"assistant"},"index":0}],"citations":["https://www.bilibili.com/opus/1094838394134986768"],"created":1794627743,"id":"02179462774254818d6e3628ce906dcdb201e7d3c05ff32970c48","model":"doubao-seed-2-1-pro-260628","object":"chat.completion.chunk","service_tier":"default","usage":null}
+
+data: {"choices":[{"delta":{"reasoning_content":"答复","role":"assistant"},"index":0}],"citations":["https://www.bilibili.com/opus/1094838394134986768"],"created":1794627743,"id":"02179462774254818d6e3628ce906dcdb201e7d3c05ff32970c48","model":"doubao-seed-2-1-pro-260628","object":"chat.completion.chunk","service_tier":"default","usage":null}
+
+data: {"choices":[{"delta":{"reasoning_content":"时","role":"assistant"},"index":0}],"citations":["https://www.bilibili.com/opus/1094838394134986768"],"created":1794627743,"id":"02179462774254818d6e3628ce906dcdb201e7d3c05ff32970c48","model":"doubao-seed-2-1-pro-260628","object":"chat.completion.chunk","service_tier":"default","usage":null}
+
+data: {"choices":[{"delta":{"reasoning_content":"不得","role":"assistant"},"index":0}],"citations":["https://www.bilibili.com/opus/1094838394134986768"],"created":1794627743,"id":"02179462774254818d6e3628ce906dcdb201e7d3c05ff32970c48","model":"doubao-seed-2-1-pro-260628","object":"chat.completion.chunk","service_tier":"default","usage":null}
+
+data: {"choices":[{"delta":{"reasoning_content":"自行","role":"assistant"},"index":0}],"citations":["https://www.bilibili.com/opus/1094838394134986768"],"created":1794627743,"id":"02179462774254818d6e3628ce906dcdb201e7d3c05ff32970c48","model":"doubao-seed-2-1-pro-260628","object":"chat.completion.chunk","service_tier":"default","usage":null}
+
+data: {"choices":[{"delta":{"reasoning_content":"补充","role":"assistant"},"index":0}],"citations":["https://www.bilibili.com/opus/1094838394134986768"],"created":1794627743,"id":"02179462774254818d6e3628ce906dcdb201e7d3c05ff32970c48","model":"doubao-seed-2-1-pro-260628","object":"chat.completion.chunk","service_tier":"default","usage":null}
+
+data: {"choices":[{"delta":{"reasoning_content":"。","role":"assistant"},"index":0}],"citations":["https://www.bilibili.com/opus/1094838394134986768"],"created":1794627743,"id":"02179462774254818d6e3628ce906dcdb201e7d3c05ff32970c48","model":"doubao-seed-2-1-pro-260628","object":"chat.completion.chunk","service_tier":"default","usage":null}
+
+data: {"choices":[{"delta":{"reasoning_content":"","role":"assistant"},"index":0}],"citations":["https://www.bilibili.com/opus/1094838394134986768"],"created":1794627743,"id":"02179462774254818d6e3628ce906dcdb201e7d3c05ff32970c48","model":"doubao-seed-2-1-pro-260628","object":"chat.completion.chunk","service_tier":"default","usage":null}
+
+data: {"choices":[{"delta":{"encrypted_content":"djEJOqeDt8Ry+8jWWnquPo8HJPdUS3xFwTI+sPdjl4UMfun1/FBLCcCVqOaUHVoZshZdVIvTPXKdalmCFiiftRHFRRzml8S6Ilg5YUmEqB6VPuqrENmymmq7nITuBAR15IOvpFum/SJFlWJ/aGxqwAoMxZTHI/cqY7gLkQgRsNIGqijFSDRGVyA00l1nHsi/5SgaS89OOYbMDz99HVFwWYSoBrTewsyiQJoRmR+XTCbrqofGM+lRZaN32oHaWlLtEGeQChvaEFA9J49rTpQV1A3RzB1mRtOrlbGgngIi/NbwJEFSJUT3ysIJ9TyZchd5sqRxuNtKXSxhZ0cimM9Up6qjgTs6aLswMtLP/n9TXkt6Jk40E5So2cpOn5J8rbaxF6cJsrJ6sMugi1vbdII5l6h/XH0RQSHgHTnjsAJvUF0T3653JqpkZJ3qnmdNHH9aBRFt5D/B1+F3CDGmeQCTcX7/LMk9hnZt68enOaXhqGtWT2lbnvFvmvFQkgAp/ZjQbrlb37d34P9+ar0jNzM9sif8XmaGXms00pZgwYbkZR9YkybEVpQQqo7IH5x6Lfy4zIqqzndtVPaTHeOT4BSV89eLZwjtQH+4VGLBwNViCJCLtwBfke8lqH0Rrl0hO7zL6Q0UaZ+gyXGoAZptSpZNWl8DDa4QM2ny0YuL5gpn60rkSlKBRy9xfBo8ZatAARcQdGoe5u6k/32PW1L1HAJfdNBABpb5oEPH472KoTBtB3UOSHzHy3ZTG/uHYc4yP4Z3mAF9C9hVzf48IqP/Z8FcbiPM81Mk+yLoYOAjdefZOxTIll8DqjmVpgqzOkMjLDAgyD6iSnvGN3vZfwFzBQfDXb/TNzYeu73zWzUnu6OqkdGkqb3+nd7Uc8Q10QjKfBztNQOp66zs7IreFs7kuPxBWfbz4aI5kumgU829dbFoiffDx16vlDKMFQQW2p1cijg3ZbhxlJyzy083Qdr5RYJ+n28FiV0scjTiBJdd6LJQtrhEz/gphH53+yZbvib9pZL634OkrW4ha0Xv5aAAi/wEAsJENxaxbWnl9+bb9DwHa6B4T1BZ6kdrGZbA5AdHVNJVdlGWEy+67ctG0aH7Q6DdZXCn0y5j3jPaLsOVUZP6L8VOsVKrlAKp0jX/7YwhlijvHdTflxQwufsGHbUi7Gi8qnVwQdrw7JIkDmv9m7oFR5rK2fzkLnyPJPxg2DAdrHC0jUr83upTvhh4nR+7xpG5qRCfAPR4OY5Tq8ABbci3LYR0lHSrZ26utKHwaP7Qqdr7S0FxuPhiaKqm2MVGFrc+KGHFZw9xwloUDuAuT+3bbUwBpO9YrmcXVMUFmnSc+JtKuwWKUNGIfJOA1VSGAZI6ccOEZliSrtUekq+fp8OioZR6O7Nn1coQhDlWDNIlXUggz59W4FkgjQRHlcBfmgnyoj7+4GFuPiz7hDyqwqfUHkFiOsvxijzMo61Pt2b5WSkYi5dwbjmMY6HpCjPmhHkm27ZNxf900TPv0/xryZKrUvNDdR5Hlk1wTAs6JS95u7GNMrH0bWMQZF29Dy7RaJbyZ72X0/WPOvbx74nmcLz+MhxcXzZkmIoABMkVTJqKCEadAeM33gM1ZAjhM0YNFbbAiuXZOc+4mZzuVXDM1ykmPJskFsNWPoHloFu/fq/ArA9i1g2jv/MNo9E+nVG+/NV0ijynoMxqtU9dW5rJwsggE9Hmk1cbar8QG0D7l1jqHQvj2zUNTe1OIzk9phy9tRCCpunvfSSeMWV2f/aKpLGE5qQaHoSqkG3NZTu/j0m2Ip34oQ67sY/lkLH7LuFDI5EPo8QB1HLPFfi5h3gI07VZf1h+vzJ9si9B8VGChj1BrEXi6NDO82xImwPHPF7BPVpTXGEXzRS2kDEq1m+H9nCvB5E7KNaT5gmw36MVjtnGYDPrpetQLdaDjdzxt40Zo++ttcA3W01lPX6xwHToItYqKLilDkGschwODWZBOfWu23wtbPEPSwgCKbOxNZwLUkA/JiFF+V3uZ63iOZmnrMAF0a+YqIQvmzktRdNOzclgNNhIseg2rJTSLLZdZYdPZEZr4UDo1saCUsyQ7frvRpvDG8mgWaq0h2xoSej89WoQw31DkuIBcuw9tqVWa1PVej+ojZCLzkWE0qfsLMDWoQvRBB9HtqaLsipaotPJMX7ci2b2dFwo7GiNJGlIycJO23ubkbuiH52/xQmFOXtVtmHpacxnIQfJR4MNcak7M//eviyVQYLjTSbWA6yDAzfDtmqO/8z95O35VEPSDAGO9hVae0RCghXbKmCCIN8Lic/QUHkW7EGd26zCcdkepZ8QnRHGKx1ZbQ2L4Nz3fCpTvdGvJxR43PKeCRGDrvsHfsLzCBioxfALwaS1JECnisPtJc/HhUFPDXj5ExLXVCqieKzNy4ukLmKW2c5Rj2GGMQ9ajuMOzrkxv3LXxJ81ohKzmlI7a8A1/cbUwvLxYd8yY8TvOTkR2Cj/m5JYwIj85x3Lyz5krkjHVCrcobF5G3fu+0ySPmRhhg7pirU/VYGviIlJo5OZ5DzUBzX6mz5rN3ANu77OBnzgUD0MJUIaba5iL34BN7QHoVhYs0JrpmPzL1Wzr1PppaL1lx/oxSbfRhR902/47FaogMkA6Tw3Mw6Bw6zjiZy+Qkq7biOQm+cgADYKgXKslHuEpaBv2RWfC3R29YxgD/pBr0gW2lXY+zdSuayXaIoTiOLzTWhj4ov0qj4WzGkDt0jbEPTYhKZr1tb3OkhfaLYV4kTvUNA2WJmZyh+94QjkorW1RQ7Eu5pmoaOP0w24lpPlKtlc4fmskmj+ZSyoLh5MPxE7M2ygxt8IjR4W82AvZaz2wyD0rKXxNHbjK2bUkq5WCBkoTNeo9QUbkXL3mCZRiVeBxhh2kb+YJAlAWq13V46iBDfeMXEHWr6ckI6dmX76HKmN7k8u0Qsn7qgIIeeojqzBhKi2+xfk/Bj/6UD92hacavqzeWKAyneyCR/mGgpqHMHCl5lwT9LMYDHalpZuTCRPiIqQ9/sP7uZNthbra3b07W0VzMkhE0XSrHxaN0NWGuYoCdSQmpu0XYRA+eD7EkZndz+yGkeHqR5suhYf/BhTmX5pZeF5F+A1rkFPHXK3150oT7ROoQ//TNLNwQZVE0S9eUbLUS7aJqJud6xYKFFFXRx1+wfVZv8HDLgzT5P03QVHoQf/3xtrHNiCuoJ4yDdM9JEjKY/hy4qRBeGn/D7UZ3I18kJm+S9RcUm0sfL5kI6IoqnKsP4pnqgMV8ibtyHoZbJxSIzmGS0hP1HuioDebjmMK7Hki5AVmZJXvCK3","reasoning_content":"\n","role":"assistant"},"index":0}],"citations":["https://www.bilibili.com/opus/1094838394134986768"],"created":1794627743,"id":"02179462774254818d6e3628ce906dcdb201e7d3c05ff32970c48","model":"doubao-seed-2-1-pro-260628","object":"chat.completion.chunk","service_tier":"default","usage":null}
+
+data: {"choices":[{"delta":{"content":"###","role":"assistant"},"index":0}],"citations":["https://www.bilibili.com/opus/1094838394134986768"],"created":1794627743,"id":"02179462774254818d6e3628ce906dcdb201e7d3c05ff32970c48","model":"doubao-seed-2-1-pro-260628","object":"chat.completion.chunk","service_tier":"default","usage":null}
+
+data: {"choices":[{"delta":{"content":" ","role":"assistant"},"index":0}],"citations":["https://www.bilibili.com/opus/1094838394134986768"],"created":1794627743,"id":"02179462774254818d6e3628ce906dcdb201e7d3c05ff32970c48","model":"doubao-seed-2-1-pro-260628","object":"chat.completion.chunk","service_tier":"default","usage":null}
+
+data: {"choices":[{"delta":{"content":"明确","role":"assistant"},"index":0}],"citations":["https://www.bilibili.com/opus/1094838394134986768"],"created":1794627743,"id":"02179462774254818d6e3628ce906dcdb201e7d3c05ff32970c48","model":"doubao-seed-2-1-pro-260628","object":"chat.completion.chunk","service_tier":"default","usage":null}
+
+data: {"choices":[{"delta":{"content":"答复","role":"assistant"},"index":0}],"citations":["https://www.bilibili.com/opus/1094838394134986768"],"created":1794627743,"id":"02179462774254818d6e3628ce906dcdb201e7d3c05ff32970c48","model":"doubao-seed-2-1-pro-260628","object":"chat.completion.chunk","service_tier":"default","usage":null}
+
+data: {"choices":[{"delta":{"content":"\n","role":"assistant"},"index":0}],"citations":["https://www.bilibili.com/opus/1094838394134986768"],"created":1794627743,"id":"02179462774254818d6e3628ce906dcdb201e7d3c05ff32970c48","model":"doubao-seed-2-1-pro-260628","object":"chat.completion.chunk","service_tier":"default","usage":null}
+
+data: {"choices":[{"delta":{"content":"1","role":"assistant"},"index":0}],"citations":["https://www.bilibili.com/opus/1094838394134986768"],"created":1794627743,"id":"02179462774254818d6e3628ce906dcdb201e7d3c05ff32970c48","model":"doubao-seed-2-1-pro-260628","object":"chat.completion.chunk","service_tier":"default","usage":null}
+
+data: {"choices":[{"delta":{"content":".","role":"assistant"},"index":0}],"citations":["https://www.bilibili.com/opus/1094838394134986768"],"created":1794627743,"id":"02179462774254818d6e3628ce906dcdb201e7d3c05ff32970c48","model":"doubao-seed-2-1-pro-260628","object":"chat.completion.chunk","service_tier":"default","usage":null}
+
+data: {"choices":[{"delta":{"content":" ","role":"assistant"},"index":0}],"citations":["https://www.bilibili.com/opus/1094838394134986768"],"created":1794627743,"id":"02179462774254818d6e3628ce906dcdb201e7d3c05ff32970c48","model":"doubao-seed-2-1-pro-260628","object":"chat.completion.chunk","service_tier":"default","usage":null}
+
+data: {"choices":[{"delta":{"content":"补贴","role":"assistant"},"index":0}],"citations":["https://www.bilibili.com/opus/1094838394134986768"],"created":1794627743,"id":"02179462774254818d6e3628ce906dcdb201e7d3c05ff32970c48","model":"doubao-seed-2-1-pro-260628","object":"chat.completion.chunk","service_tier":"default","usage":null}
+
+data: {"choices":[{"delta":{"content":"标准","role":"assistant"},"index":0}],"citations":["https://www.bilibili.com/opus/1094838394134986768"],"created":1794627743,"id":"02179462774254818d6e3628ce906dcdb201e7d3c05ff32970c48","model":"doubao-seed-2-1-pro-260628","object":"chat.completion.chunk","service_tier":"default","usage":null}
+
+data: {"choices":[{"delta":{"content":"：","role":"assistant"},"index":0}],"citations":["https://www.bilibili.com/opus/1094838394134986768"],"created":1794627743,"id":"02179462774254818d6e3628ce906dcdb201e7d3c05ff32970c48","model":"doubao-seed-2-1-pro-260628","object":"chat.completion.chunk","service_tier":"default","usage":null}
+
+data: {"choices":[{"delta":{"content":"国家","role":"assistant"},"index":0}],"citations":["https://www.bilibili.com/opus/1094838394134986768"],"created":1794627743,"id":"02179462774254818d6e3628ce906dcdb201e7d3c05ff32970c48","model":"doubao-seed-2-1-pro-260628","object":"chat.completion.chunk","service_tier":"default","usage":null}
+
+data: {"choices":[{"delta":{"content":"层面","role":"assistant"},"index":0}],"citations":["https://www.bilibili.com/opus/1094838394134986768"],"created":1794627743,"id":"02179462774254818d6e3628ce906dcdb201e7d3c05ff32970c48","model":"doubao-seed-2-1-pro-260628","object":"chat.completion.chunk","service_tier":"default","usage":null}
+
+data: {"choices":[{"delta":{"content":"统一","role":"assistant"},"index":0}],"citations":["https://www.bilibili.com/opus/1094838394134986768"],"created":1794627743,"id":"02179462774254818d6e3628ce906dcdb201e7d3c05ff32970c48","model":"doubao-seed-2-1-pro-260628","object":"chat.completion.chunk","service_tier":"default","usage":null}
+
+data: {"choices":[{"delta":{"content":"的","role":"assistant"},"index":0}],"citations":["https://www.bilibili.com/opus/1094838394134986768"],"created":1794627743,"id":"02179462774254818d6e3628ce906dcdb201e7d3c05ff32970c48","model":"doubao-seed-2-1-pro-260628","object":"chat.completion.chunk","service_tier":"default","usage":null}
+
+data: {"choices":[{"delta":{"content":"普惠","role":"assistant"},"index":0}],"citations":["https://www.bilibili.com/opus/1094838394134986768"],"created":1794627743,"id":"02179462774254818d6e3628ce906dcdb201e7d3c05ff32970c48","model":"doubao-seed-2-1-pro-260628","object":"chat.completion.chunk","service_tier":"default","usage":null}
+
+data: {"choices":[{"delta":{"content":"性","role":"assistant"},"index":0}],"citations":["https://www.bilibili.com/opus/1094838394134986768"],"created":1794627743,"id":"02179462774254818d6e3628ce906dcdb201e7d3c05ff32970c48","model":"doubao-seed-2-1-pro-260628","object":"chat.completion.chunk","service_tier":"default","usage":null}
+
+data: {"choices":[{"delta":{"content":"育儿","role":"assistant"},"index":0}],"citations":["https://www.bilibili.com/opus/1094838394134986768"],"created":1794627743,"id":"02179462774254818d6e3628ce906dcdb201e7d3c05ff32970c48","model":"doubao-seed-2-1-pro-260628","object":"chat.completion.chunk","service_tier":"default","usage":null}
+
+data: {"choices":[{"delta":{"content":"补贴","role":"assistant"},"index":0}],"citations":["https://www.bilibili.com/opus/1094838394134986768"],"created":1794627743,"id":"02179462774254818d6e3628ce906dcdb201e7d3c05ff32970c48","model":"doubao-seed-2-1-pro-260628","object":"chat.completion.chunk","service_tier":"default","usage":null}
+
+data: {"choices":[{"delta":{"content":"基础","role":"assistant"},"index":0}],"citations":["https://www.bilibili.com/opus/1094838394134986768"],"created":1794627743,"id":"02179462774254818d6e3628ce906dcdb201e7d3c05ff32970c48","model":"doubao-seed-2-1-pro-260628","object":"chat.completion.chunk","service_tier":"default","usage":null}
+
+data: {"choices":[{"delta":{"content":"标准","role":"assistant"},"index":0}],"citations":["https://www.bilibili.com/opus/1094838394134986768"],"created":1794627743,"id":"02179462774254818d6e3628ce906dcdb201e7d3c05ff32970c48","model":"doubao-seed-2-1-pro-260628","object":"chat.completion.chunk","service_tier":"default","usage":null}
+
+data: {"choices":[{"delta":{"content":"为","role":"assistant"},"index":0}],"citations":["https://www.bilibili.com/opus/1094838394134986768"],"created":1794627743,"id":"02179462774254818d6e3628ce906dcdb201e7d3c05ff32970c48","model":"doubao-seed-2-1-pro-260628","object":"chat.completion.chunk","service_tier":"default","usage":null}
+
+data: {"choices":[{"delta":{"content":"**","role":"assistant"},"index":0}],"citations":["https://www.bilibili.com/opus/1094838394134986768"],"created":1794627743,"id":"02179462774254818d6e3628ce906dcdb201e7d3c05ff32970c48","model":"doubao-seed-2-1-pro-260628","object":"chat.completion.chunk","service_tier":"default","usage":null}
+
+data: {"choices":[{"delta":{"content":"每","role":"assistant"},"index":0}],"citations":["https://www.bilibili.com/opus/1094838394134986768"],"created":1794627743,"id":"02179462774254818d6e3628ce906dcdb201e7d3c05ff32970c48","model":"doubao-seed-2-1-pro-260628","object":"chat.completion.chunk","service_tier":"default","usage":null}
+
+data: {"choices":[{"delta":{"content":"孩","role":"assistant"},"index":0}],"citations":["https://www.bilibili.com/opus/1094838394134986768"],"created":1794627743,"id":"02179462774254818d6e3628ce906dcdb201e7d3c05ff32970c48","model":"doubao-seed-2-1-pro-260628","object":"chat.completion.chunk","service_tier":"default","usage":null}
+
+data: {"choices":[{"delta":{"content":"每年","role":"assistant"},"index":0}],"citations":["https://www.bilibili.com/opus/1094838394134986768"],"created":1794627743,"id":"02179462774254818d6e3628ce906dcdb201e7d3c05ff32970c48","model":"doubao-seed-2-1-pro-260628","object":"chat.completion.chunk","service_tier":"default","usage":null}
+
+data: {"choices":[{"delta":{"content":"3","role":"assistant"},"index":0}],"citations":["https://www.bilibili.com/opus/1094838394134986768"],"created":1794627743,"id":"02179462774254818d6e3628ce906dcdb201e7d3c05ff32970c48","model":"doubao-seed-2-1-pro-260628","object":"chat.completion.chunk","service_tier":"default","usage":null}
+
+data: {"choices":[{"delta":{"content":"6","role":"assistant"},"index":0}],"citations":["https://www.bilibili.com/opus/1094838394134986768"],"created":1794627743,"id":"02179462774254818d6e3628ce906dcdb201e7d3c05ff32970c48","model":"doubao-seed-2-1-pro-260628","object":"chat.completion.chunk","service_tier":"default","usage":null}
+
+data: {"choices":[{"delta":{"content":"0","role":"assistant"},"index":0}],"citations":["https://www.bilibili.com/opus/1094838394134986768"],"created":1794627743,"id":"02179462774254818d6e3628ce906dcdb201e7d3c05ff32970c48","model":"doubao-seed-2-1-pro-260628","object":"chat.completion.chunk","service_tier":"default","usage":null}
+
+data: {"choices":[{"delta":{"content":"0","role":"assistant"},"index":0}],"citations":["https://www.bilibili.com/opus/1094838394134986768"],"created":1794627743,"id":"02179462774254818d6e3628ce906dcdb201e7d3c05ff32970c48","model":"doubao-seed-2-1-pro-260628","object":"chat.completion.chunk","service_tier":"default","usage":null}
+
+data: {"choices":[{"delta":{"content":"元","role":"assistant"},"index":0}],"citations":["https://www.bilibili.com/opus/1094838394134986768"],"created":1794627743,"id":"02179462774254818d6e3628ce906dcdb201e7d3c05ff32970c48","model":"doubao-seed-2-1-pro-260628","object":"chat.completion.chunk","service_tier":"default","usage":null}
+
+data: {"choices":[{"delta":{"content":"**","role":"assistant"},"index":0}],"citations":["https://www.bilibili.com/opus/1094838394134986768"],"created":1794627743,"id":"02179462774254818d6e3628ce906dcdb201e7d3c05ff32970c48","model":"doubao-seed-2-1-pro-260628","object":"chat.completion.chunk","service_tier":"default","usage":null}
+
+data: {"choices":[{"delta":{"content":"，","role":"assistant"},"index":0}],"citations":["https://www.bilibili.com/opus/1094838394134986768"],"created":1794627743,"id":"02179462774254818d6e3628ce906dcdb201e7d3c05ff32970c48","model":"doubao-seed-2-1-pro-260628","object":"chat.completion.chunk","service_tier":"default","usage":null}
+
+data: {"choices":[{"delta":{"content":"并非","role":"assistant"},"index":0}],"citations":["https://www.bilibili.com/opus/1094838394134986768"],"created":1794627743,"id":"02179462774254818d6e3628ce906dcdb201e7d3c05ff32970c48","model":"doubao-seed-2-1-pro-260628","object":"chat.completion.chunk","service_tier":"default","usage":null}
+
+data: {"choices":[{"delta":{"content":"每月","role":"assistant"},"index":0}],"citations":["https://www.bilibili.com/opus/1094838394134986768"],"created":1794627743,"id":"02179462774254818d6e3628ce906dcdb201e7d3c05ff32970c48","model":"doubao-seed-2-1-pro-260628","object":"chat.completion.chunk","service_tier":"default","usage":null}
+
+data: {"choices":[{"delta":{"content":"3","role":"assistant"},"index":0}],"citations":["https://www.bilibili.com/opus/1094838394134986768"],"created":1794627743,"id":"02179462774254818d6e3628ce906dcdb201e7d3c05ff32970c48","model":"doubao-seed-2-1-pro-260628","object":"chat.completion.chunk","service_tier":"default","usage":null}
+
+data: {"choices":[{"delta":{"content":"6","role":"assistant"},"index":0}],"citations":["https://www.bilibili.com/opus/1094838394134986768"],"created":1794627743,"id":"02179462774254818d6e3628ce906dcdb201e7d3c05ff32970c48","model":"doubao-seed-2-1-pro-260628","object":"chat.completion.chunk","service_tier":"default","usage":null}
+
+data: {"choices":[{"delta":{"content":"0","role":"assistant"},"index":0}],"citations":["https://www.bilibili.com/opus/1094838394134986768"],"created":1794627743,"id":"02179462774254818d6e3628ce906dcdb201e7d3c05ff32970c48","model":"doubao-seed-2-1-pro-260628","object":"chat.completion.chunk","service_tier":"default","usage":null}
+
+data: {"choices":[{"delta":{"content":"0","role":"assistant"},"index":0}],"citations":["https://www.bilibili.com/opus/1094838394134986768"],"created":1794627743,"id":"02179462774254818d6e3628ce906dcdb201e7d3c05ff32970c48","model":"doubao-seed-2-1-pro-260628","object":"chat.completion.chunk","service_tier":"default","usage":null}
+
+data: {"choices":[{"delta":{"content":"元","role":"assistant"},"index":0}],"citations":["https://www.bilibili.com/opus/1094838394134986768"],"created":1794627743,"id":"02179462774254818d6e3628ce906dcdb201e7d3c05ff32970c48","model":"doubao-seed-2-1-pro-260628","object":"chat.completion.chunk","service_tier":"default","usage":null}
+
+data: {"choices":[{"delta":{"content":"，","role":"assistant"},"index":0}],"citations":["https://www.bilibili.com/opus/1094838394134986768"],"created":1794627743,"id":"02179462774254818d6e3628ce906dcdb201e7d3c05ff32970c48","model":"doubao-seed-2-1-pro-260628","object":"chat.completion.chunk","service_tier":"default","usage":null}
+
+data: {"choices":[{"delta":{"content":"补贴","role":"assistant"},"index":0}],"citations":["https://www.bilibili.com/opus/1094838394134986768"],"created":1794627743,"id":"02179462774254818d6e3628ce906dcdb201e7d3c05ff32970c48","model":"doubao-seed-2-1-pro-260628","object":"chat.completion.chunk","service_tier":"default","usage":null}
+
+data: {"choices":[{"delta":{"content":"覆盖","role":"assistant"},"index":0}],"citations":["https://www.bilibili.com/opus/1094838394134986768"],"created":1794627743,"id":"02179462774254818d6e3628ce906dcdb201e7d3c05ff32970c48","model":"doubao-seed-2-1-pro-260628","object":"chat.completion.chunk","service_tier":"default","usage":null}
+
+data: {"choices":[{"delta":{"content":"所有","role":"assistant"},"index":0}],"citations":["https://www.bilibili.com/opus/1094838394134986768"],"created":1794627743,"id":"02179462774254818d6e3628ce906dcdb201e7d3c05ff32970c48","model":"doubao-seed-2-1-pro-260628","object":"chat.completion.chunk","service_tier":"default","usage":null}
+
+data: {"choices":[{"delta":{"content":"合法","role":"assistant"},"index":0}],"citations":["https://www.bilibili.com/opus/1094838394134986768"],"created":1794627743,"id":"02179462774254818d6e3628ce906dcdb201e7d3c05ff32970c48","model":"doubao-seed-2-1-pro-260628","object":"chat.completion.chunk","service_tier":"default","usage":null}
+
+data: {"choices":[{"delta":{"content":"生育","role":"assistant"},"index":0}],"citations":["https://www.bilibili.com/opus/1094838394134986768"],"created":1794627743,"id":"02179462774254818d6e3628ce906dcdb201e7d3c05ff32970c48","model":"doubao-seed-2-1-pro-260628","object":"chat.completion.chunk","service_tier":"default","usage":null}
+
+data: {"choices":[{"delta":{"content":"的","role":"assistant"},"index":0}],"citations":["https://www.bilibili.com/opus/1094838394134986768"],"created":1794627743,"id":"02179462774254818d6e3628ce906dcdb201e7d3c05ff32970c48","model":"doubao-seed-2-1-pro-260628","object":"chat.completion.chunk","service_tier":"default","usage":null}
+
+data: {"choices":[{"delta":{"content":"3","role":"assistant"},"index":0}],"citations":["https://www.bilibili.com/opus/1094838394134986768"],"created":1794627743,"id":"02179462774254818d6e3628ce906dcdb201e7d3c05ff32970c48","model":"doubao-seed-2-1-pro-260628","object":"chat.completion.chunk","service_tier":"default","usage":null}
+
+data: {"choices":[{"delta":{"content":"岁","role":"assistant"},"index":0}],"citations":["https://www.bilibili.com/opus/1094838394134986768"],"created":1794627743,"id":"02179462774254818d6e3628ce906dcdb201e7d3c05ff32970c48","model":"doubao-seed-2-1-pro-260628","object":"chat.completion.chunk","service_tier":"default","usage":null}
+
+data: {"choices":[{"delta":{"content":"以下","role":"assistant"},"index":0}],"citations":["https://www.bilibili.com/opus/1094838394134986768"],"created":1794627743,"id":"02179462774254818d6e3628ce906dcdb201e7d3c05ff32970c48","model":"doubao-seed-2-1-pro-260628","object":"chat.completion.chunk","service_tier":"default","usage":null}
+
+data: {"choices":[{"delta":{"content":"婴幼儿","role":"assistant"},"index":0}],"citations":["https://www.bilibili.com/opus/1094838394134986768"],"created":1794627743,"id":"02179462774254818d6e3628ce906dcdb201e7d3c05ff32970c48","model":"doubao-seed-2-1-pro-260628","object":"chat.completion.chunk","service_tier":"default","usage":null}
+
+data: {"choices":[{"delta":{"content":"家庭","role":"assistant"},"index":0}],"citations":["https://www.bilibili.com/opus/1094838394134986768"],"created":1794627743,"id":"02179462774254818d6e3628ce906dcdb201e7d3c05ff32970c48","model":"doubao-seed-2-1-pro-260628","object":"chat.completion.chunk","service_tier":"default","usage":null}
+
+data: {"choices":[{"delta":{"content":"[","role":"assistant"},"index":0}],"citations":["https://www.bilibili.com/opus/1094838394134986768"],"created":1794627743,"id":"02179462774254818d6e3628ce906dcdb201e7d3c05ff32970c48","model":"doubao-seed-2-1-pro-260628","object":"chat.completion.chunk","service_tier":"default","usage":null}
+
+data: {"choices":[{"delta":{"content":"4","role":"assistant"},"index":0}],"citations":["https://www.bilibili.com/opus/1094838394134986768"],"created":1794627743,"id":"02179462774254818d6e3628ce906dcdb201e7d3c05ff32970c48","model":"doubao-seed-2-1-pro-260628","object":"chat.completion.chunk","service_tier":"default","usage":null}
+
+data: {"choices":[{"delta":{"content":"]","role":"assistant"},"index":0}],"citations":["https://www.bilibili.com/opus/1094838394134986768"],"created":1794627743,"id":"02179462774254818d6e3628ce906dcdb201e7d3c05ff32970c48","model":"doubao-seed-2-1-pro-260628","object":"chat.completion.chunk","service_tier":"default","usage":null}
+
+data: {"choices":[{"delta":{"content":"。","role":"assistant"},"index":0}],"citations":["https://www.bilibili.com/opus/1094838394134986768"],"created":1794627743,"id":"02179462774254818d6e3628ce906dcdb201e7d3c05ff32970c48","model":"doubao-seed-2-1-pro-260628","object":"chat.completion.chunk","service_tier":"default","usage":null}
+
+data: {"choices":[{"delta":{"content":"\n","role":"assistant"},"index":0}],"citations":["https://www.bilibili.com/opus/1094838394134986768"],"created":1794627743,"id":"02179462774254818d6e3628ce906dcdb201e7d3c05ff32970c48","model":"doubao-seed-2-1-pro-260628","object":"chat.completion.chunk","service_tier":"default","usage":null}
+
+data: {"choices":[{"delta":{"content":"2","role":"assistant"},"index":0}],"citations":["https://www.bilibili.com/opus/1094838394134986768"],"created":1794627743,"id":"02179462774254818d6e3628ce906dcdb201e7d3c05ff32970c48","model":"doubao-seed-2-1-pro-260628","object":"chat.completion.chunk","service_tier":"default","usage":null}
+
+data: {"choices":[{"delta":{"content":".","role":"assistant"},"index":0}],"citations":["https://www.bilibili.com/opus/1094838394134986768"],"created":1794627743,"id":"02179462774254818d6e3628ce906dcdb201e7d3c05ff32970c48","model":"doubao-seed-2-1-pro-260628","object":"chat.completion.chunk","service_tier":"default","usage":null}
+
+data: {"choices":[{"delta":{"content":" ","role":"assistant"},"index":0}],"citations":["https://www.bilibili.com/opus/1094838394134986768"],"created":1794627743,"id":"02179462774254818d6e3628ce906dcdb201e7d3c05ff32970c48","model":"doubao-seed-2-1-pro-260628","object":"chat.completion.chunk","service_tier":"default","usage":null}
+
+data: {"choices":[{"delta":{"content":"2","role":"assistant"},"index":0}],"citations":["https://www.bilibili.com/opus/1094838394134986768"],"created":1794627743,"id":"02179462774254818d6e3628ce906dcdb201e7d3c05ff32970c48","model":"doubao-seed-2-1-pro-260628","object":"chat.completion.chunk","service_tier":"default","usage":null}
+
+data: {"choices":[{"delta":{"content":"0","role":"assistant"},"index":0}],"citations":["https://www.bilibili.com/opus/1094838394134986768"],"created":1794627743,"id":"02179462774254818d6e3628ce906dcdb201e7d3c05ff32970c48","model":"doubao-seed-2-1-pro-260628","object":"chat.completion.chunk","service_tier":"default","usage":null}
+
+data: {"choices":[{"delta":{"content":"2","role":"assistant"},"index":0}],"citations":["https://www.bilibili.com/opus/1094838394134986768"],"created":1794627743,"id":"02179462774254818d6e3628ce906dcdb201e7d3c05ff32970c48","model":"doubao-seed-2-1-pro-260628","object":"chat.completion.chunk","service_tier":"default","usage":null}
+
+data: {"choices":[{"delta":{"content":"5","role":"assistant"},"index":0}],"citations":["https://www.bilibili.com/opus/1094838394134986768"],"created":1794627743,"id":"02179462774254818d6e3628ce906dcdb201e7d3c05ff32970c48","model":"doubao-seed-2-1-pro-260628","object":"chat.completion.chunk","service_tier":"default","usage":null}
+
+data: {"choices":[{"delta":{"content":"年前","role":"assistant"},"index":0}],"citations":["https://www.bilibili.com/opus/1094838394134986768"],"created":1794627743,"id":"02179462774254818d6e3628ce906dcdb201e7d3c05ff32970c48","model":"doubao-seed-2-1-pro-260628","object":"chat.completion.chunk","service_tier":"default","usage":null}
+
+data: {"choices":[{"delta":{"content":"出生","role":"assistant"},"index":0}],"citations":["https://www.bilibili.com/opus/1094838394134986768"],"created":1794627743,"id":"02179462774254818d6e3628ce906dcdb201e7d3c05ff32970c48","model":"doubao-seed-2-1-pro-260628","object":"chat.completion.chunk","service_tier":"default","usage":null}
+
+data: {"choices":[{"delta":{"content":"孩子","role":"assistant"},"index":0}],"citations":["https://www.bilibili.com/opus/1094838394134986768"],"created":1794627743,"id":"02179462774254818d6e3628ce906dcdb201e7d3c05ff32970c48","model":"doubao-seed-2-1-pro-260628","object":"chat.completion.chunk","service_tier":"default","usage":null}
+
+data: {"choices":[{"delta":{"content":"的","role":"assistant"},"index":0}],"citations":["https://www.bilibili.com/opus/1094838394134986768"],"created":1794627743,"id":"02179462774254818d6e3628ce906dcdb201e7d3c05ff32970c48","model":"doubao-seed-2-1-pro-260628","object":"chat.completion.chunk","service_tier":"default","usage":null}
+
+data: {"choices":[{"delta":{"content":"补贴","role":"assistant"},"index":0}],"citations":["https://www.bilibili.com/opus/1094838394134986768"],"created":1794627743,"id":"02179462774254818d6e3628ce906dcdb201e7d3c05ff32970c48","model":"doubao-seed-2-1-pro-260628","object":"chat.completion.chunk","service_tier":"default","usage":null}
+
+data: {"choices":[{"delta":{"content":"安排","role":"assistant"},"index":0}],"citations":["https://www.bilibili.com/opus/1094838394134986768"],"created":1794627743,"id":"02179462774254818d6e3628ce906dcdb201e7d3c05ff32970c48","model":"doubao-seed-2-1-pro-260628","object":"chat.completion.chunk","service_tier":"default","usage":null}
+
+data: {"choices":[{"delta":{"content":"：","role":"assistant"},"index":0}],"citations":["https://www.bilibili.com/opus/1094838394134986768"],"created":1794627743,"id":"02179462774254818d6e3628ce906dcdb201e7d3c05ff32970c48","model":"doubao-seed-2-1-pro-260628","object":"chat.completion.chunk","service_tier":"default","usage":null}
+
+data: {"choices":[{"delta":{"content":"该","role":"assistant"},"index":0}],"citations":["https://www.bilibili.com/opus/1094838394134986768"],"created":1794627743,"id":"02179462774254818d6e3628ce906dcdb201e7d3c05ff32970c48","model":"doubao-seed-2-1-pro-260628","object":"chat.completion.chunk","service_tier":"default","usage":null}
+
+data: {"choices":[{"delta":{"content":"育儿","role":"assistant"},"index":0}],"citations":["https://www.bilibili.com/opus/1094838394134986768"],"created":1794627743,"id":"02179462774254818d6e3628ce906dcdb201e7d3c05ff32970c48","model":"doubao-seed-2-1-pro-260628","object":"chat.completion.chunk","service_tier":"default","usage":null}
+
+data: {"choices":[{"delta":{"content":"补贴","role":"assistant"},"index":0}],"citations":["https://www.bilibili.com/opus/1094838394134986768"],"created":1794627743,"id":"02179462774254818d6e3628ce906dcdb201e7d3c05ff32970c48","model":"doubao-seed-2-1-pro-260628","object":"chat.completion.chunk","service_tier":"default","usage":null}
+
+data: {"choices":[{"delta":{"content":"制度","role":"assistant"},"index":0}],"citations":["https://www.bilibili.com/opus/1094838394134986768"],"created":1794627743,"id":"02179462774254818d6e3628ce906dcdb201e7d3c05ff32970c48","model":"doubao-seed-2-1-pro-260628","object":"chat.completion.chunk","service_tier":"default","usage":null}
+
+data: {"choices":[{"delta":{"content":"自","role":"assistant"},"index":0}],"citations":["https://www.bilibili.com/opus/1094838394134986768"],"created":1794627743,"id":"02179462774254818d6e3628ce906dcdb201e7d3c05ff32970c48","model":"doubao-seed-2-1-pro-260628","object":"chat.completion.chunk","service_tier":"default","usage":null}
+
+data: {"choices":[{"delta":{"content":"2","role":"assistant"},"index":0}],"citations":["https://www.bilibili.com/opus/1094838394134986768"],"created":1794627743,"id":"02179462774254818d6e3628ce906dcdb201e7d3c05ff32970c48","model":"doubao-seed-2-1-pro-260628","object":"chat.completion.chunk","service_tier":"default","usage":null}
+
+data: {"choices":[{"delta":{"content":"0","role":"assistant"},"index":0}],"citations":["https://www.bilibili.com/opus/1094838394134986768"],"created":1794627743,"id":"02179462774254818d6e3628ce906dcdb201e7d3c05ff32970c48","model":"doubao-seed-2-1-pro-260628","object":"chat.completion.chunk","service_tier":"default","usage":null}
+
+data: {"choices":[{"delta":{"content":"2","role":"assistant"},"index":0}],"citations":["https://www.bilibili.com/opus/1094838394134986768"],"created":1794627743,"id":"02179462774254818d6e3628ce906dcdb201e7d3c05ff32970c48","model":"doubao-seed-2-1-pro-260628","object":"chat.completion.chunk","service_tier":"default","usage":null}
+
+data: {"choices":[{"delta":{"content":"5","role":"assistant"},"index":0}],"citations":["https://www.bilibili.com/opus/1094838394134986768"],"created":1794627743,"id":"02179462774254818d6e3628ce906dcdb201e7d3c05ff32970c48","model":"doubao-seed-2-1-pro-260628","object":"chat.completion.chunk","service_tier":"default","usage":null}
+
+data: {"choices":[{"delta":{"content":"年","role":"assistant"},"index":0}],"citations":["https://www.bilibili.com/opus/1094838394134986768"],"created":1794627743,"id":"02179462774254818d6e3628ce906dcdb201e7d3c05ff32970c48","model":"doubao-seed-2-1-pro-260628","object":"chat.completion.chunk","service_tier":"default","usage":null}
+
+data: {"choices":[{"delta":{"content":"1","role":"assistant"},"index":0}],"citations":["https://www.bilibili.com/opus/1094838394134986768"],"created":1794627743,"id":"02179462774254818d6e3628ce906dcdb201e7d3c05ff32970c48","model":"doubao-seed-2-1-pro-260628","object":"chat.completion.chunk","service_tier":"default","usage":null}
+
+data: {"choices":[{"delta":{"content":"月","role":"assistant"},"index":0}],"citations":["https://www.bilibili.com/opus/1094838394134986768"],"created":1794627743,"id":"02179462774254818d6e3628ce906dcdb201e7d3c05ff32970c48","model":"doubao-seed-2-1-pro-260628","object":"chat.completion.chunk","service_tier":"default","usage":null}
+
+data: {"choices":[{"delta":{"content":"1","role":"assistant"},"index":0}],"citations":["https://www.bilibili.com/opus/1094838394134986768"],"created":1794627743,"id":"02179462774254818d6e3628ce906dcdb201e7d3c05ff32970c48","model":"doubao-seed-2-1-pro-260628","object":"chat.completion.chunk","service_tier":"default","usage":null}
+
+data: {"choices":[{"delta":{"content":"日","role":"assistant"},"index":0}],"citations":["https://www.bilibili.com/opus/1094838394134986768"],"created":1794627743,"id":"02179462774254818d6e3628ce906dcdb201e7d3c05ff32970c48","model":"doubao-seed-2-1-pro-260628","object":"chat.completion.chunk","service_tier":"default","usage":null}
+
+data: {"choices":[{"delta":{"content":"起","role":"assistant"},"index":0}],"citations":["https://www.bilibili.com/opus/1094838394134986768"],"created":1794627743,"id":"02179462774254818d6e3628ce906dcdb201e7d3c05ff32970c48","model":"doubao-seed-2-1-pro-260628","object":"chat.completion.chunk","service_tier":"default","usage":null}
+
+data: {"choices":[{"delta":{"content":"正式","role":"assistant"},"index":0}],"citations":["https://www.bilibili.com/opus/1094838394134986768"],"created":1794627743,"id":"02179462774254818d6e3628ce906dcdb201e7d3c05ff32970c48","model":"doubao-seed-2-1-pro-260628","object":"chat.completion.chunk","service_tier":"default","usage":null}
+
+data: {"choices":[{"delta":{"content":"实施","role":"assistant"},"index":0}],"citations":["https://www.bilibili.com/opus/1094838394134986768"],"created":1794627743,"id":"02179462774254818d6e3628ce906dcdb201e7d3c05ff32970c48","model":"doubao-seed-2-1-pro-260628","object":"chat.completion.chunk","service_tier":"default","usage":null}
+
+data: {"choices":[{"delta":{"content":"，","role":"assistant"},"index":0}],"citations":["https://www.bilibili.com/opus/1094838394134986768"],"created":1794627743,"id":"02179462774254818d6e3628ce906dcdb201e7d3c05ff32970c48","model":"doubao-seed-2-1-pro-260628","object":"chat.completion.chunk","service_tier":"default","usage":null}
+
+data: {"choices":[{"delta":{"content":"对于","role":"assistant"},"index":0}],"citations":["https://www.bilibili.com/opus/1094838394134986768"],"created":1794627743,"id":"02179462774254818d6e3628ce906dcdb201e7d3c05ff32970c48","model":"doubao-seed-2-1-pro-260628","object":"chat.completion.chunk","service_tier":"default","usage":null}
+
+data: {"choices":[{"delta":{"content":"2","role":"assistant"},"index":0}],"citations":["https://www.bilibili.com/opus/1094838394134986768"],"created":1794627743,"id":"02179462774254818d6e3628ce906dcdb201e7d3c05ff32970c48","model":"doubao-seed-2-1-pro-260628","object":"chat.completion.chunk","service_tier":"default","usage":null}
+
+data: {"choices":[{"delta":{"content":"0","role":"assistant"},"index":0}],"citations":["https://www.bilibili.com/opus/1094838394134986768"],"created":1794627743,"id":"02179462774254818d6e3628ce906dcdb201e7d3c05ff32970c48","model":"doubao-seed-2-1-pro-260628","object":"chat.completion.chunk","service_tier":"default","usage":null}
+
+data: {"choices":[{"delta":{"content":"2","role":"assistant"},"index":0}],"citations":["https://www.bilibili.com/opus/1094838394134986768"],"created":1794627743,"id":"02179462774254818d6e3628ce906dcdb201e7d3c05ff32970c48","model":"doubao-seed-2-1-pro-260628","object":"chat.completion.chunk","service_tier":"default","usage":null}
+
+data: {"choices":[{"delta":{"content":"5","role":"assistant"},"index":0}],"citations":["https://www.bilibili.com/opus/1094838394134986768"],"created":1794627743,"id":"02179462774254818d6e3628ce906dcdb201e7d3c05ff32970c48","model":"doubao-seed-2-1-pro-260628","object":"chat.completion.chunk","service_tier":"default","usage":null}
+
+data: {"choices":[{"delta":{"content":"年前","role":"assistant"},"index":0}],"citations":["https://www.bilibili.com/opus/1094838394134986768"],"created":1794627743,"id":"02179462774254818d6e3628ce906dcdb201e7d3c05ff32970c48","model":"doubao-seed-2-1-pro-260628","object":"chat.completion.chunk","service_tier":"default","usage":null}
+
+data: {"choices":[{"delta":{"content":"出生","role":"assistant"},"index":0}],"citations":["https://www.bilibili.com/opus/1094838394134986768"],"created":1794627743,"id":"02179462774254818d6e3628ce906dcdb201e7d3c05ff32970c48","model":"doubao-seed-2-1-pro-260628","object":"chat.completion.chunk","service_tier":"default","usage":null}
+
+data: {"choices":[{"delta":{"content":"、","role":"assistant"},"index":0}],"citations":["https://www.bilibili.com/opus/1094838394134986768"],"created":1794627743,"id":"02179462774254818d6e3628ce906dcdb201e7d3c05ff32970c48","model":"doubao-seed-2-1-pro-260628","object":"chat.completion.chunk","service_tier":"default","usage":null}
+
+data: {"choices":[{"delta":{"content":"政策","role":"assistant"},"index":0}],"citations":["https://www.bilibili.com/opus/1094838394134986768"],"created":1794627743,"id":"02179462774254818d6e3628ce906dcdb201e7d3c05ff32970c48","model":"doubao-seed-2-1-pro-260628","object":"chat.completion.chunk","service_tier":"default","usage":null}
+
+data: {"choices":[{"delta":{"content":"落地","role":"assistant"},"index":0}],"citations":["https://www.bilibili.com/opus/1094838394134986768"],"created":1794627743,"id":"02179462774254818d6e3628ce906dcdb201e7d3c05ff32970c48","model":"doubao-seed-2-1-pro-260628","object":"chat.completion.chunk","service_tier":"default","usage":null}
+
+data: {"choices":[{"delta":{"content":"时","role":"assistant"},"index":0}],"citations":["https://www.bilibili.com/opus/1094838394134986768"],"created":1794627743,"id":"02179462774254818d6e3628ce906dcdb201e7d3c05ff32970c48","model":"doubao-seed-2-1-pro-260628","object":"chat.completion.chunk","service_tier":"default","usage":null}
+
+data: {"choices":[{"delta":{"content":"未满","role":"assistant"},"index":0}],"citations":["https://www.bilibili.com/opus/1094838394134986768"],"created":1794627743,"id":"02179462774254818d6e3628ce906dcdb201e7d3c05ff32970c48","model":"doubao-seed-2-1-pro-260628","object":"chat.completion.chunk","service_tier":"default","usage":null}
+
+data: {"choices":[{"delta":{"content":"3","role":"assistant"},"index":0}],"citations":["https://www.bilibili.com/opus/1094838394134986768"],"created":1794627743,"id":"02179462774254818d6e3628ce906dcdb201e7d3c05ff32970c48","model":"doubao-seed-2-1-pro-260628","object":"chat.completion.chunk","service_tier":"default","usage":null}
+
+data: {"choices":[{"delta":{"content":"周岁","role":"assistant"},"index":0}],"citations":["https://www.bilibili.com/opus/1094838394134986768"],"created":1794627743,"id":"02179462774254818d6e3628ce906dcdb201e7d3c05ff32970c48","model":"doubao-seed-2-1-pro-260628","object":"chat.completion.chunk","service_tier":"default","usage":null}
+
+data: {"choices":[{"delta":{"content":"的","role":"assistant"},"index":0}],"citations":["https://www.bilibili.com/opus/1094838394134986768"],"created":1794627743,"id":"02179462774254818d6e3628ce906dcdb201e7d3c05ff32970c48","model":"doubao-seed-2-1-pro-260628","object":"chat.completion.chunk","service_tier":"default","usage":null}
+
+data: {"choices":[{"delta":{"content":"婴幼儿","role":"assistant"},"index":0}],"citations":["https://www.bilibili.com/opus/1094838394134986768"],"created":1794627743,"id":"02179462774254818d6e3628ce906dcdb201e7d3c05ff32970c48","model":"doubao-seed-2-1-pro-260628","object":"chat.completion.chunk","service_tier":"default","usage":null}
+
+data: {"choices":[{"delta":{"content":"，","role":"assistant"},"index":0}],"citations":["https://www.bilibili.com/opus/1094838394134986768"],"created":1794627743,"id":"02179462774254818d6e3628ce906dcdb201e7d3c05ff32970c48","model":"doubao-seed-2-1-pro-260628","object":"chat.completion.chunk","service_tier":"default","usage":null}
+
+data: {"choices":[{"delta":{"content":"方案","role":"assistant"},"index":0}],"citations":["https://www.bilibili.com/opus/1094838394134986768"],"created":1794627743,"id":"02179462774254818d6e3628ce906dcdb201e7d3c05ff32970c48","model":"doubao-seed-2-1-pro-260628","object":"chat.completion.chunk","service_tier":"default","usage":null}
+
+data: {"choices":[{"delta":{"content":"明确","role":"assistant"},"index":0}],"citations":["https://www.bilibili.com/opus/1094838394134986768"],"created":1794627743,"id":"02179462774254818d6e3628ce906dcdb201e7d3c05ff32970c48","model":"doubao-seed-2-1-pro-260628","object":"chat.completion.chunk","service_tier":"default","usage":null}
+
+data: {"choices":[{"delta":{"content":"将","role":"assistant"},"index":0}],"citations":["https://www.bilibili.com/opus/1094838394134986768"],"created":1794627743,"id":"02179462774254818d6e3628ce906dcdb201e7d3c05ff32970c48","model":"doubao-seed-2-1-pro-260628","object":"chat.completion.chunk","service_tier":"default","usage":null}
+
+data: {"choices":[{"delta":{"content":"溯","role":"assistant"},"index":0}],"citations":["https://www.bilibili.com/opus/1094838394134986768"],"created":1794627743,"id":"02179462774254818d6e3628ce906dcdb201e7d3c05ff32970c48","model":"doubao-seed-2-1-pro-260628","object":"chat.completion.chunk","service_tier":"default","usage":null}
+
+data: {"choices":[{"delta":{"content":"及","role":"assistant"},"index":0}],"citations":["https://www.bilibili.com/opus/1094838394134986768"],"created":1794627743,"id":"02179462774254818d6e3628ce906dcdb201e7d3c05ff32970c48","model":"doubao-seed-2-1-pro-260628","object":"chat.completion.chunk","service_tier":"default","usage":null}
+
+data: {"choices":[{"delta":{"content":"既往","role":"assistant"},"index":0}],"citations":["https://www.bilibili.com/opus/1094838394134986768"],"created":1794627743,"id":"02179462774254818d6e3628ce906dcdb201e7d3c05ff32970c48","model":"doubao-seed-2-1-pro-260628","object":"chat.completion.chunk","service_tier":"default","usage":null}
+
+data: {"choices":[{"delta":{"content":"，","role":"assistant"},"index":0}],"citations":["https://www.bilibili.com/opus/1094838394134986768"],"created":1794627743,"id":"02179462774254818d6e3628ce906dcdb201e7d3c05ff32970c48","model":"doubao-seed-2-1-pro-260628","object":"chat.completion.chunk","service_tier":"default","usage":null}
+
+data: {"choices":[{"delta":{"content":"按","role":"assistant"},"index":0}],"citations":["https://www.bilibili.com/opus/1094838394134986768"],"created":1794627743,"id":"02179462774254818d6e3628ce906dcdb201e7d3c05ff32970c48","model":"doubao-seed-2-1-pro-260628","object":"chat.completion.chunk","service_tier":"default","usage":null}
+
+data: {"choices":[{"delta":{"content":"规则","role":"assistant"},"index":0}],"citations":["https://www.bilibili.com/opus/1094838394134986768"],"created":1794627743,"id":"02179462774254818d6e3628ce906dcdb201e7d3c05ff32970c48","model":"doubao-seed-2-1-pro-260628","object":"chat.completion.chunk","service_tier":"default","usage":null}
+
+data: {"choices":[{"delta":{"content":"补发","role":"assistant"},"index":0}],"citations":["https://www.bilibili.com/opus/1094838394134986768"],"created":1794627743,"id":"02179462774254818d6e3628ce906dcdb201e7d3c05ff32970c48","model":"doubao-seed-2-1-pro-260628","object":"chat.completion.chunk","service_tier":"default","usage":null}
+
+data: {"choices":[{"delta":{"content":"对应","role":"assistant"},"index":0}],"citations":["https://www.bilibili.com/opus/1094838394134986768"],"created":1794627743,"id":"02179462774254818d6e3628ce906dcdb201e7d3c05ff32970c48","model":"doubao-seed-2-1-pro-260628","object":"chat.completion.chunk","service_tier":"default","usage":null}
+
+data: {"choices":[{"delta":{"content":"折算","role":"assistant"},"index":0}],"citations":["https://www.bilibili.com/opus/1094838394134986768"],"created":1794627743,"id":"02179462774254818d6e3628ce906dcdb201e7d3c05ff32970c48","model":"doubao-seed-2-1-pro-260628","object":"chat.completion.chunk","service_tier":"default","usage":null}
+
+data: {"choices":[{"delta":{"content":"后的","role":"assistant"},"index":0}],"citations":["https://www.bilibili.com/opus/1094838394134986768"],"created":1794627743,"id":"02179462774254818d6e3628ce906dcdb201e7d3c05ff32970c48","model":"doubao-seed-2-1-pro-260628","object":"chat.completion.chunk","service_tier":"default","usage":null}
+
+data: {"choices":[{"delta":{"content":"补贴","role":"assistant"},"index":0}],"citations":["https://www.bilibili.com/opus/1094838394134986768"],"created":1794627743,"id":"02179462774254818d6e3628ce906dcdb201e7d3c05ff32970c48","model":"doubao-seed-2-1-pro-260628","object":"chat.completion.chunk","service_tier":"default","usage":null}
+
+data: {"choices":[{"delta":{"content":"金额","role":"assistant"},"index":0}],"citations":["https://www.bilibili.com/opus/1094838394134986768"],"created":1794627743,"id":"02179462774254818d6e3628ce906dcdb201e7d3c05ff32970c48","model":"doubao-seed-2-1-pro-260628","object":"chat.completion.chunk","service_tier":"default","usage":null}
+
+data: {"choices":[{"delta":{"content":"[","role":"assistant"},"index":0}],"citations":["https://www.bilibili.com/opus/1094838394134986768"],"created":1794627743,"id":"02179462774254818d6e3628ce906dcdb201e7d3c05ff32970c48","model":"doubao-seed-2-1-pro-260628","object":"chat.completion.chunk","service_tier":"default","usage":null}
+
+data: {"choices":[{"delta":{"content":"4","role":"assistant"},"index":0}],"citations":["https://www.bilibili.com/opus/1094838394134986768"],"created":1794627743,"id":"02179462774254818d6e3628ce906dcdb201e7d3c05ff32970c48","model":"doubao-seed-2-1-pro-260628","object":"chat.completion.chunk","service_tier":"default","usage":null}
+
+data: {"choices":[{"delta":{"content":"]","role":"assistant"},"index":0}],"citations":["https://www.bilibili.com/opus/1094838394134986768"],"created":1794627743,"id":"02179462774254818d6e3628ce906dcdb201e7d3c05ff32970c48","model":"doubao-seed-2-1-pro-260628","object":"chat.completion.chunk","service_tier":"default","usage":null}
+
+data: {"choices":[{"delta":{"content":"。","role":"assistant"},"index":0}],"citations":["https://www.bilibili.com/opus/1094838394134986768"],"created":1794627743,"id":"02179462774254818d6e3628ce906dcdb201e7d3c05ff32970c48","model":"doubao-seed-2-1-pro-260628","object":"chat.completion.chunk","service_tier":"default","usage":null}
+
+data: {"choices":[{"delta":{"content":"目前","role":"assistant"},"index":0}],"citations":["https://www.bilibili.com/opus/1094838394134986768"],"created":1794627743,"id":"02179462774254818d6e3628ce906dcdb201e7d3c05ff32970c48","model":"doubao-seed-2-1-pro-260628","object":"chat.completion.chunk","service_tier":"default","usage":null}
+
+data: {"choices":[{"delta":{"content":"检索","role":"assistant"},"index":0}],"citations":["https://www.bilibili.com/opus/1094838394134986768"],"created":1794627743,"id":"02179462774254818d6e3628ce906dcdb201e7d3c05ff32970c48","model":"doubao-seed-2-1-pro-260628","object":"chat.completion.chunk","service_tier":"default","usage":null}
+
+data: {"choices":[{"delta":{"content":"到","role":"assistant"},"index":0}],"citations":["https://www.bilibili.com/opus/1094838394134986768"],"created":1794627743,"id":"02179462774254818d6e3628ce906dcdb201e7d3c05ff32970c48","model":"doubao-seed-2-1-pro-260628","object":"chat.completion.chunk","service_tier":"default","usage":null}
+
+data: {"choices":[{"delta":{"content":"的","role":"assistant"},"index":0}],"citations":["https://www.bilibili.com/opus/1094838394134986768"],"created":1794627743,"id":"02179462774254818d6e3628ce906dcdb201e7d3c05ff32970c48","model":"doubao-seed-2-1-pro-260628","object":"chat.completion.chunk","service_tier":"default","usage":null}
+
+data: {"choices":[{"delta":{"content":"公开","role":"assistant"},"index":0}],"citations":["https://www.bilibili.com/opus/1094838394134986768"],"created":1794627743,"id":"02179462774254818d6e3628ce906dcdb201e7d3c05ff32970c48","model":"doubao-seed-2-1-pro-260628","object":"chat.completion.chunk","service_tier":"default","usage":null}
+
+data: {"choices":[{"delta":{"content":"方案","role":"assistant"},"index":0}],"citations":["https://www.bilibili.com/opus/1094838394134986768"],"created":1794627743,"id":"02179462774254818d6e3628ce906dcdb201e7d3c05ff32970c48","model":"doubao-seed-2-1-pro-260628","object":"chat.completion.chunk","service_tier":"default","usage":null}
+
+data: {"choices":[{"delta":{"content":"内容","role":"assistant"},"index":0}],"citations":["https://www.bilibili.com/opus/1094838394134986768"],"created":1794627743,"id":"02179462774254818d6e3628ce906dcdb201e7d3c05ff32970c48","model":"doubao-seed-2-1-pro-260628","object":"chat.completion.chunk","service_tier":"default","usage":null}
+
+data: {"choices":[{"delta":{"content":"仅","role":"assistant"},"index":0}],"citations":["https://www.bilibili.com/opus/1094838394134986768"],"created":1794627743,"id":"02179462774254818d6e3628ce906dcdb201e7d3c05ff32970c48","model":"doubao-seed-2-1-pro-260628","object":"chat.completion.chunk","service_tier":"default","usage":null}
+
+data: {"choices":[{"delta":{"content":"明确","role":"assistant"},"index":0}],"citations":["https://www.bilibili.com/opus/1094838394134986768"],"created":1794627743,"id":"02179462774254818d6e3628ce906dcdb201e7d3c05ff32970c48","model":"doubao-seed-2-1-pro-260628","object":"chat.completion.chunk","service_tier":"default","usage":null}
+
+data: {"choices":[{"delta":{"content":"了","role":"assistant"},"index":0}],"citations":["https://www.bilibili.com/opus/1094838394134986768"],"created":1794627743,"id":"02179462774254818d6e3628ce906dcdb201e7d3c05ff32970c48","model":"doubao-seed-2-1-pro-260628","object":"chat.completion.chunk","service_tier":"default","usage":null}
+
+data: {"choices":[{"delta":{"content":"溯","role":"assistant"},"index":0}],"citations":["https://www.bilibili.com/opus/1094838394134986768"],"created":1794627743,"id":"02179462774254818d6e3628ce906dcdb201e7d3c05ff32970c48","model":"doubao-seed-2-1-pro-260628","object":"chat.completion.chunk","service_tier":"default","usage":null}
+
+data: {"choices":[{"delta":{"content":"及","role":"assistant"},"index":0}],"citations":["https://www.bilibili.com/opus/1094838394134986768"],"created":1794627743,"id":"02179462774254818d6e3628ce906dcdb201e7d3c05ff32970c48","model":"doubao-seed-2-1-pro-260628","object":"chat.completion.chunk","service_tier":"default","usage":null}
+
+data: {"choices":[{"delta":{"content":"补发","role":"assistant"},"index":0}],"citations":["https://www.bilibili.com/opus/1094838394134986768"],"created":1794627743,"id":"02179462774254818d6e3628ce906dcdb201e7d3c05ff32970c48","model":"doubao-seed-2-1-pro-260628","object":"chat.completion.chunk","service_tier":"default","usage":null}
+
+data: {"choices":[{"delta":{"content":"的","role":"assistant"},"index":0}],"citations":["https://www.bilibili.com/opus/1094838394134986768"],"created":1794627743,"id":"02179462774254818d6e3628ce906dcdb201e7d3c05ff32970c48","model":"doubao-seed-2-1-pro-260628","object":"chat.completion.chunk","service_tier":"default","usage":null}
+
+data: {"choices":[{"delta":{"content":"原则","role":"assistant"},"index":0}],"citations":["https://www.bilibili.com/opus/1094838394134986768"],"created":1794627743,"id":"02179462774254818d6e3628ce906dcdb201e7d3c05ff32970c48","model":"doubao-seed-2-1-pro-260628","object":"chat.completion.chunk","service_tier":"default","usage":null}
+
+data: {"choices":[{"delta":{"content":"，","role":"assistant"},"index":0}],"citations":["https://www.bilibili.com/opus/1094838394134986768"],"created":1794627743,"id":"02179462774254818d6e3628ce906dcdb201e7d3c05ff32970c48","model":"doubao-seed-2-1-pro-260628","object":"chat.completion.chunk","service_tier":"default","usage":null}
+
+data: {"choices":[{"delta":{"content":"尚未","role":"assistant"},"index":0}],"citations":["https://www.bilibili.com/opus/1094838394134986768"],"created":1794627743,"id":"02179462774254818d6e3628ce906dcdb201e7d3c05ff32970c48","model":"doubao-seed-2-1-pro-260628","object":"chat.completion.chunk","service_tier":"default","usage":null}
+
+data: {"choices":[{"delta":{"content":"披露","role":"assistant"},"index":0}],"citations":["https://www.bilibili.com/opus/1094838394134986768"],"created":1794627743,"id":"02179462774254818d6e3628ce906dcdb201e7d3c05ff32970c48","model":"doubao-seed-2-1-pro-260628","object":"chat.completion.chunk","service_tier":"default","usage":null}
+
+data: {"choices":[{"delta":{"content":"折算","role":"assistant"},"index":0}],"citations":["https://www.bilibili.com/opus/1094838394134986768"],"created":1794627743,"id":"02179462774254818d6e3628ce906dcdb201e7d3c05ff32970c48","model":"doubao-seed-2-1-pro-260628","object":"chat.completion.chunk","service_tier":"default","usage":null}
+
+data: {"choices":[{"delta":{"content":"的","role":"assistant"},"index":0}],"citations":["https://www.bilibili.com/opus/1094838394134986768"],"created":1794627743,"id":"02179462774254818d6e3628ce906dcdb201e7d3c05ff32970c48","model":"doubao-seed-2-1-pro-260628","object":"chat.completion.chunk","service_tier":"default","usage":null}
+
+data: {"choices":[{"delta":{"content":"具体","role":"assistant"},"index":0}],"citations":["https://www.bilibili.com/opus/1094838394134986768"],"created":1794627743,"id":"02179462774254818d6e3628ce906dcdb201e7d3c05ff32970c48","model":"doubao-seed-2-1-pro-260628","object":"chat.completion.chunk","service_tier":"default","usage":null}
+
+data: {"choices":[{"delta":{"content":"计算","role":"assistant"},"index":0}],"citations":["https://www.bilibili.com/opus/1094838394134986768"],"created":1794627743,"id":"02179462774254818d6e3628ce906dcdb201e7d3c05ff32970c48","model":"doubao-seed-2-1-pro-260628","object":"chat.completion.chunk","service_tier":"default","usage":null}
+
+data: {"choices":[{"delta":{"content":"细则","role":"assistant"},"index":0}],"citations":["https://www.bilibili.com/opus/1094838394134986768"],"created":1794627743,"id":"02179462774254818d6e3628ce906dcdb201e7d3c05ff32970c48","model":"doubao-seed-2-1-pro-260628","object":"chat.completion.chunk","service_tier":"default","usage":null}
+
+data: {"choices":[{"delta":{"content":"。","role":"assistant"},"index":0}],"citations":["https://www.bilibili.com/opus/1094838394134986768"],"created":1794627743,"id":"02179462774254818d6e3628ce906dcdb201e7d3c05ff32970c48","model":"doubao-seed-2-1-pro-260628","object":"chat.completion.chunk","service_tier":"default","usage":null}
+
+data: {"choices":[{"delta":{"content":"\n","role":"assistant"},"index":0}],"citations":["https://www.bilibili.com/opus/1094838394134986768"],"created":1794627743,"id":"02179462774254818d6e3628ce906dcdb201e7d3c05ff32970c48","model":"doubao-seed-2-1-pro-260628","object":"chat.completion.chunk","service_tier":"default","usage":null}
+
+data: {"choices":[{"delta":{"content":"---","role":"assistant"},"index":0}],"citations":["https://www.bilibili.com/opus/1094838394134986768"],"created":1794627743,"id":"02179462774254818d6e3628ce906dcdb201e7d3c05ff32970c48","model":"doubao-seed-2-1-pro-260628","object":"chat.completion.chunk","service_tier":"default","usage":null}
+
+data: {"choices":[{"delta":{"content":"\n","role":"assistant"},"index":0}],"citations":["https://www.bilibili.com/opus/1094838394134986768"],"created":1794627743,"id":"02179462774254818d6e3628ce906dcdb201e7d3c05ff32970c48","model":"doubao-seed-2-1-pro-260628","object":"chat.completion.chunk","service_tier":"default","usage":null}
+
+data: {"choices":[{"delta":{"content":"###","role":"assistant"},"index":0}],"citations":["https://www.bilibili.com/opus/1094838394134986768"],"created":1794627743,"id":"02179462774254818d6e3628ce906dcdb201e7d3c05ff32970c48","model":"doubao-seed-2-1-pro-260628","object":"chat.completion.chunk","service_tier":"default","usage":null}
+
+data: {"choices":[{"delta":{"content":" ","role":"assistant"},"index":0}],"citations":["https://www.bilibili.com/opus/1094838394134986768"],"created":1794627743,"id":"02179462774254818d6e3628ce906dcdb201e7d3c05ff32970c48","model":"doubao-seed-2-1-pro-260628","object":"chat.completion.chunk","service_tier":"default","usage":null}
+
+data: {"choices":[{"delta":{"content":"补充","role":"assistant"},"index":0}],"citations":["https://www.bilibili.com/opus/1094838394134986768"],"created":1794627743,"id":"02179462774254818d6e3628ce906dcdb201e7d3c05ff32970c48","model":"doubao-seed-2-1-pro-260628","object":"chat.completion.chunk","service_tier":"default","usage":null}
+
+data: {"choices":[{"delta":{"content":"背景","role":"assistant"},"index":0}],"citations":["https://www.bilibili.com/opus/1094838394134986768"],"created":1794627743,"id":"02179462774254818d6e3628ce906dcdb201e7d3c05ff32970c48","model":"doubao-seed-2-1-pro-260628","object":"chat.completion.chunk","service_tier":"default","usage":null}
+
+data: {"choices":[{"delta":{"content":"\n","role":"assistant"},"index":0}],"citations":["https://www.bilibili.com/opus/1094838394134986768"],"created":1794627743,"id":"02179462774254818d6e3628ce906dcdb201e7d3c05ff32970c48","model":"doubao-seed-2-1-pro-260628","object":"chat.completion.chunk","service_tier":"default","usage":null}
+
+data: {"choices":[{"delta":{"content":"此次","role":"assistant"},"index":0}],"citations":["https://www.bilibili.com/opus/1094838394134986768"],"created":1794627743,"id":"02179462774254818d6e3628ce906dcdb201e7d3c05ff32970c48","model":"doubao-seed-2-1-pro-260628","object":"chat.completion.chunk","service_tier":"default","usage":null}
+
+data: {"choices":[{"delta":{"content":"公布","role":"assistant"},"index":0}],"citations":["https://www.bilibili.com/opus/1094838394134986768"],"created":1794627743,"id":"02179462774254818d6e3628ce906dcdb201e7d3c05ff32970c48","model":"doubao-seed-2-1-pro-260628","object":"chat.completion.chunk","service_tier":"default","usage":null}
+
+data: {"choices":[{"delta":{"content":"的","role":"assistant"},"index":0}],"citations":["https://www.bilibili.com/opus/1094838394134986768"],"created":1794627743,"id":"02179462774254818d6e3628ce906dcdb201e7d3c05ff32970c48","model":"doubao-seed-2-1-pro-260628","object":"chat.completion.chunk","service_tier":"default","usage":null}
+
+data: {"choices":[{"delta":{"content":"《","role":"assistant"},"index":0}],"citations":["https://www.bilibili.com/opus/1094838394134986768"],"created":1794627743,"id":"02179462774254818d6e3628ce906dcdb201e7d3c05ff32970c48","model":"doubao-seed-2-1-pro-260628","object":"chat.completion.chunk","service_tier":"default","usage":null}
+
+data: {"choices":[{"delta":{"content":"育儿","role":"assistant"},"index":0}],"citations":["https://www.bilibili.com/opus/1094838394134986768"],"created":1794627743,"id":"02179462774254818d6e3628ce906dcdb201e7d3c05ff32970c48","model":"doubao-seed-2-1-pro-260628","object":"chat.completion.chunk","service_tier":"default","usage":null}
+
+data: {"choices":[{"delta":{"content":"补贴","role":"assistant"},"index":0}],"citations":["https://www.bilibili.com/opus/1094838394134986768"],"created":1794627743,"id":"02179462774254818d6e3628ce906dcdb201e7d3c05ff32970c48","model":"doubao-seed-2-1-pro-260628","object":"chat.completion.chunk","service_tier":"default","usage":null}
+
+data: {"choices":[{"delta":{"content":"制度","role":"assistant"},"index":0}],"citations":["https://www.bilibili.com/opus/1094838394134986768"],"created":1794627743,"id":"02179462774254818d6e3628ce906dcdb201e7d3c05ff32970c48","model":"doubao-seed-2-1-pro-260628","object":"chat.completion.chunk","service_tier":"default","usage":null}
+
+data: {"choices":[{"delta":{"content":"实施方案","role":"assistant"},"index":0}],"citations":["https://www.bilibili.com/opus/1094838394134986768"],"created":1794627743,"id":"02179462774254818d6e3628ce906dcdb201e7d3c05ff32970c48","model":"doubao-seed-2-1-pro-260628","object":"chat.completion.chunk","service_tier":"default","usage":null}
+
+data: {"choices":[{"delta":{"content":"》","role":"assistant"},"index":0}],"citations":["https://www.bilibili.com/opus/1094838394134986768"],"created":1794627743,"id":"02179462774254818d6e3628ce906dcdb201e7d3c05ff32970c48","model":"doubao-seed-2-1-pro-260628","object":"chat.completion.chunk","service_tier":"default","usage":null}
+
+data: {"choices":[{"delta":{"content":"是","role":"assistant"},"index":0}],"citations":["https://www.bilibili.com/opus/1094838394134986768"],"created":1794627743,"id":"02179462774254818d6e3628ce906dcdb201e7d3c05ff32970c48","model":"doubao-seed-2-1-pro-260628","object":"chat.completion.chunk","service_tier":"default","usage":null}
+
+data: {"choices":[{"delta":{"content":"我国","role":"assistant"},"index":0}],"citations":["https://www.bilibili.com/opus/1094838394134986768"],"created":1794627743,"id":"02179462774254818d6e3628ce906dcdb201e7d3c05ff32970c48","model":"doubao-seed-2-1-pro-260628","object":"chat.completion.chunk","service_tier":"default","usage":null}
+
+data: {"choices":[{"delta":{"content":"首次","role":"assistant"},"index":0}],"citations":["https://www.bilibili.com/opus/1094838394134986768"],"created":1794627743,"id":"02179462774254818d6e3628ce906dcdb201e7d3c05ff32970c48","model":"doubao-seed-2-1-pro-260628","object":"chat.completion.chunk","service_tier":"default","usage":null}
+
+data: {"choices":[{"delta":{"content":"在","role":"assistant"},"index":0}],"citations":["https://www.bilibili.com/opus/1094838394134986768"],"created":1794627743,"id":"02179462774254818d6e3628ce906dcdb201e7d3c05ff32970c48","model":"doubao-seed-2-1-pro-260628","object":"chat.completion.chunk","service_tier":"default","usage":null}
+
+data: {"choices":[{"delta":{"content":"全国","role":"assistant"},"index":0}],"citations":["https://www.bilibili.com/opus/1094838394134986768"],"created":1794627743,"id":"02179462774254818d6e3628ce906dcdb201e7d3c05ff32970c48","model":"doubao-seed-2-1-pro-260628","object":"chat.completion.chunk","service_tier":"default","usage":null}
+
+data: {"choices":[{"delta":{"content":"层面","role":"assistant"},"index":0}],"citations":["https://www.bilibili.com/opus/1094838394134986768"],"created":1794627743,"id":"02179462774254818d6e3628ce906dcdb201e7d3c05ff32970c48","model":"doubao-seed-2-1-pro-260628","object":"chat.completion.chunk","service_tier":"default","usage":null}
+
+data: {"choices":[{"delta":{"content":"建立","role":"assistant"},"index":0}],"citations":["https://www.bilibili.com/opus/1094838394134986768"],"created":1794627743,"id":"02179462774254818d6e3628ce906dcdb201e7d3c05ff32970c48","model":"doubao-seed-2-1-pro-260628","object":"chat.completion.chunk","service_tier":"default","usage":null}
+
+data: {"choices":[{"delta":{"content":"的","role":"assistant"},"index":0}],"citations":["https://www.bilibili.com/opus/1094838394134986768"],"created":1794627743,"id":"02179462774254818d6e3628ce906dcdb201e7d3c05ff32970c48","model":"doubao-seed-2-1-pro-260628","object":"chat.completion.chunk","service_tier":"default","usage":null}
+
+data: {"choices":[{"delta":{"content":"普惠","role":"assistant"},"index":0}],"citations":["https://www.bilibili.com/opus/1094838394134986768"],"created":1794627743,"id":"02179462774254818d6e3628ce906dcdb201e7d3c05ff32970c48","model":"doubao-seed-2-1-pro-260628","object":"chat.completion.chunk","service_tier":"default","usage":null}
+
+data: {"choices":[{"delta":{"content":"性","role":"assistant"},"index":0}],"citations":["https://www.bilibili.com/opus/1094838394134986768"],"created":1794627743,"id":"02179462774254818d6e3628ce906dcdb201e7d3c05ff32970c48","model":"doubao-seed-2-1-pro-260628","object":"chat.completion.chunk","service_tier":"default","usage":null}
+
+data: {"choices":[{"delta":{"content":"育儿","role":"assistant"},"index":0}],"citations":["https://www.bilibili.com/opus/1094838394134986768"],"created":1794627743,"id":"02179462774254818d6e3628ce906dcdb201e7d3c05ff32970c48","model":"doubao-seed-2-1-pro-260628","object":"chat.completion.chunk","service_tier":"default","usage":null}
+
+data: {"choices":[{"delta":{"content":"现金","role":"assistant"},"index":0}],"citations":["https://www.bilibili.com/opus/1094838394134986768"],"created":1794627743,"id":"02179462774254818d6e3628ce906dcdb201e7d3c05ff32970c48","model":"doubao-seed-2-1-pro-260628","object":"chat.completion.chunk","service_tier":"default","usage":null}
+
+data: {"choices":[{"delta":{"content":"补贴","role":"assistant"},"index":0}],"citations":["https://www.bilibili.com/opus/1094838394134986768"],"created":1794627743,"id":"02179462774254818d6e3628ce906dcdb201e7d3c05ff32970c48","model":"doubao-seed-2-1-pro-260628","object":"chat.completion.chunk","service_tier":"default","usage":null}
+
+data: {"choices":[{"delta":{"content":"制度","role":"assistant"},"index":0}],"citations":["https://www.bilibili.com/opus/1094838394134986768"],"created":1794627743,"id":"02179462774254818d6e3628ce906dcdb201e7d3c05ff32970c48","model":"doubao-seed-2-1-pro-260628","object":"chat.completion.chunk","service_tier":"default","usage":null}
+
+data: {"choices":[{"delta":{"content":"，","role":"assistant"},"index":0}],"citations":["https://www.bilibili.com/opus/1094838394134986768"],"created":1794627743,"id":"02179462774254818d6e3628ce906dcdb201e7d3c05ff32970c48","model":"doubao-seed-2-1-pro-260628","object":"chat.completion.chunk","service_tier":"default","usage":null}
+
+data: {"choices":[{"delta":{"content":"以","role":"assistant"},"index":0}],"citations":["https://www.bilibili.com/opus/1094838394134986768"],"created":1794627743,"id":"02179462774254818d6e3628ce906dcdb201e7d3c05ff32970c48","model":"doubao-seed-2-1-pro-260628","object":"chat.completion.chunk","service_tier":"default","usage":null}
+
+data: {"choices":[{"delta":{"content":"真","role":"assistant"},"index":0}],"citations":["https://www.bilibili.com/opus/1094838394134986768"],"created":1794627743,"id":"02179462774254818d6e3628ce906dcdb201e7d3c05ff32970c48","model":"doubao-seed-2-1-pro-260628","object":"chat.completion.chunk","service_tier":"default","usage":null}
+
+data: {"choices":[{"delta":{"content":"金","role":"assistant"},"index":0}],"citations":["https://www.bilibili.com/opus/1094838394134986768"],"created":1794627743,"id":"02179462774254818d6e3628ce906dcdb201e7d3c05ff32970c48","model":"doubao-seed-2-1-pro-260628","object":"chat.completion.chunk","service_tier":"default","usage":null}
+
+data: {"choices":[{"delta":{"content":"白银","role":"assistant"},"index":0}],"citations":["https://www.bilibili.com/opus/1094838394134986768"],"created":1794627743,"id":"02179462774254818d6e3628ce906dcdb201e7d3c05ff32970c48","model":"doubao-seed-2-1-pro-260628","object":"chat.completion.chunk","service_tier":"default","usage":null}
+
+data: {"choices":[{"delta":{"content":"直达","role":"assistant"},"index":0}],"citations":["https://www.bilibili.com/opus/1094838394134986768"],"created":1794627743,"id":"02179462774254818d6e3628ce906dcdb201e7d3c05ff32970c48","model":"doubao-seed-2-1-pro-260628","object":"chat.completion.chunk","service_tier":"default","usage":null}
+
+data: {"choices":[{"delta":{"content":"育儿","role":"assistant"},"index":0}],"citations":["https://www.bilibili.com/opus/1094838394134986768"],"created":1794627743,"id":"02179462774254818d6e3628ce906dcdb201e7d3c05ff32970c48","model":"doubao-seed-2-1-pro-260628","object":"chat.completion.chunk","service_tier":"default","usage":null}
+
+data: {"choices":[{"delta":{"content":"家庭","role":"assistant"},"index":0}],"citations":["https://www.bilibili.com/opus/1094838394134986768"],"created":1794627743,"id":"02179462774254818d6e3628ce906dcdb201e7d3c05ff32970c48","model":"doubao-seed-2-1-pro-260628","object":"chat.completion.chunk","service_tier":"default","usage":null}
+
+data: {"choices":[{"delta":{"content":"的","role":"assistant"},"index":0}],"citations":["https://www.bilibili.com/opus/1094838394134986768"],"created":1794627743,"id":"02179462774254818d6e3628ce906dcdb201e7d3c05ff32970c48","model":"doubao-seed-2-1-pro-260628","object":"chat.completion.chunk","service_tier":"default","usage":null}
+
+data: {"choices":[{"delta":{"content":"形式","role":"assistant"},"index":0}],"citations":["https://www.bilibili.com/opus/1094838394134986768"],"created":1794627743,"id":"02179462774254818d6e3628ce906dcdb201e7d3c05ff32970c48","model":"doubao-seed-2-1-pro-260628","object":"chat.completion.chunk","service_tier":"default","usage":null}
+
+data: {"choices":[{"delta":{"content":"，","role":"assistant"},"index":0}],"citations":["https://www.bilibili.com/opus/1094838394134986768"],"created":1794627743,"id":"02179462774254818d6e3628ce906dcdb201e7d3c05ff32970c48","model":"doubao-seed-2-1-pro-260628","object":"chat.completion.chunk","service_tier":"default","usage":null}
+
+data: {"choices":[{"delta":{"content":"将","role":"assistant"},"index":0}],"citations":["https://www.bilibili.com/opus/1094838394134986768"],"created":1794627743,"id":"02179462774254818d6e3628ce906dcdb201e7d3c05ff32970c48","model":"doubao-seed-2-1-pro-260628","object":"chat.completion.chunk","service_tier":"default","usage":null}
+
+data: {"choices":[{"delta":{"content":"生育","role":"assistant"},"index":0}],"citations":["https://www.bilibili.com/opus/1094838394134986768"],"created":1794627743,"id":"02179462774254818d6e3628ce906dcdb201e7d3c05ff32970c48","model":"doubao-seed-2-1-pro-260628","object":"chat.completion.chunk","service_tier":"default","usage":null}
+
+data: {"choices":[{"delta":{"content":"支持","role":"assistant"},"index":0}],"citations":["https://www.bilibili.com/opus/1094838394134986768"],"created":1794627743,"id":"02179462774254818d6e3628ce906dcdb201e7d3c05ff32970c48","model":"doubao-seed-2-1-pro-260628","object":"chat.completion.chunk","service_tier":"default","usage":null}
+
+data: {"choices":[{"delta":{"content":"举措","role":"assistant"},"index":0}],"citations":["https://www.bilibili.com/opus/1094838394134986768"],"created":1794627743,"id":"02179462774254818d6e3628ce906dcdb201e7d3c05ff32970c48","model":"doubao-seed-2-1-pro-260628","object":"chat.completion.chunk","service_tier":"default","usage":null}
+
+data: {"choices":[{"delta":{"content":"从","role":"assistant"},"index":0}],"citations":["https://www.bilibili.com/opus/1094838394134986768"],"created":1794627743,"id":"02179462774254818d6e3628ce906dcdb201e7d3c05ff32970c48","model":"doubao-seed-2-1-pro-260628","object":"chat.completion.chunk","service_tier":"default","usage":null}
+
+data: {"choices":[{"delta":{"content":"地方","role":"assistant"},"index":0}],"citations":["https://www.bilibili.com/opus/1094838394134986768"],"created":1794627743,"id":"02179462774254818d6e3628ce906dcdb201e7d3c05ff32970c48","model":"doubao-seed-2-1-pro-260628","object":"chat.completion.chunk","service_tier":"default","usage":null}
+
+data: {"choices":[{"delta":{"content":"零散","role":"assistant"},"index":0}],"citations":["https://www.bilibili.com/opus/1094838394134986768"],"created":1794627743,"id":"02179462774254818d6e3628ce906dcdb201e7d3c05ff32970c48","model":"doubao-seed-2-1-pro-260628","object":"chat.completion.chunk","service_tier":"default","usage":null}
+
+data: {"choices":[{"delta":{"content":"试点","role":"assistant"},"index":0}],"citations":["https://www.bilibili.com/opus/1094838394134986768"],"created":1794627743,"id":"02179462774254818d6e3628ce906dcdb201e7d3c05ff32970c48","model":"doubao-seed-2-1-pro-260628","object":"chat.completion.chunk","service_tier":"default","usage":null}
+
+data: {"choices":[{"delta":{"content":"上升","role":"assistant"},"index":0}],"citations":["https://www.bilibili.com/opus/1094838394134986768"],"created":1794627743,"id":"02179462774254818d6e3628ce906dcdb201e7d3c05ff32970c48","model":"doubao-seed-2-1-pro-260628","object":"chat.completion.chunk","service_tier":"default","usage":null}
+
+data: {"choices":[{"delta":{"content":"为","role":"assistant"},"index":0}],"citations":["https://www.bilibili.com/opus/1094838394134986768"],"created":1794627743,"id":"02179462774254818d6e3628ce906dcdb201e7d3c05ff32970c48","model":"doubao-seed-2-1-pro-260628","object":"chat.completion.chunk","service_tier":"default","usage":null}
+
+data: {"choices":[{"delta":{"content":"国家","role":"assistant"},"index":0}],"citations":["https://www.bilibili.com/opus/1094838394134986768"],"created":1794627743,"id":"02179462774254818d6e3628ce906dcdb201e7d3c05ff32970c48","model":"doubao-seed-2-1-pro-260628","object":"chat.completion.chunk","service_tier":"default","usage":null}
+
+data: {"choices":[{"delta":{"content":"统一","role":"assistant"},"index":0}],"citations":["https://www.bilibili.com/opus/1094838394134986768"],"created":1794627743,"id":"02179462774254818d6e3628ce906dcdb201e7d3c05ff32970c48","model":"doubao-seed-2-1-pro-260628","object":"chat.completion.chunk","service_tier":"default","usage":null}
+
+data: {"choices":[{"delta":{"content":"行动","role":"assistant"},"index":0}],"citations":["https://www.bilibili.com/opus/1094838394134986768"],"created":1794627743,"id":"02179462774254818d6e3628ce906dcdb201e7d3c05ff32970c48","model":"doubao-seed-2-1-pro-260628","object":"chat.completion.chunk","service_tier":"default","usage":null}
+
+data: {"choices":[{"delta":{"content":"，","role":"assistant"},"index":0}],"citations":["https://www.bilibili.com/opus/1094838394134986768"],"created":1794627743,"id":"02179462774254818d6e3628ce906dcdb201e7d3c05ff32970c48","model":"doubao-seed-2-1-pro-260628","object":"chat.completion.chunk","service_tier":"default","usage":null}
+
+data: {"choices":[{"delta":{"content":"是","role":"assistant"},"index":0}],"citations":["https://www.bilibili.com/opus/1094838394134986768"],"created":1794627743,"id":"02179462774254818d6e3628ce906dcdb201e7d3c05ff32970c48","model":"doubao-seed-2-1-pro-260628","object":"chat.completion.chunk","service_tier":"default","usage":null}
+
+data: {"choices":[{"delta":{"content":"我国","role":"assistant"},"index":0}],"citations":["https://www.bilibili.com/opus/1094838394134986768"],"created":1794627743,"id":"02179462774254818d6e3628ce906dcdb201e7d3c05ff32970c48","model":"doubao-seed-2-1-pro-260628","object":"chat.completion.chunk","service_tier":"default","usage":null}
+
+data: {"choices":[{"delta":{"content":"应对","role":"assistant"},"index":0}],"citations":["https://www.bilibili.com/opus/1094838394134986768"],"created":1794627743,"id":"02179462774254818d6e3628ce906dcdb201e7d3c05ff32970c48","model":"doubao-seed-2-1-pro-260628","object":"chat.completion.chunk","service_tier":"default","usage":null}
+
+data: {"choices":[{"delta":{"content":"人口","role":"assistant"},"index":0}],"citations":["https://www.bilibili.com/opus/1094838394134986768"],"created":1794627743,"id":"02179462774254818d6e3628ce906dcdb201e7d3c05ff32970c48","model":"doubao-seed-2-1-pro-260628","object":"chat.completion.chunk","service_tier":"default","usage":null}
+
+data: {"choices":[{"delta":{"content":"结构","role":"assistant"},"index":0}],"citations":["https://www.bilibili.com/opus/1094838394134986768"],"created":1794627743,"id":"02179462774254818d6e3628ce906dcdb201e7d3c05ff32970c48","model":"doubao-seed-2-1-pro-260628","object":"chat.completion.chunk","service_tier":"default","usage":null}
+
+data: {"choices":[{"delta":{"content":"挑战","role":"assistant"},"index":0}],"citations":["https://www.bilibili.com/opus/1094838394134986768"],"created":1794627743,"id":"02179462774254818d6e3628ce906dcdb201e7d3c05ff32970c48","model":"doubao-seed-2-1-pro-260628","object":"chat.completion.chunk","service_tier":"default","usage":null}
+
+data: {"choices":[{"delta":{"content":"、","role":"assistant"},"index":0}],"citations":["https://www.bilibili.com/opus/1094838394134986768"],"created":1794627743,"id":"02179462774254818d6e3628ce906dcdb201e7d3c05ff32970c48","model":"doubao-seed-2-1-pro-260628","object":"chat.completion.chunk","service_tier":"default","usage":null}
+
+data: {"choices":[{"delta":{"content":"构建","role":"assistant"},"index":0}],"citations":["https://www.bilibili.com/opus/1094838394134986768"],"created":1794627743,"id":"02179462774254818d6e3628ce906dcdb201e7d3c05ff32970c48","model":"doubao-seed-2-1-pro-260628","object":"chat.completion.chunk","service_tier":"default","usage":null}
+
+data: {"choices":[{"delta":{"content":"生育","role":"assistant"},"index":0}],"citations":["https://www.bilibili.com/opus/1094838394134986768"],"created":1794627743,"id":"02179462774254818d6e3628ce906dcdb201e7d3c05ff32970c48","model":"doubao-seed-2-1-pro-260628","object":"chat.completion.chunk","service_tier":"default","usage":null}
+
+data: {"choices":[{"delta":{"content":"友好","role":"assistant"},"index":0}],"citations":["https://www.bilibili.com/opus/1094838394134986768"],"created":1794627743,"id":"02179462774254818d6e3628ce906dcdb201e7d3c05ff32970c48","model":"doubao-seed-2-1-pro-260628","object":"chat.completion.chunk","service_tier":"default","usage":null}
+
+data: {"choices":[{"delta":{"content":"型","role":"assistant"},"index":0}],"citations":["https://www.bilibili.com/opus/1094838394134986768"],"created":1794627743,"id":"02179462774254818d6e3628ce906dcdb201e7d3c05ff32970c48","model":"doubao-seed-2-1-pro-260628","object":"chat.completion.chunk","service_tier":"default","usage":null}
+
+data: {"choices":[{"delta":{"content":"社会","role":"assistant"},"index":0}],"citations":["https://www.bilibili.com/opus/1094838394134986768"],"created":1794627743,"id":"02179462774254818d6e3628ce906dcdb201e7d3c05ff32970c48","model":"doubao-seed-2-1-pro-260628","object":"chat.completion.chunk","service_tier":"default","usage":null}
+
+data: {"choices":[{"delta":{"content":"的","role":"assistant"},"index":0}],"citations":["https://www.bilibili.com/opus/1094838394134986768"],"created":1794627743,"id":"02179462774254818d6e3628ce906dcdb201e7d3c05ff32970c48","model":"doubao-seed-2-1-pro-260628","object":"chat.completion.chunk","service_tier":"default","usage":null}
+
+data: {"choices":[{"delta":{"content":"关键","role":"assistant"},"index":0}],"citations":["https://www.bilibili.com/opus/1094838394134986768"],"created":1794627743,"id":"02179462774254818d6e3628ce906dcdb201e7d3c05ff32970c48","model":"doubao-seed-2-1-pro-260628","object":"chat.completion.chunk","service_tier":"default","usage":null}
+
+data: {"choices":[{"delta":{"content":"民生","role":"assistant"},"index":0}],"citations":["https://www.bilibili.com/opus/1094838394134986768"],"created":1794627743,"id":"02179462774254818d6e3628ce906dcdb201e7d3c05ff32970c48","model":"doubao-seed-2-1-pro-260628","object":"chat.completion.chunk","service_tier":"default","usage":null}
+
+data: {"choices":[{"delta":{"content":"举措","role":"assistant"},"index":0}],"citations":["https://www.bilibili.com/opus/1094838394134986768"],"created":1794627743,"id":"02179462774254818d6e3628ce906dcdb201e7d3c05ff32970c48","model":"doubao-seed-2-1-pro-260628","object":"chat.completion.chunk","service_tier":"default","usage":null}
+
+data: {"choices":[{"delta":{"content":"[","role":"assistant"},"index":0}],"citations":["https://www.bilibili.com/opus/1094838394134986768"],"created":1794627743,"id":"02179462774254818d6e3628ce906dcdb201e7d3c05ff32970c48","model":"doubao-seed-2-1-pro-260628","object":"chat.completion.chunk","service_tier":"default","usage":null}
+
+data: {"choices":[{"delta":{"content":"4","role":"assistant"},"index":0}],"citations":["https://www.bilibili.com/opus/1094838394134986768"],"created":1794627743,"id":"02179462774254818d6e3628ce906dcdb201e7d3c05ff32970c48","model":"doubao-seed-2-1-pro-260628","object":"chat.completion.chunk","service_tier":"default","usage":null}
+
+data: {"choices":[{"delta":{"content":"]","role":"assistant"},"index":0}],"citations":["https://www.bilibili.com/opus/1094838394134986768"],"created":1794627743,"id":"02179462774254818d6e3628ce906dcdb201e7d3c05ff32970c48","model":"doubao-seed-2-1-pro-260628","object":"chat.completion.chunk","service_tier":"default","usage":null}
+
+data: {"choices":[{"delta":{"content":"。","role":"assistant"},"index":0}],"citations":["https://www.bilibili.com/opus/1094838394134986768"],"created":1794627743,"id":"02179462774254818d6e3628ce906dcdb201e7d3c05ff32970c48","model":"doubao-seed-2-1-pro-260628","object":"chat.completion.chunk","service_tier":"default","usage":null}
+
+data: {"choices":[{"delta":{"content":"\n\n","role":"assistant"},"index":0}],"citations":["https://www.bilibili.com/opus/1094838394134986768"],"created":1794627743,"id":"02179462774254818d6e3628ce906dcdb201e7d3c05ff32970c48","model":"doubao-seed-2-1-pro-260628","object":"chat.completion.chunk","service_tier":"default","usage":null}
+
+data: {"choices":[{"delta":{"content":"[","role":"assistant"},"index":0}],"citations":["https://www.bilibili.com/opus/1094838394134986768"],"created":1794627743,"id":"02179462774254818d6e3628ce906dcdb201e7d3c05ff32970c48","model":"doubao-seed-2-1-pro-260628","object":"chat.completion.chunk","service_tier":"default","usage":null}
+
+data: {"choices":[{"delta":{"content":"4","role":"assistant"},"index":0}],"citations":["https://www.bilibili.com/opus/1094838394134986768"],"created":1794627743,"id":"02179462774254818d6e3628ce906dcdb201e7d3c05ff32970c48","model":"doubao-seed-2-1-pro-260628","object":"chat.completion.chunk","service_tier":"default","usage":null}
+
+data: {"choices":[{"delta":{"content":"]","role":"assistant"},"index":0}],"citations":["https://www.bilibili.com/opus/1094838394134986768"],"created":1794627743,"id":"02179462774254818d6e3628ce906dcdb201e7d3c05ff32970c48","model":"doubao-seed-2-1-pro-260628","object":"chat.completion.chunk","service_tier":"default","usage":null}
+
+data: {"choices":[{"delta":{"content":" ","role":"assistant"},"index":0}],"citations":["https://www.bilibili.com/opus/1094838394134986768"],"created":1794627743,"id":"02179462774254818d6e3628ce906dcdb201e7d3c05ff32970c48","model":"doubao-seed-2-1-pro-260628","object":"chat.completion.chunk","service_tier":"default","usage":null}
+
+data: {"choices":[{"delta":{"content":"搜索","role":"assistant"},"index":0}],"citations":["https://www.bilibili.com/opus/1094838394134986768"],"created":1794627743,"id":"02179462774254818d6e3628ce906dcdb201e7d3c05ff32970c48","model":"doubao-seed-2-1-pro-260628","object":"chat.completion.chunk","service_tier":"default","usage":null}
+
+data: {"choices":[{"delta":{"content":"结果","role":"assistant"},"index":0}],"citations":["https://www.bilibili.com/opus/1094838394134986768"],"created":1794627743,"id":"02179462774254818d6e3628ce906dcdb201e7d3c05ff32970c48","model":"doubao-seed-2-1-pro-260628","object":"chat.completion.chunk","service_tier":"default","usage":null}
+
+data: {"choices":[{"delta":{"content":"来源","role":"assistant"},"index":0}],"citations":["https://www.bilibili.com/opus/1094838394134986768"],"created":1794627743,"id":"02179462774254818d6e3628ce906dcdb201e7d3c05ff32970c48","model":"doubao-seed-2-1-pro-260628","object":"chat.completion.chunk","service_tier":"default","usage":null}
+
+data: {"choices":[{"delta":{"content":"：","role":"assistant"},"index":0}],"citations":["https://www.bilibili.com/opus/1094838394134986768"],"created":1794627743,"id":"02179462774254818d6e3628ce906dcdb201e7d3c05ff32970c48","model":"doubao-seed-2-1-pro-260628","object":"chat.completion.chunk","service_tier":"default","usage":null}
+
+data: {"choices":[{"delta":{"content":"公布","role":"assistant"},"index":0}],"citations":["https://www.bilibili.com/opus/1094838394134986768"],"created":1794627743,"id":"02179462774254818d6e3628ce906dcdb201e7d3c05ff32970c48","model":"doubao-seed-2-1-pro-260628","object":"chat.completion.chunk","service_tier":"default","usage":null}
+
+data: {"choices":[{"delta":{"content":"《","role":"assistant"},"index":0}],"citations":["https://www.bilibili.com/opus/1094838394134986768"],"created":1794627743,"id":"02179462774254818d6e3628ce906dcdb201e7d3c05ff32970c48","model":"doubao-seed-2-1-pro-260628","object":"chat.completion.chunk","service_tier":"default","usage":null}
+
+data: {"choices":[{"delta":{"content":"育儿","role":"assistant"},"index":0}],"citations":["https://www.bilibili.com/opus/1094838394134986768"],"created":1794627743,"id":"02179462774254818d6e3628ce906dcdb201e7d3c05ff32970c48","model":"doubao-seed-2-1-pro-260628","object":"chat.completion.chunk","service_tier":"default","usage":null}
+
+data: {"choices":[{"delta":{"content":"补贴","role":"assistant"},"index":0}],"citations":["https://www.bilibili.com/opus/1094838394134986768"],"created":1794627743,"id":"02179462774254818d6e3628ce906dcdb201e7d3c05ff32970c48","model":"doubao-seed-2-1-pro-260628","object":"chat.completion.chunk","service_tier":"default","usage":null}
+
+data: {"choices":[{"delta":{"content":"制度","role":"assistant"},"index":0}],"citations":["https://www.bilibili.com/opus/1094838394134986768"],"created":1794627743,"id":"02179462774254818d6e3628ce906dcdb201e7d3c05ff32970c48","model":"doubao-seed-2-1-pro-260628","object":"chat.completion.chunk","service_tier":"default","usage":null}
+
+data: {"choices":[{"delta":{"content":"实施方案","role":"assistant"},"index":0}],"citations":["https://www.bilibili.com/opus/1094838394134986768"],"created":1794627743,"id":"02179462774254818d6e3628ce906dcdb201e7d3c05ff32970c48","model":"doubao-seed-2-1-pro-260628","object":"chat.completion.chunk","service_tier":"default","usage":null}
+
+data: {"choices":[{"delta":{"content":"》","role":"assistant"},"index":0}],"citations":["https://www.bilibili.com/opus/1094838394134986768"],"created":1794627743,"id":"02179462774254818d6e3628ce906dcdb201e7d3c05ff32970c48","model":"doubao-seed-2-1-pro-260628","object":"chat.completion.chunk","service_tier":"default","usage":null}
+
+data: {"choices":[{"delta":{"content":"的","role":"assistant"},"index":0}],"citations":["https://www.bilibili.com/opus/1094838394134986768"],"created":1794627743,"id":"02179462774254818d6e3628ce906dcdb201e7d3c05ff32970c48","model":"doubao-seed-2-1-pro-260628","object":"chat.completion.chunk","service_tier":"default","usage":null}
+
+data: {"choices":[{"delta":{"content":"相关","role":"assistant"},"index":0}],"citations":["https://www.bilibili.com/opus/1094838394134986768"],"created":1794627743,"id":"02179462774254818d6e3628ce906dcdb201e7d3c05ff32970c48","model":"doubao-seed-2-1-pro-260628","object":"chat.completion.chunk","service_tier":"default","usage":null}
+
+data: {"choices":[{"delta":{"content":"公开","role":"assistant"},"index":0}],"citations":["https://www.bilibili.com/opus/1094838394134986768"],"created":1794627743,"id":"02179462774254818d6e3628ce906dcdb201e7d3c05ff32970c48","model":"doubao-seed-2-1-pro-260628","object":"chat.completion.chunk","service_tier":"default","usage":null}
+
+data: {"choices":[{"delta":{"content":"表述","role":"assistant"},"index":0}],"citations":["https://www.bilibili.com/opus/1094838394134986768"],"created":1794627743,"id":"02179462774254818d6e3628ce906dcdb201e7d3c05ff32970c48","model":"doubao-seed-2-1-pro-260628","object":"chat.completion.chunk","service_tier":"default","usage":null}
+
+data: {"choices":[{"delta":{"content":"内容","role":"assistant"},"index":0}],"citations":["https://www.bilibili.com/opus/1094838394134986768"],"created":1794627743,"id":"02179462774254818d6e3628ce906dcdb201e7d3c05ff32970c48","model":"doubao-seed-2-1-pro-260628","object":"chat.completion.chunk","service_tier":"default","usage":null}
+
+data: {"choices":[{"delta":{"content":"。","role":"assistant"},"index":0}],"citations":["https://www.bilibili.com/opus/1094838394134986768"],"created":1794627743,"id":"02179462774254818d6e3628ce906dcdb201e7d3c05ff32970c48","model":"doubao-seed-2-1-pro-260628","object":"chat.completion.chunk","service_tier":"default","usage":null}
+
+data: {"choices":[{"delta":{"content":"","role":"assistant"},"finish_reason":"stop","index":0}],"citations":["https://www.bilibili.com/opus/1094838394134986768"],"created":1794627743,"id":"02179462774254818d6e3628ce906dcdb201e7d3c05ff32970c48","model":"doubao-seed-2-1-pro-260628","object":"chat.completion.chunk","service_tier":"default","usage":null}
+
+data: {"choices":[],"citations":["https://www.bilibili.com/opus/1094838394134986768"],"created":1794627743,"id":"02179462774254818d6e3628ce906dcdb201e7d3c05ff32970c48","model":"doubao-seed-2-1-pro-260628","object":"chat.completion.chunk","service_tier":"default","usage":{"completion_tokens":1589,"completion_tokens_details":{"reasoning_tokens":1342},"prompt_tokens":861,"prompt_tokens_details":{"cached_tokens":0},"total_tokens":2450}}
+
+data: [DONE]
+

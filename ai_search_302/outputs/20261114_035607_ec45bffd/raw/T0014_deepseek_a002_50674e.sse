@@ -1,0 +1,624 @@
+data: {"choices":[{"delta":{"reasoning_content":"用户","role":"assistant"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://new.qq.com/rain/a/20260926A073A600"],"created":1794626054,"id":"chatcmpl-b60dfd1f-6085-4485-ac59-42a56ea88df1","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"问："},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://new.qq.com/rain/a/20260926A073A600"],"created":1794626054,"id":"chatcmpl-b60dfd1f-6085-4485-ac59-42a56ea88df1","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"刘欢患"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://new.qq.com/rain/a/20260926A073A600"],"created":1794626054,"id":"chatcmpl-b60dfd1f-6085-4485-ac59-42a56ea88df1","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"过癌症，也有"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://new.qq.com/rain/a/20260926A073A600"],"created":1794626054,"id":"chatcmpl-b60dfd1f-6085-4485-ac59-42a56ea88df1","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"过股骨头坏死，他的"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://new.qq.com/rain/a/20260926A073A600"],"created":1794626054,"id":"chatcmpl-b60dfd1f-6085-4485-ac59-42a56ea88df1","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"去世是这些病导致的吗"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://new.qq.com/rain/a/20260926A073A600"],"created":1794626054,"id":"chatcmpl-b60dfd1f-6085-4485-ac59-42a56ea88df1","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"？\n\n"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://new.qq.com/rain/a/20260926A073A600"],"created":1794626054,"id":"chatcmpl-b60dfd1f-6085-4485-ac59-42a56ea88df1","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"搜索结果只"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://new.qq.com/rain/a/20260926A073A600"],"created":1794626054,"id":"chatcmpl-b60dfd1f-6085-4485-ac59-42a56ea88df1","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"给"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://new.qq.com/rain/a/20260926A073A600"],"created":1794626054,"id":"chatcmpl-b60dfd1f-6085-4485-ac59-42a56ea88df1","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"了一个网页["},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://new.qq.com/rain/a/20260926A073A600"],"created":1794626054,"id":"chatcmpl-b60dfd1f-6085-4485-ac59-42a56ea88df1","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"web"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://new.qq.com/rain/a/20260926A073A600"],"created":1794626054,"id":"chatcmpl-b60dfd1f-6085-4485-ac59-42a56ea88df1","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"page 4]，内容"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://new.qq.com/rain/a/20260926A073A600"],"created":1794626054,"id":"chatcmpl-b60dfd1f-6085-4485-ac59-42a56ea88df1","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"说刘欢于"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://new.qq.com/rain/a/20260926A073A600"],"created":1794626054,"id":"chatcmpl-b60dfd1f-6085-4485-ac59-42a56ea88df1","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"2026年9月25"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://new.qq.com/rain/a/20260926A073A600"],"created":1794626054,"id":"chatcmpl-b60dfd1f-6085-4485-ac59-42a56ea88df1","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"日在上海因病"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://new.qq.com/rain/a/20260926A073A600"],"created":1794626054,"id":"chatcmpl-b60dfd1f-6085-4485-ac59-42a56ea88df1","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"去世，享年63"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://new.qq.com/rain/a/20260926A073A600"],"created":1794626054,"id":"chatcmpl-b60dfd1f-6085-4485-ac59-42a56ea88df1","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"岁；"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://new.qq.com/rain/a/20260926A073A600"],"created":1794626054,"id":"chatcmpl-b60dfd1f-6085-4485-ac59-42a56ea88df1","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"官方讣告"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://new.qq.com/rain/a/20260926A073A600"],"created":1794626054,"id":"chatcmpl-b60dfd1f-6085-4485-ac59-42a56ea88df1","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"未透露"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://new.qq.com/rain/a/20260926A073A600"],"created":1794626054,"id":"chatcmpl-b60dfd1f-6085-4485-ac59-42a56ea88df1","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"具体病因；公开"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://new.qq.com/rain/a/20260926A073A600"],"created":1794626054,"id":"chatcmpl-b60dfd1f-6085-4485-ac59-42a56ea88df1","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"资料显示他生前"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://new.qq.com/rain/a/20260926A073A600"],"created":1794626054,"id":"chatcmpl-b60dfd1f-6085-4485-ac59-42a56ea88df1","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"曾被"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://new.qq.com/rain/a/20260926A073A600"],"created":1794626054,"id":"chatcmpl-b60dfd1f-6085-4485-ac59-42a56ea88df1","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"确诊右侧股"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://new.qq.com/rain/a/20260926A073A600"],"created":1794626054,"id":"chatcmpl-b60dfd1f-6085-4485-ac59-42a56ea88df1","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"骨头缺血性坏死。没有"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://new.qq.com/rain/a/20260926A073A600"],"created":1794626054,"id":"chatcmpl-b60dfd1f-6085-4485-ac59-42a56ea88df1","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"提到癌症。而且"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://new.qq.com/rain/a/20260926A073A600"],"created":1794626054,"id":"chatcmpl-b60dfd1f-6085-4485-ac59-42a56ea88df1","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"这个网页来源"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://new.qq.com/rain/a/20260926A073A600"],"created":1794626054,"id":"chatcmpl-b60dfd1f-6085-4485-ac59-42a56ea88df1","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"是"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://new.qq.com/rain/a/20260926A073A600"],"created":1794626054,"id":"chatcmpl-b60dfd1f-6085-4485-ac59-42a56ea88df1","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"腾讯新闻（"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://new.qq.com/rain/a/20260926A073A600"],"created":1794626054,"id":"chatcmpl-b60dfd1f-6085-4485-ac59-42a56ea88df1","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"inews"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://new.qq.com/rain/a/20260926A073A600"],"created":1794626054,"id":"chatcmpl-b60dfd1f-6085-4485-ac59-42a56ea88df1","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":".g"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://new.qq.com/rain/a/20260926A073A600"],"created":1794626054,"id":"chatcmpl-b60dfd1f-6085-4485-ac59-42a56ea88df1","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"timg.com图片"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://new.qq.com/rain/a/20260926A073A600"],"created":1794626054,"id":"chatcmpl-b60dfd1f-6085-4485-ac59-42a56ea88df1","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"，"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://new.qq.com/rain/a/20260926A073A600"],"created":1794626054,"id":"chatcmpl-b60dfd1f-6085-4485-ac59-42a56ea88df1","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"可能是"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://new.qq.com/rain/a/20260926A073A600"],"created":1794626054,"id":"chatcmpl-b60dfd1f-6085-4485-ac59-42a56ea88df1","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"自媒体"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://new.qq.com/rain/a/20260926A073A600"],"created":1794626054,"id":"chatcmpl-b60dfd1f-6085-4485-ac59-42a56ea88df1","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"），"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://new.qq.com/rain/a/20260926A073A600"],"created":1794626054,"id":"chatcmpl-b60dfd1f-6085-4485-ac59-42a56ea88df1","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"可靠性"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://new.qq.com/rain/a/20260926A073A600"],"created":1794626054,"id":"chatcmpl-b60dfd1f-6085-4485-ac59-42a56ea88df1","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"不足"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://new.qq.com/rain/a/20260926A073A600"],"created":1794626054,"id":"chatcmpl-b60dfd1f-6085-4485-ac59-42a56ea88df1","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"。\n\n我需要注意"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://new.qq.com/rain/a/20260926A073A600"],"created":1794626054,"id":"chatcmpl-b60dfd1f-6085-4485-ac59-42a56ea88df1","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"：这个"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://new.qq.com/rain/a/20260926A073A600"],"created":1794626054,"id":"chatcmpl-b60dfd1f-6085-4485-ac59-42a56ea88df1","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"搜索结果"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://new.qq.com/rain/a/20260926A073A600"],"created":1794626054,"id":"chatcmpl-b60dfd1f-6085-4485-ac59-42a56ea88df1","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"本身真实性"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://new.qq.com/rain/a/20260926A073A600"],"created":1794626054,"id":"chatcmpl-b60dfd1f-6085-4485-ac59-42a56ea88df1","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"存疑——刘欢去世"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://new.qq.com/rain/a/20260926A073A600"],"created":1794626054,"id":"chatcmpl-b60dfd1f-6085-4485-ac59-42a56ea88df1","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"的消息"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://new.qq.com/rain/a/20260926A073A600"],"created":1794626054,"id":"chatcmpl-b60dfd1f-6085-4485-ac59-42a56ea88df1","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"？实际上"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://new.qq.com/rain/a/20260926A073A600"],"created":1794626054,"id":"chatcmpl-b60dfd1f-6085-4485-ac59-42a56ea88df1","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"截至我的"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://new.qq.com/rain/a/20260926A073A600"],"created":1794626054,"id":"chatcmpl-b60dfd1f-6085-4485-ac59-42a56ea88df1","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"知识，"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://new.qq.com/rain/a/20260926A073A600"],"created":1794626054,"id":"chatcmpl-b60dfd1f-6085-4485-ac59-42a56ea88df1","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"刘欢并未"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://new.qq.com/rain/a/20260926A073A600"],"created":1794626054,"id":"chatcmpl-b60dfd1f-6085-4485-ac59-42a56ea88df1","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"去世。但查询"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://new.qq.com/rain/a/20260926A073A600"],"created":1794626054,"id":"chatcmpl-b60dfd1f-6085-4485-ac59-42a56ea88df1","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"日期是2026-11"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://new.qq.com/rain/a/20260926A073A600"],"created":1794626054,"id":"chatcmpl-b60dfd1f-6085-4485-ac59-42a56ea88df1","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"-14，我不"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://new.qq.com/rain/a/20260926A073A600"],"created":1794626054,"id":"chatcmpl-b60dfd1f-6085-4485-ac59-42a56ea88df1","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"掌握"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://new.qq.com/rain/a/20260926A073A600"],"created":1794626054,"id":"chatcmpl-b60dfd1f-6085-4485-ac59-42a56ea88df1","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"。我需要联网检索，"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://new.qq.com/rain/a/20260926A073A600"],"created":1794626054,"id":"chatcmpl-b60dfd1f-6085-4485-ac59-42a56ea88df1","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"但只能"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://new.qq.com/rain/a/20260926A073A600"],"created":1794626054,"id":"chatcmpl-b60dfd1f-6085-4485-ac59-42a56ea88df1","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"基于"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://new.qq.com/rain/a/20260926A073A600"],"created":1794626054,"id":"chatcmpl-b60dfd1f-6085-4485-ac59-42a56ea88df1","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"提供的搜索结果。搜索结果"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://new.qq.com/rain/a/20260926A073A600"],"created":1794626054,"id":"chatcmpl-b60dfd1f-6085-4485-ac59-42a56ea88df1","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"只有一个网页"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://new.qq.com/rain/a/20260926A073A600"],"created":1794626054,"id":"chatcmpl-b60dfd1f-6085-4485-ac59-42a56ea88df1","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"，且它"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://new.qq.com/rain/a/20260926A073A600"],"created":1794626054,"id":"chatcmpl-b60dfd1f-6085-4485-ac59-42a56ea88df1","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"说"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://new.qq.com/rain/a/20260926A073A600"],"created":1794626054,"id":"chatcmpl-b60dfd1f-6085-4485-ac59-42a56ea88df1","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"官方讣告未"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://new.qq.com/rain/a/20260926A073A600"],"created":1794626054,"id":"chatcmpl-b60dfd1f-6085-4485-ac59-42a56ea88df1","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"透露病因"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://new.qq.com/rain/a/20260926A073A600"],"created":1794626054,"id":"chatcmpl-b60dfd1f-6085-4485-ac59-42a56ea88df1","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"。\n\n所以"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://new.qq.com/rain/a/20260926A073A600"],"created":1794626054,"id":"chatcmpl-b60dfd1f-6085-4485-ac59-42a56ea88df1","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"回答要点"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://new.qq.com/rain/a/20260926A073A600"],"created":1794626054,"id":"chatcmpl-b60dfd1f-6085-4485-ac59-42a56ea88df1","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"：\n1. 不能确认"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://new.qq.com/rain/a/20260926A073A600"],"created":1794626054,"id":"chatcmpl-b60dfd1f-6085-4485-ac59-42a56ea88df1","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"去世"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://new.qq.com/rain/a/20260926A073A600"],"created":1794626054,"id":"chatcmpl-b60dfd1f-6085-4485-ac59-42a56ea88df1","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"与癌症或"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://new.qq.com/rain/a/20260926A073A600"],"created":1794626054,"id":"chatcmpl-b60dfd1f-6085-4485-ac59-42a56ea88df1","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"股骨头坏死有"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://new.qq.com/rain/a/20260926A073A600"],"created":1794626054,"id":"chatcmpl-b60dfd1f-6085-4485-ac59-42a56ea88df1","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"直接"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://new.qq.com/rain/a/20260926A073A600"],"created":1794626054,"id":"chatcmpl-b60dfd1f-6085-4485-ac59-42a56ea88df1","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"因果关系。"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://new.qq.com/rain/a/20260926A073A600"],"created":1794626054,"id":"chatcmpl-b60dfd1f-6085-4485-ac59-42a56ea88df1","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"官方"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://new.qq.com/rain/a/20260926A073A600"],"created":1794626054,"id":"chatcmpl-b60dfd1f-6085-4485-ac59-42a56ea88df1","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"讣告未公布"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://new.qq.com/rain/a/20260926A073A600"],"created":1794626054,"id":"chatcmpl-b60dfd1f-6085-4485-ac59-42a56ea88df1","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"具体病因["},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://new.qq.com/rain/a/20260926A073A600"],"created":1794626054,"id":"chatcmpl-b60dfd1f-6085-4485-ac59-42a56ea88df1","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"4]。\n2. "},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://new.qq.com/rain/a/20260926A073A600"],"created":1794626054,"id":"chatcmpl-b60dfd1f-6085-4485-ac59-42a56ea88df1","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"股"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://new.qq.com/rain/a/20260926A073A600"],"created":1794626054,"id":"chatcmpl-b60dfd1f-6085-4485-ac59-42a56ea88df1","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"骨头缺血性坏死"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://new.qq.com/rain/a/20260926A073A600"],"created":1794626054,"id":"chatcmpl-b60dfd1f-6085-4485-ac59-42a56ea88df1","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"本身通常"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://new.qq.com/rain/a/20260926A073A600"],"created":1794626054,"id":"chatcmpl-b60dfd1f-6085-4485-ac59-42a56ea88df1","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"不直接致命"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://new.qq.com/rain/a/20260926A073A600"],"created":1794626054,"id":"chatcmpl-b60dfd1f-6085-4485-ac59-42a56ea88df1","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"，主要"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://new.qq.com/rain/a/20260926A073A600"],"created":1794626054,"id":"chatcmpl-b60dfd1f-6085-4485-ac59-42a56ea88df1","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"影响关节"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://new.qq.com/rain/a/20260926A073A600"],"created":1794626054,"id":"chatcmpl-b60dfd1f-6085-4485-ac59-42a56ea88df1","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"功能，"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://new.qq.com/rain/a/20260926A073A600"],"created":1794626054,"id":"chatcmpl-b60dfd1f-6085-4485-ac59-42a56ea88df1","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"被称为"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://new.qq.com/rain/a/20260926A073A600"],"created":1794626054,"id":"chatcmpl-b60dfd1f-6085-4485-ac59-42a56ea88df1","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"\"不死"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://new.qq.com/rain/a/20260926A073A600"],"created":1794626054,"id":"chatcmpl-b60dfd1f-6085-4485-ac59-42a56ea88df1","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"癌症\"是"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://new.qq.com/rain/a/20260926A073A600"],"created":1794626054,"id":"chatcmpl-b60dfd1f-6085-4485-ac59-42a56ea88df1","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"民间说法，非医学"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://new.qq.com/rain/a/20260926A073A600"],"created":1794626054,"id":"chatcmpl-b60dfd1f-6085-4485-ac59-42a56ea88df1","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"诊断名"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://new.qq.com/rain/a/20260926A073A600"],"created":1794626054,"id":"chatcmpl-b60dfd1f-6085-4485-ac59-42a56ea88df1","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"[4]。因此"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://new.qq.com/rain/a/20260926A073A600"],"created":1794626054,"id":"chatcmpl-b60dfd1f-6085-4485-ac59-42a56ea88df1","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"从"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://new.qq.com/rain/a/20260926A073A600"],"created":1794626054,"id":"chatcmpl-b60dfd1f-6085-4485-ac59-42a56ea88df1","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"医学常识"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://new.qq.com/rain/a/20260926A073A600"],"created":1794626054,"id":"chatcmpl-b60dfd1f-6085-4485-ac59-42a56ea88df1","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"看，它"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://new.qq.com/rain/a/20260926A073A600"],"created":1794626054,"id":"chatcmpl-b60dfd1f-6085-4485-ac59-42a56ea88df1","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"一般"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://new.qq.com/rain/a/20260926A073A600"],"created":1794626054,"id":"chatcmpl-b60dfd1f-6085-4485-ac59-42a56ea88df1","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"不是直接"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://new.qq.com/rain/a/20260926A073A600"],"created":1794626054,"id":"chatcmpl-b60dfd1f-6085-4485-ac59-42a56ea88df1","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"死"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://new.qq.com/rain/a/20260926A073A600"],"created":1794626054,"id":"chatcmpl-b60dfd1f-6085-4485-ac59-42a56ea88df1","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"因。\n3. 关于"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://new.qq.com/rain/a/20260926A073A600"],"created":1794626054,"id":"chatcmpl-b60dfd1f-6085-4485-ac59-42a56ea88df1","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"\"患"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://new.qq.com/rain/a/20260926A073A600"],"created":1794626054,"id":"chatcmpl-b60dfd1f-6085-4485-ac59-42a56ea88df1","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"过癌症\"这一点"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://new.qq.com/rain/a/20260926A073A600"],"created":1794626054,"id":"chatcmpl-b60dfd1f-6085-4485-ac59-42a56ea88df1","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"，提供的"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://new.qq.com/rain/a/20260926A073A600"],"created":1794626054,"id":"chatcmpl-b60dfd1f-6085-4485-ac59-42a56ea88df1","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"搜索结果中没有任何"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://new.qq.com/rain/a/20260926A073A600"],"created":1794626054,"id":"chatcmpl-b60dfd1f-6085-4485-ac59-42a56ea88df1","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"信息"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://new.qq.com/rain/a/20260926A073A600"],"created":1794626054,"id":"chatcmpl-b60dfd1f-6085-4485-ac59-42a56ea88df1","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"支持，无法确认"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://new.qq.com/rain/a/20260926A073A600"],"created":1794626054,"id":"chatcmpl-b60dfd1f-6085-4485-ac59-42a56ea88df1","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"。\n"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://new.qq.com/rain/a/20260926A073A600"],"created":1794626054,"id":"chatcmpl-b60dfd1f-6085-4485-ac59-42a56ea88df1","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"4. 需要"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://new.qq.com/rain/a/20260926A073A600"],"created":1794626054,"id":"chatcmpl-b60dfd1f-6085-4485-ac59-42a56ea88df1","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"说明信息来源"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://new.qq.com/rain/a/20260926A073A600"],"created":1794626054,"id":"chatcmpl-b60dfd1f-6085-4485-ac59-42a56ea88df1","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"单一"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://new.qq.com/rain/a/20260926A073A600"],"created":1794626054,"id":"chatcmpl-b60dfd1f-6085-4485-ac59-42a56ea88df1","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"，"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://new.qq.com/rain/a/20260926A073A600"],"created":1794626054,"id":"chatcmpl-b60dfd1f-6085-4485-ac59-42a56ea88df1","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"属于"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://new.qq.com/rain/a/20260926A073A600"],"created":1794626054,"id":"chatcmpl-b60dfd1f-6085-4485-ac59-42a56ea88df1","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"媒体"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://new.qq.com/rain/a/20260926A073A600"],"created":1794626054,"id":"chatcmpl-b60dfd1f-6085-4485-ac59-42a56ea88df1","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"转述，"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://new.qq.com/rain/a/20260926A073A600"],"created":1794626054,"id":"chatcmpl-b60dfd1f-6085-4485-ac59-42a56ea88df1","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"建议以"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://new.qq.com/rain/a/20260926A073A600"],"created":1794626054,"id":"chatcmpl-b60dfd1f-6085-4485-ac59-42a56ea88df1","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"官方讣告/"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://new.qq.com/rain/a/20260926A073A600"],"created":1794626054,"id":"chatcmpl-b60dfd1f-6085-4485-ac59-42a56ea88df1","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"家属声明为准。\n\n由于资料"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://new.qq.com/rain/a/20260926A073A600"],"created":1794626054,"id":"chatcmpl-b60dfd1f-6085-4485-ac59-42a56ea88df1","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"不足"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://new.qq.com/rain/a/20260926A073A600"],"created":1794626054,"id":"chatcmpl-b60dfd1f-6085-4485-ac59-42a56ea88df1","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"，应"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://new.qq.com/rain/a/20260926A073A600"],"created":1794626054,"id":"chatcmpl-b60dfd1f-6085-4485-ac59-42a56ea88df1","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"明确说明。不能编造"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://new.qq.com/rain/a/20260926A073A600"],"created":1794626054,"id":"chatcmpl-b60dfd1f-6085-4485-ac59-42a56ea88df1","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"。\n\n我要"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://new.qq.com/rain/a/20260926A073A600"],"created":1794626054,"id":"chatcmpl-b60dfd1f-6085-4485-ac59-42a56ea88df1","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"注意不要"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://new.qq.com/rain/a/20260926A073A600"],"created":1794626054,"id":"chatcmpl-b60dfd1f-6085-4485-ac59-42a56ea88df1","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"过度断言"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://new.qq.com/rain/a/20260926A073A600"],"created":1794626054,"id":"chatcmpl-b60dfd1f-6085-4485-ac59-42a56ea88df1","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"。也可以提到："},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://new.qq.com/rain/a/20260926A073A600"],"created":1794626054,"id":"chatcmpl-b60dfd1f-6085-4485-ac59-42a56ea88df1","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"即便"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://new.qq.com/rain/a/20260926A073A600"],"created":1794626054,"id":"chatcmpl-b60dfd1f-6085-4485-ac59-42a56ea88df1","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"存在"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://new.qq.com/rain/a/20260926A073A600"],"created":1794626054,"id":"chatcmpl-b60dfd1f-6085-4485-ac59-42a56ea88df1","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"基础"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://new.qq.com/rain/a/20260926A073A600"],"created":1794626054,"id":"chatcmpl-b60dfd1f-6085-4485-ac59-42a56ea88df1","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"疾病，是否"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://new.qq.com/rain/a/20260926A073A600"],"created":1794626054,"id":"chatcmpl-b60dfd1f-6085-4485-ac59-42a56ea88df1","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"构成"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://new.qq.com/rain/a/20260926A073A600"],"created":1794626054,"id":"chatcmpl-b60dfd1f-6085-4485-ac59-42a56ea88df1","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"死"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://new.qq.com/rain/a/20260926A073A600"],"created":1794626054,"id":"chatcmpl-b60dfd1f-6085-4485-ac59-42a56ea88df1","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"因需"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://new.qq.com/rain/a/20260926A073A600"],"created":1794626054,"id":"chatcmpl-b60dfd1f-6085-4485-ac59-42a56ea88df1","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"医学"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://new.qq.com/rain/a/20260926A073A600"],"created":1794626054,"id":"chatcmpl-b60dfd1f-6085-4485-ac59-42a56ea88df1","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"与"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://new.qq.com/rain/a/20260926A073A600"],"created":1794626054,"id":"chatcmpl-b60dfd1f-6085-4485-ac59-42a56ea88df1","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"官方结论"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://new.qq.com/rain/a/20260926A073A600"],"created":1794626054,"id":"chatcmpl-b60dfd1f-6085-4485-ac59-42a56ea88df1","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"，不能由"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://new.qq.com/rain/a/20260926A073A600"],"created":1794626054,"id":"chatcmpl-b60dfd1f-6085-4485-ac59-42a56ea88df1","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"公开"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://new.qq.com/rain/a/20260926A073A600"],"created":1794626054,"id":"chatcmpl-b60dfd1f-6085-4485-ac59-42a56ea88df1","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"资料"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://new.qq.com/rain/a/20260926A073A600"],"created":1794626054,"id":"chatcmpl-b60dfd1f-6085-4485-ac59-42a56ea88df1","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"推断"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://new.qq.com/rain/a/20260926A073A600"],"created":1794626054,"id":"chatcmpl-b60dfd1f-6085-4485-ac59-42a56ea88df1","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"。\n\n引用"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://new.qq.com/rain/a/20260926A073A600"],"created":1794626054,"id":"chatcmpl-b60dfd1f-6085-4485-ac59-42a56ea88df1","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"["},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://new.qq.com/rain/a/20260926A073A600"],"created":1794626054,"id":"chatcmpl-b60dfd1f-6085-4485-ac59-42a56ea88df1","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"4]在相应"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://new.qq.com/rain/a/20260926A073A600"],"created":1794626054,"id":"chatcmpl-b60dfd1f-6085-4485-ac59-42a56ea88df1","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"句子"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://new.qq.com/rain/a/20260926A073A600"],"created":1794626054,"id":"chatcmpl-b60dfd1f-6085-4485-ac59-42a56ea88df1","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"末尾"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://new.qq.com/rain/a/20260926A073A600"],"created":1794626054,"id":"chatcmpl-b60dfd1f-6085-4485-ac59-42a56ea88df1","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"。\n\n回答"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://new.qq.com/rain/a/20260926A073A600"],"created":1794626054,"id":"chatcmpl-b60dfd1f-6085-4485-ac59-42a56ea88df1","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"要简洁，客观"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://new.qq.com/rain/a/20260926A073A600"],"created":1794626054,"id":"chatcmpl-b60dfd1f-6085-4485-ac59-42a56ea88df1","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"类"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://new.qq.com/rain/a/20260926A073A600"],"created":1794626054,"id":"chatcmpl-b60dfd1f-6085-4485-ac59-42a56ea88df1","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"问答。结构"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://new.qq.com/rain/a/20260926A073A600"],"created":1794626054,"id":"chatcmpl-b60dfd1f-6085-4485-ac59-42a56ea88df1","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"分点"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://new.qq.com/rain/a/20260926A073A600"],"created":1794626054,"id":"chatcmpl-b60dfd1f-6085-4485-ac59-42a56ea88df1","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"。\n\n还要提醒：搜索结果中"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://new.qq.com/rain/a/20260926A073A600"],"created":1794626054,"id":"chatcmpl-b60dfd1f-6085-4485-ac59-42a56ea88df1","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"该消息"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://new.qq.com/rain/a/20260926A073A600"],"created":1794626054,"id":"chatcmpl-b60dfd1f-6085-4485-ac59-42a56ea88df1","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"本身"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://new.qq.com/rain/a/20260926A073A600"],"created":1794626054,"id":"chatcmpl-b60dfd1f-6085-4485-ac59-42a56ea88df1","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"来自网络"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://new.qq.com/rain/a/20260926A073A600"],"created":1794626054,"id":"chatcmpl-b60dfd1f-6085-4485-ac59-42a56ea88df1","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"转载，官方"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://new.qq.com/rain/a/20260926A073A600"],"created":1794626054,"id":"chatcmpl-b60dfd1f-6085-4485-ac59-42a56ea88df1","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"讣告细节"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://new.qq.com/rain/a/20260926A073A600"],"created":1794626054,"id":"chatcmpl-b60dfd1f-6085-4485-ac59-42a56ea88df1","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"未见"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://new.qq.com/rain/a/20260926A073A600"],"created":1794626054,"id":"chatcmpl-b60dfd1f-6085-4485-ac59-42a56ea88df1","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"完整"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://new.qq.com/rain/a/20260926A073A600"],"created":1794626054,"id":"chatcmpl-b60dfd1f-6085-4485-ac59-42a56ea88df1","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"原文"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://new.qq.com/rain/a/20260926A073A600"],"created":1794626054,"id":"chatcmpl-b60dfd1f-6085-4485-ac59-42a56ea88df1","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"，建议核实"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://new.qq.com/rain/a/20260926A073A600"],"created":1794626054,"id":"chatcmpl-b60dfd1f-6085-4485-ac59-42a56ea88df1","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"。\n\n我不"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://new.qq.com/rain/a/20260926A073A600"],"created":1794626054,"id":"chatcmpl-b60dfd1f-6085-4485-ac59-42a56ea88df1","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"应该"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://new.qq.com/rain/a/20260926A073A600"],"created":1794626054,"id":"chatcmpl-b60dfd1f-6085-4485-ac59-42a56ea88df1","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"声称刘"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://new.qq.com/rain/a/20260926A073A600"],"created":1794626054,"id":"chatcmpl-b60dfd1f-6085-4485-ac59-42a56ea88df1","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"欢"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://new.qq.com/rain/a/20260926A073A600"],"created":1794626054,"id":"chatcmpl-b60dfd1f-6085-4485-ac59-42a56ea88df1","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"去世是"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://new.qq.com/rain/a/20260926A073A600"],"created":1794626054,"id":"chatcmpl-b60dfd1f-6085-4485-ac59-42a56ea88df1","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"事实还是"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://new.qq.com/rain/a/20260926A073A600"],"created":1794626054,"id":"chatcmpl-b60dfd1f-6085-4485-ac59-42a56ea88df1","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"谣言"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://new.qq.com/rain/a/20260926A073A600"],"created":1794626054,"id":"chatcmpl-b60dfd1f-6085-4485-ac59-42a56ea88df1","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"——"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://new.qq.com/rain/a/20260926A073A600"],"created":1794626054,"id":"chatcmpl-b60dfd1f-6085-4485-ac59-42a56ea88df1","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"但按"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://new.qq.com/rain/a/20260926A073A600"],"created":1794626054,"id":"chatcmpl-b60dfd1f-6085-4485-ac59-42a56ea88df1","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"检索"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://new.qq.com/rain/a/20260926A073A600"],"created":1794626054,"id":"chatcmpl-b60dfd1f-6085-4485-ac59-42a56ea88df1","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"结果，我只能"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://new.qq.com/rain/a/20260926A073A600"],"created":1794626054,"id":"chatcmpl-b60dfd1f-6085-4485-ac59-42a56ea88df1","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"说"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://new.qq.com/rain/a/20260926A073A600"],"created":1794626054,"id":"chatcmpl-b60dfd1f-6085-4485-ac59-42a56ea88df1","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"据该"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://new.qq.com/rain/a/20260926A073A600"],"created":1794626054,"id":"chatcmpl-b60dfd1f-6085-4485-ac59-42a56ea88df1","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"报道。可以"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://new.qq.com/rain/a/20260926A073A600"],"created":1794626054,"id":"chatcmpl-b60dfd1f-6085-4485-ac59-42a56ea88df1","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"表述"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://new.qq.com/rain/a/20260926A073A600"],"created":1794626054,"id":"chatcmpl-b60dfd1f-6085-4485-ac59-42a56ea88df1","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"\""},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://new.qq.com/rain/a/20260926A073A600"],"created":1794626054,"id":"chatcmpl-b60dfd1f-6085-4485-ac59-42a56ea88df1","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"根据"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://new.qq.com/rain/a/20260926A073A600"],"created":1794626054,"id":"chatcmpl-b60dfd1f-6085-4485-ac59-42a56ea88df1","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"你"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://new.qq.com/rain/a/20260926A073A600"],"created":1794626054,"id":"chatcmpl-b60dfd1f-6085-4485-ac59-42a56ea88df1","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"提供的检索结果"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://new.qq.com/rain/a/20260926A073A600"],"created":1794626054,"id":"chatcmpl-b60dfd1f-6085-4485-ac59-42a56ea88df1","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"["},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://new.qq.com/rain/a/20260926A073A600"],"created":1794626054,"id":"chatcmpl-b60dfd1f-6085-4485-ac59-42a56ea88df1","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"4]\""},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://new.qq.com/rain/a/20260926A073A600"],"created":1794626054,"id":"chatcmpl-b60dfd1f-6085-4485-ac59-42a56ea88df1","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"。\n\n写作。"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://new.qq.com/rain/a/20260926A073A600"],"created":1794626054,"id":"chatcmpl-b60dfd1f-6085-4485-ac59-42a56ea88df1","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"**"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://new.qq.com/rain/a/20260926A073A600"],"created":1794626054,"id":"chatcmpl-b60dfd1f-6085-4485-ac59-42a56ea88df1","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"不能确认"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://new.qq.com/rain/a/20260926A073A600"],"created":1794626054,"id":"chatcmpl-b60dfd1f-6085-4485-ac59-42a56ea88df1","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"。就"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://new.qq.com/rain/a/20260926A073A600"],"created":1794626054,"id":"chatcmpl-b60dfd1f-6085-4485-ac59-42a56ea88df1","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"目前检索"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://new.qq.com/rain/a/20260926A073A600"],"created":1794626054,"id":"chatcmpl-b60dfd1f-6085-4485-ac59-42a56ea88df1","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"到的信息看，没有"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://new.qq.com/rain/a/20260926A073A600"],"created":1794626054,"id":"chatcmpl-b60dfd1f-6085-4485-ac59-42a56ea88df1","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"证据"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://new.qq.com/rain/a/20260926A073A600"],"created":1794626054,"id":"chatcmpl-b60dfd1f-6085-4485-ac59-42a56ea88df1","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"表明他的"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://new.qq.com/rain/a/20260926A073A600"],"created":1794626054,"id":"chatcmpl-b60dfd1f-6085-4485-ac59-42a56ea88df1","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"去世是由"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://new.qq.com/rain/a/20260926A073A600"],"created":1794626054,"id":"chatcmpl-b60dfd1f-6085-4485-ac59-42a56ea88df1","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"癌症"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://new.qq.com/rain/a/20260926A073A600"],"created":1794626054,"id":"chatcmpl-b60dfd1f-6085-4485-ac59-42a56ea88df1","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"或股骨头"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://new.qq.com/rain/a/20260926A073A600"],"created":1794626054,"id":"chatcmpl-b60dfd1f-6085-4485-ac59-42a56ea88df1","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"坏死直接"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://new.qq.com/rain/a/20260926A073A600"],"created":1794626054,"id":"chatcmpl-b60dfd1f-6085-4485-ac59-42a56ea88df1","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"导致的。**"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://new.qq.com/rain/a/20260926A073A600"],"created":1794626054,"id":"chatcmpl-b60dfd1f-6085-4485-ac59-42a56ea88df1","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"\n\n具体"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://new.qq.com/rain/a/20260926A073A600"],"created":1794626054,"id":"chatcmpl-b60dfd1f-6085-4485-ac59-42a56ea88df1","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"说：\n\n1. **死"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://new.qq.com/rain/a/20260926A073A600"],"created":1794626054,"id":"chatcmpl-b60dfd1f-6085-4485-ac59-42a56ea88df1","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"因未公开"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://new.qq.com/rain/a/20260926A073A600"],"created":1794626054,"id":"chatcmpl-b60dfd1f-6085-4485-ac59-42a56ea88df1","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"。** 检索"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://new.qq.com/rain/a/20260926A073A600"],"created":1794626054,"id":"chatcmpl-b60dfd1f-6085-4485-ac59-42a56ea88df1","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"结果"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://new.qq.com/rain/a/20260926A073A600"],"created":1794626054,"id":"chatcmpl-b60dfd1f-6085-4485-ac59-42a56ea88df1","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"中的"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://new.qq.com/rain/a/20260926A073A600"],"created":1794626054,"id":"chatcmpl-b60dfd1f-6085-4485-ac59-42a56ea88df1","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"报道称，刘"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://new.qq.com/rain/a/20260926A073A600"],"created":1794626054,"id":"chatcmpl-b60dfd1f-6085-4485-ac59-42a56ea88df1","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"欢于"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://new.qq.com/rain/a/20260926A073A600"],"created":1794626054,"id":"chatcmpl-b60dfd1f-6085-4485-ac59-42a56ea88df1","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"2026年9"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://new.qq.com/rain/a/20260926A073A600"],"created":1794626054,"id":"chatcmpl-b60dfd1f-6085-4485-ac59-42a56ea88df1","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"月25日在上海因病"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://new.qq.com/rain/a/20260926A073A600"],"created":1794626054,"id":"chatcmpl-b60dfd1f-6085-4485-ac59-42a56ea88df1","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"去世，享"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://new.qq.com/rain/a/20260926A073A600"],"created":1794626054,"id":"chatcmpl-b60dfd1f-6085-4485-ac59-42a56ea88df1","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"年63岁，但“"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://new.qq.com/rain/a/20260926A073A600"],"created":1794626054,"id":"chatcmpl-b60dfd1f-6085-4485-ac59-42a56ea88df1","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"官方发布的"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://new.qq.com/rain/a/20260926A073A600"],"created":1794626054,"id":"chatcmpl-b60dfd1f-6085-4485-ac59-42a56ea88df1","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"讣告并未透露"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://new.qq.com/rain/a/20260926A073A600"],"created":1794626054,"id":"chatcmpl-b60dfd1f-6085-4485-ac59-42a56ea88df1","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"其具体病因”[4"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://new.qq.com/rain/a/20260926A073A600"],"created":1794626054,"id":"chatcmpl-b60dfd1f-6085-4485-ac59-42a56ea88df1","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"]。既然"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://new.qq.com/rain/a/20260926A073A600"],"created":1794626054,"id":"chatcmpl-b60dfd1f-6085-4485-ac59-42a56ea88df1","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"官方"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://new.qq.com/rain/a/20260926A073A600"],"created":1794626054,"id":"chatcmpl-b60dfd1f-6085-4485-ac59-42a56ea88df1","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"没有"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://new.qq.com/rain/a/20260926A073A600"],"created":1794626054,"id":"chatcmpl-b60dfd1f-6085-4485-ac59-42a56ea88df1","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"公布"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://new.qq.com/rain/a/20260926A073A600"],"created":1794626054,"id":"chatcmpl-b60dfd1f-6085-4485-ac59-42a56ea88df1","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"死"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://new.qq.com/rain/a/20260926A073A600"],"created":1794626054,"id":"chatcmpl-b60dfd1f-6085-4485-ac59-42a56ea88df1","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"因，外界"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://new.qq.com/rain/a/20260926A073A600"],"created":1794626054,"id":"chatcmpl-b60dfd1f-6085-4485-ac59-42a56ea88df1","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"就无法把"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://new.qq.com/rain/a/20260926A073A600"],"created":1794626054,"id":"chatcmpl-b60dfd1f-6085-4485-ac59-42a56ea88df1","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"死亡"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://new.qq.com/rain/a/20260926A073A600"],"created":1794626054,"id":"chatcmpl-b60dfd1f-6085-4485-ac59-42a56ea88df1","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"归因于某一具体"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://new.qq.com/rain/a/20260926A073A600"],"created":1794626054,"id":"chatcmpl-b60dfd1f-6085-4485-ac59-42a56ea88df1","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"疾病。\n\n2. **股"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://new.qq.com/rain/a/20260926A073A600"],"created":1794626054,"id":"chatcmpl-b60dfd1f-6085-4485-ac59-42a56ea88df1","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"骨头坏死通常"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://new.qq.com/rain/a/20260926A073A600"],"created":1794626054,"id":"chatcmpl-b60dfd1f-6085-4485-ac59-42a56ea88df1","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"不会直接致命"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://new.qq.com/rain/a/20260926A073A600"],"created":1794626054,"id":"chatcmpl-b60dfd1f-6085-4485-ac59-42a56ea88df1","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"。** 该"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://new.qq.com/rain/a/20260926A073A600"],"created":1794626054,"id":"chatcmpl-b60dfd1f-6085-4485-ac59-42a56ea88df1","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"报道"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://new.qq.com/rain/a/20260926A073A600"],"created":1794626054,"id":"chatcmpl-b60dfd1f-6085-4485-ac59-42a56ea88df1","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"提到他生前被"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://new.qq.com/rain/a/20260926A073A600"],"created":1794626054,"id":"chatcmpl-b60dfd1f-6085-4485-ac59-42a56ea88df1","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"确诊为"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://new.qq.com/rain/a/20260926A073A600"],"created":1794626054,"id":"chatcmpl-b60dfd1f-6085-4485-ac59-42a56ea88df1","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"右侧股骨头缺血"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://new.qq.com/rain/a/20260926A073A600"],"created":1794626054,"id":"chatcmpl-b60dfd1f-6085-4485-ac59-42a56ea88df1","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"性坏死，并"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://new.qq.com/rain/a/20260926A073A600"],"created":1794626054,"id":"chatcmpl-b60dfd1f-6085-4485-ac59-42a56ea88df1","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"称这种病"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://new.qq.com/rain/a/20260926A073A600"],"created":1794626054,"id":"chatcmpl-b60dfd1f-6085-4485-ac59-42a56ea88df1","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"治疗"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://new.qq.com/rain/a/20260926A073A600"],"created":1794626054,"id":"chatcmpl-b60dfd1f-6085-4485-ac59-42a56ea88df1","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"难度较大、"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://new.qq.com/rain/a/20260926A073A600"],"created":1794626054,"id":"chatcmpl-b60dfd1f-6085-4485-ac59-42a56ea88df1","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"民间俗称"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://new.qq.com/rain/a/20260926A073A600"],"created":1794626054,"id":"chatcmpl-b60dfd1f-6085-4485-ac59-42a56ea88df1","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"“不死"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://new.qq.com/rain/a/20260926A073A600"],"created":1794626054,"id":"chatcmpl-b60dfd1f-6085-4485-ac59-42a56ea88df1","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"癌症”；"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://new.qq.com/rain/a/20260926A073A600"],"created":1794626054,"id":"chatcmpl-b60dfd1f-6085-4485-ac59-42a56ea88df1","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"但报道"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://new.qq.com/rain/a/20260926A073A600"],"created":1794626054,"id":"chatcmpl-b60dfd1f-6085-4485-ac59-42a56ea88df1","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"同时说明"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://new.qq.com/rain/a/20260926A073A600"],"created":1794626054,"id":"chatcmpl-b60dfd1f-6085-4485-ac59-42a56ea88df1","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"，这一"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://new.qq.com/rain/a/20260926A073A600"],"created":1794626054,"id":"chatcmpl-b60dfd1f-6085-4485-ac59-42a56ea88df1","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"说法“"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://new.qq.com/rain/a/20260926A073A600"],"created":1794626054,"id":"chatcmpl-b60dfd1f-6085-4485-ac59-42a56ea88df1","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"并非医学上的正式"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://new.qq.com/rain/a/20260926A073A600"],"created":1794626054,"id":"chatcmpl-b60dfd1f-6085-4485-ac59-42a56ea88df1","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"诊断名称”[4"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://new.qq.com/rain/a/20260926A073A600"],"created":1794626054,"id":"chatcmpl-b60dfd1f-6085-4485-ac59-42a56ea88df1","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"]。这类"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://new.qq.com/rain/a/20260926A073A600"],"created":1794626054,"id":"chatcmpl-b60dfd1f-6085-4485-ac59-42a56ea88df1","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"疾病主要损害"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://new.qq.com/rain/a/20260926A073A600"],"created":1794626054,"id":"chatcmpl-b60dfd1f-6085-4485-ac59-42a56ea88df1","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"髋"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://new.qq.com/rain/a/20260926A073A600"],"created":1794626054,"id":"chatcmpl-b60dfd1f-6085-4485-ac59-42a56ea88df1","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"关节功能、"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://new.qq.com/rain/a/20260926A073A600"],"created":1794626054,"id":"chatcmpl-b60dfd1f-6085-4485-ac59-42a56ea88df1","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"影响行动"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://new.qq.com/rain/a/20260926A073A600"],"created":1794626054,"id":"chatcmpl-b60dfd1f-6085-4485-ac59-42a56ea88df1","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"和生活质量，一般不会作为"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://new.qq.com/rain/a/20260926A073A600"],"created":1794626054,"id":"chatcmpl-b60dfd1f-6085-4485-ac59-42a56ea88df1","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"直接"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://new.qq.com/rain/a/20260926A073A600"],"created":1794626054,"id":"chatcmpl-b60dfd1f-6085-4485-ac59-42a56ea88df1","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"死"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://new.qq.com/rain/a/20260926A073A600"],"created":1794626054,"id":"chatcmpl-b60dfd1f-6085-4485-ac59-42a56ea88df1","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"因，"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://new.qq.com/rain/a/20260926A073A600"],"created":1794626054,"id":"chatcmpl-b60dfd1f-6085-4485-ac59-42a56ea88df1","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"更可能是"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://new.qq.com/rain/a/20260926A073A600"],"created":1794626054,"id":"chatcmpl-b60dfd1f-6085-4485-ac59-42a56ea88df1","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"长期"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://new.qq.com/rain/a/20260926A073A600"],"created":1794626054,"id":"chatcmpl-b60dfd1f-6085-4485-ac59-42a56ea88df1","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"存在的"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://new.qq.com/rain/a/20260926A073A600"],"created":1794626054,"id":"chatcmpl-b60dfd1f-6085-4485-ac59-42a56ea88df1","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"合并"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://new.qq.com/rain/a/20260926A073A600"],"created":1794626054,"id":"chatcmpl-b60dfd1f-6085-4485-ac59-42a56ea88df1","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"症。"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://new.qq.com/rain/a/20260926A073A600"],"created":1794626054,"id":"chatcmpl-b60dfd1f-6085-4485-ac59-42a56ea88df1","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"\n\n3. **“"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://new.qq.com/rain/a/20260926A073A600"],"created":1794626054,"id":"chatcmpl-b60dfd1f-6085-4485-ac59-42a56ea88df1","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"患过"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://new.qq.com/rain/a/20260926A073A600"],"created":1794626054,"id":"chatcmpl-b60dfd1f-6085-4485-ac59-42a56ea88df1","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"癌症”这一说法在"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://new.qq.com/rain/a/20260926A073A600"],"created":1794626054,"id":"chatcmpl-b60dfd1f-6085-4485-ac59-42a56ea88df1","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"检索"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://new.qq.com/rain/a/20260926A073A600"],"created":1794626054,"id":"chatcmpl-b60dfd1f-6085-4485-ac59-42a56ea88df1","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"结果中没有依据。** "},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://new.qq.com/rain/a/20260926A073A600"],"created":1794626054,"id":"chatcmpl-b60dfd1f-6085-4485-ac59-42a56ea88df1","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"你提供的资料里"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://new.qq.com/rain/a/20260926A073A600"],"created":1794626054,"id":"chatcmpl-b60dfd1f-6085-4485-ac59-42a56ea88df1","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"只提到股"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://new.qq.com/rain/a/20260926A073A600"],"created":1794626054,"id":"chatcmpl-b60dfd1f-6085-4485-ac59-42a56ea88df1","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"骨头坏死，未"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://new.qq.com/rain/a/20260926A073A600"],"created":1794626054,"id":"chatcmpl-b60dfd1f-6085-4485-ac59-42a56ea88df1","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"提及任何癌症诊断"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://new.qq.com/rain/a/20260926A073A600"],"created":1794626054,"id":"chatcmpl-b60dfd1f-6085-4485-ac59-42a56ea88df1","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"、"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://new.qq.com/rain/a/20260926A073A600"],"created":1794626054,"id":"chatcmpl-b60dfd1f-6085-4485-ac59-42a56ea88df1","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"治疗或病情"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://new.qq.com/rain/a/20260926A073A600"],"created":1794626054,"id":"chatcmpl-b60dfd1f-6085-4485-ac59-42a56ea88df1","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"信息["},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://new.qq.com/rain/a/20260926A073A600"],"created":1794626054,"id":"chatcmpl-b60dfd1f-6085-4485-ac59-42a56ea88df1","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"4]。因此，“"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://new.qq.com/rain/a/20260926A073A600"],"created":1794626054,"id":"chatcmpl-b60dfd1f-6085-4485-ac59-42a56ea88df1","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"癌症"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://new.qq.com/rain/a/20260926A073A600"],"created":1794626054,"id":"chatcmpl-b60dfd1f-6085-4485-ac59-42a56ea88df1","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"导致"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://new.qq.com/rain/a/20260926A073A600"],"created":1794626054,"id":"chatcmpl-b60dfd1f-6085-4485-ac59-42a56ea88df1","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"去世”目前"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://new.qq.com/rain/a/20260926A073A600"],"created":1794626054,"id":"chatcmpl-b60dfd1f-6085-4485-ac59-42a56ea88df1","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"只能"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://new.qq.com/rain/a/20260926A073A600"],"created":1794626054,"id":"chatcmpl-b60dfd1f-6085-4485-ac59-42a56ea88df1","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"算"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://new.qq.com/rain/a/20260926A073A600"],"created":1794626054,"id":"chatcmpl-b60dfd1f-6085-4485-ac59-42a56ea88df1","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"未经证"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://new.qq.com/rain/a/20260926A073A600"],"created":1794626054,"id":"chatcmpl-b60dfd1f-6085-4485-ac59-42a56ea88df1","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"实的猜测。"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://new.qq.com/rain/a/20260926A073A600"],"created":1794626054,"id":"chatcmpl-b60dfd1f-6085-4485-ac59-42a56ea88df1","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"\n\n4. **信息来源"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://new.qq.com/rain/a/20260926A073A600"],"created":1794626054,"id":"chatcmpl-b60dfd1f-6085-4485-ac59-42a56ea88df1","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"需要谨慎对待"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://new.qq.com/rain/a/20260926A073A600"],"created":1794626054,"id":"chatcmpl-b60dfd1f-6085-4485-ac59-42a56ea88df1","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"。** 上述"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://new.qq.com/rain/a/20260926A073A600"],"created":1794626054,"id":"chatcmpl-b60dfd1f-6085-4485-ac59-42a56ea88df1","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"内容来自单"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://new.qq.com/rain/a/20260926A073A600"],"created":1794626054,"id":"chatcmpl-b60dfd1f-6085-4485-ac59-42a56ea88df1","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"篇网络报道"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://new.qq.com/rain/a/20260926A073A600"],"created":1794626054,"id":"chatcmpl-b60dfd1f-6085-4485-ac59-42a56ea88df1","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"的"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://new.qq.com/rain/a/20260926A073A600"],"created":1794626054,"id":"chatcmpl-b60dfd1f-6085-4485-ac59-42a56ea88df1","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"转述，并未"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://new.qq.com/rain/a/20260926A073A600"],"created":1794626054,"id":"chatcmpl-b60dfd1f-6085-4485-ac59-42a56ea88df1","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"附"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://new.qq.com/rain/a/20260926A073A600"],"created":1794626054,"id":"chatcmpl-b60dfd1f-6085-4485-ac59-42a56ea88df1","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"官方讣告"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://new.qq.com/rain/a/20260926A073A600"],"created":1794626054,"id":"chatcmpl-b60dfd1f-6085-4485-ac59-42a56ea88df1","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"原文"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://new.qq.com/rain/a/20260926A073A600"],"created":1794626054,"id":"chatcmpl-b60dfd1f-6085-4485-ac59-42a56ea88df1","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"或家属"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://new.qq.com/rain/a/20260926A073A600"],"created":1794626054,"id":"chatcmpl-b60dfd1f-6085-4485-ac59-42a56ea88df1","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"、"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://new.qq.com/rain/a/20260926A073A600"],"created":1794626054,"id":"chatcmpl-b60dfd1f-6085-4485-ac59-42a56ea88df1","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"医疗机构的"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://new.qq.com/rain/a/20260926A073A600"],"created":1794626054,"id":"chatcmpl-b60dfd1f-6085-4485-ac59-42a56ea88df1","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"说明"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://new.qq.com/rain/a/20260926A073A600"],"created":1794626054,"id":"chatcmpl-b60dfd1f-6085-4485-ac59-42a56ea88df1","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"[4]。在"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://new.qq.com/rain/a/20260926A073A600"],"created":1794626054,"id":"chatcmpl-b60dfd1f-6085-4485-ac59-42a56ea88df1","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"官方"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://new.qq.com/rain/a/20260926A073A600"],"created":1794626054,"id":"chatcmpl-b60dfd1f-6085-4485-ac59-42a56ea88df1","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"或"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://new.qq.com/rain/a/20260926A073A600"],"created":1794626054,"id":"chatcmpl-b60dfd1f-6085-4485-ac59-42a56ea88df1","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"家属进一步"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://new.qq.com/rain/a/20260926A073A600"],"created":1794626054,"id":"chatcmpl-b60dfd1f-6085-4485-ac59-42a56ea88df1","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"披露前"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://new.qq.com/rain/a/20260926A073A600"],"created":1794626054,"id":"chatcmpl-b60dfd1f-6085-4485-ac59-42a56ea88df1","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"，应当"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://new.qq.com/rain/a/20260926A073A600"],"created":1794626054,"id":"chatcmpl-b60dfd1f-6085-4485-ac59-42a56ea88df1","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"把“去世"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://new.qq.com/rain/a/20260926A073A600"],"created":1794626054,"id":"chatcmpl-b60dfd1f-6085-4485-ac59-42a56ea88df1","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"”"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://new.qq.com/rain/a/20260926A073A600"],"created":1794626054,"id":"chatcmpl-b60dfd1f-6085-4485-ac59-42a56ea88df1","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"这一"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://new.qq.com/rain/a/20260926A073A600"],"created":1794626054,"id":"chatcmpl-b60dfd1f-6085-4485-ac59-42a56ea88df1","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"事实与“死"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://new.qq.com/rain/a/20260926A073A600"],"created":1794626054,"id":"chatcmpl-b60dfd1f-6085-4485-ac59-42a56ea88df1","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"因”区分"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://new.qq.com/rain/a/20260926A073A600"],"created":1794626054,"id":"chatcmpl-b60dfd1f-6085-4485-ac59-42a56ea88df1","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"开"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://new.qq.com/rain/a/20260926A073A600"],"created":1794626054,"id":"chatcmpl-b60dfd1f-6085-4485-ac59-42a56ea88df1","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"：前者"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://new.qq.com/rain/a/20260926A073A600"],"created":1794626054,"id":"chatcmpl-b60dfd1f-6085-4485-ac59-42a56ea88df1","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"有"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://new.qq.com/rain/a/20260926A073A600"],"created":1794626054,"id":"chatcmpl-b60dfd1f-6085-4485-ac59-42a56ea88df1","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"报道，后者尚无"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://new.qq.com/rain/a/20260926A073A600"],"created":1794626054,"id":"chatcmpl-b60dfd1f-6085-4485-ac59-42a56ea88df1","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"权威"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://new.qq.com/rain/a/20260926A073A600"],"created":1794626054,"id":"chatcmpl-b60dfd1f-6085-4485-ac59-42a56ea88df1","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"结论。\n\n简"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://new.qq.com/rain/a/20260926A073A600"],"created":1794626054,"id":"chatcmpl-b60dfd1f-6085-4485-ac59-42a56ea88df1","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"言之：**股"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://new.qq.com/rain/a/20260926A073A600"],"created":1794626054,"id":"chatcmpl-b60dfd1f-6085-4485-ac59-42a56ea88df1","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"骨头坏死一般"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://new.qq.com/rain/a/20260926A073A600"],"created":1794626054,"id":"chatcmpl-b60dfd1f-6085-4485-ac59-42a56ea88df1","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"不是直接"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://new.qq.com/rain/a/20260926A073A600"],"created":1794626054,"id":"chatcmpl-b60dfd1f-6085-4485-ac59-42a56ea88df1","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"死因；“"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://new.qq.com/rain/a/20260926A073A600"],"created":1794626054,"id":"chatcmpl-b60dfd1f-6085-4485-ac59-42a56ea88df1","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"癌症”一说"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://new.qq.com/rain/a/20260926A073A600"],"created":1794626054,"id":"chatcmpl-b60dfd1f-6085-4485-ac59-42a56ea88df1","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"缺乏"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://new.qq.com/rain/a/20260926A073A600"],"created":1794626054,"id":"chatcmpl-b60dfd1f-6085-4485-ac59-42a56ea88df1","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"检索"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://new.qq.com/rain/a/20260926A073A600"],"created":1794626054,"id":"chatcmpl-b60dfd1f-6085-4485-ac59-42a56ea88df1","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"依据；具体"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://new.qq.com/rain/a/20260926A073A600"],"created":1794626054,"id":"chatcmpl-b60dfd1f-6085-4485-ac59-42a56ea88df1","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"死因应以"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://new.qq.com/rain/a/20260926A073A600"],"created":1794626054,"id":"chatcmpl-b60dfd1f-6085-4485-ac59-42a56ea88df1","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"官方"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://new.qq.com/rain/a/20260926A073A600"],"created":1794626054,"id":"chatcmpl-b60dfd1f-6085-4485-ac59-42a56ea88df1","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"讣告或家属声明"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://new.qq.com/rain/a/20260926A073A600"],"created":1794626054,"id":"chatcmpl-b60dfd1f-6085-4485-ac59-42a56ea88df1","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"为准，现有"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://new.qq.com/rain/a/20260926A073A600"],"created":1794626054,"id":"chatcmpl-b60dfd1f-6085-4485-ac59-42a56ea88df1","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"资料"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://new.qq.com/rain/a/20260926A073A600"],"created":1794626054,"id":"chatcmpl-b60dfd1f-6085-4485-ac59-42a56ea88df1","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"不足以支持因果判断"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://new.qq.com/rain/a/20260926A073A600"],"created":1794626054,"id":"chatcmpl-b60dfd1f-6085-4485-ac59-42a56ea88df1","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"["},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://new.qq.com/rain/a/20260926A073A600"],"created":1794626054,"id":"chatcmpl-b60dfd1f-6085-4485-ac59-42a56ea88df1","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"4]。**"},"finish_reason":"stop","index":0,"logprobs":null}],"citations":["https://new.qq.com/rain/a/20260926A073A600"],"created":1794626054,"id":"chatcmpl-b60dfd1f-6085-4485-ac59-42a56ea88df1","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[],"citations":["https://new.qq.com/rain/a/20260926A073A600"],"created":1794626054,"id":"chatcmpl-b60dfd1f-6085-4485-ac59-42a56ea88df1","model":"deepseek-flash","object":"chat.completion.chunk","usage":{"completion_tokens":767,"completion_tokens_details":{"reasoning_tokens":416},"prompt_tokens":763,"prompt_tokens_details":{"cached_tokens":0},"total_tokens":1530}}
+
+data: [DONE]
+

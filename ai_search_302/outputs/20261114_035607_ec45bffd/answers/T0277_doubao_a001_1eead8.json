@@ -1,0 +1,57 @@
+{
+  "task_id": "T0277",
+  "model": "doubao",
+  "news_id": "E023",
+  "question_index": 4,
+  "question_original": "【事实】2025年7月25日，汪苏泷方对《年轮》授权作出了什么决定？",
+  "question": "2025年7月25日，汪苏泷方对《年轮》授权作出了什么决定？",
+  "attempt": 1,
+  "provider": "302.ai",
+  "model_requested": "doubao-seed-2-1-pro-260628",
+  "query_date": "2026-11-14",
+  "search_service": "metaso",
+  "prompt_version": "news-search-v1",
+  "prompt_sha256": "ea56fd5557d32615a9115f2368a0c4983ff1188f4935369e694d7d46f2493be1",
+  "requested_at": "2026-11-14T12:13:14.708539+08:00",
+  "raw_file": "raw/T0277_doubao_a001_1eead8.json",
+  "transport": "sse",
+  "stream_file": "raw/T0277_doubao_a001_1eead8.sse",
+  "status": "ok",
+  "model_returned": "doubao-seed-2-1-pro-260628",
+  "answer": "2025年7月25日，汪苏泷方决定收回歌曲《年轮》的所有演唱授权，暂不授权该作品用于任何演唱用途，呼吁公众将对事件的关注回归到音乐本身[1][5]。\n\n关于该决定的相关背景补充：\n1. 该授权调整的直接导火索是博主旺仔小乔的不当话术引发了关于《年轮》的公众争议，汪苏泷团队最初无意参与相关纷争，在主动开展沟通协调后仍然被裹挟在风波之中，恰逢《年轮》发行十周年的时间节点，因此作出了收回授权的决定[1][4]。\n2. 汪苏泷方公布该决定的同日，张碧晨工作室也就《年轮》的原唱争议公开发表声明：2015年6月15日，张碧晨演唱的《年轮》作为电视剧《花千骨》的插曲率先上线，是该歌曲最早正式发布的录音版本，也是《花千骨》正片中唯一使用的演唱版本；汪苏泷演唱的《年轮》男声版本于2015年6月30日以单曲形式上架音乐平台，上线时间明显晚于张碧晨版本，张碧晨方据此主张张碧晨是《年轮》的唯一原唱[1]。\n3. 有相关评论指出，这次收回授权的事件是《年轮》发行十年间积累的版权相关争议的集中爆发，事件背后折射出华语乐坛长期受版权问题困扰的现状，也关乎创作者尊严维护与行业规则重塑的议题[5]。",
+  "sources": [
+    {
+      "index": 1,
+      "url": "https://baike.baidu.com/item/%E5%B9%B4%E8%BD%AE/17740222#%3A~%3Atext%3D%E5%9B%A0%E6%AD%A4%E5%BC%A0%E7%A2%A7%E6%99%A8%E5%A5%B3%E5%A3%AB%E6%98%AF%E3%80%8A%E5%B9%B4%E8%BD%AE%E3%80%8B%E7%9A%84%E5%94%AF%E4%B8%80%E5%8E%9F%E5%94%B1%E3%80%82",
+      "title": null,
+      "origin": "citations"
+    },
+    {
+      "index": 2,
+      "url": "https://v.qq.com/x/page/j11909fvak4.html",
+      "title": null,
+      "origin": "citations"
+    },
+    {
+      "index": 3,
+      "url": "https://ent.china.com/movie/newszh/11005281/20250727/48657103.html",
+      "title": null,
+      "origin": "citations"
+    }
+  ],
+  "usage": {
+    "completion_tokens": 3016,
+    "completion_tokens_details": {
+      "reasoning_tokens": 2681
+    },
+    "prompt_tokens": 1243,
+    "prompt_tokens_details": {
+      "cached_tokens": 0
+    },
+    "total_tokens": 4259
+  },
+  "finish_reason": "stop",
+  "note": [],
+  "request_id": "2c09db9d-0bb6-4f08-86cb-6bc3033569a7",
+  "duration_seconds": 58.047
+}

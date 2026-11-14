@@ -8,7 +8,9 @@ import os
 from pathlib import Path
 import sys
 import time
+from datetime import datetime
 
+sys.dont_write_bytecode = True
 import collect_302 as batch
 import search_302 as api
 
@@ -20,6 +22,7 @@ STATES = {
     "completed": "已完成", "completed_with_errors": "已完成，存在接口失败",
     "blocked": "已停止，需要处理接口问题", "pilot_failed": "试采集未通过，未继续批量请求",
     "waiting_for_key": "等待配置API Key", "interrupted": "进程已退出，可检查后续跑",
+    "stalled": "心跳已过期，采集停滞",
 }
 TERMINAL = {"stopped", "completed", "completed_with_errors", "blocked", "pilot_failed", "waiting_for_key", "interrupted"}
 
@@ -80,8 +83,23 @@ def snapshot(directory):
         elif event.get("event") == "task_finished":
             active.pop(event["task_id"], None)
     alive = process_alive(pid)
-    if state not in TERMINAL and state != "prepared" and alive is False:
-        state = "interrupted"
+    locked = batch.lock_held(directory / ".collector.lock")
+    age = None
+    if heartbeat:
+        try:
+            age = max(0, (api.now_beijing() - datetime.fromisoformat(heartbeat)).total_seconds())
+        except ValueError:
+            pass
+    interrupted_tasks = []
+    if state not in TERMINAL and state != "prepared":
+        if locked is False or alive is False:
+            state = "interrupted"
+            reason = "采集进程未持有运行锁，旧日志不能视为正在运行。"
+            interrupted_tasks = list(active.values())
+            active = {}
+        elif age is None or age > 60:
+            state = "stalled"
+            reason = "超过60秒没有新心跳；正在确认采集状态。"
     per_model = {
         alias: {"ok": 0, "needs_review": 0, "error": 0, "total": manifest["question_count"]}
         for alias in api.ALIASES
@@ -98,21 +116,30 @@ def snapshot(directory):
             tokens += usage["total_tokens"]
         duration += record.get("duration_seconds") or 0
     total = manifest["planned_calls"]
-    eta = round(duration / len(latest) * max(0, total - len(latest)) / manifest["workers"]) if latest else None
+    eta = round(duration / len(latest) * max(0, total - len(latest)) / manifest["workers"]) if latest and state in ("pilot", "collecting") else None
+    supervisor = batch.read_events(directory / "supervisor.jsonl")
+    supervisor_event = supervisor[-1] if supervisor else {}
+    supervisor_locked = batch.lock_held(directory / ".supervisor.lock")
     return {
         "directory": str(directory.resolve()), "state": state,
         "state_text": STATES.get(state, state), "reason": reason,
         "completed": len(latest), "total": total, **counts,
+        "attempts": sum(event.get("event") == "task_started" for event in events),
+        "historical_error_attempts": sum(event.get("event") == "task_finished" and event.get("status") == "error" for event in events),
         "remaining": max(0, total - len(latest)), "active": list(active.values()),
         "per_model": per_model, "tokens": tokens, "estimated_seconds_remaining": eta,
         "pid": pid, "process_alive": alive, "last_event_at": heartbeat,
+        "collector_lock_held": locked, "last_activity_age_seconds": round(age, 1) if age is not None else None,
+        "interrupted_tasks": interrupted_tasks,
+        "supervisor_running": supervisor_locked is True, "supervisor": supervisor_event,
         "query_date": manifest["config"]["query_date"],
+        "streamed_bytes": sum(path.stat().st_size for path in (directory / "raw").glob("*.sse")),
     }
 
 
 def render(status):
     rows = [
-        f"状态：{status['state_text']}　进度：{status['completed']}/{status['total']}",
+        f"状态：{status['state_text']}　进度：{status['completed']}/{status['total']}　请求尝试：{status['attempts']}",
         f"有正文与来源：{status['ok']}　待核：{status['needs_review']}　接口失败：{status['error']}　剩余：{status['remaining']}",
     ]
     for alias, counts in status["per_model"].items():
@@ -120,9 +147,10 @@ def render(status):
         rows.append(f"  {alias:8} {done}/{counts['total']}　待核{counts['needs_review']}　失败{counts['error']}")
     current = ", ".join(item["task_id"] + "/" + item["model"] for item in status["active"]) or "无"
     rows.append("当前请求：" + current)
+    rows.append(f"最后活动：{status['last_event_at']}　守护：{'运行中' if status['supervisor_running'] else '未运行'}")
     eta = status["estimated_seconds_remaining"]
-    estimate = "估算中" if eta is None else f"约{eta // 60}分{eta % 60}秒"
-    rows.append(f"预计剩余：{estimate}　已记录Tokens：{status['tokens']}")
+    estimate = ("暂停" if status["state"] not in ("pilot", "collecting") else "估算中") if eta is None else f"约{eta // 60}分{eta % 60}秒"
+    rows.append(f"预计剩余：{estimate}　已记录Tokens：{status['tokens']}　流数据：{status['streamed_bytes'] // 1024}KB")
     if status["reason"]:
         rows.append("说明：" + status["reason"])
     rows.append("结果：" + status["directory"])
@@ -150,7 +178,7 @@ def main(argv=None):
         if args.watch and sys.stdout.isatty() and not args.json:
             print("\033[2J\033[H", end="")
         print(json.dumps(status, ensure_ascii=False, indent=2) if args.json else render(status), flush=True)
-        if not args.watch or status["state"] in TERMINAL:
+        if not args.watch or status["state"] in ("completed", "completed_with_errors"):
             return 0
         time.sleep(args.interval)
 

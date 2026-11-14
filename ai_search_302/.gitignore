@@ -1,7 +1,0 @@
-.env
-.env.*
-outputs/
-.history/
-.test_runs/
-__pycache__/
-*.log

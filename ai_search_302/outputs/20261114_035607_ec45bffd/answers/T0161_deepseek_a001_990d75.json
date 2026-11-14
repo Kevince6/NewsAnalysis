@@ -1,0 +1,63 @@
+{
+  "task_id": "T0161",
+  "model": "deepseek",
+  "news_id": "E013",
+  "question_index": 5,
+  "question_original": "【事实】2025年已领过育儿补贴，2026年还符合条件、信息也没变化，能不能直接续领？",
+  "question": "2025年已领过育儿补贴，2026年还符合条件、信息也没变化，能不能直接续领？",
+  "attempt": 1,
+  "provider": "302.ai",
+  "model_requested": "deepseek-flash",
+  "query_date": "2026-11-14",
+  "search_service": "metaso",
+  "prompt_version": "news-search-v1",
+  "prompt_sha256": "ea56fd5557d32615a9115f2368a0c4983ff1188f4935369e694d7d46f2493be1",
+  "requested_at": "2026-11-14T11:44:31.810332+08:00",
+  "raw_file": "raw/T0161_deepseek_a001_990d75.json",
+  "transport": "sse",
+  "stream_file": "raw/T0161_deepseek_a001_990d75.sse",
+  "status": "ok",
+  "model_returned": "deepseek-flash",
+  "answer": "可以。2025年已申领过育儿补贴、2026年仍符合继续申领条件，且相关信息没有变化的，申领人无需重新完整填报，直接办理续领申请即可。\n\n具体说明：\n\n1. **续领是2026年新增的功能**。2026年育儿补贴线上申领相比2025年的最大变化，就是在原有功能基础上增加了续领功能：2025年已申领过、且符合新一年继续申领条件的婴幼儿，其申领人可以进行续领申请[citation:1][citation:5]。\n\n2. **实际操作上是“一键续领”**。育儿补贴信息管理系统不断优化，2026年新增“一键续领”功能，方便群众便捷完成续领申请[citation:3]。也就是说，信息没有变化时，不必像首次申领那样逐项填写。\n\n3. **办理渠道**。可通过支付宝、微信或省级政务服务平台登录育儿补贴信息管理系统，按提示提交续领申请[citation:3]。\n\n4. **注意区分“续领”和“首次申领”**。续领针对的是2025年已申领过、2026年继续符合条件的婴幼儿；而2022—2024年出生婴幼儿的首次申请有单独的延长通道，截止时间已延长至2026年12月31日[citation:3]。如果你家孩子属于后者且此前未申领过，应走首次申请通道，而非续领。\n\n5. **补贴标准供参考**：2025年7月出台的《育儿补贴制度实施方案》明确，为3周岁以下婴幼儿提供每孩每年3600元补贴[citation:5]。\n\n建议办理前先登录系统确认孩子的续领资格状态；若系统提示信息需更新（如户籍、监护人等发生变化），则以页面提示为准补充修改后再提交。",
+  "sources": [
+    {
+      "index": 1,
+      "url": "http://www.xinhuanet.com/photo/20260105/7007bfd7ff9a429392a6b9d38d285baf/c.html",
+      "title": null,
+      "origin": "citations"
+    },
+    {
+      "index": 2,
+      "url": "https://news.qq.com/rain/a/20260528A06U0900",
+      "title": null,
+      "origin": "citations"
+    },
+    {
+      "index": 3,
+      "url": "https://www.chinanews.com.cn/gn/2026/07-21/10663521.shtml",
+      "title": null,
+      "origin": "citations"
+    },
+    {
+      "index": 4,
+      "url": "https://k.sina.cn/article_1726918143_66eeadff02001rrfa.html",
+      "title": null,
+      "origin": "citations"
+    }
+  ],
+  "usage": {
+    "completion_tokens": 586,
+    "completion_tokens_details": {
+      "reasoning_tokens": 206
+    },
+    "prompt_tokens": 1259,
+    "prompt_tokens_details": {
+      "cached_tokens": 0
+    },
+    "total_tokens": 1845
+  },
+  "finish_reason": "stop",
+  "note": [],
+  "request_id": "2eeaeadc-2d8c-48ad-9c5f-1a6c03eb2d5d",
+  "duration_seconds": 6.203
+}

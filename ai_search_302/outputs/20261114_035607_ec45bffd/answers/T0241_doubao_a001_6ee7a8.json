@@ -1,0 +1,57 @@
+{
+  "task_id": "T0241",
+  "model": "doubao",
+  "news_id": "E020",
+  "question_index": 2,
+  "question_original": "【事实】我的安克充电宝有清晰的3C标识，但属于召回批次，按2025年6月28日起的新规还能带上境内航班吗？",
+  "question": "我的安克充电宝有清晰的3C标识，但属于召回批次，按2025年6月28日起的新规还能带上境内航班吗？",
+  "attempt": 1,
+  "provider": "302.ai",
+  "model_requested": "doubao-seed-2-1-pro-260628",
+  "query_date": "2026-11-14",
+  "search_service": "metaso",
+  "prompt_version": "news-search-v1",
+  "prompt_sha256": "ea56fd5557d32615a9115f2368a0c4983ff1188f4935369e694d7d46f2493be1",
+  "requested_at": "2026-11-14T12:06:17.615555+08:00",
+  "raw_file": "raw/T0241_doubao_a001_6ee7a8.json",
+  "transport": "sse",
+  "stream_file": "raw/T0241_doubao_a001_6ee7a8.sse",
+  "status": "ok",
+  "model_returned": "doubao-seed-2-1-pro-260628",
+  "answer": "你这款带有清晰3C标识但属于召回批次的安克充电宝，**不能带上执行2025年6月28日新规的境内航班**。\n### 政策依据\n根据民航局发布的正式要求，自2025年6月28日起，乘坐境内航班的旅客被禁止携带的充电宝共覆盖三类并列的违规情形：一是没有3C标识的充电宝，二是3C标识不清晰的充电宝，三是属于被召回型号或批次的充电宝；只要符合任意一类情形就不符合乘机携带要求，并非仅以3C标识是否清晰作为唯一判断标准，即便充电宝带有清晰3C标识，只要属于被召回的型号/批次，依然在禁带范围内。该规定的出台目的是防范锂电池起火风险，切实保障航空运行安全[1][2][3]。\n### 相关出行提示\n如果你从深圳机场出行时因充电宝属于召回批次无法通过安检，可按需选择机场现场提供的免费寄存、召回申请等服务处置；需要注意的是，深圳机场T3航站楼四层设置的充电宝现场邮递服务，暂不对罗马仕、安克品牌的充电宝提供服务，同时鼓包、破损、表面有磕碰的充电宝本身也不符合邮寄要求，无法通过该渠道邮递[1]。",
+  "sources": [
+    {
+      "index": 1,
+      "url": "https://jtys.sz.gov.cn/gkmlpt/content/12/12675/post_12675115.html",
+      "title": null,
+      "origin": "citations"
+    },
+    {
+      "index": 2,
+      "url": "https://xueqiu.com/4634834810/349738874",
+      "title": null,
+      "origin": "citations"
+    },
+    {
+      "index": 3,
+      "url": "https://news.sina.cn/bignews/opinion/2025-11-26/detail-infytqia1004108.d.html",
+      "title": null,
+      "origin": "citations"
+    }
+  ],
+  "usage": {
+    "completion_tokens": 2022,
+    "completion_tokens_details": {
+      "reasoning_tokens": 1746
+    },
+    "prompt_tokens": 1216,
+    "prompt_tokens_details": {
+      "cached_tokens": 0
+    },
+    "total_tokens": 3238
+  },
+  "finish_reason": "stop",
+  "note": [],
+  "request_id": "ffa022ff-5db7-4080-9ccb-0f83d6161f39",
+  "duration_seconds": 44.531
+}

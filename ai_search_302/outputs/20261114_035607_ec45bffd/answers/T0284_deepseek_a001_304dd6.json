@@ -1,0 +1,40 @@
+{
+  "task_id": "T0284",
+  "model": "deepseek",
+  "news_id": "E024",
+  "question_index": 2,
+  "question_original": "【开放】王星1月7日被接回、1月11日又回国，这两个日期为什么不一样？分别发生了什么？",
+  "question": "王星1月7日被接回、1月11日又回国，这两个日期为什么不一样？分别发生了什么？",
+  "attempt": 1,
+  "provider": "302.ai",
+  "model_requested": "deepseek-flash",
+  "query_date": "2026-11-14",
+  "search_service": "metaso",
+  "prompt_version": "news-search-v1",
+  "prompt_sha256": "ea56fd5557d32615a9115f2368a0c4983ff1188f4935369e694d7d46f2493be1",
+  "requested_at": "2026-11-14T12:14:37.045853+08:00",
+  "raw_file": "raw/T0284_deepseek_a001_304dd6.json",
+  "transport": "sse",
+  "stream_file": "raw/T0284_deepseek_a001_304dd6.sse",
+  "status": "needs_review",
+  "model_returned": "deepseek-flash",
+  "answer": "\n\n<tool_search>\n<query>王星 1月7日 接回 1月11日 回国 泰国 缅甸</query>\n</tool_search>",
+  "sources": [],
+  "usage": {
+    "prompt_tokens": 198,
+    "completion_tokens": 85,
+    "total_tokens": 283,
+    "prompt_tokens_details": {
+      "cached_tokens": 0
+    },
+    "completion_tokens_details": {
+      "reasoning_tokens": 47
+    }
+  },
+  "finish_reason": "stop",
+  "note": [
+    "未返回平台来源链接；仅凭正文中的链接不能确认搜索是否成功。"
+  ],
+  "request_id": "d8cce03c-d5c3-4da7-a413-1b4cf871b349",
+  "duration_seconds": 3.734
+}

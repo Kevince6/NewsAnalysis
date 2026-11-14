@@ -1,0 +1,51 @@
+{
+  "task_id": "T0232",
+  "model": "doubao",
+  "news_id": "E019",
+  "question_index": 3,
+  "question_original": "【事实】武汉大学对男生的记过处分作出了什么决定？",
+  "question": "武汉大学对男生的记过处分作出了什么决定？",
+  "attempt": 1,
+  "provider": "302.ai",
+  "model_requested": "doubao-seed-2-1-pro-260628",
+  "query_date": "2026-11-14",
+  "search_service": "metaso",
+  "prompt_version": "news-search-v1",
+  "prompt_sha256": "ea56fd5557d32615a9115f2368a0c4983ff1188f4935369e694d7d46f2493be1",
+  "requested_at": "2026-11-14T12:04:28.229117+08:00",
+  "raw_file": "raw/T0232_doubao_a001_b91689.json",
+  "transport": "sse",
+  "stream_file": "raw/T0232_doubao_a001_b91689.sse",
+  "status": "ok",
+  "model_returned": "doubao-seed-2-1-pro-260628",
+  "answer": "根据目前检索到的武汉大学相关通报信息，学校针对涉事男生记过处分先后作出了两项正式决定：\n1.  2023年10月13日，学校针对涉及本校学生的网上举报线索完成调查核实后，对照相关管理规定，研究决定给予涉事2022级本科生肖某某记过处分，该处理决定在当日发布的官方通报中对外公布[5]。\n2.  后续因学生肖某瑫与杨某媛的矛盾纠纷引发社会关注，学校专门组建调查复核专家组，本着实事求是、依法依规的原则，对肖某瑫的纪律处分、杨某媛的学位论文等事项开展全流程的全面调查复核；在9月20日发布的图书馆事件调查复核情况通报中，学校明确作出撤销肖某瑫记过处分的决定[4]。\n\n需要说明的是，目前获取的检索片段存在信息局限：一是没有标注作出撤销肖某瑫记过处分决定的具体通报年份；二是没有披露复核后撤销原记过处分的具体事实依据和核心理由；三是未明确说明2023年10月被给予记过处分的肖某某与后续被撤销记过处分的肖某瑫是否为同一当事人。相关事项的完整权威信息，可查阅武汉大学发布的正式官方通报。",
+  "sources": [
+    {
+      "index": 1,
+      "url": "https://finance.sina.cn/2025-09-20/detail-infrcarq8856719.d.html",
+      "title": null,
+      "origin": "citations"
+    },
+    {
+      "index": 2,
+      "url": "https://new.qq.com/rain/a/20231013A09HRI00",
+      "title": null,
+      "origin": "citations"
+    }
+  ],
+  "usage": {
+    "completion_tokens": 5056,
+    "completion_tokens_details": {
+      "reasoning_tokens": 4761
+    },
+    "prompt_tokens": 968,
+    "prompt_tokens_details": {
+      "cached_tokens": 0
+    },
+    "total_tokens": 6024
+  },
+  "finish_reason": "stop",
+  "note": [],
+  "request_id": "96f876a5-1420-446e-ad2a-04cfa7e90d2a",
+  "duration_seconds": 109.391
+}

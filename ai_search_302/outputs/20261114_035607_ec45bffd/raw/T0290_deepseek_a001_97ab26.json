@@ -1,0 +1,56 @@
+{
+  "request": {
+    "model": "deepseek-flash",
+    "messages": [
+      {
+        "role": "system",
+        "content": "请联网检索后，用自然中文回答用户的问题。\n先直接回答，再补充理解答案所需的事实、背景或说明；复杂问题可分点，简单问题可简答。\n优先参考与问题直接相关的原始发布、机构公告、当事人回应及可信媒体报道。\n依据检索到的资料作答。资料不足、存在分歧或尚未确认的内容，请明确说明；解释和判断应与已确认的事实区分。\n在相关事实后标注检索来源，沿用检索结果提供的引用编号或标记。\n\n查询日期：2026-11-14（北京时间，UTC+8）。问题中的“现在”“近期”“最新”以此日期为参照；问题明确指定时间范围时，以问题为准。"
+      },
+      {
+        "role": "user",
+        "content": "王星真正抵达中国是北京时间哪天几点，落地哪个机场？"
+      }
+    ],
+    "web-search": true,
+    "search-service": "metaso",
+    "search-results": 5,
+    "stream": true,
+    "stream_options": {
+      "include_usage": true
+    }
+  },
+  "response": {
+    "object": "chat.completion",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "王星于**北京时间1月11日00:55**抵达中国，落地**上海浦东国际机场**[1][3]。据央视新闻，他于10日晚从泰国素万那普机场出发回国，并在泰国警方护送下经绿色通道登机[1]。",
+          "reasoning_content": "用户问：王星真正抵达中国是北京时间哪天几点，落地哪个机场？\n\n搜索结果：1月11日00:55抵达上海浦东国际机场。引用[1][3]。搜索结果都是关于王星回国的。需要回答直接。注意日期：北京时间2025年1月11日00:55（因为网页说1月11日）。需要说明年份吗？网页未明确年份，但事件是2025年1月。搜索资料只写1月11日。可以回答“1月11日凌晨00:55”，并说明据央视新闻。引用格式[1][3]。需要谨慎：网页称“北京时间1月11日00:55抵达上海浦东国际机场”[1][3]。直接回答。"
+        },
+        "finish_reason": "stop"
+      }
+    ],
+    "id": "chatcmpl-1219be87-abb1-4571-99c0-1b5da10033ff",
+    "model": "deepseek-flash",
+    "created": 1794629721,
+    "citations": [
+      "https://news.qq.com/rain/a/20250111A01TES00",
+      "https://news.qq.com/rain/a/20250111A01VQQ00",
+      "https://mp.weixin.qq.com/s?__biz=MzI4MzcxMzcwOA==&mid=2247750762&idx=1&sn=7ec7a186d1988fa5dcf58bf800263b11&chksm=ea25b8cc94e93274843a17a3cefb74842323bff9e2c97c8bbd9c19ed6cdd235d74f7f8d3e513&scene=27"
+    ],
+    "usage": {
+      "completion_tokens": 212,
+      "completion_tokens_details": {
+        "reasoning_tokens": 152
+      },
+      "prompt_tokens": 1016,
+      "prompt_tokens_details": {
+        "cached_tokens": 0
+      },
+      "total_tokens": 1228
+    },
+    "_transport": "sse"
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "request": {
+    "model": "qwen3.8-max",
+    "messages": [
+      {
+        "role": "system",
+        "content": "请联网检索后，用自然中文回答用户的问题。\n先直接回答，再补充理解答案所需的事实、背景或说明；复杂问题可分点，简单问题可简答。\n优先参考与问题直接相关的原始发布、机构公告、当事人回应及可信媒体报道。\n依据检索到的资料作答。资料不足、存在分歧或尚未确认的内容，请明确说明；解释和判断应与已确认的事实区分。\n在相关事实后标注检索来源，沿用检索结果提供的引用编号或标记。\n\n查询日期：2026-11-14（北京时间，UTC+8）。问题中的“现在”“近期”“最新”以此日期为参照；问题明确指定时间范围时，以问题为准。"
+      },
+      {
+        "role": "user",
+        "content": "2026年10月13日魏家案一审中，哪些人被判死刑，另有多少人被判无期徒刑？"
+      }
+    ],
+    "web-search": true,
+    "search-service": "metaso",
+    "search-results": 5,
+    "stream": true,
+    "stream_options": {
+      "include_usage": true
+    }
+  },
+  "response": {
+    "object": "chat.completion",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "2026年10月13日魏家犯罪集团系列案一审宣判中，**魏怀仁、陈大卫、廖景芳3人被判处死刑**[1][3]。另有**3人被判处无期徒刑**，分别是**魏青涛、康敏、熊恒星**[1][3]。\n\n该案由福建省泉州市中级人民法院和南安市人民法院一审公开宣判；除死刑和无期徒刑外，还有55名被告人被判处二十四年至三年三个月不等有期徒刑，并被相应判处罚金、没收财产、驱逐出境等附加刑[1][3]。",
+          "reasoning_content": "用户询问：2026年10月13日魏家案一审中，哪些人被判死刑，另有多少人被判无期徒刑？需要根据搜索结果直接回答。资料：新华社/中新网均称2026年10月13日，福建省泉州市中级人民法院和南安市人民法院一审公开宣判魏家犯罪集团系列案。对魏怀仁、陈大卫、廖景芳3名被告人判处死刑；对魏青涛、康敏、熊恒星3名被告人判处无期徒刑。还有55名被告有期徒刑不等。问题只问死刑名单和无期徒刑人数。需先直接回答，再补充事实背景。引用[1][3]。注意日期今天2026-11-14。自然中文。简短即可，但可补充附加刑等。确保在对应部分标注。\n"
+        },
+        "finish_reason": "stop"
+      }
+    ],
+    "id": "chatcmpl-5600ee6e-96dd-923e-8793-72f2aa83833a",
+    "model": "qwen3.8-max",
+    "created": 1794628470,
+    "citations": [
+      "https://www.news.cn/20261013/27ac6440b25c49919980089c4d1575ca/c.html",
+      "https://www.chinanews.com.cn/gn/2026/10-13/10713636.shtml"
+    ],
+    "usage": {
+      "completion_tokens": 299,
+      "completion_tokens_details": {
+        "reasoning_tokens": 173,
+        "text_tokens": 299
+      },
+      "prompt_tokens": 1181,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "text_tokens": 1181
+      },
+      "total_tokens": 1480
+    },
+    "_transport": "sse"
+  }
+}

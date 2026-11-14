@@ -1,0 +1,726 @@
+data: {"choices":[{"delta":{"reasoning_content":"用户","role":"assistant"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://k.sina.com.cn/article_1887344341_707e96d502001xv7s.html"],"created":1794600436,"id":"chatcmpl-70613241-284b-4eb9-ac5d-80ac20bbdeff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"问"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://k.sina.com.cn/article_1887344341_707e96d502001xv7s.html"],"created":1794600436,"id":"chatcmpl-70613241-284b-4eb9-ac5d-80ac20bbdeff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"的是英伟达宣布调查"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://k.sina.com.cn/article_1887344341_707e96d502001xv7s.html"],"created":1794600436,"id":"chatcmpl-70613241-284b-4eb9-ac5d-80ac20bbdeff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"黄仁勋的时间"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://k.sina.com.cn/article_1887344341_707e96d502001xv7s.html"],"created":1794600436,"id":"chatcmpl-70613241-284b-4eb9-ac5d-80ac20bbdeff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"，以及聘请谁来"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://k.sina.com.cn/article_1887344341_707e96d502001xv7s.html"],"created":1794600436,"id":"chatcmpl-70613241-284b-4eb9-ac5d-80ac20bbdeff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"开展"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://k.sina.com.cn/article_1887344341_707e96d502001xv7s.html"],"created":1794600436,"id":"chatcmpl-70613241-284b-4eb9-ac5d-80ac20bbdeff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"独立调查。搜索结果只"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://k.sina.com.cn/article_1887344341_707e96d502001xv7s.html"],"created":1794600436,"id":"chatcmpl-70613241-284b-4eb9-ac5d-80ac20bbdeff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"提供了网页"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://k.sina.com.cn/article_1887344341_707e96d502001xv7s.html"],"created":1794600436,"id":"chatcmpl-70613241-284b-4eb9-ac5d-80ac20bbdeff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"3的"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://k.sina.com.cn/article_1887344341_707e96d502001xv7s.html"],"created":1794600436,"id":"chatcmpl-70613241-284b-4eb9-ac5d-80ac20bbdeff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"片段，提到\""},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://k.sina.com.cn/article_1887344341_707e96d502001xv7s.html"],"created":1794600436,"id":"chatcmpl-70613241-284b-4eb9-ac5d-80ac20bbdeff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"董事"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://k.sina.com.cn/article_1887344341_707e96d502001xv7s.html"],"created":1794600436,"id":"chatcmpl-70613241-284b-4eb9-ac5d-80ac20bbdeff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"会在同"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://k.sina.com.cn/article_1887344341_707e96d502001xv7s.html"],"created":1794600436,"id":"chatcmpl-70613241-284b-4eb9-ac5d-80ac20bbdeff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"一天宣布启动"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://k.sina.com.cn/article_1887344341_707e96d502001xv7s.html"],"created":1794600436,"id":"chatcmpl-70613241-284b-4eb9-ac5d-80ac20bbdeff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"独立调查\""},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://k.sina.com.cn/article_1887344341_707e96d502001xv7s.html"],"created":1794600436,"id":"chatcmpl-70613241-284b-4eb9-ac5d-80ac20bbdeff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"和"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://k.sina.com.cn/article_1887344341_707e96d502001xv7s.html"],"created":1794600436,"id":"chatcmpl-70613241-284b-4eb9-ac5d-80ac20bbdeff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"\"11月10日，"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://k.sina.com.cn/article_1887344341_707e96d502001xv7s.html"],"created":1794600436,"id":"chatcmpl-70613241-284b-4eb9-ac5d-80ac20bbdeff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"独立董事聘请纽约"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://k.sina.com.cn/article_1887344341_707e96d502001xv7s.html"],"created":1794600436,"id":"chatcmpl-70613241-284b-4eb9-ac5d-80ac20bbdeff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"南区"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://k.sina.com.cn/article_1887344341_707e96d502001xv7s.html"],"created":1794600436,"id":"chatcmpl-70613241-284b-4eb9-ac5d-80ac20bbdeff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"前代理联邦"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://k.sina.com.cn/article_1887344341_707e96d502001xv7s.html"],"created":1794600436,"id":"chatcmpl-70613241-284b-4eb9-ac5d-80ac20bbdeff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"检察官金俊"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://k.sina.com.cn/article_1887344341_707e96d502001xv7s.html"],"created":1794600436,"id":"chatcmpl-70613241-284b-4eb9-ac5d-80ac20bbdeff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"贤（Joon"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://k.sina.com.cn/article_1887344341_707e96d502001xv7s.html"],"created":1794600436,"id":"chatcmpl-70613241-284b-4eb9-ac5d-80ac20bbdeff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":" H. Kim"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://k.sina.com.cn/article_1887344341_707e96d502001xv7s.html"],"created":1794600436,"id":"chatcmpl-70613241-284b-4eb9-ac5d-80ac20bbdeff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"）及其所在的沃"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://k.sina.com.cn/article_1887344341_707e96d502001xv7s.html"],"created":1794600436,"id":"chatcmpl-70613241-284b-4eb9-ac5d-80ac20bbdeff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"奇尔·立"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://k.sina.com.cn/article_1887344341_707e96d502001xv7s.html"],"created":1794600436,"id":"chatcmpl-70613241-284b-4eb9-ac5d-80ac20bbdeff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"普顿律师事务所（Wacht"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://k.sina.com.cn/article_1887344341_707e96d502001xv7s.html"],"created":1794600436,"id":"chatcmpl-70613241-284b-4eb9-ac5d-80ac20bbdeff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"ell, Li"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://k.sina.com.cn/article_1887344341_707e96d502001xv7s.html"],"created":1794600436,"id":"chatcmpl-70613241-284b-4eb9-ac5d-80ac20bbdeff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"pton,"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://k.sina.com.cn/article_1887344341_707e96d502001xv7s.html"],"created":1794600436,"id":"chatcmpl-70613241-284b-4eb9-ac5d-80ac20bbdeff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":" Rosen \u0026 Katz）执行这项"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://k.sina.com.cn/article_1887344341_707e96d502001xv7s.html"],"created":1794600436,"id":"chatcmpl-70613241-284b-4eb9-ac5d-80ac20bbdeff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"调查\"。\n\n但"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://k.sina.com.cn/article_1887344341_707e96d502001xv7s.html"],"created":1794600436,"id":"chatcmpl-70613241-284b-4eb9-ac5d-80ac20bbdeff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"\"同"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://k.sina.com.cn/article_1887344341_707e96d502001xv7s.html"],"created":1794600436,"id":"chatcmpl-70613241-284b-4eb9-ac5d-80ac20bbdeff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"一天\"是哪"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://k.sina.com.cn/article_1887344341_707e96d502001xv7s.html"],"created":1794600436,"id":"chatcmpl-70613241-284b-4eb9-ac5d-80ac20bbdeff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"一天？搜索片段"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://k.sina.com.cn/article_1887344341_707e96d502001xv7s.html"],"created":1794600436,"id":"chatcmpl-70613241-284b-4eb9-ac5d-80ac20bbdeff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"里"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://k.sina.com.cn/article_1887344341_707e96d502001xv7s.html"],"created":1794600436,"id":"chatcmpl-70613241-284b-4eb9-ac5d-80ac20bbdeff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"没有明确。这"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://k.sina.com.cn/article_1887344341_707e96d502001xv7s.html"],"created":1794600436,"id":"chatcmpl-70613241-284b-4eb9-ac5d-80ac20bbdeff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"看起来是关于"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://k.sina.com.cn/article_1887344341_707e96d502001xv7s.html"],"created":1794600436,"id":"chatcmpl-70613241-284b-4eb9-ac5d-80ac20bbdeff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"黄"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://k.sina.com.cn/article_1887344341_707e96d502001xv7s.html"],"created":1794600436,"id":"chatcmpl-70613241-284b-4eb9-ac5d-80ac20bbdeff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"仁勋税务问题"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://k.sina.com.cn/article_1887344341_707e96d502001xv7s.html"],"created":1794600436,"id":"chatcmpl-70613241-284b-4eb9-ac5d-80ac20bbdeff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"/避税报道"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://k.sina.com.cn/article_1887344341_707e96d502001xv7s.html"],"created":1794600436,"id":"chatcmpl-70613241-284b-4eb9-ac5d-80ac20bbdeff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"后的"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://k.sina.com.cn/article_1887344341_707e96d502001xv7s.html"],"created":1794600436,"id":"chatcmpl-70613241-284b-4eb9-ac5d-80ac20bbdeff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"调查？2024"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://k.sina.com.cn/article_1887344341_707e96d502001xv7s.html"],"created":1794600436,"id":"chatcmpl-70613241-284b-4eb9-ac5d-80ac20bbdeff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"年11月《"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://k.sina.com.cn/article_1887344341_707e96d502001xv7s.html"],"created":1794600436,"id":"chatcmpl-70613241-284b-4eb9-ac5d-80ac20bbdeff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"纽约时报》报道黄"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://k.sina.com.cn/article_1887344341_707e96d502001xv7s.html"],"created":1794600436,"id":"chatcmpl-70613241-284b-4eb9-ac5d-80ac20bbdeff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"仁勋避税80"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://k.sina.com.cn/article_1887344341_707e96d502001xv7s.html"],"created":1794600436,"id":"chatcmpl-70613241-284b-4eb9-ac5d-80ac20bbdeff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"亿美元，随后英"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://k.sina.com.cn/article_1887344341_707e96d502001xv7s.html"],"created":1794600436,"id":"chatcmpl-70613241-284b-4eb9-ac5d-80ac20bbdeff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"伟达表示"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://k.sina.com.cn/article_1887344341_707e96d502001xv7s.html"],"created":1794600436,"id":"chatcmpl-70613241-284b-4eb9-ac5d-80ac20bbdeff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"...实际上"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://k.sina.com.cn/article_1887344341_707e96d502001xv7s.html"],"created":1794600436,"id":"chatcmpl-70613241-284b-4eb9-ac5d-80ac20bbdeff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"2024年11"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://k.sina.com.cn/article_1887344341_707e96d502001xv7s.html"],"created":1794600436,"id":"chatcmpl-70613241-284b-4eb9-ac5d-80ac20bbdeff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"月，英伟达董事会"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://k.sina.com.cn/article_1887344341_707e96d502001xv7s.html"],"created":1794600436,"id":"chatcmpl-70613241-284b-4eb9-ac5d-80ac20bbdeff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"...嗯"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://k.sina.com.cn/article_1887344341_707e96d502001xv7s.html"],"created":1794600436,"id":"chatcmpl-70613241-284b-4eb9-ac5d-80ac20bbdeff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"。"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://k.sina.com.cn/article_1887344341_707e96d502001xv7s.html"],"created":1794600436,"id":"chatcmpl-70613241-284b-4eb9-ac5d-80ac20bbdeff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"但当前"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://k.sina.com.cn/article_1887344341_707e96d502001xv7s.html"],"created":1794600436,"id":"chatcmpl-70613241-284b-4eb9-ac5d-80ac20bbdeff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"设定"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://k.sina.com.cn/article_1887344341_707e96d502001xv7s.html"],"created":1794600436,"id":"chatcmpl-70613241-284b-4eb9-ac5d-80ac20bbdeff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"日期是2026-11"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://k.sina.com.cn/article_1887344341_707e96d502001xv7s.html"],"created":1794600436,"id":"chatcmpl-70613241-284b-4eb9-ac5d-80ac20bbdeff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"-14，搜索结果只有"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://k.sina.com.cn/article_1887344341_707e96d502001xv7s.html"],"created":1794600436,"id":"chatcmpl-70613241-284b-4eb9-ac5d-80ac20bbdeff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"片段，"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://k.sina.com.cn/article_1887344341_707e96d502001xv7s.html"],"created":1794600436,"id":"chatcmpl-70613241-284b-4eb9-ac5d-80ac20bbdeff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"无法确定\""},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://k.sina.com.cn/article_1887344341_707e96d502001xv7s.html"],"created":1794600436,"id":"chatcmpl-70613241-284b-4eb9-ac5d-80ac20bbdeff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"同一天\"的具体日期。\n\n"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://k.sina.com.cn/article_1887344341_707e96d502001xv7s.html"],"created":1794600436,"id":"chatcmpl-70613241-284b-4eb9-ac5d-80ac20bbdeff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"我需要谨慎：根据"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://k.sina.com.cn/article_1887344341_707e96d502001xv7s.html"],"created":1794600436,"id":"chatcmpl-70613241-284b-4eb9-ac5d-80ac20bbdeff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"搜索结果，只能说"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://k.sina.com.cn/article_1887344341_707e96d502001xv7s.html"],"created":1794600436,"id":"chatcmpl-70613241-284b-4eb9-ac5d-80ac20bbdeff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"董事会"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://k.sina.com.cn/article_1887344341_707e96d502001xv7s.html"],"created":1794600436,"id":"chatcmpl-70613241-284b-4eb9-ac5d-80ac20bbdeff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"\""},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://k.sina.com.cn/article_1887344341_707e96d502001xv7s.html"],"created":1794600436,"id":"chatcmpl-70613241-284b-4eb9-ac5d-80ac20bbdeff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"同一天\"宣布启动独立"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://k.sina.com.cn/article_1887344341_707e96d502001xv7s.html"],"created":1794600436,"id":"chatcmpl-70613241-284b-4eb9-ac5d-80ac20bbdeff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"调查，但该"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://k.sina.com.cn/article_1887344341_707e96d502001xv7s.html"],"created":1794600436,"id":"chatcmpl-70613241-284b-4eb9-ac5d-80ac20bbdeff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"片段"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://k.sina.com.cn/article_1887344341_707e96d502001xv7s.html"],"created":1794600436,"id":"chatcmpl-70613241-284b-4eb9-ac5d-80ac20bbdeff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"未"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://k.sina.com.cn/article_1887344341_707e96d502001xv7s.html"],"created":1794600436,"id":"chatcmpl-70613241-284b-4eb9-ac5d-80ac20bbdeff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"给出具体日期；11月"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://k.sina.com.cn/article_1887344341_707e96d502001xv7s.html"],"created":1794600436,"id":"chatcmpl-70613241-284b-4eb9-ac5d-80ac20bbdeff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"10日聘请了"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://k.sina.com.cn/article_1887344341_707e96d502001xv7s.html"],"created":1794600436,"id":"chatcmpl-70613241-284b-4eb9-ac5d-80ac20bbdeff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"J"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://k.sina.com.cn/article_1887344341_707e96d502001xv7s.html"],"created":1794600436,"id":"chatcmpl-70613241-284b-4eb9-ac5d-80ac20bbdeff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"oon H"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://k.sina.com.cn/article_1887344341_707e96d502001xv7s.html"],"created":1794600436,"id":"chatcmpl-70613241-284b-4eb9-ac5d-80ac20bbdeff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":". Kim及"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://k.sina.com.cn/article_1887344341_707e96d502001xv7s.html"],"created":1794600436,"id":"chatcmpl-70613241-284b-4eb9-ac5d-80ac20bbdeff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"Wacht"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://k.sina.com.cn/article_1887344341_707e96d502001xv7s.html"],"created":1794600436,"id":"chatcmpl-70613241-284b-4eb9-ac5d-80ac20bbdeff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"ell律"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://k.sina.com.cn/article_1887344341_707e96d502001xv7s.html"],"created":1794600436,"id":"chatcmpl-70613241-284b-4eb9-ac5d-80ac20bbdeff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"所。"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://k.sina.com.cn/article_1887344341_707e96d502001xv7s.html"],"created":1794600436,"id":"chatcmpl-70613241-284b-4eb9-ac5d-80ac20bbdeff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"注意\"11"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://k.sina.com.cn/article_1887344341_707e96d502001xv7s.html"],"created":1794600436,"id":"chatcmpl-70613241-284b-4eb9-ac5d-80ac20bbdeff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"月10日\"是调查"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://k.sina.com.cn/article_1887344341_707e96d502001xv7s.html"],"created":1794600436,"id":"chatcmpl-70613241-284b-4eb9-ac5d-80ac20bbdeff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"启动"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://k.sina.com.cn/article_1887344341_707e96d502001xv7s.html"],"created":1794600436,"id":"chatcmpl-70613241-284b-4eb9-ac5d-80ac20bbdeff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"后的"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://k.sina.com.cn/article_1887344341_707e96d502001xv7s.html"],"created":1794600436,"id":"chatcmpl-70613241-284b-4eb9-ac5d-80ac20bbdeff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"某日"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://k.sina.com.cn/article_1887344341_707e96d502001xv7s.html"],"created":1794600436,"id":"chatcmpl-70613241-284b-4eb9-ac5d-80ac20bbdeff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"？可能是202"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://k.sina.com.cn/article_1887344341_707e96d502001xv7s.html"],"created":1794600436,"id":"chatcmpl-70613241-284b-4eb9-ac5d-80ac20bbdeff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"5"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://k.sina.com.cn/article_1887344341_707e96d502001xv7s.html"],"created":1794600436,"id":"chatcmpl-70613241-284b-4eb9-ac5d-80ac20bbdeff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"年11月10日？"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://k.sina.com.cn/article_1887344341_707e96d502001xv7s.html"],"created":1794600436,"id":"chatcmpl-70613241-284b-4eb9-ac5d-80ac20bbdeff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"需要联网"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://k.sina.com.cn/article_1887344341_707e96d502001xv7s.html"],"created":1794600436,"id":"chatcmpl-70613241-284b-4eb9-ac5d-80ac20bbdeff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"检索"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://k.sina.com.cn/article_1887344341_707e96d502001xv7s.html"],"created":1794600436,"id":"chatcmpl-70613241-284b-4eb9-ac5d-80ac20bbdeff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"。"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://k.sina.com.cn/article_1887344341_707e96d502001xv7s.html"],"created":1794600436,"id":"chatcmpl-70613241-284b-4eb9-ac5d-80ac20bbdeff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"但我"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://k.sina.com.cn/article_1887344341_707e96d502001xv7s.html"],"created":1794600436,"id":"chatcmpl-70613241-284b-4eb9-ac5d-80ac20bbdeff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"作为"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://k.sina.com.cn/article_1887344341_707e96d502001xv7s.html"],"created":1794600436,"id":"chatcmpl-70613241-284b-4eb9-ac5d-80ac20bbdeff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"模型无法"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://k.sina.com.cn/article_1887344341_707e96d502001xv7s.html"],"created":1794600436,"id":"chatcmpl-70613241-284b-4eb9-ac5d-80ac20bbdeff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"真正"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://k.sina.com.cn/article_1887344341_707e96d502001xv7s.html"],"created":1794600436,"id":"chatcmpl-70613241-284b-4eb9-ac5d-80ac20bbdeff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"联网——"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://k.sina.com.cn/article_1887344341_707e96d502001xv7s.html"],"created":1794600436,"id":"chatcmpl-70613241-284b-4eb9-ac5d-80ac20bbdeff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"指令"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://k.sina.com.cn/article_1887344341_707e96d502001xv7s.html"],"created":1794600436,"id":"chatcmpl-70613241-284b-4eb9-ac5d-80ac20bbdeff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"说\"请"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://k.sina.com.cn/article_1887344341_707e96d502001xv7s.html"],"created":1794600436,"id":"chatcmpl-70613241-284b-4eb9-ac5d-80ac20bbdeff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"联网检索后"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://k.sina.com.cn/article_1887344341_707e96d502001xv7s.html"],"created":1794600436,"id":"chatcmpl-70613241-284b-4eb9-ac5d-80ac20bbdeff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"\"，但提供的"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://k.sina.com.cn/article_1887344341_707e96d502001xv7s.html"],"created":1794600436,"id":"chatcmpl-70613241-284b-4eb9-ac5d-80ac20bbdeff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"搜索结果"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://k.sina.com.cn/article_1887344341_707e96d502001xv7s.html"],"created":1794600436,"id":"chatcmpl-70613241-284b-4eb9-ac5d-80ac20bbdeff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"就是检索"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://k.sina.com.cn/article_1887344341_707e96d502001xv7s.html"],"created":1794600436,"id":"chatcmpl-70613241-284b-4eb9-ac5d-80ac20bbdeff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"结果。我"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://k.sina.com.cn/article_1887344341_707e96d502001xv7s.html"],"created":1794600436,"id":"chatcmpl-70613241-284b-4eb9-ac5d-80ac20bbdeff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"应"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://k.sina.com.cn/article_1887344341_707e96d502001xv7s.html"],"created":1794600436,"id":"chatcmpl-70613241-284b-4eb9-ac5d-80ac20bbdeff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"基于这些"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://k.sina.com.cn/article_1887344341_707e96d502001xv7s.html"],"created":1794600436,"id":"chatcmpl-70613241-284b-4eb9-ac5d-80ac20bbdeff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"结果回答，并"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://k.sina.com.cn/article_1887344341_707e96d502001xv7s.html"],"created":1794600436,"id":"chatcmpl-70613241-284b-4eb9-ac5d-80ac20bbdeff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"说明信息不足。\n\n不过我可以"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://k.sina.com.cn/article_1887344341_707e96d502001xv7s.html"],"created":1794600436,"id":"chatcmpl-70613241-284b-4eb9-ac5d-80ac20bbdeff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"尝试理解：这是关于"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://k.sina.com.cn/article_1887344341_707e96d502001xv7s.html"],"created":1794600436,"id":"chatcmpl-70613241-284b-4eb9-ac5d-80ac20bbdeff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"英"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://k.sina.com.cn/article_1887344341_707e96d502001xv7s.html"],"created":1794600436,"id":"chatcmpl-70613241-284b-4eb9-ac5d-80ac20bbdeff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"伟达2025年11"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://k.sina.com.cn/article_1887344341_707e96d502001xv7s.html"],"created":1794600436,"id":"chatcmpl-70613241-284b-4eb9-ac5d-80ac20bbdeff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"月？黄"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://k.sina.com.cn/article_1887344341_707e96d502001xv7s.html"],"created":1794600436,"id":"chatcmpl-70613241-284b-4eb9-ac5d-80ac20bbdeff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"仁勋被"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://k.sina.com.cn/article_1887344341_707e96d502001xv7s.html"],"created":1794600436,"id":"chatcmpl-70613241-284b-4eb9-ac5d-80ac20bbdeff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"调查"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://k.sina.com.cn/article_1887344341_707e96d502001xv7s.html"],"created":1794600436,"id":"chatcmpl-70613241-284b-4eb9-ac5d-80ac20bbdeff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"？让我想想"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://k.sina.com.cn/article_1887344341_707e96d502001xv7s.html"],"created":1794600436,"id":"chatcmpl-70613241-284b-4eb9-ac5d-80ac20bbdeff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"真实"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://k.sina.com.cn/article_1887344341_707e96d502001xv7s.html"],"created":1794600436,"id":"chatcmpl-70613241-284b-4eb9-ac5d-80ac20bbdeff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"新闻。2024年11"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://k.sina.com.cn/article_1887344341_707e96d502001xv7s.html"],"created":1794600436,"id":"chatcmpl-70613241-284b-4eb9-ac5d-80ac20bbdeff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"月《纽约时报》称"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://k.sina.com.cn/article_1887344341_707e96d502001xv7s.html"],"created":1794600436,"id":"chatcmpl-70613241-284b-4eb9-ac5d-80ac20bbdeff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"黄仁勋利用"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://k.sina.com.cn/article_1887344341_707e96d502001xv7s.html"],"created":1794600436,"id":"chatcmpl-70613241-284b-4eb9-ac5d-80ac20bbdeff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"税收"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://k.sina.com.cn/article_1887344341_707e96d502001xv7s.html"],"created":1794600436,"id":"chatcmpl-70613241-284b-4eb9-ac5d-80ac20bbdeff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"漏洞"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://k.sina.com.cn/article_1887344341_707e96d502001xv7s.html"],"created":1794600436,"id":"chatcmpl-70613241-284b-4eb9-ac5d-80ac20bbdeff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"避税80"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://k.sina.com.cn/article_1887344341_707e96d502001xv7s.html"],"created":1794600436,"id":"chatcmpl-70613241-284b-4eb9-ac5d-80ac20bbdeff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"亿美元，"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://k.sina.com.cn/article_1887344341_707e96d502001xv7s.html"],"created":1794600436,"id":"chatcmpl-70613241-284b-4eb9-ac5d-80ac20bbdeff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"英伟达回应"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://k.sina.com.cn/article_1887344341_707e96d502001xv7s.html"],"created":1794600436,"id":"chatcmpl-70613241-284b-4eb9-ac5d-80ac20bbdeff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"称这是"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://k.sina.com.cn/article_1887344341_707e96d502001xv7s.html"],"created":1794600436,"id":"chatcmpl-70613241-284b-4eb9-ac5d-80ac20bbdeff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"\"误导"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://k.sina.com.cn/article_1887344341_707e96d502001xv7s.html"],"created":1794600436,"id":"chatcmpl-70613241-284b-4eb9-ac5d-80ac20bbdeff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"\"。但没有"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://k.sina.com.cn/article_1887344341_707e96d502001xv7s.html"],"created":1794600436,"id":"chatcmpl-70613241-284b-4eb9-ac5d-80ac20bbdeff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"董事会调查。2025年"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://k.sina.com.cn/article_1887344341_707e96d502001xv7s.html"],"created":1794600436,"id":"chatcmpl-70613241-284b-4eb9-ac5d-80ac20bbdeff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"？可能有关于"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://k.sina.com.cn/article_1887344341_707e96d502001xv7s.html"],"created":1794600436,"id":"chatcmpl-70613241-284b-4eb9-ac5d-80ac20bbdeff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"英伟达投资"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://k.sina.com.cn/article_1887344341_707e96d502001xv7s.html"],"created":1794600436,"id":"chatcmpl-70613241-284b-4eb9-ac5d-80ac20bbdeff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"x"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://k.sina.com.cn/article_1887344341_707e96d502001xv7s.html"],"created":1794600436,"id":"chatcmpl-70613241-284b-4eb9-ac5d-80ac20bbdeff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"AI、"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://k.sina.com.cn/article_1887344341_707e96d502001xv7s.html"],"created":1794600436,"id":"chatcmpl-70613241-284b-4eb9-ac5d-80ac20bbdeff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"An"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://k.sina.com.cn/article_1887344341_707e96d502001xv7s.html"],"created":1794600436,"id":"chatcmpl-70613241-284b-4eb9-ac5d-80ac20bbdeff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"thropic的"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://k.sina.com.cn/article_1887344341_707e96d502001xv7s.html"],"created":1794600436,"id":"chatcmpl-70613241-284b-4eb9-ac5d-80ac20bbdeff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"关联"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://k.sina.com.cn/article_1887344341_707e96d502001xv7s.html"],"created":1794600436,"id":"chatcmpl-70613241-284b-4eb9-ac5d-80ac20bbdeff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"交易，"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://k.sina.com.cn/article_1887344341_707e96d502001xv7s.html"],"created":1794600436,"id":"chatcmpl-70613241-284b-4eb9-ac5d-80ac20bbdeff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"或者"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://k.sina.com.cn/article_1887344341_707e96d502001xv7s.html"],"created":1794600436,"id":"chatcmpl-70613241-284b-4eb9-ac5d-80ac20bbdeff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"黄仁勋的"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://k.sina.com.cn/article_1887344341_707e96d502001xv7s.html"],"created":1794600436,"id":"chatcmpl-70613241-284b-4eb9-ac5d-80ac20bbdeff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"股票"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://k.sina.com.cn/article_1887344341_707e96d502001xv7s.html"],"created":1794600436,"id":"chatcmpl-70613241-284b-4eb9-ac5d-80ac20bbdeff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"出售"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://k.sina.com.cn/article_1887344341_707e96d502001xv7s.html"],"created":1794600436,"id":"chatcmpl-70613241-284b-4eb9-ac5d-80ac20bbdeff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"？\""},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://k.sina.com.cn/article_1887344341_707e96d502001xv7s.html"],"created":1794600436,"id":"chatcmpl-70613241-284b-4eb9-ac5d-80ac20bbdeff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"董事"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://k.sina.com.cn/article_1887344341_707e96d502001xv7s.html"],"created":1794600436,"id":"chatcmpl-70613241-284b-4eb9-ac5d-80ac20bbdeff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"会在同"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://k.sina.com.cn/article_1887344341_707e96d502001xv7s.html"],"created":1794600436,"id":"chatcmpl-70613241-284b-4eb9-ac5d-80ac20bbdeff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"一天宣布启动"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://k.sina.com.cn/article_1887344341_707e96d502001xv7s.html"],"created":1794600436,"id":"chatcmpl-70613241-284b-4eb9-ac5d-80ac20bbdeff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"独立调查\"——可能是"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://k.sina.com.cn/article_1887344341_707e96d502001xv7s.html"],"created":1794600436,"id":"chatcmpl-70613241-284b-4eb9-ac5d-80ac20bbdeff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"英伟达因"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://k.sina.com.cn/article_1887344341_707e96d502001xv7s.html"],"created":1794600436,"id":"chatcmpl-70613241-284b-4eb9-ac5d-80ac20bbdeff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"某项"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://k.sina.com.cn/article_1887344341_707e96d502001xv7s.html"],"created":1794600436,"id":"chatcmpl-70613241-284b-4eb9-ac5d-80ac20bbdeff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"交易（如对"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://k.sina.com.cn/article_1887344341_707e96d502001xv7s.html"],"created":1794600436,"id":"chatcmpl-70613241-284b-4eb9-ac5d-80ac20bbdeff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"OpenAI的100"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://k.sina.com.cn/article_1887344341_707e96d502001xv7s.html"],"created":1794600436,"id":"chatcmpl-70613241-284b-4eb9-ac5d-80ac20bbdeff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"0亿美元投资）存在"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://k.sina.com.cn/article_1887344341_707e96d502001xv7s.html"],"created":1794600436,"id":"chatcmpl-70613241-284b-4eb9-ac5d-80ac20bbdeff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"利益"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://k.sina.com.cn/article_1887344341_707e96d502001xv7s.html"],"created":1794600436,"id":"chatcmpl-70613241-284b-4eb9-ac5d-80ac20bbdeff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"冲突，董事会"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://k.sina.com.cn/article_1887344341_707e96d502001xv7s.html"],"created":1794600436,"id":"chatcmpl-70613241-284b-4eb9-ac5d-80ac20bbdeff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"启动调查？金"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://k.sina.com.cn/article_1887344341_707e96d502001xv7s.html"],"created":1794600436,"id":"chatcmpl-70613241-284b-4eb9-ac5d-80ac20bbdeff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"俊"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://k.sina.com.cn/article_1887344341_707e96d502001xv7s.html"],"created":1794600436,"id":"chatcmpl-70613241-284b-4eb9-ac5d-80ac20bbdeff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"贤（Joon H"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://k.sina.com.cn/article_1887344341_707e96d502001xv7s.html"],"created":1794600436,"id":"chatcmpl-70613241-284b-4eb9-ac5d-80ac20bbdeff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":". Kim）是Wacht"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://k.sina.com.cn/article_1887344341_707e96d502001xv7s.html"],"created":1794600436,"id":"chatcmpl-70613241-284b-4eb9-ac5d-80ac20bbdeff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"ell的"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://k.sina.com.cn/article_1887344341_707e96d502001xv7s.html"],"created":1794600436,"id":"chatcmpl-70613241-284b-4eb9-ac5d-80ac20bbdeff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"合伙人，前"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://k.sina.com.cn/article_1887344341_707e96d502001xv7s.html"],"created":1794600436,"id":"chatcmpl-70613241-284b-4eb9-ac5d-80ac20bbdeff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"SD"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://k.sina.com.cn/article_1887344341_707e96d502001xv7s.html"],"created":1794600436,"id":"chatcmpl-70613241-284b-4eb9-ac5d-80ac20bbdeff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"NY"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://k.sina.com.cn/article_1887344341_707e96d502001xv7s.html"],"created":1794600436,"id":"chatcmpl-70613241-284b-4eb9-ac5d-80ac20bbdeff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"代理检察官。\n\n实际上，202"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://k.sina.com.cn/article_1887344341_707e96d502001xv7s.html"],"created":1794600436,"id":"chatcmpl-70613241-284b-4eb9-ac5d-80ac20bbdeff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"5年11月，有"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://k.sina.com.cn/article_1887344341_707e96d502001xv7s.html"],"created":1794600436,"id":"chatcmpl-70613241-284b-4eb9-ac5d-80ac20bbdeff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"报道称"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://k.sina.com.cn/article_1887344341_707e96d502001xv7s.html"],"created":1794600436,"id":"chatcmpl-70613241-284b-4eb9-ac5d-80ac20bbdeff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"英伟达董事会调查黄"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://k.sina.com.cn/article_1887344341_707e96d502001xv7s.html"],"created":1794600436,"id":"chatcmpl-70613241-284b-4eb9-ac5d-80ac20bbdeff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"仁勋？"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://k.sina.com.cn/article_1887344341_707e96d502001xv7s.html"],"created":1794600436,"id":"chatcmpl-70613241-284b-4eb9-ac5d-80ac20bbdeff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"让我"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://k.sina.com.cn/article_1887344341_707e96d502001xv7s.html"],"created":1794600436,"id":"chatcmpl-70613241-284b-4eb9-ac5d-80ac20bbdeff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"构建"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://k.sina.com.cn/article_1887344341_707e96d502001xv7s.html"],"created":1794600436,"id":"chatcmpl-70613241-284b-4eb9-ac5d-80ac20bbdeff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"：可能是"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://k.sina.com.cn/article_1887344341_707e96d502001xv7s.html"],"created":1794600436,"id":"chatcmpl-70613241-284b-4eb9-ac5d-80ac20bbdeff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"2025年11月某"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://k.sina.com.cn/article_1887344341_707e96d502001xv7s.html"],"created":1794600436,"id":"chatcmpl-70613241-284b-4eb9-ac5d-80ac20bbdeff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"日，媒体报道"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://k.sina.com.cn/article_1887344341_707e96d502001xv7s.html"],"created":1794600436,"id":"chatcmpl-70613241-284b-4eb9-ac5d-80ac20bbdeff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"英伟达CEO"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://k.sina.com.cn/article_1887344341_707e96d502001xv7s.html"],"created":1794600436,"id":"chatcmpl-70613241-284b-4eb9-ac5d-80ac20bbdeff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"黄仁勋可能"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://k.sina.com.cn/article_1887344341_707e96d502001xv7s.html"],"created":1794600436,"id":"chatcmpl-70613241-284b-4eb9-ac5d-80ac20bbdeff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"涉及"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://k.sina.com.cn/article_1887344341_707e96d502001xv7s.html"],"created":1794600436,"id":"chatcmpl-70613241-284b-4eb9-ac5d-80ac20bbdeff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"某事项"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://k.sina.com.cn/article_1887344341_707e96d502001xv7s.html"],"created":1794600436,"id":"chatcmpl-70613241-284b-4eb9-ac5d-80ac20bbdeff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"，董事会同日"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://k.sina.com.cn/article_1887344341_707e96d502001xv7s.html"],"created":1794600436,"id":"chatcmpl-70613241-284b-4eb9-ac5d-80ac20bbdeff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"宣布独立调查，"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://k.sina.com.cn/article_1887344341_707e96d502001xv7s.html"],"created":1794600436,"id":"chatcmpl-70613241-284b-4eb9-ac5d-80ac20bbdeff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"并于11月10日聘请"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://k.sina.com.cn/article_1887344341_707e96d502001xv7s.html"],"created":1794600436,"id":"chatcmpl-70613241-284b-4eb9-ac5d-80ac20bbdeff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"Joon H"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://k.sina.com.cn/article_1887344341_707e96d502001xv7s.html"],"created":1794600436,"id":"chatcmpl-70613241-284b-4eb9-ac5d-80ac20bbdeff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":". Kim。但具体日期"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://k.sina.com.cn/article_1887344341_707e96d502001xv7s.html"],"created":1794600436,"id":"chatcmpl-70613241-284b-4eb9-ac5d-80ac20bbdeff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"不明"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://k.sina.com.cn/article_1887344341_707e96d502001xv7s.html"],"created":1794600436,"id":"chatcmpl-70613241-284b-4eb9-ac5d-80ac20bbdeff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"。\n\n我应该"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://k.sina.com.cn/article_1887344341_707e96d502001xv7s.html"],"created":1794600436,"id":"chatcmpl-70613241-284b-4eb9-ac5d-80ac20bbdeff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"直接"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://k.sina.com.cn/article_1887344341_707e96d502001xv7s.html"],"created":1794600436,"id":"chatcmpl-70613241-284b-4eb9-ac5d-80ac20bbdeff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"回答：根据"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://k.sina.com.cn/article_1887344341_707e96d502001xv7s.html"],"created":1794600436,"id":"chatcmpl-70613241-284b-4eb9-ac5d-80ac20bbdeff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"提供的"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://k.sina.com.cn/article_1887344341_707e96d502001xv7s.html"],"created":1794600436,"id":"chatcmpl-70613241-284b-4eb9-ac5d-80ac20bbdeff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"检索材料"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://k.sina.com.cn/article_1887344341_707e96d502001xv7s.html"],"created":1794600436,"id":"chatcmpl-70613241-284b-4eb9-ac5d-80ac20bbdeff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"，只能"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://k.sina.com.cn/article_1887344341_707e96d502001xv7s.html"],"created":1794600436,"id":"chatcmpl-70613241-284b-4eb9-ac5d-80ac20bbdeff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"确认独立"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://k.sina.com.cn/article_1887344341_707e96d502001xv7s.html"],"created":1794600436,"id":"chatcmpl-70613241-284b-4eb9-ac5d-80ac20bbdeff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"董事"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://k.sina.com.cn/article_1887344341_707e96d502001xv7s.html"],"created":1794600436,"id":"chatcmpl-70613241-284b-4eb9-ac5d-80ac20bbdeff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"于"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://k.sina.com.cn/article_1887344341_707e96d502001xv7s.html"],"created":1794600436,"id":"chatcmpl-70613241-284b-4eb9-ac5d-80ac20bbdeff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"11"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://k.sina.com.cn/article_1887344341_707e96d502001xv7s.html"],"created":1794600436,"id":"chatcmpl-70613241-284b-4eb9-ac5d-80ac20bbdeff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"月10日聘请金"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://k.sina.com.cn/article_1887344341_707e96d502001xv7s.html"],"created":1794600436,"id":"chatcmpl-70613241-284b-4eb9-ac5d-80ac20bbdeff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"俊贤及"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://k.sina.com.cn/article_1887344341_707e96d502001xv7s.html"],"created":1794600436,"id":"chatcmpl-70613241-284b-4eb9-ac5d-80ac20bbdeff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"Wachtell律"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://k.sina.com.cn/article_1887344341_707e96d502001xv7s.html"],"created":1794600436,"id":"chatcmpl-70613241-284b-4eb9-ac5d-80ac20bbdeff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"所开展"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://k.sina.com.cn/article_1887344341_707e96d502001xv7s.html"],"created":1794600436,"id":"chatcmpl-70613241-284b-4eb9-ac5d-80ac20bbdeff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"独立"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://k.sina.com.cn/article_1887344341_707e96d502001xv7s.html"],"created":1794600436,"id":"chatcmpl-70613241-284b-4eb9-ac5d-80ac20bbdeff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"调查；董事会宣布启动"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://k.sina.com.cn/article_1887344341_707e96d502001xv7s.html"],"created":1794600436,"id":"chatcmpl-70613241-284b-4eb9-ac5d-80ac20bbdeff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"调查的日期在"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://k.sina.com.cn/article_1887344341_707e96d502001xv7s.html"],"created":1794600436,"id":"chatcmpl-70613241-284b-4eb9-ac5d-80ac20bbdeff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"材料中只表述"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://k.sina.com.cn/article_1887344341_707e96d502001xv7s.html"],"created":1794600436,"id":"chatcmpl-70613241-284b-4eb9-ac5d-80ac20bbdeff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"为\"同"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://k.sina.com.cn/article_1887344341_707e96d502001xv7s.html"],"created":1794600436,"id":"chatcmpl-70613241-284b-4eb9-ac5d-80ac20bbdeff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"一天\"，未给出"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://k.sina.com.cn/article_1887344341_707e96d502001xv7s.html"],"created":1794600436,"id":"chatcmpl-70613241-284b-4eb9-ac5d-80ac20bbdeff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"具体日期，因此"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://k.sina.com.cn/article_1887344341_707e96d502001xv7s.html"],"created":1794600436,"id":"chatcmpl-70613241-284b-4eb9-ac5d-80ac20bbdeff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"无法确认\""},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://k.sina.com.cn/article_1887344341_707e96d502001xv7s.html"],"created":1794600436,"id":"chatcmpl-70613241-284b-4eb9-ac5d-80ac20bbdeff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"什么时候"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://k.sina.com.cn/article_1887344341_707e96d502001xv7s.html"],"created":1794600436,"id":"chatcmpl-70613241-284b-4eb9-ac5d-80ac20bbdeff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"宣布调查"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://k.sina.com.cn/article_1887344341_707e96d502001xv7s.html"],"created":1794600436,"id":"chatcmpl-70613241-284b-4eb9-ac5d-80ac20bbdeff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"黄仁勋\"。"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://k.sina.com.cn/article_1887344341_707e96d502001xv7s.html"],"created":1794600436,"id":"chatcmpl-70613241-284b-4eb9-ac5d-80ac20bbdeff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"并指出"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://k.sina.com.cn/article_1887344341_707e96d502001xv7s.html"],"created":1794600436,"id":"chatcmpl-70613241-284b-4eb9-ac5d-80ac20bbdeff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"\"调查"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://k.sina.com.cn/article_1887344341_707e96d502001xv7s.html"],"created":1794600436,"id":"chatcmpl-70613241-284b-4eb9-ac5d-80ac20bbdeff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"黄仁勋\"这一"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://k.sina.com.cn/article_1887344341_707e96d502001xv7s.html"],"created":1794600436,"id":"chatcmpl-70613241-284b-4eb9-ac5d-80ac20bbdeff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"表述也不"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://k.sina.com.cn/article_1887344341_707e96d502001xv7s.html"],"created":1794600436,"id":"chatcmpl-70613241-284b-4eb9-ac5d-80ac20bbdeff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"准确——材料"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://k.sina.com.cn/article_1887344341_707e96d502001xv7s.html"],"created":1794600436,"id":"chatcmpl-70613241-284b-4eb9-ac5d-80ac20bbdeff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"说的是"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://k.sina.com.cn/article_1887344341_707e96d502001xv7s.html"],"created":1794600436,"id":"chatcmpl-70613241-284b-4eb9-ac5d-80ac20bbdeff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"董事会启动"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://k.sina.com.cn/article_1887344341_707e96d502001xv7s.html"],"created":1794600436,"id":"chatcmpl-70613241-284b-4eb9-ac5d-80ac20bbdeff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"独立调查，未明确调查"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://k.sina.com.cn/article_1887344341_707e96d502001xv7s.html"],"created":1794600436,"id":"chatcmpl-70613241-284b-4eb9-ac5d-80ac20bbdeff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"对象就是"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://k.sina.com.cn/article_1887344341_707e96d502001xv7s.html"],"created":1794600436,"id":"chatcmpl-70613241-284b-4eb9-ac5d-80ac20bbdeff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"黄仁勋本人"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://k.sina.com.cn/article_1887344341_707e96d502001xv7s.html"],"created":1794600436,"id":"chatcmpl-70613241-284b-4eb9-ac5d-80ac20bbdeff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"。\n\n需要谨慎，不要"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://k.sina.com.cn/article_1887344341_707e96d502001xv7s.html"],"created":1794600436,"id":"chatcmpl-70613241-284b-4eb9-ac5d-80ac20bbdeff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"编"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://k.sina.com.cn/article_1887344341_707e96d502001xv7s.html"],"created":1794600436,"id":"chatcmpl-70613241-284b-4eb9-ac5d-80ac20bbdeff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"造。回答简短"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://k.sina.com.cn/article_1887344341_707e96d502001xv7s.html"],"created":1794600436,"id":"chatcmpl-70613241-284b-4eb9-ac5d-80ac20bbdeff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"但"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://k.sina.com.cn/article_1887344341_707e96d502001xv7s.html"],"created":1794600436,"id":"chatcmpl-70613241-284b-4eb9-ac5d-80ac20bbdeff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"解释清楚"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://k.sina.com.cn/article_1887344341_707e96d502001xv7s.html"],"created":1794600436,"id":"chatcmpl-70613241-284b-4eb9-ac5d-80ac20bbdeff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"。\n\n引用格式：["},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://k.sina.com.cn/article_1887344341_707e96d502001xv7s.html"],"created":1794600436,"id":"chatcmpl-70613241-284b-4eb9-ac5d-80ac20bbdeff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"3]。\n\n"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://k.sina.com.cn/article_1887344341_707e96d502001xv7s.html"],"created":1794600436,"id":"chatcmpl-70613241-284b-4eb9-ac5d-80ac20bbdeff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"答案"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://k.sina.com.cn/article_1887344341_707e96d502001xv7s.html"],"created":1794600436,"id":"chatcmpl-70613241-284b-4eb9-ac5d-80ac20bbdeff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"结构：\n1"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://k.sina.com.cn/article_1887344341_707e96d502001xv7s.html"],"created":1794600436,"id":"chatcmpl-70613241-284b-4eb9-ac5d-80ac20bbdeff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":". 直接回答：宣布"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://k.sina.com.cn/article_1887344341_707e96d502001xv7s.html"],"created":1794600436,"id":"chatcmpl-70613241-284b-4eb9-ac5d-80ac20bbdeff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"日期"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://k.sina.com.cn/article_1887344341_707e96d502001xv7s.html"],"created":1794600436,"id":"chatcmpl-70613241-284b-4eb9-ac5d-80ac20bbdeff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"——检索"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://k.sina.com.cn/article_1887344341_707e96d502001xv7s.html"],"created":1794600436,"id":"chatcmpl-70613241-284b-4eb9-ac5d-80ac20bbdeff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"材料"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://k.sina.com.cn/article_1887344341_707e96d502001xv7s.html"],"created":1794600436,"id":"chatcmpl-70613241-284b-4eb9-ac5d-80ac20bbdeff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"未给出明确"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://k.sina.com.cn/article_1887344341_707e96d502001xv7s.html"],"created":1794600436,"id":"chatcmpl-70613241-284b-4eb9-ac5d-80ac20bbdeff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"日期，只说"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://k.sina.com.cn/article_1887344341_707e96d502001xv7s.html"],"created":1794600436,"id":"chatcmpl-70613241-284b-4eb9-ac5d-80ac20bbdeff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"\"同一天\"；聘请"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://k.sina.com.cn/article_1887344341_707e96d502001xv7s.html"],"created":1794600436,"id":"chatcmpl-70613241-284b-4eb9-ac5d-80ac20bbdeff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"——"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://k.sina.com.cn/article_1887344341_707e96d502001xv7s.html"],"created":1794600436,"id":"chatcmpl-70613241-284b-4eb9-ac5d-80ac20bbdeff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"11月10日"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://k.sina.com.cn/article_1887344341_707e96d502001xv7s.html"],"created":1794600436,"id":"chatcmpl-70613241-284b-4eb9-ac5d-80ac20bbdeff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"，"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://k.sina.com.cn/article_1887344341_707e96d502001xv7s.html"],"created":1794600436,"id":"chatcmpl-70613241-284b-4eb9-ac5d-80ac20bbdeff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"金俊贤（J"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://k.sina.com.cn/article_1887344341_707e96d502001xv7s.html"],"created":1794600436,"id":"chatcmpl-70613241-284b-4eb9-ac5d-80ac20bbdeff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"oon H. Kim）及"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://k.sina.com.cn/article_1887344341_707e96d502001xv7s.html"],"created":1794600436,"id":"chatcmpl-70613241-284b-4eb9-ac5d-80ac20bbdeff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"Wacht"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://k.sina.com.cn/article_1887344341_707e96d502001xv7s.html"],"created":1794600436,"id":"chatcmpl-70613241-284b-4eb9-ac5d-80ac20bbdeff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"ell, Li"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://k.sina.com.cn/article_1887344341_707e96d502001xv7s.html"],"created":1794600436,"id":"chatcmpl-70613241-284b-4eb9-ac5d-80ac20bbdeff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"pton,"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://k.sina.com.cn/article_1887344341_707e96d502001xv7s.html"],"created":1794600436,"id":"chatcmpl-70613241-284b-4eb9-ac5d-80ac20bbdeff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":" Rosen \u0026 Katz。\n2."},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://k.sina.com.cn/article_1887344341_707e96d502001xv7s.html"],"created":1794600436,"id":"chatcmpl-70613241-284b-4eb9-ac5d-80ac20bbdeff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":" 背景"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://k.sina.com.cn/article_1887344341_707e96d502001xv7s.html"],"created":1794600436,"id":"chatcmpl-70613241-284b-4eb9-ac5d-80ac20bbdeff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"/说明：董事会"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://k.sina.com.cn/article_1887344341_707e96d502001xv7s.html"],"created":1794600436,"id":"chatcmpl-70613241-284b-4eb9-ac5d-80ac20bbdeff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"未"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://k.sina.com.cn/article_1887344341_707e96d502001xv7s.html"],"created":1794600436,"id":"chatcmpl-70613241-284b-4eb9-ac5d-80ac20bbdeff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"设董事长，"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://k.sina.com.cn/article_1887344341_707e96d502001xv7s.html"],"created":1794600436,"id":"chatcmpl-70613241-284b-4eb9-ac5d-80ac20bbdeff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"首席独立董事Stephen"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://k.sina.com.cn/article_1887344341_707e96d502001xv7s.html"],"created":1794600436,"id":"chatcmpl-70613241-284b-4eb9-ac5d-80ac20bbdeff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":" Neal"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://k.sina.com.cn/article_1887344341_707e96d502001xv7s.html"],"created":1794600436,"id":"chatcmpl-70613241-284b-4eb9-ac5d-80ac20bbdeff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"与黄仁勋共同确定"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://k.sina.com.cn/article_1887344341_707e96d502001xv7s.html"],"created":1794600436,"id":"chatcmpl-70613241-284b-4eb9-ac5d-80ac20bbdeff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"议程，"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://k.sina.com.cn/article_1887344341_707e96d502001xv7s.html"],"created":1794600436,"id":"chatcmpl-70613241-284b-4eb9-ac5d-80ac20bbdeff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"治理结构使"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://k.sina.com.cn/article_1887344341_707e96d502001xv7s.html"],"created":1794600436,"id":"chatcmpl-70613241-284b-4eb9-ac5d-80ac20bbdeff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"事情棘手"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://k.sina.com.cn/article_1887344341_707e96d502001xv7s.html"],"created":1794600436,"id":"chatcmpl-70613241-284b-4eb9-ac5d-80ac20bbdeff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"。\n3. 提醒"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://k.sina.com.cn/article_1887344341_707e96d502001xv7s.html"],"created":1794600436,"id":"chatcmpl-70613241-284b-4eb9-ac5d-80ac20bbdeff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"：材料"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://k.sina.com.cn/article_1887344341_707e96d502001xv7s.html"],"created":1794600436,"id":"chatcmpl-70613241-284b-4eb9-ac5d-80ac20bbdeff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"未"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://k.sina.com.cn/article_1887344341_707e96d502001xv7s.html"],"created":1794600436,"id":"chatcmpl-70613241-284b-4eb9-ac5d-80ac20bbdeff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"明确调查对象是黄仁"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://k.sina.com.cn/article_1887344341_707e96d502001xv7s.html"],"created":1794600436,"id":"chatcmpl-70613241-284b-4eb9-ac5d-80ac20bbdeff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"勋本人，也"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://k.sina.com.cn/article_1887344341_707e96d502001xv7s.html"],"created":1794600436,"id":"chatcmpl-70613241-284b-4eb9-ac5d-80ac20bbdeff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"未能确认\""},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://k.sina.com.cn/article_1887344341_707e96d502001xv7s.html"],"created":1794600436,"id":"chatcmpl-70613241-284b-4eb9-ac5d-80ac20bbdeff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"同一天\"指"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://k.sina.com.cn/article_1887344341_707e96d502001xv7s.html"],"created":1794600436,"id":"chatcmpl-70613241-284b-4eb9-ac5d-80ac20bbdeff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"哪一天；建议"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://k.sina.com.cn/article_1887344341_707e96d502001xv7s.html"],"created":1794600436,"id":"chatcmpl-70613241-284b-4eb9-ac5d-80ac20bbdeff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"查阅"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://k.sina.com.cn/article_1887344341_707e96d502001xv7s.html"],"created":1794600436,"id":"chatcmpl-70613241-284b-4eb9-ac5d-80ac20bbdeff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"原始公告。\n\n"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://k.sina.com.cn/article_1887344341_707e96d502001xv7s.html"],"created":1794600436,"id":"chatcmpl-70613241-284b-4eb9-ac5d-80ac20bbdeff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"用"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://k.sina.com.cn/article_1887344341_707e96d502001xv7s.html"],"created":1794600436,"id":"chatcmpl-70613241-284b-4eb9-ac5d-80ac20bbdeff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"自然"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://k.sina.com.cn/article_1887344341_707e96d502001xv7s.html"],"created":1794600436,"id":"chatcmpl-70613241-284b-4eb9-ac5d-80ac20bbdeff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"中文。"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://k.sina.com.cn/article_1887344341_707e96d502001xv7s.html"],"created":1794600436,"id":"chatcmpl-70613241-284b-4eb9-ac5d-80ac20bbdeff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"根据"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://k.sina.com.cn/article_1887344341_707e96d502001xv7s.html"],"created":1794600436,"id":"chatcmpl-70613241-284b-4eb9-ac5d-80ac20bbdeff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"目前"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://k.sina.com.cn/article_1887344341_707e96d502001xv7s.html"],"created":1794600436,"id":"chatcmpl-70613241-284b-4eb9-ac5d-80ac20bbdeff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"检索"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://k.sina.com.cn/article_1887344341_707e96d502001xv7s.html"],"created":1794600436,"id":"chatcmpl-70613241-284b-4eb9-ac5d-80ac20bbdeff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"到的资料，只能"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://k.sina.com.cn/article_1887344341_707e96d502001xv7s.html"],"created":1794600436,"id":"chatcmpl-70613241-284b-4eb9-ac5d-80ac20bbdeff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"确认"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://k.sina.com.cn/article_1887344341_707e96d502001xv7s.html"],"created":1794600436,"id":"chatcmpl-70613241-284b-4eb9-ac5d-80ac20bbdeff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"部分"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://k.sina.com.cn/article_1887344341_707e96d502001xv7s.html"],"created":1794600436,"id":"chatcmpl-70613241-284b-4eb9-ac5d-80ac20bbdeff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"信息，关键"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://k.sina.com.cn/article_1887344341_707e96d502001xv7s.html"],"created":1794600436,"id":"chatcmpl-70613241-284b-4eb9-ac5d-80ac20bbdeff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"日期并不"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://k.sina.com.cn/article_1887344341_707e96d502001xv7s.html"],"created":1794600436,"id":"chatcmpl-70613241-284b-4eb9-ac5d-80ac20bbdeff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"完整"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://k.sina.com.cn/article_1887344341_707e96d502001xv7s.html"],"created":1794600436,"id":"chatcmpl-70613241-284b-4eb9-ac5d-80ac20bbdeff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"：\n\n**1"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://k.sina.com.cn/article_1887344341_707e96d502001xv7s.html"],"created":1794600436,"id":"chatcmpl-70613241-284b-4eb9-ac5d-80ac20bbdeff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":". 宣布调查"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://k.sina.com.cn/article_1887344341_707e96d502001xv7s.html"],"created":1794600436,"id":"chatcmpl-70613241-284b-4eb9-ac5d-80ac20bbdeff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"的时间：材料"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://k.sina.com.cn/article_1887344341_707e96d502001xv7s.html"],"created":1794600436,"id":"chatcmpl-70613241-284b-4eb9-ac5d-80ac20bbdeff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"未给出明确"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://k.sina.com.cn/article_1887344341_707e96d502001xv7s.html"],"created":1794600436,"id":"chatcmpl-70613241-284b-4eb9-ac5d-80ac20bbdeff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"日期**\n\n检索到的报道"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://k.sina.com.cn/article_1887344341_707e96d502001xv7s.html"],"created":1794600436,"id":"chatcmpl-70613241-284b-4eb9-ac5d-80ac20bbdeff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"只提到“"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://k.sina.com.cn/article_1887344341_707e96d502001xv7s.html"],"created":1794600436,"id":"chatcmpl-70613241-284b-4eb9-ac5d-80ac20bbdeff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"董事会在同"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://k.sina.com.cn/article_1887344341_707e96d502001xv7s.html"],"created":1794600436,"id":"chatcmpl-70613241-284b-4eb9-ac5d-80ac20bbdeff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"一天宣布启动独立"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://k.sina.com.cn/article_1887344341_707e96d502001xv7s.html"],"created":1794600436,"id":"chatcmpl-70613241-284b-4eb9-ac5d-80ac20bbdeff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"调查”["},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://k.sina.com.cn/article_1887344341_707e96d502001xv7s.html"],"created":1794600436,"id":"chatcmpl-70613241-284b-4eb9-ac5d-80ac20bbdeff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"3]，但"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://k.sina.com.cn/article_1887344341_707e96d502001xv7s.html"],"created":1794600436,"id":"chatcmpl-70613241-284b-4eb9-ac5d-80ac20bbdeff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"这段"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://k.sina.com.cn/article_1887344341_707e96d502001xv7s.html"],"created":1794600436,"id":"chatcmpl-70613241-284b-4eb9-ac5d-80ac20bbdeff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"摘"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://k.sina.com.cn/article_1887344341_707e96d502001xv7s.html"],"created":1794600436,"id":"chatcmpl-70613241-284b-4eb9-ac5d-80ac20bbdeff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"录没有说明“同一天"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://k.sina.com.cn/article_1887344341_707e96d502001xv7s.html"],"created":1794600436,"id":"chatcmpl-70613241-284b-4eb9-ac5d-80ac20bbdeff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"”具体指哪"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://k.sina.com.cn/article_1887344341_707e96d502001xv7s.html"],"created":1794600436,"id":"chatcmpl-70613241-284b-4eb9-ac5d-80ac20bbdeff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"一天，也没有明确"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://k.sina.com.cn/article_1887344341_707e96d502001xv7s.html"],"created":1794600436,"id":"chatcmpl-70613241-284b-4eb9-ac5d-80ac20bbdeff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"说这项"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://k.sina.com.cn/article_1887344341_707e96d502001xv7s.html"],"created":1794600436,"id":"chatcmpl-70613241-284b-4eb9-ac5d-80ac20bbdeff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"调查的对象就是"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://k.sina.com.cn/article_1887344341_707e96d502001xv7s.html"],"created":1794600436,"id":"chatcmpl-70613241-284b-4eb9-ac5d-80ac20bbdeff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"黄仁勋本人。因此"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://k.sina.com.cn/article_1887344341_707e96d502001xv7s.html"],"created":1794600436,"id":"chatcmpl-70613241-284b-4eb9-ac5d-80ac20bbdeff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"，**"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://k.sina.com.cn/article_1887344341_707e96d502001xv7s.html"],"created":1794600436,"id":"chatcmpl-70613241-284b-4eb9-ac5d-80ac20bbdeff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"无法依据"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://k.sina.com.cn/article_1887344341_707e96d502001xv7s.html"],"created":1794600436,"id":"chatcmpl-70613241-284b-4eb9-ac5d-80ac20bbdeff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"现有材料确认英伟达"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://k.sina.com.cn/article_1887344341_707e96d502001xv7s.html"],"created":1794600436,"id":"chatcmpl-70613241-284b-4eb9-ac5d-80ac20bbdeff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"宣布调查"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://k.sina.com.cn/article_1887344341_707e96d502001xv7s.html"],"created":1794600436,"id":"chatcmpl-70613241-284b-4eb9-ac5d-80ac20bbdeff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"黄仁勋的具体日期**"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://k.sina.com.cn/article_1887344341_707e96d502001xv7s.html"],"created":1794600436,"id":"chatcmpl-70613241-284b-4eb9-ac5d-80ac20bbdeff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"，也不"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://k.sina.com.cn/article_1887344341_707e96d502001xv7s.html"],"created":1794600436,"id":"chatcmpl-70613241-284b-4eb9-ac5d-80ac20bbdeff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"宜"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://k.sina.com.cn/article_1887344341_707e96d502001xv7s.html"],"created":1794600436,"id":"chatcmpl-70613241-284b-4eb9-ac5d-80ac20bbdeff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"把“启动"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://k.sina.com.cn/article_1887344341_707e96d502001xv7s.html"],"created":1794600436,"id":"chatcmpl-70613241-284b-4eb9-ac5d-80ac20bbdeff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"独立"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://k.sina.com.cn/article_1887344341_707e96d502001xv7s.html"],"created":1794600436,"id":"chatcmpl-70613241-284b-4eb9-ac5d-80ac20bbdeff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"调查”直接等同于“调查"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://k.sina.com.cn/article_1887344341_707e96d502001xv7s.html"],"created":1794600436,"id":"chatcmpl-70613241-284b-4eb9-ac5d-80ac20bbdeff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"黄仁勋”。\n\n**2"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://k.sina.com.cn/article_1887344341_707e96d502001xv7s.html"],"created":1794600436,"id":"chatcmpl-70613241-284b-4eb9-ac5d-80ac20bbdeff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":". 聘请谁开展"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://k.sina.com.cn/article_1887344341_707e96d502001xv7s.html"],"created":1794600436,"id":"chatcmpl-70613241-284b-4eb9-ac5d-80ac20bbdeff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"独立调查：金"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://k.sina.com.cn/article_1887344341_707e96d502001xv7s.html"],"created":1794600436,"id":"chatcmpl-70613241-284b-4eb9-ac5d-80ac20bbdeff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"俊"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://k.sina.com.cn/article_1887344341_707e96d502001xv7s.html"],"created":1794600436,"id":"chatcmpl-70613241-284b-4eb9-ac5d-80ac20bbdeff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"贤及"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://k.sina.com.cn/article_1887344341_707e96d502001xv7s.html"],"created":1794600436,"id":"chatcmpl-70613241-284b-4eb9-ac5d-80ac20bbdeff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"沃"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://k.sina.com.cn/article_1887344341_707e96d502001xv7s.html"],"created":1794600436,"id":"chatcmpl-70613241-284b-4eb9-ac5d-80ac20bbdeff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"奇尔"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://k.sina.com.cn/article_1887344341_707e96d502001xv7s.html"],"created":1794600436,"id":"chatcmpl-70613241-284b-4eb9-ac5d-80ac20bbdeff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"·立普"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://k.sina.com.cn/article_1887344341_707e96d502001xv7s.html"],"created":1794600436,"id":"chatcmpl-70613241-284b-4eb9-ac5d-80ac20bbdeff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"顿律师事务所**\n\n报道"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://k.sina.com.cn/article_1887344341_707e96d502001xv7s.html"],"created":1794600436,"id":"chatcmpl-70613241-284b-4eb9-ac5d-80ac20bbdeff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"显示"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://k.sina.com.cn/article_1887344341_707e96d502001xv7s.html"],"created":1794600436,"id":"chatcmpl-70613241-284b-4eb9-ac5d-80ac20bbdeff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"，**11月10"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://k.sina.com.cn/article_1887344341_707e96d502001xv7s.html"],"created":1794600436,"id":"chatcmpl-70613241-284b-4eb9-ac5d-80ac20bbdeff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"日**，独立董事聘请"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://k.sina.com.cn/article_1887344341_707e96d502001xv7s.html"],"created":1794600436,"id":"chatcmpl-70613241-284b-4eb9-ac5d-80ac20bbdeff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"**纽约"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://k.sina.com.cn/article_1887344341_707e96d502001xv7s.html"],"created":1794600436,"id":"chatcmpl-70613241-284b-4eb9-ac5d-80ac20bbdeff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"南区前代理"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://k.sina.com.cn/article_1887344341_707e96d502001xv7s.html"],"created":1794600436,"id":"chatcmpl-70613241-284b-4eb9-ac5d-80ac20bbdeff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"联邦检察官"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://k.sina.com.cn/article_1887344341_707e96d502001xv7s.html"],"created":1794600436,"id":"chatcmpl-70613241-284b-4eb9-ac5d-80ac20bbdeff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"金俊贤（Joon"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://k.sina.com.cn/article_1887344341_707e96d502001xv7s.html"],"created":1794600436,"id":"chatcmpl-70613241-284b-4eb9-ac5d-80ac20bbdeff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":" H. Kim）**及其"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://k.sina.com.cn/article_1887344341_707e96d502001xv7s.html"],"created":1794600436,"id":"chatcmpl-70613241-284b-4eb9-ac5d-80ac20bbdeff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"所在的**沃"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://k.sina.com.cn/article_1887344341_707e96d502001xv7s.html"],"created":1794600436,"id":"chatcmpl-70613241-284b-4eb9-ac5d-80ac20bbdeff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"奇尔·立普顿"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://k.sina.com.cn/article_1887344341_707e96d502001xv7s.html"],"created":1794600436,"id":"chatcmpl-70613241-284b-4eb9-ac5d-80ac20bbdeff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"律师事务所（Wachtell,"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://k.sina.com.cn/article_1887344341_707e96d502001xv7s.html"],"created":1794600436,"id":"chatcmpl-70613241-284b-4eb9-ac5d-80ac20bbdeff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":" Lipton,"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://k.sina.com.cn/article_1887344341_707e96d502001xv7s.html"],"created":1794600436,"id":"chatcmpl-70613241-284b-4eb9-ac5d-80ac20bbdeff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":" Rosen \u0026 Katz）**执行"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://k.sina.com.cn/article_1887344341_707e96d502001xv7s.html"],"created":1794600436,"id":"chatcmpl-70613241-284b-4eb9-ac5d-80ac20bbdeff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"这项独立调查[3]。"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://k.sina.com.cn/article_1887344341_707e96d502001xv7s.html"],"created":1794600436,"id":"chatcmpl-70613241-284b-4eb9-ac5d-80ac20bbdeff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"\n\n**3. 相关"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://k.sina.com.cn/article_1887344341_707e96d502001xv7s.html"],"created":1794600436,"id":"chatcmpl-70613241-284b-4eb9-ac5d-80ac20bbdeff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"背景"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://k.sina.com.cn/article_1887344341_707e96d502001xv7s.html"],"created":1794600436,"id":"chatcmpl-70613241-284b-4eb9-ac5d-80ac20bbdeff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"：公司"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://k.sina.com.cn/article_1887344341_707e96d502001xv7s.html"],"created":1794600436,"id":"chatcmpl-70613241-284b-4eb9-ac5d-80ac20bbdeff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"治理结构使"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://k.sina.com.cn/article_1887344341_707e96d502001xv7s.html"],"created":1794600436,"id":"chatcmpl-70613241-284b-4eb9-ac5d-80ac20bbdeff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"此事"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://k.sina.com.cn/article_1887344341_707e96d502001xv7s.html"],"created":1794600436,"id":"chatcmpl-70613241-284b-4eb9-ac5d-80ac20bbdeff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"更复杂**\n\n同一"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://k.sina.com.cn/article_1887344341_707e96d502001xv7s.html"],"created":1794600436,"id":"chatcmpl-70613241-284b-4eb9-ac5d-80ac20bbdeff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"报道还提到，英伟"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://k.sina.com.cn/article_1887344341_707e96d502001xv7s.html"],"created":1794600436,"id":"chatcmpl-70613241-284b-4eb9-ac5d-80ac20bbdeff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"达董事会没有设置董事长"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://k.sina.com.cn/article_1887344341_707e96d502001xv7s.html"],"created":1794600436,"id":"chatcmpl-70613241-284b-4eb9-ac5d-80ac20bbdeff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"，由"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://k.sina.com.cn/article_1887344341_707e96d502001xv7s.html"],"created":1794600436,"id":"chatcmpl-70613241-284b-4eb9-ac5d-80ac20bbdeff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"首席独立董事**斯蒂"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://k.sina.com.cn/article_1887344341_707e96d502001xv7s.html"],"created":1794600436,"id":"chatcmpl-70613241-284b-4eb9-ac5d-80ac20bbdeff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"芬·尼尔（Stephen Neal"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://k.sina.com.cn/article_1887344341_707e96d502001xv7s.html"],"created":1794600436,"id":"chatcmpl-70613241-284b-4eb9-ac5d-80ac20bbdeff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"）**与黄仁"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://k.sina.com.cn/article_1887344341_707e96d502001xv7s.html"],"created":1794600436,"id":"chatcmpl-70613241-284b-4eb9-ac5d-80ac20bbdeff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"勋共同确定"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://k.sina.com.cn/article_1887344341_707e96d502001xv7s.html"],"created":1794600436,"id":"chatcmpl-70613241-284b-4eb9-ac5d-80ac20bbdeff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"董事会议程，"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://k.sina.com.cn/article_1887344341_707e96d502001xv7s.html"],"created":1794600436,"id":"chatcmpl-70613241-284b-4eb9-ac5d-80ac20bbdeff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"这一"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://k.sina.com.cn/article_1887344341_707e96d502001xv7s.html"],"created":1794600436,"id":"chatcmpl-70613241-284b-4eb9-ac5d-80ac20bbdeff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"治理安排"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://k.sina.com.cn/article_1887344341_707e96d502001xv7s.html"],"created":1794600436,"id":"chatcmpl-70613241-284b-4eb9-ac5d-80ac20bbdeff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"使相关"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://k.sina.com.cn/article_1887344341_707e96d502001xv7s.html"],"created":1794600436,"id":"chatcmpl-70613241-284b-4eb9-ac5d-80ac20bbdeff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"调查"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://k.sina.com.cn/article_1887344341_707e96d502001xv7s.html"],"created":1794600436,"id":"chatcmpl-70613241-284b-4eb9-ac5d-80ac20bbdeff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"的处理更加棘手["},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://k.sina.com.cn/article_1887344341_707e96d502001xv7s.html"],"created":1794600436,"id":"chatcmpl-70613241-284b-4eb9-ac5d-80ac20bbdeff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"3]。\n\n**需要说明的是"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://k.sina.com.cn/article_1887344341_707e96d502001xv7s.html"],"created":1794600436,"id":"chatcmpl-70613241-284b-4eb9-ac5d-80ac20bbdeff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"：**“"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://k.sina.com.cn/article_1887344341_707e96d502001xv7s.html"],"created":1794600436,"id":"chatcmpl-70613241-284b-4eb9-ac5d-80ac20bbdeff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"同"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://k.sina.com.cn/article_1887344341_707e96d502001xv7s.html"],"created":1794600436,"id":"chatcmpl-70613241-284b-4eb9-ac5d-80ac20bbdeff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"一天”究竟对应"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://k.sina.com.cn/article_1887344341_707e96d502001xv7s.html"],"created":1794600436,"id":"chatcmpl-70613241-284b-4eb9-ac5d-80ac20bbdeff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"哪个"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://k.sina.com.cn/article_1887344341_707e96d502001xv7s.html"],"created":1794600436,"id":"chatcmpl-70613241-284b-4eb9-ac5d-80ac20bbdeff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"日期、"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://k.sina.com.cn/article_1887344341_707e96d502001xv7s.html"],"created":1794600436,"id":"chatcmpl-70613241-284b-4eb9-ac5d-80ac20bbdeff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"调查的具体"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://k.sina.com.cn/article_1887344341_707e96d502001xv7s.html"],"created":1794600436,"id":"chatcmpl-70613241-284b-4eb9-ac5d-80ac20bbdeff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"范围和"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://k.sina.com.cn/article_1887344341_707e96d502001xv7s.html"],"created":1794600436,"id":"chatcmpl-70613241-284b-4eb9-ac5d-80ac20bbdeff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"对象"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://k.sina.com.cn/article_1887344341_707e96d502001xv7s.html"],"created":1794600436,"id":"chatcmpl-70613241-284b-4eb9-ac5d-80ac20bbdeff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"，现有"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://k.sina.com.cn/article_1887344341_707e96d502001xv7s.html"],"created":1794600436,"id":"chatcmpl-70613241-284b-4eb9-ac5d-80ac20bbdeff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"检索"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://k.sina.com.cn/article_1887344341_707e96d502001xv7s.html"],"created":1794600436,"id":"chatcmpl-70613241-284b-4eb9-ac5d-80ac20bbdeff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"片段均未交代"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://k.sina.com.cn/article_1887344341_707e96d502001xv7s.html"],"created":1794600436,"id":"chatcmpl-70613241-284b-4eb9-ac5d-80ac20bbdeff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"。"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://k.sina.com.cn/article_1887344341_707e96d502001xv7s.html"],"created":1794600436,"id":"chatcmpl-70613241-284b-4eb9-ac5d-80ac20bbdeff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"若要"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://k.sina.com.cn/article_1887344341_707e96d502001xv7s.html"],"created":1794600436,"id":"chatcmpl-70613241-284b-4eb9-ac5d-80ac20bbdeff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"确认"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://k.sina.com.cn/article_1887344341_707e96d502001xv7s.html"],"created":1794600436,"id":"chatcmpl-70613241-284b-4eb9-ac5d-80ac20bbdeff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"“宣布调查"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://k.sina.com.cn/article_1887344341_707e96d502001xv7s.html"],"created":1794600436,"id":"chatcmpl-70613241-284b-4eb9-ac5d-80ac20bbdeff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"黄"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://k.sina.com.cn/article_1887344341_707e96d502001xv7s.html"],"created":1794600436,"id":"chatcmpl-70613241-284b-4eb9-ac5d-80ac20bbdeff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"仁勋”的准确时间"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://k.sina.com.cn/article_1887344341_707e96d502001xv7s.html"],"created":1794600436,"id":"chatcmpl-70613241-284b-4eb9-ac5d-80ac20bbdeff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"，需"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://k.sina.com.cn/article_1887344341_707e96d502001xv7s.html"],"created":1794600436,"id":"chatcmpl-70613241-284b-4eb9-ac5d-80ac20bbdeff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"查阅英伟达的"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://k.sina.com.cn/article_1887344341_707e96d502001xv7s.html"],"created":1794600436,"id":"chatcmpl-70613241-284b-4eb9-ac5d-80ac20bbdeff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"官方"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://k.sina.com.cn/article_1887344341_707e96d502001xv7s.html"],"created":1794600436,"id":"chatcmpl-70613241-284b-4eb9-ac5d-80ac20bbdeff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"公告或"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://k.sina.com.cn/article_1887344341_707e96d502001xv7s.html"],"created":1794600436,"id":"chatcmpl-70613241-284b-4eb9-ac5d-80ac20bbdeff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"原始报道全文"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://k.sina.com.cn/article_1887344341_707e96d502001xv7s.html"],"created":1794600436,"id":"chatcmpl-70613241-284b-4eb9-ac5d-80ac20bbdeff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"；"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://k.sina.com.cn/article_1887344341_707e96d502001xv7s.html"],"created":1794600436,"id":"chatcmpl-70613241-284b-4eb9-ac5d-80ac20bbdeff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"目前材料"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://k.sina.com.cn/article_1887344341_707e96d502001xv7s.html"],"created":1794600436,"id":"chatcmpl-70613241-284b-4eb9-ac5d-80ac20bbdeff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"不足以支持一个"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://k.sina.com.cn/article_1887344341_707e96d502001xv7s.html"],"created":1794600436,"id":"chatcmpl-70613241-284b-4eb9-ac5d-80ac20bbdeff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"确定日期。"},"finish_reason":"stop","index":0,"logprobs":null}],"citations":["https://k.sina.com.cn/article_1887344341_707e96d502001xv7s.html"],"created":1794600436,"id":"chatcmpl-70613241-284b-4eb9-ac5d-80ac20bbdeff","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[],"citations":["https://k.sina.com.cn/article_1887344341_707e96d502001xv7s.html"],"created":1794600436,"id":"chatcmpl-70613241-284b-4eb9-ac5d-80ac20bbdeff","model":"deepseek-flash","object":"chat.completion.chunk","usage":{"completion_tokens":1060,"completion_tokens_details":{"reasoning_tokens":738},"prompt_tokens":718,"prompt_tokens_details":{"cached_tokens":0},"total_tokens":1778}}
+
+data: [DONE]
+

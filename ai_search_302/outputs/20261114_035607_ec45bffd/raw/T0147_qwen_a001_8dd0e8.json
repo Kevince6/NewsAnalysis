@@ -1,0 +1,58 @@
+{
+  "request": {
+    "model": "qwen3.8-max",
+    "messages": [
+      {
+        "role": "system",
+        "content": "请联网检索后，用自然中文回答用户的问题。\n先直接回答，再补充理解答案所需的事实、背景或说明；复杂问题可分点，简单问题可简答。\n优先参考与问题直接相关的原始发布、机构公告、当事人回应及可信媒体报道。\n依据检索到的资料作答。资料不足、存在分歧或尚未确认的内容，请明确说明；解释和判断应与已确认的事实区分。\n在相关事实后标注检索来源，沿用检索结果提供的引用编号或标记。\n\n查询日期：2026-11-14（北京时间，UTC+8）。问题中的“现在”“近期”“最新”以此日期为参照；问题明确指定时间范围时，以问题为准。"
+      },
+      {
+        "role": "user",
+        "content": "TikTok美国合资公司中，字节跳动、Oracle、Silver Lake和MGX各持多少股权？CEO是谁？"
+      }
+    ],
+    "web-search": true,
+    "search-service": "metaso",
+    "search-results": 5,
+    "stream": true,
+    "stream_options": {
+      "include_usage": true
+    }
+  },
+  "response": {
+    "object": "chat.completion",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "TikTok 美国合资公司中，字节跳动保留约 **19.9%** 股权；Oracle、Silver Lake 和 MGX 各持约 **15%** 股权[2][3][5]。该美国合资公司的 CEO 是 **Adam Presser**[5]。\n\n补充来看，Oracle、Silver Lake 和 MGX 三家新投资者合计持股约 **45%**[3]。TikTok 全球 CEO 周受资继续担任全球 CEO，并保留该合资公司董事会席位，但美国合资公司本身的 CEO 是 Adam Presser[5]。",
+          "reasoning_content": "我们需要回答用户问题：TikTok美国合资公司中，字节跳动、Oracle、Silver Lake和MGX各持多少股权？CEO是谁？需要基于搜索结果。必须引用编号在句子末尾。今天2026-11-14。用户给的结果：webpage 2: TikTok USDS Joint Venture LLC 将由7人董事会管理。TikTok CEO 周受资仍在董事会成员之列。股权：甲骨文15%，银湖15%，MGX15%。字节跳动部分现有投资者及关联方合计30.1%，字节跳动保留19.9%。字节跳动仍是最大单一股东。\nwebpage 3: 除了业务分配，董事会席位、股权架构与之前披露相同。TikTok内部信显示字节跳动、TikTok已与三家投资者签署协议，包括甲骨文、银湖、MGX。新投资者合计45%；字节跳动现有投资者及关联方30.1%，字节跳动保留19.9%。字节跳动仍为最大单一股东。\nwebpage 5: 美国及盟国投资者持股约80.1%，其中Oracle、Silver Lake、MGX各持约15%，Michael Dell家族办公室及Vastmere等持有剩余约35.1%。字节跳动保留美国实体约19.9%股权，但被剥夺运营和治理控制权。合资公司设七人董事会，多数席位为经美国当局批准的美国公民。TikTok全球CEO周受资继续担任全球CEO并保留董事会席位；原TikTok运营及信任安全负责人Adam Presser出任美国合资公司CEO。\n问题两部分：股权：字节跳动、Oracle、Silver Lake、MGX各持多少？CEO是谁？需要注意“TikTok美国合资公司”的CEO，搜索结果说 Adam Presser 出任美国合资公司CEO；周受资是全球CEO并保留董事会席位，不是合资公司CEO。需要直接回答：字节跳动19.9%，Oracle 15%，Silver Lake 15%，MGX 15%。CEO是Adam Presser。补充：新投资者合计45%，字节跳动为最大单一股东，周受资保留董事会席位/全球CEO。也许需要说明美国及盟国投资者合计约80.1%。如果严格说“各持多少股权”包括字节跳动和三家投资者；答案简短。引用：股权 [2][3][5]，CEO [5]。也可以提 Oracle Silver Lake MGX 各约15% [2][3][5]，字节跳动约19.9% [2][3][5]。CEO Adam Presser [5]。\n需要中文自然。不要提及资料不足。确保引用在对应部分。格式可以：\n- 股权：字节跳动保留约19.9%；Oracle、Silver Lake、MGX各约15%[2][3][5]。三家新投资者合计45%[3]。\n- CEO：美国合资公司CEO为Adam Presser；周受资继续担任TikTok全球CEO并保留董事席位[5]。\n需要注意“TikTok CEO 周受资仍在董事会成员之列”可能用户问CEO是谁可能混淆，需要明确区分。也许问题问“CEO是谁？”可能指TikTok美国合资公司，答 Adam Presser；如果问TikTok全球CEO是周受资，但美国合资公司CEO是Adam。可补充。\n最终需符合“先直接回答，再补充理解答案所需事实、背景或说明；复杂问题可分点，简单问题可简答。” 这里简单，可直接回答再补充。引用不要集中最后。\n需要“并非搜索结果所有内容都相关”，筛选。不要说未提供。\n最终答案中文。"
+        },
+        "finish_reason": "stop"
+      }
+    ],
+    "id": "chatcmpl-ad181478-6f63-9085-80c1-d0e096d4371f",
+    "model": "qwen3.8-max",
+    "created": 1794627652,
+    "citations": [
+      "https://weibo.com/ttarticle/p/show?id=2309405258207370280981",
+      "https://www.thepaper.cn/newsDetail_forward_32209543#%3A~%3Atext%3D%E8%AF%A5%E4%B8%BB%E4%BD%93%E7%94%B1%E5%AD%97%E8%8A%82%2C%E5%90%8E%E8%80%85%E6%94%B6%E5%8F%96%E6%8E%88%E6%9D%83%E8%B4%B9%E3%80%82",
+      "https://svtr.ai/articles/bytedance"
+    ],
+    "usage": {
+      "completion_tokens": 928,
+      "completion_tokens_details": {
+        "reasoning_tokens": 797,
+        "text_tokens": 928
+      },
+      "prompt_tokens": 1087,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "text_tokens": 1087
+      },
+      "total_tokens": 2015
+    },
+    "_transport": "sse"
+  }
+}

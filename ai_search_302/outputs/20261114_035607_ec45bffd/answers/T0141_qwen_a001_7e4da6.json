@@ -1,0 +1,65 @@
+{
+  "task_id": "T0141",
+  "model": "qwen",
+  "news_id": "E012",
+  "question_index": 2,
+  "question_original": "【开放】TikTok美国合资公司成立后，美国用户数据和推荐算法由谁负责，公告具体怎么安排？",
+  "question": "TikTok美国合资公司成立后，美国用户数据和推荐算法由谁负责，公告具体怎么安排？",
+  "attempt": 1,
+  "provider": "302.ai",
+  "model_requested": "qwen3.8-max",
+  "query_date": "2026-11-14",
+  "search_service": "metaso",
+  "prompt_version": "news-search-v1",
+  "prompt_sha256": "ea56fd5557d32615a9115f2368a0c4983ff1188f4935369e694d7d46f2493be1",
+  "requested_at": "2026-11-14T11:39:54.758130+08:00",
+  "raw_file": "raw/T0141_qwen_a001_7e4da6.json",
+  "transport": "sse",
+  "stream_file": "raw/T0141_qwen_a001_7e4da6.sse",
+  "status": "ok",
+  "model_returned": "qwen3.8-max",
+  "answer": "公告口径下，TikTok 美国业务成立合资公司后，**美国用户数据和推荐算法的直接安排主体是新成立的 TikTok 美国数据安全合资公司（TikTok USDS）**；美国用户数据会放在美国本地、由 Oracle 提供安全云/托管环境，推荐算法则由该合资公司基于美国用户数据重新训练、测试和更新。[1][2][4]\n\n具体公告安排可概括为：\n\n1. **数据由美国本地系统保护，Oracle 承担云/存储角色**  \n   TikTok 表示，美国用户数据将存储在美国本地，并利用 Oracle 在美国的安全云环境进行保护。[1][4]\n\n2. **推荐算法由美国合资公司重新训练和更新**  \n   公告称，新合资公司将“基于美国用户数据重新训练、测试并更新内容推荐算法”。[1][2]  \n   也就是说，算法的训练数据和更新流程被纳入美国合资公司的安排中，而不是简单沿用原有模式。[4]\n\n3. **字节跳动保留部分股份，但合资公司被描述为独立运作**  \n   交易后，字节跳动保留新公司近 20% 股份，其余股份由包括 Oracle 在内的非中国投资者持有。[4]  \n   美国司法部公告则称，该合资企业独立于字节跳动运作、由美国投资者控股，并已修改字节跳动最初开发的内容推荐算法和网络安全程序。[4]\n\n4. **用户仍可访问国际内容，但体验变化尚不完全明确**  \n   TikTok 同时承诺，美国用户仍能获取国际内容。[4]  \n   不过，目前对用户实际体验会有什么具体影响仍缺乏清晰说明；部分用户若感觉推荐变化，可能与“数据集改变”有关，但尚无确凿证据表明新所有者在操控推荐结果。[2][5]",
+  "sources": [
+    {
+      "index": 1,
+      "url": "https://www.npr.org/2026/01/22/nx-s1-5685456/tiktok-finalizes-deal-to-form-new-american-entity#%3A~%3Atext%3DOracle%2C%20Silver%20Lake%20and%20the%2Cbillionaire%20founder%20of%20Dell%20Technologies.",
+      "title": null,
+      "origin": "citations"
+    },
+    {
+      "index": 2,
+      "url": "https://www.businessoffashion.com/briefings/technology/tiktoks-new-us-algorithm/",
+      "title": null,
+      "origin": "citations"
+    },
+    {
+      "index": 3,
+      "url": "https://www.163.com/dy/article/L26LDTSH054573I7.html",
+      "title": null,
+      "origin": "citations"
+    },
+    {
+      "index": 4,
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-02-16/doc-inhmzsfw5798279.shtml?cre=tianyi&mod=pchp&loc=30&r=0&rfunc=41&tj=cxvertical_pc_hp&tr=12",
+      "title": null,
+      "origin": "citations"
+    }
+  ],
+  "usage": {
+    "completion_tokens": 1904,
+    "completion_tokens_details": {
+      "reasoning_tokens": 1517,
+      "text_tokens": 1904
+    },
+    "prompt_tokens": 1273,
+    "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "text_tokens": 1273
+    },
+    "total_tokens": 3177
+  },
+  "finish_reason": "stop",
+  "note": [],
+  "request_id": "49247ce0-ba24-4490-b107-7b6c29fbc253",
+  "duration_seconds": 46.062
+}

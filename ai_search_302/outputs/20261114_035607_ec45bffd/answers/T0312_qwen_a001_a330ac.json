@@ -1,0 +1,59 @@
+{
+  "task_id": "T0312",
+  "model": "qwen",
+  "news_id": "E026",
+  "question_index": 4,
+  "question_original": "【事实】按日本当地时间，气象厅在2026年10月16日几点发出、几点撤销了这次紧急预警？",
+  "question": "按日本当地时间，气象厅在2026年10月16日几点发出、几点撤销了这次紧急预警？",
+  "attempt": 1,
+  "provider": "302.ai",
+  "model_requested": "qwen3.8-max",
+  "query_date": "2026-11-14",
+  "search_service": "metaso",
+  "prompt_version": "news-search-v1",
+  "prompt_sha256": "ea56fd5557d32615a9115f2368a0c4983ff1188f4935369e694d7d46f2493be1",
+  "requested_at": "2026-11-14T12:21:20.580016+08:00",
+  "raw_file": "raw/T0312_qwen_a001_a330ac.json",
+  "transport": "sse",
+  "stream_file": "raw/T0312_qwen_a001_a330ac.sse",
+  "status": "ok",
+  "model_returned": "qwen3.8-max",
+  "answer": "按日本当地时间，2026年10月16日，日本气象厅约在**12时40分**发出紧急地震预警，随后约在**12时48分**撤销该预警。[2][4]\n\n补充来说，气象厅发布预警约8分钟后即宣布取消，并承认系统误判、严重高估了地震规模。[4]",
+  "sources": [
+    {
+      "index": 1,
+      "url": "https://k.sina.cn/article_7857201856_1d45362c001908r9t6.html",
+      "title": null,
+      "origin": "citations"
+    },
+    {
+      "index": 2,
+      "url": "https://news.qq.com/rain/a/20261016A0AMD300",
+      "title": null,
+      "origin": "citations"
+    },
+    {
+      "index": 3,
+      "url": "https://www.163.com/dy/article/L9K6V8LR0514R9P4.html",
+      "title": null,
+      "origin": "citations"
+    }
+  ],
+  "usage": {
+    "completion_tokens": 278,
+    "completion_tokens_details": {
+      "reasoning_tokens": 190,
+      "text_tokens": 278
+    },
+    "prompt_tokens": 1215,
+    "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "text_tokens": 1215
+    },
+    "total_tokens": 1493
+  },
+  "finish_reason": "stop",
+  "note": [],
+  "request_id": "877188dd-43a4-43a0-85c7-5fe035f7237e",
+  "duration_seconds": 8.875
+}

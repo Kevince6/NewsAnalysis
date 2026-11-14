@@ -1,0 +1,56 @@
+{
+  "request": {
+    "model": "deepseek-flash",
+    "messages": [
+      {
+        "role": "system",
+        "content": "请联网检索后，用自然中文回答用户的问题。\n先直接回答，再补充理解答案所需的事实、背景或说明；复杂问题可分点，简单问题可简答。\n优先参考与问题直接相关的原始发布、机构公告、当事人回应及可信媒体报道。\n依据检索到的资料作答。资料不足、存在分歧或尚未确认的内容，请明确说明；解释和判断应与已确认的事实区分。\n在相关事实后标注检索来源，沿用检索结果提供的引用编号或标记。\n\n查询日期：2026-11-14（北京时间，UTC+8）。问题中的“现在”“近期”“最新”以此日期为参照；问题明确指定时间范围时，以问题为准。"
+      },
+      {
+        "role": "user",
+        "content": "TikTok美国合资公司中，字节跳动、Oracle、Silver Lake和MGX各持多少股权？CEO是谁？"
+      }
+    ],
+    "web-search": true,
+    "search-service": "metaso",
+    "search-results": 5,
+    "stream": true,
+    "stream_options": {
+      "include_usage": true
+    }
+  },
+  "response": {
+    "object": "chat.completion",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "**股权结构**：TikTok 美国合资公司中，**Oracle、Silver Lake、MGX 各持股 15%**，三家合计 45%；**字节跳动保留 19.9%** 股权，仍是最大单一股东；另有 **30.1%** 由字节跳动部分现有投资者及其关联方持有[2][3]。\n\n**CEO**：美国合资公司的 CEO 是 **Adam Presser**（原 TikTok 运营及信任安全负责人）；TikTok 全球 CEO **周受资**继续担任全球 CEO，并保留合资公司董事会席位[5]。",
+          "reasoning_content": "我们需要回答中文。需要基于搜索结果。问题：TikTok美国合资公司中，字节跳动、Oracle、Silver Lake和MGX各持多少股权？CEO是谁？ 需要联网检索后回答，但已有搜索结果网页2,3,5。需要甄别。股权：Oracle 15%, Silver Lake 15%, MGX 15%, 字节跳动保留19.9%。此外字节跳动部分现有投资者及关联方30.1%，三家新投资者合计45%。CEO：TikTok全球CEO周受资继续全球CEO并保留董事会席位；原TikTok运营及信任安全负责人Adam Presser出任美国合资公司CEO [5]。需要明确“美国合资公司CEO”是谁。 注意网页2只说TikTok CEO周受资仍在董事会；网页5给出Adam Presser出任美国合资公司CEO。需要引用。 要直接回答再补充。注意股权可能“合资公司”与“美国实体”表述。引用[2][3][5]。 需要提及字节跳动是最大单一股东[2][3]。 可能说Oracle/Silver Lake/MGX各15%，合计45%；字节跳动19.9%；剩余30.1%由字节跳动部分现有投资者及关联方持有[2][3]。 CEO：美国合资公司CEO为Adam Presser；TikTok全球CEO周受资保留全球CEO和董事会席位[5]。 回答简洁。 需要注明资料来自检索结果。 引用放在句子末尾。 中文。 可以结构化。 也要注意“TikTok美国数据安全合资有限责任公司”名称。 最终回答。"
+        },
+        "finish_reason": "stop"
+      }
+    ],
+    "id": "chatcmpl-cfa8aaea-d1b9-4b8d-99d9-4377b5a23895",
+    "model": "deepseek-flash",
+    "created": 1794627652,
+    "citations": [
+      "https://weibo.com/ttarticle/p/show?id=2309405258207370280981",
+      "https://www.thepaper.cn/newsDetail_forward_32209543#%3A~%3Atext%3D%E8%AF%A5%E4%B8%BB%E4%BD%93%E7%94%B1%E5%AD%97%E8%8A%82%2C%E5%90%8E%E8%80%85%E6%94%B6%E5%8F%96%E6%8E%88%E6%9D%83%E8%B4%B9%E3%80%82",
+      "https://svtr.ai/articles/bytedance"
+    ],
+    "usage": {
+      "completion_tokens": 463,
+      "completion_tokens_details": {
+        "reasoning_tokens": 335
+      },
+      "prompt_tokens": 1018,
+      "prompt_tokens_details": {
+        "cached_tokens": 0
+      },
+      "total_tokens": 1481
+    },
+    "_transport": "sse"
+  }
+}

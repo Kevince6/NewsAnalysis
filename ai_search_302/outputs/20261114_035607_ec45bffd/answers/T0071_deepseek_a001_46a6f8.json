@@ -1,0 +1,40 @@
+{
+  "task_id": "T0071",
+  "model": "deepseek",
+  "news_id": "E006",
+  "question_index": 2,
+  "question_original": "【开放】伊朗说打中了巴林的美军雷达，美军却说拦下了无人机，这些说法都来自哪里？哪个说法是准确的？",
+  "question": "伊朗说打中了巴林的美军雷达，美军却说拦下了无人机，这些说法都来自哪里？哪个说法是准确的？",
+  "attempt": 1,
+  "provider": "302.ai",
+  "model_requested": "deepseek-flash",
+  "query_date": "2026-11-14",
+  "search_service": "metaso",
+  "prompt_version": "news-search-v1",
+  "prompt_sha256": "ea56fd5557d32615a9115f2368a0c4983ff1188f4935369e694d7d46f2493be1",
+  "requested_at": "2026-11-14T11:17:44.506591+08:00",
+  "raw_file": "raw/T0071_deepseek_a001_46a6f8.json",
+  "transport": "sse",
+  "stream_file": "raw/T0071_deepseek_a001_46a6f8.sse",
+  "status": "needs_review",
+  "model_returned": "deepseek-flash",
+  "answer": "\n\n<tool_call>\nweb_search\n{\"query\": \"伊朗 巴林 美军雷达 无人机 拦截\", \"date_range\": \"2026-11-01 to 2026-11-14\"}\n</tool_call>",
+  "sources": [],
+  "usage": {
+    "prompt_tokens": 200,
+    "completion_tokens": 105,
+    "total_tokens": 305,
+    "prompt_tokens_details": {
+      "cached_tokens": 0
+    },
+    "completion_tokens_details": {
+      "reasoning_tokens": 55
+    }
+  },
+  "finish_reason": "stop",
+  "note": [
+    "未返回平台来源链接；仅凭正文中的链接不能确认搜索是否成功。"
+  ],
+  "request_id": "d614ef65-b1b2-4d42-8655-8d66f7097168",
+  "duration_seconds": 5.656
+}

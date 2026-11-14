@@ -1,0 +1,45 @@
+{
+  "task_id": "T0266",
+  "model": "deepseek",
+  "news_id": "E022",
+  "question_index": 3,
+  "question_original": "【事实】如果一个外国人只适用海南30天免签，他入境海南后能直接去广州旅游吗？",
+  "question": "如果一个外国人只适用海南30天免签，他入境海南后能直接去广州旅游吗？",
+  "attempt": 1,
+  "provider": "302.ai",
+  "model_requested": "deepseek-flash",
+  "query_date": "2026-11-14",
+  "search_service": "metaso",
+  "prompt_version": "news-search-v1",
+  "prompt_sha256": "ea56fd5557d32615a9115f2368a0c4983ff1188f4935369e694d7d46f2493be1",
+  "requested_at": "2026-11-14T12:11:05.016430+08:00",
+  "raw_file": "raw/T0266_deepseek_a001_a7d8f5.json",
+  "transport": "sse",
+  "stream_file": "raw/T0266_deepseek_a001_a7d8f5.sse",
+  "status": "ok",
+  "model_returned": "deepseek-flash",
+  "answer": "**不能直接去。** 如果这名外国人仅凭海南59国免签政策入境，活动范围限于海南省；想去广州旅游，必须先办理签证证件，不能买张机票就直接飞过去。\n\n具体依据和注意点：\n\n1. **海南免签是“区域性免签”**：59国人员可因旅游、商贸、访问、探亲、医疗、会展、体育竞技等事由（工作、学习除外）免签入境海南，停留不超过30天，停留期从入境次日零时起算[2]。免签允许的活动区域是海南，并不覆盖中国内地其他省市。\n\n2. **去广州属于“离开海南前往境内其他地区”**：按规定，如因正当合理事由需延长停留期，或离开海南前往中国境内其他地区，应在停留期限届满前7个工作日内向海南省公安机关出入境管理部门申办外国人签证证件[2]。也就是说，需要先在海南把相应签证办妥，再前往广州。\n\n3. **不建议“先飞广州再补办”**：离开海南进入内地时，航空公司和边检、公安都可能查验签证证件；没有相应签证就前往广州，可能被认定为超范围停留或非法居留，面临处罚，并影响后续来华记录。稳妥做法是：行程包含广州的，出发前直接申请中国签证（如旅游签证）入境；已免签入海南、临时决定去广州的，预留时间在海南当地出入境管理部门申办签证后再走。\n\n4. **时间上要留余量**：规定要求在停留期届满前7个工作日内申请[2]，实际办理还需受理、审批时间，建议尽早去办，不要卡在最后几天。\n\n需要注意的是，上述内容依据检索到的政策介绍[2]；具体受理材料、办证时限和是否准予，以海南省公安机关出入境管理部门的实际答复为准。政策也可能调整，出行前最好再向当地出入境管理部门或使领馆确认。",
+  "sources": [
+    {
+      "index": 1,
+      "url": "https://jdxq.haikou.gov.cn/xinwen/2024/show-6891.html",
+      "title": null,
+      "origin": "citations"
+    }
+  ],
+  "usage": {
+    "completion_tokens": 865,
+    "completion_tokens_details": {
+      "reasoning_tokens": 459
+    },
+    "prompt_tokens": 762,
+    "prompt_tokens_details": {
+      "cached_tokens": 0
+    },
+    "total_tokens": 1627
+  },
+  "finish_reason": "stop",
+  "note": [],
+  "request_id": "3bae4b50-8a7f-43e9-b847-505e57a02f31",
+  "duration_seconds": 7.781
+}

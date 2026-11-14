@@ -1,0 +1,666 @@
+data: {"choices":[{"delta":{"content":"","reasoning_content":"","role":"assistant"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_5328858693_13d9fee4502002go36.html"],"created":1794601021,"id":"chatcmpl-154d932a-853e-962b-9aa9-ac80bc216ee8","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"我们需要"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_5328858693_13d9fee4502002go36.html"],"created":1794601021,"id":"chatcmpl-154d932a-853e-962b-9aa9-ac80bc216ee8","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"回答用户问题。"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_5328858693_13d9fee4502002go36.html"],"created":1794601021,"id":"chatcmpl-154d932a-853e-962b-9aa9-ac80bc216ee8","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"用户提供"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_5328858693_13d9fee4502002go36.html"],"created":1794601021,"id":"chatcmpl-154d932a-853e-962b-9aa9-ac80bc216ee8","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"搜索结果只有 webpage"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_5328858693_13d9fee4502002go36.html"],"created":1794601021,"id":"chatcmpl-154d932a-853e-962b-9aa9-ac80bc216ee8","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":" 3，内容"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_5328858693_13d9fee4502002go36.html"],"created":1794601021,"id":"chatcmpl-154d932a-853e-962b-9aa9-ac80bc216ee8","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"关于乌克兰扎波罗"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_5328858693_13d9fee4502002go36.html"],"created":1794601021,"id":"chatcmpl-154d932a-853e-962b-9aa9-ac80bc216ee8","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"热州"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_5328858693_13d9fee4502002go36.html"],"created":1794601021,"id":"chatcmpl-154d932a-853e-962b-9aa9-ac80bc216ee8","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"军政管理局当地时间"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_5328858693_13d9fee4502002go36.html"],"created":1794601021,"id":"chatcmpl-154d932a-853e-962b-9aa9-ac80bc216ee8","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"11日通报"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_5328858693_13d9fee4502002go36.html"],"created":1794601021,"id":"chatcmpl-154d932a-853e-962b-9aa9-ac80bc216ee8","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"：俄罗斯当天凌晨"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_5328858693_13d9fee4502002go36.html"],"created":1794601021,"id":"chatcmpl-154d932a-853e-962b-9aa9-ac80bc216ee8","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"使用导弹和"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_5328858693_13d9fee4502002go36.html"],"created":1794601021,"id":"chatcmpl-154d932a-853e-962b-9aa9-ac80bc216ee8","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"制导航空炸弹"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_5328858693_13d9fee4502002go36.html"],"created":1794601021,"id":"chatcmpl-154d932a-853e-962b-9aa9-ac80bc216ee8","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"对扎波罗热"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_5328858693_13d9fee4502002go36.html"],"created":1794601021,"id":"chatcmpl-154d932a-853e-962b-9aa9-ac80bc216ee8","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"市发动大规模组合"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_5328858693_13d9fee4502002go36.html"],"created":1794601021,"id":"chatcmpl-154d932a-853e-962b-9aa9-ac80bc216ee8","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"式袭击，截至目前"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_5328858693_13d9fee4502002go36.html"],"created":1794601021,"id":"chatcmpl-154d932a-853e-962b-9aa9-ac80bc216ee8","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"造成6人死亡、"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_5328858693_13d9fee4502002go36.html"],"created":1794601021,"id":"chatcmpl-154d932a-853e-962b-9aa9-ac80bc216ee8","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"1"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_5328858693_13d9fee4502002go36.html"],"created":1794601021,"id":"chatcmpl-154d932a-853e-962b-9aa9-ac80bc216ee8","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"9人受伤。俄罗斯"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_5328858693_13d9fee4502002go36.html"],"created":1794601021,"id":"chatcmpl-154d932a-853e-962b-9aa9-ac80bc216ee8","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"国防部11日"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_5328858693_13d9fee4502002go36.html"],"created":1794601021,"id":"chatcmpl-154d932a-853e-962b-9aa9-ac80bc216ee8","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"通报，当天凌晨"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_5328858693_13d9fee4502002go36.html"],"created":1794601021,"id":"chatcmpl-154d932a-853e-962b-9aa9-ac80bc216ee8","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"俄军使用陆"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_5328858693_13d9fee4502002go36.html"],"created":1794601021,"id":"chatcmpl-154d932a-853e-962b-9aa9-ac80bc216ee8","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"基高精度武器，"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_5328858693_13d9fee4502002go36.html"],"created":1794601021,"id":"chatcmpl-154d932a-853e-962b-9aa9-ac80bc216ee8","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"对基辅市"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_5328858693_13d9fee4502002go36.html"],"created":1794601021,"id":"chatcmpl-154d932a-853e-962b-9aa9-ac80bc216ee8","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"和扎波罗热"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_5328858693_13d9fee4502002go36.html"],"created":1794601021,"id":"chatcmpl-154d932a-853e-962b-9aa9-ac80bc216ee8","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"市的军工企业及物流中心"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_5328858693_13d9fee4502002go36.html"],"created":1794601021,"id":"chatcmpl-154d932a-853e-962b-9aa9-ac80bc216ee8","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"发动打击。\n\n"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_5328858693_13d9fee4502002go36.html"],"created":1794601021,"id":"chatcmpl-154d932a-853e-962b-9aa9-ac80bc216ee8","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"用户问"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_5328858693_13d9fee4502002go36.html"],"created":1794601021,"id":"chatcmpl-154d932a-853e-962b-9aa9-ac80bc216ee8","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"：“202"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_5328858693_13d9fee4502002go36.html"],"created":1794601021,"id":"chatcmpl-154d932a-853e-962b-9aa9-ac80bc216ee8","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"6"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_5328858693_13d9fee4502002go36.html"],"created":1794601021,"id":"chatcmpl-154d932a-853e-962b-9aa9-ac80bc216ee8","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"年11月"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_5328858693_13d9fee4502002go36.html"],"created":1794601021,"id":"chatcmpl-154d932a-853e-962b-9aa9-ac80bc216ee8","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"13日的报道"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_5328858693_13d9fee4502002go36.html"],"created":1794601021,"id":"chatcmpl-154d932a-853e-962b-9aa9-ac80bc216ee8","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"中，俄罗斯三地"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_5328858693_13d9fee4502002go36.html"],"created":1794601021,"id":"chatcmpl-154d932a-853e-962b-9aa9-ac80bc216ee8","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"袭击和乌克兰扎"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_5328858693_13d9fee4502002go36.html"],"created":1794601021,"id":"chatcmpl-154d932a-853e-962b-9aa9-ac80bc216ee8","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"波罗热住宅楼"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_5328858693_13d9fee4502002go36.html"],"created":1794601021,"id":"chatcmpl-154d932a-853e-962b-9aa9-ac80bc216ee8","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"袭击分别造成多少"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_5328858693_13d9fee4502002go36.html"],"created":1794601021,"id":"chatcmpl-154d932a-853e-962b-9aa9-ac80bc216ee8","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"伤亡？”\n\n需要"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_5328858693_13d9fee4502002go36.html"],"created":1794601021,"id":"chatcmpl-154d932a-853e-962b-9aa9-ac80bc216ee8","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"理解"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_5328858693_13d9fee4502002go36.html"],"created":1794601021,"id":"chatcmpl-154d932a-853e-962b-9aa9-ac80bc216ee8","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"：可能指的是同一"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_5328858693_13d9fee4502002go36.html"],"created":1794601021,"id":"chatcmpl-154d932a-853e-962b-9aa9-ac80bc216ee8","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"篇报道？“"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_5328858693_13d9fee4502002go36.html"],"created":1794601021,"id":"chatcmpl-154d932a-853e-962b-9aa9-ac80bc216ee8","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"俄罗斯"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_5328858693_13d9fee4502002go36.html"],"created":1794601021,"id":"chatcmpl-154d932a-853e-962b-9aa9-ac80bc216ee8","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"三地袭击”和"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_5328858693_13d9fee4502002go36.html"],"created":1794601021,"id":"chatcmpl-154d932a-853e-962b-9aa9-ac80bc216ee8","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"“乌克兰扎波罗"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_5328858693_13d9fee4502002go36.html"],"created":1794601021,"id":"chatcmpl-154d932a-853e-962b-9aa9-ac80bc216ee8","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"热住宅楼袭击"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_5328858693_13d9fee4502002go36.html"],"created":1794601021,"id":"chatcmpl-154d932a-853e-962b-9aa9-ac80bc216ee8","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"”分别造成多少"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_5328858693_13d9fee4502002go36.html"],"created":1794601021,"id":"chatcmpl-154d932a-853e-962b-9aa9-ac80bc216ee8","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"伤亡？搜索结果只"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_5328858693_13d9fee4502002go36.html"],"created":1794601021,"id":"chatcmpl-154d932a-853e-962b-9aa9-ac80bc216ee8","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"提到扎波罗热"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_5328858693_13d9fee4502002go36.html"],"created":1794601021,"id":"chatcmpl-154d932a-853e-962b-9aa9-ac80bc216ee8","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"市"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_5328858693_13d9fee4502002go36.html"],"created":1794601021,"id":"chatcmpl-154d932a-853e-962b-9aa9-ac80bc216ee8","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"袭击：6死"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_5328858693_13d9fee4502002go36.html"],"created":1794601021,"id":"chatcmpl-154d932a-853e-962b-9aa9-ac80bc216ee8","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"19"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_5328858693_13d9fee4502002go36.html"],"created":1794601021,"id":"chatcmpl-154d932a-853e-962b-9aa9-ac80bc216ee8","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"伤。没有提到"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_5328858693_13d9fee4502002go36.html"],"created":1794601021,"id":"chatcmpl-154d932a-853e-962b-9aa9-ac80bc216ee8","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"“俄罗斯三地袭击"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_5328858693_13d9fee4502002go36.html"],"created":1794601021,"id":"chatcmpl-154d932a-853e-962b-9aa9-ac80bc216ee8","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"”伤亡。也许"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_5328858693_13d9fee4502002go36.html"],"created":1794601021,"id":"chatcmpl-154d932a-853e-962b-9aa9-ac80bc216ee8","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"用户希望从给定"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_5328858693_13d9fee4502002go36.html"],"created":1794601021,"id":"chatcmpl-154d932a-853e-962b-9aa9-ac80bc216ee8","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"搜索结果中回答，"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_5328858693_13d9fee4502002go36.html"],"created":1794601021,"id":"chatcmpl-154d932a-853e-962b-9aa9-ac80bc216ee8","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"需"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_5328858693_13d9fee4502002go36.html"],"created":1794601021,"id":"chatcmpl-154d932a-853e-962b-9aa9-ac80bc216ee8","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"指出资料不足？"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_5328858693_13d9fee4502002go36.html"],"created":1794601021,"id":"chatcmpl-154d932a-853e-962b-9aa9-ac80bc216ee8","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"但问题说“"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_5328858693_13d9fee4502002go36.html"],"created":1794601021,"id":"chatcmpl-154d932a-853e-962b-9aa9-ac80bc216ee8","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"20"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_5328858693_13d9fee4502002go36.html"],"created":1794601021,"id":"chatcmpl-154d932a-853e-962b-9aa9-ac80bc216ee8","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"26年1"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_5328858693_13d9fee4502002go36.html"],"created":1794601021,"id":"chatcmpl-154d932a-853e-962b-9aa9-ac80bc216ee8","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"1月13"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_5328858693_13d9fee4502002go36.html"],"created":1794601021,"id":"chatcmpl-154d932a-853e-962b-9aa9-ac80bc216ee8","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"日的报道中”，"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_5328858693_13d9fee4502002go36.html"],"created":1794601021,"id":"chatcmpl-154d932a-853e-962b-9aa9-ac80bc216ee8","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"可能新闻报道有“"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_5328858693_13d9fee4502002go36.html"],"created":1794601021,"id":"chatcmpl-154d932a-853e-962b-9aa9-ac80bc216ee8","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"俄罗斯三地遭"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_5328858693_13d9fee4502002go36.html"],"created":1794601021,"id":"chatcmpl-154d932a-853e-962b-9aa9-ac80bc216ee8","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"袭”和“"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_5328858693_13d9fee4502002go36.html"],"created":1794601021,"id":"chatcmpl-154d932a-853e-962b-9aa9-ac80bc216ee8","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"乌克兰扎波罗"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_5328858693_13d9fee4502002go36.html"],"created":1794601021,"id":"chatcmpl-154d932a-853e-962b-9aa9-ac80bc216ee8","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"热住宅楼遭"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_5328858693_13d9fee4502002go36.html"],"created":1794601021,"id":"chatcmpl-154d932a-853e-962b-9aa9-ac80bc216ee8","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"袭”两个事件"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_5328858693_13d9fee4502002go36.html"],"created":1794601021,"id":"chatcmpl-154d932a-853e-962b-9aa9-ac80bc216ee8","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"。需要"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_5328858693_13d9fee4502002go36.html"],"created":1794601021,"id":"chatcmpl-154d932a-853e-962b-9aa9-ac80bc216ee8","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"联网检索？但我们"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_5328858693_13d9fee4502002go36.html"],"created":1794601021,"id":"chatcmpl-154d932a-853e-962b-9aa9-ac80bc216ee8","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"没有实际浏览工具"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_5328858693_13d9fee4502002go36.html"],"created":1794601021,"id":"chatcmpl-154d932a-853e-962b-9aa9-ac80bc216ee8","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"，只有搜索结果。"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_5328858693_13d9fee4502002go36.html"],"created":1794601021,"id":"chatcmpl-154d932a-853e-962b-9aa9-ac80bc216ee8","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"开发者"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_5328858693_13d9fee4502002go36.html"],"created":1794601021,"id":"chatcmpl-154d932a-853e-962b-9aa9-ac80bc216ee8","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"要求“请联网"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_5328858693_13d9fee4502002go36.html"],"created":1794601021,"id":"chatcmpl-154d932a-853e-962b-9aa9-ac80bc216ee8","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"检索后"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_5328858693_13d9fee4502002go36.html"],"created":1794601021,"id":"chatcmpl-154d932a-853e-962b-9aa9-ac80bc216ee8","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"”，但实际只"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_5328858693_13d9fee4502002go36.html"],"created":1794601021,"id":"chatcmpl-154d932a-853e-962b-9aa9-ac80bc216ee8","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"给了一个搜索结果。"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_5328858693_13d9fee4502002go36.html"],"created":1794601021,"id":"chatcmpl-154d932a-853e-962b-9aa9-ac80bc216ee8","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"必须"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_5328858693_13d9fee4502002go36.html"],"created":1794601021,"id":"chatcmpl-154d932a-853e-962b-9aa9-ac80bc216ee8","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"依据检索到的资料"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_5328858693_13d9fee4502002go36.html"],"created":1794601021,"id":"chatcmpl-154d932a-853e-962b-9aa9-ac80bc216ee8","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"作答，"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_5328858693_13d9fee4502002go36.html"],"created":1794601021,"id":"chatcmpl-154d932a-853e-962b-9aa9-ac80bc216ee8","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"资料不足明确说明"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_5328858693_13d9fee4502002go36.html"],"created":1794601021,"id":"chatcmpl-154d932a-853e-962b-9aa9-ac80bc216ee8","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"。\n\n需要"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_5328858693_13d9fee4502002go36.html"],"created":1794601021,"id":"chatcmpl-154d932a-853e-962b-9aa9-ac80bc216ee8","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"可能推断：“俄罗斯"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_5328858693_13d9fee4502002go36.html"],"created":1794601021,"id":"chatcmpl-154d932a-853e-962b-9aa9-ac80bc216ee8","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"三地袭击”"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_5328858693_13d9fee4502002go36.html"],"created":1794601021,"id":"chatcmpl-154d932a-853e-962b-9aa9-ac80bc216ee8","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"是指俄罗斯境内三地"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_5328858693_13d9fee4502002go36.html"],"created":1794601021,"id":"chatcmpl-154d932a-853e-962b-9aa9-ac80bc216ee8","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"遭乌克兰无人机袭击"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_5328858693_13d9fee4502002go36.html"],"created":1794601021,"id":"chatcmpl-154d932a-853e-962b-9aa9-ac80bc216ee8","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"？搜索结果"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_5328858693_13d9fee4502002go36.html"],"created":1794601021,"id":"chatcmpl-154d932a-853e-962b-9aa9-ac80bc216ee8","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"未提供。不能"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_5328858693_13d9fee4502002go36.html"],"created":1794601021,"id":"chatcmpl-154d932a-853e-962b-9aa9-ac80bc216ee8","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"编造。可以直接"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_5328858693_13d9fee4502002go36.html"],"created":1794601021,"id":"chatcmpl-154d932a-853e-962b-9aa9-ac80bc216ee8","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"回答：根据所"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_5328858693_13d9fee4502002go36.html"],"created":1794601021,"id":"chatcmpl-154d932a-853e-962b-9aa9-ac80bc216ee8","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"给检索结果，"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_5328858693_13d9fee4502002go36.html"],"created":1794601021,"id":"chatcmpl-154d932a-853e-962b-9aa9-ac80bc216ee8","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"乌克兰"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_5328858693_13d9fee4502002go36.html"],"created":1794601021,"id":"chatcmpl-154d932a-853e-962b-9aa9-ac80bc216ee8","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"扎波罗热市"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_5328858693_13d9fee4502002go36.html"],"created":1794601021,"id":"chatcmpl-154d932a-853e-962b-9aa9-ac80bc216ee8","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"袭击造成6人死亡"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_5328858693_13d9fee4502002go36.html"],"created":1794601021,"id":"chatcmpl-154d932a-853e-962b-9aa9-ac80bc216ee8","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"、19人受伤"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_5328858693_13d9fee4502002go36.html"],"created":1794601021,"id":"chatcmpl-154d932a-853e-962b-9aa9-ac80bc216ee8","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"[3]；"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_5328858693_13d9fee4502002go36.html"],"created":1794601021,"id":"chatcmpl-154d932a-853e-962b-9aa9-ac80bc216ee8","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"关于“俄罗斯三地"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_5328858693_13d9fee4502002go36.html"],"created":1794601021,"id":"chatcmpl-154d932a-853e-962b-9aa9-ac80bc216ee8","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"袭击”的伤亡"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_5328858693_13d9fee4502002go36.html"],"created":1794601021,"id":"chatcmpl-154d932a-853e-962b-9aa9-ac80bc216ee8","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"，提供的搜索结果未"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_5328858693_13d9fee4502002go36.html"],"created":1794601021,"id":"chatcmpl-154d932a-853e-962b-9aa9-ac80bc216ee8","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"提及，无法确认"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_5328858693_13d9fee4502002go36.html"],"created":1794601021,"id":"chatcmpl-154d932a-853e-962b-9aa9-ac80bc216ee8","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"。可补充："},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_5328858693_13d9fee4502002go36.html"],"created":1794601021,"id":"chatcmpl-154d932a-853e-962b-9aa9-ac80bc216ee8","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"报道还称俄"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_5328858693_13d9fee4502002go36.html"],"created":1794601021,"id":"chatcmpl-154d932a-853e-962b-9aa9-ac80bc216ee8","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"军打击基"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_5328858693_13d9fee4502002go36.html"],"created":1794601021,"id":"chatcmpl-154d932a-853e-962b-9aa9-ac80bc216ee8","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"辅和扎波罗"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_5328858693_13d9fee4502002go36.html"],"created":1794601021,"id":"chatcmpl-154d932a-853e-962b-9aa9-ac80bc216ee8","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"热军工"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_5328858693_13d9fee4502002go36.html"],"created":1794601021,"id":"chatcmpl-154d932a-853e-962b-9aa9-ac80bc216ee8","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"企业及物流中心，但未"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_5328858693_13d9fee4502002go36.html"],"created":1794601021,"id":"chatcmpl-154d932a-853e-962b-9aa9-ac80bc216ee8","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"给出三地袭击伤亡"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_5328858693_13d9fee4502002go36.html"],"created":1794601021,"id":"chatcmpl-154d932a-853e-962b-9aa9-ac80bc216ee8","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"。注意"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_5328858693_13d9fee4502002go36.html"],"created":1794601021,"id":"chatcmpl-154d932a-853e-962b-9aa9-ac80bc216ee8","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"日期：当地时间1"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_5328858693_13d9fee4502002go36.html"],"created":1794601021,"id":"chatcmpl-154d932a-853e-962b-9aa9-ac80bc216ee8","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"1日，"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_5328858693_13d9fee4502002go36.html"],"created":1794601021,"id":"chatcmpl-154d932a-853e-962b-9aa9-ac80bc216ee8","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"报道可能11"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_5328858693_13d9fee4502002go36.html"],"created":1794601021,"id":"chatcmpl-154d932a-853e-962b-9aa9-ac80bc216ee8","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"月13日"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_5328858693_13d9fee4502002go36.html"],"created":1794601021,"id":"chatcmpl-154d932a-853e-962b-9aa9-ac80bc216ee8","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"？查询日期2"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_5328858693_13d9fee4502002go36.html"],"created":1794601021,"id":"chatcmpl-154d932a-853e-962b-9aa9-ac80bc216ee8","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"02"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_5328858693_13d9fee4502002go36.html"],"created":1794601021,"id":"chatcmpl-154d932a-853e-962b-9aa9-ac80bc216ee8","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"6-11"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_5328858693_13d9fee4502002go36.html"],"created":1794601021,"id":"chatcmpl-154d932a-853e-962b-9aa9-ac80bc216ee8","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"-14。"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_5328858693_13d9fee4502002go36.html"],"created":1794601021,"id":"chatcmpl-154d932a-853e-962b-9aa9-ac80bc216ee8","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"用户问20"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_5328858693_13d9fee4502002go36.html"],"created":1794601021,"id":"chatcmpl-154d932a-853e-962b-9aa9-ac80bc216ee8","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"26"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_5328858693_13d9fee4502002go36.html"],"created":1794601021,"id":"chatcmpl-154d932a-853e-962b-9aa9-ac80bc216ee8","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"年11月"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_5328858693_13d9fee4502002go36.html"],"created":1794601021,"id":"chatcmpl-154d932a-853e-962b-9aa9-ac80bc216ee8","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"13日报道中"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_5328858693_13d9fee4502002go36.html"],"created":1794601021,"id":"chatcmpl-154d932a-853e-962b-9aa9-ac80bc216ee8","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"。搜索结果说当地时间"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_5328858693_13d9fee4502002go36.html"],"created":1794601021,"id":"chatcmpl-154d932a-853e-962b-9aa9-ac80bc216ee8","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"11日"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_5328858693_13d9fee4502002go36.html"],"created":1794601021,"id":"chatcmpl-154d932a-853e-962b-9aa9-ac80bc216ee8","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"通报，可能是旧"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_5328858693_13d9fee4502002go36.html"],"created":1794601021,"id":"chatcmpl-154d932a-853e-962b-9aa9-ac80bc216ee8","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"事件？需要甄别"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_5328858693_13d9fee4502002go36.html"],"created":1794601021,"id":"chatcmpl-154d932a-853e-962b-9aa9-ac80bc216ee8","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"。可能“2"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_5328858693_13d9fee4502002go36.html"],"created":1794601021,"id":"chatcmpl-154d932a-853e-962b-9aa9-ac80bc216ee8","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"026"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_5328858693_13d9fee4502002go36.html"],"created":1794601021,"id":"chatcmpl-154d932a-853e-962b-9aa9-ac80bc216ee8","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"年11月"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_5328858693_13d9fee4502002go36.html"],"created":1794601021,"id":"chatcmpl-154d932a-853e-962b-9aa9-ac80bc216ee8","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"13日的报道"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_5328858693_13d9fee4502002go36.html"],"created":1794601021,"id":"chatcmpl-154d932a-853e-962b-9aa9-ac80bc216ee8","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"”指"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_5328858693_13d9fee4502002go36.html"],"created":1794601021,"id":"chatcmpl-154d932a-853e-962b-9aa9-ac80bc216ee8","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"新闻报道包含俄罗斯"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_5328858693_13d9fee4502002go36.html"],"created":1794601021,"id":"chatcmpl-154d932a-853e-962b-9aa9-ac80bc216ee8","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"别"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_5328858693_13d9fee4502002go36.html"],"created":1794601021,"id":"chatcmpl-154d932a-853e-962b-9aa9-ac80bc216ee8","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"尔哥罗德、"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_5328858693_13d9fee4502002go36.html"],"created":1794601021,"id":"chatcmpl-154d932a-853e-962b-9aa9-ac80bc216ee8","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"库"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_5328858693_13d9fee4502002go36.html"],"created":1794601021,"id":"chatcmpl-154d932a-853e-962b-9aa9-ac80bc216ee8","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"尔斯克、克里"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_5328858693_13d9fee4502002go36.html"],"created":1794601021,"id":"chatcmpl-154d932a-853e-962b-9aa9-ac80bc216ee8","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"米亚？但资料"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_5328858693_13d9fee4502002go36.html"],"created":1794601021,"id":"chatcmpl-154d932a-853e-962b-9aa9-ac80bc216ee8","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"没有。要谨慎"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_5328858693_13d9fee4502002go36.html"],"created":1794601021,"id":"chatcmpl-154d932a-853e-962b-9aa9-ac80bc216ee8","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"。\n\n需要引用"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_5328858693_13d9fee4502002go36.html"],"created":1794601021,"id":"chatcmpl-154d932a-853e-962b-9aa9-ac80bc216ee8","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"格式 [3]"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_5328858693_13d9fee4502002go36.html"],"created":1794601021,"id":"chatcmpl-154d932a-853e-962b-9aa9-ac80bc216ee8","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":" "},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_5328858693_13d9fee4502002go36.html"],"created":1794601021,"id":"chatcmpl-154d932a-853e-962b-9aa9-ac80bc216ee8","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"在对应句子末尾"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_5328858693_13d9fee4502002go36.html"],"created":1794601021,"id":"chatcmpl-154d932a-853e-962b-9aa9-ac80bc216ee8","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"。\n\n"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_5328858693_13d9fee4502002go36.html"],"created":1794601021,"id":"chatcmpl-154d932a-853e-962b-9aa9-ac80bc216ee8","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"答案可简短："},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_5328858693_13d9fee4502002go36.html"],"created":1794601021,"id":"chatcmpl-154d932a-853e-962b-9aa9-ac80bc216ee8","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"在"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_5328858693_13d9fee4502002go36.html"],"created":1794601021,"id":"chatcmpl-154d932a-853e-962b-9aa9-ac80bc216ee8","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"可检索到的资料"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_5328858693_13d9fee4502002go36.html"],"created":1794601021,"id":"chatcmpl-154d932a-853e-962b-9aa9-ac80bc216ee8","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"中"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_5328858693_13d9fee4502002go36.html"],"created":1794601021,"id":"chatcmpl-154d932a-853e-962b-9aa9-ac80bc216ee8","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"，只明确了乌克兰"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_5328858693_13d9fee4502002go36.html"],"created":1794601021,"id":"chatcmpl-154d932a-853e-962b-9aa9-ac80bc216ee8","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"扎波罗热市"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_5328858693_13d9fee4502002go36.html"],"created":1794601021,"id":"chatcmpl-154d932a-853e-962b-9aa9-ac80bc216ee8","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"住宅楼袭击："},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_5328858693_13d9fee4502002go36.html"],"created":1794601021,"id":"chatcmpl-154d932a-853e-962b-9aa9-ac80bc216ee8","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"6人死亡、1"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_5328858693_13d9fee4502002go36.html"],"created":1794601021,"id":"chatcmpl-154d932a-853e-962b-9aa9-ac80bc216ee8","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"9人受伤，伤者"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_5328858693_13d9fee4502002go36.html"],"created":1794601021,"id":"chatcmpl-154d932a-853e-962b-9aa9-ac80bc216ee8","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"已获救助["},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_5328858693_13d9fee4502002go36.html"],"created":1794601021,"id":"chatcmpl-154d932a-853e-962b-9aa9-ac80bc216ee8","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"3"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_5328858693_13d9fee4502002go36.html"],"created":1794601021,"id":"chatcmpl-154d932a-853e-962b-9aa9-ac80bc216ee8","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"]。所谓“"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_5328858693_13d9fee4502002go36.html"],"created":1794601021,"id":"chatcmpl-154d932a-853e-962b-9aa9-ac80bc216ee8","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"俄罗斯三地袭击"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_5328858693_13d9fee4502002go36.html"],"created":1794601021,"id":"chatcmpl-154d932a-853e-962b-9aa9-ac80bc216ee8","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"”的伤亡数字"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_5328858693_13d9fee4502002go36.html"],"created":1794601021,"id":"chatcmpl-154d932a-853e-962b-9aa9-ac80bc216ee8","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"，当前提供/"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_5328858693_13d9fee4502002go36.html"],"created":1794601021,"id":"chatcmpl-154d932a-853e-962b-9aa9-ac80bc216ee8","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"检索结果未出现"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_5328858693_13d9fee4502002go36.html"],"created":1794601021,"id":"chatcmpl-154d932a-853e-962b-9aa9-ac80bc216ee8","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"，无法回答或"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_5328858693_13d9fee4502002go36.html"],"created":1794601021,"id":"chatcmpl-154d932a-853e-962b-9aa9-ac80bc216ee8","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"确认[?] "},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_5328858693_13d9fee4502002go36.html"],"created":1794601021,"id":"chatcmpl-154d932a-853e-962b-9aa9-ac80bc216ee8","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"没有"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_5328858693_13d9fee4502002go36.html"],"created":1794601021,"id":"chatcmpl-154d932a-853e-962b-9aa9-ac80bc216ee8","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"引用？可说"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_5328858693_13d9fee4502002go36.html"],"created":1794601021,"id":"chatcmpl-154d932a-853e-962b-9aa9-ac80bc216ee8","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"“"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_5328858693_13d9fee4502002go36.html"],"created":1794601021,"id":"chatcmpl-154d932a-853e-962b-9aa9-ac80bc216ee8","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"资料未提及”。"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_5328858693_13d9fee4502002go36.html"],"created":1794601021,"id":"chatcmpl-154d932a-853e-962b-9aa9-ac80bc216ee8","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"\n\n需要"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_5328858693_13d9fee4502002go36.html"],"created":1794601021,"id":"chatcmpl-154d932a-853e-962b-9aa9-ac80bc216ee8","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"自然中文，先"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_5328858693_13d9fee4502002go36.html"],"created":1794601021,"id":"chatcmpl-154d932a-853e-962b-9aa9-ac80bc216ee8","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"直接回答，"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_5328858693_13d9fee4502002go36.html"],"created":1794601021,"id":"chatcmpl-154d932a-853e-962b-9aa9-ac80bc216ee8","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"再补充背景。"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_5328858693_13d9fee4502002go36.html"],"created":1794601021,"id":"chatcmpl-154d932a-853e-962b-9aa9-ac80bc216ee8","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"不要"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_5328858693_13d9fee4502002go36.html"],"created":1794601021,"id":"chatcmpl-154d932a-853e-962b-9aa9-ac80bc216ee8","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"过度。可能用户"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_5328858693_13d9fee4502002go36.html"],"created":1794601021,"id":"chatcmpl-154d932a-853e-962b-9aa9-ac80bc216ee8","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"期望"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_5328858693_13d9fee4502002go36.html"],"created":1794601021,"id":"chatcmpl-154d932a-853e-962b-9aa9-ac80bc216ee8","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"两个数字，若"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_5328858693_13d9fee4502002go36.html"],"created":1794601021,"id":"chatcmpl-154d932a-853e-962b-9aa9-ac80bc216ee8","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"我们只能一个。"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_5328858693_13d9fee4502002go36.html"],"created":1794601021,"id":"chatcmpl-154d932a-853e-962b-9aa9-ac80bc216ee8","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"要"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_5328858693_13d9fee4502002go36.html"],"created":1794601021,"id":"chatcmpl-154d932a-853e-962b-9aa9-ac80bc216ee8","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"说明分歧/未"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_5328858693_13d9fee4502002go36.html"],"created":1794601021,"id":"chatcmpl-154d932a-853e-962b-9aa9-ac80bc216ee8","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"确认。\n\n"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_5328858693_13d9fee4502002go36.html"],"created":1794601021,"id":"chatcmpl-154d932a-853e-962b-9aa9-ac80bc216ee8","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"需要注意“俄罗斯国防部"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_5328858693_13d9fee4502002go36.html"],"created":1794601021,"id":"chatcmpl-154d932a-853e-962b-9aa9-ac80bc216ee8","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"11日通报"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_5328858693_13d9fee4502002go36.html"],"created":1794601021,"id":"chatcmpl-154d932a-853e-962b-9aa9-ac80bc216ee8","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"，当天凌晨，"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_5328858693_13d9fee4502002go36.html"],"created":1794601021,"id":"chatcmpl-154d932a-853e-962b-9aa9-ac80bc216ee8","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"俄军使用陆"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_5328858693_13d9fee4502002go36.html"],"created":1794601021,"id":"chatcmpl-154d932a-853e-962b-9aa9-ac80bc216ee8","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"基高精度武器，"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_5328858693_13d9fee4502002go36.html"],"created":1794601021,"id":"chatcmpl-154d932a-853e-962b-9aa9-ac80bc216ee8","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"对基辅市"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_5328858693_13d9fee4502002go36.html"],"created":1794601021,"id":"chatcmpl-154d932a-853e-962b-9aa9-ac80bc216ee8","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"和扎波罗热"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_5328858693_13d9fee4502002go36.html"],"created":1794601021,"id":"chatcmpl-154d932a-853e-962b-9aa9-ac80bc216ee8","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"市的军工企业及物流中心"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_5328858693_13d9fee4502002go36.html"],"created":1794601021,"id":"chatcmpl-154d932a-853e-962b-9aa9-ac80bc216ee8","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"发动了打击。”"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_5328858693_13d9fee4502002go36.html"],"created":1794601021,"id":"chatcmpl-154d932a-853e-962b-9aa9-ac80bc216ee8","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"这不是俄罗斯三地袭击"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_5328858693_13d9fee4502002go36.html"],"created":1794601021,"id":"chatcmpl-154d932a-853e-962b-9aa9-ac80bc216ee8","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"，"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_5328858693_13d9fee4502002go36.html"],"created":1794601021,"id":"chatcmpl-154d932a-853e-962b-9aa9-ac80bc216ee8","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"而是俄军打击"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_5328858693_13d9fee4502002go36.html"],"created":1794601021,"id":"chatcmpl-154d932a-853e-962b-9aa9-ac80bc216ee8","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"基辅和扎"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_5328858693_13d9fee4502002go36.html"],"created":1794601021,"id":"chatcmpl-154d932a-853e-962b-9aa9-ac80bc216ee8","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"波罗热。也许"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_5328858693_13d9fee4502002go36.html"],"created":1794601021,"id":"chatcmpl-154d932a-853e-962b-9aa9-ac80bc216ee8","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"用户误把“"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_5328858693_13d9fee4502002go36.html"],"created":1794601021,"id":"chatcmpl-154d932a-853e-962b-9aa9-ac80bc216ee8","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"俄罗斯"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_5328858693_13d9fee4502002go36.html"],"created":1794601021,"id":"chatcmpl-154d932a-853e-962b-9aa9-ac80bc216ee8","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"国防部称打击基"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_5328858693_13d9fee4502002go36.html"],"created":1794601021,"id":"chatcmpl-154d932a-853e-962b-9aa9-ac80bc216ee8","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"辅和"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_5328858693_13d9fee4502002go36.html"],"created":1794601021,"id":"chatcmpl-154d932a-853e-962b-9aa9-ac80bc216ee8","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"扎波罗热”"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_5328858693_13d9fee4502002go36.html"],"created":1794601021,"id":"chatcmpl-154d932a-853e-962b-9aa9-ac80bc216ee8","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"当作“俄罗斯三地"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_5328858693_13d9fee4502002go36.html"],"created":1794601021,"id":"chatcmpl-154d932a-853e-962b-9aa9-ac80bc216ee8","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"袭击"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_5328858693_13d9fee4502002go36.html"],"created":1794601021,"id":"chatcmpl-154d932a-853e-962b-9aa9-ac80bc216ee8","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"”？不，"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_5328858693_13d9fee4502002go36.html"],"created":1794601021,"id":"chatcmpl-154d932a-853e-962b-9aa9-ac80bc216ee8","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"是“俄罗斯三地"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_5328858693_13d9fee4502002go36.html"],"created":1794601021,"id":"chatcmpl-154d932a-853e-962b-9aa9-ac80bc216ee8","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"袭击”"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_5328858693_13d9fee4502002go36.html"],"created":1794601021,"id":"chatcmpl-154d932a-853e-962b-9aa9-ac80bc216ee8","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"可能指俄罗斯三个"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_5328858693_13d9fee4502002go36.html"],"created":1794601021,"id":"chatcmpl-154d932a-853e-962b-9aa9-ac80bc216ee8","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"地区遭到袭击。"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_5328858693_13d9fee4502002go36.html"],"created":1794601021,"id":"chatcmpl-154d932a-853e-962b-9aa9-ac80bc216ee8","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"搜索结果无。\n\n"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_5328858693_13d9fee4502002go36.html"],"created":1794601021,"id":"chatcmpl-154d932a-853e-962b-9aa9-ac80bc216ee8","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"最终回答"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_5328858693_13d9fee4502002go36.html"],"created":1794601021,"id":"chatcmpl-154d932a-853e-962b-9aa9-ac80bc216ee8","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"要美观，分"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_5328858693_13d9fee4502002go36.html"],"created":1794601021,"id":"chatcmpl-154d932a-853e-962b-9aa9-ac80bc216ee8","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"点。引用 ["},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_5328858693_13d9fee4502002go36.html"],"created":1794601021,"id":"chatcmpl-154d932a-853e-962b-9aa9-ac80bc216ee8","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"3]。\n\n"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_5328858693_13d9fee4502002go36.html"],"created":1794601021,"id":"chatcmpl-154d932a-853e-962b-9aa9-ac80bc216ee8","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"是否要提“"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_5328858693_13d9fee4502002go36.html"],"created":1794601021,"id":"chatcmpl-154d932a-853e-962b-9aa9-ac80bc216ee8","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"202"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_5328858693_13d9fee4502002go36.html"],"created":1794601021,"id":"chatcmpl-154d932a-853e-962b-9aa9-ac80bc216ee8","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"6年11"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_5328858693_13d9fee4502002go36.html"],"created":1794601021,"id":"chatcmpl-154d932a-853e-962b-9aa9-ac80bc216ee8","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"月13日报道"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_5328858693_13d9fee4502002go36.html"],"created":1794601021,"id":"chatcmpl-154d932a-853e-962b-9aa9-ac80bc216ee8","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"”与“当地时间"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_5328858693_13d9fee4502002go36.html"],"created":1794601021,"id":"chatcmpl-154d932a-853e-962b-9aa9-ac80bc216ee8","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"11日"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_5328858693_13d9fee4502002go36.html"],"created":1794601021,"id":"chatcmpl-154d932a-853e-962b-9aa9-ac80bc216ee8","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"通报”不一致？"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_5328858693_13d9fee4502002go36.html"],"created":1794601021,"id":"chatcmpl-154d932a-853e-962b-9aa9-ac80bc216ee8","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"可以说"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_5328858693_13d9fee4502002go36.html"],"created":1794601021,"id":"chatcmpl-154d932a-853e-962b-9aa9-ac80bc216ee8","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"：在你给出的搜索结果"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_5328858693_13d9fee4502002go36.html"],"created":1794601021,"id":"chatcmpl-154d932a-853e-962b-9aa9-ac80bc216ee8","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"中，该通报"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_5328858693_13d9fee4502002go36.html"],"created":1794601021,"id":"chatcmpl-154d932a-853e-962b-9aa9-ac80bc216ee8","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"为“"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_5328858693_13d9fee4502002go36.html"],"created":1794601021,"id":"chatcmpl-154d932a-853e-962b-9aa9-ac80bc216ee8","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"当地时间11日"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_5328858693_13d9fee4502002go36.html"],"created":1794601021,"id":"chatcmpl-154d932a-853e-962b-9aa9-ac80bc216ee8","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"”通报，若"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_5328858693_13d9fee4502002go36.html"],"created":1794601021,"id":"chatcmpl-154d932a-853e-962b-9aa9-ac80bc216ee8","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"你指的是这条报道"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_5328858693_13d9fee4502002go36.html"],"created":1794601021,"id":"chatcmpl-154d932a-853e-962b-9aa9-ac80bc216ee8","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"，则扎"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_5328858693_13d9fee4502002go36.html"],"created":1794601021,"id":"chatcmpl-154d932a-853e-962b-9aa9-ac80bc216ee8","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"波罗热伤亡为"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_5328858693_13d9fee4502002go36.html"],"created":1794601021,"id":"chatcmpl-154d932a-853e-962b-9aa9-ac80bc216ee8","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"...；但“"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_5328858693_13d9fee4502002go36.html"],"created":1794601021,"id":"chatcmpl-154d932a-853e-962b-9aa9-ac80bc216ee8","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"俄罗斯三地袭击"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_5328858693_13d9fee4502002go36.html"],"created":1794601021,"id":"chatcmpl-154d932a-853e-962b-9aa9-ac80bc216ee8","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"”未见。由于"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_5328858693_13d9fee4502002go36.html"],"created":1794601021,"id":"chatcmpl-154d932a-853e-962b-9aa9-ac80bc216ee8","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"问题指定20"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_5328858693_13d9fee4502002go36.html"],"created":1794601021,"id":"chatcmpl-154d932a-853e-962b-9aa9-ac80bc216ee8","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"26"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_5328858693_13d9fee4502002go36.html"],"created":1794601021,"id":"chatcmpl-154d932a-853e-962b-9aa9-ac80bc216ee8","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"年11月"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_5328858693_13d9fee4502002go36.html"],"created":1794601021,"id":"chatcmpl-154d932a-853e-962b-9aa9-ac80bc216ee8","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"13日，"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_5328858693_13d9fee4502002go36.html"],"created":1794601021,"id":"chatcmpl-154d932a-853e-962b-9aa9-ac80bc216ee8","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"若另有报道，"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_5328858693_13d9fee4502002go36.html"],"created":1794601021,"id":"chatcmpl-154d932a-853e-962b-9aa9-ac80bc216ee8","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"当前"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_5328858693_13d9fee4502002go36.html"],"created":1794601021,"id":"chatcmpl-154d932a-853e-962b-9aa9-ac80bc216ee8","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"资料不足。\n\n"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_5328858693_13d9fee4502002go36.html"],"created":1794601021,"id":"chatcmpl-154d932a-853e-962b-9aa9-ac80bc216ee8","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"需要不要提“"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_5328858693_13d9fee4502002go36.html"],"created":1794601021,"id":"chatcmpl-154d932a-853e-962b-9aa9-ac80bc216ee8","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"今天是"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_5328858693_13d9fee4502002go36.html"],"created":1794601021,"id":"chatcmpl-154d932a-853e-962b-9aa9-ac80bc216ee8","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"2026"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_5328858693_13d9fee4502002go36.html"],"created":1794601021,"id":"chatcmpl-154d932a-853e-962b-9aa9-ac80bc216ee8","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"1114"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_5328858693_13d9fee4502002go36.html"],"created":1794601021,"id":"chatcmpl-154d932a-853e-962b-9aa9-ac80bc216ee8","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"”？不必。"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_5328858693_13d9fee4502002go36.html"],"created":1794601021,"id":"chatcmpl-154d932a-853e-962b-9aa9-ac80bc216ee8","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"\n\n最终："},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_5328858693_13d9fee4502002go36.html"],"created":1794601021,"id":"chatcmpl-154d932a-853e-962b-9aa9-ac80bc216ee8","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"\n- 乌克兰"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_5328858693_13d9fee4502002go36.html"],"created":1794601021,"id":"chatcmpl-154d932a-853e-962b-9aa9-ac80bc216ee8","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"扎波罗热住宅"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_5328858693_13d9fee4502002go36.html"],"created":1794601021,"id":"chatcmpl-154d932a-853e-962b-9aa9-ac80bc216ee8","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"楼袭击：6"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_5328858693_13d9fee4502002go36.html"],"created":1794601021,"id":"chatcmpl-154d932a-853e-962b-9aa9-ac80bc216ee8","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"人死亡、19"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_5328858693_13d9fee4502002go36.html"],"created":1794601021,"id":"chatcmpl-154d932a-853e-962b-9aa9-ac80bc216ee8","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"人受伤；4栋"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_5328858693_13d9fee4502002go36.html"],"created":1794601021,"id":"chatcmpl-154d932a-853e-962b-9aa9-ac80bc216ee8","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"住宅楼"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_5328858693_13d9fee4502002go36.html"],"created":1794601021,"id":"chatcmpl-154d932a-853e-962b-9aa9-ac80bc216ee8","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"及非住宅建筑"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_5328858693_13d9fee4502002go36.html"],"created":1794601021,"id":"chatcmpl-154d932a-853e-962b-9aa9-ac80bc216ee8","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"受损，伤者已"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_5328858693_13d9fee4502002go36.html"],"created":1794601021,"id":"chatcmpl-154d932a-853e-962b-9aa9-ac80bc216ee8","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"获救助["},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_5328858693_13d9fee4502002go36.html"],"created":1794601021,"id":"chatcmpl-154d932a-853e-962b-9aa9-ac80bc216ee8","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"3]。\n"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_5328858693_13d9fee4502002go36.html"],"created":1794601021,"id":"chatcmpl-154d932a-853e-962b-9aa9-ac80bc216ee8","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"- 俄罗斯三地"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_5328858693_13d9fee4502002go36.html"],"created":1794601021,"id":"chatcmpl-154d932a-853e-962b-9aa9-ac80bc216ee8","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"袭击：提供的搜索结果"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_5328858693_13d9fee4502002go36.html"],"created":1794601021,"id":"chatcmpl-154d932a-853e-962b-9aa9-ac80bc216ee8","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"未提及"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_5328858693_13d9fee4502002go36.html"],"created":1794601021,"id":"chatcmpl-154d932a-853e-962b-9aa9-ac80bc216ee8","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"伤亡数字，无法"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_5328858693_13d9fee4502002go36.html"],"created":1794601021,"id":"chatcmpl-154d932a-853e-962b-9aa9-ac80bc216ee8","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"确认；"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_5328858693_13d9fee4502002go36.html"],"created":1794601021,"id":"chatcmpl-154d932a-853e-962b-9aa9-ac80bc216ee8","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"现有资料只提到"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_5328858693_13d9fee4502002go36.html"],"created":1794601021,"id":"chatcmpl-154d932a-853e-962b-9aa9-ac80bc216ee8","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"俄国防部称打击"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_5328858693_13d9fee4502002go36.html"],"created":1794601021,"id":"chatcmpl-154d932a-853e-962b-9aa9-ac80bc216ee8","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"基辅市和"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_5328858693_13d9fee4502002go36.html"],"created":1794601021,"id":"chatcmpl-154d932a-853e-962b-9aa9-ac80bc216ee8","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"扎波罗热市的"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_5328858693_13d9fee4502002go36.html"],"created":1794601021,"id":"chatcmpl-154d932a-853e-962b-9aa9-ac80bc216ee8","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"军工企业及物流中心["},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_5328858693_13d9fee4502002go36.html"],"created":1794601021,"id":"chatcmpl-154d932a-853e-962b-9aa9-ac80bc216ee8","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"3]。\n\n"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_5328858693_13d9fee4502002go36.html"],"created":1794601021,"id":"chatcmpl-154d932a-853e-962b-9aa9-ac80bc216ee8","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"也许“俄罗斯三地"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_5328858693_13d9fee4502002go36.html"],"created":1794601021,"id":"chatcmpl-154d932a-853e-962b-9aa9-ac80bc216ee8","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"袭击"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_5328858693_13d9fee4502002go36.html"],"created":1794601021,"id":"chatcmpl-154d932a-853e-962b-9aa9-ac80bc216ee8","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"”可能是“俄罗斯"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_5328858693_13d9fee4502002go36.html"],"created":1794601021,"id":"chatcmpl-154d932a-853e-962b-9aa9-ac80bc216ee8","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"国防部"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_5328858693_13d9fee4502002go36.html"],"created":1794601021,"id":"chatcmpl-154d932a-853e-962b-9aa9-ac80bc216ee8","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"通报对基辅"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_5328858693_13d9fee4502002go36.html"],"created":1794601021,"id":"chatcmpl-154d932a-853e-962b-9aa9-ac80bc216ee8","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"和扎波罗热"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_5328858693_13d9fee4502002go36.html"],"created":1794601021,"id":"chatcmpl-154d932a-853e-962b-9aa9-ac80bc216ee8","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"发动"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_5328858693_13d9fee4502002go36.html"],"created":1794601021,"id":"chatcmpl-154d932a-853e-962b-9aa9-ac80bc216ee8","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"打击”造成？"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_5328858693_13d9fee4502002go36.html"],"created":1794601021,"id":"chatcmpl-154d932a-853e-962b-9aa9-ac80bc216ee8","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"无伤亡。不可"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_5328858693_13d9fee4502002go36.html"],"created":1794601021,"id":"chatcmpl-154d932a-853e-962b-9aa9-ac80bc216ee8","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"编造。\n\n"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_5328858693_13d9fee4502002go36.html"],"created":1794601021,"id":"chatcmpl-154d932a-853e-962b-9aa9-ac80bc216ee8","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"要"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_5328858693_13d9fee4502002go36.html"],"created":1794601021,"id":"chatcmpl-154d932a-853e-962b-9aa9-ac80bc216ee8","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"确保引用在句子"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_5328858693_13d9fee4502002go36.html"],"created":1794601021,"id":"chatcmpl-154d932a-853e-962b-9aa9-ac80bc216ee8","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"末尾。比如"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_5328858693_13d9fee4502002go36.html"],"created":1794601021,"id":"chatcmpl-154d932a-853e-962b-9aa9-ac80bc216ee8","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"“...19"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_5328858693_13d9fee4502002go36.html"],"created":1794601021,"id":"chatcmpl-154d932a-853e-962b-9aa9-ac80bc216ee8","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"人受伤[3"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_5328858693_13d9fee4502002go36.html"],"created":1794601021,"id":"chatcmpl-154d932a-853e-962b-9aa9-ac80bc216ee8","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"]。”\n\n完成"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_5328858693_13d9fee4502002go36.html"],"created":1794601021,"id":"chatcmpl-154d932a-853e-962b-9aa9-ac80bc216ee8","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"。"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_5328858693_13d9fee4502002go36.html"],"created":1794601021,"id":"chatcmpl-154d932a-853e-962b-9aa9-ac80bc216ee8","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"根据你给出的检索","reasoning_content":""},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_5328858693_13d9fee4502002go36.html"],"created":1794601021,"id":"chatcmpl-154d932a-853e-962b-9aa9-ac80bc216ee8","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"结果","reasoning_content":""},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_5328858693_13d9fee4502002go36.html"],"created":1794601021,"id":"chatcmpl-154d932a-853e-962b-9aa9-ac80bc216ee8","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"，能确认的","reasoning_content":""},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_5328858693_13d9fee4502002go36.html"],"created":1794601021,"id":"chatcmpl-154d932a-853e-962b-9aa9-ac80bc216ee8","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"只有","reasoning_content":""},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_5328858693_13d9fee4502002go36.html"],"created":1794601021,"id":"chatcmpl-154d932a-853e-962b-9aa9-ac80bc216ee8","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"乌克兰扎波罗热","reasoning_content":""},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_5328858693_13d9fee4502002go36.html"],"created":1794601021,"id":"chatcmpl-154d932a-853e-962b-9aa9-ac80bc216ee8","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"市袭击的伤亡","reasoning_content":""},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_5328858693_13d9fee4502002go36.html"],"created":1794601021,"id":"chatcmpl-154d932a-853e-962b-9aa9-ac80bc216ee8","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"数字","reasoning_content":""},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_5328858693_13d9fee4502002go36.html"],"created":1794601021,"id":"chatcmpl-154d932a-853e-962b-9aa9-ac80bc216ee8","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"；“俄罗斯三地","reasoning_content":""},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_5328858693_13d9fee4502002go36.html"],"created":1794601021,"id":"chatcmpl-154d932a-853e-962b-9aa9-ac80bc216ee8","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"袭击","reasoning_content":""},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_5328858693_13d9fee4502002go36.html"],"created":1794601021,"id":"chatcmpl-154d932a-853e-962b-9aa9-ac80bc216ee8","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"”的伤亡情况","reasoning_content":""},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_5328858693_13d9fee4502002go36.html"],"created":1794601021,"id":"chatcmpl-154d932a-853e-962b-9aa9-ac80bc216ee8","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"在现有资料中","reasoning_content":""},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_5328858693_13d9fee4502002go36.html"],"created":1794601021,"id":"chatcmpl-154d932a-853e-962b-9aa9-ac80bc216ee8","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"未提及，无法","reasoning_content":""},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_5328858693_13d9fee4502002go36.html"],"created":1794601021,"id":"chatcmpl-154d932a-853e-962b-9aa9-ac80bc216ee8","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"确认。\n\n","reasoning_content":""},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_5328858693_13d9fee4502002go36.html"],"created":1794601021,"id":"chatcmpl-154d932a-853e-962b-9aa9-ac80bc216ee8","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"- **乌克兰扎","reasoning_content":""},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_5328858693_13d9fee4502002go36.html"],"created":1794601021,"id":"chatcmpl-154d932a-853e-962b-9aa9-ac80bc216ee8","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"波罗热住宅楼","reasoning_content":""},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_5328858693_13d9fee4502002go36.html"],"created":1794601021,"id":"chatcmpl-154d932a-853e-962b-9aa9-ac80bc216ee8","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"袭击**：扎","reasoning_content":""},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_5328858693_13d9fee4502002go36.html"],"created":1794601021,"id":"chatcmpl-154d932a-853e-962b-9aa9-ac80bc216ee8","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"波罗热州军","reasoning_content":""},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_5328858693_13d9fee4502002go36.html"],"created":1794601021,"id":"chatcmpl-154d932a-853e-962b-9aa9-ac80bc216ee8","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"政管理局通报称","reasoning_content":""},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_5328858693_13d9fee4502002go36.html"],"created":1794601021,"id":"chatcmpl-154d932a-853e-962b-9aa9-ac80bc216ee8","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"，俄军使用","reasoning_content":""},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_5328858693_13d9fee4502002go36.html"],"created":1794601021,"id":"chatcmpl-154d932a-853e-962b-9aa9-ac80bc216ee8","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"导弹和","reasoning_content":""},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_5328858693_13d9fee4502002go36.html"],"created":1794601021,"id":"chatcmpl-154d932a-853e-962b-9aa9-ac80bc216ee8","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"制导航空炸弹","reasoning_content":""},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_5328858693_13d9fee4502002go36.html"],"created":1794601021,"id":"chatcmpl-154d932a-853e-962b-9aa9-ac80bc216ee8","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"对扎波罗热","reasoning_content":""},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_5328858693_13d9fee4502002go36.html"],"created":1794601021,"id":"chatcmpl-154d932a-853e-962b-9aa9-ac80bc216ee8","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"市发动袭击，","reasoning_content":""},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_5328858693_13d9fee4502002go36.html"],"created":1794601021,"id":"chatcmpl-154d932a-853e-962b-9aa9-ac80bc216ee8","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"造成**","reasoning_content":""},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_5328858693_13d9fee4502002go36.html"],"created":1794601021,"id":"chatcmpl-154d932a-853e-962b-9aa9-ac80bc216ee8","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"6人死亡、1","reasoning_content":""},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_5328858693_13d9fee4502002go36.html"],"created":1794601021,"id":"chatcmpl-154d932a-853e-962b-9aa9-ac80bc216ee8","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"9人受伤**，","reasoning_content":""},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_5328858693_13d9fee4502002go36.html"],"created":1794601021,"id":"chatcmpl-154d932a-853e-962b-9aa9-ac80bc216ee8","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"并导致4栋","reasoning_content":""},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_5328858693_13d9fee4502002go36.html"],"created":1794601021,"id":"chatcmpl-154d932a-853e-962b-9aa9-ac80bc216ee8","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"住宅楼及非","reasoning_content":""},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_5328858693_13d9fee4502002go36.html"],"created":1794601021,"id":"chatcmpl-154d932a-853e-962b-9aa9-ac80bc216ee8","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"住宅建筑受损；","reasoning_content":""},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_5328858693_13d9fee4502002go36.html"],"created":1794601021,"id":"chatcmpl-154d932a-853e-962b-9aa9-ac80bc216ee8","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"所有伤者均已获得","reasoning_content":""},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_5328858693_13d9fee4502002go36.html"],"created":1794601021,"id":"chatcmpl-154d932a-853e-962b-9aa9-ac80bc216ee8","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"救助[3]","reasoning_content":""},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_5328858693_13d9fee4502002go36.html"],"created":1794601021,"id":"chatcmpl-154d932a-853e-962b-9aa9-ac80bc216ee8","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"。\n\n- **","reasoning_content":""},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_5328858693_13d9fee4502002go36.html"],"created":1794601021,"id":"chatcmpl-154d932a-853e-962b-9aa9-ac80bc216ee8","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"俄罗斯三地袭击**","reasoning_content":""},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_5328858693_13d9fee4502002go36.html"],"created":1794601021,"id":"chatcmpl-154d932a-853e-962b-9aa9-ac80bc216ee8","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"：你提供的搜索结果","reasoning_content":""},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_5328858693_13d9fee4502002go36.html"],"created":1794601021,"id":"chatcmpl-154d932a-853e-962b-9aa9-ac80bc216ee8","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"中没有关于“俄罗斯","reasoning_content":""},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_5328858693_13d9fee4502002go36.html"],"created":1794601021,"id":"chatcmpl-154d932a-853e-962b-9aa9-ac80bc216ee8","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"三地袭击","reasoning_content":""},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_5328858693_13d9fee4502002go36.html"],"created":1794601021,"id":"chatcmpl-154d932a-853e-962b-9aa9-ac80bc216ee8","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"”造成多少伤亡","reasoning_content":""},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_5328858693_13d9fee4502002go36.html"],"created":1794601021,"id":"chatcmpl-154d932a-853e-962b-9aa9-ac80bc216ee8","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"的信息","reasoning_content":""},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_5328858693_13d9fee4502002go36.html"],"created":1794601021,"id":"chatcmpl-154d932a-853e-962b-9aa9-ac80bc216ee8","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"，因此不能给出","reasoning_content":""},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_5328858693_13d9fee4502002go36.html"],"created":1794601021,"id":"chatcmpl-154d932a-853e-962b-9aa9-ac80bc216ee8","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"具体","reasoning_content":""},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_5328858693_13d9fee4502002go36.html"],"created":1794601021,"id":"chatcmpl-154d932a-853e-962b-9aa9-ac80bc216ee8","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"数字[3]","reasoning_content":""},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_5328858693_13d9fee4502002go36.html"],"created":1794601021,"id":"chatcmpl-154d932a-853e-962b-9aa9-ac80bc216ee8","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"。现有资料只","reasoning_content":""},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_5328858693_13d9fee4502002go36.html"],"created":1794601021,"id":"chatcmpl-154d932a-853e-962b-9aa9-ac80bc216ee8","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"提到俄罗斯国防部通报","reasoning_content":""},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_5328858693_13d9fee4502002go36.html"],"created":1794601021,"id":"chatcmpl-154d932a-853e-962b-9aa9-ac80bc216ee8","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"称，","reasoning_content":""},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_5328858693_13d9fee4502002go36.html"],"created":1794601021,"id":"chatcmpl-154d932a-853e-962b-9aa9-ac80bc216ee8","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"俄军当天凌晨","reasoning_content":""},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_5328858693_13d9fee4502002go36.html"],"created":1794601021,"id":"chatcmpl-154d932a-853e-962b-9aa9-ac80bc216ee8","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"使用陆基高精度","reasoning_content":""},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_5328858693_13d9fee4502002go36.html"],"created":1794601021,"id":"chatcmpl-154d932a-853e-962b-9aa9-ac80bc216ee8","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"武器","reasoning_content":""},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_5328858693_13d9fee4502002go36.html"],"created":1794601021,"id":"chatcmpl-154d932a-853e-962b-9aa9-ac80bc216ee8","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"打击了基辅","reasoning_content":""},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_5328858693_13d9fee4502002go36.html"],"created":1794601021,"id":"chatcmpl-154d932a-853e-962b-9aa9-ac80bc216ee8","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"市和扎波罗","reasoning_content":""},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_5328858693_13d9fee4502002go36.html"],"created":1794601021,"id":"chatcmpl-154d932a-853e-962b-9aa9-ac80bc216ee8","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"热市的军工企业及","reasoning_content":""},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_5328858693_13d9fee4502002go36.html"],"created":1794601021,"id":"chatcmpl-154d932a-853e-962b-9aa9-ac80bc216ee8","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"物流中心，但未列出","reasoning_content":""},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_5328858693_13d9fee4502002go36.html"],"created":1794601021,"id":"chatcmpl-154d932a-853e-962b-9aa9-ac80bc216ee8","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"“俄罗斯三地袭击","reasoning_content":""},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_5328858693_13d9fee4502002go36.html"],"created":1794601021,"id":"chatcmpl-154d932a-853e-962b-9aa9-ac80bc216ee8","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"”的伤亡情况","reasoning_content":""},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_5328858693_13d9fee4502002go36.html"],"created":1794601021,"id":"chatcmpl-154d932a-853e-962b-9aa9-ac80bc216ee8","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"[3]。","reasoning_content":""},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_5328858693_13d9fee4502002go36.html"],"created":1794601021,"id":"chatcmpl-154d932a-853e-962b-9aa9-ac80bc216ee8","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":""},"finish_reason":"stop","index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_5328858693_13d9fee4502002go36.html"],"created":1794601021,"id":"chatcmpl-154d932a-853e-962b-9aa9-ac80bc216ee8","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[],"citations":["http://k.sina.com.cn/article_5328858693_13d9fee4502002go36.html"],"created":1794601021,"id":"chatcmpl-154d932a-853e-962b-9aa9-ac80bc216ee8","model":"qwen3.8-max","object":"chat.completion.chunk","usage":{"completion_tokens":1123,"completion_tokens_details":{"reasoning_tokens":934,"text_tokens":1123},"prompt_tokens":780,"prompt_tokens_details":{"cached_tokens":0,"text_tokens":780},"total_tokens":1903}}
+
+data: [DONE]
+

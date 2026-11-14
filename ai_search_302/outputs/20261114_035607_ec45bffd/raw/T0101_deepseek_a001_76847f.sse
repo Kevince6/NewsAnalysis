@@ -1,0 +1,546 @@
+data: {"choices":[{"delta":{"reasoning_content":"用户","role":"assistant"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://montreal.china-consulate.gov.cn/wjbfy/202601/t20260105_11806730.htm","https://new.qq.com/rain/a/20260106A02OTI00"],"created":1794626906,"id":"chatcmpl-01388858-fecf-4885-948a-7555ac19337d","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"问"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://montreal.china-consulate.gov.cn/wjbfy/202601/t20260105_11806730.htm","https://new.qq.com/rain/a/20260106A02OTI00"],"created":1794626906,"id":"chatcmpl-01388858-fecf-4885-948a-7555ac19337d","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"的是中国外交部202"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://montreal.china-consulate.gov.cn/wjbfy/202601/t20260105_11806730.htm","https://new.qq.com/rain/a/20260106A02OTI00"],"created":1794626906,"id":"chatcmpl-01388858-fecf-4885-948a-7555ac19337d","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"6年1月4日"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://montreal.china-consulate.gov.cn/wjbfy/202601/t20260105_11806730.htm","https://new.qq.com/rain/a/20260106A02OTI00"],"created":1794626906,"id":"chatcmpl-01388858-fecf-4885-948a-7555ac19337d","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"如何回应马杜罗夫妇"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://montreal.china-consulate.gov.cn/wjbfy/202601/t20260105_11806730.htm","https://new.qq.com/rain/a/20260106A02OTI00"],"created":1794626906,"id":"chatcmpl-01388858-fecf-4885-948a-7555ac19337d","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"被带走，提出了什么要求"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://montreal.china-consulate.gov.cn/wjbfy/202601/t20260105_11806730.htm","https://new.qq.com/rain/a/20260106A02OTI00"],"created":1794626906,"id":"chatcmpl-01388858-fecf-4885-948a-7555ac19337d","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"。但搜索结果只有两个"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://montreal.china-consulate.gov.cn/wjbfy/202601/t20260105_11806730.htm","https://new.qq.com/rain/a/20260106A02OTI00"],"created":1794626906,"id":"chatcmpl-01388858-fecf-4885-948a-7555ac19337d","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"网页片段"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://montreal.china-consulate.gov.cn/wjbfy/202601/t20260105_11806730.htm","https://new.qq.com/rain/a/20260106A02OTI00"],"created":1794626906,"id":"chatcmpl-01388858-fecf-4885-948a-7555ac19337d","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"，内容是"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://montreal.china-consulate.gov.cn/wjbfy/202601/t20260105_11806730.htm","https://new.qq.com/rain/a/20260106A02OTI00"],"created":1794626906,"id":"chatcmpl-01388858-fecf-4885-948a-7555ac19337d","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"外交部发言人"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://montreal.china-consulate.gov.cn/wjbfy/202601/t20260105_11806730.htm","https://new.qq.com/rain/a/20260106A02OTI00"],"created":1794626906,"id":"chatcmpl-01388858-fecf-4885-948a-7555ac19337d","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"林剑"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://montreal.china-consulate.gov.cn/wjbfy/202601/t20260105_11806730.htm","https://new.qq.com/rain/a/20260106A02OTI00"],"created":1794626906,"id":"chatcmpl-01388858-fecf-4885-948a-7555ac19337d","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"在记者"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://montreal.china-consulate.gov.cn/wjbfy/202601/t20260105_11806730.htm","https://new.qq.com/rain/a/20260106A02OTI00"],"created":1794626906,"id":"chatcmpl-01388858-fecf-4885-948a-7555ac19337d","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"会上的"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://montreal.china-consulate.gov.cn/wjbfy/202601/t20260105_11806730.htm","https://new.qq.com/rain/a/20260106A02OTI00"],"created":1794626906,"id":"chatcmpl-01388858-fecf-4885-948a-7555ac19337d","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"回应，提到\"中方"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://montreal.china-consulate.gov.cn/wjbfy/202601/t20260105_11806730.htm","https://new.qq.com/rain/a/20260106A02OTI00"],"created":1794626906,"id":"chatcmpl-01388858-fecf-4885-948a-7555ac19337d","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"已就"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://montreal.china-consulate.gov.cn/wjbfy/202601/t20260105_11806730.htm","https://new.qq.com/rain/a/20260106A02OTI00"],"created":1794626906,"id":"chatcmpl-01388858-fecf-4885-948a-7555ac19337d","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"美国强行控制委内瑞"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://montreal.china-consulate.gov.cn/wjbfy/202601/t20260105_11806730.htm","https://new.qq.com/rain/a/20260106A02OTI00"],"created":1794626906,"id":"chatcmpl-01388858-fecf-4885-948a-7555ac19337d","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"拉总统马杜罗夫妇"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://montreal.china-consulate.gov.cn/wjbfy/202601/t20260105_11806730.htm","https://new.qq.com/rain/a/20260106A02OTI00"],"created":1794626906,"id":"chatcmpl-01388858-fecf-4885-948a-7555ac19337d","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"表明了"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://montreal.china-consulate.gov.cn/wjbfy/202601/t20260105_11806730.htm","https://new.qq.com/rain/a/20260106A02OTI00"],"created":1794626906,"id":"chatcmpl-01388858-fecf-4885-948a-7555ac19337d","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"立场\"，"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://montreal.china-consulate.gov.cn/wjbfy/202601/t20260105_11806730.htm","https://new.qq.com/rain/a/20260106A02OTI00"],"created":1794626906,"id":"chatcmpl-01388858-fecf-4885-948a-7555ac19337d","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"以及记者"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://montreal.china-consulate.gov.cn/wjbfy/202601/t20260105_11806730.htm","https://new.qq.com/rain/a/20260106A02OTI00"],"created":1794626906,"id":"chatcmpl-01388858-fecf-4885-948a-7555ac19337d","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"提到"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://montreal.china-consulate.gov.cn/wjbfy/202601/t20260105_11806730.htm","https://new.qq.com/rain/a/20260106A02OTI00"],"created":1794626906,"id":"chatcmpl-01388858-fecf-4885-948a-7555ac19337d","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"\"外交部昨天"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://montreal.china-consulate.gov.cn/wjbfy/202601/t20260105_11806730.htm","https://new.qq.com/rain/a/20260106A02OTI00"],"created":1794626906,"id":"chatcmpl-01388858-fecf-4885-948a-7555ac19337d","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"发布答记者问表示"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://montreal.china-consulate.gov.cn/wjbfy/202601/t20260105_11806730.htm","https://new.qq.com/rain/a/20260106A02OTI00"],"created":1794626906,"id":"chatcmpl-01388858-fecf-4885-948a-7555ac19337d","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"，中方呼吁美"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://montreal.china-consulate.gov.cn/wjbfy/202601/t20260105_11806730.htm","https://new.qq.com/rain/a/20260106A02OTI00"],"created":1794626906,"id":"chatcmpl-01388858-fecf-4885-948a-7555ac19337d","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"方确保马"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://montreal.china-consulate.gov.cn/wjbfy/202601/t20260105_11806730.htm","https://new.qq.com/rain/a/20260106A02OTI00"],"created":1794626906,"id":"chatcmpl-01388858-fecf-4885-948a-7555ac19337d","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"杜罗总统夫妇"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://montreal.china-consulate.gov.cn/wjbfy/202601/t20260105_11806730.htm","https://new.qq.com/rain/a/20260106A02OTI00"],"created":1794626906,"id":"chatcmpl-01388858-fecf-4885-948a-7555ac19337d","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"人身安全，立即"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://montreal.china-consulate.gov.cn/wjbfy/202601/t20260105_11806730.htm","https://new.qq.com/rain/a/20260106A02OTI00"],"created":1794626906,"id":"chatcmpl-01388858-fecf-4885-948a-7555ac19337d","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"释放马杜罗总统和"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://montreal.china-consulate.gov.cn/wjbfy/202601/t20260105_11806730.htm","https://new.qq.com/rain/a/20260106A02OTI00"],"created":1794626906,"id":"chatcmpl-01388858-fecf-4885-948a-7555ac19337d","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"夫人\"。\n\n注意"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://montreal.china-consulate.gov.cn/wjbfy/202601/t20260105_11806730.htm","https://new.qq.com/rain/a/20260106A02OTI00"],"created":1794626906,"id":"chatcmpl-01388858-fecf-4885-948a-7555ac19337d","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"：搜索结果"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://montreal.china-consulate.gov.cn/wjbfy/202601/t20260105_11806730.htm","https://new.qq.com/rain/a/20260106A02OTI00"],"created":1794626906,"id":"chatcmpl-01388858-fecf-4885-948a-7555ac19337d","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"没有"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://montreal.china-consulate.gov.cn/wjbfy/202601/t20260105_11806730.htm","https://new.qq.com/rain/a/20260106A02OTI00"],"created":1794626906,"id":"chatcmpl-01388858-fecf-4885-948a-7555ac19337d","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"明确日期"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://montreal.china-consulate.gov.cn/wjbfy/202601/t20260105_11806730.htm","https://new.qq.com/rain/a/20260106A02OTI00"],"created":1794626906,"id":"chatcmpl-01388858-fecf-4885-948a-7555ac19337d","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"是202"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://montreal.china-consulate.gov.cn/wjbfy/202601/t20260105_11806730.htm","https://new.qq.com/rain/a/20260106A02OTI00"],"created":1794626906,"id":"chatcmpl-01388858-fecf-4885-948a-7555ac19337d","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"6年1月4日"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://montreal.china-consulate.gov.cn/wjbfy/202601/t20260105_11806730.htm","https://new.qq.com/rain/a/20260106A02OTI00"],"created":1794626906,"id":"chatcmpl-01388858-fecf-4885-948a-7555ac19337d","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"。今天是"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://montreal.china-consulate.gov.cn/wjbfy/202601/t20260105_11806730.htm","https://new.qq.com/rain/a/20260106A02OTI00"],"created":1794626906,"id":"chatcmpl-01388858-fecf-4885-948a-7555ac19337d","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"2026-"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://montreal.china-consulate.gov.cn/wjbfy/202601/t20260105_11806730.htm","https://new.qq.com/rain/a/20260106A02OTI00"],"created":1794626906,"id":"chatcmpl-01388858-fecf-4885-948a-7555ac19337d","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"11-14。用户问"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://montreal.china-consulate.gov.cn/wjbfy/202601/t20260105_11806730.htm","https://new.qq.com/rain/a/20260106A02OTI00"],"created":1794626906,"id":"chatcmpl-01388858-fecf-4885-948a-7555ac19337d","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"202"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://montreal.china-consulate.gov.cn/wjbfy/202601/t20260105_11806730.htm","https://new.qq.com/rain/a/20260106A02OTI00"],"created":1794626906,"id":"chatcmpl-01388858-fecf-4885-948a-7555ac19337d","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"6年1月4日"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://montreal.china-consulate.gov.cn/wjbfy/202601/t20260105_11806730.htm","https://new.qq.com/rain/a/20260106A02OTI00"],"created":1794626906,"id":"chatcmpl-01388858-fecf-4885-948a-7555ac19337d","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"。搜索结果没有日期"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://montreal.china-consulate.gov.cn/wjbfy/202601/t20260105_11806730.htm","https://new.qq.com/rain/a/20260106A02OTI00"],"created":1794626906,"id":"chatcmpl-01388858-fecf-4885-948a-7555ac19337d","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"信息。需要判断：这些"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://montreal.china-consulate.gov.cn/wjbfy/202601/t20260105_11806730.htm","https://new.qq.com/rain/a/20260106A02OTI00"],"created":1794626906,"id":"chatcmpl-01388858-fecf-4885-948a-7555ac19337d","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"网页可能是"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://montreal.china-consulate.gov.cn/wjbfy/202601/t20260105_11806730.htm","https://new.qq.com/rain/a/20260106A02OTI00"],"created":1794626906,"id":"chatcmpl-01388858-fecf-4885-948a-7555ac19337d","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"2026年1月的"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://montreal.china-consulate.gov.cn/wjbfy/202601/t20260105_11806730.htm","https://new.qq.com/rain/a/20260106A02OTI00"],"created":1794626906,"id":"chatcmpl-01388858-fecf-4885-948a-7555ac19337d","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"记者"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://montreal.china-consulate.gov.cn/wjbfy/202601/t20260105_11806730.htm","https://new.qq.com/rain/a/20260106A02OTI00"],"created":1794626906,"id":"chatcmpl-01388858-fecf-4885-948a-7555ac19337d","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"会。但无法"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://montreal.china-consulate.gov.cn/wjbfy/202601/t20260105_11806730.htm","https://new.qq.com/rain/a/20260106A02OTI00"],"created":1794626906,"id":"chatcmpl-01388858-fecf-4885-948a-7555ac19337d","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"确认具体"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://montreal.china-consulate.gov.cn/wjbfy/202601/t20260105_11806730.htm","https://new.qq.com/rain/a/20260106A02OTI00"],"created":1794626906,"id":"chatcmpl-01388858-fecf-4885-948a-7555ac19337d","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"日期。\n\n我要基于"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://montreal.china-consulate.gov.cn/wjbfy/202601/t20260105_11806730.htm","https://new.qq.com/rain/a/20260106A02OTI00"],"created":1794626906,"id":"chatcmpl-01388858-fecf-4885-948a-7555ac19337d","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"检索资料"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://montreal.china-consulate.gov.cn/wjbfy/202601/t20260105_11806730.htm","https://new.qq.com/rain/a/20260106A02OTI00"],"created":1794626906,"id":"chatcmpl-01388858-fecf-4885-948a-7555ac19337d","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"回答，不能编"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://montreal.china-consulate.gov.cn/wjbfy/202601/t20260105_11806730.htm","https://new.qq.com/rain/a/20260106A02OTI00"],"created":1794626906,"id":"chatcmpl-01388858-fecf-4885-948a-7555ac19337d","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"造。搜索结果提供的"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://montreal.china-consulate.gov.cn/wjbfy/202601/t20260105_11806730.htm","https://new.qq.com/rain/a/20260106A02OTI00"],"created":1794626906,"id":"chatcmpl-01388858-fecf-4885-948a-7555ac19337d","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"核心"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://montreal.china-consulate.gov.cn/wjbfy/202601/t20260105_11806730.htm","https://new.qq.com/rain/a/20260106A02OTI00"],"created":1794626906,"id":"chatcmpl-01388858-fecf-4885-948a-7555ac19337d","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"事实"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://montreal.china-consulate.gov.cn/wjbfy/202601/t20260105_11806730.htm","https://new.qq.com/rain/a/20260106A02OTI00"],"created":1794626906,"id":"chatcmpl-01388858-fecf-4885-948a-7555ac19337d","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"：\n1"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://montreal.china-consulate.gov.cn/wjbfy/202601/t20260105_11806730.htm","https://new.qq.com/rain/a/20260106A02OTI00"],"created":1794626906,"id":"chatcmpl-01388858-fecf-4885-948a-7555ac19337d","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":". 外交部发布"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://montreal.china-consulate.gov.cn/wjbfy/202601/t20260105_11806730.htm","https://new.qq.com/rain/a/20260106A02OTI00"],"created":1794626906,"id":"chatcmpl-01388858-fecf-4885-948a-7555ac19337d","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"答记者问，中方呼吁"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://montreal.china-consulate.gov.cn/wjbfy/202601/t20260105_11806730.htm","https://new.qq.com/rain/a/20260106A02OTI00"],"created":1794626906,"id":"chatcmpl-01388858-fecf-4885-948a-7555ac19337d","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"美方确保马杜罗"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://montreal.china-consulate.gov.cn/wjbfy/202601/t20260105_11806730.htm","https://new.qq.com/rain/a/20260106A02OTI00"],"created":1794626906,"id":"chatcmpl-01388858-fecf-4885-948a-7555ac19337d","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"总统夫妇人身"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://montreal.china-consulate.gov.cn/wjbfy/202601/t20260105_11806730.htm","https://new.qq.com/rain/a/20260106A02OTI00"],"created":1794626906,"id":"chatcmpl-01388858-fecf-4885-948a-7555ac19337d","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"安全，立即释放马杜"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://montreal.china-consulate.gov.cn/wjbfy/202601/t20260105_11806730.htm","https://new.qq.com/rain/a/20260106A02OTI00"],"created":1794626906,"id":"chatcmpl-01388858-fecf-4885-948a-7555ac19337d","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"罗总统和夫人（这是"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://montreal.china-consulate.gov.cn/wjbfy/202601/t20260105_11806730.htm","https://new.qq.com/rain/a/20260106A02OTI00"],"created":1794626906,"id":"chatcmpl-01388858-fecf-4885-948a-7555ac19337d","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"记者引"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://montreal.china-consulate.gov.cn/wjbfy/202601/t20260105_11806730.htm","https://new.qq.com/rain/a/20260106A02OTI00"],"created":1794626906,"id":"chatcmpl-01388858-fecf-4885-948a-7555ac19337d","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"述的内容"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://montreal.china-consulate.gov.cn/wjbfy/202601/t20260105_11806730.htm","https://new.qq.com/rain/a/20260106A02OTI00"],"created":1794626906,"id":"chatcmpl-01388858-fecf-4885-948a-7555ac19337d","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"）"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://montreal.china-consulate.gov.cn/wjbfy/202601/t20260105_11806730.htm","https://new.qq.com/rain/a/20260106A02OTI00"],"created":1794626906,"id":"chatcmpl-01388858-fecf-4885-948a-7555ac19337d","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"[1][4"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://montreal.china-consulate.gov.cn/wjbfy/202601/t20260105_11806730.htm","https://new.qq.com/rain/a/20260106A02OTI00"],"created":1794626906,"id":"chatcmpl-01388858-fecf-4885-948a-7555ac19337d","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"]\n2. 林"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://montreal.china-consulate.gov.cn/wjbfy/202601/t20260105_11806730.htm","https://new.qq.com/rain/a/20260106A02OTI00"],"created":1794626906,"id":"chatcmpl-01388858-fecf-4885-948a-7555ac19337d","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"剑"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://montreal.china-consulate.gov.cn/wjbfy/202601/t20260105_11806730.htm","https://new.qq.com/rain/a/20260106A02OTI00"],"created":1794626906,"id":"chatcmpl-01388858-fecf-4885-948a-7555ac19337d","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"回应：中方"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://montreal.china-consulate.gov.cn/wjbfy/202601/t20260105_11806730.htm","https://new.qq.com/rain/a/20260106A02OTI00"],"created":1794626906,"id":"chatcmpl-01388858-fecf-4885-948a-7555ac19337d","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"已就美国"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://montreal.china-consulate.gov.cn/wjbfy/202601/t20260105_11806730.htm","https://new.qq.com/rain/a/20260106A02OTI00"],"created":1794626906,"id":"chatcmpl-01388858-fecf-4885-948a-7555ac19337d","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"强行控制委"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://montreal.china-consulate.gov.cn/wjbfy/202601/t20260105_11806730.htm","https://new.qq.com/rain/a/20260106A02OTI00"],"created":1794626906,"id":"chatcmpl-01388858-fecf-4885-948a-7555ac19337d","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"内瑞拉总统马杜"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://montreal.china-consulate.gov.cn/wjbfy/202601/t20260105_11806730.htm","https://new.qq.com/rain/a/20260106A02OTI00"],"created":1794626906,"id":"chatcmpl-01388858-fecf-4885-948a-7555ac19337d","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"罗夫妇表明了"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://montreal.china-consulate.gov.cn/wjbfy/202601/t20260105_11806730.htm","https://new.qq.com/rain/a/20260106A02OTI00"],"created":1794626906,"id":"chatcmpl-01388858-fecf-4885-948a-7555ac19337d","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"立场 ["},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://montreal.china-consulate.gov.cn/wjbfy/202601/t20260105_11806730.htm","https://new.qq.com/rain/a/20260106A02OTI00"],"created":1794626906,"id":"chatcmpl-01388858-fecf-4885-948a-7555ac19337d","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"1][4]\n"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://montreal.china-consulate.gov.cn/wjbfy/202601/t20260105_11806730.htm","https://new.qq.com/rain/a/20260106A02OTI00"],"created":1794626906,"id":"chatcmpl-01388858-fecf-4885-948a-7555ac19337d","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"3. 记者"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://montreal.china-consulate.gov.cn/wjbfy/202601/t20260105_11806730.htm","https://new.qq.com/rain/a/20260106A02OTI00"],"created":1794626906,"id":"chatcmpl-01388858-fecf-4885-948a-7555ac19337d","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"问中美是否"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://montreal.china-consulate.gov.cn/wjbfy/202601/t20260105_11806730.htm","https://new.qq.com/rain/a/20260106A02OTI00"],"created":1794626906,"id":"chatcmpl-01388858-fecf-4885-948a-7555ac19337d","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"就"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://montreal.china-consulate.gov.cn/wjbfy/202601/t20260105_11806730.htm","https://new.qq.com/rain/a/20260106A02OTI00"],"created":1794626906,"id":"chatcmpl-01388858-fecf-4885-948a-7555ac19337d","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"此事沟通"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://montreal.china-consulate.gov.cn/wjbfy/202601/t20260105_11806730.htm","https://new.qq.com/rain/a/20260106A02OTI00"],"created":1794626906,"id":"chatcmpl-01388858-fecf-4885-948a-7555ac19337d","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"，"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://montreal.china-consulate.gov.cn/wjbfy/202601/t20260105_11806730.htm","https://new.qq.com/rain/a/20260106A02OTI00"],"created":1794626906,"id":"chatcmpl-01388858-fecf-4885-948a-7555ac19337d","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"林剑未直接"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://montreal.china-consulate.gov.cn/wjbfy/202601/t20260105_11806730.htm","https://new.qq.com/rain/a/20260106A02OTI00"],"created":1794626906,"id":"chatcmpl-01388858-fecf-4885-948a-7555ac19337d","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"回答"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://montreal.china-consulate.gov.cn/wjbfy/202601/t20260105_11806730.htm","https://new.qq.com/rain/a/20260106A02OTI00"],"created":1794626906,"id":"chatcmpl-01388858-fecf-4885-948a-7555ac19337d","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"是否会沟通"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://montreal.china-consulate.gov.cn/wjbfy/202601/t20260105_11806730.htm","https://new.qq.com/rain/a/20260106A02OTI00"],"created":1794626906,"id":"chatcmpl-01388858-fecf-4885-948a-7555ac19337d","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"，只重复"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://montreal.china-consulate.gov.cn/wjbfy/202601/t20260105_11806730.htm","https://new.qq.com/rain/a/20260106A02OTI00"],"created":1794626906,"id":"chatcmpl-01388858-fecf-4885-948a-7555ac19337d","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"立场 ["},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://montreal.china-consulate.gov.cn/wjbfy/202601/t20260105_11806730.htm","https://new.qq.com/rain/a/20260106A02OTI00"],"created":1794626906,"id":"chatcmpl-01388858-fecf-4885-948a-7555ac19337d","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"1][4]\n\n但用户"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://montreal.china-consulate.gov.cn/wjbfy/202601/t20260105_11806730.htm","https://new.qq.com/rain/a/20260106A02OTI00"],"created":1794626906,"id":"chatcmpl-01388858-fecf-4885-948a-7555ac19337d","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"问的是\""},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://montreal.china-consulate.gov.cn/wjbfy/202601/t20260105_11806730.htm","https://new.qq.com/rain/a/20260106A02OTI00"],"created":1794626906,"id":"chatcmpl-01388858-fecf-4885-948a-7555ac19337d","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"2026年1月4"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://montreal.china-consulate.gov.cn/wjbfy/202601/t20260105_11806730.htm","https://new.qq.com/rain/a/20260106A02OTI00"],"created":1794626906,"id":"chatcmpl-01388858-fecf-4885-948a-7555ac19337d","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"日\"。"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://montreal.china-consulate.gov.cn/wjbfy/202601/t20260105_11806730.htm","https://new.qq.com/rain/a/20260106A02OTI00"],"created":1794626906,"id":"chatcmpl-01388858-fecf-4885-948a-7555ac19337d","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"搜索结果没有标注"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://montreal.china-consulate.gov.cn/wjbfy/202601/t20260105_11806730.htm","https://new.qq.com/rain/a/20260106A02OTI00"],"created":1794626906,"id":"chatcmpl-01388858-fecf-4885-948a-7555ac19337d","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"日期。需要说明检索"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://montreal.china-consulate.gov.cn/wjbfy/202601/t20260105_11806730.htm","https://new.qq.com/rain/a/20260106A02OTI00"],"created":1794626906,"id":"chatcmpl-01388858-fecf-4885-948a-7555ac19337d","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"结果未明确"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://montreal.china-consulate.gov.cn/wjbfy/202601/t20260105_11806730.htm","https://new.qq.com/rain/a/20260106A02OTI00"],"created":1794626906,"id":"chatcmpl-01388858-fecf-4885-948a-7555ac19337d","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"标注发布日期"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://montreal.china-consulate.gov.cn/wjbfy/202601/t20260105_11806730.htm","https://new.qq.com/rain/a/20260106A02OTI00"],"created":1794626906,"id":"chatcmpl-01388858-fecf-4885-948a-7555ac19337d","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"，无法确认是否为"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://montreal.china-consulate.gov.cn/wjbfy/202601/t20260105_11806730.htm","https://new.qq.com/rain/a/20260106A02OTI00"],"created":1794626906,"id":"chatcmpl-01388858-fecf-4885-948a-7555ac19337d","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"1月4日。不过"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://montreal.china-consulate.gov.cn/wjbfy/202601/t20260105_11806730.htm","https://new.qq.com/rain/a/20260106A02OTI00"],"created":1794626906,"id":"chatcmpl-01388858-fecf-4885-948a-7555ac19337d","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"我可以按资料"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://montreal.china-consulate.gov.cn/wjbfy/202601/t20260105_11806730.htm","https://new.qq.com/rain/a/20260106A02OTI00"],"created":1794626906,"id":"chatcmpl-01388858-fecf-4885-948a-7555ac19337d","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"回答：中方"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://montreal.china-consulate.gov.cn/wjbfy/202601/t20260105_11806730.htm","https://new.qq.com/rain/a/20260106A02OTI00"],"created":1794626906,"id":"chatcmpl-01388858-fecf-4885-948a-7555ac19337d","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"通过"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://montreal.china-consulate.gov.cn/wjbfy/202601/t20260105_11806730.htm","https://new.qq.com/rain/a/20260106A02OTI00"],"created":1794626906,"id":"chatcmpl-01388858-fecf-4885-948a-7555ac19337d","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"外交部"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://montreal.china-consulate.gov.cn/wjbfy/202601/t20260105_11806730.htm","https://new.qq.com/rain/a/20260106A02OTI00"],"created":1794626906,"id":"chatcmpl-01388858-fecf-4885-948a-7555ac19337d","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"答记者问提出"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://montreal.china-consulate.gov.cn/wjbfy/202601/t20260105_11806730.htm","https://new.qq.com/rain/a/20260106A02OTI00"],"created":1794626906,"id":"chatcmpl-01388858-fecf-4885-948a-7555ac19337d","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"要求。\n\n"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://montreal.china-consulate.gov.cn/wjbfy/202601/t20260105_11806730.htm","https://new.qq.com/rain/a/20260106A02OTI00"],"created":1794626906,"id":"chatcmpl-01388858-fecf-4885-948a-7555ac19337d","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"需要"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://montreal.china-consulate.gov.cn/wjbfy/202601/t20260105_11806730.htm","https://new.qq.com/rain/a/20260106A02OTI00"],"created":1794626906,"id":"chatcmpl-01388858-fecf-4885-948a-7555ac19337d","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"谨慎：搜索结果是否"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://montreal.china-consulate.gov.cn/wjbfy/202601/t20260105_11806730.htm","https://new.qq.com/rain/a/20260106A02OTI00"],"created":1794626906,"id":"chatcmpl-01388858-fecf-4885-948a-7555ac19337d","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"真的支持"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://montreal.china-consulate.gov.cn/wjbfy/202601/t20260105_11806730.htm","https://new.qq.com/rain/a/20260106A02OTI00"],"created":1794626906,"id":"chatcmpl-01388858-fecf-4885-948a-7555ac19337d","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"\"2026"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://montreal.china-consulate.gov.cn/wjbfy/202601/t20260105_11806730.htm","https://new.qq.com/rain/a/20260106A02OTI00"],"created":1794626906,"id":"chatcmpl-01388858-fecf-4885-948a-7555ac19337d","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"年1月4日\""},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://montreal.china-consulate.gov.cn/wjbfy/202601/t20260105_11806730.htm","https://new.qq.com/rain/a/20260106A02OTI00"],"created":1794626906,"id":"chatcmpl-01388858-fecf-4885-948a-7555ac19337d","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"？没有"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://montreal.china-consulate.gov.cn/wjbfy/202601/t20260105_11806730.htm","https://new.qq.com/rain/a/20260106A02OTI00"],"created":1794626906,"id":"chatcmpl-01388858-fecf-4885-948a-7555ac19337d","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"。要明确"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://montreal.china-consulate.gov.cn/wjbfy/202601/t20260105_11806730.htm","https://new.qq.com/rain/a/20260106A02OTI00"],"created":1794626906,"id":"chatcmpl-01388858-fecf-4885-948a-7555ac19337d","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"说明资料"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://montreal.china-consulate.gov.cn/wjbfy/202601/t20260105_11806730.htm","https://new.qq.com/rain/a/20260106A02OTI00"],"created":1794626906,"id":"chatcmpl-01388858-fecf-4885-948a-7555ac19337d","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"不足/"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://montreal.china-consulate.gov.cn/wjbfy/202601/t20260105_11806730.htm","https://new.qq.com/rain/a/20260106A02OTI00"],"created":1794626906,"id":"chatcmpl-01388858-fecf-4885-948a-7555ac19337d","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"未确认。\n\n另外，林"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://montreal.china-consulate.gov.cn/wjbfy/202601/t20260105_11806730.htm","https://new.qq.com/rain/a/20260106A02OTI00"],"created":1794626906,"id":"chatcmpl-01388858-fecf-4885-948a-7555ac19337d","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"剑是"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://montreal.china-consulate.gov.cn/wjbfy/202601/t20260105_11806730.htm","https://new.qq.com/rain/a/20260106A02OTI00"],"created":1794626906,"id":"chatcmpl-01388858-fecf-4885-948a-7555ac19337d","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"外交部发言人。"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://montreal.china-consulate.gov.cn/wjbfy/202601/t20260105_11806730.htm","https://new.qq.com/rain/a/20260106A02OTI00"],"created":1794626906,"id":"chatcmpl-01388858-fecf-4885-948a-7555ac19337d","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"答"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://montreal.china-consulate.gov.cn/wjbfy/202601/t20260105_11806730.htm","https://new.qq.com/rain/a/20260106A02OTI00"],"created":1794626906,"id":"chatcmpl-01388858-fecf-4885-948a-7555ac19337d","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"记者问可能是"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://montreal.china-consulate.gov.cn/wjbfy/202601/t20260105_11806730.htm","https://new.qq.com/rain/a/20260106A02OTI00"],"created":1794626906,"id":"chatcmpl-01388858-fecf-4885-948a-7555ac19337d","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"外交部网站"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://montreal.china-consulate.gov.cn/wjbfy/202601/t20260105_11806730.htm","https://new.qq.com/rain/a/20260106A02OTI00"],"created":1794626906,"id":"chatcmpl-01388858-fecf-4885-948a-7555ac19337d","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"发布的"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://montreal.china-consulate.gov.cn/wjbfy/202601/t20260105_11806730.htm","https://new.qq.com/rain/a/20260106A02OTI00"],"created":1794626906,"id":"chatcmpl-01388858-fecf-4885-948a-7555ac19337d","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"。\n\n回答结构：\n-"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://montreal.china-consulate.gov.cn/wjbfy/202601/t20260105_11806730.htm","https://new.qq.com/rain/a/20260106A02OTI00"],"created":1794626906,"id":"chatcmpl-01388858-fecf-4885-948a-7555ac19337d","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":" 直接回答：根据"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://montreal.china-consulate.gov.cn/wjbfy/202601/t20260105_11806730.htm","https://new.qq.com/rain/a/20260106A02OTI00"],"created":1794626906,"id":"chatcmpl-01388858-fecf-4885-948a-7555ac19337d","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"检索到的外交部"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://montreal.china-consulate.gov.cn/wjbfy/202601/t20260105_11806730.htm","https://new.qq.com/rain/a/20260106A02OTI00"],"created":1794626906,"id":"chatcmpl-01388858-fecf-4885-948a-7555ac19337d","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"答记者问"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://montreal.china-consulate.gov.cn/wjbfy/202601/t20260105_11806730.htm","https://new.qq.com/rain/a/20260106A02OTI00"],"created":1794626906,"id":"chatcmpl-01388858-fecf-4885-948a-7555ac19337d","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"及记者会"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://montreal.china-consulate.gov.cn/wjbfy/202601/t20260105_11806730.htm","https://new.qq.com/rain/a/20260106A02OTI00"],"created":1794626906,"id":"chatcmpl-01388858-fecf-4885-948a-7555ac19337d","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"实录"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://montreal.china-consulate.gov.cn/wjbfy/202601/t20260105_11806730.htm","https://new.qq.com/rain/a/20260106A02OTI00"],"created":1794626906,"id":"chatcmpl-01388858-fecf-4885-948a-7555ac19337d","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"，中方呼吁"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://montreal.china-consulate.gov.cn/wjbfy/202601/t20260105_11806730.htm","https://new.qq.com/rain/a/20260106A02OTI00"],"created":1794626906,"id":"chatcmpl-01388858-fecf-4885-948a-7555ac19337d","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"美方确保"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://montreal.china-consulate.gov.cn/wjbfy/202601/t20260105_11806730.htm","https://new.qq.com/rain/a/20260106A02OTI00"],"created":1794626906,"id":"chatcmpl-01388858-fecf-4885-948a-7555ac19337d","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"马"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://montreal.china-consulate.gov.cn/wjbfy/202601/t20260105_11806730.htm","https://new.qq.com/rain/a/20260106A02OTI00"],"created":1794626906,"id":"chatcmpl-01388858-fecf-4885-948a-7555ac19337d","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"杜罗总统夫妇"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://montreal.china-consulate.gov.cn/wjbfy/202601/t20260105_11806730.htm","https://new.qq.com/rain/a/20260106A02OTI00"],"created":1794626906,"id":"chatcmpl-01388858-fecf-4885-948a-7555ac19337d","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"人身安全，立即释放"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://montreal.china-consulate.gov.cn/wjbfy/202601/t20260105_11806730.htm","https://new.qq.com/rain/a/20260106A02OTI00"],"created":1794626906,"id":"chatcmpl-01388858-fecf-4885-948a-7555ac19337d","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"马杜罗总统和夫人"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://montreal.china-consulate.gov.cn/wjbfy/202601/t20260105_11806730.htm","https://new.qq.com/rain/a/20260106A02OTI00"],"created":1794626906,"id":"chatcmpl-01388858-fecf-4885-948a-7555ac19337d","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"；"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://montreal.china-consulate.gov.cn/wjbfy/202601/t20260105_11806730.htm","https://new.qq.com/rain/a/20260106A02OTI00"],"created":1794626906,"id":"chatcmpl-01388858-fecf-4885-948a-7555ac19337d","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"林"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://montreal.china-consulate.gov.cn/wjbfy/202601/t20260105_11806730.htm","https://new.qq.com/rain/a/20260106A02OTI00"],"created":1794626906,"id":"chatcmpl-01388858-fecf-4885-948a-7555ac19337d","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"剑表示中方"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://montreal.china-consulate.gov.cn/wjbfy/202601/t20260105_11806730.htm","https://new.qq.com/rain/a/20260106A02OTI00"],"created":1794626906,"id":"chatcmpl-01388858-fecf-4885-948a-7555ac19337d","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"已就美国"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://montreal.china-consulate.gov.cn/wjbfy/202601/t20260105_11806730.htm","https://new.qq.com/rain/a/20260106A02OTI00"],"created":1794626906,"id":"chatcmpl-01388858-fecf-4885-948a-7555ac19337d","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"强行控制马"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://montreal.china-consulate.gov.cn/wjbfy/202601/t20260105_11806730.htm","https://new.qq.com/rain/a/20260106A02OTI00"],"created":1794626906,"id":"chatcmpl-01388858-fecf-4885-948a-7555ac19337d","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"杜罗夫妇表明立场"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://montreal.china-consulate.gov.cn/wjbfy/202601/t20260105_11806730.htm","https://new.qq.com/rain/a/20260106A02OTI00"],"created":1794626906,"id":"chatcmpl-01388858-fecf-4885-948a-7555ac19337d","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"。["},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://montreal.china-consulate.gov.cn/wjbfy/202601/t20260105_11806730.htm","https://new.qq.com/rain/a/20260106A02OTI00"],"created":1794626906,"id":"chatcmpl-01388858-fecf-4885-948a-7555ac19337d","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"1][4"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://montreal.china-consulate.gov.cn/wjbfy/202601/t20260105_11806730.htm","https://new.qq.com/rain/a/20260106A02OTI00"],"created":1794626906,"id":"chatcmpl-01388858-fecf-4885-948a-7555ac19337d","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"]\n- 说明：检索"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://montreal.china-consulate.gov.cn/wjbfy/202601/t20260105_11806730.htm","https://new.qq.com/rain/a/20260106A02OTI00"],"created":1794626906,"id":"chatcmpl-01388858-fecf-4885-948a-7555ac19337d","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"材料"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://montreal.china-consulate.gov.cn/wjbfy/202601/t20260105_11806730.htm","https://new.qq.com/rain/a/20260106A02OTI00"],"created":1794626906,"id":"chatcmpl-01388858-fecf-4885-948a-7555ac19337d","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"未"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://montreal.china-consulate.gov.cn/wjbfy/202601/t20260105_11806730.htm","https://new.qq.com/rain/a/20260106A02OTI00"],"created":1794626906,"id":"chatcmpl-01388858-fecf-4885-948a-7555ac19337d","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"标注具体发布日期"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://montreal.china-consulate.gov.cn/wjbfy/202601/t20260105_11806730.htm","https://new.qq.com/rain/a/20260106A02OTI00"],"created":1794626906,"id":"chatcmpl-01388858-fecf-4885-948a-7555ac19337d","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"，无法核实"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://montreal.china-consulate.gov.cn/wjbfy/202601/t20260105_11806730.htm","https://new.qq.com/rain/a/20260106A02OTI00"],"created":1794626906,"id":"chatcmpl-01388858-fecf-4885-948a-7555ac19337d","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"是否就是"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://montreal.china-consulate.gov.cn/wjbfy/202601/t20260105_11806730.htm","https://new.qq.com/rain/a/20260106A02OTI00"],"created":1794626906,"id":"chatcmpl-01388858-fecf-4885-948a-7555ac19337d","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"2026年1月4"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://montreal.china-consulate.gov.cn/wjbfy/202601/t20260105_11806730.htm","https://new.qq.com/rain/a/20260106A02OTI00"],"created":1794626906,"id":"chatcmpl-01388858-fecf-4885-948a-7555ac19337d","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"日；记者会"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://montreal.china-consulate.gov.cn/wjbfy/202601/t20260105_11806730.htm","https://new.qq.com/rain/a/20260106A02OTI00"],"created":1794626906,"id":"chatcmpl-01388858-fecf-4885-948a-7555ac19337d","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"实录"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://montreal.china-consulate.gov.cn/wjbfy/202601/t20260105_11806730.htm","https://new.qq.com/rain/a/20260106A02OTI00"],"created":1794626906,"id":"chatcmpl-01388858-fecf-4885-948a-7555ac19337d","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"中记者"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://montreal.china-consulate.gov.cn/wjbfy/202601/t20260105_11806730.htm","https://new.qq.com/rain/a/20260106A02OTI00"],"created":1794626906,"id":"chatcmpl-01388858-fecf-4885-948a-7555ac19337d","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"提到"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://montreal.china-consulate.gov.cn/wjbfy/202601/t20260105_11806730.htm","https://new.qq.com/rain/a/20260106A02OTI00"],"created":1794626906,"id":"chatcmpl-01388858-fecf-4885-948a-7555ac19337d","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"\"外交部昨天"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://montreal.china-consulate.gov.cn/wjbfy/202601/t20260105_11806730.htm","https://new.qq.com/rain/a/20260106A02OTI00"],"created":1794626906,"id":"chatcmpl-01388858-fecf-4885-948a-7555ac19337d","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"发布答"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://montreal.china-consulate.gov.cn/wjbfy/202601/t20260105_11806730.htm","https://new.qq.com/rain/a/20260106A02OTI00"],"created":1794626906,"id":"chatcmpl-01388858-fecf-4885-948a-7555ac19337d","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"记者问\""},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://montreal.china-consulate.gov.cn/wjbfy/202601/t20260105_11806730.htm","https://new.qq.com/rain/a/20260106A02OTI00"],"created":1794626906,"id":"chatcmpl-01388858-fecf-4885-948a-7555ac19337d","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"。\n- 关于中美沟通"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://montreal.china-consulate.gov.cn/wjbfy/202601/t20260105_11806730.htm","https://new.qq.com/rain/a/20260106A02OTI00"],"created":1794626906,"id":"chatcmpl-01388858-fecf-4885-948a-7555ac19337d","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"：记者"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://montreal.china-consulate.gov.cn/wjbfy/202601/t20260105_11806730.htm","https://new.qq.com/rain/a/20260106A02OTI00"],"created":1794626906,"id":"chatcmpl-01388858-fecf-4885-948a-7555ac19337d","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"问"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://montreal.china-consulate.gov.cn/wjbfy/202601/t20260105_11806730.htm","https://new.qq.com/rain/a/20260106A02OTI00"],"created":1794626906,"id":"chatcmpl-01388858-fecf-4885-948a-7555ac19337d","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"是否或将"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://montreal.china-consulate.gov.cn/wjbfy/202601/t20260105_11806730.htm","https://new.qq.com/rain/a/20260106A02OTI00"],"created":1794626906,"id":"chatcmpl-01388858-fecf-4885-948a-7555ac19337d","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"沟通"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://montreal.china-consulate.gov.cn/wjbfy/202601/t20260105_11806730.htm","https://new.qq.com/rain/a/20260106A02OTI00"],"created":1794626906,"id":"chatcmpl-01388858-fecf-4885-948a-7555ac19337d","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"，林剑"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://montreal.china-consulate.gov.cn/wjbfy/202601/t20260105_11806730.htm","https://new.qq.com/rain/a/20260106A02OTI00"],"created":1794626906,"id":"chatcmpl-01388858-fecf-4885-948a-7555ac19337d","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"未直接确认"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://montreal.china-consulate.gov.cn/wjbfy/202601/t20260105_11806730.htm","https://new.qq.com/rain/a/20260106A02OTI00"],"created":1794626906,"id":"chatcmpl-01388858-fecf-4885-948a-7555ac19337d","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"，仅重申"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://montreal.china-consulate.gov.cn/wjbfy/202601/t20260105_11806730.htm","https://new.qq.com/rain/a/20260106A02OTI00"],"created":1794626906,"id":"chatcmpl-01388858-fecf-4885-948a-7555ac19337d","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"立场"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://montreal.china-consulate.gov.cn/wjbfy/202601/t20260105_11806730.htm","https://new.qq.com/rain/a/20260106A02OTI00"],"created":1794626906,"id":"chatcmpl-01388858-fecf-4885-948a-7555ac19337d","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"。["},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://montreal.china-consulate.gov.cn/wjbfy/202601/t20260105_11806730.htm","https://new.qq.com/rain/a/20260106A02OTI00"],"created":1794626906,"id":"chatcmpl-01388858-fecf-4885-948a-7555ac19337d","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"1][4]\n- "},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://montreal.china-consulate.gov.cn/wjbfy/202601/t20260105_11806730.htm","https://new.qq.com/rain/a/20260106A02OTI00"],"created":1794626906,"id":"chatcmpl-01388858-fecf-4885-948a-7555ac19337d","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"注意"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://montreal.china-consulate.gov.cn/wjbfy/202601/t20260105_11806730.htm","https://new.qq.com/rain/a/20260106A02OTI00"],"created":1794626906,"id":"chatcmpl-01388858-fecf-4885-948a-7555ac19337d","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"："},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://montreal.china-consulate.gov.cn/wjbfy/202601/t20260105_11806730.htm","https://new.qq.com/rain/a/20260106A02OTI00"],"created":1794626906,"id":"chatcmpl-01388858-fecf-4885-948a-7555ac19337d","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"这些"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://montreal.china-consulate.gov.cn/wjbfy/202601/t20260105_11806730.htm","https://new.qq.com/rain/a/20260106A02OTI00"],"created":1794626906,"id":"chatcmpl-01388858-fecf-4885-948a-7555ac19337d","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"是检索"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://montreal.china-consulate.gov.cn/wjbfy/202601/t20260105_11806730.htm","https://new.qq.com/rain/a/20260106A02OTI00"],"created":1794626906,"id":"chatcmpl-01388858-fecf-4885-948a-7555ac19337d","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"材料"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://montreal.china-consulate.gov.cn/wjbfy/202601/t20260105_11806730.htm","https://new.qq.com/rain/a/20260106A02OTI00"],"created":1794626906,"id":"chatcmpl-01388858-fecf-4885-948a-7555ac19337d","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"提供的表述，具体"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://montreal.china-consulate.gov.cn/wjbfy/202601/t20260105_11806730.htm","https://new.qq.com/rain/a/20260106A02OTI00"],"created":1794626906,"id":"chatcmpl-01388858-fecf-4885-948a-7555ac19337d","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"完整"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://montreal.china-consulate.gov.cn/wjbfy/202601/t20260105_11806730.htm","https://new.qq.com/rain/a/20260106A02OTI00"],"created":1794626906,"id":"chatcmpl-01388858-fecf-4885-948a-7555ac19337d","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"答"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://montreal.china-consulate.gov.cn/wjbfy/202601/t20260105_11806730.htm","https://new.qq.com/rain/a/20260106A02OTI00"],"created":1794626906,"id":"chatcmpl-01388858-fecf-4885-948a-7555ac19337d","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"记者问内容"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://montreal.china-consulate.gov.cn/wjbfy/202601/t20260105_11806730.htm","https://new.qq.com/rain/a/20260106A02OTI00"],"created":1794626906,"id":"chatcmpl-01388858-fecf-4885-948a-7555ac19337d","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"需查阅外交部"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://montreal.china-consulate.gov.cn/wjbfy/202601/t20260105_11806730.htm","https://new.qq.com/rain/a/20260106A02OTI00"],"created":1794626906,"id":"chatcmpl-01388858-fecf-4885-948a-7555ac19337d","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"官网。\n\n"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://montreal.china-consulate.gov.cn/wjbfy/202601/t20260105_11806730.htm","https://new.qq.com/rain/a/20260106A02OTI00"],"created":1794626906,"id":"chatcmpl-01388858-fecf-4885-948a-7555ac19337d","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"要引用"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://montreal.china-consulate.gov.cn/wjbfy/202601/t20260105_11806730.htm","https://new.qq.com/rain/a/20260106A02OTI00"],"created":1794626906,"id":"chatcmpl-01388858-fecf-4885-948a-7555ac19337d","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"格式"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://montreal.china-consulate.gov.cn/wjbfy/202601/t20260105_11806730.htm","https://new.qq.com/rain/a/20260106A02OTI00"],"created":1794626906,"id":"chatcmpl-01388858-fecf-4885-948a-7555ac19337d","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"["},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://montreal.china-consulate.gov.cn/wjbfy/202601/t20260105_11806730.htm","https://new.qq.com/rain/a/20260106A02OTI00"],"created":1794626906,"id":"chatcmpl-01388858-fecf-4885-948a-7555ac19337d","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"1][4"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://montreal.china-consulate.gov.cn/wjbfy/202601/t20260105_11806730.htm","https://new.qq.com/rain/a/20260106A02OTI00"],"created":1794626906,"id":"chatcmpl-01388858-fecf-4885-948a-7555ac19337d","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"]。\n\n语言"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://montreal.china-consulate.gov.cn/wjbfy/202601/t20260105_11806730.htm","https://new.qq.com/rain/a/20260106A02OTI00"],"created":1794626906,"id":"chatcmpl-01388858-fecf-4885-948a-7555ac19337d","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"自然"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://montreal.china-consulate.gov.cn/wjbfy/202601/t20260105_11806730.htm","https://new.qq.com/rain/a/20260106A02OTI00"],"created":1794626906,"id":"chatcmpl-01388858-fecf-4885-948a-7555ac19337d","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"中文。"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://montreal.china-consulate.gov.cn/wjbfy/202601/t20260105_11806730.htm","https://new.qq.com/rain/a/20260106A02OTI00"],"created":1794626906,"id":"chatcmpl-01388858-fecf-4885-948a-7555ac19337d","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"不要太长。"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://montreal.china-consulate.gov.cn/wjbfy/202601/t20260105_11806730.htm","https://new.qq.com/rain/a/20260106A02OTI00"],"created":1794626906,"id":"chatcmpl-01388858-fecf-4885-948a-7555ac19337d","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"根据"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://montreal.china-consulate.gov.cn/wjbfy/202601/t20260105_11806730.htm","https://new.qq.com/rain/a/20260106A02OTI00"],"created":1794626906,"id":"chatcmpl-01388858-fecf-4885-948a-7555ac19337d","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"检索到的外交部答"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://montreal.china-consulate.gov.cn/wjbfy/202601/t20260105_11806730.htm","https://new.qq.com/rain/a/20260106A02OTI00"],"created":1794626906,"id":"chatcmpl-01388858-fecf-4885-948a-7555ac19337d","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"记者问和"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://montreal.china-consulate.gov.cn/wjbfy/202601/t20260105_11806730.htm","https://new.qq.com/rain/a/20260106A02OTI00"],"created":1794626906,"id":"chatcmpl-01388858-fecf-4885-948a-7555ac19337d","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"记者会实录，中方"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://montreal.china-consulate.gov.cn/wjbfy/202601/t20260105_11806730.htm","https://new.qq.com/rain/a/20260106A02OTI00"],"created":1794626906,"id":"chatcmpl-01388858-fecf-4885-948a-7555ac19337d","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"就"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://montreal.china-consulate.gov.cn/wjbfy/202601/t20260105_11806730.htm","https://new.qq.com/rain/a/20260106A02OTI00"],"created":1794626906,"id":"chatcmpl-01388858-fecf-4885-948a-7555ac19337d","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"马"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://montreal.china-consulate.gov.cn/wjbfy/202601/t20260105_11806730.htm","https://new.qq.com/rain/a/20260106A02OTI00"],"created":1794626906,"id":"chatcmpl-01388858-fecf-4885-948a-7555ac19337d","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"杜罗夫妇被美"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://montreal.china-consulate.gov.cn/wjbfy/202601/t20260105_11806730.htm","https://new.qq.com/rain/a/20260106A02OTI00"],"created":1794626906,"id":"chatcmpl-01388858-fecf-4885-948a-7555ac19337d","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"方带走一事"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://montreal.china-consulate.gov.cn/wjbfy/202601/t20260105_11806730.htm","https://new.qq.com/rain/a/20260106A02OTI00"],"created":1794626906,"id":"chatcmpl-01388858-fecf-4885-948a-7555ac19337d","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"提出的"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://montreal.china-consulate.gov.cn/wjbfy/202601/t20260105_11806730.htm","https://new.qq.com/rain/a/20260106A02OTI00"],"created":1794626906,"id":"chatcmpl-01388858-fecf-4885-948a-7555ac19337d","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"核心"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://montreal.china-consulate.gov.cn/wjbfy/202601/t20260105_11806730.htm","https://new.qq.com/rain/a/20260106A02OTI00"],"created":1794626906,"id":"chatcmpl-01388858-fecf-4885-948a-7555ac19337d","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"要求是：**呼吁"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://montreal.china-consulate.gov.cn/wjbfy/202601/t20260105_11806730.htm","https://new.qq.com/rain/a/20260106A02OTI00"],"created":1794626906,"id":"chatcmpl-01388858-fecf-4885-948a-7555ac19337d","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"美方确保马"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://montreal.china-consulate.gov.cn/wjbfy/202601/t20260105_11806730.htm","https://new.qq.com/rain/a/20260106A02OTI00"],"created":1794626906,"id":"chatcmpl-01388858-fecf-4885-948a-7555ac19337d","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"杜罗总统"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://montreal.china-consulate.gov.cn/wjbfy/202601/t20260105_11806730.htm","https://new.qq.com/rain/a/20260106A02OTI00"],"created":1794626906,"id":"chatcmpl-01388858-fecf-4885-948a-7555ac19337d","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"夫妇人身"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://montreal.china-consulate.gov.cn/wjbfy/202601/t20260105_11806730.htm","https://new.qq.com/rain/a/20260106A02OTI00"],"created":1794626906,"id":"chatcmpl-01388858-fecf-4885-948a-7555ac19337d","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"安全，立即释放"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://montreal.china-consulate.gov.cn/wjbfy/202601/t20260105_11806730.htm","https://new.qq.com/rain/a/20260106A02OTI00"],"created":1794626906,"id":"chatcmpl-01388858-fecf-4885-948a-7555ac19337d","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"马杜罗总统和夫人"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://montreal.china-consulate.gov.cn/wjbfy/202601/t20260105_11806730.htm","https://new.qq.com/rain/a/20260106A02OTI00"],"created":1794626906,"id":"chatcmpl-01388858-fecf-4885-948a-7555ac19337d","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"**。外交部"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://montreal.china-consulate.gov.cn/wjbfy/202601/t20260105_11806730.htm","https://new.qq.com/rain/a/20260106A02OTI00"],"created":1794626906,"id":"chatcmpl-01388858-fecf-4885-948a-7555ac19337d","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"发言人林剑在"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://montreal.china-consulate.gov.cn/wjbfy/202601/t20260105_11806730.htm","https://new.qq.com/rain/a/20260106A02OTI00"],"created":1794626906,"id":"chatcmpl-01388858-fecf-4885-948a-7555ac19337d","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"回应"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://montreal.china-consulate.gov.cn/wjbfy/202601/t20260105_11806730.htm","https://new.qq.com/rain/a/20260106A02OTI00"],"created":1794626906,"id":"chatcmpl-01388858-fecf-4885-948a-7555ac19337d","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"中表示"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://montreal.china-consulate.gov.cn/wjbfy/202601/t20260105_11806730.htm","https://new.qq.com/rain/a/20260106A02OTI00"],"created":1794626906,"id":"chatcmpl-01388858-fecf-4885-948a-7555ac19337d","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"，中方已就"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://montreal.china-consulate.gov.cn/wjbfy/202601/t20260105_11806730.htm","https://new.qq.com/rain/a/20260106A02OTI00"],"created":1794626906,"id":"chatcmpl-01388858-fecf-4885-948a-7555ac19337d","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"美国强行控制"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://montreal.china-consulate.gov.cn/wjbfy/202601/t20260105_11806730.htm","https://new.qq.com/rain/a/20260106A02OTI00"],"created":1794626906,"id":"chatcmpl-01388858-fecf-4885-948a-7555ac19337d","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"委内"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://montreal.china-consulate.gov.cn/wjbfy/202601/t20260105_11806730.htm","https://new.qq.com/rain/a/20260106A02OTI00"],"created":1794626906,"id":"chatcmpl-01388858-fecf-4885-948a-7555ac19337d","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"瑞拉总统马杜罗"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://montreal.china-consulate.gov.cn/wjbfy/202601/t20260105_11806730.htm","https://new.qq.com/rain/a/20260106A02OTI00"],"created":1794626906,"id":"chatcmpl-01388858-fecf-4885-948a-7555ac19337d","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"夫妇表明了"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://montreal.china-consulate.gov.cn/wjbfy/202601/t20260105_11806730.htm","https://new.qq.com/rain/a/20260106A02OTI00"],"created":1794626906,"id":"chatcmpl-01388858-fecf-4885-948a-7555ac19337d","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"立场[c"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://montreal.china-consulate.gov.cn/wjbfy/202601/t20260105_11806730.htm","https://new.qq.com/rain/a/20260106A02OTI00"],"created":1794626906,"id":"chatcmpl-01388858-fecf-4885-948a-7555ac19337d","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"itation"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://montreal.china-consulate.gov.cn/wjbfy/202601/t20260105_11806730.htm","https://new.qq.com/rain/a/20260106A02OTI00"],"created":1794626906,"id":"chatcmpl-01388858-fecf-4885-948a-7555ac19337d","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":":1][citation:4"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://montreal.china-consulate.gov.cn/wjbfy/202601/t20260105_11806730.htm","https://new.qq.com/rain/a/20260106A02OTI00"],"created":1794626906,"id":"chatcmpl-01388858-fecf-4885-948a-7555ac19337d","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"]。\n\n补充"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://montreal.china-consulate.gov.cn/wjbfy/202601/t20260105_11806730.htm","https://new.qq.com/rain/a/20260106A02OTI00"],"created":1794626906,"id":"chatcmpl-01388858-fecf-4885-948a-7555ac19337d","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"说明：\n\n- 上述"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://montreal.china-consulate.gov.cn/wjbfy/202601/t20260105_11806730.htm","https://new.qq.com/rain/a/20260106A02OTI00"],"created":1794626906,"id":"chatcmpl-01388858-fecf-4885-948a-7555ac19337d","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"“"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://montreal.china-consulate.gov.cn/wjbfy/202601/t20260105_11806730.htm","https://new.qq.com/rain/a/20260106A02OTI00"],"created":1794626906,"id":"chatcmpl-01388858-fecf-4885-948a-7555ac19337d","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"确保"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://montreal.china-consulate.gov.cn/wjbfy/202601/t20260105_11806730.htm","https://new.qq.com/rain/a/20260106A02OTI00"],"created":1794626906,"id":"chatcmpl-01388858-fecf-4885-948a-7555ac19337d","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"人身安全、立即释放”"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://montreal.china-consulate.gov.cn/wjbfy/202601/t20260105_11806730.htm","https://new.qq.com/rain/a/20260106A02OTI00"],"created":1794626906,"id":"chatcmpl-01388858-fecf-4885-948a-7555ac19337d","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"的"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://montreal.china-consulate.gov.cn/wjbfy/202601/t20260105_11806730.htm","https://new.qq.com/rain/a/20260106A02OTI00"],"created":1794626906,"id":"chatcmpl-01388858-fecf-4885-948a-7555ac19337d","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"表述，出现在"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://montreal.china-consulate.gov.cn/wjbfy/202601/t20260105_11806730.htm","https://new.qq.com/rain/a/20260106A02OTI00"],"created":1794626906,"id":"chatcmpl-01388858-fecf-4885-948a-7555ac19337d","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"记者会提问"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://montreal.china-consulate.gov.cn/wjbfy/202601/t20260105_11806730.htm","https://new.qq.com/rain/a/20260106A02OTI00"],"created":1794626906,"id":"chatcmpl-01388858-fecf-4885-948a-7555ac19337d","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"所"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://montreal.china-consulate.gov.cn/wjbfy/202601/t20260105_11806730.htm","https://new.qq.com/rain/a/20260106A02OTI00"],"created":1794626906,"id":"chatcmpl-01388858-fecf-4885-948a-7555ac19337d","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"引述的外交"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://montreal.china-consulate.gov.cn/wjbfy/202601/t20260105_11806730.htm","https://new.qq.com/rain/a/20260106A02OTI00"],"created":1794626906,"id":"chatcmpl-01388858-fecf-4885-948a-7555ac19337d","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"部答记者问中；"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://montreal.china-consulate.gov.cn/wjbfy/202601/t20260105_11806730.htm","https://new.qq.com/rain/a/20260106A02OTI00"],"created":1794626906,"id":"chatcmpl-01388858-fecf-4885-948a-7555ac19337d","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"林剑"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://montreal.china-consulate.gov.cn/wjbfy/202601/t20260105_11806730.htm","https://new.qq.com/rain/a/20260106A02OTI00"],"created":1794626906,"id":"chatcmpl-01388858-fecf-4885-948a-7555ac19337d","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"本人的"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://montreal.china-consulate.gov.cn/wjbfy/202601/t20260105_11806730.htm","https://new.qq.com/rain/a/20260106A02OTI00"],"created":1794626906,"id":"chatcmpl-01388858-fecf-4885-948a-7555ac19337d","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"现场"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://montreal.china-consulate.gov.cn/wjbfy/202601/t20260105_11806730.htm","https://new.qq.com/rain/a/20260106A02OTI00"],"created":1794626906,"id":"chatcmpl-01388858-fecf-4885-948a-7555ac19337d","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"回答"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://montreal.china-consulate.gov.cn/wjbfy/202601/t20260105_11806730.htm","https://new.qq.com/rain/a/20260106A02OTI00"],"created":1794626906,"id":"chatcmpl-01388858-fecf-4885-948a-7555ac19337d","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"较为"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://montreal.china-consulate.gov.cn/wjbfy/202601/t20260105_11806730.htm","https://new.qq.com/rain/a/20260106A02OTI00"],"created":1794626906,"id":"chatcmpl-01388858-fecf-4885-948a-7555ac19337d","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"简短，主要是"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://montreal.china-consulate.gov.cn/wjbfy/202601/t20260105_11806730.htm","https://new.qq.com/rain/a/20260106A02OTI00"],"created":1794626906,"id":"chatcmpl-01388858-fecf-4885-948a-7555ac19337d","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"重申中方已表明"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://montreal.china-consulate.gov.cn/wjbfy/202601/t20260105_11806730.htm","https://new.qq.com/rain/a/20260106A02OTI00"],"created":1794626906,"id":"chatcmpl-01388858-fecf-4885-948a-7555ac19337d","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"立场[citation:1]["},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://montreal.china-consulate.gov.cn/wjbfy/202601/t20260105_11806730.htm","https://new.qq.com/rain/a/20260106A02OTI00"],"created":1794626906,"id":"chatcmpl-01388858-fecf-4885-948a-7555ac19337d","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"citation:4]。\n-"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://montreal.china-consulate.gov.cn/wjbfy/202601/t20260105_11806730.htm","https://new.qq.com/rain/a/20260106A02OTI00"],"created":1794626906,"id":"chatcmpl-01388858-fecf-4885-948a-7555ac19337d","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":" 同一场"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://montreal.china-consulate.gov.cn/wjbfy/202601/t20260105_11806730.htm","https://new.qq.com/rain/a/20260106A02OTI00"],"created":1794626906,"id":"chatcmpl-01388858-fecf-4885-948a-7555ac19337d","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"记者"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://montreal.china-consulate.gov.cn/wjbfy/202601/t20260105_11806730.htm","https://new.qq.com/rain/a/20260106A02OTI00"],"created":1794626906,"id":"chatcmpl-01388858-fecf-4885-948a-7555ac19337d","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"会上，记者还"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://montreal.china-consulate.gov.cn/wjbfy/202601/t20260105_11806730.htm","https://new.qq.com/rain/a/20260106A02OTI00"],"created":1794626906,"id":"chatcmpl-01388858-fecf-4885-948a-7555ac19337d","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"追问"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://montreal.china-consulate.gov.cn/wjbfy/202601/t20260105_11806730.htm","https://new.qq.com/rain/a/20260106A02OTI00"],"created":1794626906,"id":"chatcmpl-01388858-fecf-4885-948a-7555ac19337d","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"中美是否就"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://montreal.china-consulate.gov.cn/wjbfy/202601/t20260105_11806730.htm","https://new.qq.com/rain/a/20260106A02OTI00"],"created":1794626906,"id":"chatcmpl-01388858-fecf-4885-948a-7555ac19337d","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"此事进行"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://montreal.china-consulate.gov.cn/wjbfy/202601/t20260105_11806730.htm","https://new.qq.com/rain/a/20260106A02OTI00"],"created":1794626906,"id":"chatcmpl-01388858-fecf-4885-948a-7555ac19337d","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"或"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://montreal.china-consulate.gov.cn/wjbfy/202601/t20260105_11806730.htm","https://new.qq.com/rain/a/20260106A02OTI00"],"created":1794626906,"id":"chatcmpl-01388858-fecf-4885-948a-7555ac19337d","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"将要进行"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://montreal.china-consulate.gov.cn/wjbfy/202601/t20260105_11806730.htm","https://new.qq.com/rain/a/20260106A02OTI00"],"created":1794626906,"id":"chatcmpl-01388858-fecf-4885-948a-7555ac19337d","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"沟通，"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://montreal.china-consulate.gov.cn/wjbfy/202601/t20260105_11806730.htm","https://new.qq.com/rain/a/20260106A02OTI00"],"created":1794626906,"id":"chatcmpl-01388858-fecf-4885-948a-7555ac19337d","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"林剑没有直接"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://montreal.china-consulate.gov.cn/wjbfy/202601/t20260105_11806730.htm","https://new.qq.com/rain/a/20260106A02OTI00"],"created":1794626906,"id":"chatcmpl-01388858-fecf-4885-948a-7555ac19337d","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"确认沟通"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://montreal.china-consulate.gov.cn/wjbfy/202601/t20260105_11806730.htm","https://new.qq.com/rain/a/20260106A02OTI00"],"created":1794626906,"id":"chatcmpl-01388858-fecf-4885-948a-7555ac19337d","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"安排，仅重复"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://montreal.china-consulate.gov.cn/wjbfy/202601/t20260105_11806730.htm","https://new.qq.com/rain/a/20260106A02OTI00"],"created":1794626906,"id":"chatcmpl-01388858-fecf-4885-948a-7555ac19337d","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"“中方已"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://montreal.china-consulate.gov.cn/wjbfy/202601/t20260105_11806730.htm","https://new.qq.com/rain/a/20260106A02OTI00"],"created":1794626906,"id":"chatcmpl-01388858-fecf-4885-948a-7555ac19337d","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"就美国强行控制委内"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://montreal.china-consulate.gov.cn/wjbfy/202601/t20260105_11806730.htm","https://new.qq.com/rain/a/20260106A02OTI00"],"created":1794626906,"id":"chatcmpl-01388858-fecf-4885-948a-7555ac19337d","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"瑞拉总统马杜罗"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://montreal.china-consulate.gov.cn/wjbfy/202601/t20260105_11806730.htm","https://new.qq.com/rain/a/20260106A02OTI00"],"created":1794626906,"id":"chatcmpl-01388858-fecf-4885-948a-7555ac19337d","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"夫妇表明了立场”[citation:"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://montreal.china-consulate.gov.cn/wjbfy/202601/t20260105_11806730.htm","https://new.qq.com/rain/a/20260106A02OTI00"],"created":1794626906,"id":"chatcmpl-01388858-fecf-4885-948a-7555ac19337d","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"1][citation:4]"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://montreal.china-consulate.gov.cn/wjbfy/202601/t20260105_11806730.htm","https://new.qq.com/rain/a/20260106A02OTI00"],"created":1794626906,"id":"chatcmpl-01388858-fecf-4885-948a-7555ac19337d","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"。\n- 需要说明的是"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://montreal.china-consulate.gov.cn/wjbfy/202601/t20260105_11806730.htm","https://new.qq.com/rain/a/20260106A02OTI00"],"created":1794626906,"id":"chatcmpl-01388858-fecf-4885-948a-7555ac19337d","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"，检索材料"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://montreal.china-consulate.gov.cn/wjbfy/202601/t20260105_11806730.htm","https://new.qq.com/rain/a/20260106A02OTI00"],"created":1794626906,"id":"chatcmpl-01388858-fecf-4885-948a-7555ac19337d","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"没有"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://montreal.china-consulate.gov.cn/wjbfy/202601/t20260105_11806730.htm","https://new.qq.com/rain/a/20260106A02OTI00"],"created":1794626906,"id":"chatcmpl-01388858-fecf-4885-948a-7555ac19337d","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"标注该"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://montreal.china-consulate.gov.cn/wjbfy/202601/t20260105_11806730.htm","https://new.qq.com/rain/a/20260106A02OTI00"],"created":1794626906,"id":"chatcmpl-01388858-fecf-4885-948a-7555ac19337d","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"答记者问"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://montreal.china-consulate.gov.cn/wjbfy/202601/t20260105_11806730.htm","https://new.qq.com/rain/a/20260106A02OTI00"],"created":1794626906,"id":"chatcmpl-01388858-fecf-4885-948a-7555ac19337d","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"和记者会的具体发布日期"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://montreal.china-consulate.gov.cn/wjbfy/202601/t20260105_11806730.htm","https://new.qq.com/rain/a/20260106A02OTI00"],"created":1794626906,"id":"chatcmpl-01388858-fecf-4885-948a-7555ac19337d","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"，因此无法"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://montreal.china-consulate.gov.cn/wjbfy/202601/t20260105_11806730.htm","https://new.qq.com/rain/a/20260106A02OTI00"],"created":1794626906,"id":"chatcmpl-01388858-fecf-4885-948a-7555ac19337d","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"仅"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://montreal.china-consulate.gov.cn/wjbfy/202601/t20260105_11806730.htm","https://new.qq.com/rain/a/20260106A02OTI00"],"created":1794626906,"id":"chatcmpl-01388858-fecf-4885-948a-7555ac19337d","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"凭现有"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://montreal.china-consulate.gov.cn/wjbfy/202601/t20260105_11806730.htm","https://new.qq.com/rain/a/20260106A02OTI00"],"created":1794626906,"id":"chatcmpl-01388858-fecf-4885-948a-7555ac19337d","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"资料核实"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://montreal.china-consulate.gov.cn/wjbfy/202601/t20260105_11806730.htm","https://new.qq.com/rain/a/20260106A02OTI00"],"created":1794626906,"id":"chatcmpl-01388858-fecf-4885-948a-7555ac19337d","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"是否"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://montreal.china-consulate.gov.cn/wjbfy/202601/t20260105_11806730.htm","https://new.qq.com/rain/a/20260106A02OTI00"],"created":1794626906,"id":"chatcmpl-01388858-fecf-4885-948a-7555ac19337d","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"就是**"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://montreal.china-consulate.gov.cn/wjbfy/202601/t20260105_11806730.htm","https://new.qq.com/rain/a/20260106A02OTI00"],"created":1794626906,"id":"chatcmpl-01388858-fecf-4885-948a-7555ac19337d","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"2026年1月4"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://montreal.china-consulate.gov.cn/wjbfy/202601/t20260105_11806730.htm","https://new.qq.com/rain/a/20260106A02OTI00"],"created":1794626906,"id":"chatcmpl-01388858-fecf-4885-948a-7555ac19337d","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"日**；"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://montreal.china-consulate.gov.cn/wjbfy/202601/t20260105_11806730.htm","https://new.qq.com/rain/a/20260106A02OTI00"],"created":1794626906,"id":"chatcmpl-01388858-fecf-4885-948a-7555ac19337d","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"记者"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://montreal.china-consulate.gov.cn/wjbfy/202601/t20260105_11806730.htm","https://new.qq.com/rain/a/20260106A02OTI00"],"created":1794626906,"id":"chatcmpl-01388858-fecf-4885-948a-7555ac19337d","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"会实录中"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://montreal.china-consulate.gov.cn/wjbfy/202601/t20260105_11806730.htm","https://new.qq.com/rain/a/20260106A02OTI00"],"created":1794626906,"id":"chatcmpl-01388858-fecf-4885-948a-7555ac19337d","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"记者"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://montreal.china-consulate.gov.cn/wjbfy/202601/t20260105_11806730.htm","https://new.qq.com/rain/a/20260106A02OTI00"],"created":1794626906,"id":"chatcmpl-01388858-fecf-4885-948a-7555ac19337d","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"提到的是"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://montreal.china-consulate.gov.cn/wjbfy/202601/t20260105_11806730.htm","https://new.qq.com/rain/a/20260106A02OTI00"],"created":1794626906,"id":"chatcmpl-01388858-fecf-4885-948a-7555ac19337d","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"“外交部昨天发布"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://montreal.china-consulate.gov.cn/wjbfy/202601/t20260105_11806730.htm","https://new.qq.com/rain/a/20260106A02OTI00"],"created":1794626906,"id":"chatcmpl-01388858-fecf-4885-948a-7555ac19337d","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"答记者问”["},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://montreal.china-consulate.gov.cn/wjbfy/202601/t20260105_11806730.htm","https://new.qq.com/rain/a/20260106A02OTI00"],"created":1794626906,"id":"chatcmpl-01388858-fecf-4885-948a-7555ac19337d","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"citation:1]["},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://montreal.china-consulate.gov.cn/wjbfy/202601/t20260105_11806730.htm","https://new.qq.com/rain/a/20260106A02OTI00"],"created":1794626906,"id":"chatcmpl-01388858-fecf-4885-948a-7555ac19337d","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"citation:4]。如需确认"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://montreal.china-consulate.gov.cn/wjbfy/202601/t20260105_11806730.htm","https://new.qq.com/rain/a/20260106A02OTI00"],"created":1794626906,"id":"chatcmpl-01388858-fecf-4885-948a-7555ac19337d","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"日期和"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://montreal.china-consulate.gov.cn/wjbfy/202601/t20260105_11806730.htm","https://new.qq.com/rain/a/20260106A02OTI00"],"created":1794626906,"id":"chatcmpl-01388858-fecf-4885-948a-7555ac19337d","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"完整答问"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://montreal.china-consulate.gov.cn/wjbfy/202601/t20260105_11806730.htm","https://new.qq.com/rain/a/20260106A02OTI00"],"created":1794626906,"id":"chatcmpl-01388858-fecf-4885-948a-7555ac19337d","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"原文，建议查阅中国"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://montreal.china-consulate.gov.cn/wjbfy/202601/t20260105_11806730.htm","https://new.qq.com/rain/a/20260106A02OTI00"],"created":1794626906,"id":"chatcmpl-01388858-fecf-4885-948a-7555ac19337d","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"外交部官网当日发布的答"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://montreal.china-consulate.gov.cn/wjbfy/202601/t20260105_11806730.htm","https://new.qq.com/rain/a/20260106A02OTI00"],"created":1794626906,"id":"chatcmpl-01388858-fecf-4885-948a-7555ac19337d","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"记者问及"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://montreal.china-consulate.gov.cn/wjbfy/202601/t20260105_11806730.htm","https://new.qq.com/rain/a/20260106A02OTI00"],"created":1794626906,"id":"chatcmpl-01388858-fecf-4885-948a-7555ac19337d","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"记者会实录。"},"finish_reason":"stop","index":0,"logprobs":null}],"citations":["https://montreal.china-consulate.gov.cn/wjbfy/202601/t20260105_11806730.htm","https://new.qq.com/rain/a/20260106A02OTI00"],"created":1794626906,"id":"chatcmpl-01388858-fecf-4885-948a-7555ac19337d","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[],"citations":["https://montreal.china-consulate.gov.cn/wjbfy/202601/t20260105_11806730.htm","https://new.qq.com/rain/a/20260106A02OTI00"],"created":1794626906,"id":"chatcmpl-01388858-fecf-4885-948a-7555ac19337d","model":"deepseek-flash","object":"chat.completion.chunk","usage":{"completion_tokens":814,"completion_tokens_details":{"reasoning_tokens":526},"prompt_tokens":897,"prompt_tokens_details":{"cached_tokens":0},"total_tokens":1711}}
+
+data: [DONE]
+

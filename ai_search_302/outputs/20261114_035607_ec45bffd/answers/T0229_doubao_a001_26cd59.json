@@ -1,0 +1,57 @@
+{
+  "task_id": "T0229",
+  "model": "doubao",
+  "news_id": "E019",
+  "question_index": 2,
+  "question_original": "【开放】武汉大学发现论文有百余处不规范，就等于认定造假、撤销学位了吗？学校实际复核结论是什么？",
+  "question": "武汉大学发现论文有百余处不规范，就等于认定造假、撤销学位了吗？学校实际复核结论是什么？",
+  "attempt": 1,
+  "provider": "302.ai",
+  "model_requested": "doubao-seed-2-1-pro-260628",
+  "query_date": "2026-11-14",
+  "search_service": "metaso",
+  "prompt_version": "news-search-v1",
+  "prompt_sha256": "ea56fd5557d32615a9115f2368a0c4983ff1188f4935369e694d7d46f2493be1",
+  "requested_at": "2026-11-14T12:03:37.055597+08:00",
+  "raw_file": "raw/T0229_doubao_a001_26cd59.json",
+  "transport": "sse",
+  "stream_file": "raw/T0229_doubao_a001_26cd59.sse",
+  "status": "ok",
+  "model_returned": "doubao-seed-2-1-pro-260628",
+  "answer": "论文存在百余处不规范并不等同于认定学术造假、撤销学位，武汉大学针对杨某媛学位论文开展复核后，未作出学术造假的认定，也未撤销其硕士学位，最终维持了授予其硕士学位的决议。\n学校复核的具体结论与处理逻辑如下：\n1.  **学术诚信核心问题的核查结论**：经专家复核，未发现杨某媛的学位论文存在抄袭、主观造假、篡改数据和编造结论等学术不端行为；从文字重合度核查结果看，其论文总文字复制比仅为1.9%，远低于学校规定的10%上限，不存在大段抄袭的迹象，不构成撤销学位所需的学术不端事实基础[2][4]。\n2.  **排查发现问题的具体情况与定性**：复核过程中确实发现论文存在百余处不规范问题，具体集中在表述不规范、引用不规范、格式不规范、翻译不准确、分析不准确等类别，校方及相关专业人士判断这类问题属于学术质量瑕疵，而非性质恶劣的学术欺诈[2][3]。复核同时查明，这些问题的出现并非源于论文核心内容造假，而是多重流程漏洞叠加的结果：一是杨某媛在盲审和答辩环节已收到修改要求，但仅完成了部分修改；二是导师未严格履行把关责任，学院学位评定分委员会也未严格落实审核要求，属于流程执行层面的失职[4]。\n3.  **最终处理的依据与结果**：根据复核开展时适用的《中华人民共和国学位条例》及武汉大学学位授予相关规定，撤销学位需要以存在确凿的严重学术诚信问题（如抄袭、造假等明确的学术不端定性）为前提[2][3][4]。由于未发现符合撤销学位条件的学术不端事实，学校经学位评定委员会会议正式审议，最终决定维持授予杨某媛硕士学位的决议[2]。",
+  "sources": [
+    {
+      "index": 1,
+      "url": "https://m.huxiu.com/brief/291871.html",
+      "title": null,
+      "origin": "citations"
+    },
+    {
+      "index": 2,
+      "url": "http://k.sina.com.cn/article_7880068208_1d5b04c7006801hynm.html",
+      "title": null,
+      "origin": "citations"
+    },
+    {
+      "index": 3,
+      "url": "https://k.sina.com.cn/article_7880068208_1d5b04c7006801hynk.html",
+      "title": null,
+      "origin": "citations"
+    }
+  ],
+  "usage": {
+    "completion_tokens": 2232,
+    "completion_tokens_details": {
+      "reasoning_tokens": 1822
+    },
+    "prompt_tokens": 1179,
+    "prompt_tokens_details": {
+      "cached_tokens": 0
+    },
+    "total_tokens": 3411
+  },
+  "finish_reason": "stop",
+  "note": [],
+  "request_id": "585fbdbf-f45f-48d8-b18b-ef5531383a4c",
+  "duration_seconds": 42.687
+}

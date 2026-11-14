@@ -1,0 +1,772 @@
+data: {"choices":[{"delta":{"reasoning_content":"用户","role":"assistant"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.bilibili.com/video/BV1MxrmYdEWV","https://www.nbd.com.cn/articles/2025-01-07/3713068.html"],"created":1794629620,"id":"chatcmpl-80e55ff4-9fdd-48bd-96c3-f17c048c793e","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"问的是演员王星在"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.bilibili.com/video/BV1MxrmYdEWV","https://www.nbd.com.cn/articles/2025-01-07/3713068.html"],"created":1794629620,"id":"chatcmpl-80e55ff4-9fdd-48bd-96c3-f17c048c793e","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"泰缅边境失联后"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.bilibili.com/video/BV1MxrmYdEWV","https://www.nbd.com.cn/articles/2025-01-07/3713068.html"],"created":1794629620,"id":"chatcmpl-80e55ff4-9fdd-48bd-96c3-f17c048c793e","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"如何被找到、"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.bilibili.com/video/BV1MxrmYdEWV","https://www.nbd.com.cn/articles/2025-01-07/3713068.html"],"created":1794629620,"id":"chatcmpl-80e55ff4-9fdd-48bd-96c3-f17c048c793e","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"接回泰国并回到中国"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.bilibili.com/video/BV1MxrmYdEWV","https://www.nbd.com.cn/articles/2025-01-07/3713068.html"],"created":1794629620,"id":"chatcmpl-80e55ff4-9fdd-48bd-96c3-f17c048c793e","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"。检索"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.bilibili.com/video/BV1MxrmYdEWV","https://www.nbd.com.cn/articles/2025-01-07/3713068.html"],"created":1794629620,"id":"chatcmpl-80e55ff4-9fdd-48bd-96c3-f17c048c793e","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"结果只有网页"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.bilibili.com/video/BV1MxrmYdEWV","https://www.nbd.com.cn/articles/2025-01-07/3713068.html"],"created":1794629620,"id":"chatcmpl-80e55ff4-9fdd-48bd-96c3-f17c048c793e","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"3"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.bilibili.com/video/BV1MxrmYdEWV","https://www.nbd.com.cn/articles/2025-01-07/3713068.html"],"created":1794629620,"id":"chatcmpl-80e55ff4-9fdd-48bd-96c3-f17c048c793e","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"和网页"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.bilibili.com/video/BV1MxrmYdEWV","https://www.nbd.com.cn/articles/2025-01-07/3713068.html"],"created":1794629620,"id":"chatcmpl-80e55ff4-9fdd-48bd-96c3-f17c048c793e","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"5，内容"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.bilibili.com/video/BV1MxrmYdEWV","https://www.nbd.com.cn/articles/2025-01-07/3713068.html"],"created":1794629620,"id":"chatcmpl-80e55ff4-9fdd-48bd-96c3-f17c048c793e","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"有限。需要基于"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.bilibili.com/video/BV1MxrmYdEWV","https://www.nbd.com.cn/articles/2025-01-07/3713068.html"],"created":1794629620,"id":"chatcmpl-80e55ff4-9fdd-48bd-96c3-f17c048c793e","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"这些"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.bilibili.com/video/BV1MxrmYdEWV","https://www.nbd.com.cn/articles/2025-01-07/3713068.html"],"created":1794629620,"id":"chatcmpl-80e55ff4-9fdd-48bd-96c3-f17c048c793e","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"资料回答，并"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.bilibili.com/video/BV1MxrmYdEWV","https://www.nbd.com.cn/articles/2025-01-07/3713068.html"],"created":1794629620,"id":"chatcmpl-80e55ff4-9fdd-48bd-96c3-f17c048c793e","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"明确指出"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.bilibili.com/video/BV1MxrmYdEWV","https://www.nbd.com.cn/articles/2025-01-07/3713068.html"],"created":1794629620,"id":"chatcmpl-80e55ff4-9fdd-48bd-96c3-f17c048c793e","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"资料不足的部分"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.bilibili.com/video/BV1MxrmYdEWV","https://www.nbd.com.cn/articles/2025-01-07/3713068.html"],"created":1794629620,"id":"chatcmpl-80e55ff4-9fdd-48bd-96c3-f17c048c793e","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"（"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.bilibili.com/video/BV1MxrmYdEWV","https://www.nbd.com.cn/articles/2025-01-07/3713068.html"],"created":1794629620,"id":"chatcmpl-80e55ff4-9fdd-48bd-96c3-f17c048c793e","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"比如回"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.bilibili.com/video/BV1MxrmYdEWV","https://www.nbd.com.cn/articles/2025-01-07/3713068.html"],"created":1794629620,"id":"chatcmpl-80e55ff4-9fdd-48bd-96c3-f17c048c793e","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"中国的"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.bilibili.com/video/BV1MxrmYdEWV","https://www.nbd.com.cn/articles/2025-01-07/3713068.html"],"created":1794629620,"id":"chatcmpl-80e55ff4-9fdd-48bd-96c3-f17c048c793e","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"细节"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.bilibili.com/video/BV1MxrmYdEWV","https://www.nbd.com.cn/articles/2025-01-07/3713068.html"],"created":1794629620,"id":"chatcmpl-80e55ff4-9fdd-48bd-96c3-f17c048c793e","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"没有检索"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.bilibili.com/video/BV1MxrmYdEWV","https://www.nbd.com.cn/articles/2025-01-07/3713068.html"],"created":1794629620,"id":"chatcmpl-80e55ff4-9fdd-48bd-96c3-f17c048c793e","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"到）。\n\n我需要"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.bilibili.com/video/BV1MxrmYdEWV","https://www.nbd.com.cn/articles/2025-01-07/3713068.html"],"created":1794629620,"id":"chatcmpl-80e55ff4-9fdd-48bd-96c3-f17c048c793e","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"先"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.bilibili.com/video/BV1MxrmYdEWV","https://www.nbd.com.cn/articles/2025-01-07/3713068.html"],"created":1794629620,"id":"chatcmpl-80e55ff4-9fdd-48bd-96c3-f17c048c793e","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"直接"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.bilibili.com/video/BV1MxrmYdEWV","https://www.nbd.com.cn/articles/2025-01-07/3713068.html"],"created":1794629620,"id":"chatcmpl-80e55ff4-9fdd-48bd-96c3-f17c048c793e","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"回答，再"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.bilibili.com/video/BV1MxrmYdEWV","https://www.nbd.com.cn/articles/2025-01-07/3713068.html"],"created":1794629620,"id":"chatcmpl-80e55ff4-9fdd-48bd-96c3-f17c048c793e","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"补充背景"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.bilibili.com/video/BV1MxrmYdEWV","https://www.nbd.com.cn/articles/2025-01-07/3713068.html"],"created":1794629620,"id":"chatcmpl-80e55ff4-9fdd-48bd-96c3-f17c048c793e","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"。引用"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.bilibili.com/video/BV1MxrmYdEWV","https://www.nbd.com.cn/articles/2025-01-07/3713068.html"],"created":1794629620,"id":"chatcmpl-80e55ff4-9fdd-48bd-96c3-f17c048c793e","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"编号"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.bilibili.com/video/BV1MxrmYdEWV","https://www.nbd.com.cn/articles/2025-01-07/3713068.html"],"created":1794629620,"id":"chatcmpl-80e55ff4-9fdd-48bd-96c3-f17c048c793e","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"[3]["},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.bilibili.com/video/BV1MxrmYdEWV","https://www.nbd.com.cn/articles/2025-01-07/3713068.html"],"created":1794629620,"id":"chatcmpl-80e55ff4-9fdd-48bd-96c3-f17c048c793e","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"5]。注意不能编"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.bilibili.com/video/BV1MxrmYdEWV","https://www.nbd.com.cn/articles/2025-01-07/3713068.html"],"created":1794629620,"id":"chatcmpl-80e55ff4-9fdd-48bd-96c3-f17c048c793e","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"造。"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.bilibili.com/video/BV1MxrmYdEWV","https://www.nbd.com.cn/articles/2025-01-07/3713068.html"],"created":1794629620,"id":"chatcmpl-80e55ff4-9fdd-48bd-96c3-f17c048c793e","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"搜索结果"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.bilibili.com/video/BV1MxrmYdEWV","https://www.nbd.com.cn/articles/2025-01-07/3713068.html"],"created":1794629620,"id":"chatcmpl-80e55ff4-9fdd-48bd-96c3-f17c048c793e","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"里"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.bilibili.com/video/BV1MxrmYdEWV","https://www.nbd.com.cn/articles/2025-01-07/3713068.html"],"created":1794629620,"id":"chatcmpl-80e55ff4-9fdd-48bd-96c3-f17c048c793e","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"提到：泰国"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.bilibili.com/video/BV1MxrmYdEWV","https://www.nbd.com.cn/articles/2025-01-07/3713068.html"],"created":1794629620,"id":"chatcmpl-80e55ff4-9fdd-48bd-96c3-f17c048c793e","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"总理佩"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.bilibili.com/video/BV1MxrmYdEWV","https://www.nbd.com.cn/articles/2025-01-07/3713068.html"],"created":1794629620,"id":"chatcmpl-80e55ff4-9fdd-48bd-96c3-f17c048c793e","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"通"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.bilibili.com/video/BV1MxrmYdEWV","https://www.nbd.com.cn/articles/2025-01-07/3713068.html"],"created":1794629620,"id":"chatcmpl-80e55ff4-9fdd-48bd-96c3-f17c048c793e","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"坦确认在"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.bilibili.com/video/BV1MxrmYdEWV","https://www.nbd.com.cn/articles/2025-01-07/3713068.html"],"created":1794629620,"id":"chatcmpl-80e55ff4-9fdd-48bd-96c3-f17c048c793e","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"湄索边境发现星星"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.bilibili.com/video/BV1MxrmYdEWV","https://www.nbd.com.cn/articles/2025-01-07/3713068.html"],"created":1794629620,"id":"chatcmpl-80e55ff4-9fdd-48bd-96c3-f17c048c793e","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"，省"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.bilibili.com/video/BV1MxrmYdEWV","https://www.nbd.com.cn/articles/2025-01-07/3713068.html"],"created":1794629620,"id":"chatcmpl-80e55ff4-9fdd-48bd-96c3-f17c048c793e","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"警察"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.bilibili.com/video/BV1MxrmYdEWV","https://www.nbd.com.cn/articles/2025-01-07/3713068.html"],"created":1794629620,"id":"chatcmpl-80e55ff4-9fdd-48bd-96c3-f17c048c793e","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"第6区等待"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.bilibili.com/video/BV1MxrmYdEWV","https://www.nbd.com.cn/articles/2025-01-07/3713068.html"],"created":1794629620,"id":"chatcmpl-80e55ff4-9fdd-48bd-96c3-f17c048c793e","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"接回；"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.bilibili.com/video/BV1MxrmYdEWV","https://www.nbd.com.cn/articles/2025-01-07/3713068.html"],"created":1794629620,"id":"chatcmpl-80e55ff4-9fdd-48bd-96c3-f17c048c793e","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"泰国皇家"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.bilibili.com/video/BV1MxrmYdEWV","https://www.nbd.com.cn/articles/2025-01-07/3713068.html"],"created":1794629620,"id":"chatcmpl-80e55ff4-9fdd-48bd-96c3-f17c048c793e","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"警察总"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.bilibili.com/video/BV1MxrmYdEWV","https://www.nbd.com.cn/articles/2025-01-07/3713068.html"],"created":1794629620,"id":"chatcmpl-80e55ff4-9fdd-48bd-96c3-f17c048c793e","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"署署"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.bilibili.com/video/BV1MxrmYdEWV","https://www.nbd.com.cn/articles/2025-01-07/3713068.html"],"created":1794629620,"id":"chatcmpl-80e55ff4-9fdd-48bd-96c3-f17c048c793e","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"长乘"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.bilibili.com/video/BV1MxrmYdEWV","https://www.nbd.com.cn/articles/2025-01-07/3713068.html"],"created":1794629620,"id":"chatcmpl-80e55ff4-9fdd-48bd-96c3-f17c048c793e","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"特"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.bilibili.com/video/BV1MxrmYdEWV","https://www.nbd.com.cn/articles/2025-01-07/3713068.html"],"created":1794629620,"id":"chatcmpl-80e55ff4-9fdd-48bd-96c3-f17c048c793e","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"快专机飞往"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.bilibili.com/video/BV1MxrmYdEWV","https://www.nbd.com.cn/articles/2025-01-07/3713068.html"],"created":1794629620,"id":"chatcmpl-80e55ff4-9fdd-48bd-96c3-f17c048c793e","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"湄索接他"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.bilibili.com/video/BV1MxrmYdEWV","https://www.nbd.com.cn/articles/2025-01-07/3713068.html"],"created":1794629620,"id":"chatcmpl-80e55ff4-9fdd-48bd-96c3-f17c048c793e","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"；泰国警方称星星"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.bilibili.com/video/BV1MxrmYdEWV","https://www.nbd.com.cn/articles/2025-01-07/3713068.html"],"created":1794629620,"id":"chatcmpl-80e55ff4-9fdd-48bd-96c3-f17c048c793e","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"被"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.bilibili.com/video/BV1MxrmYdEWV","https://www.nbd.com.cn/articles/2025-01-07/3713068.html"],"created":1794629620,"id":"chatcmpl-80e55ff4-9fdd-48bd-96c3-f17c048c793e","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"缅甸边防"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.bilibili.com/video/BV1MxrmYdEWV","https://www.nbd.com.cn/articles/2025-01-07/3713068.html"],"created":1794629620,"id":"chatcmpl-80e55ff4-9fdd-48bd-96c3-f17c048c793e","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"部队（BGF）拘留"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.bilibili.com/video/BV1MxrmYdEWV","https://www.nbd.com.cn/articles/2025-01-07/3713068.html"],"created":1794629620,"id":"chatcmpl-80e55ff4-9fdd-48bd-96c3-f17c048c793e","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"，缅"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.bilibili.com/video/BV1MxrmYdEWV","https://www.nbd.com.cn/articles/2025-01-07/3713068.html"],"created":1794629620,"id":"chatcmpl-80e55ff4-9fdd-48bd-96c3-f17c048c793e","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"方与"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.bilibili.com/video/BV1MxrmYdEWV","https://www.nbd.com.cn/articles/2025-01-07/3713068.html"],"created":1794629620,"id":"chatcmpl-80e55ff4-9fdd-48bd-96c3-f17c048c793e","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"泰"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.bilibili.com/video/BV1MxrmYdEWV","https://www.nbd.com.cn/articles/2025-01-07/3713068.html"],"created":1794629620,"id":"chatcmpl-80e55ff4-9fdd-48bd-96c3-f17c048c793e","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"方协调后中午"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.bilibili.com/video/BV1MxrmYdEWV","https://www.nbd.com.cn/articles/2025-01-07/3713068.html"],"created":1794629620,"id":"chatcmpl-80e55ff4-9fdd-48bd-96c3-f17c048c793e","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"过后送回泰国"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.bilibili.com/video/BV1MxrmYdEWV","https://www.nbd.com.cn/articles/2025-01-07/3713068.html"],"created":1794629620,"id":"chatcmpl-80e55ff4-9fdd-48bd-96c3-f17c048c793e","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"。"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.bilibili.com/video/BV1MxrmYdEWV","https://www.nbd.com.cn/articles/2025-01-07/3713068.html"],"created":1794629620,"id":"chatcmpl-80e55ff4-9fdd-48bd-96c3-f17c048c793e","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"网页"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.bilibili.com/video/BV1MxrmYdEWV","https://www.nbd.com.cn/articles/2025-01-07/3713068.html"],"created":1794629620,"id":"chatcmpl-80e55ff4-9fdd-48bd-96c3-f17c048c793e","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"3"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.bilibili.com/video/BV1MxrmYdEWV","https://www.nbd.com.cn/articles/2025-01-07/3713068.html"],"created":1794629620,"id":"chatcmpl-80e55ff4-9fdd-48bd-96c3-f17c048c793e","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"标题"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.bilibili.com/video/BV1MxrmYdEWV","https://www.nbd.com.cn/articles/2025-01-07/3713068.html"],"created":1794629620,"id":"chatcmpl-80e55ff4-9fdd-48bd-96c3-f17c048c793e","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"提到“已被"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.bilibili.com/video/BV1MxrmYdEWV","https://www.nbd.com.cn/articles/2025-01-07/3713068.html"],"created":1794629620,"id":"chatcmpl-80e55ff4-9fdd-48bd-96c3-f17c048c793e","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"接到泰国"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.bilibili.com/video/BV1MxrmYdEWV","https://www.nbd.com.cn/articles/2025-01-07/3713068.html"],"created":1794629620,"id":"chatcmpl-80e55ff4-9fdd-48bd-96c3-f17c048c793e","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"”，中国驻"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.bilibili.com/video/BV1MxrmYdEWV","https://www.nbd.com.cn/articles/2025-01-07/3713068.html"],"created":1794629620,"id":"chatcmpl-80e55ff4-9fdd-48bd-96c3-f17c048c793e","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"泰"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.bilibili.com/video/BV1MxrmYdEWV","https://www.nbd.com.cn/articles/2025-01-07/3713068.html"],"created":1794629620,"id":"chatcmpl-80e55ff4-9fdd-48bd-96c3-f17c048c793e","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"使领馆表示感谢"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.bilibili.com/video/BV1MxrmYdEWV","https://www.nbd.com.cn/articles/2025-01-07/3713068.html"],"created":1794629620,"id":"chatcmpl-80e55ff4-9fdd-48bd-96c3-f17c048c793e","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"；"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.bilibili.com/video/BV1MxrmYdEWV","https://www.nbd.com.cn/articles/2025-01-07/3713068.html"],"created":1794629620,"id":"chatcmpl-80e55ff4-9fdd-48bd-96c3-f17c048c793e","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"还有“近"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.bilibili.com/video/BV1MxrmYdEWV","https://www.nbd.com.cn/articles/2025-01-07/3713068.html"],"created":1794629620,"id":"chatcmpl-80e55ff4-9fdd-48bd-96c3-f17c048c793e","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"照公布"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.bilibili.com/video/BV1MxrmYdEWV","https://www.nbd.com.cn/articles/2025-01-07/3713068.html"],"created":1794629620,"id":"chatcmpl-80e55ff4-9fdd-48bd-96c3-f17c048c793e","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"已被剃了"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.bilibili.com/video/BV1MxrmYdEWV","https://www.nbd.com.cn/articles/2025-01-07/3713068.html"],"created":1794629620,"id":"chatcmpl-80e55ff4-9fdd-48bd-96c3-f17c048c793e","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"光头”；“人"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.bilibili.com/video/BV1MxrmYdEWV","https://www.nbd.com.cn/articles/2025-01-07/3713068.html"],"created":1794629620,"id":"chatcmpl-80e55ff4-9fdd-48bd-96c3-f17c048c793e","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"已到"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.bilibili.com/video/BV1MxrmYdEWV","https://www.nbd.com.cn/articles/2025-01-07/3713068.html"],"created":1794629620,"id":"chatcmpl-80e55ff4-9fdd-48bd-96c3-f17c048c793e","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"缅甸，也"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.bilibili.com/video/BV1MxrmYdEWV","https://www.nbd.com.cn/articles/2025-01-07/3713068.html"],"created":1794629620,"id":"chatcmpl-80e55ff4-9fdd-48bd-96c3-f17c048c793e","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"到了灰产控制区内"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.bilibili.com/video/BV1MxrmYdEWV","https://www.nbd.com.cn/articles/2025-01-07/3713068.html"],"created":1794629620,"id":"chatcmpl-80e55ff4-9fdd-48bd-96c3-f17c048c793e","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"”。\n\n关于回到"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.bilibili.com/video/BV1MxrmYdEWV","https://www.nbd.com.cn/articles/2025-01-07/3713068.html"],"created":1794629620,"id":"chatcmpl-80e55ff4-9fdd-48bd-96c3-f17c048c793e","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"中国：检索"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.bilibili.com/video/BV1MxrmYdEWV","https://www.nbd.com.cn/articles/2025-01-07/3713068.html"],"created":1794629620,"id":"chatcmpl-80e55ff4-9fdd-48bd-96c3-f17c048c793e","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"资料"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.bilibili.com/video/BV1MxrmYdEWV","https://www.nbd.com.cn/articles/2025-01-07/3713068.html"],"created":1794629620,"id":"chatcmpl-80e55ff4-9fdd-48bd-96c3-f17c048c793e","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"未"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.bilibili.com/video/BV1MxrmYdEWV","https://www.nbd.com.cn/articles/2025-01-07/3713068.html"],"created":1794629620,"id":"chatcmpl-80e55ff4-9fdd-48bd-96c3-f17c048c793e","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"提供。需要说明这一点。"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.bilibili.com/video/BV1MxrmYdEWV","https://www.nbd.com.cn/articles/2025-01-07/3713068.html"],"created":1794629620,"id":"chatcmpl-80e55ff4-9fdd-48bd-96c3-f17c048c793e","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"问题问"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.bilibili.com/video/BV1MxrmYdEWV","https://www.nbd.com.cn/articles/2025-01-07/3713068.html"],"created":1794629620,"id":"chatcmpl-80e55ff4-9fdd-48bd-96c3-f17c048c793e","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"“并"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.bilibili.com/video/BV1MxrmYdEWV","https://www.nbd.com.cn/articles/2025-01-07/3713068.html"],"created":1794629620,"id":"chatcmpl-80e55ff4-9fdd-48bd-96c3-f17c048c793e","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"回到中国”，但资料没有"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.bilibili.com/video/BV1MxrmYdEWV","https://www.nbd.com.cn/articles/2025-01-07/3713068.html"],"created":1794629620,"id":"chatcmpl-80e55ff4-9fdd-48bd-96c3-f17c048c793e","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"。可以说明"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.bilibili.com/video/BV1MxrmYdEWV","https://www.nbd.com.cn/articles/2025-01-07/3713068.html"],"created":1794629620,"id":"chatcmpl-80e55ff4-9fdd-48bd-96c3-f17c048c793e","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"根据现有"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.bilibili.com/video/BV1MxrmYdEWV","https://www.nbd.com.cn/articles/2025-01-07/3713068.html"],"created":1794629620,"id":"chatcmpl-80e55ff4-9fdd-48bd-96c3-f17c048c793e","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"检索结果，无法确认其"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.bilibili.com/video/BV1MxrmYdEWV","https://www.nbd.com.cn/articles/2025-01-07/3713068.html"],"created":1794629620,"id":"chatcmpl-80e55ff4-9fdd-48bd-96c3-f17c048c793e","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"回中国的"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.bilibili.com/video/BV1MxrmYdEWV","https://www.nbd.com.cn/articles/2025-01-07/3713068.html"],"created":1794629620,"id":"chatcmpl-80e55ff4-9fdd-48bd-96c3-f17c048c793e","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"具体安排"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.bilibili.com/video/BV1MxrmYdEWV","https://www.nbd.com.cn/articles/2025-01-07/3713068.html"],"created":1794629620,"id":"chatcmpl-80e55ff4-9fdd-48bd-96c3-f17c048c793e","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"，需"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.bilibili.com/video/BV1MxrmYdEWV","https://www.nbd.com.cn/articles/2025-01-07/3713068.html"],"created":1794629620,"id":"chatcmpl-80e55ff4-9fdd-48bd-96c3-f17c048c793e","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"以"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.bilibili.com/video/BV1MxrmYdEWV","https://www.nbd.com.cn/articles/2025-01-07/3713068.html"],"created":1794629620,"id":"chatcmpl-80e55ff4-9fdd-48bd-96c3-f17c048c793e","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"官方通报"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.bilibili.com/video/BV1MxrmYdEWV","https://www.nbd.com.cn/articles/2025-01-07/3713068.html"],"created":1794629620,"id":"chatcmpl-80e55ff4-9fdd-48bd-96c3-f17c048c793e","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"为准。\n\n"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.bilibili.com/video/BV1MxrmYdEWV","https://www.nbd.com.cn/articles/2025-01-07/3713068.html"],"created":1794629620,"id":"chatcmpl-80e55ff4-9fdd-48bd-96c3-f17c048c793e","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"时间是"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.bilibili.com/video/BV1MxrmYdEWV","https://www.nbd.com.cn/articles/2025-01-07/3713068.html"],"created":1794629620,"id":"chatcmpl-80e55ff4-9fdd-48bd-96c3-f17c048c793e","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"2026年11"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.bilibili.com/video/BV1MxrmYdEWV","https://www.nbd.com.cn/articles/2025-01-07/3713068.html"],"created":1794629620,"id":"chatcmpl-80e55ff4-9fdd-48bd-96c3-f17c048c793e","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"月14日，事件"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.bilibili.com/video/BV1MxrmYdEWV","https://www.nbd.com.cn/articles/2025-01-07/3713068.html"],"created":1794629620,"id":"chatcmpl-80e55ff4-9fdd-48bd-96c3-f17c048c793e","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"发生在"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.bilibili.com/video/BV1MxrmYdEWV","https://www.nbd.com.cn/articles/2025-01-07/3713068.html"],"created":1794629620,"id":"chatcmpl-80e55ff4-9fdd-48bd-96c3-f17c048c793e","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"2025年1月。"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.bilibili.com/video/BV1MxrmYdEWV","https://www.nbd.com.cn/articles/2025-01-07/3713068.html"],"created":1794629620,"id":"chatcmpl-80e55ff4-9fdd-48bd-96c3-f17c048c793e","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"需要以"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.bilibili.com/video/BV1MxrmYdEWV","https://www.nbd.com.cn/articles/2025-01-07/3713068.html"],"created":1794629620,"id":"chatcmpl-80e55ff4-9fdd-48bd-96c3-f17c048c793e","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"回顾"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.bilibili.com/video/BV1MxrmYdEWV","https://www.nbd.com.cn/articles/2025-01-07/3713068.html"],"created":1794629620,"id":"chatcmpl-80e55ff4-9fdd-48bd-96c3-f17c048c793e","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"性"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.bilibili.com/video/BV1MxrmYdEWV","https://www.nbd.com.cn/articles/2025-01-07/3713068.html"],"created":1794629620,"id":"chatcmpl-80e55ff4-9fdd-48bd-96c3-f17c048c793e","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"口"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.bilibili.com/video/BV1MxrmYdEWV","https://www.nbd.com.cn/articles/2025-01-07/3713068.html"],"created":1794629620,"id":"chatcmpl-80e55ff4-9fdd-48bd-96c3-f17c048c793e","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"吻。\n\n"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.bilibili.com/video/BV1MxrmYdEWV","https://www.nbd.com.cn/articles/2025-01-07/3713068.html"],"created":1794629620,"id":"chatcmpl-80e55ff4-9fdd-48bd-96c3-f17c048c793e","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"回答结构：\n1"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.bilibili.com/video/BV1MxrmYdEWV","https://www.nbd.com.cn/articles/2025-01-07/3713068.html"],"created":1794629620,"id":"chatcmpl-80e55ff4-9fdd-48bd-96c3-f17c048c793e","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":". 直接回答"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.bilibili.com/video/BV1MxrmYdEWV","https://www.nbd.com.cn/articles/2025-01-07/3713068.html"],"created":1794629620,"id":"chatcmpl-80e55ff4-9fdd-48bd-96c3-f17c048c793e","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"：失联后"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.bilibili.com/video/BV1MxrmYdEWV","https://www.nbd.com.cn/articles/2025-01-07/3713068.html"],"created":1794629620,"id":"chatcmpl-80e55ff4-9fdd-48bd-96c3-f17c048c793e","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"，"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.bilibili.com/video/BV1MxrmYdEWV","https://www.nbd.com.cn/articles/2025-01-07/3713068.html"],"created":1794629620,"id":"chatcmpl-80e55ff4-9fdd-48bd-96c3-f17c048c793e","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"泰缅"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.bilibili.com/video/BV1MxrmYdEWV","https://www.nbd.com.cn/articles/2025-01-07/3713068.html"],"created":1794629620,"id":"chatcmpl-80e55ff4-9fdd-48bd-96c3-f17c048c793e","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"双方"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.bilibili.com/video/BV1MxrmYdEWV","https://www.nbd.com.cn/articles/2025-01-07/3713068.html"],"created":1794629620,"id":"chatcmpl-80e55ff4-9fdd-48bd-96c3-f17c048c793e","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"协调，泰总理"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.bilibili.com/video/BV1MxrmYdEWV","https://www.nbd.com.cn/articles/2025-01-07/3713068.html"],"created":1794629620,"id":"chatcmpl-80e55ff4-9fdd-48bd-96c3-f17c048c793e","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"确认"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.bilibili.com/video/BV1MxrmYdEWV","https://www.nbd.com.cn/articles/2025-01-07/3713068.html"],"created":1794629620,"id":"chatcmpl-80e55ff4-9fdd-48bd-96c3-f17c048c793e","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"在"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.bilibili.com/video/BV1MxrmYdEWV","https://www.nbd.com.cn/articles/2025-01-07/3713068.html"],"created":1794629620,"id":"chatcmpl-80e55ff4-9fdd-48bd-96c3-f17c048c793e","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"湄索边境发现，警方"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.bilibili.com/video/BV1MxrmYdEWV","https://www.nbd.com.cn/articles/2025-01-07/3713068.html"],"created":1794629620,"id":"chatcmpl-80e55ff4-9fdd-48bd-96c3-f17c048c793e","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"高层"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.bilibili.com/video/BV1MxrmYdEWV","https://www.nbd.com.cn/articles/2025-01-07/3713068.html"],"created":1794629620,"id":"chatcmpl-80e55ff4-9fdd-48bd-96c3-f17c048c793e","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"赴"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.bilibili.com/video/BV1MxrmYdEWV","https://www.nbd.com.cn/articles/2025-01-07/3713068.html"],"created":1794629620,"id":"chatcmpl-80e55ff4-9fdd-48bd-96c3-f17c048c793e","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"湄索接回"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.bilibili.com/video/BV1MxrmYdEWV","https://www.nbd.com.cn/articles/2025-01-07/3713068.html"],"created":1794629620,"id":"chatcmpl-80e55ff4-9fdd-48bd-96c3-f17c048c793e","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"；泰"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.bilibili.com/video/BV1MxrmYdEWV","https://www.nbd.com.cn/articles/2025-01-07/3713068.html"],"created":1794629620,"id":"chatcmpl-80e55ff4-9fdd-48bd-96c3-f17c048c793e","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"警方称被"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.bilibili.com/video/BV1MxrmYdEWV","https://www.nbd.com.cn/articles/2025-01-07/3713068.html"],"created":1794629620,"id":"chatcmpl-80e55ff4-9fdd-48bd-96c3-f17c048c793e","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"缅甸边防"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.bilibili.com/video/BV1MxrmYdEWV","https://www.nbd.com.cn/articles/2025-01-07/3713068.html"],"created":1794629620,"id":"chatcmpl-80e55ff4-9fdd-48bd-96c3-f17c048c793e","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"部队拘留"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.bilibili.com/video/BV1MxrmYdEWV","https://www.nbd.com.cn/articles/2025-01-07/3713068.html"],"created":1794629620,"id":"chatcmpl-80e55ff4-9fdd-48bd-96c3-f17c048c793e","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"后"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.bilibili.com/video/BV1MxrmYdEWV","https://www.nbd.com.cn/articles/2025-01-07/3713068.html"],"created":1794629620,"id":"chatcmpl-80e55ff4-9fdd-48bd-96c3-f17c048c793e","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"移交"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.bilibili.com/video/BV1MxrmYdEWV","https://www.nbd.com.cn/articles/2025-01-07/3713068.html"],"created":1794629620,"id":"chatcmpl-80e55ff4-9fdd-48bd-96c3-f17c048c793e","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"泰"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.bilibili.com/video/BV1MxrmYdEWV","https://www.nbd.com.cn/articles/2025-01-07/3713068.html"],"created":1794629620,"id":"chatcmpl-80e55ff4-9fdd-48bd-96c3-f17c048c793e","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"方。"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.bilibili.com/video/BV1MxrmYdEWV","https://www.nbd.com.cn/articles/2025-01-07/3713068.html"],"created":1794629620,"id":"chatcmpl-80e55ff4-9fdd-48bd-96c3-f17c048c793e","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"中国驻"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.bilibili.com/video/BV1MxrmYdEWV","https://www.nbd.com.cn/articles/2025-01-07/3713068.html"],"created":1794629620,"id":"chatcmpl-80e55ff4-9fdd-48bd-96c3-f17c048c793e","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"泰"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.bilibili.com/video/BV1MxrmYdEWV","https://www.nbd.com.cn/articles/2025-01-07/3713068.html"],"created":1794629620,"id":"chatcmpl-80e55ff4-9fdd-48bd-96c3-f17c048c793e","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"使领馆表示感谢"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.bilibili.com/video/BV1MxrmYdEWV","https://www.nbd.com.cn/articles/2025-01-07/3713068.html"],"created":1794629620,"id":"chatcmpl-80e55ff4-9fdd-48bd-96c3-f17c048c793e","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"。\n2. 时间"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.bilibili.com/video/BV1MxrmYdEWV","https://www.nbd.com.cn/articles/2025-01-07/3713068.html"],"created":1794629620,"id":"chatcmpl-80e55ff4-9fdd-48bd-96c3-f17c048c793e","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"线/"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.bilibili.com/video/BV1MxrmYdEWV","https://www.nbd.com.cn/articles/2025-01-07/3713068.html"],"created":1794629620,"id":"chatcmpl-80e55ff4-9fdd-48bd-96c3-f17c048c793e","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"事实：1"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.bilibili.com/video/BV1MxrmYdEWV","https://www.nbd.com.cn/articles/2025-01-07/3713068.html"],"created":1794629620,"id":"chatcmpl-80e55ff4-9fdd-48bd-96c3-f17c048c793e","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"月7日泰国"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.bilibili.com/video/BV1MxrmYdEWV","https://www.nbd.com.cn/articles/2025-01-07/3713068.html"],"created":1794629620,"id":"chatcmpl-80e55ff4-9fdd-48bd-96c3-f17c048c793e","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"总理佩"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.bilibili.com/video/BV1MxrmYdEWV","https://www.nbd.com.cn/articles/2025-01-07/3713068.html"],"created":1794629620,"id":"chatcmpl-80e55ff4-9fdd-48bd-96c3-f17c048c793e","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"通"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.bilibili.com/video/BV1MxrmYdEWV","https://www.nbd.com.cn/articles/2025-01-07/3713068.html"],"created":1794629620,"id":"chatcmpl-80e55ff4-9fdd-48bd-96c3-f17c048c793e","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"坦透露"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.bilibili.com/video/BV1MxrmYdEWV","https://www.nbd.com.cn/articles/2025-01-07/3713068.html"],"created":1794629620,"id":"chatcmpl-80e55ff4-9fdd-48bd-96c3-f17c048c793e","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"在"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.bilibili.com/video/BV1MxrmYdEWV","https://www.nbd.com.cn/articles/2025-01-07/3713068.html"],"created":1794629620,"id":"chatcmpl-80e55ff4-9fdd-48bd-96c3-f17c048c793e","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"湄索边境附近"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.bilibili.com/video/BV1MxrmYdEWV","https://www.nbd.com.cn/articles/2025-01-07/3713068.html"],"created":1794629620,"id":"chatcmpl-80e55ff4-9fdd-48bd-96c3-f17c048c793e","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"发现；省"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.bilibili.com/video/BV1MxrmYdEWV","https://www.nbd.com.cn/articles/2025-01-07/3713068.html"],"created":1794629620,"id":"chatcmpl-80e55ff4-9fdd-48bd-96c3-f17c048c793e","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"警察第"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.bilibili.com/video/BV1MxrmYdEWV","https://www.nbd.com.cn/articles/2025-01-07/3713068.html"],"created":1794629620,"id":"chatcmpl-80e55ff4-9fdd-48bd-96c3-f17c048c793e","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"6区等待"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.bilibili.com/video/BV1MxrmYdEWV","https://www.nbd.com.cn/articles/2025-01-07/3713068.html"],"created":1794629620,"id":"chatcmpl-80e55ff4-9fdd-48bd-96c3-f17c048c793e","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"接"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.bilibili.com/video/BV1MxrmYdEWV","https://www.nbd.com.cn/articles/2025-01-07/3713068.html"],"created":1794629620,"id":"chatcmpl-80e55ff4-9fdd-48bd-96c3-f17c048c793e","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"回；警察总监"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.bilibili.com/video/BV1MxrmYdEWV","https://www.nbd.com.cn/articles/2025-01-07/3713068.html"],"created":1794629620,"id":"chatcmpl-80e55ff4-9fdd-48bd-96c3-f17c048c793e","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"乘"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.bilibili.com/video/BV1MxrmYdEWV","https://www.nbd.com.cn/articles/2025-01-07/3713068.html"],"created":1794629620,"id":"chatcmpl-80e55ff4-9fdd-48bd-96c3-f17c048c793e","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"特"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.bilibili.com/video/BV1MxrmYdEWV","https://www.nbd.com.cn/articles/2025-01-07/3713068.html"],"created":1794629620,"id":"chatcmpl-80e55ff4-9fdd-48bd-96c3-f17c048c793e","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"快专机飞往"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.bilibili.com/video/BV1MxrmYdEWV","https://www.nbd.com.cn/articles/2025-01-07/3713068.html"],"created":1794629620,"id":"chatcmpl-80e55ff4-9fdd-48bd-96c3-f17c048c793e","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"湄索；泰"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.bilibili.com/video/BV1MxrmYdEWV","https://www.nbd.com.cn/articles/2025-01-07/3713068.html"],"created":1794629620,"id":"chatcmpl-80e55ff4-9fdd-48bd-96c3-f17c048c793e","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"警方称被B"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.bilibili.com/video/BV1MxrmYdEWV","https://www.nbd.com.cn/articles/2025-01-07/3713068.html"],"created":1794629620,"id":"chatcmpl-80e55ff4-9fdd-48bd-96c3-f17c048c793e","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"GF拘留，中午过后"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.bilibili.com/video/BV1MxrmYdEWV","https://www.nbd.com.cn/articles/2025-01-07/3713068.html"],"created":1794629620,"id":"chatcmpl-80e55ff4-9fdd-48bd-96c3-f17c048c793e","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"送回"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.bilibili.com/video/BV1MxrmYdEWV","https://www.nbd.com.cn/articles/2025-01-07/3713068.html"],"created":1794629620,"id":"chatcmpl-80e55ff4-9fdd-48bd-96c3-f17c048c793e","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"泰国。\n3. "},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.bilibili.com/video/BV1MxrmYdEWV","https://www.nbd.com.cn/articles/2025-01-07/3713068.html"],"created":1794629620,"id":"chatcmpl-80e55ff4-9fdd-48bd-96c3-f17c048c793e","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"关于“"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.bilibili.com/video/BV1MxrmYdEWV","https://www.nbd.com.cn/articles/2025-01-07/3713068.html"],"created":1794629620,"id":"chatcmpl-80e55ff4-9fdd-48bd-96c3-f17c048c793e","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"回到中国”："},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.bilibili.com/video/BV1MxrmYdEWV","https://www.nbd.com.cn/articles/2025-01-07/3713068.html"],"created":1794629620,"id":"chatcmpl-80e55ff4-9fdd-48bd-96c3-f17c048c793e","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"现有"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.bilibili.com/video/BV1MxrmYdEWV","https://www.nbd.com.cn/articles/2025-01-07/3713068.html"],"created":1794629620,"id":"chatcmpl-80e55ff4-9fdd-48bd-96c3-f17c048c793e","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"资料未涉及具体回国"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.bilibili.com/video/BV1MxrmYdEWV","https://www.nbd.com.cn/articles/2025-01-07/3713068.html"],"created":1794629620,"id":"chatcmpl-80e55ff4-9fdd-48bd-96c3-f17c048c793e","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"安排"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.bilibili.com/video/BV1MxrmYdEWV","https://www.nbd.com.cn/articles/2025-01-07/3713068.html"],"created":1794629620,"id":"chatcmpl-80e55ff4-9fdd-48bd-96c3-f17c048c793e","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"，不能确认"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.bilibili.com/video/BV1MxrmYdEWV","https://www.nbd.com.cn/articles/2025-01-07/3713068.html"],"created":1794629620,"id":"chatcmpl-80e55ff4-9fdd-48bd-96c3-f17c048c793e","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"。\n4. 背景"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.bilibili.com/video/BV1MxrmYdEWV","https://www.nbd.com.cn/articles/2025-01-07/3713068.html"],"created":1794629620,"id":"chatcmpl-80e55ff4-9fdd-48bd-96c3-f17c048c793e","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"/说明"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.bilibili.com/video/BV1MxrmYdEWV","https://www.nbd.com.cn/articles/2025-01-07/3713068.html"],"created":1794629620,"id":"chatcmpl-80e55ff4-9fdd-48bd-96c3-f17c048c793e","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"：事件"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.bilibili.com/video/BV1MxrmYdEWV","https://www.nbd.com.cn/articles/2025-01-07/3713068.html"],"created":1794629620,"id":"chatcmpl-80e55ff4-9fdd-48bd-96c3-f17c048c793e","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"引发"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.bilibili.com/video/BV1MxrmYdEWV","https://www.nbd.com.cn/articles/2025-01-07/3713068.html"],"created":1794629620,"id":"chatcmpl-80e55ff4-9fdd-48bd-96c3-f17c048c793e","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"对"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.bilibili.com/video/BV1MxrmYdEWV","https://www.nbd.com.cn/articles/2025-01-07/3713068.html"],"created":1794629620,"id":"chatcmpl-80e55ff4-9fdd-48bd-96c3-f17c048c793e","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"泰国旅游安全的"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.bilibili.com/video/BV1MxrmYdEWV","https://www.nbd.com.cn/articles/2025-01-07/3713068.html"],"created":1794629620,"id":"chatcmpl-80e55ff4-9fdd-48bd-96c3-f17c048c793e","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"关注"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.bilibili.com/video/BV1MxrmYdEWV","https://www.nbd.com.cn/articles/2025-01-07/3713068.html"],"created":1794629620,"id":"chatcmpl-80e55ff4-9fdd-48bd-96c3-f17c048c793e","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"，总理"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.bilibili.com/video/BV1MxrmYdEWV","https://www.nbd.com.cn/articles/2025-01-07/3713068.html"],"created":1794629620,"id":"chatcmpl-80e55ff4-9fdd-48bd-96c3-f17c048c793e","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"强调不能"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.bilibili.com/video/BV1MxrmYdEWV","https://www.nbd.com.cn/articles/2025-01-07/3713068.html"],"created":1794629620,"id":"chatcmpl-80e55ff4-9fdd-48bd-96c3-f17c048c793e","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"影响旅游"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.bilibili.com/video/BV1MxrmYdEWV","https://www.nbd.com.cn/articles/2025-01-07/3713068.html"],"created":1794629620,"id":"chatcmpl-80e55ff4-9fdd-48bd-96c3-f17c048c793e","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"。"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.bilibili.com/video/BV1MxrmYdEWV","https://www.nbd.com.cn/articles/2025-01-07/3713068.html"],"created":1794629620,"id":"chatcmpl-80e55ff4-9fdd-48bd-96c3-f17c048c793e","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"网页"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.bilibili.com/video/BV1MxrmYdEWV","https://www.nbd.com.cn/articles/2025-01-07/3713068.html"],"created":1794629620,"id":"chatcmpl-80e55ff4-9fdd-48bd-96c3-f17c048c793e","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"3标题"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.bilibili.com/video/BV1MxrmYdEWV","https://www.nbd.com.cn/articles/2025-01-07/3713068.html"],"created":1794629620,"id":"chatcmpl-80e55ff4-9fdd-48bd-96c3-f17c048c793e","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"还"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.bilibili.com/video/BV1MxrmYdEWV","https://www.nbd.com.cn/articles/2025-01-07/3713068.html"],"created":1794629620,"id":"chatcmpl-80e55ff4-9fdd-48bd-96c3-f17c048c793e","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"提到魏"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.bilibili.com/video/BV1MxrmYdEWV","https://www.nbd.com.cn/articles/2025-01-07/3713068.html"],"created":1794629620,"id":"chatcmpl-80e55ff4-9fdd-48bd-96c3-f17c048c793e","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"清"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.bilibili.com/video/BV1MxrmYdEWV","https://www.nbd.com.cn/articles/2025-01-07/3713068.html"],"created":1794629620,"id":"chatcmpl-80e55ff4-9fdd-48bd-96c3-f17c048c793e","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"涛喊"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.bilibili.com/video/BV1MxrmYdEWV","https://www.nbd.com.cn/articles/2025-01-07/3713068.html"],"created":1794629620,"id":"chatcmpl-80e55ff4-9fdd-48bd-96c3-f17c048c793e","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"话等，但与"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.bilibili.com/video/BV1MxrmYdEWV","https://www.nbd.com.cn/articles/2025-01-07/3713068.html"],"created":1794629620,"id":"chatcmpl-80e55ff4-9fdd-48bd-96c3-f17c048c793e","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"问题"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.bilibili.com/video/BV1MxrmYdEWV","https://www.nbd.com.cn/articles/2025-01-07/3713068.html"],"created":1794629620,"id":"chatcmpl-80e55ff4-9fdd-48bd-96c3-f17c048c793e","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"无关，不要"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.bilibili.com/video/BV1MxrmYdEWV","https://www.nbd.com.cn/articles/2025-01-07/3713068.html"],"created":1794629620,"id":"chatcmpl-80e55ff4-9fdd-48bd-96c3-f17c048c793e","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"用。\n\n注意引用"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.bilibili.com/video/BV1MxrmYdEWV","https://www.nbd.com.cn/articles/2025-01-07/3713068.html"],"created":1794629620,"id":"chatcmpl-80e55ff4-9fdd-48bd-96c3-f17c048c793e","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"格式。"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.bilibili.com/video/BV1MxrmYdEWV","https://www.nbd.com.cn/articles/2025-01-07/3713068.html"],"created":1794629620,"id":"chatcmpl-80e55ff4-9fdd-48bd-96c3-f17c048c793e","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"句子"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.bilibili.com/video/BV1MxrmYdEWV","https://www.nbd.com.cn/articles/2025-01-07/3713068.html"],"created":1794629620,"id":"chatcmpl-80e55ff4-9fdd-48bd-96c3-f17c048c793e","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"末尾"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.bilibili.com/video/BV1MxrmYdEWV","https://www.nbd.com.cn/articles/2025-01-07/3713068.html"],"created":1794629620,"id":"chatcmpl-80e55ff4-9fdd-48bd-96c3-f17c048c793e","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"引用"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.bilibili.com/video/BV1MxrmYdEWV","https://www.nbd.com.cn/articles/2025-01-07/3713068.html"],"created":1794629620,"id":"chatcmpl-80e55ff4-9fdd-48bd-96c3-f17c048c793e","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"[5"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.bilibili.com/video/BV1MxrmYdEWV","https://www.nbd.com.cn/articles/2025-01-07/3713068.html"],"created":1794629620,"id":"chatcmpl-80e55ff4-9fdd-48bd-96c3-f17c048c793e","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"]。"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.bilibili.com/video/BV1MxrmYdEWV","https://www.nbd.com.cn/articles/2025-01-07/3713068.html"],"created":1794629620,"id":"chatcmpl-80e55ff4-9fdd-48bd-96c3-f17c048c793e","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"多个"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.bilibili.com/video/BV1MxrmYdEWV","https://www.nbd.com.cn/articles/2025-01-07/3713068.html"],"created":1794629620,"id":"chatcmpl-80e55ff4-9fdd-48bd-96c3-f17c048c793e","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"来源["},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.bilibili.com/video/BV1MxrmYdEWV","https://www.nbd.com.cn/articles/2025-01-07/3713068.html"],"created":1794629620,"id":"chatcmpl-80e55ff4-9fdd-48bd-96c3-f17c048c793e","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"3][5]。\n\n需要"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.bilibili.com/video/BV1MxrmYdEWV","https://www.nbd.com.cn/articles/2025-01-07/3713068.html"],"created":1794629620,"id":"chatcmpl-80e55ff4-9fdd-48bd-96c3-f17c048c793e","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"明确"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.bilibili.com/video/BV1MxrmYdEWV","https://www.nbd.com.cn/articles/2025-01-07/3713068.html"],"created":1794629620,"id":"chatcmpl-80e55ff4-9fdd-48bd-96c3-f17c048c793e","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"“资料"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.bilibili.com/video/BV1MxrmYdEWV","https://www.nbd.com.cn/articles/2025-01-07/3713068.html"],"created":1794629620,"id":"chatcmpl-80e55ff4-9fdd-48bd-96c3-f17c048c793e","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"不足、"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.bilibili.com/video/BV1MxrmYdEWV","https://www.nbd.com.cn/articles/2025-01-07/3713068.html"],"created":1794629620,"id":"chatcmpl-80e55ff4-9fdd-48bd-96c3-f17c048c793e","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"存在分歧"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.bilibili.com/video/BV1MxrmYdEWV","https://www.nbd.com.cn/articles/2025-01-07/3713068.html"],"created":1794629620,"id":"chatcmpl-80e55ff4-9fdd-48bd-96c3-f17c048c793e","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"或尚未确认”"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.bilibili.com/video/BV1MxrmYdEWV","https://www.nbd.com.cn/articles/2025-01-07/3713068.html"],"created":1794629620,"id":"chatcmpl-80e55ff4-9fdd-48bd-96c3-f17c048c793e","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"的内容。可以提到“已被"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.bilibili.com/video/BV1MxrmYdEWV","https://www.nbd.com.cn/articles/2025-01-07/3713068.html"],"created":1794629620,"id":"chatcmpl-80e55ff4-9fdd-48bd-96c3-f17c048c793e","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"接到"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.bilibili.com/video/BV1MxrmYdEWV","https://www.nbd.com.cn/articles/2025-01-07/3713068.html"],"created":1794629620,"id":"chatcmpl-80e55ff4-9fdd-48bd-96c3-f17c048c793e","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"泰国”来自"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.bilibili.com/video/BV1MxrmYdEWV","https://www.nbd.com.cn/articles/2025-01-07/3713068.html"],"created":1794629620,"id":"chatcmpl-80e55ff4-9fdd-48bd-96c3-f17c048c793e","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"网页3"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.bilibili.com/video/BV1MxrmYdEWV","https://www.nbd.com.cn/articles/2025-01-07/3713068.html"],"created":1794629620,"id":"chatcmpl-80e55ff4-9fdd-48bd-96c3-f17c048c793e","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"标题，但细节"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.bilibili.com/video/BV1MxrmYdEWV","https://www.nbd.com.cn/articles/2025-01-07/3713068.html"],"created":1794629620,"id":"chatcmpl-80e55ff4-9fdd-48bd-96c3-f17c048c793e","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"主要在"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.bilibili.com/video/BV1MxrmYdEWV","https://www.nbd.com.cn/articles/2025-01-07/3713068.html"],"created":1794629620,"id":"chatcmpl-80e55ff4-9fdd-48bd-96c3-f17c048c793e","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"网页5。\n\n"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.bilibili.com/video/BV1MxrmYdEWV","https://www.nbd.com.cn/articles/2025-01-07/3713068.html"],"created":1794629620,"id":"chatcmpl-80e55ff4-9fdd-48bd-96c3-f17c048c793e","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"避免"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.bilibili.com/video/BV1MxrmYdEWV","https://www.nbd.com.cn/articles/2025-01-07/3713068.html"],"created":1794629620,"id":"chatcmpl-80e55ff4-9fdd-48bd-96c3-f17c048c793e","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"过度推断"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.bilibili.com/video/BV1MxrmYdEWV","https://www.nbd.com.cn/articles/2025-01-07/3713068.html"],"created":1794629620,"id":"chatcmpl-80e55ff4-9fdd-48bd-96c3-f17c048c793e","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"。可以写"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.bilibili.com/video/BV1MxrmYdEWV","https://www.nbd.com.cn/articles/2025-01-07/3713068.html"],"created":1794629620,"id":"chatcmpl-80e55ff4-9fdd-48bd-96c3-f17c048c793e","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"：从检索"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.bilibili.com/video/BV1MxrmYdEWV","https://www.nbd.com.cn/articles/2025-01-07/3713068.html"],"created":1794629620,"id":"chatcmpl-80e55ff4-9fdd-48bd-96c3-f17c048c793e","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"到的报道"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.bilibili.com/video/BV1MxrmYdEWV","https://www.nbd.com.cn/articles/2025-01-07/3713068.html"],"created":1794629620,"id":"chatcmpl-80e55ff4-9fdd-48bd-96c3-f17c048c793e","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"看，公开"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.bilibili.com/video/BV1MxrmYdEWV","https://www.nbd.com.cn/articles/2025-01-07/3713068.html"],"created":1794629620,"id":"chatcmpl-80e55ff4-9fdd-48bd-96c3-f17c048c793e","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"信息"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.bilibili.com/video/BV1MxrmYdEWV","https://www.nbd.com.cn/articles/2025-01-07/3713068.html"],"created":1794629620,"id":"chatcmpl-80e55ff4-9fdd-48bd-96c3-f17c048c793e","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"主要覆盖"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.bilibili.com/video/BV1MxrmYdEWV","https://www.nbd.com.cn/articles/2025-01-07/3713068.html"],"created":1794629620,"id":"chatcmpl-80e55ff4-9fdd-48bd-96c3-f17c048c793e","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"“找到"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.bilibili.com/video/BV1MxrmYdEWV","https://www.nbd.com.cn/articles/2025-01-07/3713068.html"],"created":1794629620,"id":"chatcmpl-80e55ff4-9fdd-48bd-96c3-f17c048c793e","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"并接"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.bilibili.com/video/BV1MxrmYdEWV","https://www.nbd.com.cn/articles/2025-01-07/3713068.html"],"created":1794629620,"id":"chatcmpl-80e55ff4-9fdd-48bd-96c3-f17c048c793e","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"回泰国”这一阶段"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.bilibili.com/video/BV1MxrmYdEWV","https://www.nbd.com.cn/articles/2025-01-07/3713068.html"],"created":1794629620,"id":"chatcmpl-80e55ff4-9fdd-48bd-96c3-f17c048c793e","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"；"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.bilibili.com/video/BV1MxrmYdEWV","https://www.nbd.com.cn/articles/2025-01-07/3713068.html"],"created":1794629620,"id":"chatcmpl-80e55ff4-9fdd-48bd-96c3-f17c048c793e","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"至于"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.bilibili.com/video/BV1MxrmYdEWV","https://www.nbd.com.cn/articles/2025-01-07/3713068.html"],"created":1794629620,"id":"chatcmpl-80e55ff4-9fdd-48bd-96c3-f17c048c793e","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"其后"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.bilibili.com/video/BV1MxrmYdEWV","https://www.nbd.com.cn/articles/2025-01-07/3713068.html"],"created":1794629620,"id":"chatcmpl-80e55ff4-9fdd-48bd-96c3-f17c048c793e","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"如何"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.bilibili.com/video/BV1MxrmYdEWV","https://www.nbd.com.cn/articles/2025-01-07/3713068.html"],"created":1794629620,"id":"chatcmpl-80e55ff4-9fdd-48bd-96c3-f17c048c793e","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"从泰国"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.bilibili.com/video/BV1MxrmYdEWV","https://www.nbd.com.cn/articles/2025-01-07/3713068.html"],"created":1794629620,"id":"chatcmpl-80e55ff4-9fdd-48bd-96c3-f17c048c793e","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"返回中国，现有"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.bilibili.com/video/BV1MxrmYdEWV","https://www.nbd.com.cn/articles/2025-01-07/3713068.html"],"created":1794629620,"id":"chatcmpl-80e55ff4-9fdd-48bd-96c3-f17c048c793e","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"材料"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.bilibili.com/video/BV1MxrmYdEWV","https://www.nbd.com.cn/articles/2025-01-07/3713068.html"],"created":1794629620,"id":"chatcmpl-80e55ff4-9fdd-48bd-96c3-f17c048c793e","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"没有"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.bilibili.com/video/BV1MxrmYdEWV","https://www.nbd.com.cn/articles/2025-01-07/3713068.html"],"created":1794629620,"id":"chatcmpl-80e55ff4-9fdd-48bd-96c3-f17c048c793e","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"给出具体航班"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.bilibili.com/video/BV1MxrmYdEWV","https://www.nbd.com.cn/articles/2025-01-07/3713068.html"],"created":1794629620,"id":"chatcmpl-80e55ff4-9fdd-48bd-96c3-f17c048c793e","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"、口岸"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.bilibili.com/video/BV1MxrmYdEWV","https://www.nbd.com.cn/articles/2025-01-07/3713068.html"],"created":1794629620,"id":"chatcmpl-80e55ff4-9fdd-48bd-96c3-f17c048c793e","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"或时间安排，因此无法"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.bilibili.com/video/BV1MxrmYdEWV","https://www.nbd.com.cn/articles/2025-01-07/3713068.html"],"created":1794629620,"id":"chatcmpl-80e55ff4-9fdd-48bd-96c3-f17c048c793e","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"据此复"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.bilibili.com/video/BV1MxrmYdEWV","https://www.nbd.com.cn/articles/2025-01-07/3713068.html"],"created":1794629620,"id":"chatcmpl-80e55ff4-9fdd-48bd-96c3-f17c048c793e","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"述完整"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.bilibili.com/video/BV1MxrmYdEWV","https://www.nbd.com.cn/articles/2025-01-07/3713068.html"],"created":1794629620,"id":"chatcmpl-80e55ff4-9fdd-48bd-96c3-f17c048c793e","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"闭环"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.bilibili.com/video/BV1MxrmYdEWV","https://www.nbd.com.cn/articles/2025-01-07/3713068.html"],"created":1794629620,"id":"chatcmpl-80e55ff4-9fdd-48bd-96c3-f17c048c793e","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"。\n\n字数"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.bilibili.com/video/BV1MxrmYdEWV","https://www.nbd.com.cn/articles/2025-01-07/3713068.html"],"created":1794629620,"id":"chatcmpl-80e55ff4-9fdd-48bd-96c3-f17c048c793e","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"适中。"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.bilibili.com/video/BV1MxrmYdEWV","https://www.nbd.com.cn/articles/2025-01-07/3713068.html"],"created":1794629620,"id":"chatcmpl-80e55ff4-9fdd-48bd-96c3-f17c048c793e","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"根据"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.bilibili.com/video/BV1MxrmYdEWV","https://www.nbd.com.cn/articles/2025-01-07/3713068.html"],"created":1794629620,"id":"chatcmpl-80e55ff4-9fdd-48bd-96c3-f17c048c793e","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"现有检索"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.bilibili.com/video/BV1MxrmYdEWV","https://www.nbd.com.cn/articles/2025-01-07/3713068.html"],"created":1794629620,"id":"chatcmpl-80e55ff4-9fdd-48bd-96c3-f17c048c793e","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"到的"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.bilibili.com/video/BV1MxrmYdEWV","https://www.nbd.com.cn/articles/2025-01-07/3713068.html"],"created":1794629620,"id":"chatcmpl-80e55ff4-9fdd-48bd-96c3-f17c048c793e","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"报道，王"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.bilibili.com/video/BV1MxrmYdEWV","https://www.nbd.com.cn/articles/2025-01-07/3713068.html"],"created":1794629620,"id":"chatcmpl-80e55ff4-9fdd-48bd-96c3-f17c048c793e","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"星（"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.bilibili.com/video/BV1MxrmYdEWV","https://www.nbd.com.cn/articles/2025-01-07/3713068.html"],"created":1794629620,"id":"chatcmpl-80e55ff4-9fdd-48bd-96c3-f17c048c793e","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"星星"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.bilibili.com/video/BV1MxrmYdEWV","https://www.nbd.com.cn/articles/2025-01-07/3713068.html"],"created":1794629620,"id":"chatcmpl-80e55ff4-9fdd-48bd-96c3-f17c048c793e","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"）失联后被"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.bilibili.com/video/BV1MxrmYdEWV","https://www.nbd.com.cn/articles/2025-01-07/3713068.html"],"created":1794629620,"id":"chatcmpl-80e55ff4-9fdd-48bd-96c3-f17c048c793e","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"找到并"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.bilibili.com/video/BV1MxrmYdEWV","https://www.nbd.com.cn/articles/2025-01-07/3713068.html"],"created":1794629620,"id":"chatcmpl-80e55ff4-9fdd-48bd-96c3-f17c048c793e","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"接回泰"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.bilibili.com/video/BV1MxrmYdEWV","https://www.nbd.com.cn/articles/2025-01-07/3713068.html"],"created":1794629620,"id":"chatcmpl-80e55ff4-9fdd-48bd-96c3-f17c048c793e","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"国的过程"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.bilibili.com/video/BV1MxrmYdEWV","https://www.nbd.com.cn/articles/2025-01-07/3713068.html"],"created":1794629620,"id":"chatcmpl-80e55ff4-9fdd-48bd-96c3-f17c048c793e","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"大致"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.bilibili.com/video/BV1MxrmYdEWV","https://www.nbd.com.cn/articles/2025-01-07/3713068.html"],"created":1794629620,"id":"chatcmpl-80e55ff4-9fdd-48bd-96c3-f17c048c793e","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"是"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.bilibili.com/video/BV1MxrmYdEWV","https://www.nbd.com.cn/articles/2025-01-07/3713068.html"],"created":1794629620,"id":"chatcmpl-80e55ff4-9fdd-48bd-96c3-f17c048c793e","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"：**泰缅"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.bilibili.com/video/BV1MxrmYdEWV","https://www.nbd.com.cn/articles/2025-01-07/3713068.html"],"created":1794629620,"id":"chatcmpl-80e55ff4-9fdd-48bd-96c3-f17c048c793e","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"双方协调"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.bilibili.com/video/BV1MxrmYdEWV","https://www.nbd.com.cn/articles/2025-01-07/3713068.html"],"created":1794629620,"id":"chatcmpl-80e55ff4-9fdd-48bd-96c3-f17c048c793e","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"后，缅"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.bilibili.com/video/BV1MxrmYdEWV","https://www.nbd.com.cn/articles/2025-01-07/3713068.html"],"created":1794629620,"id":"chatcmpl-80e55ff4-9fdd-48bd-96c3-f17c048c793e","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"方将其"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.bilibili.com/video/BV1MxrmYdEWV","https://www.nbd.com.cn/articles/2025-01-07/3713068.html"],"created":1794629620,"id":"chatcmpl-80e55ff4-9fdd-48bd-96c3-f17c048c793e","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"送回"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.bilibili.com/video/BV1MxrmYdEWV","https://www.nbd.com.cn/articles/2025-01-07/3713068.html"],"created":1794629620,"id":"chatcmpl-80e55ff4-9fdd-48bd-96c3-f17c048c793e","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"泰国，"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.bilibili.com/video/BV1MxrmYdEWV","https://www.nbd.com.cn/articles/2025-01-07/3713068.html"],"created":1794629620,"id":"chatcmpl-80e55ff4-9fdd-48bd-96c3-f17c048c793e","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"泰国"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.bilibili.com/video/BV1MxrmYdEWV","https://www.nbd.com.cn/articles/2025-01-07/3713068.html"],"created":1794629620,"id":"chatcmpl-80e55ff4-9fdd-48bd-96c3-f17c048c793e","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"警方高层"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.bilibili.com/video/BV1MxrmYdEWV","https://www.nbd.com.cn/articles/2025-01-07/3713068.html"],"created":1794629620,"id":"chatcmpl-80e55ff4-9fdd-48bd-96c3-f17c048c793e","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"专"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.bilibili.com/video/BV1MxrmYdEWV","https://www.nbd.com.cn/articles/2025-01-07/3713068.html"],"created":1794629620,"id":"chatcmpl-80e55ff4-9fdd-48bd-96c3-f17c048c793e","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"程赴"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.bilibili.com/video/BV1MxrmYdEWV","https://www.nbd.com.cn/articles/2025-01-07/3713068.html"],"created":1794629620,"id":"chatcmpl-80e55ff4-9fdd-48bd-96c3-f17c048c793e","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"湄索"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.bilibili.com/video/BV1MxrmYdEWV","https://www.nbd.com.cn/articles/2025-01-07/3713068.html"],"created":1794629620,"id":"chatcmpl-80e55ff4-9fdd-48bd-96c3-f17c048c793e","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"接"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.bilibili.com/video/BV1MxrmYdEWV","https://www.nbd.com.cn/articles/2025-01-07/3713068.html"],"created":1794629620,"id":"chatcmpl-80e55ff4-9fdd-48bd-96c3-f17c048c793e","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"人"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.bilibili.com/video/BV1MxrmYdEWV","https://www.nbd.com.cn/articles/2025-01-07/3713068.html"],"created":1794629620,"id":"chatcmpl-80e55ff4-9fdd-48bd-96c3-f17c048c793e","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"**。但"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.bilibili.com/video/BV1MxrmYdEWV","https://www.nbd.com.cn/articles/2025-01-07/3713068.html"],"created":1794629620,"id":"chatcmpl-80e55ff4-9fdd-48bd-96c3-f17c048c793e","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"检索"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.bilibili.com/video/BV1MxrmYdEWV","https://www.nbd.com.cn/articles/2025-01-07/3713068.html"],"created":1794629620,"id":"chatcmpl-80e55ff4-9fdd-48bd-96c3-f17c048c793e","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"资料主要"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.bilibili.com/video/BV1MxrmYdEWV","https://www.nbd.com.cn/articles/2025-01-07/3713068.html"],"created":1794629620,"id":"chatcmpl-80e55ff4-9fdd-48bd-96c3-f17c048c793e","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"覆盖“找到"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.bilibili.com/video/BV1MxrmYdEWV","https://www.nbd.com.cn/articles/2025-01-07/3713068.html"],"created":1794629620,"id":"chatcmpl-80e55ff4-9fdd-48bd-96c3-f17c048c793e","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"并接回泰国”这一段"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.bilibili.com/video/BV1MxrmYdEWV","https://www.nbd.com.cn/articles/2025-01-07/3713068.html"],"created":1794629620,"id":"chatcmpl-80e55ff4-9fdd-48bd-96c3-f17c048c793e","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"，**"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.bilibili.com/video/BV1MxrmYdEWV","https://www.nbd.com.cn/articles/2025-01-07/3713068.html"],"created":1794629620,"id":"chatcmpl-80e55ff4-9fdd-48bd-96c3-f17c048c793e","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"关于他此后"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.bilibili.com/video/BV1MxrmYdEWV","https://www.nbd.com.cn/articles/2025-01-07/3713068.html"],"created":1794629620,"id":"chatcmpl-80e55ff4-9fdd-48bd-96c3-f17c048c793e","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"如何从泰国"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.bilibili.com/video/BV1MxrmYdEWV","https://www.nbd.com.cn/articles/2025-01-07/3713068.html"],"created":1794629620,"id":"chatcmpl-80e55ff4-9fdd-48bd-96c3-f17c048c793e","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"回到中国的"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.bilibili.com/video/BV1MxrmYdEWV","https://www.nbd.com.cn/articles/2025-01-07/3713068.html"],"created":1794629620,"id":"chatcmpl-80e55ff4-9fdd-48bd-96c3-f17c048c793e","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"具体安排，现有"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.bilibili.com/video/BV1MxrmYdEWV","https://www.nbd.com.cn/articles/2025-01-07/3713068.html"],"created":1794629620,"id":"chatcmpl-80e55ff4-9fdd-48bd-96c3-f17c048c793e","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"材料"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.bilibili.com/video/BV1MxrmYdEWV","https://www.nbd.com.cn/articles/2025-01-07/3713068.html"],"created":1794629620,"id":"chatcmpl-80e55ff4-9fdd-48bd-96c3-f17c048c793e","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"没有提供"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.bilibili.com/video/BV1MxrmYdEWV","https://www.nbd.com.cn/articles/2025-01-07/3713068.html"],"created":1794629620,"id":"chatcmpl-80e55ff4-9fdd-48bd-96c3-f17c048c793e","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"**，因此无法"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.bilibili.com/video/BV1MxrmYdEWV","https://www.nbd.com.cn/articles/2025-01-07/3713068.html"],"created":1794629620,"id":"chatcmpl-80e55ff4-9fdd-48bd-96c3-f17c048c793e","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"据此"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.bilibili.com/video/BV1MxrmYdEWV","https://www.nbd.com.cn/articles/2025-01-07/3713068.html"],"created":1794629620,"id":"chatcmpl-80e55ff4-9fdd-48bd-96c3-f17c048c793e","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"确认"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.bilibili.com/video/BV1MxrmYdEWV","https://www.nbd.com.cn/articles/2025-01-07/3713068.html"],"created":1794629620,"id":"chatcmpl-80e55ff4-9fdd-48bd-96c3-f17c048c793e","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"完整细节"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.bilibili.com/video/BV1MxrmYdEWV","https://www.nbd.com.cn/articles/2025-01-07/3713068.html"],"created":1794629620,"id":"chatcmpl-80e55ff4-9fdd-48bd-96c3-f17c048c793e","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"。\n\n具体"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.bilibili.com/video/BV1MxrmYdEWV","https://www.nbd.com.cn/articles/2025-01-07/3713068.html"],"created":1794629620,"id":"chatcmpl-80e55ff4-9fdd-48bd-96c3-f17c048c793e","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"事实"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.bilibili.com/video/BV1MxrmYdEWV","https://www.nbd.com.cn/articles/2025-01-07/3713068.html"],"created":1794629620,"id":"chatcmpl-80e55ff4-9fdd-48bd-96c3-f17c048c793e","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"如下：\n\n- **发现"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.bilibili.com/video/BV1MxrmYdEWV","https://www.nbd.com.cn/articles/2025-01-07/3713068.html"],"created":1794629620,"id":"chatcmpl-80e55ff4-9fdd-48bd-96c3-f17c048c793e","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"地点与"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.bilibili.com/video/BV1MxrmYdEWV","https://www.nbd.com.cn/articles/2025-01-07/3713068.html"],"created":1794629620,"id":"chatcmpl-80e55ff4-9fdd-48bd-96c3-f17c048c793e","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"初步"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.bilibili.com/video/BV1MxrmYdEWV","https://www.nbd.com.cn/articles/2025-01-07/3713068.html"],"created":1794629620,"id":"chatcmpl-80e55ff4-9fdd-48bd-96c3-f17c048c793e","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"处置"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.bilibili.com/video/BV1MxrmYdEWV","https://www.nbd.com.cn/articles/2025-01-07/3713068.html"],"created":1794629620,"id":"chatcmpl-80e55ff4-9fdd-48bd-96c3-f17c048c793e","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"**：2025年1"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.bilibili.com/video/BV1MxrmYdEWV","https://www.nbd.com.cn/articles/2025-01-07/3713068.html"],"created":1794629620,"id":"chatcmpl-80e55ff4-9fdd-48bd-96c3-f17c048c793e","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"月7日，泰国总理"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.bilibili.com/video/BV1MxrmYdEWV","https://www.nbd.com.cn/articles/2025-01-07/3713068.html"],"created":1794629620,"id":"chatcmpl-80e55ff4-9fdd-48bd-96c3-f17c048c793e","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"佩"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.bilibili.com/video/BV1MxrmYdEWV","https://www.nbd.com.cn/articles/2025-01-07/3713068.html"],"created":1794629620,"id":"chatcmpl-80e55ff4-9fdd-48bd-96c3-f17c048c793e","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"通"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.bilibili.com/video/BV1MxrmYdEWV","https://www.nbd.com.cn/articles/2025-01-07/3713068.html"],"created":1794629620,"id":"chatcmpl-80e55ff4-9fdd-48bd-96c3-f17c048c793e","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"坦·"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.bilibili.com/video/BV1MxrmYdEWV","https://www.nbd.com.cn/articles/2025-01-07/3713068.html"],"created":1794629620,"id":"chatcmpl-80e55ff4-9fdd-48bd-96c3-f17c048c793e","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"钦那"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.bilibili.com/video/BV1MxrmYdEWV","https://www.nbd.com.cn/articles/2025-01-07/3713068.html"],"created":1794629620,"id":"chatcmpl-80e55ff4-9fdd-48bd-96c3-f17c048c793e","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"瓦透露，在泰"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.bilibili.com/video/BV1MxrmYdEWV","https://www.nbd.com.cn/articles/2025-01-07/3713068.html"],"created":1794629620,"id":"chatcmpl-80e55ff4-9fdd-48bd-96c3-f17c048c793e","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"缅边境的"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.bilibili.com/video/BV1MxrmYdEWV","https://www.nbd.com.cn/articles/2025-01-07/3713068.html"],"created":1794629620,"id":"chatcmpl-80e55ff4-9fdd-48bd-96c3-f17c048c793e","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"**湄索边境"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.bilibili.com/video/BV1MxrmYdEWV","https://www.nbd.com.cn/articles/2025-01-07/3713068.html"],"created":1794629620,"id":"chatcmpl-80e55ff4-9fdd-48bd-96c3-f17c048c793e","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"附近**发现了"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.bilibili.com/video/BV1MxrmYdEWV","https://www.nbd.com.cn/articles/2025-01-07/3713068.html"],"created":1794629620,"id":"chatcmpl-80e55ff4-9fdd-48bd-96c3-f17c048c793e","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"中国演员“"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.bilibili.com/video/BV1MxrmYdEWV","https://www.nbd.com.cn/articles/2025-01-07/3713068.html"],"created":1794629620,"id":"chatcmpl-80e55ff4-9fdd-48bd-96c3-f17c048c793e","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"星星”，泰国省警察"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.bilibili.com/video/BV1MxrmYdEWV","https://www.nbd.com.cn/articles/2025-01-07/3713068.html"],"created":1794629620,"id":"chatcmpl-80e55ff4-9fdd-48bd-96c3-f17c048c793e","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"第6区正在"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.bilibili.com/video/BV1MxrmYdEWV","https://www.nbd.com.cn/articles/2025-01-07/3713068.html"],"created":1794629620,"id":"chatcmpl-80e55ff4-9fdd-48bd-96c3-f17c048c793e","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"那里等待接回"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.bilibili.com/video/BV1MxrmYdEWV","https://www.nbd.com.cn/articles/2025-01-07/3713068.html"],"created":1794629620,"id":"chatcmpl-80e55ff4-9fdd-48bd-96c3-f17c048c793e","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"他[5]"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.bilibili.com/video/BV1MxrmYdEWV","https://www.nbd.com.cn/articles/2025-01-07/3713068.html"],"created":1794629620,"id":"chatcmpl-80e55ff4-9fdd-48bd-96c3-f17c048c793e","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"。\n- **泰方"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.bilibili.com/video/BV1MxrmYdEWV","https://www.nbd.com.cn/articles/2025-01-07/3713068.html"],"created":1794629620,"id":"chatcmpl-80e55ff4-9fdd-48bd-96c3-f17c048c793e","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"高层赴"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.bilibili.com/video/BV1MxrmYdEWV","https://www.nbd.com.cn/articles/2025-01-07/3713068.html"],"created":1794629620,"id":"chatcmpl-80e55ff4-9fdd-48bd-96c3-f17c048c793e","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"边境"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.bilibili.com/video/BV1MxrmYdEWV","https://www.nbd.com.cn/articles/2025-01-07/3713068.html"],"created":1794629620,"id":"chatcmpl-80e55ff4-9fdd-48bd-96c3-f17c048c793e","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"接人**：同日"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.bilibili.com/video/BV1MxrmYdEWV","https://www.nbd.com.cn/articles/2025-01-07/3713068.html"],"created":1794629620,"id":"chatcmpl-80e55ff4-9fdd-48bd-96c3-f17c048c793e","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"，泰国皇家警察"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.bilibili.com/video/BV1MxrmYdEWV","https://www.nbd.com.cn/articles/2025-01-07/3713068.html"],"created":1794629620,"id":"chatcmpl-80e55ff4-9fdd-48bd-96c3-f17c048c793e","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"总"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.bilibili.com/video/BV1MxrmYdEWV","https://www.nbd.com.cn/articles/2025-01-07/3713068.html"],"created":1794629620,"id":"chatcmpl-80e55ff4-9fdd-48bd-96c3-f17c048c793e","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"署署长"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.bilibili.com/video/BV1MxrmYdEWV","https://www.nbd.com.cn/articles/2025-01-07/3713068.html"],"created":1794629620,"id":"chatcmpl-80e55ff4-9fdd-48bd-96c3-f17c048c793e","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"、警察总监"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.bilibili.com/video/BV1MxrmYdEWV","https://www.nbd.com.cn/articles/2025-01-07/3713068.html"],"created":1794629620,"id":"chatcmpl-80e55ff4-9fdd-48bd-96c3-f17c048c793e","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"吉"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.bilibili.com/video/BV1MxrmYdEWV","https://www.nbd.com.cn/articles/2025-01-07/3713068.html"],"created":1794629620,"id":"chatcmpl-80e55ff4-9fdd-48bd-96c3-f17c048c793e","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"迪"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.bilibili.com/video/BV1MxrmYdEWV","https://www.nbd.com.cn/articles/2025-01-07/3713068.html"],"created":1794629620,"id":"chatcmpl-80e55ff4-9fdd-48bd-96c3-f17c048c793e","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"拉·"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.bilibili.com/video/BV1MxrmYdEWV","https://www.nbd.com.cn/articles/2025-01-07/3713068.html"],"created":1794629620,"id":"chatcmpl-80e55ff4-9fdd-48bd-96c3-f17c048c793e","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"潘佩"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.bilibili.com/video/BV1MxrmYdEWV","https://www.nbd.com.cn/articles/2025-01-07/3713068.html"],"created":1794629620,"id":"chatcmpl-80e55ff4-9fdd-48bd-96c3-f17c048c793e","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"奇"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.bilibili.com/video/BV1MxrmYdEWV","https://www.nbd.com.cn/articles/2025-01-07/3713068.html"],"created":1794629620,"id":"chatcmpl-80e55ff4-9fdd-48bd-96c3-f17c048c793e","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"将军在总理"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.bilibili.com/video/BV1MxrmYdEWV","https://www.nbd.com.cn/articles/2025-01-07/3713068.html"],"created":1794629620,"id":"chatcmpl-80e55ff4-9fdd-48bd-96c3-f17c048c793e","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"确认已"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.bilibili.com/video/BV1MxrmYdEWV","https://www.nbd.com.cn/articles/2025-01-07/3713068.html"],"created":1794629620,"id":"chatcmpl-80e55ff4-9fdd-48bd-96c3-f17c048c793e","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"找到星星后，**"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.bilibili.com/video/BV1MxrmYdEWV","https://www.nbd.com.cn/articles/2025-01-07/3713068.html"],"created":1794629620,"id":"chatcmpl-80e55ff4-9fdd-48bd-96c3-f17c048c793e","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"搭乘特快专"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.bilibili.com/video/BV1MxrmYdEWV","https://www.nbd.com.cn/articles/2025-01-07/3713068.html"],"created":1794629620,"id":"chatcmpl-80e55ff4-9fdd-48bd-96c3-f17c048c793e","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"机飞"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.bilibili.com/video/BV1MxrmYdEWV","https://www.nbd.com.cn/articles/2025-01-07/3713068.html"],"created":1794629620,"id":"chatcmpl-80e55ff4-9fdd-48bd-96c3-f17c048c793e","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"往湄索**接"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.bilibili.com/video/BV1MxrmYdEWV","https://www.nbd.com.cn/articles/2025-01-07/3713068.html"],"created":1794629620,"id":"chatcmpl-80e55ff4-9fdd-48bd-96c3-f17c048c793e","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"他[5]。\n-"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.bilibili.com/video/BV1MxrmYdEWV","https://www.nbd.com.cn/articles/2025-01-07/3713068.html"],"created":1794629620,"id":"chatcmpl-80e55ff4-9fdd-48bd-96c3-f17c048c793e","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":" **缅方拘留"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.bilibili.com/video/BV1MxrmYdEWV","https://www.nbd.com.cn/articles/2025-01-07/3713068.html"],"created":1794629620,"id":"chatcmpl-80e55ff4-9fdd-48bd-96c3-f17c048c793e","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"与"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.bilibili.com/video/BV1MxrmYdEWV","https://www.nbd.com.cn/articles/2025-01-07/3713068.html"],"created":1794629620,"id":"chatcmpl-80e55ff4-9fdd-48bd-96c3-f17c048c793e","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"移交**：泰国警方称"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.bilibili.com/video/BV1MxrmYdEWV","https://www.nbd.com.cn/articles/2025-01-07/3713068.html"],"created":1794629620,"id":"chatcmpl-80e55ff4-9fdd-48bd-96c3-f17c048c793e","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"，星星"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.bilibili.com/video/BV1MxrmYdEWV","https://www.nbd.com.cn/articles/2025-01-07/3713068.html"],"created":1794629620,"id":"chatcmpl-80e55ff4-9fdd-48bd-96c3-f17c048c793e","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"是被**缅甸边防"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.bilibili.com/video/BV1MxrmYdEWV","https://www.nbd.com.cn/articles/2025-01-07/3713068.html"],"created":1794629620,"id":"chatcmpl-80e55ff4-9fdd-48bd-96c3-f17c048c793e","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"部队（BGF"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.bilibili.com/video/BV1MxrmYdEWV","https://www.nbd.com.cn/articles/2025-01-07/3713068.html"],"created":1794629620,"id":"chatcmpl-80e55ff4-9fdd-48bd-96c3-f17c048c793e","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"）拘留**，缅甸"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.bilibili.com/video/BV1MxrmYdEWV","https://www.nbd.com.cn/articles/2025-01-07/3713068.html"],"created":1794629620,"id":"chatcmpl-80e55ff4-9fdd-48bd-96c3-f17c048c793e","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"方面与泰国"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.bilibili.com/video/BV1MxrmYdEWV","https://www.nbd.com.cn/articles/2025-01-07/3713068.html"],"created":1794629620,"id":"chatcmpl-80e55ff4-9fdd-48bd-96c3-f17c048c793e","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"当局协调后，于"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.bilibili.com/video/BV1MxrmYdEWV","https://www.nbd.com.cn/articles/2025-01-07/3713068.html"],"created":1794629620,"id":"chatcmpl-80e55ff4-9fdd-48bd-96c3-f17c048c793e","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"当天"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.bilibili.com/video/BV1MxrmYdEWV","https://www.nbd.com.cn/articles/2025-01-07/3713068.html"],"created":1794629620,"id":"chatcmpl-80e55ff4-9fdd-48bd-96c3-f17c048c793e","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"中午过后"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.bilibili.com/video/BV1MxrmYdEWV","https://www.nbd.com.cn/articles/2025-01-07/3713068.html"],"created":1794629620,"id":"chatcmpl-80e55ff4-9fdd-48bd-96c3-f17c048c793e","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"将其"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.bilibili.com/video/BV1MxrmYdEWV","https://www.nbd.com.cn/articles/2025-01-07/3713068.html"],"created":1794629620,"id":"chatcmpl-80e55ff4-9fdd-48bd-96c3-f17c048c793e","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"送回泰国"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.bilibili.com/video/BV1MxrmYdEWV","https://www.nbd.com.cn/articles/2025-01-07/3713068.html"],"created":1794629620,"id":"chatcmpl-80e55ff4-9fdd-48bd-96c3-f17c048c793e","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"[5]。"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.bilibili.com/video/BV1MxrmYdEWV","https://www.nbd.com.cn/articles/2025-01-07/3713068.html"],"created":1794629620,"id":"chatcmpl-80e55ff4-9fdd-48bd-96c3-f17c048c793e","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"另有"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.bilibili.com/video/BV1MxrmYdEWV","https://www.nbd.com.cn/articles/2025-01-07/3713068.html"],"created":1794629620,"id":"chatcmpl-80e55ff4-9fdd-48bd-96c3-f17c048c793e","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"检索"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.bilibili.com/video/BV1MxrmYdEWV","https://www.nbd.com.cn/articles/2025-01-07/3713068.html"],"created":1794629620,"id":"chatcmpl-80e55ff4-9fdd-48bd-96c3-f17c048c793e","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"结果"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.bilibili.com/video/BV1MxrmYdEWV","https://www.nbd.com.cn/articles/2025-01-07/3713068.html"],"created":1794629620,"id":"chatcmpl-80e55ff4-9fdd-48bd-96c3-f17c048c793e","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"标题显示"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.bilibili.com/video/BV1MxrmYdEWV","https://www.nbd.com.cn/articles/2025-01-07/3713068.html"],"created":1794629620,"id":"chatcmpl-80e55ff4-9fdd-48bd-96c3-f17c048c793e","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"，王"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.bilibili.com/video/BV1MxrmYdEWV","https://www.nbd.com.cn/articles/2025-01-07/3713068.html"],"created":1794629620,"id":"chatcmpl-80e55ff4-9fdd-48bd-96c3-f17c048c793e","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"星"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.bilibili.com/video/BV1MxrmYdEWV","https://www.nbd.com.cn/articles/2025-01-07/3713068.html"],"created":1794629620,"id":"chatcmpl-80e55ff4-9fdd-48bd-96c3-f17c048c793e","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"“已被接到"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.bilibili.com/video/BV1MxrmYdEWV","https://www.nbd.com.cn/articles/2025-01-07/3713068.html"],"created":1794629620,"id":"chatcmpl-80e55ff4-9fdd-48bd-96c3-f17c048c793e","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"泰国”，中国"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.bilibili.com/video/BV1MxrmYdEWV","https://www.nbd.com.cn/articles/2025-01-07/3713068.html"],"created":1794629620,"id":"chatcmpl-80e55ff4-9fdd-48bd-96c3-f17c048c793e","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"驻泰"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.bilibili.com/video/BV1MxrmYdEWV","https://www.nbd.com.cn/articles/2025-01-07/3713068.html"],"created":1794629620,"id":"chatcmpl-80e55ff4-9fdd-48bd-96c3-f17c048c793e","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"使领馆对此"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.bilibili.com/video/BV1MxrmYdEWV","https://www.nbd.com.cn/articles/2025-01-07/3713068.html"],"created":1794629620,"id":"chatcmpl-80e55ff4-9fdd-48bd-96c3-f17c048c793e","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"表示感谢"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.bilibili.com/video/BV1MxrmYdEWV","https://www.nbd.com.cn/articles/2025-01-07/3713068.html"],"created":1794629620,"id":"chatcmpl-80e55ff4-9fdd-48bd-96c3-f17c048c793e","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"[3]。\n- **"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.bilibili.com/video/BV1MxrmYdEWV","https://www.nbd.com.cn/articles/2025-01-07/3713068.html"],"created":1794629620,"id":"chatcmpl-80e55ff4-9fdd-48bd-96c3-f17c048c793e","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"泰"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.bilibili.com/video/BV1MxrmYdEWV","https://www.nbd.com.cn/articles/2025-01-07/3713068.html"],"created":1794629620,"id":"chatcmpl-80e55ff4-9fdd-48bd-96c3-f17c048c793e","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"方表态"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.bilibili.com/video/BV1MxrmYdEWV","https://www.nbd.com.cn/articles/2025-01-07/3713068.html"],"created":1794629620,"id":"chatcmpl-80e55ff4-9fdd-48bd-96c3-f17c048c793e","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"的背景"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.bilibili.com/video/BV1MxrmYdEWV","https://www.nbd.com.cn/articles/2025-01-07/3713068.html"],"created":1794629620,"id":"chatcmpl-80e55ff4-9fdd-48bd-96c3-f17c048c793e","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"**：佩"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.bilibili.com/video/BV1MxrmYdEWV","https://www.nbd.com.cn/articles/2025-01-07/3713068.html"],"created":1794629620,"id":"chatcmpl-80e55ff4-9fdd-48bd-96c3-f17c048c793e","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"通"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.bilibili.com/video/BV1MxrmYdEWV","https://www.nbd.com.cn/articles/2025-01-07/3713068.html"],"created":1794629620,"id":"chatcmpl-80e55ff4-9fdd-48bd-96c3-f17c048c793e","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"坦当时强调，必须"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.bilibili.com/video/BV1MxrmYdEWV","https://www.nbd.com.cn/articles/2025-01-07/3713068.html"],"created":1794629620,"id":"chatcmpl-80e55ff4-9fdd-48bd-96c3-f17c048c793e","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"做好一切，"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.bilibili.com/video/BV1MxrmYdEWV","https://www.nbd.com.cn/articles/2025-01-07/3713068.html"],"created":1794629620,"id":"chatcmpl-80e55ff4-9fdd-48bd-96c3-f17c048c793e","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"避免"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.bilibili.com/video/BV1MxrmYdEWV","https://www.nbd.com.cn/articles/2025-01-07/3713068.html"],"created":1794629620,"id":"chatcmpl-80e55ff4-9fdd-48bd-96c3-f17c048c793e","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"影响泰国"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.bilibili.com/video/BV1MxrmYdEWV","https://www.nbd.com.cn/articles/2025-01-07/3713068.html"],"created":1794629620,"id":"chatcmpl-80e55ff4-9fdd-48bd-96c3-f17c048c793e","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"旅游，因为一旦"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.bilibili.com/video/BV1MxrmYdEWV","https://www.nbd.com.cn/articles/2025-01-07/3713068.html"],"created":1794629620,"id":"chatcmpl-80e55ff4-9fdd-48bd-96c3-f17c048c793e","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"发生此类"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.bilibili.com/video/BV1MxrmYdEWV","https://www.nbd.com.cn/articles/2025-01-07/3713068.html"],"created":1794629620,"id":"chatcmpl-80e55ff4-9fdd-48bd-96c3-f17c048c793e","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"事件，"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.bilibili.com/video/BV1MxrmYdEWV","https://www.nbd.com.cn/articles/2025-01-07/3713068.html"],"created":1794629620,"id":"chatcmpl-80e55ff4-9fdd-48bd-96c3-f17c048c793e","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"就会出现“泰国很"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.bilibili.com/video/BV1MxrmYdEWV","https://www.nbd.com.cn/articles/2025-01-07/3713068.html"],"created":1794629620,"id":"chatcmpl-80e55ff4-9fdd-48bd-96c3-f17c048c793e","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"危险、"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.bilibili.com/video/BV1MxrmYdEWV","https://www.nbd.com.cn/articles/2025-01-07/3713068.html"],"created":1794629620,"id":"chatcmpl-80e55ff4-9fdd-48bd-96c3-f17c048c793e","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"很可怕”的声音"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.bilibili.com/video/BV1MxrmYdEWV","https://www.nbd.com.cn/articles/2025-01-07/3713068.html"],"created":1794629620,"id":"chatcmpl-80e55ff4-9fdd-48bd-96c3-f17c048c793e","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"[5"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.bilibili.com/video/BV1MxrmYdEWV","https://www.nbd.com.cn/articles/2025-01-07/3713068.html"],"created":1794629620,"id":"chatcmpl-80e55ff4-9fdd-48bd-96c3-f17c048c793e","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"]。\n\n需要"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.bilibili.com/video/BV1MxrmYdEWV","https://www.nbd.com.cn/articles/2025-01-07/3713068.html"],"created":1794629620,"id":"chatcmpl-80e55ff4-9fdd-48bd-96c3-f17c048c793e","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"说明的是：检索"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.bilibili.com/video/BV1MxrmYdEWV","https://www.nbd.com.cn/articles/2025-01-07/3713068.html"],"created":1794629620,"id":"chatcmpl-80e55ff4-9fdd-48bd-96c3-f17c048c793e","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"结果"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.bilibili.com/video/BV1MxrmYdEWV","https://www.nbd.com.cn/articles/2025-01-07/3713068.html"],"created":1794629620,"id":"chatcmpl-80e55ff4-9fdd-48bd-96c3-f17c048c793e","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"中还有“人"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.bilibili.com/video/BV1MxrmYdEWV","https://www.nbd.com.cn/articles/2025-01-07/3713068.html"],"created":1794629620,"id":"chatcmpl-80e55ff4-9fdd-48bd-96c3-f17c048c793e","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"已到缅甸"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.bilibili.com/video/BV1MxrmYdEWV","https://www.nbd.com.cn/articles/2025-01-07/3713068.html"],"created":1794629620,"id":"chatcmpl-80e55ff4-9fdd-48bd-96c3-f17c048c793e","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"，"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.bilibili.com/video/BV1MxrmYdEWV","https://www.nbd.com.cn/articles/2025-01-07/3713068.html"],"created":1794629620,"id":"chatcmpl-80e55ff4-9fdd-48bd-96c3-f17c048c793e","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"也到了灰产控制"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.bilibili.com/video/BV1MxrmYdEWV","https://www.nbd.com.cn/articles/2025-01-07/3713068.html"],"created":1794629620,"id":"chatcmpl-80e55ff4-9fdd-48bd-96c3-f17c048c793e","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"区内”“"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.bilibili.com/video/BV1MxrmYdEWV","https://www.nbd.com.cn/articles/2025-01-07/3713068.html"],"created":1794629620,"id":"chatcmpl-80e55ff4-9fdd-48bd-96c3-f17c048c793e","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"近"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.bilibili.com/video/BV1MxrmYdEWV","https://www.nbd.com.cn/articles/2025-01-07/3713068.html"],"created":1794629620,"id":"chatcmpl-80e55ff4-9fdd-48bd-96c3-f17c048c793e","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"照公布"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.bilibili.com/video/BV1MxrmYdEWV","https://www.nbd.com.cn/articles/2025-01-07/3713068.html"],"created":1794629620,"id":"chatcmpl-80e55ff4-9fdd-48bd-96c3-f17c048c793e","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"已被剃了"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.bilibili.com/video/BV1MxrmYdEWV","https://www.nbd.com.cn/articles/2025-01-07/3713068.html"],"created":1794629620,"id":"chatcmpl-80e55ff4-9fdd-48bd-96c3-f17c048c793e","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"光头”等标题信息"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.bilibili.com/video/BV1MxrmYdEWV","https://www.nbd.com.cn/articles/2025-01-07/3713068.html"],"created":1794629620,"id":"chatcmpl-80e55ff4-9fdd-48bd-96c3-f17c048c793e","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"[3]，但这些"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.bilibili.com/video/BV1MxrmYdEWV","https://www.nbd.com.cn/articles/2025-01-07/3713068.html"],"created":1794629620,"id":"chatcmpl-80e55ff4-9fdd-48bd-96c3-f17c048c793e","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"属于"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.bilibili.com/video/BV1MxrmYdEWV","https://www.nbd.com.cn/articles/2025-01-07/3713068.html"],"created":1794629620,"id":"chatcmpl-80e55ff4-9fdd-48bd-96c3-f17c048c793e","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"事件"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.bilibili.com/video/BV1MxrmYdEWV","https://www.nbd.com.cn/articles/2025-01-07/3713068.html"],"created":1794629620,"id":"chatcmpl-80e55ff4-9fdd-48bd-96c3-f17c048c793e","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"过程中的"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.bilibili.com/video/BV1MxrmYdEWV","https://www.nbd.com.cn/articles/2025-01-07/3713068.html"],"created":1794629620,"id":"chatcmpl-80e55ff4-9fdd-48bd-96c3-f17c048c793e","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"零"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.bilibili.com/video/BV1MxrmYdEWV","https://www.nbd.com.cn/articles/2025-01-07/3713068.html"],"created":1794629620,"id":"chatcmpl-80e55ff4-9fdd-48bd-96c3-f17c048c793e","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"散报道"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.bilibili.com/video/BV1MxrmYdEWV","https://www.nbd.com.cn/articles/2025-01-07/3713068.html"],"created":1794629620,"id":"chatcmpl-80e55ff4-9fdd-48bd-96c3-f17c048c793e","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"，"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.bilibili.com/video/BV1MxrmYdEWV","https://www.nbd.com.cn/articles/2025-01-07/3713068.html"],"created":1794629620,"id":"chatcmpl-80e55ff4-9fdd-48bd-96c3-f17c048c793e","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"不能替代官方"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.bilibili.com/video/BV1MxrmYdEWV","https://www.nbd.com.cn/articles/2025-01-07/3713068.html"],"created":1794629620,"id":"chatcmpl-80e55ff4-9fdd-48bd-96c3-f17c048c793e","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"完整"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.bilibili.com/video/BV1MxrmYdEWV","https://www.nbd.com.cn/articles/2025-01-07/3713068.html"],"created":1794629620,"id":"chatcmpl-80e55ff4-9fdd-48bd-96c3-f17c048c793e","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"通报。至于王"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.bilibili.com/video/BV1MxrmYdEWV","https://www.nbd.com.cn/articles/2025-01-07/3713068.html"],"created":1794629620,"id":"chatcmpl-80e55ff4-9fdd-48bd-96c3-f17c048c793e","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"星**从泰国返回"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.bilibili.com/video/BV1MxrmYdEWV","https://www.nbd.com.cn/articles/2025-01-07/3713068.html"],"created":1794629620,"id":"chatcmpl-80e55ff4-9fdd-48bd-96c3-f17c048c793e","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"中国的"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.bilibili.com/video/BV1MxrmYdEWV","https://www.nbd.com.cn/articles/2025-01-07/3713068.html"],"created":1794629620,"id":"chatcmpl-80e55ff4-9fdd-48bd-96c3-f17c048c793e","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"具体时间"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.bilibili.com/video/BV1MxrmYdEWV","https://www.nbd.com.cn/articles/2025-01-07/3713068.html"],"created":1794629620,"id":"chatcmpl-80e55ff4-9fdd-48bd-96c3-f17c048c793e","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"、航班"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.bilibili.com/video/BV1MxrmYdEWV","https://www.nbd.com.cn/articles/2025-01-07/3713068.html"],"created":1794629620,"id":"chatcmpl-80e55ff4-9fdd-48bd-96c3-f17c048c793e","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"或"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.bilibili.com/video/BV1MxrmYdEWV","https://www.nbd.com.cn/articles/2025-01-07/3713068.html"],"created":1794629620,"id":"chatcmpl-80e55ff4-9fdd-48bd-96c3-f17c048c793e","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"口岸安排**，上述"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.bilibili.com/video/BV1MxrmYdEWV","https://www.nbd.com.cn/articles/2025-01-07/3713068.html"],"created":1794629620,"id":"chatcmpl-80e55ff4-9fdd-48bd-96c3-f17c048c793e","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"资料"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.bilibili.com/video/BV1MxrmYdEWV","https://www.nbd.com.cn/articles/2025-01-07/3713068.html"],"created":1794629620,"id":"chatcmpl-80e55ff4-9fdd-48bd-96c3-f17c048c793e","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"均未涉及"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.bilibili.com/video/BV1MxrmYdEWV","https://www.nbd.com.cn/articles/2025-01-07/3713068.html"],"created":1794629620,"id":"chatcmpl-80e55ff4-9fdd-48bd-96c3-f17c048c793e","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"，属于"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.bilibili.com/video/BV1MxrmYdEWV","https://www.nbd.com.cn/articles/2025-01-07/3713068.html"],"created":1794629620,"id":"chatcmpl-80e55ff4-9fdd-48bd-96c3-f17c048c793e","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"目前"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.bilibili.com/video/BV1MxrmYdEWV","https://www.nbd.com.cn/articles/2025-01-07/3713068.html"],"created":1794629620,"id":"chatcmpl-80e55ff4-9fdd-48bd-96c3-f17c048c793e","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"检索"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.bilibili.com/video/BV1MxrmYdEWV","https://www.nbd.com.cn/articles/2025-01-07/3713068.html"],"created":1794629620,"id":"chatcmpl-80e55ff4-9fdd-48bd-96c3-f17c048c793e","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"材料"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.bilibili.com/video/BV1MxrmYdEWV","https://www.nbd.com.cn/articles/2025-01-07/3713068.html"],"created":1794629620,"id":"chatcmpl-80e55ff4-9fdd-48bd-96c3-f17c048c793e","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"未能"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.bilibili.com/video/BV1MxrmYdEWV","https://www.nbd.com.cn/articles/2025-01-07/3713068.html"],"created":1794629620,"id":"chatcmpl-80e55ff4-9fdd-48bd-96c3-f17c048c793e","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"确认的部分"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.bilibili.com/video/BV1MxrmYdEWV","https://www.nbd.com.cn/articles/2025-01-07/3713068.html"],"created":1794629620,"id":"chatcmpl-80e55ff4-9fdd-48bd-96c3-f17c048c793e","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"。"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.bilibili.com/video/BV1MxrmYdEWV","https://www.nbd.com.cn/articles/2025-01-07/3713068.html"],"created":1794629620,"id":"chatcmpl-80e55ff4-9fdd-48bd-96c3-f17c048c793e","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{},"finish_reason":"stop","index":0,"logprobs":null}],"citations":["https://www.bilibili.com/video/BV1MxrmYdEWV","https://www.nbd.com.cn/articles/2025-01-07/3713068.html"],"created":1794629620,"id":"chatcmpl-80e55ff4-9fdd-48bd-96c3-f17c048c793e","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[],"citations":["https://www.bilibili.com/video/BV1MxrmYdEWV","https://www.nbd.com.cn/articles/2025-01-07/3713068.html"],"created":1794629620,"id":"chatcmpl-80e55ff4-9fdd-48bd-96c3-f17c048c793e","model":"deepseek-flash","object":"chat.completion.chunk","usage":{"completion_tokens":949,"completion_tokens_details":{"reasoning_tokens":544},"prompt_tokens":994,"prompt_tokens_details":{"cached_tokens":0},"total_tokens":1943}}
+
+data: [DONE]
+

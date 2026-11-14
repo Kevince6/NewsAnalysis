@@ -1,0 +1,63 @@
+{
+  "task_id": "T0140",
+  "model": "deepseek",
+  "news_id": "E012",
+  "question_index": 2,
+  "question_original": "【开放】TikTok美国合资公司成立后，美国用户数据和推荐算法由谁负责，公告具体怎么安排？",
+  "question": "TikTok美国合资公司成立后，美国用户数据和推荐算法由谁负责，公告具体怎么安排？",
+  "attempt": 1,
+  "provider": "302.ai",
+  "model_requested": "deepseek-flash",
+  "query_date": "2026-11-14",
+  "search_service": "metaso",
+  "prompt_version": "news-search-v1",
+  "prompt_sha256": "ea56fd5557d32615a9115f2368a0c4983ff1188f4935369e694d7d46f2493be1",
+  "requested_at": "2026-11-14T11:39:46.047207+08:00",
+  "raw_file": "raw/T0140_deepseek_a001_de9355.json",
+  "transport": "sse",
+  "stream_file": "raw/T0140_deepseek_a001_de9355.sse",
+  "status": "ok",
+  "model_returned": "deepseek-flash",
+  "answer": "根据TikTok公告，美国用户数据和推荐算法的安排可以概括为：**数据本地化存储、由Oracle托管；算法由合资企业基于美国用户数据重新训练和更新，并在Oracle美国云环境中受保护**。具体安排如下：\n\n**1. 美国用户数据：本地存储、Oracle运营**\n公告称，美国用户数据将存储在美国本地系统中，该系统由Oracle运营[citation:1][citation:3]。这意味着数据不存放在境外，而是由美方可信合作方负责基础设施层面的管理。\n\n**2. 推荐算法：合资企业负责重新训练、测试和更新**\n合资企业将利用美国用户数据，对内容推荐算法进行**重新训练、测试和更新**[citation:1][citation:3]。公告特别强调，算法将在Oracle的美国云环境中进行安全保护[citation:3]。由于推荐算法一直是TikTok安全争论的核心问题[citation:1]，这一安排意在回应“算法受外部影响”的担忧。\n\n**3. 软件与源代码：通过协议保护并持续审查**\n合资企业将通过**软件保障协议**保护美国应用程序，并在Oracle协助下，持续审查和验证源代码[citation:3]。这属于配套的技术保障措施。\n\n**4. 运营职责：美国实体管理互操作性与商业活动**\nTikTok全球的美国实体将负责管理全球产品互操作性，以及某些商业活动，包括电子商务、广告和营销[citation:3]。\n\n**需要说明的是**：公告并未详细说明算法重新训练后对美国用户体验的具体影响，目前“尚不清楚这会对美国用户体验产生什么实际效果”，许多用户可能不会察觉到差异，除非出现故障[citation:4]。另有部分用户在Reddit上反映“For You”页面突然出现异常视频，但TikTok将此归因于数据中心断电导致的“级联系统故障”，而非算法调整[citation:4]。因此，算法安排的实际效果仍有待观察。",
+  "sources": [
+    {
+      "index": 1,
+      "url": "https://www.npr.org/2026/01/22/nx-s1-5685456/tiktok-finalizes-deal-to-form-new-american-entity#%3A~%3Atext%3DOracle%2C%20Silver%20Lake%20and%20the%2Cbillionaire%20founder%20of%20Dell%20Technologies.",
+      "title": null,
+      "origin": "citations"
+    },
+    {
+      "index": 2,
+      "url": "https://apnews.com/article/tiktok-oracle-venta-acuerdo-eeuu-d894daafd8b94c64ffbf37ec969aa1e7",
+      "title": null,
+      "origin": "citations"
+    },
+    {
+      "index": 3,
+      "url": "https://glosellers.com/57085.html",
+      "title": null,
+      "origin": "citations"
+    },
+    {
+      "index": 4,
+      "url": "https://www.businessoffashion.com/briefings/technology/tiktoks-new-us-algorithm/",
+      "title": null,
+      "origin": "citations"
+    }
+  ],
+  "usage": {
+    "completion_tokens": 958,
+    "completion_tokens_details": {
+      "reasoning_tokens": 560
+    },
+    "prompt_tokens": 1108,
+    "prompt_tokens_details": {
+      "cached_tokens": 0
+    },
+    "total_tokens": 2066
+  },
+  "finish_reason": "stop",
+  "note": [],
+  "request_id": "3ccf7477-6b22-4727-907b-0f5c75ca60e0",
+  "duration_seconds": 8.703
+}

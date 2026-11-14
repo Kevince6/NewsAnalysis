@@ -1,0 +1,57 @@
+{
+  "task_id": "T0097",
+  "model": "doubao",
+  "news_id": "E008",
+  "question_index": 3,
+  "question_original": "【事实】马杜罗和妻子什么时候天、在哪个城市被美方抓捕？",
+  "question": "马杜罗和妻子什么时候天、在哪个城市被美方抓捕？",
+  "attempt": 1,
+  "provider": "302.ai",
+  "model_requested": "doubao-seed-2-1-pro-260628",
+  "query_date": "2026-11-14",
+  "search_service": "metaso",
+  "prompt_version": "news-search-v1",
+  "prompt_sha256": "ea56fd5557d32615a9115f2368a0c4983ff1188f4935369e694d7d46f2493be1",
+  "requested_at": "2026-11-14T11:27:08.044527+08:00",
+  "raw_file": "raw/T0097_doubao_a001_f77236.json",
+  "transport": "sse",
+  "stream_file": "raw/T0097_doubao_a001_f77236.sse",
+  "status": "ok",
+  "model_returned": "doubao-seed-2-1-pro-260628",
+  "answer": "根据现有检索到的报道信息，马杜罗与妻子西莉亚·弗洛雷斯于2026年1月3日（周六）凌晨，在委内瑞拉首都加拉加斯被美军通过突袭行动抓捕[2][5]。\n\n### 相关事件背景与时间线细节：\n1.  **抓捕后的转运过程**：美军在加拉加斯完成抓捕后，首先用直升机将二人转运至美军军舰上，途中经停关塔那摩美军基地，随后换乘飞机飞往美国本土；3日傍晚，载有二人的飞机降落在纽约州的斯图尔特空军国民警卫队基地，之后马杜罗又被直升机转运至纽约市区，被关押在布鲁克林大都会拘留中心，其妻子也一同被美方拘押在纽约[2][5]。\n2.  **后续庭审进展**：美东时间2026年1月5日，马杜罗被警卫从布鲁克林的拘留中心带出，经直升机转运至纽约南区联邦地区法院首次出庭受审，庭审由法官阿尔文·赫勒斯坦主持。美方对马杜罗提出了毒品恐怖主义阴谋罪、可卡因走私阴谋罪、持有机枪及破坏性装置罪、针对美国的持有机枪及破坏性装置阴谋罪共四项指控；马杜罗在法庭上声明自己是“被绑架的”，明确表示自己无罪，拒绝了美方的全部指控[4]。\n3.  **各方即时反应**：抓捕行动发生后，委内瑞拉副总统罗德里格斯在3日下午发表电视讲话，谴责美方的行动属于“绑架”，要求美国立即释放马杜罗夫妇；同日，美国纽约、华盛顿等多个城市都有抗议者举行集会，反对美军这次在委内瑞拉开展的军事行动[2]。",
+  "sources": [
+    {
+      "index": 1,
+      "url": "https://m.thepaper.cn/newsDetail_forward_32309364",
+      "title": null,
+      "origin": "citations"
+    },
+    {
+      "index": 2,
+      "url": "http://baike.baidu.com/item/1%C2%B73%E9%A9%AC%E6%9D%9C%E7%BD%97%E5%A4%AB%E5%A6%87%E8%A2%AB%E6%8D%95%E4%BA%8B%E4%BB%B6/67170928?noadapt=1",
+      "title": null,
+      "origin": "citations"
+    },
+    {
+      "index": 3,
+      "url": "https://news.qq.com/rain/a/20260104A03OT100",
+      "title": null,
+      "origin": "citations"
+    }
+  ],
+  "usage": {
+    "completion_tokens": 4283,
+    "completion_tokens_details": {
+      "reasoning_tokens": 3906
+    },
+    "prompt_tokens": 1235,
+    "prompt_tokens_details": {
+      "cached_tokens": 0
+    },
+    "total_tokens": 5518
+  },
+  "finish_reason": "stop",
+  "note": [],
+  "request_id": "8d7637d0-11ed-4cd6-b491-70d6c9113d51",
+  "duration_seconds": 81.078
+}

@@ -1,0 +1,65 @@
+{
+  "task_id": "T0321",
+  "model": "qwen",
+  "news_id": "E027",
+  "question_index": 3,
+  "question_original": "【事实】美国何时通知英伟达H20对华出口需要许可，又在什么时候告知这项要求将长期执行？",
+  "question": "美国何时通知英伟达H20对华出口需要许可，又在什么时候告知这项要求将长期执行？",
+  "attempt": 1,
+  "provider": "302.ai",
+  "model_requested": "qwen3.8-max",
+  "query_date": "2026-11-14",
+  "search_service": "metaso",
+  "prompt_version": "news-search-v1",
+  "prompt_sha256": "ea56fd5557d32615a9115f2368a0c4983ff1188f4935369e694d7d46f2493be1",
+  "requested_at": "2026-11-14T12:23:46.035891+08:00",
+  "raw_file": "raw/T0321_qwen_a001_dc8bc0.json",
+  "transport": "sse",
+  "stream_file": "raw/T0321_qwen_a001_dc8bc0.sse",
+  "status": "ok",
+  "model_returned": "qwen3.8-max",
+  "answer": "美国政府是在**2025年4月9日**通知英伟达：向中国（含港澳）等国家和地区出口**H20芯片**及性能达到相关内存带宽、互连带宽水平的芯片，需要获得出口许可[2]。\n\n随后，美国政府又在**2025年4月14日**进一步告知英伟达，这项许可要求将**无限期/长期有效**[2]。英伟达在当地时间**2025年4月15日**的公告中披露了这一监管变化，并称该许可证要求将无限期存在[4]。",
+  "sources": [
+    {
+      "index": 1,
+      "url": "https://finance.sina.cn/tech/2025-04-18/detail-inetnfmx3524228.d.html",
+      "title": null,
+      "origin": "citations"
+    },
+    {
+      "index": 2,
+      "url": "https://www.chinaflashmarket.com/News/2025-04/182822?id=39697068.scm",
+      "title": null,
+      "origin": "citations"
+    },
+    {
+      "index": 3,
+      "url": "https://www.caixin.com/2025-07-15/102341288.html",
+      "title": null,
+      "origin": "citations"
+    },
+    {
+      "index": 4,
+      "url": "https://www.yicai.com/news/102579359.html",
+      "title": null,
+      "origin": "citations"
+    }
+  ],
+  "usage": {
+    "completion_tokens": 437,
+    "completion_tokens_details": {
+      "reasoning_tokens": 307,
+      "text_tokens": 437
+    },
+    "prompt_tokens": 1480,
+    "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "text_tokens": 1480
+    },
+    "total_tokens": 1917
+  },
+  "finish_reason": "stop",
+  "note": [],
+  "request_id": "3d82d8c9-cbc9-4df5-8ba7-cce646e21e47",
+  "duration_seconds": 13.922
+}

@@ -1,0 +1,63 @@
+{
+  "task_id": "T0263",
+  "model": "deepseek",
+  "news_id": "E022",
+  "question_index": 2,
+  "question_original": "【事实】我是内地居民，从上海去海南旅游，带居民身份证够不够，还需要因为封关另办通行证吗？",
+  "question": "我是内地居民，从上海去海南旅游，带居民身份证够不够，还需要因为封关另办通行证吗？",
+  "attempt": 1,
+  "provider": "302.ai",
+  "model_requested": "deepseek-flash",
+  "query_date": "2026-11-14",
+  "search_service": "metaso",
+  "prompt_version": "news-search-v1",
+  "prompt_sha256": "ea56fd5557d32615a9115f2368a0c4983ff1188f4935369e694d7d46f2493be1",
+  "requested_at": "2026-11-14T12:10:25.721895+08:00",
+  "raw_file": "raw/T0263_deepseek_a001_3ab8a3.json",
+  "transport": "sse",
+  "stream_file": "raw/T0263_deepseek_a001_3ab8a3.sse",
+  "status": "ok",
+  "model_returned": "deepseek-flash",
+  "answer": "**够用，不需要另办通行证。** 内地居民从上海去海南旅游，往返仍按国内出行办理：用本人有效的中国居民身份证购票，乘飞机、火车或自驾前往即可，和去国内其他省份没有差别；海南自贸港封关后，中国公民前往旅游、出差也不需要另外办理证件，与封关前一样[1]。\n\n补充两点：\n- 需要留意的是身份证是否在有效期内；购票、乘机、酒店入住等环节通常都要使用身份证[1]。\n- 只有一种例外：如果你先出境，再从海南自贸港入境，则仍持本人有效中国护照或其他国际旅行证件接受边检查验；这与你从上海直接往返海南无关[1]。",
+  "sources": [
+    {
+      "index": 1,
+      "url": "https://www.nia.gov.cn/n741435/n1194535/n1762482/index.html",
+      "title": null,
+      "origin": "citations"
+    },
+    {
+      "index": 2,
+      "url": "https://zwdt.sh.gov.cn/govPortals/bsfw/item/53abdec0-af0a-4e0f-9a0c-c79d0029b49d",
+      "title": null,
+      "origin": "citations"
+    },
+    {
+      "index": 3,
+      "url": "https://zwdt.sh.gov.cn/govPortals/bsfw/item/add2fedf-0d87-4293-8636-a7e7b9435a24",
+      "title": null,
+      "origin": "citations"
+    },
+    {
+      "index": 4,
+      "url": "https://jtw.sh.gov.cn/zcgd/20241231/5937514701f54d0091a349f29030ac77.html",
+      "title": null,
+      "origin": "citations"
+    }
+  ],
+  "usage": {
+    "completion_tokens": 382,
+    "completion_tokens_details": {
+      "reasoning_tokens": 226
+    },
+    "prompt_tokens": 1188,
+    "prompt_tokens_details": {
+      "cached_tokens": 0
+    },
+    "total_tokens": 1570
+  },
+  "finish_reason": "stop",
+  "note": [],
+  "request_id": "0558749f-82f6-4f63-9509-89cd6f237c77",
+  "duration_seconds": 15.468
+}

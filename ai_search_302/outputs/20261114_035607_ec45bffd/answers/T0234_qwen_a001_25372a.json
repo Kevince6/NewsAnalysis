@@ -1,0 +1,53 @@
+{
+  "task_id": "T0234",
+  "model": "qwen",
+  "news_id": "E019",
+  "question_index": 3,
+  "question_original": "【事实】武汉大学对男生的记过处分作出了什么决定？",
+  "question": "武汉大学对男生的记过处分作出了什么决定？",
+  "attempt": 1,
+  "provider": "302.ai",
+  "model_requested": "qwen3.8-max",
+  "query_date": "2026-11-14",
+  "search_service": "metaso",
+  "prompt_version": "news-search-v1",
+  "prompt_sha256": "ea56fd5557d32615a9115f2368a0c4983ff1188f4935369e694d7d46f2493be1",
+  "requested_at": "2026-11-14T12:04:40.405621+08:00",
+  "raw_file": "raw/T0234_qwen_a001_25372a.json",
+  "transport": "sse",
+  "stream_file": "raw/T0234_qwen_a001_25372a.sse",
+  "status": "ok",
+  "model_returned": "qwen3.8-max",
+  "answer": "武汉大学决定**撤销对男生肖某瑫的记过处分**[4]。\n\n此前，武汉大学曾于2023年10月13日通报称，针对涉及该校学生的网上举报，经调查核实，决定给予2022级本科生肖某某记过处分[5]。后来，因肖某瑫与杨某媛的矛盾纠纷引发社会关注，学校组建调查复核专家组，对肖某瑫纪律处分等事项进行全面调查复核，并通报决定撤销其记过处分[4]。",
+  "sources": [
+    {
+      "index": 1,
+      "url": "https://finance.sina.cn/2025-09-20/detail-infrcarq8856719.d.html",
+      "title": null,
+      "origin": "citations"
+    },
+    {
+      "index": 2,
+      "url": "https://new.qq.com/rain/a/20231013A09HRI00",
+      "title": null,
+      "origin": "citations"
+    }
+  ],
+  "usage": {
+    "completion_tokens": 509,
+    "completion_tokens_details": {
+      "reasoning_tokens": 393,
+      "text_tokens": 509
+    },
+    "prompt_tokens": 913,
+    "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "text_tokens": 913
+    },
+    "total_tokens": 1422
+  },
+  "finish_reason": "stop",
+  "note": [],
+  "request_id": "2d0ecb2e-aee7-48b0-ab59-d4c2f2981fb2",
+  "duration_seconds": 13.219
+}

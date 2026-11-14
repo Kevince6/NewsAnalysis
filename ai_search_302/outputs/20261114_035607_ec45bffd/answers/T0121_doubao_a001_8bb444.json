@@ -1,0 +1,63 @@
+{
+  "task_id": "T0121",
+  "model": "doubao",
+  "news_id": "E010",
+  "question_index": 3,
+  "question_original": "【事实】2026年3月25日，苏州卫健委对疑似医疗文件泄露作了什么回应？这能说明泄露责任已经查清了吗？",
+  "question": "2026年3月25日，苏州卫健委对疑似医疗文件泄露作了什么回应？这能说明泄露责任已经查清了吗？",
+  "attempt": 1,
+  "provider": "302.ai",
+  "model_requested": "doubao-seed-2-1-pro-260628",
+  "query_date": "2026-11-14",
+  "search_service": "metaso",
+  "prompt_version": "news-search-v1",
+  "prompt_sha256": "ea56fd5557d32615a9115f2368a0c4983ff1188f4935369e694d7d46f2493be1",
+  "requested_at": "2026-11-14T11:33:39.895803+08:00",
+  "raw_file": "raw/T0121_doubao_a001_8bb444.json",
+  "transport": "sse",
+  "stream_file": "raw/T0121_doubao_a001_8bb444.sse",
+  "status": "ok",
+  "model_returned": "doubao-seed-2-1-pro-260628",
+  "answer": "2026年3月25日，针对疑似医疗文件泄露事件（网传为张雪峰医疗文件疑遭泄露事件），苏州市卫健委回应称：单位领导已经关注到该事件，已正式介入开展事件处理与调查工作，回应当日并未对外公布具体处置措施，也未披露相关调查进展[2][3]。\n这一回应节点的表态**完全不能说明泄露责任已经查清**，具体依据如下：\n1.  从回应本身的性质来看，“关注并介入处理”仅代表监管部门启动了事件处置程序，并非调查结论类通报：该回应既没有提及已锁定相关责任人、查实信息泄露的完整链条，也没有作出任何关于责任归属的明确认定[3]。而苏州市卫健委明确的事件处置目标，本身就包含“找到责任人、摸清信息泄露链条、依法从严惩处，整改医疗机构隐私保护体系”等核心内容，这也印证了在3月25日的回应节点，相关核查工作尚处于启动推进阶段，并未完成责任认定[1]。\n2.  作为涉事主体的苏州大学附属第四医院（独墅湖医院），在同日面对媒体多次问询时，工作人员先后以“不清楚”为由回避相关问题，甚至直接挂断电话，始终未对事件责任归属作出回应[2][3]。这种回避态度也侧面反映，当时事件并未形成明确的责任核查结论，涉事医院也未就责任问题准备好正式的对外回应口径。\n3.  从该事件涉及的责任认定复杂度来看，此类医疗信息泄露属于严重侵权行为，相关主体可能承担多层级的法律责任：泄露者不仅要承担侵犯隐私权与个人信息权益的民事责任，情节严重的还可能因侵犯公民个人信息罪被追究刑事责任，最高可获刑7年，若涉事医护人员利用职务之便泄露信息还将被从重处罚；如果医院存在管理失职问题，还需要承担行政罚款、系统性整改隐私保护体系的管理责任[1][4]。这类涉及民事、刑事、行政多维度的责任认定，需要经过全流程的调查核实才能得出结论，在仅宣布介入调查、未公布任何实质核查结果的阶段，根本不具备查清、认定全部责任的基础。\n\n### 引用来源说明\n[1] 苏州市卫健委针对医疗信息泄露事件的处置方向表态\n[2] 2026年3月25日涉事医院、苏州卫健委对媒体问询的回应记录\n[3] 张雪峰医疗文件疑遭泄露事件的官方回应情况报道\n[4] 医疗文件泄露事件的相关法律责任分析、涉事医院应对情况评论",
+  "sources": [
+    {
+      "index": 1,
+      "url": "https://www.thepaper.cn/newsDetail_forward_32829726",
+      "title": null,
+      "origin": "citations"
+    },
+    {
+      "index": 2,
+      "url": "https://baike.baidu.com/item/3%C2%B724%E5%BC%A0%E9%9B%AA%E5%B3%B0%E5%8C%BB%E7%96%97%E6%96%87%E4%BB%B6%E6%B3%84%E9%9C%B2%E4%BA%8B%E4%BB%B6/67531219",
+      "title": null,
+      "origin": "citations"
+    },
+    {
+      "index": 3,
+      "url": "https://www.sina.cn/news/detail/5280332683149673.html",
+      "title": null,
+      "origin": "citations"
+    },
+    {
+      "index": 4,
+      "url": "https://cj.sina.com.cn/articles/view/7879924075/m1d5ae196b03301ix04",
+      "title": null,
+      "origin": "citations"
+    }
+  ],
+  "usage": {
+    "completion_tokens": 5554,
+    "completion_tokens_details": {
+      "reasoning_tokens": 4983
+    },
+    "prompt_tokens": 1270,
+    "prompt_tokens_details": {
+      "cached_tokens": 0
+    },
+    "total_tokens": 6824
+  },
+  "finish_reason": "stop",
+  "note": [],
+  "request_id": "f6f186af-ffe1-4bf3-8054-eef0383f6d26",
+  "duration_seconds": 116.969
+}

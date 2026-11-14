@@ -1,0 +1,40 @@
+{
+  "task_id": "T0017",
+  "model": "deepseek",
+  "news_id": "E002",
+  "question_index": 2,
+  "question_original": "【事实】中国歌唱家刘欢去世的主要原因是什么？",
+  "question": "中国歌唱家刘欢去世的主要原因是什么？",
+  "attempt": 1,
+  "provider": "302.ai",
+  "model_requested": "deepseek-flash",
+  "query_date": "2026-11-14",
+  "search_service": "metaso",
+  "prompt_version": "news-search-v1",
+  "prompt_sha256": "ea56fd5557d32615a9115f2368a0c4983ff1188f4935369e694d7d46f2493be1",
+  "requested_at": "2026-11-14T04:09:40.619895+08:00",
+  "raw_file": "raw/T0017_deepseek_a001_199845.json",
+  "transport": "sse",
+  "stream_file": "raw/T0017_deepseek_a001_199845.sse",
+  "status": "needs_review",
+  "model_returned": "deepseek-flash",
+  "answer": "抱歉，我无法回答这个问题。请提出其他合规的问题。",
+  "sources": [],
+  "usage": {
+    "prompt_tokens": 182,
+    "completion_tokens": 84,
+    "total_tokens": 266,
+    "prompt_tokens_details": {
+      "cached_tokens": 0
+    },
+    "completion_tokens_details": {
+      "reasoning_tokens": 69
+    }
+  },
+  "finish_reason": "stop",
+  "note": [
+    "未返回平台来源链接；仅凭正文中的链接不能确认搜索是否成功。"
+  ],
+  "request_id": "cc4de56d-739b-4d41-ae9d-68fdb7411f9d",
+  "duration_seconds": 4.465
+}

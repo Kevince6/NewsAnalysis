@@ -1,0 +1,69 @@
+{
+  "task_id": "T0245",
+  "model": "deepseek",
+  "news_id": "E020",
+  "question_index": 3,
+  "question_original": "【事实】罗马仕自2025年6月16日起召回了几款充电宝，一共多少台？",
+  "question": "罗马仕自2025年6月16日起召回了几款充电宝，一共多少台？",
+  "attempt": 1,
+  "provider": "302.ai",
+  "model_requested": "deepseek-flash",
+  "query_date": "2026-11-14",
+  "search_service": "metaso",
+  "prompt_version": "news-search-v1",
+  "prompt_sha256": "ea56fd5557d32615a9115f2368a0c4983ff1188f4935369e694d7d46f2493be1",
+  "requested_at": "2026-11-14T12:07:07.222933+08:00",
+  "raw_file": "raw/T0245_deepseek_a001_ac77a6.json",
+  "transport": "sse",
+  "stream_file": "raw/T0245_deepseek_a001_ac77a6.sse",
+  "status": "ok",
+  "model_returned": "deepseek-flash",
+  "answer": "罗马仕自2025年6月16日起召回的充电宝为**3款**，合计**491,745台**。[1][2][4][5]\n\n补充信息：\n\n- 召回原因和依据：深圳罗马仕科技有限公司按照《消费品召回管理暂行规定》的要求，向深圳市市场监督管理局报告了召回计划，并自2025年6月16日起实施。[1][2]\n- 召回范围：2023年6月5日至2024年7月31日期间制造的部分罗马仕ROMOSS牌移动电源。[1][5]\n- 已披露的两个型号及数量为：PAC20-272，331,578台；PAC20-392，113,253台。两者合计444,831台，与总数491,745台相差46,914台，对应第三款型号；不过现有检索资料没有完整显示该型号的名称和数量。[2]\n\n因此，对于“几款、多少台”这一问题，准确答案是：**3款，共491,745台**。",
+  "sources": [
+    {
+      "index": 1,
+      "url": "https://baike.baidu.com/item/%E7%BD%97%E9%A9%AC%E4%BB%95/5828143#%3A~%3Atext%3D%E7%BD%97%E9%A9%AC%E4%BB%95_%E7%99%BE%E5%BA%A6%E7%99%BE%E7%A7%91%26text%3D%E7%BD%97%E9%A9%AC%E4%BB%95%EF%BC%88ROMOSS%EF%BC%89%E5%93%81%E7%89%8C%E9%9A%B6%E5%B1%9E%2C%E6%9C%8D%E5%8A%A1%E5%85%A8%E7%90%83%E2%80%9D%E7%9A%84%E5%8F%91%E5%B1%95%E6%A8%A1%E5%BC%8F%E3%80%82",
+      "title": null,
+      "origin": "citations"
+    },
+    {
+      "index": 2,
+      "url": "https://new.qq.com/rain/a/20250616A09KK700",
+      "title": null,
+      "origin": "citations"
+    },
+    {
+      "index": 3,
+      "url": "https://www.douyin.com/shipin/7517448159577065487",
+      "title": null,
+      "origin": "citations"
+    },
+    {
+      "index": 4,
+      "url": "http://finance.sina.com.cn/tech/digi/2025-07-07/doc-infeshpe4141027.shtml",
+      "title": null,
+      "origin": "citations"
+    },
+    {
+      "index": 5,
+      "url": "https://news.qq.com/rain/a/20260104A078TG00",
+      "title": null,
+      "origin": "citations"
+    }
+  ],
+  "usage": {
+    "completion_tokens": 454,
+    "completion_tokens_details": {
+      "reasoning_tokens": 239
+    },
+    "prompt_tokens": 1577,
+    "prompt_tokens_details": {
+      "cached_tokens": 0
+    },
+    "total_tokens": 2031
+  },
+  "finish_reason": "stop",
+  "note": [],
+  "request_id": "071f52d6-6068-44b7-bcc1-db50029aacca",
+  "duration_seconds": 4.484
+}

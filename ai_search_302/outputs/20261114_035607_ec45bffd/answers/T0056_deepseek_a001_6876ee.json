@@ -1,0 +1,28 @@
+{
+  "task_id": "T0056",
+  "model": "deepseek",
+  "news_id": "E005",
+  "question_index": 2,
+  "question_original": "【开放】民主党赢得国会两院后，特朗普推动预算、税收等法案会面临什么限制？这些限制意味着民主党可以直接推翻他的否决吗？",
+  "question": "民主党赢得国会两院后，特朗普推动预算、税收等法案会面临什么限制？这些限制意味着民主党可以直接推翻他的否决吗？",
+  "attempt": 1,
+  "provider": "302.ai",
+  "model_requested": "deepseek-flash",
+  "query_date": "2026-11-14",
+  "search_service": "metaso",
+  "prompt_version": "news-search-v1",
+  "prompt_sha256": "ea56fd5557d32615a9115f2368a0c4983ff1188f4935369e694d7d46f2493be1",
+  "requested_at": "2026-11-14T04:24:15.073619+08:00",
+  "raw_file": "raw/T0056_deepseek_a001_6876ee.json",
+  "transport": "sse",
+  "stream_file": "raw/T0056_deepseek_a001_6876ee.sse",
+  "status": "error",
+  "answer": null,
+  "sources": [],
+  "note": [
+    "流式连接中断：Remote end closed connection without response"
+  ],
+  "http_status": null,
+  "request_id": null,
+  "duration_seconds": 95.795
+}

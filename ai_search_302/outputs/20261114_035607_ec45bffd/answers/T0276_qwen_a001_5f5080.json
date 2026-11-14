@@ -1,0 +1,53 @@
+{
+  "task_id": "T0276",
+  "model": "qwen",
+  "news_id": "E023",
+  "question_index": 3,
+  "question_original": "【事实】张碧晨工作室用哪些版本上线日期，来主张她是《年轮》的原唱？",
+  "question": "张碧晨工作室用哪些版本上线日期，来主张她是《年轮》的原唱？",
+  "attempt": 1,
+  "provider": "302.ai",
+  "model_requested": "qwen3.8-max",
+  "query_date": "2026-11-14",
+  "search_service": "metaso",
+  "prompt_version": "news-search-v1",
+  "prompt_sha256": "ea56fd5557d32615a9115f2368a0c4983ff1188f4935369e694d7d46f2493be1",
+  "requested_at": "2026-11-14T12:12:55.551967+08:00",
+  "raw_file": "raw/T0276_qwen_a001_5f5080.json",
+  "transport": "sse",
+  "stream_file": "raw/T0276_qwen_a001_5f5080.sse",
+  "status": "ok",
+  "model_returned": "qwen3.8-max",
+  "answer": "张碧晨工作室主要用了两个版本的上线日期来主张她是《年轮》的原唱：\n\n1. **张碧晨版《年轮》**：工作室称该版本于**2015年6月15日**作为电视剧《花千骨》插曲率先上线。[4][5]  \n2. **男声版/汪苏泷版《年轮》**：工作室称该版本到**2015年6月30日**才登上音乐平台或以单曲形式上线。[4][5]\n\n工作室据此强调张碧晨版本“首发更早”，并声明《年轮》的“唯一原唱，不容置疑”。[5]  \n\n补充来说，搜索结果中还提到两版录制完成时间分别为2015年4月21日和4月30日，但张碧晨工作室用于主张原唱身份的核心时间线，是上述两个**上线日期**：6月15日与6月30日。[4]",
+  "sources": [
+    {
+      "index": 1,
+      "url": "http://k.sina.com.cn/article_7096020439_v1a6f4add706801izhy.html",
+      "title": null,
+      "origin": "citations"
+    },
+    {
+      "index": 2,
+      "url": "https://www.sohu.com/a/920313200_122001252",
+      "title": null,
+      "origin": "citations"
+    }
+  ],
+  "usage": {
+    "completion_tokens": 1212,
+    "completion_tokens_details": {
+      "reasoning_tokens": 996,
+      "text_tokens": 1212
+    },
+    "prompt_tokens": 1089,
+    "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "text_tokens": 1089
+    },
+    "total_tokens": 2301
+  },
+  "finish_reason": "stop",
+  "note": [],
+  "request_id": "f2b21e13-a0a7-4918-93e6-88d8dc6ac67b",
+  "duration_seconds": 27.344
+}

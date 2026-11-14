@@ -1,0 +1,57 @@
+{
+  "task_id": "T0158",
+  "model": "deepseek",
+  "news_id": "E013",
+  "question_index": 4,
+  "question_original": "【事实】孩子2024年出生、之前一直没申请育儿补贴，2026年还能补申请吗？最晚什么时候提交？",
+  "question": "孩子2024年出生、之前一直没申请育儿补贴，2026年还能补申请吗？最晚什么时候提交？",
+  "attempt": 1,
+  "provider": "302.ai",
+  "model_requested": "deepseek-flash",
+  "query_date": "2026-11-14",
+  "search_service": "metaso",
+  "prompt_version": "news-search-v1",
+  "prompt_sha256": "ea56fd5557d32615a9115f2368a0c4983ff1188f4935369e694d7d46f2493be1",
+  "requested_at": "2026-11-14T11:43:39.209841+08:00",
+  "raw_file": "raw/T0158_deepseek_a001_b87bf3.json",
+  "transport": "sse",
+  "stream_file": "raw/T0158_deepseek_a001_b87bf3.sse",
+  "status": "ok",
+  "model_returned": "deepseek-flash",
+  "answer": "**结论：2026年还能提交申请，但应尽快办；最晚应在2026年12月31日前完成提交。** 对2024年出生的孩子，政策安排是全程可申领3次，分别在2025年、2026年、2027年提出申请[citation:4]；其中2024年出生孩子的首次申请和第一次续领申请，需在2026年12月31日前提交，第二次续领可在2027年12月31日前完成[citation:1]。也有信息将“2022—2024年出生的孩子”的延长申请最后期限明确为2026年12月31日[citation:2]。\n\n需要注意两点：\n\n1. **2026年度这次可以申请，最晚截止日是2026年12月31日。** 你现在（2026年11月14日）办理，时间上仍来得及，但不宜再拖[citation:1][citation:2]。\n2. **此前未申请的2025年度是否还能补领，存在不确定性。** 按规则，未在规定年度内提出申请的，视为自动放弃当年申请资格[citation:4]。因此，2025年度那一次可能无法补领；但2026年度仍应尽快提交。若户籍地、监护人等信息较2025年有变动，申请时要提交当前最新信息和材料，以免影响审核进度[citation:1]。\n\n建议你尽快通过微信或支付宝“育儿补贴”小程序提交，或直接向孩子户籍所在地乡镇（街道）、社区确认“2024年出生、此前未申请”的补录口径和所需材料[citation:2][citation:4]。",
+  "sources": [
+    {
+      "index": 1,
+      "url": "https://benxi.gov.cn/xw/bmdt/content_668222",
+      "title": null,
+      "origin": "citations"
+    },
+    {
+      "index": 2,
+      "url": "https://new.qq.com/rain/a/20260724A07MDN00",
+      "title": null,
+      "origin": "citations"
+    },
+    {
+      "index": 3,
+      "url": "https://mp.weixin.qq.com/s?__biz=MzA3MTA4MjM3MA==&mid=2455863259&idx=5&sn=6c30cd9e51f50c00c8fcf2ff25a3bb94&chksm=8920a9d0c065411eda3bb4a8a08fc0e298f5ab3288a9d23b3b1a8a922474ef67fbe0be536882&scene=27",
+      "title": null,
+      "origin": "citations"
+    }
+  ],
+  "usage": {
+    "completion_tokens": 910,
+    "completion_tokens_details": {
+      "reasoning_tokens": 566
+    },
+    "prompt_tokens": 1093,
+    "prompt_tokens_details": {
+      "cached_tokens": 0
+    },
+    "total_tokens": 2003
+  },
+  "finish_reason": "stop",
+  "note": [],
+  "request_id": "eb3dc5b9-e846-490e-ae2d-a2473f7b6db7",
+  "duration_seconds": 7.563
+}

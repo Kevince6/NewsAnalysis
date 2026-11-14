@@ -1,0 +1,53 @@
+{
+  "task_id": "T0063",
+  "model": "qwen",
+  "news_id": "E005",
+  "question_index": 4,
+  "question_original": "【事实】2026年密西西比州参议员选举中，斯科特·科洛姆击败了谁？这是谁从谁手里拿到的席位？",
+  "question": "2026年密西西比州参议员选举中，斯科特·科洛姆击败了谁？这是谁从谁手里拿到的席位？",
+  "attempt": 1,
+  "provider": "302.ai",
+  "model_requested": "qwen3.8-max",
+  "query_date": "2026-11-14",
+  "search_service": "metaso",
+  "prompt_version": "news-search-v1",
+  "prompt_sha256": "ea56fd5557d32615a9115f2368a0c4983ff1188f4935369e694d7d46f2493be1",
+  "requested_at": "2026-11-14T11:15:29.750806+08:00",
+  "raw_file": "raw/T0063_qwen_a001_8aab0d.json",
+  "transport": "sse",
+  "stream_file": "raw/T0063_qwen_a001_8aab0d.sse",
+  "status": "ok",
+  "model_returned": "qwen3.8-max",
+  "answer": "在2026年密西西比州联邦参议员选举中，民主党候选人斯科特·科洛姆击败了共和党籍现任参议员辛迪·海德-史密斯。[1]\n\n这也是民主党从共和党手中拿下的一个参议院席位：具体说，是科洛姆代表民主党击败了共和党现任参议员海德-史密斯，使该席位由共和党转为民主党。[1]\n\n补充信息：根据截至11月11日的计票结果，科洛姆以约49.2%的得票率胜出，海德-史密斯已承认败选。[1] 这场胜利受到关注，因为密西西比州传统上偏向共和党，且此前民调与政治环境并不被看好。[3]",
+  "sources": [
+    {
+      "index": 1,
+      "url": "https://www.chinanews.com.cn/gj/2026/11-12/10730753.shtml",
+      "title": null,
+      "origin": "citations"
+    },
+    {
+      "index": 2,
+      "url": "https://news.qq.com/rain/a/20261005A08YHF00",
+      "title": null,
+      "origin": "citations"
+    }
+  ],
+  "usage": {
+    "completion_tokens": 814,
+    "completion_tokens_details": {
+      "reasoning_tokens": 656,
+      "text_tokens": 814
+    },
+    "prompt_tokens": 1085,
+    "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "text_tokens": 1085
+    },
+    "total_tokens": 1899
+  },
+  "finish_reason": "stop",
+  "note": [],
+  "request_id": "8ea8161a-d517-411e-b069-f40481e2257b",
+  "duration_seconds": 22.516
+}

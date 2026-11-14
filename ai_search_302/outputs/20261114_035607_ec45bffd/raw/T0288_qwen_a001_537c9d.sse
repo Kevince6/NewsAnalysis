@@ -1,0 +1,110 @@
+data: {"choices":[{"delta":{"content":"","reasoning_content":"","role":"assistant"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.douyin.com/note/7457736625443982602","https://k.sina.cn/article_7879995944_1d5af322806802hafa.html"],"created":1794629701,"id":"chatcmpl-de3f3f5b-8523-9cdd-8836-bea3f7985b13","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"用户"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.douyin.com/note/7457736625443982602","https://k.sina.cn/article_7879995944_1d5af322806802hafa.html"],"created":1794629701,"id":"chatcmpl-de3f3f5b-8523-9cdd-8836-bea3f7985b13","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"问："},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.douyin.com/note/7457736625443982602","https://k.sina.cn/article_7879995944_1d5af322806802hafa.html"],"created":1794629701,"id":"chatcmpl-de3f3f5b-8523-9cdd-8836-bea3f7985b13","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"泰国警方初步调查"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.douyin.com/note/7457736625443982602","https://k.sina.cn/article_7879995944_1d5af322806802hafa.html"],"created":1794629701,"id":"chatcmpl-de3f3f5b-8523-9cdd-8836-bea3f7985b13","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"把王星认定为什么"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.douyin.com/note/7457736625443982602","https://k.sina.cn/article_7879995944_1d5af322806802hafa.html"],"created":1794629701,"id":"chatcmpl-de3f3f5b-8523-9cdd-8836-bea3f7985b13","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"身份？需要从给定"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.douyin.com/note/7457736625443982602","https://k.sina.cn/article_7879995944_1d5af322806802hafa.html"],"created":1794629701,"id":"chatcmpl-de3f3f5b-8523-9cdd-8836-bea3f7985b13","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"搜索结果中提取。网页"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.douyin.com/note/7457736625443982602","https://k.sina.cn/article_7879995944_1d5af322806802hafa.html"],"created":1794629701,"id":"chatcmpl-de3f3f5b-8523-9cdd-8836-bea3f7985b13","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"1："},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.douyin.com/note/7457736625443982602","https://k.sina.cn/article_7879995944_1d5af322806802hafa.html"],"created":1794629701,"id":"chatcmpl-de3f3f5b-8523-9cdd-8836-bea3f7985b13","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"1月8日"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.douyin.com/note/7457736625443982602","https://k.sina.cn/article_7879995944_1d5af322806802hafa.html"],"created":1794629701,"id":"chatcmpl-de3f3f5b-8523-9cdd-8836-bea3f7985b13","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"，"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.douyin.com/note/7457736625443982602","https://k.sina.cn/article_7879995944_1d5af322806802hafa.html"],"created":1794629701,"id":"chatcmpl-de3f3f5b-8523-9cdd-8836-bea3f7985b13","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"泰国警方称，"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.douyin.com/note/7457736625443982602","https://k.sina.cn/article_7879995944_1d5af322806802hafa.html"],"created":1794629701,"id":"chatcmpl-de3f3f5b-8523-9cdd-8836-bea3f7985b13","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"经初步调查确认"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.douyin.com/note/7457736625443982602","https://k.sina.cn/article_7879995944_1d5af322806802hafa.html"],"created":1794629701,"id":"chatcmpl-de3f3f5b-8523-9cdd-8836-bea3f7985b13","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"王星是人口贩"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.douyin.com/note/7457736625443982602","https://k.sina.cn/article_7879995944_1d5af322806802hafa.html"],"created":1794629701,"id":"chatcmpl-de3f3f5b-8523-9cdd-8836-bea3f7985b13","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"运受害者。网页"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.douyin.com/note/7457736625443982602","https://k.sina.cn/article_7879995944_1d5af322806802hafa.html"],"created":1794629701,"id":"chatcmpl-de3f3f5b-8523-9cdd-8836-bea3f7985b13","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"2也提到泰国"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.douyin.com/note/7457736625443982602","https://k.sina.cn/article_7879995944_1d5af322806802hafa.html"],"created":1794629701,"id":"chatcmpl-de3f3f5b-8523-9cdd-8836-bea3f7985b13","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"警方初步调查"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.douyin.com/note/7457736625443982602","https://k.sina.cn/article_7879995944_1d5af322806802hafa.html"],"created":1794629701,"id":"chatcmpl-de3f3f5b-8523-9cdd-8836-bea3f7985b13","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"确认王星为人口"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.douyin.com/note/7457736625443982602","https://k.sina.cn/article_7879995944_1d5af322806802hafa.html"],"created":1794629701,"id":"chatcmpl-de3f3f5b-8523-9cdd-8836-bea3f7985b13","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"贩运受害者。"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.douyin.com/note/7457736625443982602","https://k.sina.cn/article_7879995944_1d5af322806802hafa.html"],"created":1794629701,"id":"chatcmpl-de3f3f5b-8523-9cdd-8836-bea3f7985b13","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"答案简短即可，"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.douyin.com/note/7457736625443982602","https://k.sina.cn/article_7879995944_1d5af322806802hafa.html"],"created":1794629701,"id":"chatcmpl-de3f3f5b-8523-9cdd-8836-bea3f7985b13","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"并"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.douyin.com/note/7457736625443982602","https://k.sina.cn/article_7879995944_1d5af322806802hafa.html"],"created":1794629701,"id":"chatcmpl-de3f3f5b-8523-9cdd-8836-bea3f7985b13","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"引用[1]["},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.douyin.com/note/7457736625443982602","https://k.sina.cn/article_7879995944_1d5af322806802hafa.html"],"created":1794629701,"id":"chatcmpl-de3f3f5b-8523-9cdd-8836-bea3f7985b13","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"2]。需要先"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.douyin.com/note/7457736625443982602","https://k.sina.cn/article_7879995944_1d5af322806802hafa.html"],"created":1794629701,"id":"chatcmpl-de3f3f5b-8523-9cdd-8836-bea3f7985b13","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"直接回答，再"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.douyin.com/note/7457736625443982602","https://k.sina.cn/article_7879995944_1d5af322806802hafa.html"],"created":1794629701,"id":"chatcmpl-de3f3f5b-8523-9cdd-8836-bea3f7985b13","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"补充背景。今天是"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.douyin.com/note/7457736625443982602","https://k.sina.cn/article_7879995944_1d5af322806802hafa.html"],"created":1794629701,"id":"chatcmpl-de3f3f5b-8523-9cdd-8836-bea3f7985b13","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"2026"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.douyin.com/note/7457736625443982602","https://k.sina.cn/article_7879995944_1d5af322806802hafa.html"],"created":1794629701,"id":"chatcmpl-de3f3f5b-8523-9cdd-8836-bea3f7985b13","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"-11-"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.douyin.com/note/7457736625443982602","https://k.sina.cn/article_7879995944_1d5af322806802hafa.html"],"created":1794629701,"id":"chatcmpl-de3f3f5b-8523-9cdd-8836-bea3f7985b13","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"14，但"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.douyin.com/note/7457736625443982602","https://k.sina.cn/article_7879995944_1d5af322806802hafa.html"],"created":1794629701,"id":"chatcmpl-de3f3f5b-8523-9cdd-8836-bea3f7985b13","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"问题与时间无关"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.douyin.com/note/7457736625443982602","https://k.sina.cn/article_7879995944_1d5af322806802hafa.html"],"created":1794629701,"id":"chatcmpl-de3f3f5b-8523-9cdd-8836-bea3f7985b13","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"。无需"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.douyin.com/note/7457736625443982602","https://k.sina.cn/article_7879995944_1d5af322806802hafa.html"],"created":1794629701,"id":"chatcmpl-de3f3f5b-8523-9cdd-8836-bea3f7985b13","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"联网检索，只用"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.douyin.com/note/7457736625443982602","https://k.sina.cn/article_7879995944_1d5af322806802hafa.html"],"created":1794629701,"id":"chatcmpl-de3f3f5b-8523-9cdd-8836-bea3f7985b13","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"给到资料。"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.douyin.com/note/7457736625443982602","https://k.sina.cn/article_7879995944_1d5af322806802hafa.html"],"created":1794629701,"id":"chatcmpl-de3f3f5b-8523-9cdd-8836-bea3f7985b13","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"注意"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.douyin.com/note/7457736625443982602","https://k.sina.cn/article_7879995944_1d5af322806802hafa.html"],"created":1794629701,"id":"chatcmpl-de3f3f5b-8523-9cdd-8836-bea3f7985b13","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"引用格式在句子"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.douyin.com/note/7457736625443982602","https://k.sina.cn/article_7879995944_1d5af322806802hafa.html"],"created":1794629701,"id":"chatcmpl-de3f3f5b-8523-9cdd-8836-bea3f7985b13","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"末尾。"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.douyin.com/note/7457736625443982602","https://k.sina.cn/article_7879995944_1d5af322806802hafa.html"],"created":1794629701,"id":"chatcmpl-de3f3f5b-8523-9cdd-8836-bea3f7985b13","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"泰国警方初步","reasoning_content":""},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.douyin.com/note/7457736625443982602","https://k.sina.cn/article_7879995944_1d5af322806802hafa.html"],"created":1794629701,"id":"chatcmpl-de3f3f5b-8523-9cdd-8836-bea3f7985b13","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"调查认定，王星","reasoning_content":""},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.douyin.com/note/7457736625443982602","https://k.sina.cn/article_7879995944_1d5af322806802hafa.html"],"created":1794629701,"id":"chatcmpl-de3f3f5b-8523-9cdd-8836-bea3f7985b13","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"是**人口","reasoning_content":""},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.douyin.com/note/7457736625443982602","https://k.sina.cn/article_7879995944_1d5af322806802hafa.html"],"created":1794629701,"id":"chatcmpl-de3f3f5b-8523-9cdd-8836-bea3f7985b13","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"贩运受害者**","reasoning_content":""},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.douyin.com/note/7457736625443982602","https://k.sina.cn/article_7879995944_1d5af322806802hafa.html"],"created":1794629701,"id":"chatcmpl-de3f3f5b-8523-9cdd-8836-bea3f7985b13","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"[1][2","reasoning_content":""},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.douyin.com/note/7457736625443982602","https://k.sina.cn/article_7879995944_1d5af322806802hafa.html"],"created":1794629701,"id":"chatcmpl-de3f3f5b-8523-9cdd-8836-bea3f7985b13","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"]。  \n\n补充","reasoning_content":""},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.douyin.com/note/7457736625443982602","https://k.sina.cn/article_7879995944_1d5af322806802hafa.html"],"created":1794629701,"id":"chatcmpl-de3f3f5b-8523-9cdd-8836-bea3f7985b13","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"说明：报道","reasoning_content":""},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.douyin.com/note/7457736625443982602","https://k.sina.cn/article_7879995944_1d5af322806802hafa.html"],"created":1794629701,"id":"chatcmpl-de3f3f5b-8523-9cdd-8836-bea3f7985b13","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"提到，泰国警方","reasoning_content":""},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.douyin.com/note/7457736625443982602","https://k.sina.cn/article_7879995944_1d5af322806802hafa.html"],"created":1794629701,"id":"chatcmpl-de3f3f5b-8523-9cdd-8836-bea3f7985b13","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"在2","reasoning_content":""},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.douyin.com/note/7457736625443982602","https://k.sina.cn/article_7879995944_1d5af322806802hafa.html"],"created":1794629701,"id":"chatcmpl-de3f3f5b-8523-9cdd-8836-bea3f7985b13","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"025年","reasoning_content":""},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.douyin.com/note/7457736625443982602","https://k.sina.cn/article_7879995944_1d5af322806802hafa.html"],"created":1794629701,"id":"chatcmpl-de3f3f5b-8523-9cdd-8836-bea3f7985b13","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"1月8日表示","reasoning_content":""},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.douyin.com/note/7457736625443982602","https://k.sina.cn/article_7879995944_1d5af322806802hafa.html"],"created":1794629701,"id":"chatcmpl-de3f3f5b-8523-9cdd-8836-bea3f7985b13","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"，经初步调查","reasoning_content":""},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.douyin.com/note/7457736625443982602","https://k.sina.cn/article_7879995944_1d5af322806802hafa.html"],"created":1794629701,"id":"chatcmpl-de3f3f5b-8523-9cdd-8836-bea3f7985b13","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"确认王星属于人口","reasoning_content":""},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.douyin.com/note/7457736625443982602","https://k.sina.cn/article_7879995944_1d5af322806802hafa.html"],"created":1794629701,"id":"chatcmpl-de3f3f5b-8523-9cdd-8836-bea3f7985b13","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"贩运受害者","reasoning_content":""},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.douyin.com/note/7457736625443982602","https://k.sina.cn/article_7879995944_1d5af322806802hafa.html"],"created":1794629701,"id":"chatcmpl-de3f3f5b-8523-9cdd-8836-bea3f7985b13","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"；其后续也被","reasoning_content":""},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.douyin.com/note/7457736625443982602","https://k.sina.cn/article_7879995944_1d5af322806802hafa.html"],"created":1794629701,"id":"chatcmpl-de3f3f5b-8523-9cdd-8836-bea3f7985b13","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"安排返回中国[","reasoning_content":""},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.douyin.com/note/7457736625443982602","https://k.sina.cn/article_7879995944_1d5af322806802hafa.html"],"created":1794629701,"id":"chatcmpl-de3f3f5b-8523-9cdd-8836-bea3f7985b13","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"1][","reasoning_content":""},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.douyin.com/note/7457736625443982602","https://k.sina.cn/article_7879995944_1d5af322806802hafa.html"],"created":1794629701,"id":"chatcmpl-de3f3f5b-8523-9cdd-8836-bea3f7985b13","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"2]。","reasoning_content":""},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.douyin.com/note/7457736625443982602","https://k.sina.cn/article_7879995944_1d5af322806802hafa.html"],"created":1794629701,"id":"chatcmpl-de3f3f5b-8523-9cdd-8836-bea3f7985b13","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":""},"finish_reason":"stop","index":0,"logprobs":null}],"citations":["https://www.douyin.com/note/7457736625443982602","https://k.sina.cn/article_7879995944_1d5af322806802hafa.html"],"created":1794629701,"id":"chatcmpl-de3f3f5b-8523-9cdd-8836-bea3f7985b13","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[],"citations":["https://www.douyin.com/note/7457736625443982602","https://k.sina.cn/article_7879995944_1d5af322806802hafa.html"],"created":1794629701,"id":"chatcmpl-de3f3f5b-8523-9cdd-8836-bea3f7985b13","model":"qwen3.8-max","object":"chat.completion.chunk","usage":{"completion_tokens":177,"completion_tokens_details":{"reasoning_tokens":111,"text_tokens":177},"prompt_tokens":952,"prompt_tokens_details":{"cached_tokens":0,"text_tokens":952},"total_tokens":1129}}
+
+data: [DONE]
+

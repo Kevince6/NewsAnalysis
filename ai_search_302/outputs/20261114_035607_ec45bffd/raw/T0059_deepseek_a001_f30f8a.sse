@@ -1,0 +1,834 @@
+data: {"choices":[{"delta":{"reasoning_content":"用户","role":"assistant"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20261104A0C60500","https://k.sina.cn/article_7857201856_1d45362c001908tmy8.html"],"created":1794601555,"id":"chatcmpl-9dd64628-d714-4837-be6a-04eefe675ed0","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"问的是美国"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20261104A0C60500","https://k.sina.cn/article_7857201856_1d45362c001908tmy8.html"],"created":1794601555,"id":"chatcmpl-9dd64628-d714-4837-be6a-04eefe675ed0","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"中期选举两大阵营在参"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20261104A0C60500","https://k.sina.cn/article_7857201856_1d45362c001908tmy8.html"],"created":1794601555,"id":"chatcmpl-9dd64628-d714-4837-be6a-04eefe675ed0","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"众两院各有多少席"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20261104A0C60500","https://k.sina.cn/article_7857201856_1d45362c001908tmy8.html"],"created":1794601555,"id":"chatcmpl-9dd64628-d714-4837-be6a-04eefe675ed0","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"，还有多少席没定"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20261104A0C60500","https://k.sina.cn/article_7857201856_1d45362c001908tmy8.html"],"created":1794601555,"id":"chatcmpl-9dd64628-d714-4837-be6a-04eefe675ed0","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"。\n\n"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20261104A0C60500","https://k.sina.cn/article_7857201856_1d45362c001908tmy8.html"],"created":1794601555,"id":"chatcmpl-9dd64628-d714-4837-be6a-04eefe675ed0","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"检索"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20261104A0C60500","https://k.sina.cn/article_7857201856_1d45362c001908tmy8.html"],"created":1794601555,"id":"chatcmpl-9dd64628-d714-4837-be6a-04eefe675ed0","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"结果"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20261104A0C60500","https://k.sina.cn/article_7857201856_1d45362c001908tmy8.html"],"created":1794601555,"id":"chatcmpl-9dd64628-d714-4837-be6a-04eefe675ed0","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"只有"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20261104A0C60500","https://k.sina.cn/article_7857201856_1d45362c001908tmy8.html"],"created":1794601555,"id":"chatcmpl-9dd64628-d714-4837-be6a-04eefe675ed0","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"两条相关内容["},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20261104A0C60500","https://k.sina.cn/article_7857201856_1d45362c001908tmy8.html"],"created":1794601555,"id":"chatcmpl-9dd64628-d714-4837-be6a-04eefe675ed0","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"2][4"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20261104A0C60500","https://k.sina.cn/article_7857201856_1d45362c001908tmy8.html"],"created":1794601555,"id":"chatcmpl-9dd64628-d714-4837-be6a-04eefe675ed0","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"]，说的是民主党"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20261104A0C60500","https://k.sina.cn/article_7857201856_1d45362c001908tmy8.html"],"created":1794601555,"id":"chatcmpl-9dd64628-d714-4837-be6a-04eefe675ed0","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"预计"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20261104A0C60500","https://k.sina.cn/article_7857201856_1d45362c001908tmy8.html"],"created":1794601555,"id":"chatcmpl-9dd64628-d714-4837-be6a-04eefe675ed0","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"掌控"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20261104A0C60500","https://k.sina.cn/article_7857201856_1d45362c001908tmy8.html"],"created":1794601555,"id":"chatcmpl-9dd64628-d714-4837-be6a-04eefe675ed0","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"参众"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20261104A0C60500","https://k.sina.cn/article_7857201856_1d45362c001908tmy8.html"],"created":1794601555,"id":"chatcmpl-9dd64628-d714-4837-be6a-04eefe675ed0","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"两院，7"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20261104A0C60500","https://k.sina.cn/article_7857201856_1d45362c001908tmy8.html"],"created":1794601555,"id":"chatcmpl-9dd64628-d714-4837-be6a-04eefe675ed0","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"个共和"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20261104A0C60500","https://k.sina.cn/article_7857201856_1d45362c001908tmy8.html"],"created":1794601555,"id":"chatcmpl-9dd64628-d714-4837-be6a-04eefe675ed0","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"党参议院席位翻蓝"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20261104A0C60500","https://k.sina.cn/article_7857201856_1d45362c001908tmy8.html"],"created":1794601555,"id":"chatcmpl-9dd64628-d714-4837-be6a-04eefe675ed0","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"。但这些"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20261104A0C60500","https://k.sina.cn/article_7857201856_1d45362c001908tmy8.html"],"created":1794601555,"id":"chatcmpl-9dd64628-d714-4837-be6a-04eefe675ed0","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"内容看起来"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20261104A0C60500","https://k.sina.cn/article_7857201856_1d45362c001908tmy8.html"],"created":1794601555,"id":"chatcmpl-9dd64628-d714-4837-be6a-04eefe675ed0","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"像是201"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20261104A0C60500","https://k.sina.cn/article_7857201856_1d45362c001908tmy8.html"],"created":1794601555,"id":"chatcmpl-9dd64628-d714-4837-be6a-04eefe675ed0","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"8年中期选举（201"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20261104A0C60500","https://k.sina.cn/article_7857201856_1d45362c001908tmy8.html"],"created":1794601555,"id":"chatcmpl-9dd64628-d714-4837-be6a-04eefe675ed0","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"8年11月3日"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20261104A0C60500","https://k.sina.cn/article_7857201856_1d45362c001908tmy8.html"],"created":1794601555,"id":"chatcmpl-9dd64628-d714-4837-be6a-04eefe675ed0","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"投票？实际上201"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20261104A0C60500","https://k.sina.cn/article_7857201856_1d45362c001908tmy8.html"],"created":1794601555,"id":"chatcmpl-9dd64628-d714-4837-be6a-04eefe675ed0","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"8年"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20261104A0C60500","https://k.sina.cn/article_7857201856_1d45362c001908tmy8.html"],"created":1794601555,"id":"chatcmpl-9dd64628-d714-4837-be6a-04eefe675ed0","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"中期选举是11月6"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20261104A0C60500","https://k.sina.cn/article_7857201856_1d45362c001908tmy8.html"],"created":1794601555,"id":"chatcmpl-9dd64628-d714-4837-be6a-04eefe675ed0","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"日）。文字"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20261104A0C60500","https://k.sina.cn/article_7857201856_1d45362c001908tmy8.html"],"created":1794601555,"id":"chatcmpl-9dd64628-d714-4837-be6a-04eefe675ed0","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"说\"截至"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20261104A0C60500","https://k.sina.cn/article_7857201856_1d45362c001908tmy8.html"],"created":1794601555,"id":"chatcmpl-9dd64628-d714-4837-be6a-04eefe675ed0","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"美"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20261104A0C60500","https://k.sina.cn/article_7857201856_1d45362c001908tmy8.html"],"created":1794601555,"id":"chatcmpl-9dd64628-d714-4837-be6a-04eefe675ed0","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"东时间4日凌晨\"，"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20261104A0C60500","https://k.sina.cn/article_7857201856_1d45362c001908tmy8.html"],"created":1794601555,"id":"chatcmpl-9dd64628-d714-4837-be6a-04eefe675ed0","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"\""},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20261104A0C60500","https://k.sina.cn/article_7857201856_1d45362c001908tmy8.html"],"created":1794601555,"id":"chatcmpl-9dd64628-d714-4837-be6a-04eefe675ed0","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"美国"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20261104A0C60500","https://k.sina.cn/article_7857201856_1d45362c001908tmy8.html"],"created":1794601555,"id":"chatcmpl-9dd64628-d714-4837-be6a-04eefe675ed0","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"3日举行中期选举投票"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20261104A0C60500","https://k.sina.cn/article_7857201856_1d45362c001908tmy8.html"],"created":1794601555,"id":"chatcmpl-9dd64628-d714-4837-be6a-04eefe675ed0","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"\"——这"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20261104A0C60500","https://k.sina.cn/article_7857201856_1d45362c001908tmy8.html"],"created":1794601555,"id":"chatcmpl-9dd64628-d714-4837-be6a-04eefe675ed0","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"不符合"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20261104A0C60500","https://k.sina.cn/article_7857201856_1d45362c001908tmy8.html"],"created":1794601555,"id":"chatcmpl-9dd64628-d714-4837-be6a-04eefe675ed0","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"2018年（"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20261104A0C60500","https://k.sina.cn/article_7857201856_1d45362c001908tmy8.html"],"created":1794601555,"id":"chatcmpl-9dd64628-d714-4837-be6a-04eefe675ed0","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"11月6日），也不"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20261104A0C60500","https://k.sina.cn/article_7857201856_1d45362c001908tmy8.html"],"created":1794601555,"id":"chatcmpl-9dd64628-d714-4837-be6a-04eefe675ed0","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"符合"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20261104A0C60500","https://k.sina.cn/article_7857201856_1d45362c001908tmy8.html"],"created":1794601555,"id":"chatcmpl-9dd64628-d714-4837-be6a-04eefe675ed0","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"2022"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20261104A0C60500","https://k.sina.cn/article_7857201856_1d45362c001908tmy8.html"],"created":1794601555,"id":"chatcmpl-9dd64628-d714-4837-be6a-04eefe675ed0","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"年（11月8"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20261104A0C60500","https://k.sina.cn/article_7857201856_1d45362c001908tmy8.html"],"created":1794601555,"id":"chatcmpl-9dd64628-d714-4837-be6a-04eefe675ed0","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"日）。可能是某个"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20261104A0C60500","https://k.sina.cn/article_7857201856_1d45362c001908tmy8.html"],"created":1794601555,"id":"chatcmpl-9dd64628-d714-4837-be6a-04eefe675ed0","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"较早"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20261104A0C60500","https://k.sina.cn/article_7857201856_1d45362c001908tmy8.html"],"created":1794601555,"id":"chatcmpl-9dd64628-d714-4837-be6a-04eefe675ed0","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"的选举"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20261104A0C60500","https://k.sina.cn/article_7857201856_1d45362c001908tmy8.html"],"created":1794601555,"id":"chatcmpl-9dd64628-d714-4837-be6a-04eefe675ed0","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"？不管"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20261104A0C60500","https://k.sina.cn/article_7857201856_1d45362c001908tmy8.html"],"created":1794601555,"id":"chatcmpl-9dd64628-d714-4837-be6a-04eefe675ed0","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"怎样，这些"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20261104A0C60500","https://k.sina.cn/article_7857201856_1d45362c001908tmy8.html"],"created":1794601555,"id":"chatcmpl-9dd64628-d714-4837-be6a-04eefe675ed0","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"搜索结果没有给出"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20261104A0C60500","https://k.sina.cn/article_7857201856_1d45362c001908tmy8.html"],"created":1794601555,"id":"chatcmpl-9dd64628-d714-4837-be6a-04eefe675ed0","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"具体"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20261104A0C60500","https://k.sina.cn/article_7857201856_1d45362c001908tmy8.html"],"created":1794601555,"id":"chatcmpl-9dd64628-d714-4837-be6a-04eefe675ed0","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"席位"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20261104A0C60500","https://k.sina.cn/article_7857201856_1d45362c001908tmy8.html"],"created":1794601555,"id":"chatcmpl-9dd64628-d714-4837-be6a-04eefe675ed0","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"数字（"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20261104A0C60500","https://k.sina.cn/article_7857201856_1d45362c001908tmy8.html"],"created":1794601555,"id":"chatcmpl-9dd64628-d714-4837-be6a-04eefe675ed0","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"除了"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20261104A0C60500","https://k.sina.cn/article_7857201856_1d45362c001908tmy8.html"],"created":1794601555,"id":"chatcmpl-9dd64628-d714-4837-be6a-04eefe675ed0","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"参"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20261104A0C60500","https://k.sina.cn/article_7857201856_1d45362c001908tmy8.html"],"created":1794601555,"id":"chatcmpl-9dd64628-d714-4837-be6a-04eefe675ed0","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"议院"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20261104A0C60500","https://k.sina.cn/article_7857201856_1d45362c001908tmy8.html"],"created":1794601555,"id":"chatcmpl-9dd64628-d714-4837-be6a-04eefe675ed0","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"35席改"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20261104A0C60500","https://k.sina.cn/article_7857201856_1d45362c001908tmy8.html"],"created":1794601555,"id":"chatcmpl-9dd64628-d714-4837-be6a-04eefe675ed0","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"选、"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20261104A0C60500","https://k.sina.cn/article_7857201856_1d45362c001908tmy8.html"],"created":1794601555,"id":"chatcmpl-9dd64628-d714-4837-be6a-04eefe675ed0","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"众"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20261104A0C60500","https://k.sina.cn/article_7857201856_1d45362c001908tmy8.html"],"created":1794601555,"id":"chatcmpl-9dd64628-d714-4837-be6a-04eefe675ed0","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"议院435席全部"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20261104A0C60500","https://k.sina.cn/article_7857201856_1d45362c001908tmy8.html"],"created":1794601555,"id":"chatcmpl-9dd64628-d714-4837-be6a-04eefe675ed0","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"改"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20261104A0C60500","https://k.sina.cn/article_7857201856_1d45362c001908tmy8.html"],"created":1794601555,"id":"chatcmpl-9dd64628-d714-4837-be6a-04eefe675ed0","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"选）。\n\n用户的问题是问"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20261104A0C60500","https://k.sina.cn/article_7857201856_1d45362c001908tmy8.html"],"created":1794601555,"id":"chatcmpl-9dd64628-d714-4837-be6a-04eefe675ed0","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"\"现在\""},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20261104A0C60500","https://k.sina.cn/article_7857201856_1d45362c001908tmy8.html"],"created":1794601555,"id":"chatcmpl-9dd64628-d714-4837-be6a-04eefe675ed0","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"（2026年11月"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20261104A0C60500","https://k.sina.cn/article_7857201856_1d45362c001908tmy8.html"],"created":1794601555,"id":"chatcmpl-9dd64628-d714-4837-be6a-04eefe675ed0","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"14日）参众"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20261104A0C60500","https://k.sina.cn/article_7857201856_1d45362c001908tmy8.html"],"created":1794601555,"id":"chatcmpl-9dd64628-d714-4837-be6a-04eefe675ed0","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"两"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20261104A0C60500","https://k.sina.cn/article_7857201856_1d45362c001908tmy8.html"],"created":1794601555,"id":"chatcmpl-9dd64628-d714-4837-be6a-04eefe675ed0","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"院各有多少席，"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20261104A0C60500","https://k.sina.cn/article_7857201856_1d45362c001908tmy8.html"],"created":1794601555,"id":"chatcmpl-9dd64628-d714-4837-be6a-04eefe675ed0","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"还有多少席没"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20261104A0C60500","https://k.sina.cn/article_7857201856_1d45362c001908tmy8.html"],"created":1794601555,"id":"chatcmpl-9dd64628-d714-4837-be6a-04eefe675ed0","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"定。202"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20261104A0C60500","https://k.sina.cn/article_7857201856_1d45362c001908tmy8.html"],"created":1794601555,"id":"chatcmpl-9dd64628-d714-4837-be6a-04eefe675ed0","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"6年美国"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20261104A0C60500","https://k.sina.cn/article_7857201856_1d45362c001908tmy8.html"],"created":1794601555,"id":"chatcmpl-9dd64628-d714-4837-be6a-04eefe675ed0","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"中期选举是11月3"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20261104A0C60500","https://k.sina.cn/article_7857201856_1d45362c001908tmy8.html"],"created":1794601555,"id":"chatcmpl-9dd64628-d714-4837-be6a-04eefe675ed0","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"日举行（"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20261104A0C60500","https://k.sina.cn/article_7857201856_1d45362c001908tmy8.html"],"created":1794601555,"id":"chatcmpl-9dd64628-d714-4837-be6a-04eefe675ed0","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"2026年11月3"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20261104A0C60500","https://k.sina.cn/article_7857201856_1d45362c001908tmy8.html"],"created":1794601555,"id":"chatcmpl-9dd64628-d714-4837-be6a-04eefe675ed0","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"日，"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20261104A0C60500","https://k.sina.cn/article_7857201856_1d45362c001908tmy8.html"],"created":1794601555,"id":"chatcmpl-9dd64628-d714-4837-be6a-04eefe675ed0","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"星期二）。查询日期"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20261104A0C60500","https://k.sina.cn/article_7857201856_1d45362c001908tmy8.html"],"created":1794601555,"id":"chatcmpl-9dd64628-d714-4837-be6a-04eefe675ed0","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"202"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20261104A0C60500","https://k.sina.cn/article_7857201856_1d45362c001908tmy8.html"],"created":1794601555,"id":"chatcmpl-9dd64628-d714-4837-be6a-04eefe675ed0","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"6-11-"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20261104A0C60500","https://k.sina.cn/article_7857201856_1d45362c001908tmy8.html"],"created":1794601555,"id":"chatcmpl-9dd64628-d714-4837-be6a-04eefe675ed0","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"14，选举"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20261104A0C60500","https://k.sina.cn/article_7857201856_1d45362c001908tmy8.html"],"created":1794601555,"id":"chatcmpl-9dd64628-d714-4837-be6a-04eefe675ed0","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"后11天。但检索"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20261104A0C60500","https://k.sina.cn/article_7857201856_1d45362c001908tmy8.html"],"created":1794601555,"id":"chatcmpl-9dd64628-d714-4837-be6a-04eefe675ed0","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"结果没有"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20261104A0C60500","https://k.sina.cn/article_7857201856_1d45362c001908tmy8.html"],"created":1794601555,"id":"chatcmpl-9dd64628-d714-4837-be6a-04eefe675ed0","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"提供2026年选举"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20261104A0C60500","https://k.sina.cn/article_7857201856_1d45362c001908tmy8.html"],"created":1794601555,"id":"chatcmpl-9dd64628-d714-4837-be6a-04eefe675ed0","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"的计"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20261104A0C60500","https://k.sina.cn/article_7857201856_1d45362c001908tmy8.html"],"created":1794601555,"id":"chatcmpl-9dd64628-d714-4837-be6a-04eefe675ed0","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"票数据。\n\n我需要诚实"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20261104A0C60500","https://k.sina.cn/article_7857201856_1d45362c001908tmy8.html"],"created":1794601555,"id":"chatcmpl-9dd64628-d714-4837-be6a-04eefe675ed0","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"说明"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20261104A0C60500","https://k.sina.cn/article_7857201856_1d45362c001908tmy8.html"],"created":1794601555,"id":"chatcmpl-9dd64628-d714-4837-be6a-04eefe675ed0","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"：检索结果只"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20261104A0C60500","https://k.sina.cn/article_7857201856_1d45362c001908tmy8.html"],"created":1794601555,"id":"chatcmpl-9dd64628-d714-4837-be6a-04eefe675ed0","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"包含"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20261104A0C60500","https://k.sina.cn/article_7857201856_1d45362c001908tmy8.html"],"created":1794601555,"id":"chatcmpl-9dd64628-d714-4837-be6a-04eefe675ed0","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"一条"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20261104A0C60500","https://k.sina.cn/article_7857201856_1d45362c001908tmy8.html"],"created":1794601555,"id":"chatcmpl-9dd64628-d714-4837-be6a-04eefe675ed0","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"较早的报道（"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20261104A0C60500","https://k.sina.cn/article_7857201856_1d45362c001908tmy8.html"],"created":1794601555,"id":"chatcmpl-9dd64628-d714-4837-be6a-04eefe675ed0","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"内容看起来"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20261104A0C60500","https://k.sina.cn/article_7857201856_1d45362c001908tmy8.html"],"created":1794601555,"id":"chatcmpl-9dd64628-d714-4837-be6a-04eefe675ed0","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"是某"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20261104A0C60500","https://k.sina.cn/article_7857201856_1d45362c001908tmy8.html"],"created":1794601555,"id":"chatcmpl-9dd64628-d714-4837-be6a-04eefe675ed0","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"次中期选举的"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20261104A0C60500","https://k.sina.cn/article_7857201856_1d45362c001908tmy8.html"],"created":1794601555,"id":"chatcmpl-9dd64628-d714-4837-be6a-04eefe675ed0","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"报道），没有"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20261104A0C60500","https://k.sina.cn/article_7857201856_1d45362c001908tmy8.html"],"created":1794601555,"id":"chatcmpl-9dd64628-d714-4837-be6a-04eefe675ed0","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"提供"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20261104A0C60500","https://k.sina.cn/article_7857201856_1d45362c001908tmy8.html"],"created":1794601555,"id":"chatcmpl-9dd64628-d714-4837-be6a-04eefe675ed0","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"2026年中期选举的具体"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20261104A0C60500","https://k.sina.cn/article_7857201856_1d45362c001908tmy8.html"],"created":1794601555,"id":"chatcmpl-9dd64628-d714-4837-be6a-04eefe675ed0","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"席位归属"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20261104A0C60500","https://k.sina.cn/article_7857201856_1d45362c001908tmy8.html"],"created":1794601555,"id":"chatcmpl-9dd64628-d714-4837-be6a-04eefe675ed0","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"和"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20261104A0C60500","https://k.sina.cn/article_7857201856_1d45362c001908tmy8.html"],"created":1794601555,"id":"chatcmpl-9dd64628-d714-4837-be6a-04eefe675ed0","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"未定席"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20261104A0C60500","https://k.sina.cn/article_7857201856_1d45362c001908tmy8.html"],"created":1794601555,"id":"chatcmpl-9dd64628-d714-4837-be6a-04eefe675ed0","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"位数"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20261104A0C60500","https://k.sina.cn/article_7857201856_1d45362c001908tmy8.html"],"created":1794601555,"id":"chatcmpl-9dd64628-d714-4837-be6a-04eefe675ed0","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"。不能编造数字"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20261104A0C60500","https://k.sina.cn/article_7857201856_1d45362c001908tmy8.html"],"created":1794601555,"id":"chatcmpl-9dd64628-d714-4837-be6a-04eefe675ed0","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"。\n\n我应该基于"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20261104A0C60500","https://k.sina.cn/article_7857201856_1d45362c001908tmy8.html"],"created":1794601555,"id":"chatcmpl-9dd64628-d714-4837-be6a-04eefe675ed0","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"检索结果说明：搜索结果"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20261104A0C60500","https://k.sina.cn/article_7857201856_1d45362c001908tmy8.html"],"created":1794601555,"id":"chatcmpl-9dd64628-d714-4837-be6a-04eefe675ed0","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"未提供"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20261104A0C60500","https://k.sina.cn/article_7857201856_1d45362c001908tmy8.html"],"created":1794601555,"id":"chatcmpl-9dd64628-d714-4837-be6a-04eefe675ed0","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"当前"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20261104A0C60500","https://k.sina.cn/article_7857201856_1d45362c001908tmy8.html"],"created":1794601555,"id":"chatcmpl-9dd64628-d714-4837-be6a-04eefe675ed0","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"（"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20261104A0C60500","https://k.sina.cn/article_7857201856_1d45362c001908tmy8.html"],"created":1794601555,"id":"chatcmpl-9dd64628-d714-4837-be6a-04eefe675ed0","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"2026年）"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20261104A0C60500","https://k.sina.cn/article_7857201856_1d45362c001908tmy8.html"],"created":1794601555,"id":"chatcmpl-9dd64628-d714-4837-be6a-04eefe675ed0","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"参"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20261104A0C60500","https://k.sina.cn/article_7857201856_1d45362c001908tmy8.html"],"created":1794601555,"id":"chatcmpl-9dd64628-d714-4837-be6a-04eefe675ed0","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"众两院具体"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20261104A0C60500","https://k.sina.cn/article_7857201856_1d45362c001908tmy8.html"],"created":1794601555,"id":"chatcmpl-9dd64628-d714-4837-be6a-04eefe675ed0","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"席位分配"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20261104A0C60500","https://k.sina.cn/article_7857201856_1d45362c001908tmy8.html"],"created":1794601555,"id":"chatcmpl-9dd64628-d714-4837-be6a-04eefe675ed0","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"和"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20261104A0C60500","https://k.sina.cn/article_7857201856_1d45362c001908tmy8.html"],"created":1794601555,"id":"chatcmpl-9dd64628-d714-4837-be6a-04eefe675ed0","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"未定席位数；"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20261104A0C60500","https://k.sina.cn/article_7857201856_1d45362c001908tmy8.html"],"created":1794601555,"id":"chatcmpl-9dd64628-d714-4837-be6a-04eefe675ed0","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"仅"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20261104A0C60500","https://k.sina.cn/article_7857201856_1d45362c001908tmy8.html"],"created":1794601555,"id":"chatcmpl-9dd64628-d714-4837-be6a-04eefe675ed0","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"有的信息"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20261104A0C60500","https://k.sina.cn/article_7857201856_1d45362c001908tmy8.html"],"created":1794601555,"id":"chatcmpl-9dd64628-d714-4837-be6a-04eefe675ed0","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"是"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20261104A0C60500","https://k.sina.cn/article_7857201856_1d45362c001908tmy8.html"],"created":1794601555,"id":"chatcmpl-9dd64628-d714-4837-be6a-04eefe675ed0","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"某"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20261104A0C60500","https://k.sina.cn/article_7857201856_1d45362c001908tmy8.html"],"created":1794601555,"id":"chatcmpl-9dd64628-d714-4837-be6a-04eefe675ed0","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"次中期选举中，"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20261104A0C60500","https://k.sina.cn/article_7857201856_1d45362c001908tmy8.html"],"created":1794601555,"id":"chatcmpl-9dd64628-d714-4837-be6a-04eefe675ed0","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"全部"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20261104A0C60500","https://k.sina.cn/article_7857201856_1d45362c001908tmy8.html"],"created":1794601555,"id":"chatcmpl-9dd64628-d714-4837-be6a-04eefe675ed0","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"435"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20261104A0C60500","https://k.sina.cn/article_7857201856_1d45362c001908tmy8.html"],"created":1794601555,"id":"chatcmpl-9dd64628-d714-4837-be6a-04eefe675ed0","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"个众议院席位"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20261104A0C60500","https://k.sina.cn/article_7857201856_1d45362c001908tmy8.html"],"created":1794601555,"id":"chatcmpl-9dd64628-d714-4837-be6a-04eefe675ed0","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"和参"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20261104A0C60500","https://k.sina.cn/article_7857201856_1d45362c001908tmy8.html"],"created":1794601555,"id":"chatcmpl-9dd64628-d714-4837-be6a-04eefe675ed0","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"议院100"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20261104A0C60500","https://k.sina.cn/article_7857201856_1d45362c001908tmy8.html"],"created":1794601555,"id":"chatcmpl-9dd64628-d714-4837-be6a-04eefe675ed0","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"席"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20261104A0C60500","https://k.sina.cn/article_7857201856_1d45362c001908tmy8.html"],"created":1794601555,"id":"chatcmpl-9dd64628-d714-4837-be6a-04eefe675ed0","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"中的35席改"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20261104A0C60500","https://k.sina.cn/article_7857201856_1d45362c001908tmy8.html"],"created":1794601555,"id":"chatcmpl-9dd64628-d714-4837-be6a-04eefe675ed0","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"选，多家"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20261104A0C60500","https://k.sina.cn/article_7857201856_1d45362c001908tmy8.html"],"created":1794601555,"id":"chatcmpl-9dd64628-d714-4837-be6a-04eefe675ed0","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"媒体预测民主党赢得"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20261104A0C60500","https://k.sina.cn/article_7857201856_1d45362c001908tmy8.html"],"created":1794601555,"id":"chatcmpl-9dd64628-d714-4837-be6a-04eefe675ed0","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"两院控制权"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20261104A0C60500","https://k.sina.cn/article_7857201856_1d45362c001908tmy8.html"],"created":1794601555,"id":"chatcmpl-9dd64628-d714-4837-be6a-04eefe675ed0","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"[2][4"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20261104A0C60500","https://k.sina.cn/article_7857201856_1d45362c001908tmy8.html"],"created":1794601555,"id":"chatcmpl-9dd64628-d714-4837-be6a-04eefe675ed0","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"]。但这"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20261104A0C60500","https://k.sina.cn/article_7857201856_1d45362c001908tmy8.html"],"created":1794601555,"id":"chatcmpl-9dd64628-d714-4837-be6a-04eefe675ed0","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"与2026年情况"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20261104A0C60500","https://k.sina.cn/article_7857201856_1d45362c001908tmy8.html"],"created":1794601555,"id":"chatcmpl-9dd64628-d714-4837-be6a-04eefe675ed0","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"不能"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20261104A0C60500","https://k.sina.cn/article_7857201856_1d45362c001908tmy8.html"],"created":1794601555,"id":"chatcmpl-9dd64628-d714-4837-be6a-04eefe675ed0","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"直接等同"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20261104A0C60500","https://k.sina.cn/article_7857201856_1d45362c001908tmy8.html"],"created":1794601555,"id":"chatcmpl-9dd64628-d714-4837-be6a-04eefe675ed0","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"。\n\n"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20261104A0C60500","https://k.sina.cn/article_7857201856_1d45362c001908tmy8.html"],"created":1794601555,"id":"chatcmpl-9dd64628-d714-4837-be6a-04eefe675ed0","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"另外需要注意：用户问"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20261104A0C60500","https://k.sina.cn/article_7857201856_1d45362c001908tmy8.html"],"created":1794601555,"id":"chatcmpl-9dd64628-d714-4837-be6a-04eefe675ed0","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"\"两大"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20261104A0C60500","https://k.sina.cn/article_7857201856_1d45362c001908tmy8.html"],"created":1794601555,"id":"chatcmpl-9dd64628-d714-4837-be6a-04eefe675ed0","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"阵营\"，"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20261104A0C60500","https://k.sina.cn/article_7857201856_1d45362c001908tmy8.html"],"created":1794601555,"id":"chatcmpl-9dd64628-d714-4837-be6a-04eefe675ed0","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"即共和"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20261104A0C60500","https://k.sina.cn/article_7857201856_1d45362c001908tmy8.html"],"created":1794601555,"id":"chatcmpl-9dd64628-d714-4837-be6a-04eefe675ed0","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"党和"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20261104A0C60500","https://k.sina.cn/article_7857201856_1d45362c001908tmy8.html"],"created":1794601555,"id":"chatcmpl-9dd64628-d714-4837-be6a-04eefe675ed0","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"民主党。\n\n"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20261104A0C60500","https://k.sina.cn/article_7857201856_1d45362c001908tmy8.html"],"created":1794601555,"id":"chatcmpl-9dd64628-d714-4837-be6a-04eefe675ed0","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"我可以补充"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20261104A0C60500","https://k.sina.cn/article_7857201856_1d45362c001908tmy8.html"],"created":1794601555,"id":"chatcmpl-9dd64628-d714-4837-be6a-04eefe675ed0","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"背景"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20261104A0C60500","https://k.sina.cn/article_7857201856_1d45362c001908tmy8.html"],"created":1794601555,"id":"chatcmpl-9dd64628-d714-4837-be6a-04eefe675ed0","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"："},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20261104A0C60500","https://k.sina.cn/article_7857201856_1d45362c001908tmy8.html"],"created":1794601555,"id":"chatcmpl-9dd64628-d714-4837-be6a-04eefe675ed0","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"美国"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20261104A0C60500","https://k.sina.cn/article_7857201856_1d45362c001908tmy8.html"],"created":1794601555,"id":"chatcmpl-9dd64628-d714-4837-be6a-04eefe675ed0","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"参"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20261104A0C60500","https://k.sina.cn/article_7857201856_1d45362c001908tmy8.html"],"created":1794601555,"id":"chatcmpl-9dd64628-d714-4837-be6a-04eefe675ed0","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"议院100"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20261104A0C60500","https://k.sina.cn/article_7857201856_1d45362c001908tmy8.html"],"created":1794601555,"id":"chatcmpl-9dd64628-d714-4837-be6a-04eefe675ed0","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"席，众"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20261104A0C60500","https://k.sina.cn/article_7857201856_1d45362c001908tmy8.html"],"created":1794601555,"id":"chatcmpl-9dd64628-d714-4837-be6a-04eefe675ed0","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"议院435席；"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20261104A0C60500","https://k.sina.cn/article_7857201856_1d45362c001908tmy8.html"],"created":1794601555,"id":"chatcmpl-9dd64628-d714-4837-be6a-04eefe675ed0","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"202"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20261104A0C60500","https://k.sina.cn/article_7857201856_1d45362c001908tmy8.html"],"created":1794601555,"id":"chatcmpl-9dd64628-d714-4837-be6a-04eefe675ed0","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"6年中期选举中"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20261104A0C60500","https://k.sina.cn/article_7857201856_1d45362c001908tmy8.html"],"created":1794601555,"id":"chatcmpl-9dd64628-d714-4837-be6a-04eefe675ed0","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"众"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20261104A0C60500","https://k.sina.cn/article_7857201856_1d45362c001908tmy8.html"],"created":1794601555,"id":"chatcmpl-9dd64628-d714-4837-be6a-04eefe675ed0","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"议院全部435"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20261104A0C60500","https://k.sina.cn/article_7857201856_1d45362c001908tmy8.html"],"created":1794601555,"id":"chatcmpl-9dd64628-d714-4837-be6a-04eefe675ed0","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"席改"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20261104A0C60500","https://k.sina.cn/article_7857201856_1d45362c001908tmy8.html"],"created":1794601555,"id":"chatcmpl-9dd64628-d714-4837-be6a-04eefe675ed0","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"选，参议院约"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20261104A0C60500","https://k.sina.cn/article_7857201856_1d45362c001908tmy8.html"],"created":1794601555,"id":"chatcmpl-9dd64628-d714-4837-be6a-04eefe675ed0","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"三分之一"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20261104A0C60500","https://k.sina.cn/article_7857201856_1d45362c001908tmy8.html"],"created":1794601555,"id":"chatcmpl-9dd64628-d714-4837-be6a-04eefe675ed0","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"（"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20261104A0C60500","https://k.sina.cn/article_7857201856_1d45362c001908tmy8.html"],"created":1794601555,"id":"chatcmpl-9dd64628-d714-4837-be6a-04eefe675ed0","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"33或"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20261104A0C60500","https://k.sina.cn/article_7857201856_1d45362c001908tmy8.html"],"created":1794601555,"id":"chatcmpl-9dd64628-d714-4837-be6a-04eefe675ed0","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"35席）改选。"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20261104A0C60500","https://k.sina.cn/article_7857201856_1d45362c001908tmy8.html"],"created":1794601555,"id":"chatcmpl-9dd64628-d714-4837-be6a-04eefe675ed0","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"但具体"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20261104A0C60500","https://k.sina.cn/article_7857201856_1d45362c001908tmy8.html"],"created":1794601555,"id":"chatcmpl-9dd64628-d714-4837-be6a-04eefe675ed0","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"结果"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20261104A0C60500","https://k.sina.cn/article_7857201856_1d45362c001908tmy8.html"],"created":1794601555,"id":"chatcmpl-9dd64628-d714-4837-be6a-04eefe675ed0","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"需要"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20261104A0C60500","https://k.sina.cn/article_7857201856_1d45362c001908tmy8.html"],"created":1794601555,"id":"chatcmpl-9dd64628-d714-4837-be6a-04eefe675ed0","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"看"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20261104A0C60500","https://k.sina.cn/article_7857201856_1d45362c001908tmy8.html"],"created":1794601555,"id":"chatcmpl-9dd64628-d714-4837-be6a-04eefe675ed0","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"美"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20261104A0C60500","https://k.sina.cn/article_7857201856_1d45362c001908tmy8.html"],"created":1794601555,"id":"chatcmpl-9dd64628-d714-4837-be6a-04eefe675ed0","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"联社等"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20261104A0C60500","https://k.sina.cn/article_7857201856_1d45362c001908tmy8.html"],"created":1794601555,"id":"chatcmpl-9dd64628-d714-4837-be6a-04eefe675ed0","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"计"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20261104A0C60500","https://k.sina.cn/article_7857201856_1d45362c001908tmy8.html"],"created":1794601555,"id":"chatcmpl-9dd64628-d714-4837-be6a-04eefe675ed0","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"票。\n\n"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20261104A0C60500","https://k.sina.cn/article_7857201856_1d45362c001908tmy8.html"],"created":1794601555,"id":"chatcmpl-9dd64628-d714-4837-be6a-04eefe675ed0","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"需要"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20261104A0C60500","https://k.sina.cn/article_7857201856_1d45362c001908tmy8.html"],"created":1794601555,"id":"chatcmpl-9dd64628-d714-4837-be6a-04eefe675ed0","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"指出"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20261104A0C60500","https://k.sina.cn/article_7857201856_1d45362c001908tmy8.html"],"created":1794601555,"id":"chatcmpl-9dd64628-d714-4837-be6a-04eefe675ed0","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"搜索结果"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20261104A0C60500","https://k.sina.cn/article_7857201856_1d45362c001908tmy8.html"],"created":1794601555,"id":"chatcmpl-9dd64628-d714-4837-be6a-04eefe675ed0","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"的时间"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20261104A0C60500","https://k.sina.cn/article_7857201856_1d45362c001908tmy8.html"],"created":1794601555,"id":"chatcmpl-9dd64628-d714-4837-be6a-04eefe675ed0","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"线"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20261104A0C60500","https://k.sina.cn/article_7857201856_1d45362c001908tmy8.html"],"created":1794601555,"id":"chatcmpl-9dd64628-d714-4837-be6a-04eefe675ed0","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"混乱"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20261104A0C60500","https://k.sina.cn/article_7857201856_1d45362c001908tmy8.html"],"created":1794601555,"id":"chatcmpl-9dd64628-d714-4837-be6a-04eefe675ed0","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"：报道"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20261104A0C60500","https://k.sina.cn/article_7857201856_1d45362c001908tmy8.html"],"created":1794601555,"id":"chatcmpl-9dd64628-d714-4837-be6a-04eefe675ed0","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"说\"美国"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20261104A0C60500","https://k.sina.cn/article_7857201856_1d45362c001908tmy8.html"],"created":1794601555,"id":"chatcmpl-9dd64628-d714-4837-be6a-04eefe675ed0","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"3日举行中期"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20261104A0C60500","https://k.sina.cn/article_7857201856_1d45362c001908tmy8.html"],"created":1794601555,"id":"chatcmpl-9dd64628-d714-4837-be6a-04eefe675ed0","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"选举投票\"\""},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20261104A0C60500","https://k.sina.cn/article_7857201856_1d45362c001908tmy8.html"],"created":1794601555,"id":"chatcmpl-9dd64628-d714-4837-be6a-04eefe675ed0","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"截至美"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20261104A0C60500","https://k.sina.cn/article_7857201856_1d45362c001908tmy8.html"],"created":1794601555,"id":"chatcmpl-9dd64628-d714-4837-be6a-04eefe675ed0","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"东时间4日凌晨\"，"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20261104A0C60500","https://k.sina.cn/article_7857201856_1d45362c001908tmy8.html"],"created":1794601555,"id":"chatcmpl-9dd64628-d714-4837-be6a-04eefe675ed0","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"这可能是2020"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20261104A0C60500","https://k.sina.cn/article_7857201856_1d45362c001908tmy8.html"],"created":1794601555,"id":"chatcmpl-9dd64628-d714-4837-be6a-04eefe675ed0","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"年？"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20261104A0C60500","https://k.sina.cn/article_7857201856_1d45362c001908tmy8.html"],"created":1794601555,"id":"chatcmpl-9dd64628-d714-4837-be6a-04eefe675ed0","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"不，2020年是"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20261104A0C60500","https://k.sina.cn/article_7857201856_1d45362c001908tmy8.html"],"created":1794601555,"id":"chatcmpl-9dd64628-d714-4837-be6a-04eefe675ed0","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"总统"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20261104A0C60500","https://k.sina.cn/article_7857201856_1d45362c001908tmy8.html"],"created":1794601555,"id":"chatcmpl-9dd64628-d714-4837-be6a-04eefe675ed0","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"选举。201"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20261104A0C60500","https://k.sina.cn/article_7857201856_1d45362c001908tmy8.html"],"created":1794601555,"id":"chatcmpl-9dd64628-d714-4837-be6a-04eefe675ed0","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"8年中期"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20261104A0C60500","https://k.sina.cn/article_7857201856_1d45362c001908tmy8.html"],"created":1794601555,"id":"chatcmpl-9dd64628-d714-4837-be6a-04eefe675ed0","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"选举是11月6"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20261104A0C60500","https://k.sina.cn/article_7857201856_1d45362c001908tmy8.html"],"created":1794601555,"id":"chatcmpl-9dd64628-d714-4837-be6a-04eefe675ed0","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"日。可能是200"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20261104A0C60500","https://k.sina.cn/article_7857201856_1d45362c001908tmy8.html"],"created":1794601555,"id":"chatcmpl-9dd64628-d714-4837-be6a-04eefe675ed0","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"6年？"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20261104A0C60500","https://k.sina.cn/article_7857201856_1d45362c001908tmy8.html"],"created":1794601555,"id":"chatcmpl-9dd64628-d714-4837-be6a-04eefe675ed0","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"2006年11"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20261104A0C60500","https://k.sina.cn/article_7857201856_1d45362c001908tmy8.html"],"created":1794601555,"id":"chatcmpl-9dd64628-d714-4837-be6a-04eefe675ed0","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"月7"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20261104A0C60500","https://k.sina.cn/article_7857201856_1d45362c001908tmy8.html"],"created":1794601555,"id":"chatcmpl-9dd64628-d714-4837-be6a-04eefe675ed0","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"日。也可能是"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20261104A0C60500","https://k.sina.cn/article_7857201856_1d45362c001908tmy8.html"],"created":1794601555,"id":"chatcmpl-9dd64628-d714-4837-be6a-04eefe675ed0","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"某"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20261104A0C60500","https://k.sina.cn/article_7857201856_1d45362c001908tmy8.html"],"created":1794601555,"id":"chatcmpl-9dd64628-d714-4837-be6a-04eefe675ed0","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"年11"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20261104A0C60500","https://k.sina.cn/article_7857201856_1d45362c001908tmy8.html"],"created":1794601555,"id":"chatcmpl-9dd64628-d714-4837-be6a-04eefe675ed0","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"月3日："},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20261104A0C60500","https://k.sina.cn/article_7857201856_1d45362c001908tmy8.html"],"created":1794601555,"id":"chatcmpl-9dd64628-d714-4837-be6a-04eefe675ed0","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"199"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20261104A0C60500","https://k.sina.cn/article_7857201856_1d45362c001908tmy8.html"],"created":1794601555,"id":"chatcmpl-9dd64628-d714-4837-be6a-04eefe675ed0","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"8年11月3日"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20261104A0C60500","https://k.sina.cn/article_7857201856_1d45362c001908tmy8.html"],"created":1794601555,"id":"chatcmpl-9dd64628-d714-4837-be6a-04eefe675ed0","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"（中期"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20261104A0C60500","https://k.sina.cn/article_7857201856_1d45362c001908tmy8.html"],"created":1794601555,"id":"chatcmpl-9dd64628-d714-4837-be6a-04eefe675ed0","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"选举），200"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20261104A0C60500","https://k.sina.cn/article_7857201856_1d45362c001908tmy8.html"],"created":1794601555,"id":"chatcmpl-9dd64628-d714-4837-be6a-04eefe675ed0","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"2年11月5"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20261104A0C60500","https://k.sina.cn/article_7857201856_1d45362c001908tmy8.html"],"created":1794601555,"id":"chatcmpl-9dd64628-d714-4837-be6a-04eefe675ed0","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"日，2010"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20261104A0C60500","https://k.sina.cn/article_7857201856_1d45362c001908tmy8.html"],"created":1794601555,"id":"chatcmpl-9dd64628-d714-4837-be6a-04eefe675ed0","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"年11月2"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20261104A0C60500","https://k.sina.cn/article_7857201856_1d45362c001908tmy8.html"],"created":1794601555,"id":"chatcmpl-9dd64628-d714-4837-be6a-04eefe675ed0","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"日，2014年11"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20261104A0C60500","https://k.sina.cn/article_7857201856_1d45362c001908tmy8.html"],"created":1794601555,"id":"chatcmpl-9dd64628-d714-4837-be6a-04eefe675ed0","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"月4日，2018"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20261104A0C60500","https://k.sina.cn/article_7857201856_1d45362c001908tmy8.html"],"created":1794601555,"id":"chatcmpl-9dd64628-d714-4837-be6a-04eefe675ed0","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"年11月6日，"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20261104A0C60500","https://k.sina.cn/article_7857201856_1d45362c001908tmy8.html"],"created":1794601555,"id":"chatcmpl-9dd64628-d714-4837-be6a-04eefe675ed0","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"2022年11月8"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20261104A0C60500","https://k.sina.cn/article_7857201856_1d45362c001908tmy8.html"],"created":1794601555,"id":"chatcmpl-9dd64628-d714-4837-be6a-04eefe675ed0","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"日。11"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20261104A0C60500","https://k.sina.cn/article_7857201856_1d45362c001908tmy8.html"],"created":1794601555,"id":"chatcmpl-9dd64628-d714-4837-be6a-04eefe675ed0","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"月3日的中"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20261104A0C60500","https://k.sina.cn/article_7857201856_1d45362c001908tmy8.html"],"created":1794601555,"id":"chatcmpl-9dd64628-d714-4837-be6a-04eefe675ed0","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"期选举：1998年"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20261104A0C60500","https://k.sina.cn/article_7857201856_1d45362c001908tmy8.html"],"created":1794601555,"id":"chatcmpl-9dd64628-d714-4837-be6a-04eefe675ed0","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"、202"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20261104A0C60500","https://k.sina.cn/article_7857201856_1d45362c001908tmy8.html"],"created":1794601555,"id":"chatcmpl-9dd64628-d714-4837-be6a-04eefe675ed0","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"6年。"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20261104A0C60500","https://k.sina.cn/article_7857201856_1d45362c001908tmy8.html"],"created":1794601555,"id":"chatcmpl-9dd64628-d714-4837-be6a-04eefe675ed0","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"199"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20261104A0C60500","https://k.sina.cn/article_7857201856_1d45362c001908tmy8.html"],"created":1794601555,"id":"chatcmpl-9dd64628-d714-4837-be6a-04eefe675ed0","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"8年中期选举民主党"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20261104A0C60500","https://k.sina.cn/article_7857201856_1d45362c001908tmy8.html"],"created":1794601555,"id":"chatcmpl-9dd64628-d714-4837-be6a-04eefe675ed0","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"确实"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20261104A0C60500","https://k.sina.cn/article_7857201856_1d45362c001908tmy8.html"],"created":1794601555,"id":"chatcmpl-9dd64628-d714-4837-be6a-04eefe675ed0","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"在"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20261104A0C60500","https://k.sina.cn/article_7857201856_1d45362c001908tmy8.html"],"created":1794601555,"id":"chatcmpl-9dd64628-d714-4837-be6a-04eefe675ed0","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"参议院持平"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20261104A0C60500","https://k.sina.cn/article_7857201856_1d45362c001908tmy8.html"],"created":1794601555,"id":"chatcmpl-9dd64628-d714-4837-be6a-04eefe675ed0","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"/"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20261104A0C60500","https://k.sina.cn/article_7857201856_1d45362c001908tmy8.html"],"created":1794601555,"id":"chatcmpl-9dd64628-d714-4837-be6a-04eefe675ed0","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"众"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20261104A0C60500","https://k.sina.cn/article_7857201856_1d45362c001908tmy8.html"],"created":1794601555,"id":"chatcmpl-9dd64628-d714-4837-be6a-04eefe675ed0","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"议院增加"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20261104A0C60500","https://k.sina.cn/article_7857201856_1d45362c001908tmy8.html"],"created":1794601555,"id":"chatcmpl-9dd64628-d714-4837-be6a-04eefe675ed0","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"席位"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20261104A0C60500","https://k.sina.cn/article_7857201856_1d45362c001908tmy8.html"],"created":1794601555,"id":"chatcmpl-9dd64628-d714-4837-be6a-04eefe675ed0","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"，但没有"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20261104A0C60500","https://k.sina.cn/article_7857201856_1d45362c001908tmy8.html"],"created":1794601555,"id":"chatcmpl-9dd64628-d714-4837-be6a-04eefe675ed0","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"赢得"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20261104A0C60500","https://k.sina.cn/article_7857201856_1d45362c001908tmy8.html"],"created":1794601555,"id":"chatcmpl-9dd64628-d714-4837-be6a-04eefe675ed0","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"两院控制"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20261104A0C60500","https://k.sina.cn/article_7857201856_1d45362c001908tmy8.html"],"created":1794601555,"id":"chatcmpl-9dd64628-d714-4837-be6a-04eefe675ed0","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"权。"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20261104A0C60500","https://k.sina.cn/article_7857201856_1d45362c001908tmy8.html"],"created":1794601555,"id":"chatcmpl-9dd64628-d714-4837-be6a-04eefe675ed0","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"所以这条"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20261104A0C60500","https://k.sina.cn/article_7857201856_1d45362c001908tmy8.html"],"created":1794601555,"id":"chatcmpl-9dd64628-d714-4837-be6a-04eefe675ed0","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"报道不像是199"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20261104A0C60500","https://k.sina.cn/article_7857201856_1d45362c001908tmy8.html"],"created":1794601555,"id":"chatcmpl-9dd64628-d714-4837-be6a-04eefe675ed0","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"8年。总之"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20261104A0C60500","https://k.sina.cn/article_7857201856_1d45362c001908tmy8.html"],"created":1794601555,"id":"chatcmpl-9dd64628-d714-4837-be6a-04eefe675ed0","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"无法"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20261104A0C60500","https://k.sina.cn/article_7857201856_1d45362c001908tmy8.html"],"created":1794601555,"id":"chatcmpl-9dd64628-d714-4837-be6a-04eefe675ed0","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"确定"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20261104A0C60500","https://k.sina.cn/article_7857201856_1d45362c001908tmy8.html"],"created":1794601555,"id":"chatcmpl-9dd64628-d714-4837-be6a-04eefe675ed0","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"年份"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20261104A0C60500","https://k.sina.cn/article_7857201856_1d45362c001908tmy8.html"],"created":1794601555,"id":"chatcmpl-9dd64628-d714-4837-be6a-04eefe675ed0","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"，可能是"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20261104A0C60500","https://k.sina.cn/article_7857201856_1d45362c001908tmy8.html"],"created":1794601555,"id":"chatcmpl-9dd64628-d714-4837-be6a-04eefe675ed0","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"模拟"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20261104A0C60500","https://k.sina.cn/article_7857201856_1d45362c001908tmy8.html"],"created":1794601555,"id":"chatcmpl-9dd64628-d714-4837-be6a-04eefe675ed0","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"/旧数据。\n\n因此"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20261104A0C60500","https://k.sina.cn/article_7857201856_1d45362c001908tmy8.html"],"created":1794601555,"id":"chatcmpl-9dd64628-d714-4837-be6a-04eefe675ed0","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"我要明确"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20261104A0C60500","https://k.sina.cn/article_7857201856_1d45362c001908tmy8.html"],"created":1794601555,"id":"chatcmpl-9dd64628-d714-4837-be6a-04eefe675ed0","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"说明"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20261104A0C60500","https://k.sina.cn/article_7857201856_1d45362c001908tmy8.html"],"created":1794601555,"id":"chatcmpl-9dd64628-d714-4837-be6a-04eefe675ed0","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"资料"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20261104A0C60500","https://k.sina.cn/article_7857201856_1d45362c001908tmy8.html"],"created":1794601555,"id":"chatcmpl-9dd64628-d714-4837-be6a-04eefe675ed0","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"不足，不能"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20261104A0C60500","https://k.sina.cn/article_7857201856_1d45362c001908tmy8.html"],"created":1794601555,"id":"chatcmpl-9dd64628-d714-4837-be6a-04eefe675ed0","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"给出"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20261104A0C60500","https://k.sina.cn/article_7857201856_1d45362c001908tmy8.html"],"created":1794601555,"id":"chatcmpl-9dd64628-d714-4837-be6a-04eefe675ed0","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"2026年的"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20261104A0C60500","https://k.sina.cn/article_7857201856_1d45362c001908tmy8.html"],"created":1794601555,"id":"chatcmpl-9dd64628-d714-4837-be6a-04eefe675ed0","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"确切数字。同时提供"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20261104A0C60500","https://k.sina.cn/article_7857201856_1d45362c001908tmy8.html"],"created":1794601555,"id":"chatcmpl-9dd64628-d714-4837-be6a-04eefe675ed0","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"已知的"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20261104A0C60500","https://k.sina.cn/article_7857201856_1d45362c001908tmy8.html"],"created":1794601555,"id":"chatcmpl-9dd64628-d714-4837-be6a-04eefe675ed0","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"席位"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20261104A0C60500","https://k.sina.cn/article_7857201856_1d45362c001908tmy8.html"],"created":1794601555,"id":"chatcmpl-9dd64628-d714-4837-be6a-04eefe675ed0","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"总数"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20261104A0C60500","https://k.sina.cn/article_7857201856_1d45362c001908tmy8.html"],"created":1794601555,"id":"chatcmpl-9dd64628-d714-4837-be6a-04eefe675ed0","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"框架"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20261104A0C60500","https://k.sina.cn/article_7857201856_1d45362c001908tmy8.html"],"created":1794601555,"id":"chatcmpl-9dd64628-d714-4837-be6a-04eefe675ed0","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"。\n\n回答"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20261104A0C60500","https://k.sina.cn/article_7857201856_1d45362c001908tmy8.html"],"created":1794601555,"id":"chatcmpl-9dd64628-d714-4837-be6a-04eefe675ed0","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"结构：\n1. 直接"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20261104A0C60500","https://k.sina.cn/article_7857201856_1d45362c001908tmy8.html"],"created":1794601555,"id":"chatcmpl-9dd64628-d714-4837-be6a-04eefe675ed0","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"回答：根据"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20261104A0C60500","https://k.sina.cn/article_7857201856_1d45362c001908tmy8.html"],"created":1794601555,"id":"chatcmpl-9dd64628-d714-4837-be6a-04eefe675ed0","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"现有检索"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20261104A0C60500","https://k.sina.cn/article_7857201856_1d45362c001908tmy8.html"],"created":1794601555,"id":"chatcmpl-9dd64628-d714-4837-be6a-04eefe675ed0","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"结果，无法确认2026"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20261104A0C60500","https://k.sina.cn/article_7857201856_1d45362c001908tmy8.html"],"created":1794601555,"id":"chatcmpl-9dd64628-d714-4837-be6a-04eefe675ed0","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"年中期"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20261104A0C60500","https://k.sina.cn/article_7857201856_1d45362c001908tmy8.html"],"created":1794601555,"id":"chatcmpl-9dd64628-d714-4837-be6a-04eefe675ed0","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"选举后"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20261104A0C60500","https://k.sina.cn/article_7857201856_1d45362c001908tmy8.html"],"created":1794601555,"id":"chatcmpl-9dd64628-d714-4837-be6a-04eefe675ed0","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"两"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20261104A0C60500","https://k.sina.cn/article_7857201856_1d45362c001908tmy8.html"],"created":1794601555,"id":"chatcmpl-9dd64628-d714-4837-be6a-04eefe675ed0","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"党"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20261104A0C60500","https://k.sina.cn/article_7857201856_1d45362c001908tmy8.html"],"created":1794601555,"id":"chatcmpl-9dd64628-d714-4837-be6a-04eefe675ed0","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"在"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20261104A0C60500","https://k.sina.cn/article_7857201856_1d45362c001908tmy8.html"],"created":1794601555,"id":"chatcmpl-9dd64628-d714-4837-be6a-04eefe675ed0","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"参众"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20261104A0C60500","https://k.sina.cn/article_7857201856_1d45362c001908tmy8.html"],"created":1794601555,"id":"chatcmpl-9dd64628-d714-4837-be6a-04eefe675ed0","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"两"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20261104A0C60500","https://k.sina.cn/article_7857201856_1d45362c001908tmy8.html"],"created":1794601555,"id":"chatcmpl-9dd64628-d714-4837-be6a-04eefe675ed0","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"院各"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20261104A0C60500","https://k.sina.cn/article_7857201856_1d45362c001908tmy8.html"],"created":1794601555,"id":"chatcmpl-9dd64628-d714-4837-be6a-04eefe675ed0","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"占"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20261104A0C60500","https://k.sina.cn/article_7857201856_1d45362c001908tmy8.html"],"created":1794601555,"id":"chatcmpl-9dd64628-d714-4837-be6a-04eefe675ed0","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"多少席、还有"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20261104A0C60500","https://k.sina.cn/article_7857201856_1d45362c001908tmy8.html"],"created":1794601555,"id":"chatcmpl-9dd64628-d714-4837-be6a-04eefe675ed0","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"多少席未定；"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20261104A0C60500","https://k.sina.cn/article_7857201856_1d45362c001908tmy8.html"],"created":1794601555,"id":"chatcmpl-9dd64628-d714-4837-be6a-04eefe675ed0","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"检索到的"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20261104A0C60500","https://k.sina.cn/article_7857201856_1d45362c001908tmy8.html"],"created":1794601555,"id":"chatcmpl-9dd64628-d714-4837-be6a-04eefe675ed0","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"报道没有"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20261104A0C60500","https://k.sina.cn/article_7857201856_1d45362c001908tmy8.html"],"created":1794601555,"id":"chatcmpl-9dd64628-d714-4837-be6a-04eefe675ed0","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"给出这些"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20261104A0C60500","https://k.sina.cn/article_7857201856_1d45362c001908tmy8.html"],"created":1794601555,"id":"chatcmpl-9dd64628-d714-4837-be6a-04eefe675ed0","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"数字"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20261104A0C60500","https://k.sina.cn/article_7857201856_1d45362c001908tmy8.html"],"created":1794601555,"id":"chatcmpl-9dd64628-d714-4837-be6a-04eefe675ed0","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"。\n"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20261104A0C60500","https://k.sina.cn/article_7857201856_1d45362c001908tmy8.html"],"created":1794601555,"id":"chatcmpl-9dd64628-d714-4837-be6a-04eefe675ed0","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"2. 检索"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20261104A0C60500","https://k.sina.cn/article_7857201856_1d45362c001908tmy8.html"],"created":1794601555,"id":"chatcmpl-9dd64628-d714-4837-be6a-04eefe675ed0","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"结果"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20261104A0C60500","https://k.sina.cn/article_7857201856_1d45362c001908tmy8.html"],"created":1794601555,"id":"chatcmpl-9dd64628-d714-4837-be6a-04eefe675ed0","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"提供"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20261104A0C60500","https://k.sina.cn/article_7857201856_1d45362c001908tmy8.html"],"created":1794601555,"id":"chatcmpl-9dd64628-d714-4837-be6a-04eefe675ed0","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"的信息：某"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20261104A0C60500","https://k.sina.cn/article_7857201856_1d45362c001908tmy8.html"],"created":1794601555,"id":"chatcmpl-9dd64628-d714-4837-be6a-04eefe675ed0","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"次中期选举中，"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20261104A0C60500","https://k.sina.cn/article_7857201856_1d45362c001908tmy8.html"],"created":1794601555,"id":"chatcmpl-9dd64628-d714-4837-be6a-04eefe675ed0","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"众议院全部"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20261104A0C60500","https://k.sina.cn/article_7857201856_1d45362c001908tmy8.html"],"created":1794601555,"id":"chatcmpl-9dd64628-d714-4837-be6a-04eefe675ed0","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"435席、参议院100"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20261104A0C60500","https://k.sina.cn/article_7857201856_1d45362c001908tmy8.html"],"created":1794601555,"id":"chatcmpl-9dd64628-d714-4837-be6a-04eefe675ed0","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"席中的35席改"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20261104A0C60500","https://k.sina.cn/article_7857201856_1d45362c001908tmy8.html"],"created":1794601555,"id":"chatcmpl-9dd64628-d714-4837-be6a-04eefe675ed0","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"选"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20261104A0C60500","https://k.sina.cn/article_7857201856_1d45362c001908tmy8.html"],"created":1794601555,"id":"chatcmpl-9dd64628-d714-4837-be6a-04eefe675ed0","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"，多家美"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20261104A0C60500","https://k.sina.cn/article_7857201856_1d45362c001908tmy8.html"],"created":1794601555,"id":"chatcmpl-9dd64628-d714-4837-be6a-04eefe675ed0","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"媒预测民主党"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20261104A0C60500","https://k.sina.cn/article_7857201856_1d45362c001908tmy8.html"],"created":1794601555,"id":"chatcmpl-9dd64628-d714-4837-be6a-04eefe675ed0","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"赢得两院"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20261104A0C60500","https://k.sina.cn/article_7857201856_1d45362c001908tmy8.html"],"created":1794601555,"id":"chatcmpl-9dd64628-d714-4837-be6a-04eefe675ed0","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"控制权，"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20261104A0C60500","https://k.sina.cn/article_7857201856_1d45362c001908tmy8.html"],"created":1794601555,"id":"chatcmpl-9dd64628-d714-4837-be6a-04eefe675ed0","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"民主党"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20261104A0C60500","https://k.sina.cn/article_7857201856_1d45362c001908tmy8.html"],"created":1794601555,"id":"chatcmpl-9dd64628-d714-4837-be6a-04eefe675ed0","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"在7个州"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20261104A0C60500","https://k.sina.cn/article_7857201856_1d45362c001908tmy8.html"],"created":1794601555,"id":"chatcmpl-9dd64628-d714-4837-be6a-04eefe675ed0","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"夺取此前"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20261104A0C60500","https://k.sina.cn/article_7857201856_1d45362c001908tmy8.html"],"created":1794601555,"id":"chatcmpl-9dd64628-d714-4837-be6a-04eefe675ed0","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"共和"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20261104A0C60500","https://k.sina.cn/article_7857201856_1d45362c001908tmy8.html"],"created":1794601555,"id":"chatcmpl-9dd64628-d714-4837-be6a-04eefe675ed0","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"党控制的参议院席位["},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20261104A0C60500","https://k.sina.cn/article_7857201856_1d45362c001908tmy8.html"],"created":1794601555,"id":"chatcmpl-9dd64628-d714-4837-be6a-04eefe675ed0","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"2][4]。但报道"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20261104A0C60500","https://k.sina.cn/article_7857201856_1d45362c001908tmy8.html"],"created":1794601555,"id":"chatcmpl-9dd64628-d714-4837-be6a-04eefe675ed0","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"时间"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20261104A0C60500","https://k.sina.cn/article_7857201856_1d45362c001908tmy8.html"],"created":1794601555,"id":"chatcmpl-9dd64628-d714-4837-be6a-04eefe675ed0","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"与"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20261104A0C60500","https://k.sina.cn/article_7857201856_1d45362c001908tmy8.html"],"created":1794601555,"id":"chatcmpl-9dd64628-d714-4837-be6a-04eefe675ed0","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"202"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20261104A0C60500","https://k.sina.cn/article_7857201856_1d45362c001908tmy8.html"],"created":1794601555,"id":"chatcmpl-9dd64628-d714-4837-be6a-04eefe675ed0","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"6年不符，不能当作"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20261104A0C60500","https://k.sina.cn/article_7857201856_1d45362c001908tmy8.html"],"created":1794601555,"id":"chatcmpl-9dd64628-d714-4837-be6a-04eefe675ed0","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"本次"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20261104A0C60500","https://k.sina.cn/article_7857201856_1d45362c001908tmy8.html"],"created":1794601555,"id":"chatcmpl-9dd64628-d714-4837-be6a-04eefe675ed0","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"结果"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20261104A0C60500","https://k.sina.cn/article_7857201856_1d45362c001908tmy8.html"],"created":1794601555,"id":"chatcmpl-9dd64628-d714-4837-be6a-04eefe675ed0","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"。\n3. 背景"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20261104A0C60500","https://k.sina.cn/article_7857201856_1d45362c001908tmy8.html"],"created":1794601555,"id":"chatcmpl-9dd64628-d714-4837-be6a-04eefe675ed0","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"：参议院100"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20261104A0C60500","https://k.sina.cn/article_7857201856_1d45362c001908tmy8.html"],"created":1794601555,"id":"chatcmpl-9dd64628-d714-4837-be6a-04eefe675ed0","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"席、众议院435"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20261104A0C60500","https://k.sina.cn/article_7857201856_1d45362c001908tmy8.html"],"created":1794601555,"id":"chatcmpl-9dd64628-d714-4837-be6a-04eefe675ed0","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"席，"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20261104A0C60500","https://k.sina.cn/article_7857201856_1d45362c001908tmy8.html"],"created":1794601555,"id":"chatcmpl-9dd64628-d714-4837-be6a-04eefe675ed0","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"多数门槛"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20261104A0C60500","https://k.sina.cn/article_7857201856_1d45362c001908tmy8.html"],"created":1794601555,"id":"chatcmpl-9dd64628-d714-4837-be6a-04eefe675ed0","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"分别为51"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20261104A0C60500","https://k.sina.cn/article_7857201856_1d45362c001908tmy8.html"],"created":1794601555,"id":"chatcmpl-9dd64628-d714-4837-be6a-04eefe675ed0","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"席和218"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20261104A0C60500","https://k.sina.cn/article_7857201856_1d45362c001908tmy8.html"],"created":1794601555,"id":"chatcmpl-9dd64628-d714-4837-be6a-04eefe675ed0","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"席。"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20261104A0C60500","https://k.sina.cn/article_7857201856_1d45362c001908tmy8.html"],"created":1794601555,"id":"chatcmpl-9dd64628-d714-4837-be6a-04eefe675ed0","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"2026年中期"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20261104A0C60500","https://k.sina.cn/article_7857201856_1d45362c001908tmy8.html"],"created":1794601555,"id":"chatcmpl-9dd64628-d714-4837-be6a-04eefe675ed0","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"选举众"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20261104A0C60500","https://k.sina.cn/article_7857201856_1d45362c001908tmy8.html"],"created":1794601555,"id":"chatcmpl-9dd64628-d714-4837-be6a-04eefe675ed0","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"议院全部"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20261104A0C60500","https://k.sina.cn/article_7857201856_1d45362c001908tmy8.html"],"created":1794601555,"id":"chatcmpl-9dd64628-d714-4837-be6a-04eefe675ed0","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"改选，参议院改"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20261104A0C60500","https://k.sina.cn/article_7857201856_1d45362c001908tmy8.html"],"created":1794601555,"id":"chatcmpl-9dd64628-d714-4837-be6a-04eefe675ed0","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"选约三分之一"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20261104A0C60500","https://k.sina.cn/article_7857201856_1d45362c001908tmy8.html"],"created":1794601555,"id":"chatcmpl-9dd64628-d714-4837-be6a-04eefe675ed0","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"。\n4. 建议"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20261104A0C60500","https://k.sina.cn/article_7857201856_1d45362c001908tmy8.html"],"created":1794601555,"id":"chatcmpl-9dd64628-d714-4837-be6a-04eefe675ed0","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"：查看"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20261104A0C60500","https://k.sina.cn/article_7857201856_1d45362c001908tmy8.html"],"created":1794601555,"id":"chatcmpl-9dd64628-d714-4837-be6a-04eefe675ed0","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"美联社、CNN"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20261104A0C60500","https://k.sina.cn/article_7857201856_1d45362c001908tmy8.html"],"created":1794601555,"id":"chatcmpl-9dd64628-d714-4837-be6a-04eefe675ed0","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"等"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20261104A0C60500","https://k.sina.cn/article_7857201856_1d45362c001908tmy8.html"],"created":1794601555,"id":"chatcmpl-9dd64628-d714-4837-be6a-04eefe675ed0","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"实时计"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20261104A0C60500","https://k.sina.cn/article_7857201856_1d45362c001908tmy8.html"],"created":1794601555,"id":"chatcmpl-9dd64628-d714-4837-be6a-04eefe675ed0","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"票或"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20261104A0C60500","https://k.sina.cn/article_7857201856_1d45362c001908tmy8.html"],"created":1794601555,"id":"chatcmpl-9dd64628-d714-4837-be6a-04eefe675ed0","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"官方"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20261104A0C60500","https://k.sina.cn/article_7857201856_1d45362c001908tmy8.html"],"created":1794601555,"id":"chatcmpl-9dd64628-d714-4837-be6a-04eefe675ed0","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"选举"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20261104A0C60500","https://k.sina.cn/article_7857201856_1d45362c001908tmy8.html"],"created":1794601555,"id":"chatcmpl-9dd64628-d714-4837-be6a-04eefe675ed0","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"机构"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20261104A0C60500","https://k.sina.cn/article_7857201856_1d45362c001908tmy8.html"],"created":1794601555,"id":"chatcmpl-9dd64628-d714-4837-be6a-04eefe675ed0","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"结果。\n\n注意引用"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20261104A0C60500","https://k.sina.cn/article_7857201856_1d45362c001908tmy8.html"],"created":1794601555,"id":"chatcmpl-9dd64628-d714-4837-be6a-04eefe675ed0","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"格式["},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20261104A0C60500","https://k.sina.cn/article_7857201856_1d45362c001908tmy8.html"],"created":1794601555,"id":"chatcmpl-9dd64628-d714-4837-be6a-04eefe675ed0","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"2][4"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20261104A0C60500","https://k.sina.cn/article_7857201856_1d45362c001908tmy8.html"],"created":1794601555,"id":"chatcmpl-9dd64628-d714-4837-be6a-04eefe675ed0","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"]。\n\n语言"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20261104A0C60500","https://k.sina.cn/article_7857201856_1d45362c001908tmy8.html"],"created":1794601555,"id":"chatcmpl-9dd64628-d714-4837-be6a-04eefe675ed0","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"："},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20261104A0C60500","https://k.sina.cn/article_7857201856_1d45362c001908tmy8.html"],"created":1794601555,"id":"chatcmpl-9dd64628-d714-4837-be6a-04eefe675ed0","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"中文。简洁"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20261104A0C60500","https://k.sina.cn/article_7857201856_1d45362c001908tmy8.html"],"created":1794601555,"id":"chatcmpl-9dd64628-d714-4837-be6a-04eefe675ed0","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"。"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20261104A0C60500","https://k.sina.cn/article_7857201856_1d45362c001908tmy8.html"],"created":1794601555,"id":"chatcmpl-9dd64628-d714-4837-be6a-04eefe675ed0","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"根据"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20261104A0C60500","https://k.sina.cn/article_7857201856_1d45362c001908tmy8.html"],"created":1794601555,"id":"chatcmpl-9dd64628-d714-4837-be6a-04eefe675ed0","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"目前检索到的"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20261104A0C60500","https://k.sina.cn/article_7857201856_1d45362c001908tmy8.html"],"created":1794601555,"id":"chatcmpl-9dd64628-d714-4837-be6a-04eefe675ed0","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"资料，**无法确认202"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20261104A0C60500","https://k.sina.cn/article_7857201856_1d45362c001908tmy8.html"],"created":1794601555,"id":"chatcmpl-9dd64628-d714-4837-be6a-04eefe675ed0","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"6年美国"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20261104A0C60500","https://k.sina.cn/article_7857201856_1d45362c001908tmy8.html"],"created":1794601555,"id":"chatcmpl-9dd64628-d714-4837-be6a-04eefe675ed0","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"中期选举后"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20261104A0C60500","https://k.sina.cn/article_7857201856_1d45362c001908tmy8.html"],"created":1794601555,"id":"chatcmpl-9dd64628-d714-4837-be6a-04eefe675ed0","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"两党在"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20261104A0C60500","https://k.sina.cn/article_7857201856_1d45362c001908tmy8.html"],"created":1794601555,"id":"chatcmpl-9dd64628-d714-4837-be6a-04eefe675ed0","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"参众"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20261104A0C60500","https://k.sina.cn/article_7857201856_1d45362c001908tmy8.html"],"created":1794601555,"id":"chatcmpl-9dd64628-d714-4837-be6a-04eefe675ed0","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"两"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20261104A0C60500","https://k.sina.cn/article_7857201856_1d45362c001908tmy8.html"],"created":1794601555,"id":"chatcmpl-9dd64628-d714-4837-be6a-04eefe675ed0","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"院各占"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20261104A0C60500","https://k.sina.cn/article_7857201856_1d45362c001908tmy8.html"],"created":1794601555,"id":"chatcmpl-9dd64628-d714-4837-be6a-04eefe675ed0","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"多少席，"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20261104A0C60500","https://k.sina.cn/article_7857201856_1d45362c001908tmy8.html"],"created":1794601555,"id":"chatcmpl-9dd64628-d714-4837-be6a-04eefe675ed0","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"也无法确认"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20261104A0C60500","https://k.sina.cn/article_7857201856_1d45362c001908tmy8.html"],"created":1794601555,"id":"chatcmpl-9dd64628-d714-4837-be6a-04eefe675ed0","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"还有多少席"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20261104A0C60500","https://k.sina.cn/article_7857201856_1d45362c001908tmy8.html"],"created":1794601555,"id":"chatcmpl-9dd64628-d714-4837-be6a-04eefe675ed0","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"未"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20261104A0C60500","https://k.sina.cn/article_7857201856_1d45362c001908tmy8.html"],"created":1794601555,"id":"chatcmpl-9dd64628-d714-4837-be6a-04eefe675ed0","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"定**。现有检索结果"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20261104A0C60500","https://k.sina.cn/article_7857201856_1d45362c001908tmy8.html"],"created":1794601555,"id":"chatcmpl-9dd64628-d714-4837-be6a-04eefe675ed0","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"中没有任何一条提供"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20261104A0C60500","https://k.sina.cn/article_7857201856_1d45362c001908tmy8.html"],"created":1794601555,"id":"chatcmpl-9dd64628-d714-4837-be6a-04eefe675ed0","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"本次"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20261104A0C60500","https://k.sina.cn/article_7857201856_1d45362c001908tmy8.html"],"created":1794601555,"id":"chatcmpl-9dd64628-d714-4837-be6a-04eefe675ed0","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"选举的具体席位统计"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20261104A0C60500","https://k.sina.cn/article_7857201856_1d45362c001908tmy8.html"],"created":1794601555,"id":"chatcmpl-9dd64628-d714-4837-be6a-04eefe675ed0","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"或剩余"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20261104A0C60500","https://k.sina.cn/article_7857201856_1d45362c001908tmy8.html"],"created":1794601555,"id":"chatcmpl-9dd64628-d714-4837-be6a-04eefe675ed0","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"未定席"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20261104A0C60500","https://k.sina.cn/article_7857201856_1d45362c001908tmy8.html"],"created":1794601555,"id":"chatcmpl-9dd64628-d714-4837-be6a-04eefe675ed0","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"位数。\n\n检索"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20261104A0C60500","https://k.sina.cn/article_7857201856_1d45362c001908tmy8.html"],"created":1794601555,"id":"chatcmpl-9dd64628-d714-4837-be6a-04eefe675ed0","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"结果中"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20261104A0C60500","https://k.sina.cn/article_7857201856_1d45362c001908tmy8.html"],"created":1794601555,"id":"chatcmpl-9dd64628-d714-4837-be6a-04eefe675ed0","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"仅"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20261104A0C60500","https://k.sina.cn/article_7857201856_1d45362c001908tmy8.html"],"created":1794601555,"id":"chatcmpl-9dd64628-d714-4837-be6a-04eefe675ed0","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"有一条相关"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20261104A0C60500","https://k.sina.cn/article_7857201856_1d45362c001908tmy8.html"],"created":1794601555,"id":"chatcmpl-9dd64628-d714-4837-be6a-04eefe675ed0","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"报道，内容是"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20261104A0C60500","https://k.sina.cn/article_7857201856_1d45362c001908tmy8.html"],"created":1794601555,"id":"chatcmpl-9dd64628-d714-4837-be6a-04eefe675ed0","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"某"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20261104A0C60500","https://k.sina.cn/article_7857201856_1d45362c001908tmy8.html"],"created":1794601555,"id":"chatcmpl-9dd64628-d714-4837-be6a-04eefe675ed0","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"次中期选举的情况"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20261104A0C60500","https://k.sina.cn/article_7857201856_1d45362c001908tmy8.html"],"created":1794601555,"id":"chatcmpl-9dd64628-d714-4837-be6a-04eefe675ed0","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"：共和党和"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20261104A0C60500","https://k.sina.cn/article_7857201856_1d45362c001908tmy8.html"],"created":1794601555,"id":"chatcmpl-9dd64628-d714-4837-be6a-04eefe675ed0","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"民主党角逐"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20261104A0C60500","https://k.sina.cn/article_7857201856_1d45362c001908tmy8.html"],"created":1794601555,"id":"chatcmpl-9dd64628-d714-4837-be6a-04eefe675ed0","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"国会"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20261104A0C60500","https://k.sina.cn/article_7857201856_1d45362c001908tmy8.html"],"created":1794601555,"id":"chatcmpl-9dd64628-d714-4837-be6a-04eefe675ed0","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"众议院全部435个"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20261104A0C60500","https://k.sina.cn/article_7857201856_1d45362c001908tmy8.html"],"created":1794601555,"id":"chatcmpl-9dd64628-d714-4837-be6a-04eefe675ed0","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"席位和参议院100"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20261104A0C60500","https://k.sina.cn/article_7857201856_1d45362c001908tmy8.html"],"created":1794601555,"id":"chatcmpl-9dd64628-d714-4837-be6a-04eefe675ed0","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"个席位中的35个，"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20261104A0C60500","https://k.sina.cn/article_7857201856_1d45362c001908tmy8.html"],"created":1794601555,"id":"chatcmpl-9dd64628-d714-4837-be6a-04eefe675ed0","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"多家"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20261104A0C60500","https://k.sina.cn/article_7857201856_1d45362c001908tmy8.html"],"created":1794601555,"id":"chatcmpl-9dd64628-d714-4837-be6a-04eefe675ed0","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"美国"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20261104A0C60500","https://k.sina.cn/article_7857201856_1d45362c001908tmy8.html"],"created":1794601555,"id":"chatcmpl-9dd64628-d714-4837-be6a-04eefe675ed0","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"媒体预测民主党"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20261104A0C60500","https://k.sina.cn/article_7857201856_1d45362c001908tmy8.html"],"created":1794601555,"id":"chatcmpl-9dd64628-d714-4837-be6a-04eefe675ed0","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"将在参"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20261104A0C60500","https://k.sina.cn/article_7857201856_1d45362c001908tmy8.html"],"created":1794601555,"id":"chatcmpl-9dd64628-d714-4837-be6a-04eefe675ed0","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"众"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20261104A0C60500","https://k.sina.cn/article_7857201856_1d45362c001908tmy8.html"],"created":1794601555,"id":"chatcmpl-9dd64628-d714-4837-be6a-04eefe675ed0","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"两院均"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20261104A0C60500","https://k.sina.cn/article_7857201856_1d45362c001908tmy8.html"],"created":1794601555,"id":"chatcmpl-9dd64628-d714-4837-be6a-04eefe675ed0","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"控制"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20261104A0C60500","https://k.sina.cn/article_7857201856_1d45362c001908tmy8.html"],"created":1794601555,"id":"chatcmpl-9dd64628-d714-4837-be6a-04eefe675ed0","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"超过半数席位、"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20261104A0C60500","https://k.sina.cn/article_7857201856_1d45362c001908tmy8.html"],"created":1794601555,"id":"chatcmpl-9dd64628-d714-4837-be6a-04eefe675ed0","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"赢得两院"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20261104A0C60500","https://k.sina.cn/article_7857201856_1d45362c001908tmy8.html"],"created":1794601555,"id":"chatcmpl-9dd64628-d714-4837-be6a-04eefe675ed0","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"控制权，并称"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20261104A0C60500","https://k.sina.cn/article_7857201856_1d45362c001908tmy8.html"],"created":1794601555,"id":"chatcmpl-9dd64628-d714-4837-be6a-04eefe675ed0","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"民主党"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20261104A0C60500","https://k.sina.cn/article_7857201856_1d45362c001908tmy8.html"],"created":1794601555,"id":"chatcmpl-9dd64628-d714-4837-be6a-04eefe675ed0","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"已在7个州"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20261104A0C60500","https://k.sina.cn/article_7857201856_1d45362c001908tmy8.html"],"created":1794601555,"id":"chatcmpl-9dd64628-d714-4837-be6a-04eefe675ed0","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"夺取此前"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20261104A0C60500","https://k.sina.cn/article_7857201856_1d45362c001908tmy8.html"],"created":1794601555,"id":"chatcmpl-9dd64628-d714-4837-be6a-04eefe675ed0","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"由共和党控制的参"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20261104A0C60500","https://k.sina.cn/article_7857201856_1d45362c001908tmy8.html"],"created":1794601555,"id":"chatcmpl-9dd64628-d714-4837-be6a-04eefe675ed0","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"议院席位["},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20261104A0C60500","https://k.sina.cn/article_7857201856_1d45362c001908tmy8.html"],"created":1794601555,"id":"chatcmpl-9dd64628-d714-4837-be6a-04eefe675ed0","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"2][4]。但该"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20261104A0C60500","https://k.sina.cn/article_7857201856_1d45362c001908tmy8.html"],"created":1794601555,"id":"chatcmpl-9dd64628-d714-4837-be6a-04eefe675ed0","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"报道提到"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20261104A0C60500","https://k.sina.cn/article_7857201856_1d45362c001908tmy8.html"],"created":1794601555,"id":"chatcmpl-9dd64628-d714-4837-be6a-04eefe675ed0","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"“美国"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20261104A0C60500","https://k.sina.cn/article_7857201856_1d45362c001908tmy8.html"],"created":1794601555,"id":"chatcmpl-9dd64628-d714-4837-be6a-04eefe675ed0","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"3日举行中期"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20261104A0C60500","https://k.sina.cn/article_7857201856_1d45362c001908tmy8.html"],"created":1794601555,"id":"chatcmpl-9dd64628-d714-4837-be6a-04eefe675ed0","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"选举投票”“截至美"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20261104A0C60500","https://k.sina.cn/article_7857201856_1d45362c001908tmy8.html"],"created":1794601555,"id":"chatcmpl-9dd64628-d714-4837-be6a-04eefe675ed0","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"东时间4日凌晨”，其"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20261104A0C60500","https://k.sina.cn/article_7857201856_1d45362c001908tmy8.html"],"created":1794601555,"id":"chatcmpl-9dd64628-d714-4837-be6a-04eefe675ed0","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"时间线与"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20261104A0C60500","https://k.sina.cn/article_7857201856_1d45362c001908tmy8.html"],"created":1794601555,"id":"chatcmpl-9dd64628-d714-4837-be6a-04eefe675ed0","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"2026年中期"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20261104A0C60500","https://k.sina.cn/article_7857201856_1d45362c001908tmy8.html"],"created":1794601555,"id":"chatcmpl-9dd64628-d714-4837-be6a-04eefe675ed0","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"选举（202"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20261104A0C60500","https://k.sina.cn/article_7857201856_1d45362c001908tmy8.html"],"created":1794601555,"id":"chatcmpl-9dd64628-d714-4837-be6a-04eefe675ed0","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"6年11月3日"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20261104A0C60500","https://k.sina.cn/article_7857201856_1d45362c001908tmy8.html"],"created":1794601555,"id":"chatcmpl-9dd64628-d714-4837-be6a-04eefe675ed0","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"投票，"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20261104A0C60500","https://k.sina.cn/article_7857201856_1d45362c001908tmy8.html"],"created":1794601555,"id":"chatcmpl-9dd64628-d714-4837-be6a-04eefe675ed0","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"查询日为"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20261104A0C60500","https://k.sina.cn/article_7857201856_1d45362c001908tmy8.html"],"created":1794601555,"id":"chatcmpl-9dd64628-d714-4837-be6a-04eefe675ed0","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"11月14日）是否"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20261104A0C60500","https://k.sina.cn/article_7857201856_1d45362c001908tmy8.html"],"created":1794601555,"id":"chatcmpl-9dd64628-d714-4837-be6a-04eefe675ed0","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"对应"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20261104A0C60500","https://k.sina.cn/article_7857201856_1d45362c001908tmy8.html"],"created":1794601555,"id":"chatcmpl-9dd64628-d714-4837-be6a-04eefe675ed0","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"无法从"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20261104A0C60500","https://k.sina.cn/article_7857201856_1d45362c001908tmy8.html"],"created":1794601555,"id":"chatcmpl-9dd64628-d714-4837-be6a-04eefe675ed0","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"资料"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20261104A0C60500","https://k.sina.cn/article_7857201856_1d45362c001908tmy8.html"],"created":1794601555,"id":"chatcmpl-9dd64628-d714-4837-be6a-04eefe675ed0","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"中确认，因此不能把这些"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20261104A0C60500","https://k.sina.cn/article_7857201856_1d45362c001908tmy8.html"],"created":1794601555,"id":"chatcmpl-9dd64628-d714-4837-be6a-04eefe675ed0","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"数字直接"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20261104A0C60500","https://k.sina.cn/article_7857201856_1d45362c001908tmy8.html"],"created":1794601555,"id":"chatcmpl-9dd64628-d714-4837-be6a-04eefe675ed0","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"当作本次"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20261104A0C60500","https://k.sina.cn/article_7857201856_1d45362c001908tmy8.html"],"created":1794601555,"id":"chatcmpl-9dd64628-d714-4837-be6a-04eefe675ed0","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"选举"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20261104A0C60500","https://k.sina.cn/article_7857201856_1d45362c001908tmy8.html"],"created":1794601555,"id":"chatcmpl-9dd64628-d714-4837-be6a-04eefe675ed0","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"的结果"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20261104A0C60500","https://k.sina.cn/article_7857201856_1d45362c001908tmy8.html"],"created":1794601555,"id":"chatcmpl-9dd64628-d714-4837-be6a-04eefe675ed0","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"。\n\n补充"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20261104A0C60500","https://k.sina.cn/article_7857201856_1d45362c001908tmy8.html"],"created":1794601555,"id":"chatcmpl-9dd64628-d714-4837-be6a-04eefe675ed0","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"背景：美国"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20261104A0C60500","https://k.sina.cn/article_7857201856_1d45362c001908tmy8.html"],"created":1794601555,"id":"chatcmpl-9dd64628-d714-4837-be6a-04eefe675ed0","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"国会"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20261104A0C60500","https://k.sina.cn/article_7857201856_1d45362c001908tmy8.html"],"created":1794601555,"id":"chatcmpl-9dd64628-d714-4837-be6a-04eefe675ed0","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"众"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20261104A0C60500","https://k.sina.cn/article_7857201856_1d45362c001908tmy8.html"],"created":1794601555,"id":"chatcmpl-9dd64628-d714-4837-be6a-04eefe675ed0","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"议院共435席，"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20261104A0C60500","https://k.sina.cn/article_7857201856_1d45362c001908tmy8.html"],"created":1794601555,"id":"chatcmpl-9dd64628-d714-4837-be6a-04eefe675ed0","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"全院"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20261104A0C60500","https://k.sina.cn/article_7857201856_1d45362c001908tmy8.html"],"created":1794601555,"id":"chatcmpl-9dd64628-d714-4837-be6a-04eefe675ed0","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"改"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20261104A0C60500","https://k.sina.cn/article_7857201856_1d45362c001908tmy8.html"],"created":1794601555,"id":"chatcmpl-9dd64628-d714-4837-be6a-04eefe675ed0","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"选，多数门槛"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20261104A0C60500","https://k.sina.cn/article_7857201856_1d45362c001908tmy8.html"],"created":1794601555,"id":"chatcmpl-9dd64628-d714-4837-be6a-04eefe675ed0","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"为218席；参议院"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20261104A0C60500","https://k.sina.cn/article_7857201856_1d45362c001908tmy8.html"],"created":1794601555,"id":"chatcmpl-9dd64628-d714-4837-be6a-04eefe675ed0","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"共100席，202"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20261104A0C60500","https://k.sina.cn/article_7857201856_1d45362c001908tmy8.html"],"created":1794601555,"id":"chatcmpl-9dd64628-d714-4837-be6a-04eefe675ed0","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"6年改"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20261104A0C60500","https://k.sina.cn/article_7857201856_1d45362c001908tmy8.html"],"created":1794601555,"id":"chatcmpl-9dd64628-d714-4837-be6a-04eefe675ed0","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"选约三分之一"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20261104A0C60500","https://k.sina.cn/article_7857201856_1d45362c001908tmy8.html"],"created":1794601555,"id":"chatcmpl-9dd64628-d714-4837-be6a-04eefe675ed0","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"（具体"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20261104A0C60500","https://k.sina.cn/article_7857201856_1d45362c001908tmy8.html"],"created":1794601555,"id":"chatcmpl-9dd64628-d714-4837-be6a-04eefe675ed0","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"改"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20261104A0C60500","https://k.sina.cn/article_7857201856_1d45362c001908tmy8.html"],"created":1794601555,"id":"chatcmpl-9dd64628-d714-4837-be6a-04eefe675ed0","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"选席位数"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20261104A0C60500","https://k.sina.cn/article_7857201856_1d45362c001908tmy8.html"],"created":1794601555,"id":"chatcmpl-9dd64628-d714-4837-be6a-04eefe675ed0","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"以"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20261104A0C60500","https://k.sina.cn/article_7857201856_1d45362c001908tmy8.html"],"created":1794601555,"id":"chatcmpl-9dd64628-d714-4837-be6a-04eefe675ed0","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"选举"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20261104A0C60500","https://k.sina.cn/article_7857201856_1d45362c001908tmy8.html"],"created":1794601555,"id":"chatcmpl-9dd64628-d714-4837-be6a-04eefe675ed0","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"机构公布"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20261104A0C60500","https://k.sina.cn/article_7857201856_1d45362c001908tmy8.html"],"created":1794601555,"id":"chatcmpl-9dd64628-d714-4837-be6a-04eefe675ed0","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"为准），多数门槛"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20261104A0C60500","https://k.sina.cn/article_7857201856_1d45362c001908tmy8.html"],"created":1794601555,"id":"chatcmpl-9dd64628-d714-4837-be6a-04eefe675ed0","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"为51席。要获得"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20261104A0C60500","https://k.sina.cn/article_7857201856_1d45362c001908tmy8.html"],"created":1794601555,"id":"chatcmpl-9dd64628-d714-4837-be6a-04eefe675ed0","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"“各"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20261104A0C60500","https://k.sina.cn/article_7857201856_1d45362c001908tmy8.html"],"created":1794601555,"id":"chatcmpl-9dd64628-d714-4837-be6a-04eefe675ed0","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"多少席、还有"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20261104A0C60500","https://k.sina.cn/article_7857201856_1d45362c001908tmy8.html"],"created":1794601555,"id":"chatcmpl-9dd64628-d714-4837-be6a-04eefe675ed0","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"多少席没"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20261104A0C60500","https://k.sina.cn/article_7857201856_1d45362c001908tmy8.html"],"created":1794601555,"id":"chatcmpl-9dd64628-d714-4837-be6a-04eefe675ed0","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"定”的准确"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20261104A0C60500","https://k.sina.cn/article_7857201856_1d45362c001908tmy8.html"],"created":1794601555,"id":"chatcmpl-9dd64628-d714-4837-be6a-04eefe675ed0","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"数字，需"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20261104A0C60500","https://k.sina.cn/article_7857201856_1d45362c001908tmy8.html"],"created":1794601555,"id":"chatcmpl-9dd64628-d714-4837-be6a-04eefe675ed0","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"查看"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20261104A0C60500","https://k.sina.cn/article_7857201856_1d45362c001908tmy8.html"],"created":1794601555,"id":"chatcmpl-9dd64628-d714-4837-be6a-04eefe675ed0","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"美联社、CNN"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20261104A0C60500","https://k.sina.cn/article_7857201856_1d45362c001908tmy8.html"],"created":1794601555,"id":"chatcmpl-9dd64628-d714-4837-be6a-04eefe675ed0","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"等媒体的"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20261104A0C60500","https://k.sina.cn/article_7857201856_1d45362c001908tmy8.html"],"created":1794601555,"id":"chatcmpl-9dd64628-d714-4837-be6a-04eefe675ed0","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"实时计票页面"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20261104A0C60500","https://k.sina.cn/article_7857201856_1d45362c001908tmy8.html"],"created":1794601555,"id":"chatcmpl-9dd64628-d714-4837-be6a-04eefe675ed0","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"或"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20261104A0C60500","https://k.sina.cn/article_7857201856_1d45362c001908tmy8.html"],"created":1794601555,"id":"chatcmpl-9dd64628-d714-4837-be6a-04eefe675ed0","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"各"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20261104A0C60500","https://k.sina.cn/article_7857201856_1d45362c001908tmy8.html"],"created":1794601555,"id":"chatcmpl-9dd64628-d714-4837-be6a-04eefe675ed0","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"州选举机构的"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20261104A0C60500","https://k.sina.cn/article_7857201856_1d45362c001908tmy8.html"],"created":1794601555,"id":"chatcmpl-9dd64628-d714-4837-be6a-04eefe675ed0","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"官方结果；"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20261104A0C60500","https://k.sina.cn/article_7857201856_1d45362c001908tmy8.html"],"created":1794601555,"id":"chatcmpl-9dd64628-d714-4837-be6a-04eefe675ed0","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"本次"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20261104A0C60500","https://k.sina.cn/article_7857201856_1d45362c001908tmy8.html"],"created":1794601555,"id":"chatcmpl-9dd64628-d714-4837-be6a-04eefe675ed0","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"检索结果"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20261104A0C60500","https://k.sina.cn/article_7857201856_1d45362c001908tmy8.html"],"created":1794601555,"id":"chatcmpl-9dd64628-d714-4837-be6a-04eefe675ed0","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"未提供这些数据"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20261104A0C60500","https://k.sina.cn/article_7857201856_1d45362c001908tmy8.html"],"created":1794601555,"id":"chatcmpl-9dd64628-d714-4837-be6a-04eefe675ed0","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"。"},"finish_reason":"stop","index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20261104A0C60500","https://k.sina.cn/article_7857201856_1d45362c001908tmy8.html"],"created":1794601555,"id":"chatcmpl-9dd64628-d714-4837-be6a-04eefe675ed0","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[],"citations":["https://news.qq.com/rain/a/20261104A0C60500","https://k.sina.cn/article_7857201856_1d45362c001908tmy8.html"],"created":1794601555,"id":"chatcmpl-9dd64628-d714-4837-be6a-04eefe675ed0","model":"deepseek-flash","object":"chat.completion.chunk","usage":{"completion_tokens":1125,"completion_tokens_details":{"reasoning_tokens":829},"prompt_tokens":871,"prompt_tokens_details":{"cached_tokens":0},"total_tokens":1996}}
+
+data: [DONE]
+

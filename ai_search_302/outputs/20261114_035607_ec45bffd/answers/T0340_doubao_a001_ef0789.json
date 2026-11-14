@@ -1,0 +1,51 @@
+{
+  "task_id": "T0340",
+  "model": "doubao",
+  "news_id": "E029",
+  "question_index": 1,
+  "question_original": "【开放】卢浮宫案到底是丢了几件珠宝？找回的那顶皇冠和官方被盗清单是什么关系？",
+  "question": "卢浮宫案到底是丢了几件珠宝？找回的那顶皇冠和官方被盗清单是什么关系？",
+  "attempt": 1,
+  "provider": "302.ai",
+  "model_requested": "doubao-seed-2-1-pro-260628",
+  "query_date": "2026-11-14",
+  "search_service": "metaso",
+  "prompt_version": "news-search-v1",
+  "prompt_sha256": "ea56fd5557d32615a9115f2368a0c4983ff1188f4935369e694d7d46f2493be1",
+  "requested_at": "2026-11-14T12:29:12.727801+08:00",
+  "raw_file": "raw/T0340_doubao_a001_ef0789.json",
+  "transport": "sse",
+  "stream_file": "raw/T0340_doubao_a001_ef0789.sse",
+  "status": "ok",
+  "model_returned": "doubao-seed-2-1-pro-260628",
+  "answer": "截至2026年11月14日，这起卢浮宫珠宝盗窃案的准确被盗数量、物品追回情况均未得到法国警方的官方确认，也暂未发布经官方核实的正式被盗物品清单，相关信息需要严格区分信源判断：\n1.  **关于被盗珠宝的准确数量**：目前没有官方公布的权威失窃数字。此前仅有法国媒体报道称嫌疑人共盗走9件珠宝，但该消息始终未得到法国警方证实[2]。\n2.  **关于网传被找回的欧也妮皇后皇冠与被盗清单的关系**：\n    - 首先，“欧也妮皇后的皇冠已被找回”属于未获官方背书的媒体传闻：该说法和“共被盗9件珠宝”的信息同源，相关报道同时提到共有包括这顶皇冠在内的2件被盗珠宝被找回，但这一追回进展同样没有得到法国警方的确认[2]。\n    - 其次，当前并不存在对外公开的官方被盗物品清单：公开资料中提及的欧也妮皇后冠冕是卢浮宫相关展区的王室珠宝藏品，同板块被列为展陈资料的珠宝还包括圣物匣式胸针、欧也妮皇后大襟花胸针，以及玛丽-阿梅莉王后与奥尔唐斯王后的冠冕、蓝宝石项链、蓝宝石耳环等，这些内容属于展区馆藏资料介绍，并非官方认定的失窃物品名录[3]。\n    - 目前唯一和该皇冠相关的可确认信息为：这顶王冠的当前状况正在评估中[2]。\n\n### 目前卢浮宫方面已确认的案件细节\n嫌疑人在作案过程中试图纵火焚毁其使用的疑似升降装置的机械设备，被一名卢浮宫员工及时阻止后随即逃离现场，事件全程无人员受伤；案发时画廊外窗及两座涉事展柜的报警系统均已正常启动[2][3]。",
+  "sources": [
+    {
+      "index": 1,
+      "url": "https://news.qq.com/rain/a/20251020A01EU600",
+      "title": null,
+      "origin": "citations"
+    },
+    {
+      "index": 2,
+      "url": "https://m.thepaper.cn/newsDetail_forward_31811254",
+      "title": null,
+      "origin": "citations"
+    }
+  ],
+  "usage": {
+    "completion_tokens": 3185,
+    "completion_tokens_details": {
+      "reasoning_tokens": 2770
+    },
+    "prompt_tokens": 1033,
+    "prompt_tokens_details": {
+      "cached_tokens": 0
+    },
+    "total_tokens": 4218
+  },
+  "finish_reason": "stop",
+  "note": [],
+  "request_id": "72a43123-d818-4b9c-9a86-d34caac3c1f3",
+  "duration_seconds": 135.328
+}

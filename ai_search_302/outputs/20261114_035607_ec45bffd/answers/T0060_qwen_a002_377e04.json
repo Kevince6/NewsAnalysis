@@ -1,0 +1,53 @@
+{
+  "task_id": "T0060",
+  "model": "qwen",
+  "news_id": "E005",
+  "question_index": 3,
+  "question_original": "【事实】美国中期选举两大阵营在参众两院各有多少席，还有多少席没定？",
+  "question": "美国中期选举两大阵营在参众两院各有多少席，还有多少席没定？",
+  "attempt": 2,
+  "provider": "302.ai",
+  "model_requested": "qwen3.8-max",
+  "query_date": "2026-11-14",
+  "search_service": "metaso",
+  "prompt_version": "news-search-v1",
+  "prompt_sha256": "ea56fd5557d32615a9115f2368a0c4983ff1188f4935369e694d7d46f2493be1",
+  "requested_at": "2026-11-14T11:14:42.978845+08:00",
+  "raw_file": "raw/T0060_qwen_a002_377e04.json",
+  "transport": "sse",
+  "stream_file": "raw/T0060_qwen_a002_377e04.sse",
+  "status": "ok",
+  "model_returned": "qwen3.8-max",
+  "answer": "根据你提供的检索资料，无法确认“美国中期选举两大阵营在参众两院各已获得多少席、还有多少席未定”[2][3]。\n\n资料中能确认的只有选举改选规模：\n\n- 众议院全部435个席位都会改选[2][3]。\n- 参议院100个席位中有一部分改选，但资料存在分歧：一处称改选35席[2]，另一处称改选37席[3]。\n- 中期选举通常被视为对总统执政两年表现的检验[3]。\n\n因此，关于民主、共和两党各自已拿到的席位数，以及尚未确定归属的席位数，现有搜索结果没有提供相关数据，无法据此回答。",
+  "sources": [
+    {
+      "index": 1,
+      "url": "http://www.xinhuanet.com/world/2018-11/06/c_129986545.htm",
+      "title": null,
+      "origin": "citations"
+    },
+    {
+      "index": 2,
+      "url": "http://views.ce.cn/view/ent/201010/25/t20101025_21913730.shtml",
+      "title": null,
+      "origin": "citations"
+    }
+  ],
+  "usage": {
+    "completion_tokens": 631,
+    "completion_tokens_details": {
+      "reasoning_tokens": 466,
+      "text_tokens": 631
+    },
+    "prompt_tokens": 912,
+    "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "text_tokens": 912
+    },
+    "total_tokens": 1543
+  },
+  "finish_reason": "stop",
+  "note": [],
+  "request_id": "75cd306e-16fb-4c2f-9e8c-ab9e0d29efc0",
+  "duration_seconds": 20.39
+}

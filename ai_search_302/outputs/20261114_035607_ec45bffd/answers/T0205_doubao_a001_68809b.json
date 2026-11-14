@@ -1,0 +1,63 @@
+{
+  "task_id": "T0205",
+  "model": "doubao",
+  "news_id": "E017",
+  "question_index": 2,
+  "question_original": "【开放】《李白》授权争议中，单依纯和联合主办方分别承认了什么问题，后来怎样调整演出安排？",
+  "question": "《李白》授权争议中，单依纯和联合主办方分别承认了什么问题，后来怎样调整演出安排？",
+  "attempt": 1,
+  "provider": "302.ai",
+  "model_requested": "doubao-seed-2-1-pro-260628",
+  "query_date": "2026-11-14",
+  "search_service": "metaso",
+  "prompt_version": "news-search-v1",
+  "prompt_sha256": "ea56fd5557d32615a9115f2368a0c4983ff1188f4935369e694d7d46f2493be1",
+  "requested_at": "2026-11-14T11:56:18.387424+08:00",
+  "raw_file": "raw/T0205_doubao_a001_68809b.json",
+  "transport": "sse",
+  "stream_file": "raw/T0205_doubao_a001_68809b.sse",
+  "status": "ok",
+  "model_returned": "doubao-seed-2-1-pro-260628",
+  "answer": "针对2026年3月单依纯深圳演唱会演唱李荣浩作品《李白》引发的版权争议，涉事联合主办方、单依纯本人的公开表态及后续演出调整如下：\n1. 联合主办方承认的问题\n2026年3月30日凌晨，本次巡演的联合主办方百沐娱乐、阔景音乐发布致歉声明，承认2026年3月28日深圳站演出中安排单依纯演唱《李白》的问题，根源在于主办方对巡演曲目著作权授权的审核、落实工作存在疏漏与瑕疵，并未取得该歌曲的合法表演授权；主办方就这一失责行为，向词曲作者李荣浩、歌曲版权代理方酷亚音乐股份有限公司、歌手单依纯及全体歌迷公开致歉[1][5]。\n2. 单依纯承认的问题\n单依纯通过个人微博作出回应，承认自己出于对合作方专业流程的信任，在演出前没有进一步核实《李白》的授权文件细节，直到演出结束后才得知主办方实际并未签署该歌曲的表演授权；她同时明确表示，自己作为该场演出的总监制，需要为未亲自核查授权文件的监督疏忽承担责任[2]。\n3. 后续演出安排调整\n在核查确认授权漏洞后，主办方第一时间叫停了本次巡演后续所有场次中《李白》的表演安排，将该未获授权的曲目从巡演歌单中移除，避免再次出现版权侵权问题[1]。\n\n注：现有公开检索内容仅包含各方致歉、表态及即时的曲目调整安排，未提及后续是否完成版权补付、是否达成和解等进一步处理结果。",
+  "sources": [
+    {
+      "index": 1,
+      "url": "https://ent.sina.cn/2026-04-01/detail-inhsxkrq1816354.d.html?vt=4",
+      "title": null,
+      "origin": "citations"
+    },
+    {
+      "index": 2,
+      "url": "https://news.qq.com/rain/a/20260402A05JLN00?adChannelId=ent",
+      "title": null,
+      "origin": "citations"
+    },
+    {
+      "index": 3,
+      "url": "https://finance.sina.cn/2026-04-01/detail-inhszayx4937507.d.html",
+      "title": null,
+      "origin": "citations"
+    },
+    {
+      "index": 4,
+      "url": "https://k.sina.cn/article_1497087080_593bbc6804001anho.html",
+      "title": null,
+      "origin": "citations"
+    }
+  ],
+  "usage": {
+    "completion_tokens": 2408,
+    "completion_tokens_details": {
+      "reasoning_tokens": 2046
+    },
+    "prompt_tokens": 1351,
+    "prompt_tokens_details": {
+      "cached_tokens": 0
+    },
+    "total_tokens": 3759
+  },
+  "finish_reason": "stop",
+  "note": [],
+  "request_id": "40f573a1-5044-485b-830e-4e27352f16c3",
+  "duration_seconds": 49.735
+}

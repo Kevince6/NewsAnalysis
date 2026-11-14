@@ -1,0 +1,57 @@
+{
+  "task_id": "T0199",
+  "model": "doubao",
+  "news_id": "E016",
+  "question_index": 4,
+  "question_original": "【事实】魏家案公布的122亿余元全是诈骗损失吗？",
+  "question": "魏家案公布的122亿余元全是诈骗损失吗？",
+  "attempt": 1,
+  "provider": "302.ai",
+  "model_requested": "doubao-seed-2-1-pro-260628",
+  "query_date": "2026-11-14",
+  "search_service": "metaso",
+  "prompt_version": "news-search-v1",
+  "prompt_sha256": "ea56fd5557d32615a9115f2368a0c4983ff1188f4935369e694d7d46f2493be1",
+  "requested_at": "2026-11-14T11:54:37.051474+08:00",
+  "raw_file": "raw/T0199_doubao_a001_6f6df4.json",
+  "transport": "sse",
+  "stream_file": "raw/T0199_doubao_a001_6f6df4.sse",
+  "status": "ok",
+  "model_returned": "doubao-seed-2-1-pro-260628",
+  "answer": "根据当前提供的检索资料，无法确认你询问的“魏家案”公布的122亿余元是否全部为诈骗损失——现有检索内容完全未涉及“魏家案”相关案情，也没有关于该笔122亿余元金额性质、构成的权威认定信息，该问题有待对应官方案情通报、司法裁判文书公开后才能明确解答。\n\n目前检索到的涉众型经济犯罪损失相关有效信息，仅涉及顾国平主导的斐讯“0元购”相关案件，和你询问的内容并不匹配：\n1. 该案中，顾国平自2017年9月起擅自以上海斐讯公司名义，与自己实际控制的华夏万家（北京）金融服务外包有限公司合作，推出购买斐讯体脂秤等产品后，在线注册华夏万家金服APP即可全额返还购买款的“0元购”营销活动；侬锦、陈雨、朱军、王晶晶、张冀敏5名被告人分别参与了涉案公司管理、产品设计、资金调配、系统维护等核心环节[1]。\n2. 截至案发，该案件共造成90.86万余名被害人实际经济损失99.71亿余元，无论涉案主体还是认定的损失金额，都与你提到的“魏家案”122亿余元的信息不匹配[1]。\n\n其余检索内容均与案件问题无关联：一则为澎湃新闻网站的页脚版权、互联网新闻信息服务许可等备案信息，无任何实质案件相关内容[4]；另一则为若干分散的无关资讯入口，覆盖A股量化交易解读、体育赛事赛后采访、影视娱乐内容、电竞赛事数据等领域，未涉及相关案件的有效信息[5]。",
+  "sources": [
+    {
+      "index": 1,
+      "url": "http://jssjt.jiangsu.gov.cn/art/2021/12/31/art_59514_10260768.html",
+      "title": null,
+      "origin": "citations"
+    },
+    {
+      "index": 2,
+      "url": "https://www.thepaper.cn/newsDetail_forward_33211102",
+      "title": null,
+      "origin": "citations"
+    },
+    {
+      "index": 3,
+      "url": "https://github.com/bernettcoia/20260718_10/blob/main/20260722_8k1gt.md",
+      "title": null,
+      "origin": "citations"
+    }
+  ],
+  "usage": {
+    "completion_tokens": 2978,
+    "completion_tokens_details": {
+      "reasoning_tokens": 2598
+    },
+    "prompt_tokens": 1270,
+    "prompt_tokens_details": {
+      "cached_tokens": 0
+    },
+    "total_tokens": 4248
+  },
+  "finish_reason": "stop",
+  "note": [],
+  "request_id": "e6af7cd9-21e5-4041-9ea2-8951f5fa16a7",
+  "duration_seconds": 58.75
+}

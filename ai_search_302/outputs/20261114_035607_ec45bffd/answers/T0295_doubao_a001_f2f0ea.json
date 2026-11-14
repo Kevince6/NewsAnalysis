@@ -1,0 +1,63 @@
+{
+  "task_id": "T0295",
+  "model": "doubao",
+  "news_id": "E025",
+  "question_index": 2,
+  "question_original": "【事实】Manus宣布加入Meta时，说订阅服务会不会继续，运营地在哪里？",
+  "question": "Manus宣布加入Meta时，说订阅服务会不会继续，运营地在哪里？",
+  "attempt": 1,
+  "provider": "302.ai",
+  "model_requested": "doubao-seed-2-1-pro-260628",
+  "query_date": "2026-11-14",
+  "search_service": "metaso",
+  "prompt_version": "news-search-v1",
+  "prompt_sha256": "ea56fd5557d32615a9115f2368a0c4983ff1188f4935369e694d7d46f2493be1",
+  "requested_at": "2026-11-14T12:16:19.672118+08:00",
+  "raw_file": "raw/T0295_doubao_a001_f2f0ea.json",
+  "transport": "sse",
+  "stream_file": "raw/T0295_doubao_a001_f2f0ea.sse",
+  "status": "ok",
+  "model_returned": "doubao-seed-2-1-pro-260628",
+  "answer": "Manus官宣即将加入Meta时，对服务延续性、运营地点的安排作出了明确承诺：\n1.  **订阅服务将持续提供**：不会因加入Meta中断面向用户的服务，将继续通过官方App、自有网站等现有平台提供产品与订阅服务[1][4][5]，其公开的订阅套餐起售价为每月20欧元[3]。\n2.  **核心运营地点保持不变**：公司将继续以新加坡作为运营基地开展业务[1][4][5]。\n\n---\n### 相关背景补充\n1.  独立运营的相关安排：Manus首席执行官肖弘在官宣中表示，与Meta达成合作后，Manus不会改变原有的运作方式和决策机制，将在更稳定、可持续的基础上迭代产品、服务用户，这一表态被市场解读为Manus团队将保持独立运作[1][4]；Meta方面也公开确认Manus加入后将维持独立运营状态，后续Manus开发的通用智能体（Agent）能力会逐步整合到Meta AI、Facebook、Instagram、WhatsApp等Meta旗下的消费者、企业级产品矩阵中，目标是让相关能力服务数百万企业与数十亿用户[3]。\n2.  团队布局与合作评价：官宣时Manus共有约105名员工，除新加坡核心运营地外，团队成员还分布在东京、旧金山，后续还计划在巴黎开设新办公室[3]。Meta AI负责人Alexandr Wang评价称，Manus的新加坡团队在探索大模型能力边界方面处于世界领先水平，具备构建强大通用Agent的技术实力[1]。\n3.  官宣相关节点：该加入消息于12月30日由Manus正式对外公布，根据Manus同步披露的截至官宣当年12月初的运营数据，产品自上线以来已累计处理超过147万亿个token，创建超过8000万台虚拟计算机[5]。",
+  "sources": [
+    {
+      "index": 1,
+      "url": "https://www.donews.com/news/detail/4/6340583.html",
+      "title": null,
+      "origin": "citations"
+    },
+    {
+      "index": 2,
+      "url": "https://marketing4ecommerce.net/en/meta-purchase-manus/",
+      "title": null,
+      "origin": "citations"
+    },
+    {
+      "index": 3,
+      "url": "https://t.cj.sina.com.cn/articles/view/1826017320/6cd6d02804001ir1k",
+      "title": null,
+      "origin": "citations"
+    },
+    {
+      "index": 4,
+      "url": "https://baike.baidu.com/item/Manus/65463546#%3A~%3Atext%3DManus_%E7%99%BE%E5%BA%A6%E7%99%BE%E7%A7%91%26text%3DManus%EF%BC%8C%E6%98%AF%E7%94%B1%E4%B8%AD%E5%9B%BD%E5%88%9B%E4%B8%9A%2C%E8%AF%B8%E5%AE%9E%E8%B7%B5%EF%BC%8C%E7%9C%9F%E6%AD%A3%E8%A7%A3%E5%86%B3%E9%97%AE%E9%A2%98%E3%80%82",
+      "title": null,
+      "origin": "citations"
+    }
+  ],
+  "usage": {
+    "completion_tokens": 3890,
+    "completion_tokens_details": {
+      "reasoning_tokens": 3467
+    },
+    "prompt_tokens": 1513,
+    "prompt_tokens_details": {
+      "cached_tokens": 0
+    },
+    "total_tokens": 5403
+  },
+  "finish_reason": "stop",
+  "note": [],
+  "request_id": "8a7e819b-87bf-4750-b264-3af5f845c26d",
+  "duration_seconds": 84.141
+}

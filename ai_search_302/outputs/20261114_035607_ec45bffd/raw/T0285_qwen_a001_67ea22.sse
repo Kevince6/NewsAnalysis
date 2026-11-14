@@ -1,0 +1,898 @@
+data: {"choices":[{"delta":{"content":"","reasoning_content":"","role":"assistant"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://view.inews.qq.com/a/20250111A01U2700"],"created":1794629683,"id":"chatcmpl-7b2a9383-b1a1-919d-b8dd-fe601f4aaedf","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"我们需要"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://view.inews.qq.com/a/20250111A01U2700"],"created":1794629683,"id":"chatcmpl-7b2a9383-b1a1-919d-b8dd-fe601f4aaedf","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"回答用户问题。"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://view.inews.qq.com/a/20250111A01U2700"],"created":1794629683,"id":"chatcmpl-7b2a9383-b1a1-919d-b8dd-fe601f4aaedf","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"必须先"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://view.inews.qq.com/a/20250111A01U2700"],"created":1794629683,"id":"chatcmpl-7b2a9383-b1a1-919d-b8dd-fe601f4aaedf","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"调用"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://view.inews.qq.com/a/20250111A01U2700"],"created":1794629683,"id":"chatcmpl-7b2a9383-b1a1-919d-b8dd-fe601f4aaedf","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"工具。已调用"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://view.inews.qq.com/a/20250111A01U2700"],"created":1794629683,"id":"chatcmpl-7b2a9383-b1a1-919d-b8dd-fe601f4aaedf","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"。"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://view.inews.qq.com/a/20250111A01U2700"],"created":1794629683,"id":"chatcmpl-7b2a9383-b1a1-919d-b8dd-fe601f4aaedf","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"现在需要分析。"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://view.inews.qq.com/a/20250111A01U2700"],"created":1794629683,"id":"chatcmpl-7b2a9383-b1a1-919d-b8dd-fe601f4aaedf","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"用户问"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://view.inews.qq.com/a/20250111A01U2700"],"created":1794629683,"id":"chatcmpl-7b2a9383-b1a1-919d-b8dd-fe601f4aaedf","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"：王星1月"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://view.inews.qq.com/a/20250111A01U2700"],"created":1794629683,"id":"chatcmpl-7b2a9383-b1a1-919d-b8dd-fe601f4aaedf","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"7日被接回"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://view.inews.qq.com/a/20250111A01U2700"],"created":1794629683,"id":"chatcmpl-7b2a9383-b1a1-919d-b8dd-fe601f4aaedf","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"、1月1"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://view.inews.qq.com/a/20250111A01U2700"],"created":1794629683,"id":"chatcmpl-7b2a9383-b1a1-919d-b8dd-fe601f4aaedf","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"1日又回国"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://view.inews.qq.com/a/20250111A01U2700"],"created":1794629683,"id":"chatcmpl-7b2a9383-b1a1-919d-b8dd-fe601f4aaedf","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"，这两个日期为什么"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://view.inews.qq.com/a/20250111A01U2700"],"created":1794629683,"id":"chatcmpl-7b2a9383-b1a1-919d-b8dd-fe601f4aaedf","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"不一样？分别发生了什么"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://view.inews.qq.com/a/20250111A01U2700"],"created":1794629683,"id":"chatcmpl-7b2a9383-b1a1-919d-b8dd-fe601f4aaedf","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"？\n\n我们只有"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://view.inews.qq.com/a/20250111A01U2700"],"created":1794629683,"id":"chatcmpl-7b2a9383-b1a1-919d-b8dd-fe601f4aaedf","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"搜索结果 webpage"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://view.inews.qq.com/a/20250111A01U2700"],"created":1794629683,"id":"chatcmpl-7b2a9383-b1a1-919d-b8dd-fe601f4aaedf","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":" 1。内容"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://view.inews.qq.com/a/20250111A01U2700"],"created":1794629683,"id":"chatcmpl-7b2a9383-b1a1-919d-b8dd-fe601f4aaedf","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"：央视新闻"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://view.inews.qq.com/a/20250111A01U2700"],"created":1794629683,"id":"chatcmpl-7b2a9383-b1a1-919d-b8dd-fe601f4aaedf","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"消息，中国籍"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://view.inews.qq.com/a/20250111A01U2700"],"created":1794629683,"id":"chatcmpl-7b2a9383-b1a1-919d-b8dd-fe601f4aaedf","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"演员王星所乘"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://view.inews.qq.com/a/20250111A01U2700"],"created":1794629683,"id":"chatcmpl-7b2a9383-b1a1-919d-b8dd-fe601f4aaedf","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"回国航班已于北京时间"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://view.inews.qq.com/a/20250111A01U2700"],"created":1794629683,"id":"chatcmpl-7b2a9383-b1a1-919d-b8dd-fe601f4aaedf","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"1月11"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://view.inews.qq.com/a/20250111A01U2700"],"created":1794629683,"id":"chatcmpl-7b2a9383-b1a1-919d-b8dd-fe601f4aaedf","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"日00:"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://view.inews.qq.com/a/20250111A01U2700"],"created":1794629683,"id":"chatcmpl-7b2a9383-b1a1-919d-b8dd-fe601f4aaedf","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"55抵达上海"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://view.inews.qq.com/a/20250111A01U2700"],"created":1794629683,"id":"chatcmpl-7b2a9383-b1a1-919d-b8dd-fe601f4aaedf","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"浦东国际机场。王星"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://view.inews.qq.com/a/20250111A01U2700"],"created":1794629683,"id":"chatcmpl-7b2a9383-b1a1-919d-b8dd-fe601f4aaedf","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"失联事件时间线"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://view.inews.qq.com/a/20250111A01U2700"],"created":1794629683,"id":"chatcmpl-7b2a9383-b1a1-919d-b8dd-fe601f4aaedf","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"梳理 泰国警方"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://view.inews.qq.com/a/20250111A01U2700"],"created":1794629683,"id":"chatcmpl-7b2a9383-b1a1-919d-b8dd-fe601f4aaedf","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"7日公布"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://view.inews.qq.com/a/20250111A01U2700"],"created":1794629683,"id":"chatcmpl-7b2a9383-b1a1-919d-b8dd-fe601f4aaedf","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"如下时间线。"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://view.inews.qq.com/a/20250111A01U2700"],"created":1794629683,"id":"chatcmpl-7b2a9383-b1a1-919d-b8dd-fe601f4aaedf","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"王星于1月"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://view.inews.qq.com/a/20250111A01U2700"],"created":1794629683,"id":"chatcmpl-7b2a9383-b1a1-919d-b8dd-fe601f4aaedf","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"3日入境泰国"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://view.inews.qq.com/a/20250111A01U2700"],"created":1794629683,"id":"chatcmpl-7b2a9383-b1a1-919d-b8dd-fe601f4aaedf","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"，之后在泰"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://view.inews.qq.com/a/20250111A01U2700"],"created":1794629683,"id":"chatcmpl-7b2a9383-b1a1-919d-b8dd-fe601f4aaedf","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"缅边境失联。"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://view.inews.qq.com/a/20250111A01U2700"],"created":1794629683,"id":"chatcmpl-7b2a9383-b1a1-919d-b8dd-fe601f4aaedf","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"泰国警方7日"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://view.inews.qq.com/a/20250111A01U2700"],"created":1794629683,"id":"chatcmpl-7b2a9383-b1a1-919d-b8dd-fe601f4aaedf","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"将其找到并接"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://view.inews.qq.com/a/20250111A01U2700"],"created":1794629683,"id":"chatcmpl-7b2a9383-b1a1-919d-b8dd-fe601f4aaedf","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"回泰国。泰国"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://view.inews.qq.com/a/20250111A01U2700"],"created":1794629683,"id":"chatcmpl-7b2a9383-b1a1-919d-b8dd-fe601f4aaedf","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"警方称，初步"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://view.inews.qq.com/a/20250111A01U2700"],"created":1794629683,"id":"chatcmpl-7b2a9383-b1a1-919d-b8dd-fe601f4aaedf","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"调查确认"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://view.inews.qq.com/a/20250111A01U2700"],"created":1794629683,"id":"chatcmpl-7b2a9383-b1a1-919d-b8dd-fe601f4aaedf","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"王星为人口贩"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://view.inews.qq.com/a/20250111A01U2700"],"created":1794629683,"id":"chatcmpl-7b2a9383-b1a1-919d-b8dd-fe601f4aaedf","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"运受害者。1"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://view.inews.qq.com/a/20250111A01U2700"],"created":1794629683,"id":"chatcmpl-7b2a9383-b1a1-919d-b8dd-fe601f4aaedf","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"月11日"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://view.inews.qq.com/a/20250111A01U2700"],"created":1794629683,"id":"chatcmpl-7b2a9383-b1a1-919d-b8dd-fe601f4aaedf","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"，王星发文致谢"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://view.inews.qq.com/a/20250111A01U2700"],"created":1794629683,"id":"chatcmpl-7b2a9383-b1a1-919d-b8dd-fe601f4aaedf","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"：我是中国公民"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://view.inews.qq.com/a/20250111A01U2700"],"created":1794629683,"id":"chatcmpl-7b2a9383-b1a1-919d-b8dd-fe601f4aaedf","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"王星，此时此刻，"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://view.inews.qq.com/a/20250111A01U2700"],"created":1794629683,"id":"chatcmpl-7b2a9383-b1a1-919d-b8dd-fe601f4aaedf","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"我已经回到祖国的怀抱"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://view.inews.qq.com/a/20250111A01U2700"],"created":1794629683,"id":"chatcmpl-7b2a9383-b1a1-919d-b8dd-fe601f4aaedf","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"。\n\n需要解释"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://view.inews.qq.com/a/20250111A01U2700"],"created":1794629683,"id":"chatcmpl-7b2a9383-b1a1-919d-b8dd-fe601f4aaedf","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"两个日期不同："},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://view.inews.qq.com/a/20250111A01U2700"],"created":1794629683,"id":"chatcmpl-7b2a9383-b1a1-919d-b8dd-fe601f4aaedf","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"1月7"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://view.inews.qq.com/a/20250111A01U2700"],"created":1794629683,"id":"chatcmpl-7b2a9383-b1a1-919d-b8dd-fe601f4aaedf","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"日是泰国警方在"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://view.inews.qq.com/a/20250111A01U2700"],"created":1794629683,"id":"chatcmpl-7b2a9383-b1a1-919d-b8dd-fe601f4aaedf","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"泰缅边境找到"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://view.inews.qq.com/a/20250111A01U2700"],"created":1794629683,"id":"chatcmpl-7b2a9383-b1a1-919d-b8dd-fe601f4aaedf","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"王星，并将其从"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://view.inews.qq.com/a/20250111A01U2700"],"created":1794629683,"id":"chatcmpl-7b2a9383-b1a1-919d-b8dd-fe601f4aaedf","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"边境/缅方"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://view.inews.qq.com/a/20250111A01U2700"],"created":1794629683,"id":"chatcmpl-7b2a9383-b1a1-919d-b8dd-fe601f4aaedf","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"控制区域"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://view.inews.qq.com/a/20250111A01U2700"],"created":1794629683,"id":"chatcmpl-7b2a9383-b1a1-919d-b8dd-fe601f4aaedf","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"接回泰国境内"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://view.inews.qq.com/a/20250111A01U2700"],"created":1794629683,"id":"chatcmpl-7b2a9383-b1a1-919d-b8dd-fe601f4aaedf","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"/泰国控制区"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://view.inews.qq.com/a/20250111A01U2700"],"created":1794629683,"id":"chatcmpl-7b2a9383-b1a1-919d-b8dd-fe601f4aaedf","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"，属于在泰国"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://view.inews.qq.com/a/20250111A01U2700"],"created":1794629683,"id":"chatcmpl-7b2a9383-b1a1-919d-b8dd-fe601f4aaedf","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"境内被找到"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://view.inews.qq.com/a/20250111A01U2700"],"created":1794629683,"id":"chatcmpl-7b2a9383-b1a1-919d-b8dd-fe601f4aaedf","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"/接回；"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://view.inews.qq.com/a/20250111A01U2700"],"created":1794629683,"id":"chatcmpl-7b2a9383-b1a1-919d-b8dd-fe601f4aaedf","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"1"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://view.inews.qq.com/a/20250111A01U2700"],"created":1794629683,"id":"chatcmpl-7b2a9383-b1a1-919d-b8dd-fe601f4aaedf","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"月11日"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://view.inews.qq.com/a/20250111A01U2700"],"created":1794629683,"id":"chatcmpl-7b2a9383-b1a1-919d-b8dd-fe601f4aaedf","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"是他乘航班从"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://view.inews.qq.com/a/20250111A01U2700"],"created":1794629683,"id":"chatcmpl-7b2a9383-b1a1-919d-b8dd-fe601f4aaedf","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"泰国返回"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://view.inews.qq.com/a/20250111A01U2700"],"created":1794629683,"id":"chatcmpl-7b2a9383-b1a1-919d-b8dd-fe601f4aaedf","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"中国，抵达上海"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://view.inews.qq.com/a/20250111A01U2700"],"created":1794629683,"id":"chatcmpl-7b2a9383-b1a1-919d-b8dd-fe601f4aaedf","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"浦东。"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://view.inews.qq.com/a/20250111A01U2700"],"created":1794629683,"id":"chatcmpl-7b2a9383-b1a1-919d-b8dd-fe601f4aaedf","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"也就是说“接回"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://view.inews.qq.com/a/20250111A01U2700"],"created":1794629683,"id":"chatcmpl-7b2a9383-b1a1-919d-b8dd-fe601f4aaedf","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"”"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://view.inews.qq.com/a/20250111A01U2700"],"created":1794629683,"id":"chatcmpl-7b2a9383-b1a1-919d-b8dd-fe601f4aaedf","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"可能是泰国警方将其"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://view.inews.qq.com/a/20250111A01U2700"],"created":1794629683,"id":"chatcmpl-7b2a9383-b1a1-919d-b8dd-fe601f4aaedf","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"接回泰国（"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://view.inews.qq.com/a/20250111A01U2700"],"created":1794629683,"id":"chatcmpl-7b2a9383-b1a1-919d-b8dd-fe601f4aaedf","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"安全地带/泰国"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://view.inews.qq.com/a/20250111A01U2700"],"created":1794629683,"id":"chatcmpl-7b2a9383-b1a1-919d-b8dd-fe601f4aaedf","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"境内"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://view.inews.qq.com/a/20250111A01U2700"],"created":1794629683,"id":"chatcmpl-7b2a9383-b1a1-919d-b8dd-fe601f4aaedf","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"），不是回国；"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://view.inews.qq.com/a/20250111A01U2700"],"created":1794629683,"id":"chatcmpl-7b2a9383-b1a1-919d-b8dd-fe601f4aaedf","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"“"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://view.inews.qq.com/a/20250111A01U2700"],"created":1794629683,"id":"chatcmpl-7b2a9383-b1a1-919d-b8dd-fe601f4aaedf","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"回国”是离开"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://view.inews.qq.com/a/20250111A01U2700"],"created":1794629683,"id":"chatcmpl-7b2a9383-b1a1-919d-b8dd-fe601f4aaedf","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"泰国回到中国。"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://view.inews.qq.com/a/20250111A01U2700"],"created":1794629683,"id":"chatcmpl-7b2a9383-b1a1-919d-b8dd-fe601f4aaedf","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"需要可能指出事件"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://view.inews.qq.com/a/20250111A01U2700"],"created":1794629683,"id":"chatcmpl-7b2a9383-b1a1-919d-b8dd-fe601f4aaedf","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"时间线：1"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://view.inews.qq.com/a/20250111A01U2700"],"created":1794629683,"id":"chatcmpl-7b2a9383-b1a1-919d-b8dd-fe601f4aaedf","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"月"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://view.inews.qq.com/a/20250111A01U2700"],"created":1794629683,"id":"chatcmpl-7b2a9383-b1a1-919d-b8dd-fe601f4aaedf","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"3日入境泰国"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://view.inews.qq.com/a/20250111A01U2700"],"created":1794629683,"id":"chatcmpl-7b2a9383-b1a1-919d-b8dd-fe601f4aaedf","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"后"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://view.inews.qq.com/a/20250111A01U2700"],"created":1794629683,"id":"chatcmpl-7b2a9383-b1a1-919d-b8dd-fe601f4aaedf","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"失联；1月"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://view.inews.qq.com/a/20250111A01U2700"],"created":1794629683,"id":"chatcmpl-7b2a9383-b1a1-919d-b8dd-fe601f4aaedf","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"7日泰国"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://view.inews.qq.com/a/20250111A01U2700"],"created":1794629683,"id":"chatcmpl-7b2a9383-b1a1-919d-b8dd-fe601f4aaedf","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"警方找到并接"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://view.inews.qq.com/a/20250111A01U2700"],"created":1794629683,"id":"chatcmpl-7b2a9383-b1a1-919d-b8dd-fe601f4aaedf","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"回泰国；1"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://view.inews.qq.com/a/20250111A01U2700"],"created":1794629683,"id":"chatcmpl-7b2a9383-b1a1-919d-b8dd-fe601f4aaedf","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"月11日"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://view.inews.qq.com/a/20250111A01U2700"],"created":1794629683,"id":"chatcmpl-7b2a9383-b1a1-919d-b8dd-fe601f4aaedf","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"00:5"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://view.inews.qq.com/a/20250111A01U2700"],"created":1794629683,"id":"chatcmpl-7b2a9383-b1a1-919d-b8dd-fe601f4aaedf","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"5抵达上海。"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://view.inews.qq.com/a/20250111A01U2700"],"created":1794629683,"id":"chatcmpl-7b2a9383-b1a1-919d-b8dd-fe601f4aaedf","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"注意当前日期2"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://view.inews.qq.com/a/20250111A01U2700"],"created":1794629683,"id":"chatcmpl-7b2a9383-b1a1-919d-b8dd-fe601f4aaedf","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"026-"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://view.inews.qq.com/a/20250111A01U2700"],"created":1794629683,"id":"chatcmpl-7b2a9383-b1a1-919d-b8dd-fe601f4aaedf","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"11-1"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://view.inews.qq.com/a/20250111A01U2700"],"created":1794629683,"id":"chatcmpl-7b2a9383-b1a1-919d-b8dd-fe601f4aaedf","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"4，但事件"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://view.inews.qq.com/a/20250111A01U2700"],"created":1794629683,"id":"chatcmpl-7b2a9383-b1a1-919d-b8dd-fe601f4aaedf","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"是202"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://view.inews.qq.com/a/20250111A01U2700"],"created":1794629683,"id":"chatcmpl-7b2a9383-b1a1-919d-b8dd-fe601f4aaedf","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"5? 用户"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://view.inews.qq.com/a/20250111A01U2700"],"created":1794629683,"id":"chatcmpl-7b2a9383-b1a1-919d-b8dd-fe601f4aaedf","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"没说年份。搜索结果"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://view.inews.qq.com/a/20250111A01U2700"],"created":1794629683,"id":"chatcmpl-7b2a9383-b1a1-919d-b8dd-fe601f4aaedf","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"没"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://view.inews.qq.com/a/20250111A01U2700"],"created":1794629683,"id":"chatcmpl-7b2a9383-b1a1-919d-b8dd-fe601f4aaedf","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"提年份，但"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://view.inews.qq.com/a/20250111A01U2700"],"created":1794629683,"id":"chatcmpl-7b2a9383-b1a1-919d-b8dd-fe601f4aaedf","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"可"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://view.inews.qq.com/a/20250111A01U2700"],"created":1794629683,"id":"chatcmpl-7b2a9383-b1a1-919d-b8dd-fe601f4aaedf","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"依据资料回答，"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://view.inews.qq.com/a/20250111A01U2700"],"created":1794629683,"id":"chatcmpl-7b2a9383-b1a1-919d-b8dd-fe601f4aaedf","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"避免年份。也可以"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://view.inews.qq.com/a/20250111A01U2700"],"created":1794629683,"id":"chatcmpl-7b2a9383-b1a1-919d-b8dd-fe601f4aaedf","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"说明资料中未"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://view.inews.qq.com/a/20250111A01U2700"],"created":1794629683,"id":"chatcmpl-7b2a9383-b1a1-919d-b8dd-fe601f4aaedf","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"提具体年份，"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://view.inews.qq.com/a/20250111A01U2700"],"created":1794629683,"id":"chatcmpl-7b2a9383-b1a1-919d-b8dd-fe601f4aaedf","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"但"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://view.inews.qq.com/a/20250111A01U2700"],"created":1794629683,"id":"chatcmpl-7b2a9383-b1a1-919d-b8dd-fe601f4aaedf","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"按报道日期表述"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://view.inews.qq.com/a/20250111A01U2700"],"created":1794629683,"id":"chatcmpl-7b2a9383-b1a1-919d-b8dd-fe601f4aaedf","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"。要引用["},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://view.inews.qq.com/a/20250111A01U2700"],"created":1794629683,"id":"chatcmpl-7b2a9383-b1a1-919d-b8dd-fe601f4aaedf","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"1]"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://view.inews.qq.com/a/20250111A01U2700"],"created":1794629683,"id":"chatcmpl-7b2a9383-b1a1-919d-b8dd-fe601f4aaedf","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"。要自然中文"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://view.inews.qq.com/a/20250111A01U2700"],"created":1794629683,"id":"chatcmpl-7b2a9383-b1a1-919d-b8dd-fe601f4aaedf","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"，"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://view.inews.qq.com/a/20250111A01U2700"],"created":1794629683,"id":"chatcmpl-7b2a9383-b1a1-919d-b8dd-fe601f4aaedf","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"先直接回答，"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://view.inews.qq.com/a/20250111A01U2700"],"created":1794629683,"id":"chatcmpl-7b2a9383-b1a1-919d-b8dd-fe601f4aaedf","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"再补充事实背景"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://view.inews.qq.com/a/20250111A01U2700"],"created":1794629683,"id":"chatcmpl-7b2a9383-b1a1-919d-b8dd-fe601f4aaedf","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"。简洁"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://view.inews.qq.com/a/20250111A01U2700"],"created":1794629683,"id":"chatcmpl-7b2a9383-b1a1-919d-b8dd-fe601f4aaedf","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"。\n\n需要不要"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://view.inews.qq.com/a/20250111A01U2700"],"created":1794629683,"id":"chatcmpl-7b2a9383-b1a1-919d-b8dd-fe601f4aaedf","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"联网检索？已有"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://view.inews.qq.com/a/20250111A01U2700"],"created":1794629683,"id":"chatcmpl-7b2a9383-b1a1-919d-b8dd-fe601f4aaedf","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"搜索结果。指令说"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://view.inews.qq.com/a/20250111A01U2700"],"created":1794629683,"id":"chatcmpl-7b2a9383-b1a1-919d-b8dd-fe601f4aaedf","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"联网检索后，"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://view.inews.qq.com/a/20250111A01U2700"],"created":1794629683,"id":"chatcmpl-7b2a9383-b1a1-919d-b8dd-fe601f4aaedf","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"但我们只有给定结果"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://view.inews.qq.com/a/20250111A01U2700"],"created":1794629683,"id":"chatcmpl-7b2a9383-b1a1-919d-b8dd-fe601f4aaedf","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"。可"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://view.inews.qq.com/a/20250111A01U2700"],"created":1794629683,"id":"chatcmpl-7b2a9383-b1a1-919d-b8dd-fe601f4aaedf","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"依据检索资料作答"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://view.inews.qq.com/a/20250111A01U2700"],"created":1794629683,"id":"chatcmpl-7b2a9383-b1a1-919d-b8dd-fe601f4aaedf","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"。若"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://view.inews.qq.com/a/20250111A01U2700"],"created":1794629683,"id":"chatcmpl-7b2a9383-b1a1-919d-b8dd-fe601f4aaedf","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"不足说明。这里"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://view.inews.qq.com/a/20250111A01U2700"],"created":1794629683,"id":"chatcmpl-7b2a9383-b1a1-919d-b8dd-fe601f4aaedf","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"足够。\n\n注意"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://view.inews.qq.com/a/20250111A01U2700"],"created":1794629683,"id":"chatcmpl-7b2a9383-b1a1-919d-b8dd-fe601f4aaedf","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"引用格式：在"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://view.inews.qq.com/a/20250111A01U2700"],"created":1794629683,"id":"chatcmpl-7b2a9383-b1a1-919d-b8dd-fe601f4aaedf","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"句子"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://view.inews.qq.com/a/20250111A01U2700"],"created":1794629683,"id":"chatcmpl-7b2a9383-b1a1-919d-b8dd-fe601f4aaedf","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"末尾[1]"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://view.inews.qq.com/a/20250111A01U2700"],"created":1794629683,"id":"chatcmpl-7b2a9383-b1a1-919d-b8dd-fe601f4aaedf","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"。不要"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://view.inews.qq.com/a/20250111A01U2700"],"created":1794629683,"id":"chatcmpl-7b2a9383-b1a1-919d-b8dd-fe601f4aaedf","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"集中最后。可"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://view.inews.qq.com/a/20250111A01U2700"],"created":1794629683,"id":"chatcmpl-7b2a9383-b1a1-919d-b8dd-fe601f4aaedf","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"回答：\n\n这两个"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://view.inews.qq.com/a/20250111A01U2700"],"created":1794629683,"id":"chatcmpl-7b2a9383-b1a1-919d-b8dd-fe601f4aaedf","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"日期对应的是不同"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://view.inews.qq.com/a/20250111A01U2700"],"created":1794629683,"id":"chatcmpl-7b2a9383-b1a1-919d-b8dd-fe601f4aaedf","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"阶段的"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://view.inews.qq.com/a/20250111A01U2700"],"created":1794629683,"id":"chatcmpl-7b2a9383-b1a1-919d-b8dd-fe601f4aaedf","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"“接回”"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://view.inews.qq.com/a/20250111A01U2700"],"created":1794629683,"id":"chatcmpl-7b2a9383-b1a1-919d-b8dd-fe601f4aaedf","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"：\n- "},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://view.inews.qq.com/a/20250111A01U2700"],"created":1794629683,"id":"chatcmpl-7b2a9383-b1a1-919d-b8dd-fe601f4aaedf","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"1月"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://view.inews.qq.com/a/20250111A01U2700"],"created":1794629683,"id":"chatcmpl-7b2a9383-b1a1-919d-b8dd-fe601f4aaedf","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"7日：泰国"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://view.inews.qq.com/a/20250111A01U2700"],"created":1794629683,"id":"chatcmpl-7b2a9383-b1a1-919d-b8dd-fe601f4aaedf","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"警方"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://view.inews.qq.com/a/20250111A01U2700"],"created":1794629683,"id":"chatcmpl-7b2a9383-b1a1-919d-b8dd-fe601f4aaedf","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"公布时间线称"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://view.inews.qq.com/a/20250111A01U2700"],"created":1794629683,"id":"chatcmpl-7b2a9383-b1a1-919d-b8dd-fe601f4aaedf","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"，在泰缅"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://view.inews.qq.com/a/20250111A01U2700"],"created":1794629683,"id":"chatcmpl-7b2a9383-b1a1-919d-b8dd-fe601f4aaedf","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"边境找到王星，"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://view.inews.qq.com/a/20250111A01U2700"],"created":1794629683,"id":"chatcmpl-7b2a9383-b1a1-919d-b8dd-fe601f4aaedf","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"并将其接回泰国"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://view.inews.qq.com/a/20250111A01U2700"],"created":1794629683,"id":"chatcmpl-7b2a9383-b1a1-919d-b8dd-fe601f4aaedf","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"。这里的“接"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://view.inews.qq.com/a/20250111A01U2700"],"created":1794629683,"id":"chatcmpl-7b2a9383-b1a1-919d-b8dd-fe601f4aaedf","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"回”"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://view.inews.qq.com/a/20250111A01U2700"],"created":1794629683,"id":"chatcmpl-7b2a9383-b1a1-919d-b8dd-fe601f4aaedf","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"指从失联/"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://view.inews.qq.com/a/20250111A01U2700"],"created":1794629683,"id":"chatcmpl-7b2a9383-b1a1-919d-b8dd-fe601f4aaedf","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"边境地区被"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://view.inews.qq.com/a/20250111A01U2700"],"created":1794629683,"id":"chatcmpl-7b2a9383-b1a1-919d-b8dd-fe601f4aaedf","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"泰国警方带回泰国"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://view.inews.qq.com/a/20250111A01U2700"],"created":1794629683,"id":"chatcmpl-7b2a9383-b1a1-919d-b8dd-fe601f4aaedf","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"境内或"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://view.inews.qq.com/a/20250111A01U2700"],"created":1794629683,"id":"chatcmpl-7b2a9383-b1a1-919d-b8dd-fe601f4aaedf","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"安全控制范围，"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://view.inews.qq.com/a/20250111A01U2700"],"created":1794629683,"id":"chatcmpl-7b2a9383-b1a1-919d-b8dd-fe601f4aaedf","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"不是回到"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://view.inews.qq.com/a/20250111A01U2700"],"created":1794629683,"id":"chatcmpl-7b2a9383-b1a1-919d-b8dd-fe601f4aaedf","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"中国。[1"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://view.inews.qq.com/a/20250111A01U2700"],"created":1794629683,"id":"chatcmpl-7b2a9383-b1a1-919d-b8dd-fe601f4aaedf","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"]\n- "},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://view.inews.qq.com/a/20250111A01U2700"],"created":1794629683,"id":"chatcmpl-7b2a9383-b1a1-919d-b8dd-fe601f4aaedf","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"1月11"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://view.inews.qq.com/a/20250111A01U2700"],"created":1794629683,"id":"chatcmpl-7b2a9383-b1a1-919d-b8dd-fe601f4aaedf","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"日：王星所"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://view.inews.qq.com/a/20250111A01U2700"],"created":1794629683,"id":"chatcmpl-7b2a9383-b1a1-919d-b8dd-fe601f4aaedf","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"乘回国航班于"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://view.inews.qq.com/a/20250111A01U2700"],"created":1794629683,"id":"chatcmpl-7b2a9383-b1a1-919d-b8dd-fe601f4aaedf","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"北京时间1月1"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://view.inews.qq.com/a/20250111A01U2700"],"created":1794629683,"id":"chatcmpl-7b2a9383-b1a1-919d-b8dd-fe601f4aaedf","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"1日00"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://view.inews.qq.com/a/20250111A01U2700"],"created":1794629683,"id":"chatcmpl-7b2a9383-b1a1-919d-b8dd-fe601f4aaedf","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":":55抵达"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://view.inews.qq.com/a/20250111A01U2700"],"created":1794629683,"id":"chatcmpl-7b2a9383-b1a1-919d-b8dd-fe601f4aaedf","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"上海浦东国际机场，"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://view.inews.qq.com/a/20250111A01U2700"],"created":1794629683,"id":"chatcmpl-7b2a9383-b1a1-919d-b8dd-fe601f4aaedf","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"这是他结束在泰国"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://view.inews.qq.com/a/20250111A01U2700"],"created":1794629683,"id":"chatcmpl-7b2a9383-b1a1-919d-b8dd-fe601f4aaedf","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"相关"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://view.inews.qq.com/a/20250111A01U2700"],"created":1794629683,"id":"chatcmpl-7b2a9383-b1a1-919d-b8dd-fe601f4aaedf","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"程序后返回中国"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://view.inews.qq.com/a/20250111A01U2700"],"created":1794629683,"id":"chatcmpl-7b2a9383-b1a1-919d-b8dd-fe601f4aaedf","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"。"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://view.inews.qq.com/a/20250111A01U2700"],"created":1794629683,"id":"chatcmpl-7b2a9383-b1a1-919d-b8dd-fe601f4aaedf","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"[1]\n\n"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://view.inews.qq.com/a/20250111A01U2700"],"created":1794629683,"id":"chatcmpl-7b2a9383-b1a1-919d-b8dd-fe601f4aaedf","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"补充：王星1"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://view.inews.qq.com/a/20250111A01U2700"],"created":1794629683,"id":"chatcmpl-7b2a9383-b1a1-919d-b8dd-fe601f4aaedf","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"月3"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://view.inews.qq.com/a/20250111A01U2700"],"created":1794629683,"id":"chatcmpl-7b2a9383-b1a1-919d-b8dd-fe601f4aaedf","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"日入境泰国，"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://view.inews.qq.com/a/20250111A01U2700"],"created":1794629683,"id":"chatcmpl-7b2a9383-b1a1-919d-b8dd-fe601f4aaedf","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"之后在泰缅"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://view.inews.qq.com/a/20250111A01U2700"],"created":1794629683,"id":"chatcmpl-7b2a9383-b1a1-919d-b8dd-fe601f4aaedf","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"边境失联；泰国"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://view.inews.qq.com/a/20250111A01U2700"],"created":1794629683,"id":"chatcmpl-7b2a9383-b1a1-919d-b8dd-fe601f4aaedf","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"警方初步调查确认"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://view.inews.qq.com/a/20250111A01U2700"],"created":1794629683,"id":"chatcmpl-7b2a9383-b1a1-919d-b8dd-fe601f4aaedf","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"其为人口贩运"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://view.inews.qq.com/a/20250111A01U2700"],"created":1794629683,"id":"chatcmpl-7b2a9383-b1a1-919d-b8dd-fe601f4aaedf","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"受害者；1月"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://view.inews.qq.com/a/20250111A01U2700"],"created":1794629683,"id":"chatcmpl-7b2a9383-b1a1-919d-b8dd-fe601f4aaedf","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"11日他"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://view.inews.qq.com/a/20250111A01U2700"],"created":1794629683,"id":"chatcmpl-7b2a9383-b1a1-919d-b8dd-fe601f4aaedf","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"发文称已回到"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://view.inews.qq.com/a/20250111A01U2700"],"created":1794629683,"id":"chatcmpl-7b2a9383-b1a1-919d-b8dd-fe601f4aaedf","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"祖国怀抱。["},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://view.inews.qq.com/a/20250111A01U2700"],"created":1794629683,"id":"chatcmpl-7b2a9383-b1a1-919d-b8dd-fe601f4aaedf","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"1]\n\n要"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://view.inews.qq.com/a/20250111A01U2700"],"created":1794629683,"id":"chatcmpl-7b2a9383-b1a1-919d-b8dd-fe601f4aaedf","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"说明日期不同因为"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://view.inews.qq.com/a/20250111A01U2700"],"created":1794629683,"id":"chatcmpl-7b2a9383-b1a1-919d-b8dd-fe601f4aaedf","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"“被接回"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://view.inews.qq.com/a/20250111A01U2700"],"created":1794629683,"id":"chatcmpl-7b2a9383-b1a1-919d-b8dd-fe601f4aaedf","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"”和"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://view.inews.qq.com/a/20250111A01U2700"],"created":1794629683,"id":"chatcmpl-7b2a9383-b1a1-919d-b8dd-fe601f4aaedf","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"“回国”主体"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://view.inews.qq.com/a/20250111A01U2700"],"created":1794629683,"id":"chatcmpl-7b2a9383-b1a1-919d-b8dd-fe601f4aaedf","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"和地点不同："},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://view.inews.qq.com/a/20250111A01U2700"],"created":1794629683,"id":"chatcmpl-7b2a9383-b1a1-919d-b8dd-fe601f4aaedf","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"前者"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://view.inews.qq.com/a/20250111A01U2700"],"created":1794629683,"id":"chatcmpl-7b2a9383-b1a1-919d-b8dd-fe601f4aaedf","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"泰国警方在泰国"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://view.inews.qq.com/a/20250111A01U2700"],"created":1794629683,"id":"chatcmpl-7b2a9383-b1a1-919d-b8dd-fe601f4aaedf","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"/"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://view.inews.qq.com/a/20250111A01U2700"],"created":1794629683,"id":"chatcmpl-7b2a9383-b1a1-919d-b8dd-fe601f4aaedf","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"边境接回，"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://view.inews.qq.com/a/20250111A01U2700"],"created":1794629683,"id":"chatcmpl-7b2a9383-b1a1-919d-b8dd-fe601f4aaedf","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"后者乘机返回中国"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://view.inews.qq.com/a/20250111A01U2700"],"created":1794629683,"id":"chatcmpl-7b2a9383-b1a1-919d-b8dd-fe601f4aaedf","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"。也可能"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://view.inews.qq.com/a/20250111A01U2700"],"created":1794629683,"id":"chatcmpl-7b2a9383-b1a1-919d-b8dd-fe601f4aaedf","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"1月7日公布"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://view.inews.qq.com/a/20250111A01U2700"],"created":1794629683,"id":"chatcmpl-7b2a9383-b1a1-919d-b8dd-fe601f4aaedf","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"时间线，不等于"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://view.inews.qq.com/a/20250111A01U2700"],"created":1794629683,"id":"chatcmpl-7b2a9383-b1a1-919d-b8dd-fe601f4aaedf","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"实际接回？"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://view.inews.qq.com/a/20250111A01U2700"],"created":1794629683,"id":"chatcmpl-7b2a9383-b1a1-919d-b8dd-fe601f4aaedf","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"资料"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://view.inews.qq.com/a/20250111A01U2700"],"created":1794629683,"id":"chatcmpl-7b2a9383-b1a1-919d-b8dd-fe601f4aaedf","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"说泰国警方7"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://view.inews.qq.com/a/20250111A01U2700"],"created":1794629683,"id":"chatcmpl-7b2a9383-b1a1-919d-b8dd-fe601f4aaedf","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"日将其"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://view.inews.qq.com/a/20250111A01U2700"],"created":1794629683,"id":"chatcmpl-7b2a9383-b1a1-919d-b8dd-fe601f4aaedf","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"找到并接回"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://view.inews.qq.com/a/20250111A01U2700"],"created":1794629683,"id":"chatcmpl-7b2a9383-b1a1-919d-b8dd-fe601f4aaedf","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"泰国。也写"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://view.inews.qq.com/a/20250111A01U2700"],"created":1794629683,"id":"chatcmpl-7b2a9383-b1a1-919d-b8dd-fe601f4aaedf","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"泰国警方7日公布"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://view.inews.qq.com/a/20250111A01U2700"],"created":1794629683,"id":"chatcmpl-7b2a9383-b1a1-919d-b8dd-fe601f4aaedf","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"时间"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://view.inews.qq.com/a/20250111A01U2700"],"created":1794629683,"id":"chatcmpl-7b2a9383-b1a1-919d-b8dd-fe601f4aaedf","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"线。可谨慎"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://view.inews.qq.com/a/20250111A01U2700"],"created":1794629683,"id":"chatcmpl-7b2a9383-b1a1-919d-b8dd-fe601f4aaedf","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"：报道"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://view.inews.qq.com/a/20250111A01U2700"],"created":1794629683,"id":"chatcmpl-7b2a9383-b1a1-919d-b8dd-fe601f4aaedf","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"说泰国警方7"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://view.inews.qq.com/a/20250111A01U2700"],"created":1794629683,"id":"chatcmpl-7b2a9383-b1a1-919d-b8dd-fe601f4aaedf","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"日公布"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://view.inews.qq.com/a/20250111A01U2700"],"created":1794629683,"id":"chatcmpl-7b2a9383-b1a1-919d-b8dd-fe601f4aaedf","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"时间线，并称"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://view.inews.qq.com/a/20250111A01U2700"],"created":1794629683,"id":"chatcmpl-7b2a9383-b1a1-919d-b8dd-fe601f4aaedf","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"7日将其找到"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://view.inews.qq.com/a/20250111A01U2700"],"created":1794629683,"id":"chatcmpl-7b2a9383-b1a1-919d-b8dd-fe601f4aaedf","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"并接回泰国"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://view.inews.qq.com/a/20250111A01U2700"],"created":1794629683,"id":"chatcmpl-7b2a9383-b1a1-919d-b8dd-fe601f4aaedf","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"。可以表达为"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://view.inews.qq.com/a/20250111A01U2700"],"created":1794629683,"id":"chatcmpl-7b2a9383-b1a1-919d-b8dd-fe601f4aaedf","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"“报道所述1"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://view.inews.qq.com/a/20250111A01U2700"],"created":1794629683,"id":"chatcmpl-7b2a9383-b1a1-919d-b8dd-fe601f4aaedf","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"月7日”。"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://view.inews.qq.com/a/20250111A01U2700"],"created":1794629683,"id":"chatcmpl-7b2a9383-b1a1-919d-b8dd-fe601f4aaedf","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"\n\n是否可能1"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://view.inews.qq.com/a/20250111A01U2700"],"created":1794629683,"id":"chatcmpl-7b2a9383-b1a1-919d-b8dd-fe601f4aaedf","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"月7日"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://view.inews.qq.com/a/20250111A01U2700"],"created":1794629683,"id":"chatcmpl-7b2a9383-b1a1-919d-b8dd-fe601f4aaedf","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"“被接回"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://view.inews.qq.com/a/20250111A01U2700"],"created":1794629683,"id":"chatcmpl-7b2a9383-b1a1-919d-b8dd-fe601f4aaedf","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"”"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://view.inews.qq.com/a/20250111A01U2700"],"created":1794629683,"id":"chatcmpl-7b2a9383-b1a1-919d-b8dd-fe601f4aaedf","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"指泰国警方从"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://view.inews.qq.com/a/20250111A01U2700"],"created":1794629683,"id":"chatcmpl-7b2a9383-b1a1-919d-b8dd-fe601f4aaedf","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"缅甸接回泰国"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://view.inews.qq.com/a/20250111A01U2700"],"created":1794629683,"id":"chatcmpl-7b2a9383-b1a1-919d-b8dd-fe601f4aaedf","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"？但资料说"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://view.inews.qq.com/a/20250111A01U2700"],"created":1794629683,"id":"chatcmpl-7b2a9383-b1a1-919d-b8dd-fe601f4aaedf","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"泰缅边境失联"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://view.inews.qq.com/a/20250111A01U2700"],"created":1794629683,"id":"chatcmpl-7b2a9383-b1a1-919d-b8dd-fe601f4aaedf","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"，泰国警方7"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://view.inews.qq.com/a/20250111A01U2700"],"created":1794629683,"id":"chatcmpl-7b2a9383-b1a1-919d-b8dd-fe601f4aaedf","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"日将其"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://view.inews.qq.com/a/20250111A01U2700"],"created":1794629683,"id":"chatcmpl-7b2a9383-b1a1-919d-b8dd-fe601f4aaedf","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"找到并接回"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://view.inews.qq.com/a/20250111A01U2700"],"created":1794629683,"id":"chatcmpl-7b2a9383-b1a1-919d-b8dd-fe601f4aaedf","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"泰国。这里可能"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://view.inews.qq.com/a/20250111A01U2700"],"created":1794629683,"id":"chatcmpl-7b2a9383-b1a1-919d-b8dd-fe601f4aaedf","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"指从缅甸/"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://view.inews.qq.com/a/20250111A01U2700"],"created":1794629683,"id":"chatcmpl-7b2a9383-b1a1-919d-b8dd-fe601f4aaedf","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"边境园区带回泰国"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://view.inews.qq.com/a/20250111A01U2700"],"created":1794629683,"id":"chatcmpl-7b2a9383-b1a1-919d-b8dd-fe601f4aaedf","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"。用户"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://view.inews.qq.com/a/20250111A01U2700"],"created":1794629683,"id":"chatcmpl-7b2a9383-b1a1-919d-b8dd-fe601f4aaedf","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"问为什么不一样。"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://view.inews.qq.com/a/20250111A01U2700"],"created":1794629683,"id":"chatcmpl-7b2a9383-b1a1-919d-b8dd-fe601f4aaedf","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"回答：不是同一"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://view.inews.qq.com/a/20250111A01U2700"],"created":1794629683,"id":"chatcmpl-7b2a9383-b1a1-919d-b8dd-fe601f4aaedf","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"地点"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://view.inews.qq.com/a/20250111A01U2700"],"created":1794629683,"id":"chatcmpl-7b2a9383-b1a1-919d-b8dd-fe601f4aaedf","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"的接回。"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://view.inews.qq.com/a/20250111A01U2700"],"created":1794629683,"id":"chatcmpl-7b2a9383-b1a1-919d-b8dd-fe601f4aaedf","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"\n\n需要"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://view.inews.qq.com/a/20250111A01U2700"],"created":1794629683,"id":"chatcmpl-7b2a9383-b1a1-919d-b8dd-fe601f4aaedf","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"控制在5点以内"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://view.inews.qq.com/a/20250111A01U2700"],"created":1794629683,"id":"chatcmpl-7b2a9383-b1a1-919d-b8dd-fe601f4aaedf","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"。可"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://view.inews.qq.com/a/20250111A01U2700"],"created":1794629683,"id":"chatcmpl-7b2a9383-b1a1-919d-b8dd-fe601f4aaedf","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"分点。\n\n"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://view.inews.qq.com/a/20250111A01U2700"],"created":1794629683,"id":"chatcmpl-7b2a9383-b1a1-919d-b8dd-fe601f4aaedf","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"另外注意“今天是"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://view.inews.qq.com/a/20250111A01U2700"],"created":1794629683,"id":"chatcmpl-7b2a9383-b1a1-919d-b8dd-fe601f4aaedf","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"2026"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://view.inews.qq.com/a/20250111A01U2700"],"created":1794629683,"id":"chatcmpl-7b2a9383-b1a1-919d-b8dd-fe601f4aaedf","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"1114"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://view.inews.qq.com/a/20250111A01U2700"],"created":1794629683,"id":"chatcmpl-7b2a9383-b1a1-919d-b8dd-fe601f4aaedf","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"”可能无关。"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://view.inews.qq.com/a/20250111A01U2700"],"created":1794629683,"id":"chatcmpl-7b2a9383-b1a1-919d-b8dd-fe601f4aaedf","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"\n\n最终"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://view.inews.qq.com/a/20250111A01U2700"],"created":1794629683,"id":"chatcmpl-7b2a9383-b1a1-919d-b8dd-fe601f4aaedf","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"回答要引用。"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://view.inews.qq.com/a/20250111A01U2700"],"created":1794629683,"id":"chatcmpl-7b2a9383-b1a1-919d-b8dd-fe601f4aaedf","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"确保不重复引用"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://view.inews.qq.com/a/20250111A01U2700"],"created":1794629683,"id":"chatcmpl-7b2a9383-b1a1-919d-b8dd-fe601f4aaedf","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"一个"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://view.inews.qq.com/a/20250111A01U2700"],"created":1794629683,"id":"chatcmpl-7b2a9383-b1a1-919d-b8dd-fe601f4aaedf","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"网页？只有一个网页"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://view.inews.qq.com/a/20250111A01U2700"],"created":1794629683,"id":"chatcmpl-7b2a9383-b1a1-919d-b8dd-fe601f4aaedf","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"可用，不可避免。"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://view.inews.qq.com/a/20250111A01U2700"],"created":1794629683,"id":"chatcmpl-7b2a9383-b1a1-919d-b8dd-fe601f4aaedf","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"系统"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://view.inews.qq.com/a/20250111A01U2700"],"created":1794629683,"id":"chatcmpl-7b2a9383-b1a1-919d-b8dd-fe601f4aaedf","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"说综合多个相关"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://view.inews.qq.com/a/20250111A01U2700"],"created":1794629683,"id":"chatcmpl-7b2a9383-b1a1-919d-b8dd-fe601f4aaedf","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"网页，不能重复"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://view.inews.qq.com/a/20250111A01U2700"],"created":1794629683,"id":"chatcmpl-7b2a9383-b1a1-919d-b8dd-fe601f4aaedf","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"引用一个网页？"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://view.inews.qq.com/a/20250111A01U2700"],"created":1794629683,"id":"chatcmpl-7b2a9383-b1a1-919d-b8dd-fe601f4aaedf","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"但只有一个结果。"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://view.inews.qq.com/a/20250111A01U2700"],"created":1794629683,"id":"chatcmpl-7b2a9383-b1a1-919d-b8dd-fe601f4aaedf","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"我们可以"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://view.inews.qq.com/a/20250111A01U2700"],"created":1794629683,"id":"chatcmpl-7b2a9383-b1a1-919d-b8dd-fe601f4aaedf","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"只引用[1"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://view.inews.qq.com/a/20250111A01U2700"],"created":1794629683,"id":"chatcmpl-7b2a9383-b1a1-919d-b8dd-fe601f4aaedf","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"]"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://view.inews.qq.com/a/20250111A01U2700"],"created":1794629683,"id":"chatcmpl-7b2a9383-b1a1-919d-b8dd-fe601f4aaedf","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"。也许不要每"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://view.inews.qq.com/a/20250111A01U2700"],"created":1794629683,"id":"chatcmpl-7b2a9383-b1a1-919d-b8dd-fe601f4aaedf","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"句都引用，"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://view.inews.qq.com/a/20250111A01U2700"],"created":1794629683,"id":"chatcmpl-7b2a9383-b1a1-919d-b8dd-fe601f4aaedf","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"但关键处引用"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://view.inews.qq.com/a/20250111A01U2700"],"created":1794629683,"id":"chatcmpl-7b2a9383-b1a1-919d-b8dd-fe601f4aaedf","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"。不要"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://view.inews.qq.com/a/20250111A01U2700"],"created":1794629683,"id":"chatcmpl-7b2a9383-b1a1-919d-b8dd-fe601f4aaedf","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"说只有一个来源。"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://view.inews.qq.com/a/20250111A01U2700"],"created":1794629683,"id":"chatcmpl-7b2a9383-b1a1-919d-b8dd-fe601f4aaedf","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"可以"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://view.inews.qq.com/a/20250111A01U2700"],"created":1794629683,"id":"chatcmpl-7b2a9383-b1a1-919d-b8dd-fe601f4aaedf","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"回答。\n\n需要"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://view.inews.qq.com/a/20250111A01U2700"],"created":1794629683,"id":"chatcmpl-7b2a9383-b1a1-919d-b8dd-fe601f4aaedf","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"“"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://view.inews.qq.com/a/20250111A01U2700"],"created":1794629683,"id":"chatcmpl-7b2a9383-b1a1-919d-b8dd-fe601f4aaedf","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"先直接回答，"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://view.inews.qq.com/a/20250111A01U2700"],"created":1794629683,"id":"chatcmpl-7b2a9383-b1a1-919d-b8dd-fe601f4aaedf","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"再补充理解答案"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://view.inews.qq.com/a/20250111A01U2700"],"created":1794629683,"id":"chatcmpl-7b2a9383-b1a1-919d-b8dd-fe601f4aaedf","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"所需的事实、背景"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://view.inews.qq.com/a/20250111A01U2700"],"created":1794629683,"id":"chatcmpl-7b2a9383-b1a1-919d-b8dd-fe601f4aaedf","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"或说明”。直接"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://view.inews.qq.com/a/20250111A01U2700"],"created":1794629683,"id":"chatcmpl-7b2a9383-b1a1-919d-b8dd-fe601f4aaedf","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"一句：两个日期"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://view.inews.qq.com/a/20250111A01U2700"],"created":1794629683,"id":"chatcmpl-7b2a9383-b1a1-919d-b8dd-fe601f4aaedf","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"不同"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://view.inews.qq.com/a/20250111A01U2700"],"created":1794629683,"id":"chatcmpl-7b2a9383-b1a1-919d-b8dd-fe601f4aaedf","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"，因为1月"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://view.inews.qq.com/a/20250111A01U2700"],"created":1794629683,"id":"chatcmpl-7b2a9383-b1a1-919d-b8dd-fe601f4aaedf","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"7日是泰国"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://view.inews.qq.com/a/20250111A01U2700"],"created":1794629683,"id":"chatcmpl-7b2a9383-b1a1-919d-b8dd-fe601f4aaedf","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"警方在泰缅"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://view.inews.qq.com/a/20250111A01U2700"],"created":1794629683,"id":"chatcmpl-7b2a9383-b1a1-919d-b8dd-fe601f4aaedf","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"边境将其"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://view.inews.qq.com/a/20250111A01U2700"],"created":1794629683,"id":"chatcmpl-7b2a9383-b1a1-919d-b8dd-fe601f4aaedf","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"找到并接回"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://view.inews.qq.com/a/20250111A01U2700"],"created":1794629683,"id":"chatcmpl-7b2a9383-b1a1-919d-b8dd-fe601f4aaedf","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"泰国境内/安全"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://view.inews.qq.com/a/20250111A01U2700"],"created":1794629683,"id":"chatcmpl-7b2a9383-b1a1-919d-b8dd-fe601f4aaedf","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"区域"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://view.inews.qq.com/a/20250111A01U2700"],"created":1794629683,"id":"chatcmpl-7b2a9383-b1a1-919d-b8dd-fe601f4aaedf","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"；1月1"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://view.inews.qq.com/a/20250111A01U2700"],"created":1794629683,"id":"chatcmpl-7b2a9383-b1a1-919d-b8dd-fe601f4aaedf","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"1"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://view.inews.qq.com/a/20250111A01U2700"],"created":1794629683,"id":"chatcmpl-7b2a9383-b1a1-919d-b8dd-fe601f4aaedf","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"日是他乘航班"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://view.inews.qq.com/a/20250111A01U2700"],"created":1794629683,"id":"chatcmpl-7b2a9383-b1a1-919d-b8dd-fe601f4aaedf","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"返回中国并抵达"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://view.inews.qq.com/a/20250111A01U2700"],"created":1794629683,"id":"chatcmpl-7b2a9383-b1a1-919d-b8dd-fe601f4aaedf","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"上海。然后"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://view.inews.qq.com/a/20250111A01U2700"],"created":1794629683,"id":"chatcmpl-7b2a9383-b1a1-919d-b8dd-fe601f4aaedf","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"分点。\n\n"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://view.inews.qq.com/a/20250111A01U2700"],"created":1794629683,"id":"chatcmpl-7b2a9383-b1a1-919d-b8dd-fe601f4aaedf","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"是否需要"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://view.inews.qq.com/a/20250111A01U2700"],"created":1794629683,"id":"chatcmpl-7b2a9383-b1a1-919d-b8dd-fe601f4aaedf","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"说明资料未提"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://view.inews.qq.com/a/20250111A01U2700"],"created":1794629683,"id":"chatcmpl-7b2a9383-b1a1-919d-b8dd-fe601f4aaedf","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"年份？可能："},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://view.inews.qq.com/a/20250111A01U2700"],"created":1794629683,"id":"chatcmpl-7b2a9383-b1a1-919d-b8dd-fe601f4aaedf","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"目前提供的报道未"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://view.inews.qq.com/a/20250111A01U2700"],"created":1794629683,"id":"chatcmpl-7b2a9383-b1a1-919d-b8dd-fe601f4aaedf","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"标注"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://view.inews.qq.com/a/20250111A01U2700"],"created":1794629683,"id":"chatcmpl-7b2a9383-b1a1-919d-b8dd-fe601f4aaedf","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"年份，以下按"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://view.inews.qq.com/a/20250111A01U2700"],"created":1794629683,"id":"chatcmpl-7b2a9383-b1a1-919d-b8dd-fe601f4aaedf","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"报道中的"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://view.inews.qq.com/a/20250111A01U2700"],"created":1794629683,"id":"chatcmpl-7b2a9383-b1a1-919d-b8dd-fe601f4aaedf","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"月日表述。"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://view.inews.qq.com/a/20250111A01U2700"],"created":1794629683,"id":"chatcmpl-7b2a9383-b1a1-919d-b8dd-fe601f4aaedf","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"这样"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://view.inews.qq.com/a/20250111A01U2700"],"created":1794629683,"id":"chatcmpl-7b2a9383-b1a1-919d-b8dd-fe601f4aaedf","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"更严谨。但是"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://view.inews.qq.com/a/20250111A01U2700"],"created":1794629683,"id":"chatcmpl-7b2a9383-b1a1-919d-b8dd-fe601f4aaedf","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"否必要？问题"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://view.inews.qq.com/a/20250111A01U2700"],"created":1794629683,"id":"chatcmpl-7b2a9383-b1a1-919d-b8dd-fe601f4aaedf","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"没问年份。"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://view.inews.qq.com/a/20250111A01U2700"],"created":1794629683,"id":"chatcmpl-7b2a9383-b1a1-919d-b8dd-fe601f4aaedf","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"可以"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://view.inews.qq.com/a/20250111A01U2700"],"created":1794629683,"id":"chatcmpl-7b2a9383-b1a1-919d-b8dd-fe601f4aaedf","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"加：按检索"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://view.inews.qq.com/a/20250111A01U2700"],"created":1794629683,"id":"chatcmpl-7b2a9383-b1a1-919d-b8dd-fe601f4aaedf","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"到的报道月日"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://view.inews.qq.com/a/20250111A01U2700"],"created":1794629683,"id":"chatcmpl-7b2a9383-b1a1-919d-b8dd-fe601f4aaedf","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"。"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://view.inews.qq.com/a/20250111A01U2700"],"created":1794629683,"id":"chatcmpl-7b2a9383-b1a1-919d-b8dd-fe601f4aaedf","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"若添加，不"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://view.inews.qq.com/a/20250111A01U2700"],"created":1794629683,"id":"chatcmpl-7b2a9383-b1a1-919d-b8dd-fe601f4aaedf","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"干扰。\n\n最终"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://view.inews.qq.com/a/20250111A01U2700"],"created":1794629683,"id":"chatcmpl-7b2a9383-b1a1-919d-b8dd-fe601f4aaedf","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"："},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://view.inews.qq.com/a/20250111A01U2700"],"created":1794629683,"id":"chatcmpl-7b2a9383-b1a1-919d-b8dd-fe601f4aaedf","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"\n\n这两个日期不是"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://view.inews.qq.com/a/20250111A01U2700"],"created":1794629683,"id":"chatcmpl-7b2a9383-b1a1-919d-b8dd-fe601f4aaedf","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"同一次“回来"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://view.inews.qq.com/a/20250111A01U2700"],"created":1794629683,"id":"chatcmpl-7b2a9383-b1a1-919d-b8dd-fe601f4aaedf","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"”。1月7"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://view.inews.qq.com/a/20250111A01U2700"],"created":1794629683,"id":"chatcmpl-7b2a9383-b1a1-919d-b8dd-fe601f4aaedf","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"日的"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://view.inews.qq.com/a/20250111A01U2700"],"created":1794629683,"id":"chatcmpl-7b2a9383-b1a1-919d-b8dd-fe601f4aaedf","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"“接回”"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://view.inews.qq.com/a/20250111A01U2700"],"created":1794629683,"id":"chatcmpl-7b2a9383-b1a1-919d-b8dd-fe601f4aaedf","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"是泰国警方在"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://view.inews.qq.com/a/20250111A01U2700"],"created":1794629683,"id":"chatcmpl-7b2a9383-b1a1-919d-b8dd-fe601f4aaedf","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"泰缅边境找到"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://view.inews.qq.com/a/20250111A01U2700"],"created":1794629683,"id":"chatcmpl-7b2a9383-b1a1-919d-b8dd-fe601f4aaedf","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"王星后，将其"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://view.inews.qq.com/a/20250111A01U2700"],"created":1794629683,"id":"chatcmpl-7b2a9383-b1a1-919d-b8dd-fe601f4aaedf","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"带回泰国"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://view.inews.qq.com/a/20250111A01U2700"],"created":1794629683,"id":"chatcmpl-7b2a9383-b1a1-919d-b8dd-fe601f4aaedf","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"一方/安全控制"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://view.inews.qq.com/a/20250111A01U2700"],"created":1794629683,"id":"chatcmpl-7b2a9383-b1a1-919d-b8dd-fe601f4aaedf","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"区域；1月"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://view.inews.qq.com/a/20250111A01U2700"],"created":1794629683,"id":"chatcmpl-7b2a9383-b1a1-919d-b8dd-fe601f4aaedf","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"11日的“"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://view.inews.qq.com/a/20250111A01U2700"],"created":1794629683,"id":"chatcmpl-7b2a9383-b1a1-919d-b8dd-fe601f4aaedf","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"回国”是他从"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://view.inews.qq.com/a/20250111A01U2700"],"created":1794629683,"id":"chatcmpl-7b2a9383-b1a1-919d-b8dd-fe601f4aaedf","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"泰国乘"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://view.inews.qq.com/a/20250111A01U2700"],"created":1794629683,"id":"chatcmpl-7b2a9383-b1a1-919d-b8dd-fe601f4aaedf","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"航班返回中国，"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://view.inews.qq.com/a/20250111A01U2700"],"created":1794629683,"id":"chatcmpl-7b2a9383-b1a1-919d-b8dd-fe601f4aaedf","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"抵达上海浦东机场"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://view.inews.qq.com/a/20250111A01U2700"],"created":1794629683,"id":"chatcmpl-7b2a9383-b1a1-919d-b8dd-fe601f4aaedf","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"。[1]"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://view.inews.qq.com/a/20250111A01U2700"],"created":1794629683,"id":"chatcmpl-7b2a9383-b1a1-919d-b8dd-fe601f4aaedf","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"\n\n分别发生："},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://view.inews.qq.com/a/20250111A01U2700"],"created":1794629683,"id":"chatcmpl-7b2a9383-b1a1-919d-b8dd-fe601f4aaedf","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"\n1"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://view.inews.qq.com/a/20250111A01U2700"],"created":1794629683,"id":"chatcmpl-7b2a9383-b1a1-919d-b8dd-fe601f4aaedf","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":". 1月"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://view.inews.qq.com/a/20250111A01U2700"],"created":1794629683,"id":"chatcmpl-7b2a9383-b1a1-919d-b8dd-fe601f4aaedf","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"3日，王星"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://view.inews.qq.com/a/20250111A01U2700"],"created":1794629683,"id":"chatcmpl-7b2a9383-b1a1-919d-b8dd-fe601f4aaedf","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"入境泰国，"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://view.inews.qq.com/a/20250111A01U2700"],"created":1794629683,"id":"chatcmpl-7b2a9383-b1a1-919d-b8dd-fe601f4aaedf","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"之后在泰缅"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://view.inews.qq.com/a/20250111A01U2700"],"created":1794629683,"id":"chatcmpl-7b2a9383-b1a1-919d-b8dd-fe601f4aaedf","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"边境失联。["},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://view.inews.qq.com/a/20250111A01U2700"],"created":1794629683,"id":"chatcmpl-7b2a9383-b1a1-919d-b8dd-fe601f4aaedf","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"1]\n2"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://view.inews.qq.com/a/20250111A01U2700"],"created":1794629683,"id":"chatcmpl-7b2a9383-b1a1-919d-b8dd-fe601f4aaedf","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":". 1月"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://view.inews.qq.com/a/20250111A01U2700"],"created":1794629683,"id":"chatcmpl-7b2a9383-b1a1-919d-b8dd-fe601f4aaedf","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"7日，泰国"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://view.inews.qq.com/a/20250111A01U2700"],"created":1794629683,"id":"chatcmpl-7b2a9383-b1a1-919d-b8dd-fe601f4aaedf","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"警方公布时间线"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://view.inews.qq.com/a/20250111A01U2700"],"created":1794629683,"id":"chatcmpl-7b2a9383-b1a1-919d-b8dd-fe601f4aaedf","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"并称已将其找到"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://view.inews.qq.com/a/20250111A01U2700"],"created":1794629683,"id":"chatcmpl-7b2a9383-b1a1-919d-b8dd-fe601f4aaedf","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"并接回"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://view.inews.qq.com/a/20250111A01U2700"],"created":1794629683,"id":"chatcmpl-7b2a9383-b1a1-919d-b8dd-fe601f4aaedf","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"泰国，初步调查"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://view.inews.qq.com/a/20250111A01U2700"],"created":1794629683,"id":"chatcmpl-7b2a9383-b1a1-919d-b8dd-fe601f4aaedf","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"确认其为"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://view.inews.qq.com/a/20250111A01U2700"],"created":1794629683,"id":"chatcmpl-7b2a9383-b1a1-919d-b8dd-fe601f4aaedf","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"人口贩运受害者"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://view.inews.qq.com/a/20250111A01U2700"],"created":1794629683,"id":"chatcmpl-7b2a9383-b1a1-919d-b8dd-fe601f4aaedf","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"。[1]"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://view.inews.qq.com/a/20250111A01U2700"],"created":1794629683,"id":"chatcmpl-7b2a9383-b1a1-919d-b8dd-fe601f4aaedf","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"\n3. "},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://view.inews.qq.com/a/20250111A01U2700"],"created":1794629683,"id":"chatcmpl-7b2a9383-b1a1-919d-b8dd-fe601f4aaedf","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"1月11"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://view.inews.qq.com/a/20250111A01U2700"],"created":1794629683,"id":"chatcmpl-7b2a9383-b1a1-919d-b8dd-fe601f4aaedf","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"日，王星所"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://view.inews.qq.com/a/20250111A01U2700"],"created":1794629683,"id":"chatcmpl-7b2a9383-b1a1-919d-b8dd-fe601f4aaedf","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"乘回国航班北京时间"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://view.inews.qq.com/a/20250111A01U2700"],"created":1794629683,"id":"chatcmpl-7b2a9383-b1a1-919d-b8dd-fe601f4aaedf","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"00:5"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://view.inews.qq.com/a/20250111A01U2700"],"created":1794629683,"id":"chatcmpl-7b2a9383-b1a1-919d-b8dd-fe601f4aaedf","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"5抵达上海浦东"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://view.inews.qq.com/a/20250111A01U2700"],"created":1794629683,"id":"chatcmpl-7b2a9383-b1a1-919d-b8dd-fe601f4aaedf","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"国际机场；同日他"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://view.inews.qq.com/a/20250111A01U2700"],"created":1794629683,"id":"chatcmpl-7b2a9383-b1a1-919d-b8dd-fe601f4aaedf","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"发文称已"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://view.inews.qq.com/a/20250111A01U2700"],"created":1794629683,"id":"chatcmpl-7b2a9383-b1a1-919d-b8dd-fe601f4aaedf","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"回到祖国怀抱。"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://view.inews.qq.com/a/20250111A01U2700"],"created":1794629683,"id":"chatcmpl-7b2a9383-b1a1-919d-b8dd-fe601f4aaedf","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"[1]\n\n"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://view.inews.qq.com/a/20250111A01U2700"],"created":1794629683,"id":"chatcmpl-7b2a9383-b1a1-919d-b8dd-fe601f4aaedf","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"结论：日期不同"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://view.inews.qq.com/a/20250111A01U2700"],"created":1794629683,"id":"chatcmpl-7b2a9383-b1a1-919d-b8dd-fe601f4aaedf","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"因为“1月"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://view.inews.qq.com/a/20250111A01U2700"],"created":1794629683,"id":"chatcmpl-7b2a9383-b1a1-919d-b8dd-fe601f4aaedf","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"7日接"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://view.inews.qq.com/a/20250111A01U2700"],"created":1794629683,"id":"chatcmpl-7b2a9383-b1a1-919d-b8dd-fe601f4aaedf","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"回”是泰国"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://view.inews.qq.com/a/20250111A01U2700"],"created":1794629683,"id":"chatcmpl-7b2a9383-b1a1-919d-b8dd-fe601f4aaedf","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"境内/边境"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://view.inews.qq.com/a/20250111A01U2700"],"created":1794629683,"id":"chatcmpl-7b2a9383-b1a1-919d-b8dd-fe601f4aaedf","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"处置节点，“1"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://view.inews.qq.com/a/20250111A01U2700"],"created":1794629683,"id":"chatcmpl-7b2a9383-b1a1-919d-b8dd-fe601f4aaedf","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"月11"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://view.inews.qq.com/a/20250111A01U2700"],"created":1794629683,"id":"chatcmpl-7b2a9383-b1a1-919d-b8dd-fe601f4aaedf","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"日回国”是中"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://view.inews.qq.com/a/20250111A01U2700"],"created":1794629683,"id":"chatcmpl-7b2a9383-b1a1-919d-b8dd-fe601f4aaedf","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"泰跨境返程节点"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://view.inews.qq.com/a/20250111A01U2700"],"created":1794629683,"id":"chatcmpl-7b2a9383-b1a1-919d-b8dd-fe601f4aaedf","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"。\n\n"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://view.inews.qq.com/a/20250111A01U2700"],"created":1794629683,"id":"chatcmpl-7b2a9383-b1a1-919d-b8dd-fe601f4aaedf","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"这样。确保引用"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://view.inews.qq.com/a/20250111A01U2700"],"created":1794629683,"id":"chatcmpl-7b2a9383-b1a1-919d-b8dd-fe601f4aaedf","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"在"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://view.inews.qq.com/a/20250111A01U2700"],"created":1794629683,"id":"chatcmpl-7b2a9383-b1a1-919d-b8dd-fe601f4aaedf","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"对应部分。\n"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://view.inews.qq.com/a/20250111A01U2700"],"created":1794629683,"id":"chatcmpl-7b2a9383-b1a1-919d-b8dd-fe601f4aaedf","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"这两个日期","reasoning_content":""},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://view.inews.qq.com/a/20250111A01U2700"],"created":1794629683,"id":"chatcmpl-7b2a9383-b1a1-919d-b8dd-fe601f4aaedf","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"不一样，是因为它们","reasoning_content":""},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://view.inews.qq.com/a/20250111A01U2700"],"created":1794629683,"id":"chatcmpl-7b2a9383-b1a1-919d-b8dd-fe601f4aaedf","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"对应的是王星失联","reasoning_content":""},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://view.inews.qq.com/a/20250111A01U2700"],"created":1794629683,"id":"chatcmpl-7b2a9383-b1a1-919d-b8dd-fe601f4aaedf","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"事件中的两个不同","reasoning_content":""},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://view.inews.qq.com/a/20250111A01U2700"],"created":1794629683,"id":"chatcmpl-7b2a9383-b1a1-919d-b8dd-fe601f4aaedf","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"节点","reasoning_content":""},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://view.inews.qq.com/a/20250111A01U2700"],"created":1794629683,"id":"chatcmpl-7b2a9383-b1a1-919d-b8dd-fe601f4aaedf","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"：**1月7","reasoning_content":""},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://view.inews.qq.com/a/20250111A01U2700"],"created":1794629683,"id":"chatcmpl-7b2a9383-b1a1-919d-b8dd-fe601f4aaedf","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"日是","reasoning_content":""},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://view.inews.qq.com/a/20250111A01U2700"],"created":1794629683,"id":"chatcmpl-7b2a9383-b1a1-919d-b8dd-fe601f4aaedf","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"泰国警方在泰","reasoning_content":""},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://view.inews.qq.com/a/20250111A01U2700"],"created":1794629683,"id":"chatcmpl-7b2a9383-b1a1-919d-b8dd-fe601f4aaedf","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"缅边境找到王星","reasoning_content":""},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://view.inews.qq.com/a/20250111A01U2700"],"created":1794629683,"id":"chatcmpl-7b2a9383-b1a1-919d-b8dd-fe601f4aaedf","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"并将其接回泰国","reasoning_content":""},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://view.inews.qq.com/a/20250111A01U2700"],"created":1794629683,"id":"chatcmpl-7b2a9383-b1a1-919d-b8dd-fe601f4aaedf","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"一方","reasoning_content":""},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://view.inews.qq.com/a/20250111A01U2700"],"created":1794629683,"id":"chatcmpl-7b2a9383-b1a1-919d-b8dd-fe601f4aaedf","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"/安全控制区域","reasoning_content":""},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://view.inews.qq.com/a/20250111A01U2700"],"created":1794629683,"id":"chatcmpl-7b2a9383-b1a1-919d-b8dd-fe601f4aaedf","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"；1月1","reasoning_content":""},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://view.inews.qq.com/a/20250111A01U2700"],"created":1794629683,"id":"chatcmpl-7b2a9383-b1a1-919d-b8dd-fe601f4aaedf","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"1日是他从","reasoning_content":""},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://view.inews.qq.com/a/20250111A01U2700"],"created":1794629683,"id":"chatcmpl-7b2a9383-b1a1-919d-b8dd-fe601f4aaedf","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"泰国乘航班返回","reasoning_content":""},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://view.inews.qq.com/a/20250111A01U2700"],"created":1794629683,"id":"chatcmpl-7b2a9383-b1a1-919d-b8dd-fe601f4aaedf","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"中国、抵达上海","reasoning_content":""},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://view.inews.qq.com/a/20250111A01U2700"],"created":1794629683,"id":"chatcmpl-7b2a9383-b1a1-919d-b8dd-fe601f4aaedf","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"**。","reasoning_content":""},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://view.inews.qq.com/a/20250111A01U2700"],"created":1794629683,"id":"chatcmpl-7b2a9383-b1a1-919d-b8dd-fe601f4aaedf","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"也就是说，1月","reasoning_content":""},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://view.inews.qq.com/a/20250111A01U2700"],"created":1794629683,"id":"chatcmpl-7b2a9383-b1a1-919d-b8dd-fe601f4aaedf","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"7","reasoning_content":""},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://view.inews.qq.com/a/20250111A01U2700"],"created":1794629683,"id":"chatcmpl-7b2a9383-b1a1-919d-b8dd-fe601f4aaedf","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"日的“接回","reasoning_content":""},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://view.inews.qq.com/a/20250111A01U2700"],"created":1794629683,"id":"chatcmpl-7b2a9383-b1a1-919d-b8dd-fe601f4aaedf","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"”不是回到中国","reasoning_content":""},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://view.inews.qq.com/a/20250111A01U2700"],"created":1794629683,"id":"chatcmpl-7b2a9383-b1a1-919d-b8dd-fe601f4aaedf","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"，而是泰国","reasoning_content":""},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://view.inews.qq.com/a/20250111A01U2700"],"created":1794629683,"id":"chatcmpl-7b2a9383-b1a1-919d-b8dd-fe601f4aaedf","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"警方在泰国境内","reasoning_content":""},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://view.inews.qq.com/a/20250111A01U2700"],"created":1794629683,"id":"chatcmpl-7b2a9383-b1a1-919d-b8dd-fe601f4aaedf","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"或泰缅边境","reasoning_content":""},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://view.inews.qq.com/a/20250111A01U2700"],"created":1794629683,"id":"chatcmpl-7b2a9383-b1a1-919d-b8dd-fe601f4aaedf","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"处置","reasoning_content":""},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://view.inews.qq.com/a/20250111A01U2700"],"created":1794629683,"id":"chatcmpl-7b2a9383-b1a1-919d-b8dd-fe601f4aaedf","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"中的接回；","reasoning_content":""},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://view.inews.qq.com/a/20250111A01U2700"],"created":1794629683,"id":"chatcmpl-7b2a9383-b1a1-919d-b8dd-fe601f4aaedf","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"1月","reasoning_content":""},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://view.inews.qq.com/a/20250111A01U2700"],"created":1794629683,"id":"chatcmpl-7b2a9383-b1a1-919d-b8dd-fe601f4aaedf","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"11日才是","reasoning_content":""},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://view.inews.qq.com/a/20250111A01U2700"],"created":1794629683,"id":"chatcmpl-7b2a9383-b1a1-919d-b8dd-fe601f4aaedf","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"正式回国。[","reasoning_content":""},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://view.inews.qq.com/a/20250111A01U2700"],"created":1794629683,"id":"chatcmpl-7b2a9383-b1a1-919d-b8dd-fe601f4aaedf","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"1]","reasoning_content":""},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://view.inews.qq.com/a/20250111A01U2700"],"created":1794629683,"id":"chatcmpl-7b2a9383-b1a1-919d-b8dd-fe601f4aaedf","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"\n\n具体分别发生了","reasoning_content":""},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://view.inews.qq.com/a/20250111A01U2700"],"created":1794629683,"id":"chatcmpl-7b2a9383-b1a1-919d-b8dd-fe601f4aaedf","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"：\n\n1.","reasoning_content":""},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://view.inews.qq.com/a/20250111A01U2700"],"created":1794629683,"id":"chatcmpl-7b2a9383-b1a1-919d-b8dd-fe601f4aaedf","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":" **","reasoning_content":""},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://view.inews.qq.com/a/20250111A01U2700"],"created":1794629683,"id":"chatcmpl-7b2a9383-b1a1-919d-b8dd-fe601f4aaedf","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"1月3日","reasoning_content":""},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://view.inews.qq.com/a/20250111A01U2700"],"created":1794629683,"id":"chatcmpl-7b2a9383-b1a1-919d-b8dd-fe601f4aaedf","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"：入境泰国后","reasoning_content":""},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://view.inews.qq.com/a/20250111A01U2700"],"created":1794629683,"id":"chatcmpl-7b2a9383-b1a1-919d-b8dd-fe601f4aaedf","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"失联**  \n  ","reasoning_content":""},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://view.inews.qq.com/a/20250111A01U2700"],"created":1794629683,"id":"chatcmpl-7b2a9383-b1a1-919d-b8dd-fe601f4aaedf","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":" 报道梳理称","reasoning_content":""},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://view.inews.qq.com/a/20250111A01U2700"],"created":1794629683,"id":"chatcmpl-7b2a9383-b1a1-919d-b8dd-fe601f4aaedf","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"，王星于1","reasoning_content":""},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://view.inews.qq.com/a/20250111A01U2700"],"created":1794629683,"id":"chatcmpl-7b2a9383-b1a1-919d-b8dd-fe601f4aaedf","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"月3日入境","reasoning_content":""},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://view.inews.qq.com/a/20250111A01U2700"],"created":1794629683,"id":"chatcmpl-7b2a9383-b1a1-919d-b8dd-fe601f4aaedf","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"泰国，之后在","reasoning_content":""},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://view.inews.qq.com/a/20250111A01U2700"],"created":1794629683,"id":"chatcmpl-7b2a9383-b1a1-919d-b8dd-fe601f4aaedf","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"泰缅边境失联","reasoning_content":""},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://view.inews.qq.com/a/20250111A01U2700"],"created":1794629683,"id":"chatcmpl-7b2a9383-b1a1-919d-b8dd-fe601f4aaedf","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"。[1]","reasoning_content":""},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://view.inews.qq.com/a/20250111A01U2700"],"created":1794629683,"id":"chatcmpl-7b2a9383-b1a1-919d-b8dd-fe601f4aaedf","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"\n\n2. **","reasoning_content":""},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://view.inews.qq.com/a/20250111A01U2700"],"created":1794629683,"id":"chatcmpl-7b2a9383-b1a1-919d-b8dd-fe601f4aaedf","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"1月7日","reasoning_content":""},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://view.inews.qq.com/a/20250111A01U2700"],"created":1794629683,"id":"chatcmpl-7b2a9383-b1a1-919d-b8dd-fe601f4aaedf","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"：泰国警方找到","reasoning_content":""},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://view.inews.qq.com/a/20250111A01U2700"],"created":1794629683,"id":"chatcmpl-7b2a9383-b1a1-919d-b8dd-fe601f4aaedf","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"并接回泰国","reasoning_content":""},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://view.inews.qq.com/a/20250111A01U2700"],"created":1794629683,"id":"chatcmpl-7b2a9383-b1a1-919d-b8dd-fe601f4aaedf","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"**  \n   ","reasoning_content":""},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://view.inews.qq.com/a/20250111A01U2700"],"created":1794629683,"id":"chatcmpl-7b2a9383-b1a1-919d-b8dd-fe601f4aaedf","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"泰国警方公布时间","reasoning_content":""},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://view.inews.qq.com/a/20250111A01U2700"],"created":1794629683,"id":"chatcmpl-7b2a9383-b1a1-919d-b8dd-fe601f4aaedf","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"线，称已于","reasoning_content":""},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://view.inews.qq.com/a/20250111A01U2700"],"created":1794629683,"id":"chatcmpl-7b2a9383-b1a1-919d-b8dd-fe601f4aaedf","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"1月7日","reasoning_content":""},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://view.inews.qq.com/a/20250111A01U2700"],"created":1794629683,"id":"chatcmpl-7b2a9383-b1a1-919d-b8dd-fe601f4aaedf","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"将","reasoning_content":""},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://view.inews.qq.com/a/20250111A01U2700"],"created":1794629683,"id":"chatcmpl-7b2a9383-b1a1-919d-b8dd-fe601f4aaedf","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"王星找到并接","reasoning_content":""},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://view.inews.qq.com/a/20250111A01U2700"],"created":1794629683,"id":"chatcmpl-7b2a9383-b1a1-919d-b8dd-fe601f4aaedf","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"回泰国，并","reasoning_content":""},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://view.inews.qq.com/a/20250111A01U2700"],"created":1794629683,"id":"chatcmpl-7b2a9383-b1a1-919d-b8dd-fe601f4aaedf","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"初步调查确认","reasoning_content":""},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://view.inews.qq.com/a/20250111A01U2700"],"created":1794629683,"id":"chatcmpl-7b2a9383-b1a1-919d-b8dd-fe601f4aaedf","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"王星为人口贩","reasoning_content":""},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://view.inews.qq.com/a/20250111A01U2700"],"created":1794629683,"id":"chatcmpl-7b2a9383-b1a1-919d-b8dd-fe601f4aaedf","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"运受害者。这里的","reasoning_content":""},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://view.inews.qq.com/a/20250111A01U2700"],"created":1794629683,"id":"chatcmpl-7b2a9383-b1a1-919d-b8dd-fe601f4aaedf","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"“接回”","reasoning_content":""},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://view.inews.qq.com/a/20250111A01U2700"],"created":1794629683,"id":"chatcmpl-7b2a9383-b1a1-919d-b8dd-fe601f4aaedf","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"指的是泰国警方将其","reasoning_content":""},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://view.inews.qq.com/a/20250111A01U2700"],"created":1794629683,"id":"chatcmpl-7b2a9383-b1a1-919d-b8dd-fe601f4aaedf","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"从","reasoning_content":""},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://view.inews.qq.com/a/20250111A01U2700"],"created":1794629683,"id":"chatcmpl-7b2a9383-b1a1-919d-b8dd-fe601f4aaedf","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"失联地点/边境","reasoning_content":""},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://view.inews.qq.com/a/20250111A01U2700"],"created":1794629683,"id":"chatcmpl-7b2a9383-b1a1-919d-b8dd-fe601f4aaedf","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"相关区域带回泰国","reasoning_content":""},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://view.inews.qq.com/a/20250111A01U2700"],"created":1794629683,"id":"chatcmpl-7b2a9383-b1a1-919d-b8dd-fe601f4aaedf","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"控制","reasoning_content":""},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://view.inews.qq.com/a/20250111A01U2700"],"created":1794629683,"id":"chatcmpl-7b2a9383-b1a1-919d-b8dd-fe601f4aaedf","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"或安全区域。","reasoning_content":""},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://view.inews.qq.com/a/20250111A01U2700"],"created":1794629683,"id":"chatcmpl-7b2a9383-b1a1-919d-b8dd-fe601f4aaedf","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"[","reasoning_content":""},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://view.inews.qq.com/a/20250111A01U2700"],"created":1794629683,"id":"chatcmpl-7b2a9383-b1a1-919d-b8dd-fe601f4aaedf","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"1]\n\n3","reasoning_content":""},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://view.inews.qq.com/a/20250111A01U2700"],"created":1794629683,"id":"chatcmpl-7b2a9383-b1a1-919d-b8dd-fe601f4aaedf","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":". **1月","reasoning_content":""},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://view.inews.qq.com/a/20250111A01U2700"],"created":1794629683,"id":"chatcmpl-7b2a9383-b1a1-919d-b8dd-fe601f4aaedf","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"11日：","reasoning_content":""},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://view.inews.qq.com/a/20250111A01U2700"],"created":1794629683,"id":"chatcmpl-7b2a9383-b1a1-919d-b8dd-fe601f4aaedf","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"乘机返回中国，","reasoning_content":""},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://view.inews.qq.com/a/20250111A01U2700"],"created":1794629683,"id":"chatcmpl-7b2a9383-b1a1-919d-b8dd-fe601f4aaedf","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"抵达上海**  \n","reasoning_content":""},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://view.inews.qq.com/a/20250111A01U2700"],"created":1794629683,"id":"chatcmpl-7b2a9383-b1a1-919d-b8dd-fe601f4aaedf","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"   央视新闻","reasoning_content":""},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://view.inews.qq.com/a/20250111A01U2700"],"created":1794629683,"id":"chatcmpl-7b2a9383-b1a1-919d-b8dd-fe601f4aaedf","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"消息称，王星所","reasoning_content":""},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://view.inews.qq.com/a/20250111A01U2700"],"created":1794629683,"id":"chatcmpl-7b2a9383-b1a1-919d-b8dd-fe601f4aaedf","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"乘回国航班已于","reasoning_content":""},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://view.inews.qq.com/a/20250111A01U2700"],"created":1794629683,"id":"chatcmpl-7b2a9383-b1a1-919d-b8dd-fe601f4aaedf","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"北京时间1月1","reasoning_content":""},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://view.inews.qq.com/a/20250111A01U2700"],"created":1794629683,"id":"chatcmpl-7b2a9383-b1a1-919d-b8dd-fe601f4aaedf","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"1日00","reasoning_content":""},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://view.inews.qq.com/a/20250111A01U2700"],"created":1794629683,"id":"chatcmpl-7b2a9383-b1a1-919d-b8dd-fe601f4aaedf","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":":55抵达","reasoning_content":""},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://view.inews.qq.com/a/20250111A01U2700"],"created":1794629683,"id":"chatcmpl-7b2a9383-b1a1-919d-b8dd-fe601f4aaedf","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"上海浦东国际机场。","reasoning_content":""},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://view.inews.qq.com/a/20250111A01U2700"],"created":1794629683,"id":"chatcmpl-7b2a9383-b1a1-919d-b8dd-fe601f4aaedf","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"同日王星发文称","reasoning_content":""},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://view.inews.qq.com/a/20250111A01U2700"],"created":1794629683,"id":"chatcmpl-7b2a9383-b1a1-919d-b8dd-fe601f4aaedf","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"“","reasoning_content":""},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://view.inews.qq.com/a/20250111A01U2700"],"created":1794629683,"id":"chatcmpl-7b2a9383-b1a1-919d-b8dd-fe601f4aaedf","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"已经回到祖国的怀抱","reasoning_content":""},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://view.inews.qq.com/a/20250111A01U2700"],"created":1794629683,"id":"chatcmpl-7b2a9383-b1a1-919d-b8dd-fe601f4aaedf","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"”。","reasoning_content":""},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://view.inews.qq.com/a/20250111A01U2700"],"created":1794629683,"id":"chatcmpl-7b2a9383-b1a1-919d-b8dd-fe601f4aaedf","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"这里的“回国”","reasoning_content":""},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://view.inews.qq.com/a/20250111A01U2700"],"created":1794629683,"id":"chatcmpl-7b2a9383-b1a1-919d-b8dd-fe601f4aaedf","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"是指","reasoning_content":""},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://view.inews.qq.com/a/20250111A01U2700"],"created":1794629683,"id":"chatcmpl-7b2a9383-b1a1-919d-b8dd-fe601f4aaedf","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"他从泰国返回中国","reasoning_content":""},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://view.inews.qq.com/a/20250111A01U2700"],"created":1794629683,"id":"chatcmpl-7b2a9383-b1a1-919d-b8dd-fe601f4aaedf","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"。","reasoning_content":""},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://view.inews.qq.com/a/20250111A01U2700"],"created":1794629683,"id":"chatcmpl-7b2a9383-b1a1-919d-b8dd-fe601f4aaedf","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"[1]\n\n","reasoning_content":""},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://view.inews.qq.com/a/20250111A01U2700"],"created":1794629683,"id":"chatcmpl-7b2a9383-b1a1-919d-b8dd-fe601f4aaedf","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"简而言之：**1","reasoning_content":""},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://view.inews.qq.com/a/20250111A01U2700"],"created":1794629683,"id":"chatcmpl-7b2a9383-b1a1-919d-b8dd-fe601f4aaedf","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"月7日是","reasoning_content":""},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://view.inews.qq.com/a/20250111A01U2700"],"created":1794629683,"id":"chatcmpl-7b2a9383-b1a1-919d-b8dd-fe601f4aaedf","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"泰国警方在泰国","reasoning_content":""},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://view.inews.qq.com/a/20250111A01U2700"],"created":1794629683,"id":"chatcmpl-7b2a9383-b1a1-919d-b8dd-fe601f4aaedf","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"/","reasoning_content":""},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://view.inews.qq.com/a/20250111A01U2700"],"created":1794629683,"id":"chatcmpl-7b2a9383-b1a1-919d-b8dd-fe601f4aaedf","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"泰缅边境处置","reasoning_content":""},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://view.inews.qq.com/a/20250111A01U2700"],"created":1794629683,"id":"chatcmpl-7b2a9383-b1a1-919d-b8dd-fe601f4aaedf","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"中把他接回","reasoning_content":""},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://view.inews.qq.com/a/20250111A01U2700"],"created":1794629683,"id":"chatcmpl-7b2a9383-b1a1-919d-b8dd-fe601f4aaedf","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"泰国安全区域；","reasoning_content":""},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://view.inews.qq.com/a/20250111A01U2700"],"created":1794629683,"id":"chatcmpl-7b2a9383-b1a1-919d-b8dd-fe601f4aaedf","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"1月","reasoning_content":""},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://view.inews.qq.com/a/20250111A01U2700"],"created":1794629683,"id":"chatcmpl-7b2a9383-b1a1-919d-b8dd-fe601f4aaedf","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"11日是他","reasoning_content":""},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://view.inews.qq.com/a/20250111A01U2700"],"created":1794629683,"id":"chatcmpl-7b2a9383-b1a1-919d-b8dd-fe601f4aaedf","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"结束泰国","reasoning_content":""},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://view.inews.qq.com/a/20250111A01U2700"],"created":1794629683,"id":"chatcmpl-7b2a9383-b1a1-919d-b8dd-fe601f4aaedf","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"方面程序后返回","reasoning_content":""},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://view.inews.qq.com/a/20250111A01U2700"],"created":1794629683,"id":"chatcmpl-7b2a9383-b1a1-919d-b8dd-fe601f4aaedf","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"中国","reasoning_content":""},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://view.inews.qq.com/a/20250111A01U2700"],"created":1794629683,"id":"chatcmpl-7b2a9383-b1a1-919d-b8dd-fe601f4aaedf","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"并落地上海。**","reasoning_content":""},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://view.inews.qq.com/a/20250111A01U2700"],"created":1794629683,"id":"chatcmpl-7b2a9383-b1a1-919d-b8dd-fe601f4aaedf","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"[","reasoning_content":""},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://view.inews.qq.com/a/20250111A01U2700"],"created":1794629683,"id":"chatcmpl-7b2a9383-b1a1-919d-b8dd-fe601f4aaedf","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"1]","reasoning_content":""},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://view.inews.qq.com/a/20250111A01U2700"],"created":1794629683,"id":"chatcmpl-7b2a9383-b1a1-919d-b8dd-fe601f4aaedf","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":""},"finish_reason":"stop","index":0,"logprobs":null}],"citations":["https://view.inews.qq.com/a/20250111A01U2700"],"created":1794629683,"id":"chatcmpl-7b2a9383-b1a1-919d-b8dd-fe601f4aaedf","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[],"citations":["https://view.inews.qq.com/a/20250111A01U2700"],"created":1794629683,"id":"chatcmpl-7b2a9383-b1a1-919d-b8dd-fe601f4aaedf","model":"qwen3.8-max","object":"chat.completion.chunk","usage":{"completion_tokens":1500,"completion_tokens_details":{"reasoning_tokens":1167,"text_tokens":1500},"prompt_tokens":821,"prompt_tokens_details":{"cached_tokens":0,"text_tokens":821},"total_tokens":2321}}
+
+data: [DONE]
+

@@ -1,0 +1,57 @@
+{
+  "task_id": "T0113",
+  "model": "deepseek",
+  "news_id": "E009",
+  "question_index": 4,
+  "question_original": "【事实】2026年3月，Meta收购的是Moltbook还是OpenClaw？",
+  "question": "2026年3月，Meta收购的是Moltbook还是OpenClaw？",
+  "attempt": 1,
+  "provider": "302.ai",
+  "model_requested": "deepseek-flash",
+  "query_date": "2026-11-14",
+  "search_service": "metaso",
+  "prompt_version": "news-search-v1",
+  "prompt_sha256": "ea56fd5557d32615a9115f2368a0c4983ff1188f4935369e694d7d46f2493be1",
+  "requested_at": "2026-11-14T11:31:55.760725+08:00",
+  "raw_file": "raw/T0113_deepseek_a001_919a2f.json",
+  "transport": "sse",
+  "stream_file": "raw/T0113_deepseek_a001_919a2f.sse",
+  "status": "ok",
+  "model_returned": "deepseek-flash",
+  "answer": "Meta 收购的是 **Moltbook**（专为 OpenClaw 打造的社交网络），而不是 **OpenClaw** 本身。\n\n- Moltbook 被 Meta 正式收购，交易完成后并入 Meta 超级智能实验室（MSL），其创始人 Matt Schlicht 与 Ben Parr 也加入该实验室[1]。\n- Moltbook 的定位是“专为 OpenClaw 打造的机器人社交网络”，属于围绕 OpenClaw 生态的应用和社区，并非驱动 OpenClaw 的核心技术[4]。\n- OpenClaw 是一个开源项目，其创始人彼得·斯坦伯格（Peter Steinberger）被 OpenAI 招揽，因此核心人物和技术路线归于 OpenAI，而 Meta 收购的是外围生态[4]。\n\n简而言之：Meta 收购的是 **Moltbook**，即 OpenClaw 专属社交网络；OpenClaw 本身没有被 Meta 收购。",
+  "sources": [
+    {
+      "index": 1,
+      "url": "https://news.qq.com/rain/a/20260311A03VV000",
+      "title": null,
+      "origin": "citations"
+    },
+    {
+      "index": 2,
+      "url": "https://ishare.ifeng.com/c/s/v002tKkOjrHeEoaYZzLCOtmZaGKWkkS6ax3EIZkp2LbCT-_I__",
+      "title": null,
+      "origin": "citations"
+    },
+    {
+      "index": 3,
+      "url": "https://cj.sina.com.cn/articles/view/5953189932/162d6782c06703xfo2",
+      "title": null,
+      "origin": "citations"
+    }
+  ],
+  "usage": {
+    "completion_tokens": 438,
+    "completion_tokens_details": {
+      "reasoning_tokens": 247
+    },
+    "prompt_tokens": 1052,
+    "prompt_tokens_details": {
+      "cached_tokens": 0
+    },
+    "total_tokens": 1490
+  },
+  "finish_reason": "stop",
+  "note": [],
+  "request_id": "290e34ff-09c3-403b-854d-774eb174263f",
+  "duration_seconds": 4.656
+}

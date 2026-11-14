@@ -1,0 +1,554 @@
+data: {"choices":[{"delta":{"content":"","reasoning_content":"","role":"assistant"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.chinanews.com.cn/gn/2026/07-21/10663521.shtml","https://news.qq.com/rain/a/20260528A06U0900"],"created":1794627879,"id":"chatcmpl-328a1098-a292-9100-af09-708df276b7d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"我们需要"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.chinanews.com.cn/gn/2026/07-21/10663521.shtml","https://news.qq.com/rain/a/20260528A06U0900"],"created":1794627879,"id":"chatcmpl-328a1098-a292-9100-af09-708df276b7d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"回答用户问题："},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.chinanews.com.cn/gn/2026/07-21/10663521.shtml","https://news.qq.com/rain/a/20260528A06U0900"],"created":1794627879,"id":"chatcmpl-328a1098-a292-9100-af09-708df276b7d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"2025"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.chinanews.com.cn/gn/2026/07-21/10663521.shtml","https://news.qq.com/rain/a/20260528A06U0900"],"created":1794627879,"id":"chatcmpl-328a1098-a292-9100-af09-708df276b7d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"年已领过"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.chinanews.com.cn/gn/2026/07-21/10663521.shtml","https://news.qq.com/rain/a/20260528A06U0900"],"created":1794627879,"id":"chatcmpl-328a1098-a292-9100-af09-708df276b7d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"育儿补贴，2"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.chinanews.com.cn/gn/2026/07-21/10663521.shtml","https://news.qq.com/rain/a/20260528A06U0900"],"created":1794627879,"id":"chatcmpl-328a1098-a292-9100-af09-708df276b7d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"026年"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.chinanews.com.cn/gn/2026/07-21/10663521.shtml","https://news.qq.com/rain/a/20260528A06U0900"],"created":1794627879,"id":"chatcmpl-328a1098-a292-9100-af09-708df276b7d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"还符合条件、信息"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.chinanews.com.cn/gn/2026/07-21/10663521.shtml","https://news.qq.com/rain/a/20260528A06U0900"],"created":1794627879,"id":"chatcmpl-328a1098-a292-9100-af09-708df276b7d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"也没变化，能不能"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.chinanews.com.cn/gn/2026/07-21/10663521.shtml","https://news.qq.com/rain/a/20260528A06U0900"],"created":1794627879,"id":"chatcmpl-328a1098-a292-9100-af09-708df276b7d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"直接续领？"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.chinanews.com.cn/gn/2026/07-21/10663521.shtml","https://news.qq.com/rain/a/20260528A06U0900"],"created":1794627879,"id":"chatcmpl-328a1098-a292-9100-af09-708df276b7d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"必须基于给定搜索结果"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.chinanews.com.cn/gn/2026/07-21/10663521.shtml","https://news.qq.com/rain/a/20260528A06U0900"],"created":1794627879,"id":"chatcmpl-328a1098-a292-9100-af09-708df276b7d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"。需要自然"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.chinanews.com.cn/gn/2026/07-21/10663521.shtml","https://news.qq.com/rain/a/20260528A06U0900"],"created":1794627879,"id":"chatcmpl-328a1098-a292-9100-af09-708df276b7d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"中文，先直接"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.chinanews.com.cn/gn/2026/07-21/10663521.shtml","https://news.qq.com/rain/a/20260528A06U0900"],"created":1794627879,"id":"chatcmpl-328a1098-a292-9100-af09-708df276b7d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"回答，"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.chinanews.com.cn/gn/2026/07-21/10663521.shtml","https://news.qq.com/rain/a/20260528A06U0900"],"created":1794627879,"id":"chatcmpl-328a1098-a292-9100-af09-708df276b7d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"再补充事实背景"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.chinanews.com.cn/gn/2026/07-21/10663521.shtml","https://news.qq.com/rain/a/20260528A06U0900"],"created":1794627879,"id":"chatcmpl-328a1098-a292-9100-af09-708df276b7d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"。引用编号在"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.chinanews.com.cn/gn/2026/07-21/10663521.shtml","https://news.qq.com/rain/a/20260528A06U0900"],"created":1794627879,"id":"chatcmpl-328a1098-a292-9100-af09-708df276b7d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"句子末尾。今天是"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.chinanews.com.cn/gn/2026/07-21/10663521.shtml","https://news.qq.com/rain/a/20260528A06U0900"],"created":1794627879,"id":"chatcmpl-328a1098-a292-9100-af09-708df276b7d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"2026"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.chinanews.com.cn/gn/2026/07-21/10663521.shtml","https://news.qq.com/rain/a/20260528A06U0900"],"created":1794627879,"id":"chatcmpl-328a1098-a292-9100-af09-708df276b7d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"-11-"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.chinanews.com.cn/gn/2026/07-21/10663521.shtml","https://news.qq.com/rain/a/20260528A06U0900"],"created":1794627879,"id":"chatcmpl-328a1098-a292-9100-af09-708df276b7d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"14。资料"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.chinanews.com.cn/gn/2026/07-21/10663521.shtml","https://news.qq.com/rain/a/20260528A06U0900"],"created":1794627879,"id":"chatcmpl-328a1098-a292-9100-af09-708df276b7d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"：webpage2"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.chinanews.com.cn/gn/2026/07-21/10663521.shtml","https://news.qq.com/rain/a/20260528A06U0900"],"created":1794627879,"id":"chatcmpl-328a1098-a292-9100-af09-708df276b7d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"：截至目前20"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.chinanews.com.cn/gn/2026/07-21/10663521.shtml","https://news.qq.com/rain/a/20260528A06U0900"],"created":1794627879,"id":"chatcmpl-328a1098-a292-9100-af09-708df276b7d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"26年度育儿"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.chinanews.com.cn/gn/2026/07-21/10663521.shtml","https://news.qq.com/rain/a/20260528A06U0900"],"created":1794627879,"id":"chatcmpl-328a1098-a292-9100-af09-708df276b7d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"补贴申请、审核"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.chinanews.com.cn/gn/2026/07-21/10663521.shtml","https://news.qq.com/rain/a/20260528A06U0900"],"created":1794627879,"id":"chatcmpl-328a1098-a292-9100-af09-708df276b7d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"、发放数据"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.chinanews.com.cn/gn/2026/07-21/10663521.shtml","https://news.qq.com/rain/a/20260528A06U0900"],"created":1794627879,"id":"chatcmpl-328a1098-a292-9100-af09-708df276b7d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"；近日国家卫健委"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.chinanews.com.cn/gn/2026/07-21/10663521.shtml","https://news.qq.com/rain/a/20260528A06U0900"],"created":1794627879,"id":"chatcmpl-328a1098-a292-9100-af09-708df276b7d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"、财政部通知，"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.chinanews.com.cn/gn/2026/07-21/10663521.shtml","https://news.qq.com/rain/a/20260528A06U0900"],"created":1794627879,"id":"chatcmpl-328a1098-a292-9100-af09-708df276b7d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"将202"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.chinanews.com.cn/gn/2026/07-21/10663521.shtml","https://news.qq.com/rain/a/20260528A06U0900"],"created":1794627879,"id":"chatcmpl-328a1098-a292-9100-af09-708df276b7d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"2-20"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.chinanews.com.cn/gn/2026/07-21/10663521.shtml","https://news.qq.com/rain/a/20260528A06U0900"],"created":1794627879,"id":"chatcmpl-328a1098-a292-9100-af09-708df276b7d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"24年出生婴幼儿"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.chinanews.com.cn/gn/2026/07-21/10663521.shtml","https://news.qq.com/rain/a/20260528A06U0900"],"created":1794627879,"id":"chatcmpl-328a1098-a292-9100-af09-708df276b7d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"首次育儿补贴申请"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.chinanews.com.cn/gn/2026/07-21/10663521.shtml","https://news.qq.com/rain/a/20260528A06U0900"],"created":1794627879,"id":"chatcmpl-328a1098-a292-9100-af09-708df276b7d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"截止时间延长至2"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.chinanews.com.cn/gn/2026/07-21/10663521.shtml","https://news.qq.com/rain/a/20260528A06U0900"],"created":1794627879,"id":"chatcmpl-328a1098-a292-9100-af09-708df276b7d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"026-"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.chinanews.com.cn/gn/2026/07-21/10663521.shtml","https://news.qq.com/rain/a/20260528A06U0900"],"created":1794627879,"id":"chatcmpl-328a1098-a292-9100-af09-708df276b7d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"12-3"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.chinanews.com.cn/gn/2026/07-21/10663521.shtml","https://news.qq.com/rain/a/20260528A06U0900"],"created":1794627879,"id":"chatcmpl-328a1098-a292-9100-af09-708df276b7d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"1。符合条件可"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.chinanews.com.cn/gn/2026/07-21/10663521.shtml","https://news.qq.com/rain/a/20260528A06U0900"],"created":1794627879,"id":"chatcmpl-328a1098-a292-9100-af09-708df276b7d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"规定时间通过支付宝"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.chinanews.com.cn/gn/2026/07-21/10663521.shtml","https://news.qq.com/rain/a/20260528A06U0900"],"created":1794627879,"id":"chatcmpl-328a1098-a292-9100-af09-708df276b7d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"、"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.chinanews.com.cn/gn/2026/07-21/10663521.shtml","https://news.qq.com/rain/a/20260528A06U0900"],"created":1794627879,"id":"chatcmpl-328a1098-a292-9100-af09-708df276b7d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"微信、省级政务"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.chinanews.com.cn/gn/2026/07-21/10663521.shtml","https://news.qq.com/rain/a/20260528A06U0900"],"created":1794627879,"id":"chatcmpl-328a1098-a292-9100-af09-708df276b7d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"平台登录系统，"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.chinanews.com.cn/gn/2026/07-21/10663521.shtml","https://news.qq.com/rain/a/20260528A06U0900"],"created":1794627879,"id":"chatcmpl-328a1098-a292-9100-af09-708df276b7d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"进入"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.chinanews.com.cn/gn/2026/07-21/10663521.shtml","https://news.qq.com/rain/a/20260528A06U0900"],"created":1794627879,"id":"chatcmpl-328a1098-a292-9100-af09-708df276b7d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"“202"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.chinanews.com.cn/gn/2026/07-21/10663521.shtml","https://news.qq.com/rain/a/20260528A06U0900"],"created":1794627879,"id":"chatcmpl-328a1098-a292-9100-af09-708df276b7d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"2-20"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.chinanews.com.cn/gn/2026/07-21/10663521.shtml","https://news.qq.com/rain/a/20260528A06U0900"],"created":1794627879,"id":"chatcmpl-328a1098-a292-9100-af09-708df276b7d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"24年延长"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.chinanews.com.cn/gn/2026/07-21/10663521.shtml","https://news.qq.com/rain/a/20260528A06U0900"],"created":1794627879,"id":"chatcmpl-328a1098-a292-9100-af09-708df276b7d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"申请通道”提交"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.chinanews.com.cn/gn/2026/07-21/10663521.shtml","https://news.qq.com/rain/a/20260528A06U0900"],"created":1794627879,"id":"chatcmpl-328a1098-a292-9100-af09-708df276b7d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"申请。系统"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.chinanews.com.cn/gn/2026/07-21/10663521.shtml","https://news.qq.com/rain/a/20260528A06U0900"],"created":1794627879,"id":"chatcmpl-328a1098-a292-9100-af09-708df276b7d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"不断优化，20"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.chinanews.com.cn/gn/2026/07-21/10663521.shtml","https://news.qq.com/rain/a/20260528A06U0900"],"created":1794627879,"id":"chatcmpl-328a1098-a292-9100-af09-708df276b7d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"2"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.chinanews.com.cn/gn/2026/07-21/10663521.shtml","https://news.qq.com/rain/a/20260528A06U0900"],"created":1794627879,"id":"chatcmpl-328a1098-a292-9100-af09-708df276b7d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"6年新增“"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.chinanews.com.cn/gn/2026/07-21/10663521.shtml","https://news.qq.com/rain/a/20260528A06U0900"],"created":1794627879,"id":"chatcmpl-328a1098-a292-9100-af09-708df276b7d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"一键"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.chinanews.com.cn/gn/2026/07-21/10663521.shtml","https://news.qq.com/rain/a/20260528A06U0900"],"created":1794627879,"id":"chatcmpl-328a1098-a292-9100-af09-708df276b7d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"续领”功能"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.chinanews.com.cn/gn/2026/07-21/10663521.shtml","https://news.qq.com/rain/a/20260528A06U0900"],"created":1794627879,"id":"chatcmpl-328a1098-a292-9100-af09-708df276b7d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"，群众可便捷"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.chinanews.com.cn/gn/2026/07-21/10663521.shtml","https://news.qq.com/rain/a/20260528A06U0900"],"created":1794627879,"id":"chatcmpl-328a1098-a292-9100-af09-708df276b7d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"完成续领"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.chinanews.com.cn/gn/2026/07-21/10663521.shtml","https://news.qq.com/rain/a/20260528A06U0900"],"created":1794627879,"id":"chatcmpl-328a1098-a292-9100-af09-708df276b7d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"申请。webpage"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.chinanews.com.cn/gn/2026/07-21/10663521.shtml","https://news.qq.com/rain/a/20260528A06U0900"],"created":1794627879,"id":"chatcmpl-328a1098-a292-9100-af09-708df276b7d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"4：补贴对象"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.chinanews.com.cn/gn/2026/07-21/10663521.shtml","https://news.qq.com/rain/a/20260528A06U0900"],"created":1794627879,"id":"chatcmpl-328a1098-a292-9100-af09-708df276b7d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"：202"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.chinanews.com.cn/gn/2026/07-21/10663521.shtml","https://news.qq.com/rain/a/20260528A06U0900"],"created":1794627879,"id":"chatcmpl-328a1098-a292-9100-af09-708df276b7d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"5年1月"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.chinanews.com.cn/gn/2026/07-21/10663521.shtml","https://news.qq.com/rain/a/20260528A06U0900"],"created":1794627879,"id":"chatcmpl-328a1098-a292-9100-af09-708df276b7d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"1日起符合法律法规"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.chinanews.com.cn/gn/2026/07-21/10663521.shtml","https://news.qq.com/rain/a/20260528A06U0900"],"created":1794627879,"id":"chatcmpl-328a1098-a292-9100-af09-708df276b7d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"规定生育或收养"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.chinanews.com.cn/gn/2026/07-21/10663521.shtml","https://news.qq.com/rain/a/20260528A06U0900"],"created":1794627879,"id":"chatcmpl-328a1098-a292-9100-af09-708df276b7d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"的3周岁以下婴幼儿"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.chinanews.com.cn/gn/2026/07-21/10663521.shtml","https://news.qq.com/rain/a/20260528A06U0900"],"created":1794627879,"id":"chatcmpl-328a1098-a292-9100-af09-708df276b7d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"。202"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.chinanews.com.cn/gn/2026/07-21/10663521.shtml","https://news.qq.com/rain/a/20260528A06U0900"],"created":1794627879,"id":"chatcmpl-328a1098-a292-9100-af09-708df276b7d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"2年出生婴幼儿已于"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.chinanews.com.cn/gn/2026/07-21/10663521.shtml","https://news.qq.com/rain/a/20260528A06U0900"],"created":1794627879,"id":"chatcmpl-328a1098-a292-9100-af09-708df276b7d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"2025"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.chinanews.com.cn/gn/2026/07-21/10663521.shtml","https://news.qq.com/rain/a/20260528A06U0900"],"created":1794627879,"id":"chatcmpl-328a1098-a292-9100-af09-708df276b7d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"年内申领完毕，"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.chinanews.com.cn/gn/2026/07-21/10663521.shtml","https://news.qq.com/rain/a/20260528A06U0900"],"created":1794627879,"id":"chatcmpl-328a1098-a292-9100-af09-708df276b7d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"2023"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.chinanews.com.cn/gn/2026/07-21/10663521.shtml","https://news.qq.com/rain/a/20260528A06U0900"],"created":1794627879,"id":"chatcmpl-328a1098-a292-9100-af09-708df276b7d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"年1月1"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.chinanews.com.cn/gn/2026/07-21/10663521.shtml","https://news.qq.com/rain/a/20260528A06U0900"],"created":1794627879,"id":"chatcmpl-328a1098-a292-9100-af09-708df276b7d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"日后出生婴幼儿2"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.chinanews.com.cn/gn/2026/07-21/10663521.shtml","https://news.qq.com/rain/a/20260528A06U0900"],"created":1794627879,"id":"chatcmpl-328a1098-a292-9100-af09-708df276b7d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"02"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.chinanews.com.cn/gn/2026/07-21/10663521.shtml","https://news.qq.com/rain/a/20260528A06U0900"],"created":1794627879,"id":"chatcmpl-328a1098-a292-9100-af09-708df276b7d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"6年内可按应"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.chinanews.com.cn/gn/2026/07-21/10663521.shtml","https://news.qq.com/rain/a/20260528A06U0900"],"created":1794627879,"id":"chatcmpl-328a1098-a292-9100-af09-708df276b7d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"补贴月数折算"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.chinanews.com.cn/gn/2026/07-21/10663521.shtml","https://news.qq.com/rain/a/20260528A06U0900"],"created":1794627879,"id":"chatcmpl-328a1098-a292-9100-af09-708df276b7d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"申领。申领条件"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.chinanews.com.cn/gn/2026/07-21/10663521.shtml","https://news.qq.com/rain/a/20260528A06U0900"],"created":1794627879,"id":"chatcmpl-328a1098-a292-9100-af09-708df276b7d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"：父母"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.chinanews.com.cn/gn/2026/07-21/10663521.shtml","https://news.qq.com/rain/a/20260528A06U0900"],"created":1794627879,"id":"chatcmpl-328a1098-a292-9100-af09-708df276b7d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"一方或抚养权"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.chinanews.com.cn/gn/2026/07-21/10663521.shtml","https://news.qq.com/rain/a/20260528A06U0900"],"created":1794627879,"id":"chatcmpl-328a1098-a292-9100-af09-708df276b7d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"监护人等"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.chinanews.com.cn/gn/2026/07-21/10663521.shtml","https://news.qq.com/rain/a/20260528A06U0900"],"created":1794627879,"id":"chatcmpl-328a1098-a292-9100-af09-708df276b7d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"。用户问："},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.chinanews.com.cn/gn/2026/07-21/10663521.shtml","https://news.qq.com/rain/a/20260528A06U0900"],"created":1794627879,"id":"chatcmpl-328a1098-a292-9100-af09-708df276b7d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"202"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.chinanews.com.cn/gn/2026/07-21/10663521.shtml","https://news.qq.com/rain/a/20260528A06U0900"],"created":1794627879,"id":"chatcmpl-328a1098-a292-9100-af09-708df276b7d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"5年已领"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.chinanews.com.cn/gn/2026/07-21/10663521.shtml","https://news.qq.com/rain/a/20260528A06U0900"],"created":1794627879,"id":"chatcmpl-328a1098-a292-9100-af09-708df276b7d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"过育儿补贴，"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.chinanews.com.cn/gn/2026/07-21/10663521.shtml","https://news.qq.com/rain/a/20260528A06U0900"],"created":1794627879,"id":"chatcmpl-328a1098-a292-9100-af09-708df276b7d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"2026"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.chinanews.com.cn/gn/2026/07-21/10663521.shtml","https://news.qq.com/rain/a/20260528A06U0900"],"created":1794627879,"id":"chatcmpl-328a1098-a292-9100-af09-708df276b7d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"年还符合条件、"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.chinanews.com.cn/gn/2026/07-21/10663521.shtml","https://news.qq.com/rain/a/20260528A06U0900"],"created":1794627879,"id":"chatcmpl-328a1098-a292-9100-af09-708df276b7d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"信息没变化，"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.chinanews.com.cn/gn/2026/07-21/10663521.shtml","https://news.qq.com/rain/a/20260528A06U0900"],"created":1794627879,"id":"chatcmpl-328a1098-a292-9100-af09-708df276b7d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"能不能直接续领"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.chinanews.com.cn/gn/2026/07-21/10663521.shtml","https://news.qq.com/rain/a/20260528A06U0900"],"created":1794627879,"id":"chatcmpl-328a1098-a292-9100-af09-708df276b7d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"？需要判断："},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.chinanews.com.cn/gn/2026/07-21/10663521.shtml","https://news.qq.com/rain/a/20260528A06U0900"],"created":1794627879,"id":"chatcmpl-328a1098-a292-9100-af09-708df276b7d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"根据"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.chinanews.com.cn/gn/2026/07-21/10663521.shtml","https://news.qq.com/rain/a/20260528A06U0900"],"created":1794627879,"id":"chatcmpl-328a1098-a292-9100-af09-708df276b7d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"webpage2有"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.chinanews.com.cn/gn/2026/07-21/10663521.shtml","https://news.qq.com/rain/a/20260528A06U0900"],"created":1794627879,"id":"chatcmpl-328a1098-a292-9100-af09-708df276b7d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"“202"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.chinanews.com.cn/gn/2026/07-21/10663521.shtml","https://news.qq.com/rain/a/20260528A06U0900"],"created":1794627879,"id":"chatcmpl-328a1098-a292-9100-af09-708df276b7d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"6年"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.chinanews.com.cn/gn/2026/07-21/10663521.shtml","https://news.qq.com/rain/a/20260528A06U0900"],"created":1794627879,"id":"chatcmpl-328a1098-a292-9100-af09-708df276b7d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"新增‘一键续"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.chinanews.com.cn/gn/2026/07-21/10663521.shtml","https://news.qq.com/rain/a/20260528A06U0900"],"created":1794627879,"id":"chatcmpl-328a1098-a292-9100-af09-708df276b7d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"领’"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.chinanews.com.cn/gn/2026/07-21/10663521.shtml","https://news.qq.com/rain/a/20260528A06U0900"],"created":1794627879,"id":"chatcmpl-328a1098-a292-9100-af09-708df276b7d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"功能，群众可以"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.chinanews.com.cn/gn/2026/07-21/10663521.shtml","https://news.qq.com/rain/a/20260528A06U0900"],"created":1794627879,"id":"chatcmpl-328a1098-a292-9100-af09-708df276b7d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"便捷地完成续领"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.chinanews.com.cn/gn/2026/07-21/10663521.shtml","https://news.qq.com/rain/a/20260528A06U0900"],"created":1794627879,"id":"chatcmpl-328a1098-a292-9100-af09-708df276b7d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"申请。”说明可以"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.chinanews.com.cn/gn/2026/07-21/10663521.shtml","https://news.qq.com/rain/a/20260528A06U0900"],"created":1794627879,"id":"chatcmpl-328a1098-a292-9100-af09-708df276b7d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"续领，"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.chinanews.com.cn/gn/2026/07-21/10663521.shtml","https://news.qq.com/rain/a/20260528A06U0900"],"created":1794627879,"id":"chatcmpl-328a1098-a292-9100-af09-708df276b7d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"但可能不是完全"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.chinanews.com.cn/gn/2026/07-21/10663521.shtml","https://news.qq.com/rain/a/20260528A06U0900"],"created":1794627879,"id":"chatcmpl-328a1098-a292-9100-af09-708df276b7d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"自动直接发放，"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.chinanews.com.cn/gn/2026/07-21/10663521.shtml","https://news.qq.com/rain/a/20260528A06U0900"],"created":1794627879,"id":"chatcmpl-328a1098-a292-9100-af09-708df276b7d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"需要通过"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.chinanews.com.cn/gn/2026/07-21/10663521.shtml","https://news.qq.com/rain/a/20260528A06U0900"],"created":1794627879,"id":"chatcmpl-328a1098-a292-9100-af09-708df276b7d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"系统一键续领"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.chinanews.com.cn/gn/2026/07-21/10663521.shtml","https://news.qq.com/rain/a/20260528A06U0900"],"created":1794627879,"id":"chatcmpl-328a1098-a292-9100-af09-708df276b7d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"完成"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.chinanews.com.cn/gn/2026/07-21/10663521.shtml","https://news.qq.com/rain/a/20260528A06U0900"],"created":1794627879,"id":"chatcmpl-328a1098-a292-9100-af09-708df276b7d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"申请。需要谨慎"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.chinanews.com.cn/gn/2026/07-21/10663521.shtml","https://news.qq.com/rain/a/20260528A06U0900"],"created":1794627879,"id":"chatcmpl-328a1098-a292-9100-af09-708df276b7d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"：资料没有明确"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.chinanews.com.cn/gn/2026/07-21/10663521.shtml","https://news.qq.com/rain/a/20260528A06U0900"],"created":1794627879,"id":"chatcmpl-328a1098-a292-9100-af09-708df276b7d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"说"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.chinanews.com.cn/gn/2026/07-21/10663521.shtml","https://news.qq.com/rain/a/20260528A06U0900"],"created":1794627879,"id":"chatcmpl-328a1098-a292-9100-af09-708df276b7d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"“无需操作直接"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.chinanews.com.cn/gn/2026/07-21/10663521.shtml","https://news.qq.com/rain/a/20260528A06U0900"],"created":1794627879,"id":"chatcmpl-328a1098-a292-9100-af09-708df276b7d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"续领”，只"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.chinanews.com.cn/gn/2026/07-21/10663521.shtml","https://news.qq.com/rain/a/20260528A06U0900"],"created":1794627879,"id":"chatcmpl-328a1098-a292-9100-af09-708df276b7d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"说一键"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.chinanews.com.cn/gn/2026/07-21/10663521.shtml","https://news.qq.com/rain/a/20260528A06U0900"],"created":1794627879,"id":"chatcmpl-328a1098-a292-9100-af09-708df276b7d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"续领便捷完成"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.chinanews.com.cn/gn/2026/07-21/10663521.shtml","https://news.qq.com/rain/a/20260528A06U0900"],"created":1794627879,"id":"chatcmpl-328a1098-a292-9100-af09-708df276b7d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"续领申请"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.chinanews.com.cn/gn/2026/07-21/10663521.shtml","https://news.qq.com/rain/a/20260528A06U0900"],"created":1794627879,"id":"chatcmpl-328a1098-a292-9100-af09-708df276b7d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"。所以回答："},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.chinanews.com.cn/gn/2026/07-21/10663521.shtml","https://news.qq.com/rain/a/20260528A06U0900"],"created":1794627879,"id":"chatcmpl-328a1098-a292-9100-af09-708df276b7d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"通常"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.chinanews.com.cn/gn/2026/07-21/10663521.shtml","https://news.qq.com/rain/a/20260528A06U0900"],"created":1794627879,"id":"chatcmpl-328a1098-a292-9100-af09-708df276b7d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"可以，通过育儿"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.chinanews.com.cn/gn/2026/07-21/10663521.shtml","https://news.qq.com/rain/a/20260528A06U0900"],"created":1794627879,"id":"chatcmpl-328a1098-a292-9100-af09-708df276b7d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"补贴信息管理系统“"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.chinanews.com.cn/gn/2026/07-21/10663521.shtml","https://news.qq.com/rain/a/20260528A06U0900"],"created":1794627879,"id":"chatcmpl-328a1098-a292-9100-af09-708df276b7d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"一键续领”"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.chinanews.com.cn/gn/2026/07-21/10663521.shtml","https://news.qq.com/rain/a/20260528A06U0900"],"created":1794627879,"id":"chatcmpl-328a1098-a292-9100-af09-708df276b7d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"提交续领申请"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.chinanews.com.cn/gn/2026/07-21/10663521.shtml","https://news.qq.com/rain/a/20260528A06U0900"],"created":1794627879,"id":"chatcmpl-328a1098-a292-9100-af09-708df276b7d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"；如果系统带"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.chinanews.com.cn/gn/2026/07-21/10663521.shtml","https://news.qq.com/rain/a/20260528A06U0900"],"created":1794627879,"id":"chatcmpl-328a1098-a292-9100-af09-708df276b7d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"出信息无变化"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.chinanews.com.cn/gn/2026/07-21/10663521.shtml","https://news.qq.com/rain/a/20260528A06U0900"],"created":1794627879,"id":"chatcmpl-328a1098-a292-9100-af09-708df276b7d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"，"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.chinanews.com.cn/gn/2026/07-21/10663521.shtml","https://news.qq.com/rain/a/20260528A06U0900"],"created":1794627879,"id":"chatcmpl-328a1098-a292-9100-af09-708df276b7d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"按提示确认即可"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.chinanews.com.cn/gn/2026/07-21/10663521.shtml","https://news.qq.com/rain/a/20260528A06U0900"],"created":1794627879,"id":"chatcmpl-328a1098-a292-9100-af09-708df276b7d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"。"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.chinanews.com.cn/gn/2026/07-21/10663521.shtml","https://news.qq.com/rain/a/20260528A06U0900"],"created":1794627879,"id":"chatcmpl-328a1098-a292-9100-af09-708df276b7d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"但仍需在规定时间内完成"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.chinanews.com.cn/gn/2026/07-21/10663521.shtml","https://news.qq.com/rain/a/20260528A06U0900"],"created":1794627879,"id":"chatcmpl-328a1098-a292-9100-af09-708df276b7d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"续领申请"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.chinanews.com.cn/gn/2026/07-21/10663521.shtml","https://news.qq.com/rain/a/20260528A06U0900"],"created":1794627879,"id":"chatcmpl-328a1098-a292-9100-af09-708df276b7d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"，不等于无需任何"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.chinanews.com.cn/gn/2026/07-21/10663521.shtml","https://news.qq.com/rain/a/20260528A06U0900"],"created":1794627879,"id":"chatcmpl-328a1098-a292-9100-af09-708df276b7d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"操作自动"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.chinanews.com.cn/gn/2026/07-21/10663521.shtml","https://news.qq.com/rain/a/20260528A06U0900"],"created":1794627879,"id":"chatcmpl-328a1098-a292-9100-af09-708df276b7d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"发放。另注意"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.chinanews.com.cn/gn/2026/07-21/10663521.shtml","https://news.qq.com/rain/a/20260528A06U0900"],"created":1794627879,"id":"chatcmpl-328a1098-a292-9100-af09-708df276b7d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"补贴"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.chinanews.com.cn/gn/2026/07-21/10663521.shtml","https://news.qq.com/rain/a/20260528A06U0900"],"created":1794627879,"id":"chatcmpl-328a1098-a292-9100-af09-708df276b7d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"对象：20"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.chinanews.com.cn/gn/2026/07-21/10663521.shtml","https://news.qq.com/rain/a/20260528A06U0900"],"created":1794627879,"id":"chatcmpl-328a1098-a292-9100-af09-708df276b7d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"25年1"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.chinanews.com.cn/gn/2026/07-21/10663521.shtml","https://news.qq.com/rain/a/20260528A06U0900"],"created":1794627879,"id":"chatcmpl-328a1098-a292-9100-af09-708df276b7d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"月1日起生育"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.chinanews.com.cn/gn/2026/07-21/10663521.shtml","https://news.qq.com/rain/a/20260528A06U0900"],"created":1794627879,"id":"chatcmpl-328a1098-a292-9100-af09-708df276b7d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"/收养3周岁以下"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.chinanews.com.cn/gn/2026/07-21/10663521.shtml","https://news.qq.com/rain/a/20260528A06U0900"],"created":1794627879,"id":"chatcmpl-328a1098-a292-9100-af09-708df276b7d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"婴幼儿"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.chinanews.com.cn/gn/2026/07-21/10663521.shtml","https://news.qq.com/rain/a/20260528A06U0900"],"created":1794627879,"id":"chatcmpl-328a1098-a292-9100-af09-708df276b7d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"，202"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.chinanews.com.cn/gn/2026/07-21/10663521.shtml","https://news.qq.com/rain/a/20260528A06U0900"],"created":1794627879,"id":"chatcmpl-328a1098-a292-9100-af09-708df276b7d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"3"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.chinanews.com.cn/gn/2026/07-21/10663521.shtml","https://news.qq.com/rain/a/20260528A06U0900"],"created":1794627879,"id":"chatcmpl-328a1098-a292-9100-af09-708df276b7d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"年1月1"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.chinanews.com.cn/gn/2026/07-21/10663521.shtml","https://news.qq.com/rain/a/20260528A06U0900"],"created":1794627879,"id":"chatcmpl-328a1098-a292-9100-af09-708df276b7d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"日后出生20"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.chinanews.com.cn/gn/2026/07-21/10663521.shtml","https://news.qq.com/rain/a/20260528A06U0900"],"created":1794627879,"id":"chatcmpl-328a1098-a292-9100-af09-708df276b7d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"26年内"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.chinanews.com.cn/gn/2026/07-21/10663521.shtml","https://news.qq.com/rain/a/20260528A06U0900"],"created":1794627879,"id":"chatcmpl-328a1098-a292-9100-af09-708df276b7d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"可按应补贴月"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.chinanews.com.cn/gn/2026/07-21/10663521.shtml","https://news.qq.com/rain/a/20260528A06U0900"],"created":1794627879,"id":"chatcmpl-328a1098-a292-9100-af09-708df276b7d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"数折算申领["},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.chinanews.com.cn/gn/2026/07-21/10663521.shtml","https://news.qq.com/rain/a/20260528A06U0900"],"created":1794627879,"id":"chatcmpl-328a1098-a292-9100-af09-708df276b7d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"4]。如果"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.chinanews.com.cn/gn/2026/07-21/10663521.shtml","https://news.qq.com/rain/a/20260528A06U0900"],"created":1794627879,"id":"chatcmpl-328a1098-a292-9100-af09-708df276b7d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"用户202"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.chinanews.com.cn/gn/2026/07-21/10663521.shtml","https://news.qq.com/rain/a/20260528A06U0900"],"created":1794627879,"id":"chatcmpl-328a1098-a292-9100-af09-708df276b7d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"5"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.chinanews.com.cn/gn/2026/07-21/10663521.shtml","https://news.qq.com/rain/a/20260528A06U0900"],"created":1794627879,"id":"chatcmpl-328a1098-a292-9100-af09-708df276b7d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"年已领，"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.chinanews.com.cn/gn/2026/07-21/10663521.shtml","https://news.qq.com/rain/a/20260528A06U0900"],"created":1794627879,"id":"chatcmpl-328a1098-a292-9100-af09-708df276b7d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"2026"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.chinanews.com.cn/gn/2026/07-21/10663521.shtml","https://news.qq.com/rain/a/20260528A06U0900"],"created":1794627879,"id":"chatcmpl-328a1098-a292-9100-af09-708df276b7d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"年仍符合且"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.chinanews.com.cn/gn/2026/07-21/10663521.shtml","https://news.qq.com/rain/a/20260528A06U0900"],"created":1794627879,"id":"chatcmpl-328a1098-a292-9100-af09-708df276b7d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"信息不变，应"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.chinanews.com.cn/gn/2026/07-21/10663521.shtml","https://news.qq.com/rain/a/20260528A06U0900"],"created":1794627879,"id":"chatcmpl-328a1098-a292-9100-af09-708df276b7d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"可续"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.chinanews.com.cn/gn/2026/07-21/10663521.shtml","https://news.qq.com/rain/a/20260528A06U0900"],"created":1794627879,"id":"chatcmpl-328a1098-a292-9100-af09-708df276b7d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"领。但具体"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.chinanews.com.cn/gn/2026/07-21/10663521.shtml","https://news.qq.com/rain/a/20260528A06U0900"],"created":1794627879,"id":"chatcmpl-328a1098-a292-9100-af09-708df276b7d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"以当地系统和审核"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.chinanews.com.cn/gn/2026/07-21/10663521.shtml","https://news.qq.com/rain/a/20260528A06U0900"],"created":1794627879,"id":"chatcmpl-328a1098-a292-9100-af09-708df276b7d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"为准"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.chinanews.com.cn/gn/2026/07-21/10663521.shtml","https://news.qq.com/rain/a/20260528A06U0900"],"created":1794627879,"id":"chatcmpl-328a1098-a292-9100-af09-708df276b7d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"。需要引用。"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.chinanews.com.cn/gn/2026/07-21/10663521.shtml","https://news.qq.com/rain/a/20260528A06U0900"],"created":1794627879,"id":"chatcmpl-328a1098-a292-9100-af09-708df276b7d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"可补充申请通道"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.chinanews.com.cn/gn/2026/07-21/10663521.shtml","https://news.qq.com/rain/a/20260528A06U0900"],"created":1794627879,"id":"chatcmpl-328a1098-a292-9100-af09-708df276b7d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"：支付宝、微信"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.chinanews.com.cn/gn/2026/07-21/10663521.shtml","https://news.qq.com/rain/a/20260528A06U0900"],"created":1794627879,"id":"chatcmpl-328a1098-a292-9100-af09-708df276b7d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"、省级政务平台"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.chinanews.com.cn/gn/2026/07-21/10663521.shtml","https://news.qq.com/rain/a/20260528A06U0900"],"created":1794627879,"id":"chatcmpl-328a1098-a292-9100-af09-708df276b7d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"登录系统[2"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.chinanews.com.cn/gn/2026/07-21/10663521.shtml","https://news.qq.com/rain/a/20260528A06U0900"],"created":1794627879,"id":"chatcmpl-328a1098-a292-9100-af09-708df276b7d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"]"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.chinanews.com.cn/gn/2026/07-21/10663521.shtml","https://news.qq.com/rain/a/20260528A06U0900"],"created":1794627879,"id":"chatcmpl-328a1098-a292-9100-af09-708df276b7d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"。对于20"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.chinanews.com.cn/gn/2026/07-21/10663521.shtml","https://news.qq.com/rain/a/20260528A06U0900"],"created":1794627879,"id":"chatcmpl-328a1098-a292-9100-af09-708df276b7d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"22"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.chinanews.com.cn/gn/2026/07-21/10663521.shtml","https://news.qq.com/rain/a/20260528A06U0900"],"created":1794627879,"id":"chatcmpl-328a1098-a292-9100-af09-708df276b7d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"-202"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.chinanews.com.cn/gn/2026/07-21/10663521.shtml","https://news.qq.com/rain/a/20260528A06U0900"],"created":1794627879,"id":"chatcmpl-328a1098-a292-9100-af09-708df276b7d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"4出生首次申请"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.chinanews.com.cn/gn/2026/07-21/10663521.shtml","https://news.qq.com/rain/a/20260528A06U0900"],"created":1794627879,"id":"chatcmpl-328a1098-a292-9100-af09-708df276b7d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"延长到"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.chinanews.com.cn/gn/2026/07-21/10663521.shtml","https://news.qq.com/rain/a/20260528A06U0900"],"created":1794627879,"id":"chatcmpl-328a1098-a292-9100-af09-708df276b7d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"2026"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.chinanews.com.cn/gn/2026/07-21/10663521.shtml","https://news.qq.com/rain/a/20260528A06U0900"],"created":1794627879,"id":"chatcmpl-328a1098-a292-9100-af09-708df276b7d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"-12-"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.chinanews.com.cn/gn/2026/07-21/10663521.shtml","https://news.qq.com/rain/a/20260528A06U0900"],"created":1794627879,"id":"chatcmpl-328a1098-a292-9100-af09-708df276b7d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"31，但"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.chinanews.com.cn/gn/2026/07-21/10663521.shtml","https://news.qq.com/rain/a/20260528A06U0900"],"created":1794627879,"id":"chatcmpl-328a1098-a292-9100-af09-708df276b7d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"这是首次申请，"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.chinanews.com.cn/gn/2026/07-21/10663521.shtml","https://news.qq.com/rain/a/20260528A06U0900"],"created":1794627879,"id":"chatcmpl-328a1098-a292-9100-af09-708df276b7d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"不是续领；"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.chinanews.com.cn/gn/2026/07-21/10663521.shtml","https://news.qq.com/rain/a/20260528A06U0900"],"created":1794627879,"id":"chatcmpl-328a1098-a292-9100-af09-708df276b7d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"用户已领过"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.chinanews.com.cn/gn/2026/07-21/10663521.shtml","https://news.qq.com/rain/a/20260528A06U0900"],"created":1794627879,"id":"chatcmpl-328a1098-a292-9100-af09-708df276b7d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"，可能"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.chinanews.com.cn/gn/2026/07-21/10663521.shtml","https://news.qq.com/rain/a/20260528A06U0900"],"created":1794627879,"id":"chatcmpl-328a1098-a292-9100-af09-708df276b7d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"不适用，但可"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.chinanews.com.cn/gn/2026/07-21/10663521.shtml","https://news.qq.com/rain/a/20260528A06U0900"],"created":1794627879,"id":"chatcmpl-328a1098-a292-9100-af09-708df276b7d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"背景"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.chinanews.com.cn/gn/2026/07-21/10663521.shtml","https://news.qq.com/rain/a/20260528A06U0900"],"created":1794627879,"id":"chatcmpl-328a1098-a292-9100-af09-708df276b7d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"说明。需要不要"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.chinanews.com.cn/gn/2026/07-21/10663521.shtml","https://news.qq.com/rain/a/20260528A06U0900"],"created":1794627879,"id":"chatcmpl-328a1098-a292-9100-af09-708df276b7d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"联网检索？已经"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.chinanews.com.cn/gn/2026/07-21/10663521.shtml","https://news.qq.com/rain/a/20260528A06U0900"],"created":1794627879,"id":"chatcmpl-328a1098-a292-9100-af09-708df276b7d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"提供搜索结果。我们要"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.chinanews.com.cn/gn/2026/07-21/10663521.shtml","https://news.qq.com/rain/a/20260528A06U0900"],"created":1794627879,"id":"chatcmpl-328a1098-a292-9100-af09-708df276b7d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"依据检索资料。"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.chinanews.com.cn/gn/2026/07-21/10663521.shtml","https://news.qq.com/rain/a/20260528A06U0900"],"created":1794627879,"id":"chatcmpl-328a1098-a292-9100-af09-708df276b7d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"需要不要提“"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.chinanews.com.cn/gn/2026/07-21/10663521.shtml","https://news.qq.com/rain/a/20260528A06U0900"],"created":1794627879,"id":"chatcmpl-328a1098-a292-9100-af09-708df276b7d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"直接续领”"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.chinanews.com.cn/gn/2026/07-21/10663521.shtml","https://news.qq.com/rain/a/20260528A06U0900"],"created":1794627879,"id":"chatcmpl-328a1098-a292-9100-af09-708df276b7d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"歧"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.chinanews.com.cn/gn/2026/07-21/10663521.shtml","https://news.qq.com/rain/a/20260528A06U0900"],"created":1794627879,"id":"chatcmpl-328a1098-a292-9100-af09-708df276b7d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"义：如果“"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.chinanews.com.cn/gn/2026/07-21/10663521.shtml","https://news.qq.com/rain/a/20260528A06U0900"],"created":1794627879,"id":"chatcmpl-328a1098-a292-9100-af09-708df276b7d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"直接”指不用"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.chinanews.com.cn/gn/2026/07-21/10663521.shtml","https://news.qq.com/rain/a/20260528A06U0900"],"created":1794627879,"id":"chatcmpl-328a1098-a292-9100-af09-708df276b7d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"重新填全部信息"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.chinanews.com.cn/gn/2026/07-21/10663521.shtml","https://news.qq.com/rain/a/20260528A06U0900"],"created":1794627879,"id":"chatcmpl-328a1098-a292-9100-af09-708df276b7d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"，可以一键"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.chinanews.com.cn/gn/2026/07-21/10663521.shtml","https://news.qq.com/rain/a/20260528A06U0900"],"created":1794627879,"id":"chatcmpl-328a1098-a292-9100-af09-708df276b7d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"续领；如果"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.chinanews.com.cn/gn/2026/07-21/10663521.shtml","https://news.qq.com/rain/a/20260528A06U0900"],"created":1794627879,"id":"chatcmpl-328a1098-a292-9100-af09-708df276b7d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"指不操作自动"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.chinanews.com.cn/gn/2026/07-21/10663521.shtml","https://news.qq.com/rain/a/20260528A06U0900"],"created":1794627879,"id":"chatcmpl-328a1098-a292-9100-af09-708df276b7d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"到账，资料未"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.chinanews.com.cn/gn/2026/07-21/10663521.shtml","https://news.qq.com/rain/a/20260528A06U0900"],"created":1794627879,"id":"chatcmpl-328a1098-a292-9100-af09-708df276b7d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"确认"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.chinanews.com.cn/gn/2026/07-21/10663521.shtml","https://news.qq.com/rain/a/20260528A06U0900"],"created":1794627879,"id":"chatcmpl-328a1098-a292-9100-af09-708df276b7d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"自动发放。明确"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.chinanews.com.cn/gn/2026/07-21/10663521.shtml","https://news.qq.com/rain/a/20260528A06U0900"],"created":1794627879,"id":"chatcmpl-328a1098-a292-9100-af09-708df276b7d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"区分。格式简洁"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.chinanews.com.cn/gn/2026/07-21/10663521.shtml","https://news.qq.com/rain/a/20260528A06U0900"],"created":1794627879,"id":"chatcmpl-328a1098-a292-9100-af09-708df276b7d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"。可能分点"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.chinanews.com.cn/gn/2026/07-21/10663521.shtml","https://news.qq.com/rain/a/20260528A06U0900"],"created":1794627879,"id":"chatcmpl-328a1098-a292-9100-af09-708df276b7d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"：结论"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.chinanews.com.cn/gn/2026/07-21/10663521.shtml","https://news.qq.com/rain/a/20260528A06U0900"],"created":1794627879,"id":"chatcmpl-328a1098-a292-9100-af09-708df276b7d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"、操作、注意事项"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.chinanews.com.cn/gn/2026/07-21/10663521.shtml","https://news.qq.com/rain/a/20260528A06U0900"],"created":1794627879,"id":"chatcmpl-328a1098-a292-9100-af09-708df276b7d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"。控制在"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.chinanews.com.cn/gn/2026/07-21/10663521.shtml","https://news.qq.com/rain/a/20260528A06U0900"],"created":1794627879,"id":"chatcmpl-328a1098-a292-9100-af09-708df276b7d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"五要点。需要"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.chinanews.com.cn/gn/2026/07-21/10663521.shtml","https://news.qq.com/rain/a/20260528A06U0900"],"created":1794627879,"id":"chatcmpl-328a1098-a292-9100-af09-708df276b7d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"引用对应位置。"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.chinanews.com.cn/gn/2026/07-21/10663521.shtml","https://news.qq.com/rain/a/20260528A06U0900"],"created":1794627879,"id":"chatcmpl-328a1098-a292-9100-af09-708df276b7d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"可以，但通常","reasoning_content":""},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.chinanews.com.cn/gn/2026/07-21/10663521.shtml","https://news.qq.com/rain/a/20260528A06U0900"],"created":1794627879,"id":"chatcmpl-328a1098-a292-9100-af09-708df276b7d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"不是“什么都不用","reasoning_content":""},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.chinanews.com.cn/gn/2026/07-21/10663521.shtml","https://news.qq.com/rain/a/20260528A06U0900"],"created":1794627879,"id":"chatcmpl-328a1098-a292-9100-af09-708df276b7d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"做就自动到账","reasoning_content":""},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.chinanews.com.cn/gn/2026/07-21/10663521.shtml","https://news.qq.com/rain/a/20260528A06U0900"],"created":1794627879,"id":"chatcmpl-328a1098-a292-9100-af09-708df276b7d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"”，而是","reasoning_content":""},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.chinanews.com.cn/gn/2026/07-21/10663521.shtml","https://news.qq.com/rain/a/20260528A06U0900"],"created":1794627879,"id":"chatcmpl-328a1098-a292-9100-af09-708df276b7d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"可以通过系统使用“","reasoning_content":""},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.chinanews.com.cn/gn/2026/07-21/10663521.shtml","https://news.qq.com/rain/a/20260528A06U0900"],"created":1794627879,"id":"chatcmpl-328a1098-a292-9100-af09-708df276b7d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"一键续领”","reasoning_content":""},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.chinanews.com.cn/gn/2026/07-21/10663521.shtml","https://news.qq.com/rain/a/20260528A06U0900"],"created":1794627879,"id":"chatcmpl-328a1098-a292-9100-af09-708df276b7d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"便捷提交续领","reasoning_content":""},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.chinanews.com.cn/gn/2026/07-21/10663521.shtml","https://news.qq.com/rain/a/20260528A06U0900"],"created":1794627879,"id":"chatcmpl-328a1098-a292-9100-af09-708df276b7d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"申请。","reasoning_content":""},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.chinanews.com.cn/gn/2026/07-21/10663521.shtml","https://news.qq.com/rain/a/20260528A06U0900"],"created":1794627879,"id":"chatcmpl-328a1098-a292-9100-af09-708df276b7d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"[2]\n\n","reasoning_content":""},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.chinanews.com.cn/gn/2026/07-21/10663521.shtml","https://news.qq.com/rain/a/20260528A06U0900"],"created":1794627879,"id":"chatcmpl-328a1098-a292-9100-af09-708df276b7d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"具体来说：\n\n1","reasoning_content":""},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.chinanews.com.cn/gn/2026/07-21/10663521.shtml","https://news.qq.com/rain/a/20260528A06U0900"],"created":1794627879,"id":"chatcmpl-328a1098-a292-9100-af09-708df276b7d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":". **如果2","reasoning_content":""},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.chinanews.com.cn/gn/2026/07-21/10663521.shtml","https://news.qq.com/rain/a/20260528A06U0900"],"created":1794627879,"id":"chatcmpl-328a1098-a292-9100-af09-708df276b7d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"025","reasoning_content":""},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.chinanews.com.cn/gn/2026/07-21/10663521.shtml","https://news.qq.com/rain/a/20260528A06U0900"],"created":1794627879,"id":"chatcmpl-328a1098-a292-9100-af09-708df276b7d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"年已领过","reasoning_content":""},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.chinanews.com.cn/gn/2026/07-21/10663521.shtml","https://news.qq.com/rain/a/20260528A06U0900"],"created":1794627879,"id":"chatcmpl-328a1098-a292-9100-af09-708df276b7d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"育儿补贴，2","reasoning_content":""},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.chinanews.com.cn/gn/2026/07-21/10663521.shtml","https://news.qq.com/rain/a/20260528A06U0900"],"created":1794627879,"id":"chatcmpl-328a1098-a292-9100-af09-708df276b7d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"026年","reasoning_content":""},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.chinanews.com.cn/gn/2026/07-21/10663521.shtml","https://news.qq.com/rain/a/20260528A06U0900"],"created":1794627879,"id":"chatcmpl-328a1098-a292-9100-af09-708df276b7d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"仍符合条件、信息","reasoning_content":""},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.chinanews.com.cn/gn/2026/07-21/10663521.shtml","https://news.qq.com/rain/a/20260528A06U0900"],"created":1794627879,"id":"chatcmpl-328a1098-a292-9100-af09-708df276b7d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"无变化**，","reasoning_content":""},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.chinanews.com.cn/gn/2026/07-21/10663521.shtml","https://news.qq.com/rain/a/20260528A06U0900"],"created":1794627879,"id":"chatcmpl-328a1098-a292-9100-af09-708df276b7d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"可按","reasoning_content":""},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.chinanews.com.cn/gn/2026/07-21/10663521.shtml","https://news.qq.com/rain/a/20260528A06U0900"],"created":1794627879,"id":"chatcmpl-328a1098-a292-9100-af09-708df276b7d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"2026","reasoning_content":""},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.chinanews.com.cn/gn/2026/07-21/10663521.shtml","https://news.qq.com/rain/a/20260528A06U0900"],"created":1794627879,"id":"chatcmpl-328a1098-a292-9100-af09-708df276b7d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"年新增的“","reasoning_content":""},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.chinanews.com.cn/gn/2026/07-21/10663521.shtml","https://news.qq.com/rain/a/20260528A06U0900"],"created":1794627879,"id":"chatcmpl-328a1098-a292-9100-af09-708df276b7d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"一键续领”","reasoning_content":""},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.chinanews.com.cn/gn/2026/07-21/10663521.shtml","https://news.qq.com/rain/a/20260528A06U0900"],"created":1794627879,"id":"chatcmpl-328a1098-a292-9100-af09-708df276b7d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"功能完成续领","reasoning_content":""},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.chinanews.com.cn/gn/2026/07-21/10663521.shtml","https://news.qq.com/rain/a/20260528A06U0900"],"created":1794627879,"id":"chatcmpl-328a1098-a292-9100-af09-708df276b7d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"申请；","reasoning_content":""},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.chinanews.com.cn/gn/2026/07-21/10663521.shtml","https://news.qq.com/rain/a/20260528A06U0900"],"created":1794627879,"id":"chatcmpl-328a1098-a292-9100-af09-708df276b7d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"资料明确该功能","reasoning_content":""},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.chinanews.com.cn/gn/2026/07-21/10663521.shtml","https://news.qq.com/rain/a/20260528A06U0900"],"created":1794627879,"id":"chatcmpl-328a1098-a292-9100-af09-708df276b7d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"是为","reasoning_content":""},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.chinanews.com.cn/gn/2026/07-21/10663521.shtml","https://news.qq.com/rain/a/20260528A06U0900"],"created":1794627879,"id":"chatcmpl-328a1098-a292-9100-af09-708df276b7d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"方便群众完成续","reasoning_content":""},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.chinanews.com.cn/gn/2026/07-21/10663521.shtml","https://news.qq.com/rain/a/20260528A06U0900"],"created":1794627879,"id":"chatcmpl-328a1098-a292-9100-af09-708df276b7d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"领申请而","reasoning_content":""},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.chinanews.com.cn/gn/2026/07-21/10663521.shtml","https://news.qq.com/rain/a/20260528A06U0900"],"created":1794627879,"id":"chatcmpl-328a1098-a292-9100-af09-708df276b7d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"设置。[2","reasoning_content":""},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.chinanews.com.cn/gn/2026/07-21/10663521.shtml","https://news.qq.com/rain/a/20260528A06U0900"],"created":1794627879,"id":"chatcmpl-328a1098-a292-9100-af09-708df276b7d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"]","reasoning_content":""},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.chinanews.com.cn/gn/2026/07-21/10663521.shtml","https://news.qq.com/rain/a/20260528A06U0900"],"created":1794627879,"id":"chatcmpl-328a1098-a292-9100-af09-708df276b7d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"\n\n2. **“","reasoning_content":""},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.chinanews.com.cn/gn/2026/07-21/10663521.shtml","https://news.qq.com/rain/a/20260528A06U0900"],"created":1794627879,"id":"chatcmpl-328a1098-a292-9100-af09-708df276b7d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"一键续领”","reasoning_content":""},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.chinanews.com.cn/gn/2026/07-21/10663521.shtml","https://news.qq.com/rain/a/20260528A06U0900"],"created":1794627879,"id":"chatcmpl-328a1098-a292-9100-af09-708df276b7d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"更接近“简化申请","reasoning_content":""},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.chinanews.com.cn/gn/2026/07-21/10663521.shtml","https://news.qq.com/rain/a/20260528A06U0900"],"created":1794627879,"id":"chatcmpl-328a1098-a292-9100-af09-708df276b7d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"/确认”**：","reasoning_content":""},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.chinanews.com.cn/gn/2026/07-21/10663521.shtml","https://news.qq.com/rain/a/20260528A06U0900"],"created":1794627879,"id":"chatcmpl-328a1098-a292-9100-af09-708df276b7d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"从已给资料","reasoning_content":""},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.chinanews.com.cn/gn/2026/07-21/10663521.shtml","https://news.qq.com/rain/a/20260528A06U0900"],"created":1794627879,"id":"chatcmpl-328a1098-a292-9100-af09-708df276b7d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"看，它","reasoning_content":""},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.chinanews.com.cn/gn/2026/07-21/10663521.shtml","https://news.qq.com/rain/a/20260528A06U0900"],"created":1794627879,"id":"chatcmpl-328a1098-a292-9100-af09-708df276b7d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"强调的是便捷完成“","reasoning_content":""},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.chinanews.com.cn/gn/2026/07-21/10663521.shtml","https://news.qq.com/rain/a/20260528A06U0900"],"created":1794627879,"id":"chatcmpl-328a1098-a292-9100-af09-708df276b7d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"续领申请”，","reasoning_content":""},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.chinanews.com.cn/gn/2026/07-21/10663521.shtml","https://news.qq.com/rain/a/20260528A06U0900"],"created":1794627879,"id":"chatcmpl-328a1098-a292-9100-af09-708df276b7d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"并没有明确说明系统","reasoning_content":""},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.chinanews.com.cn/gn/2026/07-21/10663521.shtml","https://news.qq.com/rain/a/20260528A06U0900"],"created":1794627879,"id":"chatcmpl-328a1098-a292-9100-af09-708df276b7d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"会自动发放、无需","reasoning_content":""},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.chinanews.com.cn/gn/2026/07-21/10663521.shtml","https://news.qq.com/rain/a/20260528A06U0900"],"created":1794627879,"id":"chatcmpl-328a1098-a292-9100-af09-708df276b7d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"本人操作。因此","reasoning_content":""},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.chinanews.com.cn/gn/2026/07-21/10663521.shtml","https://news.qq.com/rain/a/20260528A06U0900"],"created":1794627879,"id":"chatcmpl-328a1098-a292-9100-af09-708df276b7d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"建议你仍登录系统","reasoning_content":""},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.chinanews.com.cn/gn/2026/07-21/10663521.shtml","https://news.qq.com/rain/a/20260528A06U0900"],"created":1794627879,"id":"chatcmpl-328a1098-a292-9100-af09-708df276b7d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"查看","reasoning_content":""},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.chinanews.com.cn/gn/2026/07-21/10663521.shtml","https://news.qq.com/rain/a/20260528A06U0900"],"created":1794627879,"id":"chatcmpl-328a1098-a292-9100-af09-708df276b7d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"是否需要确认或提交","reasoning_content":""},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.chinanews.com.cn/gn/2026/07-21/10663521.shtml","https://news.qq.com/rain/a/20260528A06U0900"],"created":1794627879,"id":"chatcmpl-328a1098-a292-9100-af09-708df276b7d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"。[2","reasoning_content":""},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.chinanews.com.cn/gn/2026/07-21/10663521.shtml","https://news.qq.com/rain/a/20260528A06U0900"],"created":1794627879,"id":"chatcmpl-328a1098-a292-9100-af09-708df276b7d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"]\n\n3.","reasoning_content":""},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.chinanews.com.cn/gn/2026/07-21/10663521.shtml","https://news.qq.com/rain/a/20260528A06U0900"],"created":1794627879,"id":"chatcmpl-328a1098-a292-9100-af09-708df276b7d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":" **可通过支付宝、","reasoning_content":""},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.chinanews.com.cn/gn/2026/07-21/10663521.shtml","https://news.qq.com/rain/a/20260528A06U0900"],"created":1794627879,"id":"chatcmpl-328a1098-a292-9100-af09-708df276b7d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"微信或","reasoning_content":""},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.chinanews.com.cn/gn/2026/07-21/10663521.shtml","https://news.qq.com/rain/a/20260528A06U0900"],"created":1794627879,"id":"chatcmpl-328a1098-a292-9100-af09-708df276b7d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"省级政务服务平台**","reasoning_content":""},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.chinanews.com.cn/gn/2026/07-21/10663521.shtml","https://news.qq.com/rain/a/20260528A06U0900"],"created":1794627879,"id":"chatcmpl-328a1098-a292-9100-af09-708df276b7d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"登录育儿补贴信息","reasoning_content":""},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.chinanews.com.cn/gn/2026/07-21/10663521.shtml","https://news.qq.com/rain/a/20260528A06U0900"],"created":1794627879,"id":"chatcmpl-328a1098-a292-9100-af09-708df276b7d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"管理系统，按要求","reasoning_content":""},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.chinanews.com.cn/gn/2026/07-21/10663521.shtml","https://news.qq.com/rain/a/20260528A06U0900"],"created":1794627879,"id":"chatcmpl-328a1098-a292-9100-af09-708df276b7d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"进入相应通道办理","reasoning_content":""},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.chinanews.com.cn/gn/2026/07-21/10663521.shtml","https://news.qq.com/rain/a/20260528A06U0900"],"created":1794627879,"id":"chatcmpl-328a1098-a292-9100-af09-708df276b7d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"。[2","reasoning_content":""},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.chinanews.com.cn/gn/2026/07-21/10663521.shtml","https://news.qq.com/rain/a/20260528A06U0900"],"created":1794627879,"id":"chatcmpl-328a1098-a292-9100-af09-708df276b7d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"]\n\n4.","reasoning_content":""},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.chinanews.com.cn/gn/2026/07-21/10663521.shtml","https://news.qq.com/rain/a/20260528A06U0900"],"created":1794627879,"id":"chatcmpl-328a1098-a292-9100-af09-708df276b7d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":" **202","reasoning_content":""},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.chinanews.com.cn/gn/2026/07-21/10663521.shtml","https://news.qq.com/rain/a/20260528A06U0900"],"created":1794627879,"id":"chatcmpl-328a1098-a292-9100-af09-708df276b7d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"6年仍按","reasoning_content":""},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.chinanews.com.cn/gn/2026/07-21/10663521.shtml","https://news.qq.com/rain/a/20260528A06U0900"],"created":1794627879,"id":"chatcmpl-328a1098-a292-9100-af09-708df276b7d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"相关申领规则执行","reasoning_content":""},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.chinanews.com.cn/gn/2026/07-21/10663521.shtml","https://news.qq.com/rain/a/20260528A06U0900"],"created":1794627879,"id":"chatcmpl-328a1098-a292-9100-af09-708df276b7d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"**：20","reasoning_content":""},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.chinanews.com.cn/gn/2026/07-21/10663521.shtml","https://news.qq.com/rain/a/20260528A06U0900"],"created":1794627879,"id":"chatcmpl-328a1098-a292-9100-af09-708df276b7d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"23年1","reasoning_content":""},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.chinanews.com.cn/gn/2026/07-21/10663521.shtml","https://news.qq.com/rain/a/20260528A06U0900"],"created":1794627879,"id":"chatcmpl-328a1098-a292-9100-af09-708df276b7d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"月1日后出生的","reasoning_content":""},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.chinanews.com.cn/gn/2026/07-21/10663521.shtml","https://news.qq.com/rain/a/20260528A06U0900"],"created":1794627879,"id":"chatcmpl-328a1098-a292-9100-af09-708df276b7d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"婴幼儿，20","reasoning_content":""},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.chinanews.com.cn/gn/2026/07-21/10663521.shtml","https://news.qq.com/rain/a/20260528A06U0900"],"created":1794627879,"id":"chatcmpl-328a1098-a292-9100-af09-708df276b7d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"26年内可按","reasoning_content":""},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.chinanews.com.cn/gn/2026/07-21/10663521.shtml","https://news.qq.com/rain/a/20260528A06U0900"],"created":1794627879,"id":"chatcmpl-328a1098-a292-9100-af09-708df276b7d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"应补贴月数","reasoning_content":""},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.chinanews.com.cn/gn/2026/07-21/10663521.shtml","https://news.qq.com/rain/a/20260528A06U0900"],"created":1794627879,"id":"chatcmpl-328a1098-a292-9100-af09-708df276b7d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"折算申领；若","reasoning_content":""},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.chinanews.com.cn/gn/2026/07-21/10663521.shtml","https://news.qq.com/rain/a/20260528A06U0900"],"created":1794627879,"id":"chatcmpl-328a1098-a292-9100-af09-708df276b7d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"你的孩子仍在3","reasoning_content":""},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.chinanews.com.cn/gn/2026/07-21/10663521.shtml","https://news.qq.com/rain/a/20260528A06U0900"],"created":1794627879,"id":"chatcmpl-328a1098-a292-9100-af09-708df276b7d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"周岁以下且符合","reasoning_content":""},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.chinanews.com.cn/gn/2026/07-21/10663521.shtml","https://news.qq.com/rain/a/20260528A06U0900"],"created":1794627879,"id":"chatcmpl-328a1098-a292-9100-af09-708df276b7d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"规定，一般属于","reasoning_content":""},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.chinanews.com.cn/gn/2026/07-21/10663521.shtml","https://news.qq.com/rain/a/20260528A06U0900"],"created":1794627879,"id":"chatcmpl-328a1098-a292-9100-af09-708df276b7d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"可申领范围。","reasoning_content":""},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.chinanews.com.cn/gn/2026/07-21/10663521.shtml","https://news.qq.com/rain/a/20260528A06U0900"],"created":1794627879,"id":"chatcmpl-328a1098-a292-9100-af09-708df276b7d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"[4","reasoning_content":""},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.chinanews.com.cn/gn/2026/07-21/10663521.shtml","https://news.qq.com/rain/a/20260528A06U0900"],"created":1794627879,"id":"chatcmpl-328a1098-a292-9100-af09-708df276b7d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"]\n\n5.","reasoning_content":""},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.chinanews.com.cn/gn/2026/07-21/10663521.shtml","https://news.qq.com/rain/a/20260528A06U0900"],"created":1794627879,"id":"chatcmpl-328a1098-a292-9100-af09-708df276b7d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":" **最终是否成功","reasoning_content":""},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.chinanews.com.cn/gn/2026/07-21/10663521.shtml","https://news.qq.com/rain/a/20260528A06U0900"],"created":1794627879,"id":"chatcmpl-328a1098-a292-9100-af09-708df276b7d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"续领，以","reasoning_content":""},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.chinanews.com.cn/gn/2026/07-21/10663521.shtml","https://news.qq.com/rain/a/20260528A06U0900"],"created":1794627879,"id":"chatcmpl-328a1098-a292-9100-af09-708df276b7d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"系统审核结果为准","reasoning_content":""},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.chinanews.com.cn/gn/2026/07-21/10663521.shtml","https://news.qq.com/rain/a/20260528A06U0900"],"created":1794627879,"id":"chatcmpl-328a1098-a292-9100-af09-708df276b7d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"**：如果系统","reasoning_content":""},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.chinanews.com.cn/gn/2026/07-21/10663521.shtml","https://news.qq.com/rain/a/20260528A06U0900"],"created":1794627879,"id":"chatcmpl-328a1098-a292-9100-af09-708df276b7d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"带出的家庭、","reasoning_content":""},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.chinanews.com.cn/gn/2026/07-21/10663521.shtml","https://news.qq.com/rain/a/20260528A06U0900"],"created":1794627879,"id":"chatcmpl-328a1098-a292-9100-af09-708df276b7d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"抚养人、婴幼儿","reasoning_content":""},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.chinanews.com.cn/gn/2026/07-21/10663521.shtml","https://news.qq.com/rain/a/20260528A06U0900"],"created":1794627879,"id":"chatcmpl-328a1098-a292-9100-af09-708df276b7d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"信息","reasoning_content":""},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.chinanews.com.cn/gn/2026/07-21/10663521.shtml","https://news.qq.com/rain/a/20260528A06U0900"],"created":1794627879,"id":"chatcmpl-328a1098-a292-9100-af09-708df276b7d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"都无变化，","reasoning_content":""},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.chinanews.com.cn/gn/2026/07-21/10663521.shtml","https://news.qq.com/rain/a/20260528A06U0900"],"created":1794627879,"id":"chatcmpl-328a1098-a292-9100-af09-708df276b7d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"通常","reasoning_content":""},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.chinanews.com.cn/gn/2026/07-21/10663521.shtml","https://news.qq.com/rain/a/20260528A06U0900"],"created":1794627879,"id":"chatcmpl-328a1098-a292-9100-af09-708df276b7d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"流程会更简单；","reasoning_content":""},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.chinanews.com.cn/gn/2026/07-21/10663521.shtml","https://news.qq.com/rain/a/20260528A06U0900"],"created":1794627879,"id":"chatcmpl-328a1098-a292-9100-af09-708df276b7d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"若","reasoning_content":""},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.chinanews.com.cn/gn/2026/07-21/10663521.shtml","https://news.qq.com/rain/a/20260528A06U0900"],"created":1794627879,"id":"chatcmpl-328a1098-a292-9100-af09-708df276b7d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"当地要求补充材料","reasoning_content":""},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.chinanews.com.cn/gn/2026/07-21/10663521.shtml","https://news.qq.com/rain/a/20260528A06U0900"],"created":1794627879,"id":"chatcmpl-328a1098-a292-9100-af09-708df276b7d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"或系统","reasoning_content":""},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.chinanews.com.cn/gn/2026/07-21/10663521.shtml","https://news.qq.com/rain/a/20260528A06U0900"],"created":1794627879,"id":"chatcmpl-328a1098-a292-9100-af09-708df276b7d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"提示异常，则需要","reasoning_content":""},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.chinanews.com.cn/gn/2026/07-21/10663521.shtml","https://news.qq.com/rain/a/20260528A06U0900"],"created":1794627879,"id":"chatcmpl-328a1098-a292-9100-af09-708df276b7d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"按提示处理。","reasoning_content":""},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.chinanews.com.cn/gn/2026/07-21/10663521.shtml","https://news.qq.com/rain/a/20260528A06U0900"],"created":1794627879,"id":"chatcmpl-328a1098-a292-9100-af09-708df276b7d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"[2][4","reasoning_content":""},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.chinanews.com.cn/gn/2026/07-21/10663521.shtml","https://news.qq.com/rain/a/20260528A06U0900"],"created":1794627879,"id":"chatcmpl-328a1098-a292-9100-af09-708df276b7d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"]","reasoning_content":""},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.chinanews.com.cn/gn/2026/07-21/10663521.shtml","https://news.qq.com/rain/a/20260528A06U0900"],"created":1794627879,"id":"chatcmpl-328a1098-a292-9100-af09-708df276b7d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":""},"finish_reason":"stop","index":0,"logprobs":null}],"citations":["https://www.chinanews.com.cn/gn/2026/07-21/10663521.shtml","https://news.qq.com/rain/a/20260528A06U0900"],"created":1794627879,"id":"chatcmpl-328a1098-a292-9100-af09-708df276b7d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[],"citations":["https://www.chinanews.com.cn/gn/2026/07-21/10663521.shtml","https://news.qq.com/rain/a/20260528A06U0900"],"created":1794627879,"id":"chatcmpl-328a1098-a292-9100-af09-708df276b7d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":{"completion_tokens":951,"completion_tokens_details":{"reasoning_tokens":647,"text_tokens":951},"prompt_tokens":1041,"prompt_tokens_details":{"cached_tokens":0,"text_tokens":1041},"total_tokens":1992}}
+
+data: [DONE]
+

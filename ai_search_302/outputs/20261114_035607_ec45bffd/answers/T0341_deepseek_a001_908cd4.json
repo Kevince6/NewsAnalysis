@@ -1,0 +1,51 @@
+{
+  "task_id": "T0341",
+  "model": "deepseek",
+  "news_id": "E029",
+  "question_index": 1,
+  "question_original": "【开放】卢浮宫案到底是丢了几件珠宝？找回的那顶皇冠和官方被盗清单是什么关系？",
+  "question": "卢浮宫案到底是丢了几件珠宝？找回的那顶皇冠和官方被盗清单是什么关系？",
+  "attempt": 1,
+  "provider": "302.ai",
+  "model_requested": "deepseek-flash",
+  "query_date": "2026-11-14",
+  "search_service": "metaso",
+  "prompt_version": "news-search-v1",
+  "prompt_sha256": "ea56fd5557d32615a9115f2368a0c4983ff1188f4935369e694d7d46f2493be1",
+  "requested_at": "2026-11-14T12:29:45.239164+08:00",
+  "raw_file": "raw/T0341_deepseek_a001_908cd4.json",
+  "transport": "sse",
+  "stream_file": "raw/T0341_deepseek_a001_908cd4.sse",
+  "status": "ok",
+  "model_returned": "deepseek-flash",
+  "answer": "目前能确认的是：**“9件珠宝”是法国媒体披露的数字，尚未得到法国警方证实；卢浮宫方面的公告也没有在现有检索资料中给出一个可核对的完整“官方被盗清单”件数。** 因此，现在还不能把“9件”当成官方最终结论[2]。\n\n具体分两点看：\n\n1. **丢了几件？**\n   - 法媒报道称，嫌犯共盗走 **9件珠宝**，其中包括欧也妮皇后皇冠在内的 **2件** 已被找回；但这一说法“未得到法国警方证实”[2]。\n   - 卢浮宫方面目前可确认的是：画廊外窗及两座展柜的报警系统均已启动；嫌犯试图纵火焚毁疑似升降装置时被卢浮宫员工阻止，随后逃离；事件中无人受伤[2][3]。\n   - 因此，严格说：**媒体口径是9件，官方确认口径在现有资料中并不完整，不能直接定论为“官方确认丢失9件”。**\n\n2. **找回的皇冠和“官方被盗清单”是什么关系？**\n   - 现有资料只能说明：欧也妮皇后的冠冕出现在相关报道/资料列举中[3]，同时法媒称包括该皇冠在内的2件珠宝已被找回，但该消息未获警方证实[2]。\n   - 也就是说，**不能仅凭现有检索结果认定这顶皇冠“原本就在官方被盗清单上、现已从清单中核销”**。更准确的说法是：皇冠是媒体报道的被盗物品之一，并据称已找回；但它与官方清单的对应关系，仍需等待警方或卢浮宫正式清单确认。卢浮宫方面还表示皇冠状况正在评估中[2]。\n\n简言之：**“9件”目前是媒体数字，不是已证实的官方数字；找回皇冠与官方清单的关系也尚未由官方完整确认。**",
+  "sources": [
+    {
+      "index": 1,
+      "url": "https://news.qq.com/rain/a/20251020A01EU600",
+      "title": null,
+      "origin": "citations"
+    },
+    {
+      "index": 2,
+      "url": "https://m.thepaper.cn/newsDetail_forward_31811254",
+      "title": null,
+      "origin": "citations"
+    }
+  ],
+  "usage": {
+    "completion_tokens": 1008,
+    "completion_tokens_details": {
+      "reasoning_tokens": 592
+    },
+    "prompt_tokens": 901,
+    "prompt_tokens_details": {
+      "cached_tokens": 0
+    },
+    "total_tokens": 1909
+  },
+  "finish_reason": "stop",
+  "note": [],
+  "request_id": "29113c75-0fe6-4418-a499-352619c65b02",
+  "duration_seconds": 10.343
+}

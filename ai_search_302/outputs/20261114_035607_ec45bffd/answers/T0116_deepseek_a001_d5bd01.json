@@ -1,0 +1,57 @@
+{
+  "task_id": "T0116",
+  "model": "deepseek",
+  "news_id": "E010",
+  "question_index": 1,
+  "question_original": "【开放】张雪峰去世后，哪些信息有公司讣告确认，哪些只是与网上流传医疗文件有关的争议？",
+  "question": "张雪峰去世后，哪些信息有公司讣告确认，哪些只是与网上流传医疗文件有关的争议？",
+  "attempt": 1,
+  "provider": "302.ai",
+  "model_requested": "deepseek-flash",
+  "query_date": "2026-11-14",
+  "search_service": "metaso",
+  "prompt_version": "news-search-v1",
+  "prompt_sha256": "ea56fd5557d32615a9115f2368a0c4983ff1188f4935369e694d7d46f2493be1",
+  "requested_at": "2026-11-14T11:32:10.274735+08:00",
+  "raw_file": "raw/T0116_deepseek_a001_d5bd01.json",
+  "transport": "sse",
+  "stream_file": "raw/T0116_deepseek_a001_d5bd01.sse",
+  "status": "ok",
+  "model_returned": "deepseek-flash",
+  "answer": "**直接回答：公司讣告能够确认的，主要是张雪峰去世这一事实及“突发疾病/心源性猝死、抢救无效”的核心表述；而“本名张子彪”、具体就诊医院、网传“特殊治疗知情同意书”的内容和泄露情况，属于医疗文件流传引发的争议，不能视为公司讣告确认的信息。**\n\n**一、公司讣告层面可确认的信息**\n- 发布主体为**苏州峰学蔚来教育科技有限公司**，发布时间为**3月24日**；讣告确认张雪峰因**突发心源性猝死，经抢救无效逝世**[1][5]。\n- 报道中对更细时间线的表述是“记者了解到”：张雪峰于**24日中午12点26分在公司跑步后出现不适**，被紧急送医，**下午3点50分**抢救无效去世，医院诊断为**心源性猝死**[5]。这部分更接近媒体报道中的了解信息，不宜全部说成“讣告原文确认”。\n\n**二、与网传医疗文件有关的争议，不等于讣告确认**\n- 3月24日傍晚、也就是官方讣告发布前，网上流传一份标注姓名为**张子彪**、来自**苏州大学附属第四医院（苏州市独墅湖医院）**的“特殊治疗知情同意书”[4][5]。\n- 该文件被指包含患者个人信息和诊疗内容，**未经授权被公开传播**，并被认为提前泄露了救治情况、触及医疗隐私保护红线；相关报道多使用“疑似泄露”的表述[4][5]。\n- 医院方面的回应并不明确：记者致电医院监督电话，工作人员称“不太清楚”，随后总机工作人员又以“不清楚”为由挂断电话[5]。\n- 检索材料中虽然出现“苏州卫健委回应”的标题，但正文没有给出可引用的具体回应内容，因此**不能据此认定卫健委已经确认文件真伪或泄露责任**[1]。\n\n**三、需要区分的关键点**\n可以确认的是：**张雪峰去世及公司讣告中的核心死因表述**。尚存争议、未被权威材料完整确认的是：**网传医疗文件的真伪、具体泄露渠道和责任人、 “张子彪”及就诊医院等信息是否应由官方披露，以及隐私侵权责任如何认定**。这些都属于医疗文件流传引发的争议，不能直接当作公司讣告确认的事实[4][5]。",
+  "sources": [
+    {
+      "index": 1,
+      "url": "https://finance.sina.cn/2026-03-25/detail-inhseyvs0909690.d.html",
+      "title": null,
+      "origin": "citations"
+    },
+    {
+      "index": 2,
+      "url": "https://m.163.com/dy/article/KOUT057M0556C2W1.html",
+      "title": null,
+      "origin": "citations"
+    },
+    {
+      "index": 3,
+      "url": "https://news.qq.com/rain/a/20260325A04ZKO00",
+      "title": null,
+      "origin": "citations"
+    }
+  ],
+  "usage": {
+    "completion_tokens": 2133,
+    "completion_tokens_details": {
+      "reasoning_tokens": 1613
+    },
+    "prompt_tokens": 1054,
+    "prompt_tokens_details": {
+      "cached_tokens": 0
+    },
+    "total_tokens": 3187
+  },
+  "finish_reason": "stop",
+  "note": [],
+  "request_id": "49b28aad-e59a-402a-ad88-bfe467ac2365",
+  "duration_seconds": 12.797
+}

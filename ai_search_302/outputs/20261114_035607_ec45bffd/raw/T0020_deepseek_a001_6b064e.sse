@@ -1,0 +1,402 @@
+data: {"choices":[{"delta":{"reasoning_content":"用户","role":"assistant"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20261112A0ELT600","https://news.qq.com/rain/a/20261112A0EAPQ00"],"created":1794600700,"id":"chatcmpl-a3c44907-25ab-493f-808d-7bf900cc5903","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"问："},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20261112A0ELT600","https://news.qq.com/rain/a/20261112A0EAPQ00"],"created":1794600700,"id":"chatcmpl-a3c44907-25ab-493f-808d-7bf900cc5903","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"刘欢什么时候、"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20261112A0ELT600","https://news.qq.com/rain/a/20261112A0EAPQ00"],"created":1794600700,"id":"chatcmpl-a3c44907-25ab-493f-808d-7bf900cc5903","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"在哪里去世的？他"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20261112A0ELT600","https://news.qq.com/rain/a/20261112A0EAPQ00"],"created":1794600700,"id":"chatcmpl-a3c44907-25ab-493f-808d-7bf900cc5903","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"妻子的公开信是什么"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20261112A0ELT600","https://news.qq.com/rain/a/20261112A0EAPQ00"],"created":1794600700,"id":"chatcmpl-a3c44907-25ab-493f-808d-7bf900cc5903","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"时候发布的？\n\n搜索结果："},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20261112A0ELT600","https://news.qq.com/rain/a/20261112A0EAPQ00"],"created":1794600700,"id":"chatcmpl-a3c44907-25ab-493f-808d-7bf900cc5903","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"刘"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20261112A0ELT600","https://news.qq.com/rain/a/20261112A0EAPQ00"],"created":1794600700,"id":"chatcmpl-a3c44907-25ab-493f-808d-7bf900cc5903","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"欢于"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20261112A0ELT600","https://news.qq.com/rain/a/20261112A0EAPQ00"],"created":1794600700,"id":"chatcmpl-a3c44907-25ab-493f-808d-7bf900cc5903","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"9月25日在上海病"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20261112A0ELT600","https://news.qq.com/rain/a/20261112A0EAPQ00"],"created":1794600700,"id":"chatcmpl-a3c44907-25ab-493f-808d-7bf900cc5903","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"逝，"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20261112A0ELT600","https://news.qq.com/rain/a/20261112A0EAPQ00"],"created":1794600700,"id":"chatcmpl-a3c44907-25ab-493f-808d-7bf900cc5903","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"享年63岁["},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20261112A0ELT600","https://news.qq.com/rain/a/20261112A0EAPQ00"],"created":1794600700,"id":"chatcmpl-a3c44907-25ab-493f-808d-7bf900cc5903","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"1][5]。公开"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20261112A0ELT600","https://news.qq.com/rain/a/20261112A0EAPQ00"],"created":1794600700,"id":"chatcmpl-a3c44907-25ab-493f-808d-7bf900cc5903","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"信是"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20261112A0ELT600","https://news.qq.com/rain/a/20261112A0EAPQ00"],"created":1794600700,"id":"chatcmpl-a3c44907-25ab-493f-808d-7bf900cc5903","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"11月12日，水"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20261112A0ELT600","https://news.qq.com/rain/a/20261112A0EAPQ00"],"created":1794600700,"id":"chatcmpl-a3c44907-25ab-493f-808d-7bf900cc5903","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"均"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20261112A0ELT600","https://news.qq.com/rain/a/20261112A0EAPQ00"],"created":1794600700,"id":"chatcmpl-a3c44907-25ab-493f-808d-7bf900cc5903","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"益受刘欢妻子"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20261112A0ELT600","https://news.qq.com/rain/a/20261112A0EAPQ00"],"created":1794600700,"id":"chatcmpl-a3c44907-25ab-493f-808d-7bf900cc5903","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"卢璐"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20261112A0ELT600","https://news.qq.com/rain/a/20261112A0EAPQ00"],"created":1794600700,"id":"chatcmpl-a3c44907-25ab-493f-808d-7bf900cc5903","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"委托发布，说明"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20261112A0ELT600","https://news.qq.com/rain/a/20261112A0EAPQ00"],"created":1794600700,"id":"chatcmpl-a3c44907-25ab-493f-808d-7bf900cc5903","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"刘欢当日"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20261112A0ELT600","https://news.qq.com/rain/a/20261112A0EAPQ00"],"created":1794600700,"id":"chatcmpl-a3c44907-25ab-493f-808d-7bf900cc5903","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"安葬在北京"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20261112A0ELT600","https://news.qq.com/rain/a/20261112A0EAPQ00"],"created":1794600700,"id":"chatcmpl-a3c44907-25ab-493f-808d-7bf900cc5903","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"怀柔长城"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20261112A0ELT600","https://news.qq.com/rain/a/20261112A0EAPQ00"],"created":1794600700,"id":"chatcmpl-a3c44907-25ab-493f-808d-7bf900cc5903","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"脚下[1][5]。\n\n"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20261112A0ELT600","https://news.qq.com/rain/a/20261112A0EAPQ00"],"created":1794600700,"id":"chatcmpl-a3c44907-25ab-493f-808d-7bf900cc5903","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"注意：这看起来"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20261112A0ELT600","https://news.qq.com/rain/a/20261112A0EAPQ00"],"created":1794600700,"id":"chatcmpl-a3c44907-25ab-493f-808d-7bf900cc5903","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"是虚假"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20261112A0ELT600","https://news.qq.com/rain/a/20261112A0EAPQ00"],"created":1794600700,"id":"chatcmpl-a3c44907-25ab-493f-808d-7bf900cc5903","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"消息"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20261112A0ELT600","https://news.qq.com/rain/a/20261112A0EAPQ00"],"created":1794600700,"id":"chatcmpl-a3c44907-25ab-493f-808d-7bf900cc5903","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"/"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20261112A0ELT600","https://news.qq.com/rain/a/20261112A0EAPQ00"],"created":1794600700,"id":"chatcmpl-a3c44907-25ab-493f-808d-7bf900cc5903","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"谣言"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20261112A0ELT600","https://news.qq.com/rain/a/20261112A0EAPQ00"],"created":1794600700,"id":"chatcmpl-a3c44907-25ab-493f-808d-7bf900cc5903","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"？刘"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20261112A0ELT600","https://news.qq.com/rain/a/20261112A0EAPQ00"],"created":1794600700,"id":"chatcmpl-a3c44907-25ab-493f-808d-7bf900cc5903","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"欢实际上"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20261112A0ELT600","https://news.qq.com/rain/a/20261112A0EAPQ00"],"created":1794600700,"id":"chatcmpl-a3c44907-25ab-493f-808d-7bf900cc5903","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"还"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20261112A0ELT600","https://news.qq.com/rain/a/20261112A0EAPQ00"],"created":1794600700,"id":"chatcmpl-a3c44907-25ab-493f-808d-7bf900cc5903","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"活着？"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20261112A0ELT600","https://news.qq.com/rain/a/20261112A0EAPQ00"],"created":1794600700,"id":"chatcmpl-a3c44907-25ab-493f-808d-7bf900cc5903","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"但检索"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20261112A0ELT600","https://news.qq.com/rain/a/20261112A0EAPQ00"],"created":1794600700,"id":"chatcmpl-a3c44907-25ab-493f-808d-7bf900cc5903","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"结果给出"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20261112A0ELT600","https://news.qq.com/rain/a/20261112A0EAPQ00"],"created":1794600700,"id":"chatcmpl-a3c44907-25ab-493f-808d-7bf900cc5903","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"这些内容。需要"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20261112A0ELT600","https://news.qq.com/rain/a/20261112A0EAPQ00"],"created":1794600700,"id":"chatcmpl-a3c44907-25ab-493f-808d-7bf900cc5903","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"依据"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20261112A0ELT600","https://news.qq.com/rain/a/20261112A0EAPQ00"],"created":1794600700,"id":"chatcmpl-a3c44907-25ab-493f-808d-7bf900cc5903","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"检索资料"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20261112A0ELT600","https://news.qq.com/rain/a/20261112A0EAPQ00"],"created":1794600700,"id":"chatcmpl-a3c44907-25ab-493f-808d-7bf900cc5903","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"作答，但"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20261112A0ELT600","https://news.qq.com/rain/a/20261112A0EAPQ00"],"created":1794600700,"id":"chatcmpl-a3c44907-25ab-493f-808d-7bf900cc5903","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"也要"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20261112A0ELT600","https://news.qq.com/rain/a/20261112A0EAPQ00"],"created":1794600700,"id":"chatcmpl-a3c44907-25ab-493f-808d-7bf900cc5903","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"提醒资料可能存在"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20261112A0ELT600","https://news.qq.com/rain/a/20261112A0EAPQ00"],"created":1794600700,"id":"chatcmpl-a3c44907-25ab-493f-808d-7bf900cc5903","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"不确定性"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20261112A0ELT600","https://news.qq.com/rain/a/20261112A0EAPQ00"],"created":1794600700,"id":"chatcmpl-a3c44907-25ab-493f-808d-7bf900cc5903","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"。查询"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20261112A0ELT600","https://news.qq.com/rain/a/20261112A0EAPQ00"],"created":1794600700,"id":"chatcmpl-a3c44907-25ab-493f-808d-7bf900cc5903","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"日期2026-"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20261112A0ELT600","https://news.qq.com/rain/a/20261112A0EAPQ00"],"created":1794600700,"id":"chatcmpl-a3c44907-25ab-493f-808d-7bf900cc5903","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"11-14，"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20261112A0ELT600","https://news.qq.com/rain/a/20261112A0EAPQ00"],"created":1794600700,"id":"chatcmpl-a3c44907-25ab-493f-808d-7bf900cc5903","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"消息"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20261112A0ELT600","https://news.qq.com/rain/a/20261112A0EAPQ00"],"created":1794600700,"id":"chatcmpl-a3c44907-25ab-493f-808d-7bf900cc5903","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"说11"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20261112A0ELT600","https://news.qq.com/rain/a/20261112A0EAPQ00"],"created":1794600700,"id":"chatcmpl-a3c44907-25ab-493f-808d-7bf900cc5903","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"月12日，"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20261112A0ELT600","https://news.qq.com/rain/a/20261112A0EAPQ00"],"created":1794600700,"id":"chatcmpl-a3c44907-25ab-493f-808d-7bf900cc5903","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"即"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20261112A0ELT600","https://news.qq.com/rain/a/20261112A0EAPQ00"],"created":1794600700,"id":"chatcmpl-a3c44907-25ab-493f-808d-7bf900cc5903","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"2026"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20261112A0ELT600","https://news.qq.com/rain/a/20261112A0EAPQ00"],"created":1794600700,"id":"chatcmpl-a3c44907-25ab-493f-808d-7bf900cc5903","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"年11月12日？"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20261112A0ELT600","https://news.qq.com/rain/a/20261112A0EAPQ00"],"created":1794600700,"id":"chatcmpl-a3c44907-25ab-493f-808d-7bf900cc5903","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"但网页"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20261112A0ELT600","https://news.qq.com/rain/a/20261112A0EAPQ00"],"created":1794600700,"id":"chatcmpl-a3c44907-25ab-493f-808d-7bf900cc5903","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"没有"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20261112A0ELT600","https://news.qq.com/rain/a/20261112A0EAPQ00"],"created":1794600700,"id":"chatcmpl-a3c44907-25ab-493f-808d-7bf900cc5903","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"年份。"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20261112A0ELT600","https://news.qq.com/rain/a/20261112A0EAPQ00"],"created":1794600700,"id":"chatcmpl-a3c44907-25ab-493f-808d-7bf900cc5903","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"刘欢195"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20261112A0ELT600","https://news.qq.com/rain/a/20261112A0EAPQ00"],"created":1794600700,"id":"chatcmpl-a3c44907-25ab-493f-808d-7bf900cc5903","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"8年8"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20261112A0ELT600","https://news.qq.com/rain/a/20261112A0EAPQ00"],"created":1794600700,"id":"chatcmpl-a3c44907-25ab-493f-808d-7bf900cc5903","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"月26"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20261112A0ELT600","https://news.qq.com/rain/a/20261112A0EAPQ00"],"created":1794600700,"id":"chatcmpl-a3c44907-25ab-493f-808d-7bf900cc5903","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"日出生，63"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20261112A0ELT600","https://news.qq.com/rain/a/20261112A0EAPQ00"],"created":1794600700,"id":"chatcmpl-a3c44907-25ab-493f-808d-7bf900cc5903","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"岁对应"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20261112A0ELT600","https://news.qq.com/rain/a/20261112A0EAPQ00"],"created":1794600700,"id":"chatcmpl-a3c44907-25ab-493f-808d-7bf900cc5903","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"2021"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20261112A0ELT600","https://news.qq.com/rain/a/20261112A0EAPQ00"],"created":1794600700,"id":"chatcmpl-a3c44907-25ab-493f-808d-7bf900cc5903","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"-2022年，不是"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20261112A0ELT600","https://news.qq.com/rain/a/20261112A0EAPQ00"],"created":1794600700,"id":"chatcmpl-a3c44907-25ab-493f-808d-7bf900cc5903","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"2026"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20261112A0ELT600","https://news.qq.com/rain/a/20261112A0EAPQ00"],"created":1794600700,"id":"chatcmpl-a3c44907-25ab-493f-808d-7bf900cc5903","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"年。9月25"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20261112A0ELT600","https://news.qq.com/rain/a/20261112A0EAPQ00"],"created":1794600700,"id":"chatcmpl-a3c44907-25ab-493f-808d-7bf900cc5903","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"日病"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20261112A0ELT600","https://news.qq.com/rain/a/20261112A0EAPQ00"],"created":1794600700,"id":"chatcmpl-a3c44907-25ab-493f-808d-7bf900cc5903","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"逝享"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20261112A0ELT600","https://news.qq.com/rain/a/20261112A0EAPQ00"],"created":1794600700,"id":"chatcmpl-a3c44907-25ab-493f-808d-7bf900cc5903","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"年63岁，如果202"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20261112A0ELT600","https://news.qq.com/rain/a/20261112A0EAPQ00"],"created":1794600700,"id":"chatcmpl-a3c44907-25ab-493f-808d-7bf900cc5903","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"6年应该是"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20261112A0ELT600","https://news.qq.com/rain/a/20261112A0EAPQ00"],"created":1794600700,"id":"chatcmpl-a3c44907-25ab-493f-808d-7bf900cc5903","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"68"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20261112A0ELT600","https://news.qq.com/rain/a/20261112A0EAPQ00"],"created":1794600700,"id":"chatcmpl-a3c44907-25ab-493f-808d-7bf900cc5903","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"岁。这里存在"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20261112A0ELT600","https://news.qq.com/rain/a/20261112A0EAPQ00"],"created":1794600700,"id":"chatcmpl-a3c44907-25ab-493f-808d-7bf900cc5903","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"矛盾，"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20261112A0ELT600","https://news.qq.com/rain/a/20261112A0EAPQ00"],"created":1794600700,"id":"chatcmpl-a3c44907-25ab-493f-808d-7bf900cc5903","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"暗示这是假"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20261112A0ELT600","https://news.qq.com/rain/a/20261112A0EAPQ00"],"created":1794600700,"id":"chatcmpl-a3c44907-25ab-493f-808d-7bf900cc5903","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"新闻"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20261112A0ELT600","https://news.qq.com/rain/a/20261112A0EAPQ00"],"created":1794600700,"id":"chatcmpl-a3c44907-25ab-493f-808d-7bf900cc5903","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"/网络"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20261112A0ELT600","https://news.qq.com/rain/a/20261112A0EAPQ00"],"created":1794600700,"id":"chatcmpl-a3c44907-25ab-493f-808d-7bf900cc5903","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"谣言。但任务"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20261112A0ELT600","https://news.qq.com/rain/a/20261112A0EAPQ00"],"created":1794600700,"id":"chatcmpl-a3c44907-25ab-493f-808d-7bf900cc5903","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"要求依据"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20261112A0ELT600","https://news.qq.com/rain/a/20261112A0EAPQ00"],"created":1794600700,"id":"chatcmpl-a3c44907-25ab-493f-808d-7bf900cc5903","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"检索资料"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20261112A0ELT600","https://news.qq.com/rain/a/20261112A0EAPQ00"],"created":1794600700,"id":"chatcmpl-a3c44907-25ab-493f-808d-7bf900cc5903","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"，"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20261112A0ELT600","https://news.qq.com/rain/a/20261112A0EAPQ00"],"created":1794600700,"id":"chatcmpl-a3c44907-25ab-493f-808d-7bf900cc5903","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"资料不足或"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20261112A0ELT600","https://news.qq.com/rain/a/20261112A0EAPQ00"],"created":1794600700,"id":"chatcmpl-a3c44907-25ab-493f-808d-7bf900cc5903","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"存在分歧说明。\n\n我应该直接"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20261112A0ELT600","https://news.qq.com/rain/a/20261112A0EAPQ00"],"created":1794600700,"id":"chatcmpl-a3c44907-25ab-493f-808d-7bf900cc5903","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"回答：据"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20261112A0ELT600","https://news.qq.com/rain/a/20261112A0EAPQ00"],"created":1794600700,"id":"chatcmpl-a3c44907-25ab-493f-808d-7bf900cc5903","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"检索结果，刘欢于"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20261112A0ELT600","https://news.qq.com/rain/a/20261112A0EAPQ00"],"created":1794600700,"id":"chatcmpl-a3c44907-25ab-493f-808d-7bf900cc5903","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"9"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20261112A0ELT600","https://news.qq.com/rain/a/20261112A0EAPQ00"],"created":1794600700,"id":"chatcmpl-a3c44907-25ab-493f-808d-7bf900cc5903","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"月25日在"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20261112A0ELT600","https://news.qq.com/rain/a/20261112A0EAPQ00"],"created":1794600700,"id":"chatcmpl-a3c44907-25ab-493f-808d-7bf900cc5903","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"上海病逝，享年"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20261112A0ELT600","https://news.qq.com/rain/a/20261112A0EAPQ00"],"created":1794600700,"id":"chatcmpl-a3c44907-25ab-493f-808d-7bf900cc5903","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"63岁["},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20261112A0ELT600","https://news.qq.com/rain/a/20261112A0EAPQ00"],"created":1794600700,"id":"chatcmpl-a3c44907-25ab-493f-808d-7bf900cc5903","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"1][5]；公开"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20261112A0ELT600","https://news.qq.com/rain/a/20261112A0EAPQ00"],"created":1794600700,"id":"chatcmpl-a3c44907-25ab-493f-808d-7bf900cc5903","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"信于"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20261112A0ELT600","https://news.qq.com/rain/a/20261112A0EAPQ00"],"created":1794600700,"id":"chatcmpl-a3c44907-25ab-493f-808d-7bf900cc5903","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"11月12日发布"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20261112A0ELT600","https://news.qq.com/rain/a/20261112A0EAPQ00"],"created":1794600700,"id":"chatcmpl-a3c44907-25ab-493f-808d-7bf900cc5903","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"，由水均"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20261112A0ELT600","https://news.qq.com/rain/a/20261112A0EAPQ00"],"created":1794600700,"id":"chatcmpl-a3c44907-25ab-493f-808d-7bf900cc5903","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"益受卢"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20261112A0ELT600","https://news.qq.com/rain/a/20261112A0EAPQ00"],"created":1794600700,"id":"chatcmpl-a3c44907-25ab-493f-808d-7bf900cc5903","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"璐"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20261112A0ELT600","https://news.qq.com/rain/a/20261112A0EAPQ00"],"created":1794600700,"id":"chatcmpl-a3c44907-25ab-493f-808d-7bf900cc5903","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"委托发布，同时"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20261112A0ELT600","https://news.qq.com/rain/a/20261112A0EAPQ00"],"created":1794600700,"id":"chatcmpl-a3c44907-25ab-493f-808d-7bf900cc5903","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"说明当日"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20261112A0ELT600","https://news.qq.com/rain/a/20261112A0EAPQ00"],"created":1794600700,"id":"chatcmpl-a3c44907-25ab-493f-808d-7bf900cc5903","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"安葬于北京"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20261112A0ELT600","https://news.qq.com/rain/a/20261112A0EAPQ00"],"created":1794600700,"id":"chatcmpl-a3c44907-25ab-493f-808d-7bf900cc5903","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"怀柔长城脚下"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20261112A0ELT600","https://news.qq.com/rain/a/20261112A0EAPQ00"],"created":1794600700,"id":"chatcmpl-a3c44907-25ab-493f-808d-7bf900cc5903","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"[1][5]。但"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20261112A0ELT600","https://news.qq.com/rain/a/20261112A0EAPQ00"],"created":1794600700,"id":"chatcmpl-a3c44907-25ab-493f-808d-7bf900cc5903","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"需要指出检索"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20261112A0ELT600","https://news.qq.com/rain/a/20261112A0EAPQ00"],"created":1794600700,"id":"chatcmpl-a3c44907-25ab-493f-808d-7bf900cc5903","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"结果未标"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20261112A0ELT600","https://news.qq.com/rain/a/20261112A0EAPQ00"],"created":1794600700,"id":"chatcmpl-a3c44907-25ab-493f-808d-7bf900cc5903","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"明年份，且年龄"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20261112A0ELT600","https://news.qq.com/rain/a/20261112A0EAPQ00"],"created":1794600700,"id":"chatcmpl-a3c44907-25ab-493f-808d-7bf900cc5903","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"与公开"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20261112A0ELT600","https://news.qq.com/rain/a/20261112A0EAPQ00"],"created":1794600700,"id":"chatcmpl-a3c44907-25ab-493f-808d-7bf900cc5903","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"资料"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20261112A0ELT600","https://news.qq.com/rain/a/20261112A0EAPQ00"],"created":1794600700,"id":"chatcmpl-a3c44907-25ab-493f-808d-7bf900cc5903","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"（"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20261112A0ELT600","https://news.qq.com/rain/a/20261112A0EAPQ00"],"created":1794600700,"id":"chatcmpl-a3c44907-25ab-493f-808d-7bf900cc5903","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"刘欢195"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20261112A0ELT600","https://news.qq.com/rain/a/20261112A0EAPQ00"],"created":1794600700,"id":"chatcmpl-a3c44907-25ab-493f-808d-7bf900cc5903","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"8年生）不符"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20261112A0ELT600","https://news.qq.com/rain/a/20261112A0EAPQ00"],"created":1794600700,"id":"chatcmpl-a3c44907-25ab-493f-808d-7bf900cc5903","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"，信息"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20261112A0ELT600","https://news.qq.com/rain/a/20261112A0EAPQ00"],"created":1794600700,"id":"chatcmpl-a3c44907-25ab-493f-808d-7bf900cc5903","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"可靠性"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20261112A0ELT600","https://news.qq.com/rain/a/20261112A0EAPQ00"],"created":1794600700,"id":"chatcmpl-a3c44907-25ab-493f-808d-7bf900cc5903","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"存疑，建议以"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20261112A0ELT600","https://news.qq.com/rain/a/20261112A0EAPQ00"],"created":1794600700,"id":"chatcmpl-a3c44907-25ab-493f-808d-7bf900cc5903","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"家属"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20261112A0ELT600","https://news.qq.com/rain/a/20261112A0EAPQ00"],"created":1794600700,"id":"chatcmpl-a3c44907-25ab-493f-808d-7bf900cc5903","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"或"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20261112A0ELT600","https://news.qq.com/rain/a/20261112A0EAPQ00"],"created":1794600700,"id":"chatcmpl-a3c44907-25ab-493f-808d-7bf900cc5903","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"权威渠道"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20261112A0ELT600","https://news.qq.com/rain/a/20261112A0EAPQ00"],"created":1794600700,"id":"chatcmpl-a3c44907-25ab-493f-808d-7bf900cc5903","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"为准。\n\n要"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20261112A0ELT600","https://news.qq.com/rain/a/20261112A0EAPQ00"],"created":1794600700,"id":"chatcmpl-a3c44907-25ab-493f-808d-7bf900cc5903","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"谨慎：不要断言"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20261112A0ELT600","https://news.qq.com/rain/a/20261112A0EAPQ00"],"created":1794600700,"id":"chatcmpl-a3c44907-25ab-493f-808d-7bf900cc5903","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"刘欢去世。用户问"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20261112A0ELT600","https://news.qq.com/rain/a/20261112A0EAPQ00"],"created":1794600700,"id":"chatcmpl-a3c44907-25ab-493f-808d-7bf900cc5903","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"的是"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20261112A0ELT600","https://news.qq.com/rain/a/20261112A0EAPQ00"],"created":1794600700,"id":"chatcmpl-a3c44907-25ab-493f-808d-7bf900cc5903","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"基于"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20261112A0ELT600","https://news.qq.com/rain/a/20261112A0EAPQ00"],"created":1794600700,"id":"chatcmpl-a3c44907-25ab-493f-808d-7bf900cc5903","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"搜索结果。可以"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20261112A0ELT600","https://news.qq.com/rain/a/20261112A0EAPQ00"],"created":1794600700,"id":"chatcmpl-a3c44907-25ab-493f-808d-7bf900cc5903","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"答“"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20261112A0ELT600","https://news.qq.com/rain/a/20261112A0EAPQ00"],"created":1794600700,"id":"chatcmpl-a3c44907-25ab-493f-808d-7bf900cc5903","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"按"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20261112A0ELT600","https://news.qq.com/rain/a/20261112A0EAPQ00"],"created":1794600700,"id":"chatcmpl-a3c44907-25ab-493f-808d-7bf900cc5903","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"你提供的检索"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20261112A0ELT600","https://news.qq.com/rain/a/20261112A0EAPQ00"],"created":1794600700,"id":"chatcmpl-a3c44907-25ab-493f-808d-7bf900cc5903","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"结果……"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20261112A0ELT600","https://news.qq.com/rain/a/20261112A0EAPQ00"],"created":1794600700,"id":"chatcmpl-a3c44907-25ab-493f-808d-7bf900cc5903","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"”。也要"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20261112A0ELT600","https://news.qq.com/rain/a/20261112A0EAPQ00"],"created":1794600700,"id":"chatcmpl-a3c44907-25ab-493f-808d-7bf900cc5903","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"说明"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20261112A0ELT600","https://news.qq.com/rain/a/20261112A0EAPQ00"],"created":1794600700,"id":"chatcmpl-a3c44907-25ab-493f-808d-7bf900cc5903","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"这些"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20261112A0ELT600","https://news.qq.com/rain/a/20261112A0EAPQ00"],"created":1794600700,"id":"chatcmpl-a3c44907-25ab-493f-808d-7bf900cc5903","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"网页来源"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20261112A0ELT600","https://news.qq.com/rain/a/20261112A0EAPQ00"],"created":1794600700,"id":"chatcmpl-a3c44907-25ab-493f-808d-7bf900cc5903","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"是"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20261112A0ELT600","https://news.qq.com/rain/a/20261112A0EAPQ00"],"created":1794600700,"id":"chatcmpl-a3c44907-25ab-493f-808d-7bf900cc5903","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"腾讯新闻"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20261112A0ELT600","https://news.qq.com/rain/a/20261112A0EAPQ00"],"created":1794600700,"id":"chatcmpl-a3c44907-25ab-493f-808d-7bf900cc5903","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"、"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20261112A0ELT600","https://news.qq.com/rain/a/20261112A0EAPQ00"],"created":1794600700,"id":"chatcmpl-a3c44907-25ab-493f-808d-7bf900cc5903","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"新京报（"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20261112A0ELT600","https://news.qq.com/rain/a/20261112A0EAPQ00"],"created":1794600700,"id":"chatcmpl-a3c44907-25ab-493f-808d-7bf900cc5903","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"据"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20261112A0ELT600","https://news.qq.com/rain/a/20261112A0EAPQ00"],"created":1794600700,"id":"chatcmpl-a3c44907-25ab-493f-808d-7bf900cc5903","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"称"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20261112A0ELT600","https://news.qq.com/rain/a/20261112A0EAPQ00"],"created":1794600700,"id":"chatcmpl-a3c44907-25ab-493f-808d-7bf900cc5903","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"），但存在"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20261112A0ELT600","https://news.qq.com/rain/a/20261112A0EAPQ00"],"created":1794600700,"id":"chatcmpl-a3c44907-25ab-493f-808d-7bf900cc5903","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"疑"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20261112A0ELT600","https://news.qq.com/rain/a/20261112A0EAPQ00"],"created":1794600700,"id":"chatcmpl-a3c44907-25ab-493f-808d-7bf900cc5903","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"点。\n\n回答简洁"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20261112A0ELT600","https://news.qq.com/rain/a/20261112A0EAPQ00"],"created":1794600700,"id":"chatcmpl-a3c44907-25ab-493f-808d-7bf900cc5903","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"。"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20261112A0ELT600","https://news.qq.com/rain/a/20261112A0EAPQ00"],"created":1794600700,"id":"chatcmpl-a3c44907-25ab-493f-808d-7bf900cc5903","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"按你"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20261112A0ELT600","https://news.qq.com/rain/a/20261112A0EAPQ00"],"created":1794600700,"id":"chatcmpl-a3c44907-25ab-493f-808d-7bf900cc5903","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"提供的检索结果："},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20261112A0ELT600","https://news.qq.com/rain/a/20261112A0EAPQ00"],"created":1794600700,"id":"chatcmpl-a3c44907-25ab-493f-808d-7bf900cc5903","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"\n\n- **去世"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20261112A0ELT600","https://news.qq.com/rain/a/20261112A0EAPQ00"],"created":1794600700,"id":"chatcmpl-a3c44907-25ab-493f-808d-7bf900cc5903","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"时间与"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20261112A0ELT600","https://news.qq.com/rain/a/20261112A0EAPQ00"],"created":1794600700,"id":"chatcmpl-a3c44907-25ab-493f-808d-7bf900cc5903","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"地点**：刘欢于"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20261112A0ELT600","https://news.qq.com/rain/a/20261112A0EAPQ00"],"created":1794600700,"id":"chatcmpl-a3c44907-25ab-493f-808d-7bf900cc5903","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"**9月25日在"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20261112A0ELT600","https://news.qq.com/rain/a/20261112A0EAPQ00"],"created":1794600700,"id":"chatcmpl-a3c44907-25ab-493f-808d-7bf900cc5903","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"上海病逝，"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20261112A0ELT600","https://news.qq.com/rain/a/20261112A0EAPQ00"],"created":1794600700,"id":"chatcmpl-a3c44907-25ab-493f-808d-7bf900cc5903","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"享年63岁**；"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20261112A0ELT600","https://news.qq.com/rain/a/20261112A0EAPQ00"],"created":1794600700,"id":"chatcmpl-a3c44907-25ab-493f-808d-7bf900cc5903","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"其妻"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20261112A0ELT600","https://news.qq.com/rain/a/20261112A0EAPQ00"],"created":1794600700,"id":"chatcmpl-a3c44907-25ab-493f-808d-7bf900cc5903","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"卢"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20261112A0ELT600","https://news.qq.com/rain/a/20261112A0EAPQ00"],"created":1794600700,"id":"chatcmpl-a3c44907-25ab-493f-808d-7bf900cc5903","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"璐表示遵照"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20261112A0ELT600","https://news.qq.com/rain/a/20261112A0EAPQ00"],"created":1794600700,"id":"chatcmpl-a3c44907-25ab-493f-808d-7bf900cc5903","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"遗愿"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20261112A0ELT600","https://news.qq.com/rain/a/20261112A0EAPQ00"],"created":1794600700,"id":"chatcmpl-a3c44907-25ab-493f-808d-7bf900cc5903","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"，"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20261112A0ELT600","https://news.qq.com/rain/a/20261112A0EAPQ00"],"created":1794600700,"id":"chatcmpl-a3c44907-25ab-493f-808d-7bf900cc5903","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"不举行遗体告别仪式和"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20261112A0ELT600","https://news.qq.com/rain/a/20261112A0EAPQ00"],"created":1794600700,"id":"chatcmpl-a3c44907-25ab-493f-808d-7bf900cc5903","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"追悼会[1]["},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20261112A0ELT600","https://news.qq.com/rain/a/20261112A0EAPQ00"],"created":1794600700,"id":"chatcmpl-a3c44907-25ab-493f-808d-7bf900cc5903","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"5]。\n- **公开"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20261112A0ELT600","https://news.qq.com/rain/a/20261112A0EAPQ00"],"created":1794600700,"id":"chatcmpl-a3c44907-25ab-493f-808d-7bf900cc5903","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"信发布时间"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20261112A0ELT600","https://news.qq.com/rain/a/20261112A0EAPQ00"],"created":1794600700,"id":"chatcmpl-a3c44907-25ab-493f-808d-7bf900cc5903","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"**：**"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20261112A0ELT600","https://news.qq.com/rain/a/20261112A0EAPQ00"],"created":1794600700,"id":"chatcmpl-a3c44907-25ab-493f-808d-7bf900cc5903","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"11月12"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20261112A0ELT600","https://news.qq.com/rain/a/20261112A0EAPQ00"],"created":1794600700,"id":"chatcmpl-a3c44907-25ab-493f-808d-7bf900cc5903","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"日**，由"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20261112A0ELT600","https://news.qq.com/rain/a/20261112A0EAPQ00"],"created":1794600700,"id":"chatcmpl-a3c44907-25ab-493f-808d-7bf900cc5903","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"央视前"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20261112A0ELT600","https://news.qq.com/rain/a/20261112A0EAPQ00"],"created":1794600700,"id":"chatcmpl-a3c44907-25ab-493f-808d-7bf900cc5903","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"主持人**"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20261112A0ELT600","https://news.qq.com/rain/a/20261112A0EAPQ00"],"created":1794600700,"id":"chatcmpl-a3c44907-25ab-493f-808d-7bf900cc5903","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"水均"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20261112A0ELT600","https://news.qq.com/rain/a/20261112A0EAPQ00"],"created":1794600700,"id":"chatcmpl-a3c44907-25ab-493f-808d-7bf900cc5903","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"益受卢"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20261112A0ELT600","https://news.qq.com/rain/a/20261112A0EAPQ00"],"created":1794600700,"id":"chatcmpl-a3c44907-25ab-493f-808d-7bf900cc5903","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"璐委托**"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20261112A0ELT600","https://news.qq.com/rain/a/20261112A0EAPQ00"],"created":1794600700,"id":"chatcmpl-a3c44907-25ab-493f-808d-7bf900cc5903","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"发布；信中"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20261112A0ELT600","https://news.qq.com/rain/a/20261112A0EAPQ00"],"created":1794600700,"id":"chatcmpl-a3c44907-25ab-493f-808d-7bf900cc5903","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"同时说明刘欢于"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20261112A0ELT600","https://news.qq.com/rain/a/20261112A0EAPQ00"],"created":1794600700,"id":"chatcmpl-a3c44907-25ab-493f-808d-7bf900cc5903","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"当日安葬在"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20261112A0ELT600","https://news.qq.com/rain/a/20261112A0EAPQ00"],"created":1794600700,"id":"chatcmpl-a3c44907-25ab-493f-808d-7bf900cc5903","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"**北京怀"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20261112A0ELT600","https://news.qq.com/rain/a/20261112A0EAPQ00"],"created":1794600700,"id":"chatcmpl-a3c44907-25ab-493f-808d-7bf900cc5903","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"柔长城脚下"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20261112A0ELT600","https://news.qq.com/rain/a/20261112A0EAPQ00"],"created":1794600700,"id":"chatcmpl-a3c44907-25ab-493f-808d-7bf900cc5903","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"**，安葬"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20261112A0ELT600","https://news.qq.com/rain/a/20261112A0EAPQ00"],"created":1794600700,"id":"chatcmpl-a3c44907-25ab-493f-808d-7bf900cc5903","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"过程得到"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20261112A0ELT600","https://news.qq.com/rain/a/20261112A0EAPQ00"],"created":1794600700,"id":"chatcmpl-a3c44907-25ab-493f-808d-7bf900cc5903","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"水均益、毛"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20261112A0ELT600","https://news.qq.com/rain/a/20261112A0EAPQ00"],"created":1794600700,"id":"chatcmpl-a3c44907-25ab-493f-808d-7bf900cc5903","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"阿敏等人协助[1"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20261112A0ELT600","https://news.qq.com/rain/a/20261112A0EAPQ00"],"created":1794600700,"id":"chatcmpl-a3c44907-25ab-493f-808d-7bf900cc5903","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"][5]。\n\n需要提醒"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20261112A0ELT600","https://news.qq.com/rain/a/20261112A0EAPQ00"],"created":1794600700,"id":"chatcmpl-a3c44907-25ab-493f-808d-7bf900cc5903","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"的是：这两"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20261112A0ELT600","https://news.qq.com/rain/a/20261112A0EAPQ00"],"created":1794600700,"id":"chatcmpl-a3c44907-25ab-493f-808d-7bf900cc5903","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"条检索结果**都没有"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20261112A0ELT600","https://news.qq.com/rain/a/20261112A0EAPQ00"],"created":1794600700,"id":"chatcmpl-a3c44907-25ab-493f-808d-7bf900cc5903","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"标"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20261112A0ELT600","https://news.qq.com/rain/a/20261112A0EAPQ00"],"created":1794600700,"id":"chatcmpl-a3c44907-25ab-493f-808d-7bf900cc5903","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"明年份**，"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20261112A0ELT600","https://news.qq.com/rain/a/20261112A0EAPQ00"],"created":1794600700,"id":"chatcmpl-a3c44907-25ab-493f-808d-7bf900cc5903","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"而且“63"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20261112A0ELT600","https://news.qq.com/rain/a/20261112A0EAPQ00"],"created":1794600700,"id":"chatcmpl-a3c44907-25ab-493f-808d-7bf900cc5903","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"岁”与公开"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20261112A0ELT600","https://news.qq.com/rain/a/20261112A0EAPQ00"],"created":1794600700,"id":"chatcmpl-a3c44907-25ab-493f-808d-7bf900cc5903","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"资料中刘欢的"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20261112A0ELT600","https://news.qq.com/rain/a/20261112A0EAPQ00"],"created":1794600700,"id":"chatcmpl-a3c44907-25ab-493f-808d-7bf900cc5903","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"出生年份（1958年"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20261112A0ELT600","https://news.qq.com/rain/a/20261112A0EAPQ00"],"created":1794600700,"id":"chatcmpl-a3c44907-25ab-493f-808d-7bf900cc5903","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"）对"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20261112A0ELT600","https://news.qq.com/rain/a/20261112A0EAPQ00"],"created":1794600700,"id":"chatcmpl-a3c44907-25ab-493f-808d-7bf900cc5903","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"不上，"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20261112A0ELT600","https://news.qq.com/rain/a/20261112A0EAPQ00"],"created":1794600700,"id":"chatcmpl-a3c44907-25ab-493f-808d-7bf900cc5903","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"因此上述"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20261112A0ELT600","https://news.qq.com/rain/a/20261112A0EAPQ00"],"created":1794600700,"id":"chatcmpl-a3c44907-25ab-493f-808d-7bf900cc5903","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"内容"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20261112A0ELT600","https://news.qq.com/rain/a/20261112A0EAPQ00"],"created":1794600700,"id":"chatcmpl-a3c44907-25ab-493f-808d-7bf900cc5903","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"是否"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20261112A0ELT600","https://news.qq.com/rain/a/20261112A0EAPQ00"],"created":1794600700,"id":"chatcmpl-a3c44907-25ab-493f-808d-7bf900cc5903","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"准确"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20261112A0ELT600","https://news.qq.com/rain/a/20261112A0EAPQ00"],"created":1794600700,"id":"chatcmpl-a3c44907-25ab-493f-808d-7bf900cc5903","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"、是否"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20261112A0ELT600","https://news.qq.com/rain/a/20261112A0EAPQ00"],"created":1794600700,"id":"chatcmpl-a3c44907-25ab-493f-808d-7bf900cc5903","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"属于"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20261112A0ELT600","https://news.qq.com/rain/a/20261112A0EAPQ00"],"created":1794600700,"id":"chatcmpl-a3c44907-25ab-493f-808d-7bf900cc5903","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"误传"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20261112A0ELT600","https://news.qq.com/rain/a/20261112A0EAPQ00"],"created":1794600700,"id":"chatcmpl-a3c44907-25ab-493f-808d-7bf900cc5903","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"，"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20261112A0ELT600","https://news.qq.com/rain/a/20261112A0EAPQ00"],"created":1794600700,"id":"chatcmpl-a3c44907-25ab-493f-808d-7bf900cc5903","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"仅"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20261112A0ELT600","https://news.qq.com/rain/a/20261112A0EAPQ00"],"created":1794600700,"id":"chatcmpl-a3c44907-25ab-493f-808d-7bf900cc5903","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"凭现有检索"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20261112A0ELT600","https://news.qq.com/rain/a/20261112A0EAPQ00"],"created":1794600700,"id":"chatcmpl-a3c44907-25ab-493f-808d-7bf900cc5903","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"资料"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20261112A0ELT600","https://news.qq.com/rain/a/20261112A0EAPQ00"],"created":1794600700,"id":"chatcmpl-a3c44907-25ab-493f-808d-7bf900cc5903","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"无法"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20261112A0ELT600","https://news.qq.com/rain/a/20261112A0EAPQ00"],"created":1794600700,"id":"chatcmpl-a3c44907-25ab-493f-808d-7bf900cc5903","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"确认。建议以"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20261112A0ELT600","https://news.qq.com/rain/a/20261112A0EAPQ00"],"created":1794600700,"id":"chatcmpl-a3c44907-25ab-493f-808d-7bf900cc5903","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"家属"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20261112A0ELT600","https://news.qq.com/rain/a/20261112A0EAPQ00"],"created":1794600700,"id":"chatcmpl-a3c44907-25ab-493f-808d-7bf900cc5903","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"、"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20261112A0ELT600","https://news.qq.com/rain/a/20261112A0EAPQ00"],"created":1794600700,"id":"chatcmpl-a3c44907-25ab-493f-808d-7bf900cc5903","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"刘"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20261112A0ELT600","https://news.qq.com/rain/a/20261112A0EAPQ00"],"created":1794600700,"id":"chatcmpl-a3c44907-25ab-493f-808d-7bf900cc5903","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"欢本人"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20261112A0ELT600","https://news.qq.com/rain/a/20261112A0EAPQ00"],"created":1794600700,"id":"chatcmpl-a3c44907-25ab-493f-808d-7bf900cc5903","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"或权威"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20261112A0ELT600","https://news.qq.com/rain/a/20261112A0EAPQ00"],"created":1794600700,"id":"chatcmpl-a3c44907-25ab-493f-808d-7bf900cc5903","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"媒体的"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20261112A0ELT600","https://news.qq.com/rain/a/20261112A0EAPQ00"],"created":1794600700,"id":"chatcmpl-a3c44907-25ab-493f-808d-7bf900cc5903","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"正式"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20261112A0ELT600","https://news.qq.com/rain/a/20261112A0EAPQ00"],"created":1794600700,"id":"chatcmpl-a3c44907-25ab-493f-808d-7bf900cc5903","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"信息"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20261112A0ELT600","https://news.qq.com/rain/a/20261112A0EAPQ00"],"created":1794600700,"id":"chatcmpl-a3c44907-25ab-493f-808d-7bf900cc5903","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"为准。"},"finish_reason":"stop","index":0,"logprobs":null}],"citations":["https://news.qq.com/rain/a/20261112A0ELT600","https://news.qq.com/rain/a/20261112A0EAPQ00"],"created":1794600700,"id":"chatcmpl-a3c44907-25ab-493f-808d-7bf900cc5903","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[],"citations":["https://news.qq.com/rain/a/20261112A0ELT600","https://news.qq.com/rain/a/20261112A0EAPQ00"],"created":1794600700,"id":"chatcmpl-a3c44907-25ab-493f-808d-7bf900cc5903","model":"deepseek-flash","object":"chat.completion.chunk","usage":{"completion_tokens":557,"completion_tokens_details":{"reasoning_tokens":364},"prompt_tokens":880,"prompt_tokens_details":{"cached_tokens":0},"total_tokens":1437}}
+
+data: [DONE]
+

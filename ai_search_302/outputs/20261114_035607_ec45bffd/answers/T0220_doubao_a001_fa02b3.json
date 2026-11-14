@@ -1,0 +1,63 @@
+{
+  "task_id": "T0220",
+  "model": "doubao",
+  "news_id": "E018",
+  "question_index": 3,
+  "question_original": "【事实】赤峰“免费采捡白菜”事件最终评估损失是多少？11月17日通报时，补偿到位了吗？",
+  "question": "赤峰“免费采捡白菜”事件最终评估损失是多少？11月17日通报时，补偿到位了吗？",
+  "attempt": 1,
+  "provider": "302.ai",
+  "model_requested": "doubao-seed-2-1-pro-260628",
+  "query_date": "2026-11-14",
+  "search_service": "metaso",
+  "prompt_version": "news-search-v1",
+  "prompt_sha256": "ea56fd5557d32615a9115f2368a0c4983ff1188f4935369e694d7d46f2493be1",
+  "requested_at": "2026-11-14T12:01:30.146923+08:00",
+  "raw_file": "raw/T0220_doubao_a001_fa02b3.json",
+  "transport": "sse",
+  "stream_file": "raw/T0220_doubao_a001_fa02b3.sse",
+  "status": "ok",
+  "model_returned": "doubao-seed-2-1-pro-260628",
+  "answer": "赤峰“免费采捡白菜”事件经联合调查组委托的具备法定资质评估机构测算，最终认定种植户损失为9.52万元；在11月17日赤峰市松山区联合调查组发布事件调查处理通报时，相关责任方已就补偿事宜达成一致，补偿已全部落实到位[1]。\n\n### 相关背景说明\n1.  **损失评估的测算依据**\n本次损失核算并未按照白菜全量种植、正常售卖的理想状态估算，而是充分结合地块实际情况开展：事件发生前，涉事5名种植户的380亩白菜已经过多轮择优选收，大部分优质白菜已完成采收售出，剩余未售白菜受低温霜降冻害影响质量明显下降，群众采捡的白菜部分用于食用、部分用于喂养畜禽；评估过程综合考量市场价格、环境气候、收割方式等现实因素，最终得出9.52万元的损失结论，李某某等5名涉事种植户均对该评估结果表示认可[2][4]。\n2.  **事件的责任认定情况**\n经调查，该事件是不实信息多层级传播扩散导致的，从网络用户发布不实信息、网民接力转发，到媒体未加核实发布报道误导公众、个别自媒体传播失真内容，多个环节均存在问题。通报同时明确了责任追溯方向，将依规追究首发不实视频人员、转发不实信息人员、涉事种植户、市属官方媒体及参与违规采捡白菜人员的相应责任[5]。\n\n（注：搜索结果中涉及日本进口影片暂缓上映的内容与本次问题无关，未纳入回答范围）",
+  "sources": [
+    {
+      "index": 1,
+      "url": "http://www.nbd.com.cn/articles/2025-11-17/4146566.html",
+      "title": null,
+      "origin": "citations"
+    },
+    {
+      "index": 2,
+      "url": "https://www.jdyx.cc/news/show-6251.html",
+      "title": null,
+      "origin": "citations"
+    },
+    {
+      "index": 3,
+      "url": "https://news.hangzhou.com.cn/shxw/content/2025-11/18/content_9125553.htm",
+      "title": null,
+      "origin": "citations"
+    },
+    {
+      "index": 4,
+      "url": "http://guojiashequ.hebtv.com/news/detail/19678",
+      "title": null,
+      "origin": "citations"
+    }
+  ],
+  "usage": {
+    "completion_tokens": 5283,
+    "completion_tokens_details": {
+      "reasoning_tokens": 4934
+    },
+    "prompt_tokens": 1367,
+    "prompt_tokens_details": {
+      "cached_tokens": 0
+    },
+    "total_tokens": 6650
+  },
+  "finish_reason": "stop",
+  "note": [],
+  "request_id": "20cb0fc3-6cec-4eb2-9d35-b367128dec8a",
+  "duration_seconds": 105.25
+}

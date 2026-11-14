@@ -1,0 +1,57 @@
+{
+  "task_id": "T0289",
+  "model": "doubao",
+  "news_id": "E024",
+  "question_index": 4,
+  "question_original": "【事实】王星真正抵达中国是北京时间哪天几点，落地哪个机场？",
+  "question": "王星真正抵达中国是北京时间哪天几点，落地哪个机场？",
+  "attempt": 1,
+  "provider": "302.ai",
+  "model_requested": "doubao-seed-2-1-pro-260628",
+  "query_date": "2026-11-14",
+  "search_service": "metaso",
+  "prompt_version": "news-search-v1",
+  "prompt_sha256": "ea56fd5557d32615a9115f2368a0c4983ff1188f4935369e694d7d46f2493be1",
+  "requested_at": "2026-11-14T12:15:06.848787+08:00",
+  "raw_file": "raw/T0289_doubao_a001_80b07f.json",
+  "transport": "sse",
+  "stream_file": "raw/T0289_doubao_a001_80b07f.sse",
+  "status": "ok",
+  "model_returned": "doubao-seed-2-1-pro-260628",
+  "answer": "王星乘坐的回国航班于北京时间1月11日00:55抵达中国境内，落地机场为上海浦东国际机场[1][3]。\n\n### 相关背景说明\n1.  本次归国时点距离他1月2日从上海浦东机场乘机出发前往泰国刚好满十天。王星1月3日正式入境泰国后在泰缅边境失联，泰国警方于1月7日找到并将其接回泰国境内，经初步调查确认王星为人口贩运受害者[1][3]。\n2.  王星的返程航班于1月10日晚从泰国素万那普机场起飞，他与家属在泰国警方护送下经机场绿色通道登机，全程没有公开露面，在他登机返程阶段，泰国移民局及警方并未就此事公开发表表态[1]。\n\n注：现有公开检索片段未提及该事件对应的具体年份，上述日期均来自公开报道原文表述。网页片段4为无效图片链接，未提供与问题相关的有效信息。",
+  "sources": [
+    {
+      "index": 1,
+      "url": "https://news.qq.com/rain/a/20250111A01TES00",
+      "title": null,
+      "origin": "citations"
+    },
+    {
+      "index": 2,
+      "url": "https://news.qq.com/rain/a/20250111A01VQQ00",
+      "title": null,
+      "origin": "citations"
+    },
+    {
+      "index": 3,
+      "url": "https://mp.weixin.qq.com/s?__biz=MzI4MzcxMzcwOA==&mid=2247750762&idx=1&sn=7ec7a186d1988fa5dcf58bf800263b11&chksm=ea25b8cc94e93274843a17a3cefb74842323bff9e2c97c8bbd9c19ed6cdd235d74f7f8d3e513&scene=27",
+      "title": null,
+      "origin": "citations"
+    }
+  ],
+  "usage": {
+    "completion_tokens": 2006,
+    "completion_tokens_details": {
+      "reasoning_tokens": 1789
+    },
+    "prompt_tokens": 1123,
+    "prompt_tokens_details": {
+      "cached_tokens": 0
+    },
+    "total_tokens": 3129
+  },
+  "finish_reason": "stop",
+  "note": [],
+  "request_id": "928d57c9-c24f-404c-8558-4daed29fa6bb",
+  "duration_seconds": 45.75
+}

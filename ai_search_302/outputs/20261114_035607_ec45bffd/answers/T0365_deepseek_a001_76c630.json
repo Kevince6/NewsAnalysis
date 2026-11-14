@@ -1,0 +1,69 @@
+{
+  "task_id": "T0365",
+  "model": "deepseek",
+  "news_id": "E030",
+  "question_index": 5,
+  "question_original": "【事实】恒大地产破产案通知规定的债权申报期限是哪天？只有其他关联公司债权的人，也能在这个案子里申报吗？",
+  "question": "恒大地产破产案通知规定的债权申报期限是哪天？只有其他关联公司债权的人，也能在这个案子里申报吗？",
+  "attempt": 1,
+  "provider": "302.ai",
+  "model_requested": "deepseek-flash",
+  "query_date": "2026-11-14",
+  "search_service": "metaso",
+  "prompt_version": "news-search-v1",
+  "prompt_sha256": "ea56fd5557d32615a9115f2368a0c4983ff1188f4935369e694d7d46f2493be1",
+  "requested_at": "2026-11-14T12:35:52.407300+08:00",
+  "raw_file": "raw/T0365_deepseek_a001_76c630.json",
+  "transport": "sse",
+  "stream_file": "raw/T0365_deepseek_a001_76c630.sse",
+  "status": "ok",
+  "model_returned": "deepseek-flash",
+  "answer": "**结论先说：两个问题的答案都取决于“向哪一家公司申报”，搜索结果里出现了两个不同期限，需要区分。**\n\n## 一、申报期限：两个不同主体、两个不同日期\n\n1. **恒大地产广东公司**：债权人应在 **2025年11月20日** 前完成债权申报[3][4][5]。该期限已过；如未申报，可依《企业破产法》第56条补充申报，但对补充申报前已进行的分配无权要求补充分配[3][4][5]。\n\n2. **恒大地产（广州中院受理的破产案）**：债权人需在 **2026年11月21日** 前通过法院指定线上系统申报债权，并按“购房人债权”或“其他债权”选择对应入口[1]。按查询日2026年11月14日计算，距截止仅约一周。\n\n需要提醒的是，上述两个日期对应不同公司或不同程序，不能混用；正式申报应以法院公告和管理人通知载明的期限、系统入口为准。\n\n## 二、只有其他关联公司债权的人，不能在本案申报\n\n公告明确：**仅对其他关联公司享有债权的，不属于本案申报范围**[1]。具体处理方式是：\n\n- 如果合同是与某个**地方项目公司**签订的，就应向**该公司的破产程序**申报债权[1]；\n- 同时要先确认自己的债务人（即破产主体）究竟是哪一家，不要因为名称中都含“恒大”就统一申报[1]。\n\n## 三、两点风险提示\n\n- **别拖**：广州中院此前曾对237户未及时申报的业主裁定“不予确认债权”[1]，说明错过期限的后果很实际，不只是一般逾期。\n- **别轻易退房**：有实务提示建议购房人不要轻易走退房路径，以免债权性质发生变化[1]。\n\n**说明**：以上信息来自检索到的公开报道与公告摘录，其中2025年11月20日（广东公司）与2026年11月21日（广州中院案件）分属不同口径；由于该事项直接涉及时效利益，建议以“全国企业破产重整案件信息网”及管理人发布的正式公告核对后再申报。",
+  "sources": [
+    {
+      "index": 1,
+      "url": "https://news.qq.com/rain/a/20261031A09BV400",
+      "title": null,
+      "origin": "citations"
+    },
+    {
+      "index": 2,
+      "url": "https://pccz.court.gov.cn/pcajxxw/pcgg/ggxq?id=49725304F221C97E3F5BF87CF7FA91D2",
+      "title": null,
+      "origin": "citations"
+    },
+    {
+      "index": 3,
+      "url": "https://cd.nbd.com.cn/articles/2025-08-22/4024037.html",
+      "title": null,
+      "origin": "citations"
+    },
+    {
+      "index": 4,
+      "url": "https://gz.house.ifeng.com/news/2025_08_24-57146395_0.shtml",
+      "title": null,
+      "origin": "citations"
+    },
+    {
+      "index": 5,
+      "url": "https://news.fang.com/open/53376755.html",
+      "title": null,
+      "origin": "citations"
+    }
+  ],
+  "usage": {
+    "completion_tokens": 988,
+    "completion_tokens_details": {
+      "reasoning_tokens": 517
+    },
+    "prompt_tokens": 1345,
+    "prompt_tokens_details": {
+      "cached_tokens": 0
+    },
+    "total_tokens": 2333
+  },
+  "finish_reason": "stop",
+  "note": [],
+  "request_id": "6651975f-aaaf-4c05-ba84-acf0fcae7ee2",
+  "duration_seconds": 60.25
+}

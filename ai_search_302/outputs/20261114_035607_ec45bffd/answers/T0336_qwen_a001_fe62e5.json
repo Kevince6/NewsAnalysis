@@ -1,0 +1,59 @@
+{
+  "task_id": "T0336",
+  "model": "qwen",
+  "news_id": "E028",
+  "question_index": 3,
+  "question_original": "【事实】宏福苑大火是哪天发生的，当天下午几点起火、几点升为五级火警？",
+  "question": "宏福苑大火是哪天发生的，当天下午几点起火、几点升为五级火警？",
+  "attempt": 1,
+  "provider": "302.ai",
+  "model_requested": "qwen3.8-max",
+  "query_date": "2026-11-14",
+  "search_service": "metaso",
+  "prompt_version": "news-search-v1",
+  "prompt_sha256": "ea56fd5557d32615a9115f2368a0c4983ff1188f4935369e694d7d46f2493be1",
+  "requested_at": "2026-11-14T12:28:21.755908+08:00",
+  "raw_file": "raw/T0336_qwen_a001_fe62e5.json",
+  "transport": "sse",
+  "stream_file": "raw/T0336_qwen_a001_fe62e5.sse",
+  "status": "ok",
+  "model_returned": "qwen3.8-max",
+  "answer": "宏福苑大火发生于 **2025年11月26日**[1][4]。\n\n当天关键时间点如下：\n\n- **起火时间**：下午约 **14时51分** 出现火情[1][4]。  \n- **升为五级火警时间**：同日 **18时22分**，消防处将火警升为五级[1][4]。\n\n补充信息：当天火警先于 **15时02分升为三级**、**15时34分升为四级**，随后在 **18时22分升为五级**[1]。消防部门后来于 **11月28日10时18分** 完成该场五级火警的灭火救援和搜救工作[5]。",
+  "sources": [
+    {
+      "index": 1,
+      "url": "http://baike.baidu.com/item/%E5%AE%8F%E7%A6%8F%E8%8B%91/67030959?noadapt=1",
+      "title": null,
+      "origin": "citations"
+    },
+    {
+      "index": 2,
+      "url": "https://www.chinanews.com.cn/dwq/2025/11-27/10522278.shtml",
+      "title": null,
+      "origin": "citations"
+    },
+    {
+      "index": 3,
+      "url": "https://news.qq.com/rain/a/20251128A04OD500",
+      "title": null,
+      "origin": "citations"
+    }
+  ],
+  "usage": {
+    "completion_tokens": 1391,
+    "completion_tokens_details": {
+      "reasoning_tokens": 1211,
+      "text_tokens": 1391
+    },
+    "prompt_tokens": 1183,
+    "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "text_tokens": 1183
+    },
+    "total_tokens": 2574
+  },
+  "finish_reason": "stop",
+  "note": [],
+  "request_id": "06e36e02-3fe3-4f87-8889-92153df3f1b4",
+  "duration_seconds": 32.891
+}

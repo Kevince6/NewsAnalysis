@@ -1,0 +1,51 @@
+{
+  "request": {
+    "model": "deepseek-flash",
+    "messages": [
+      {
+        "role": "system",
+        "content": "请联网检索后，用自然中文回答用户的问题。\n先直接回答，再补充理解答案所需的事实、背景或说明；复杂问题可分点，简单问题可简答。\n优先参考与问题直接相关的原始发布、机构公告、当事人回应及可信媒体报道。\n依据检索到的资料作答。资料不足、存在分歧或尚未确认的内容，请明确说明；解释和判断应与已确认的事实区分。\n在相关事实后标注检索来源，沿用检索结果提供的引用编号或标记。\n\n查询日期：2026-11-14（北京时间，UTC+8）。问题中的“现在”“近期”“最新”以此日期为参照；问题明确指定时间范围时，以问题为准。"
+      },
+      {
+        "role": "user",
+        "content": "TikTok在美国是哪天暂停、哪天开始恢复服务的？合资公司成立又是什么时候？"
+      }
+    ],
+    "web-search": true,
+    "search-service": "metaso",
+    "search-results": 5,
+    "stream": true,
+    "stream_options": {
+      "include_usage": true
+    }
+  },
+  "response": {
+    "object": "chat.completion",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "\n\n<tool_search tool_call_id=\"search_1\">\n<query>TikTok 美国 暂停服务 恢复 日期 2025年1月</query>\n</tool_search>\n<tool_search tool_call_id=\"search_2\">\n<query>TikTok 美国 合资公司 成立 时间</query>\n</tool_search>\n<tool_search tool_call_id=\"search_3\">\n<query>TikTok ban January 19 2025 restored service date</query>\n</tool_search>\n<tool_search tool_call_id=\"search_4\">\n<query>TikTok US joint venture deal 2025 2026</query>\n</tool_search>\n\n<tool_search tool_call_id=\"search_5\">\n<query>TikTok 美国 合资公司 甲骨文 银湖 MGX 成立 2026</query>\n</tool_search>\n<tool_search tool_call_id=\"search_6\">\n<query>TikTok 恢复 服务 2025年1月19日 暂停 1月18日</query>\n</tool_search>\n</tool_search>",
+          "reasoning_content": "用户问的是TikTok在美国的暂停和恢复日期，以及合资公司成立时间。我需要联网检索。查询日期是2026-11-14。用户可能指的是2025年1月TikTok短暂下架事件。让我检索确认。\n\n我需要用中文回答，标注来源。让我搜索。"
+        },
+        "finish_reason": "stop"
+      }
+    ],
+    "id": "chatcmpl-15353ce1-05b3-47d8-8eeb-e4920fcfab7c",
+    "model": "deepseek-flash",
+    "created": 1794627644,
+    "usage": {
+      "prompt_tokens": 193,
+      "completion_tokens": 293,
+      "total_tokens": 486,
+      "prompt_tokens_details": {
+        "cached_tokens": 0
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 64
+      }
+    },
+    "_transport": "sse"
+  }
+}

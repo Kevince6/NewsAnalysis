@@ -1,0 +1,45 @@
+{
+  "task_id": "T0022",
+  "model": "doubao",
+  "news_id": "E003",
+  "question_index": 1,
+  "question_original": "【开放】2026年11月中旬，俄乌最近的跨境袭击和外交谈判分别有什么进展？",
+  "question": "2026年11月中旬，俄乌最近的跨境袭击和外交谈判分别有什么进展？",
+  "attempt": 1,
+  "provider": "302.ai",
+  "model_requested": "doubao-seed-2-1-pro-260628",
+  "query_date": "2026-11-14",
+  "search_service": "metaso",
+  "prompt_version": "news-search-v1",
+  "prompt_sha256": "ea56fd5557d32615a9115f2368a0c4983ff1188f4935369e694d7d46f2493be1",
+  "requested_at": "2026-11-14T04:10:54.125503+08:00",
+  "raw_file": "raw/T0022_doubao_a001_125ce2.json",
+  "transport": "sse",
+  "stream_file": "raw/T0022_doubao_a001_125ce2.sse",
+  "status": "ok",
+  "model_returned": "doubao-seed-2-1-pro-260628",
+  "answer": "截至2026年11月14日，俄乌冲突相关的外交谈判与跨境袭击最新进展如下：\n### 外交谈判进展\n2026年11月俄乌冲突的外交博弈出现新变化：11月10日至11日，俄罗斯、美国、乌克兰三方代表团在阿联酋首都阿布扎比恢复三方会谈，这是自2026年2月以来三方首次开展面对面磋商[1]。由于会谈同步阶段双方军事行动并未暂停，这种“一边谈、一边打”的状态决定了本轮会谈很难在短时间内形成能够约束双方军队行动的完整协议[1]。\n### 跨境袭击动态\n在本轮三方会谈举办期间，双方的跨境打击行动并未因谈判启动而中止：一方面乌克兰的能源设施持续承受袭击压力，另一方面俄罗斯领土纵深的目标也遭到乌克兰方面的远程无人机打击，双方保持军事对抗与外交接触并行的态势[1]。\n\n[1] 2026年11月俄乌冲突外交博弈相关公开报道内容。",
+  "sources": [
+    {
+      "index": 1,
+      "url": "https://www.sohu.com/a/1101284732_123031414",
+      "title": null,
+      "origin": "citations"
+    }
+  ],
+  "usage": {
+    "completion_tokens": 1641,
+    "completion_tokens_details": {
+      "reasoning_tokens": 1414
+    },
+    "prompt_tokens": 854,
+    "prompt_tokens_details": {
+      "cached_tokens": 0
+    },
+    "total_tokens": 2495
+  },
+  "finish_reason": "stop",
+  "note": [],
+  "request_id": "7d66dcec-1245-4e74-a336-4718db17288f",
+  "duration_seconds": 35.462
+}

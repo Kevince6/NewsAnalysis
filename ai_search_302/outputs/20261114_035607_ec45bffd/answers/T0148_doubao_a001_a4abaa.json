@@ -1,0 +1,45 @@
+{
+  "task_id": "T0148",
+  "model": "doubao",
+  "news_id": "E013",
+  "question_index": 1,
+  "question_original": "【开放】全国育儿补贴到底怎么发？哪些孩子符合条件，金额和申领时间有哪些需要注意的地方？",
+  "question": "全国育儿补贴到底怎么发？哪些孩子符合条件，金额和申领时间有哪些需要注意的地方？",
+  "attempt": 1,
+  "provider": "302.ai",
+  "model_requested": "doubao-seed-2-1-pro-260628",
+  "query_date": "2026-11-14",
+  "search_service": "metaso",
+  "prompt_version": "news-search-v1",
+  "prompt_sha256": "ea56fd5557d32615a9115f2368a0c4983ff1188f4935369e694d7d46f2493be1",
+  "requested_at": "2026-11-14T11:40:55.000572+08:00",
+  "raw_file": "raw/T0148_doubao_a001_a4abaa.json",
+  "transport": "sse",
+  "stream_file": "raw/T0148_doubao_a001_a4abaa.sse",
+  "status": "ok",
+  "model_returned": "doubao-seed-2-1-pro-260628",
+  "answer": "目前全国层面育儿补贴的发放、申领相关规则可梳理如下：\n### 一、符合申领条件的范围\n可享受补贴的婴幼儿需为符合法律法规规定生育的3周岁以下儿童，政策覆盖不区分城乡、区域、家庭收入水平，也不区分一孩、二孩、三孩的孩次差异，所有符合条件的婴幼儿均可同等享受待遇[1]。\n申请可由婴幼儿的父母一方或其他监护人作为申领人，向婴幼儿户籍所在地的经办部门提交[1]。\n### 二、补贴标准与发放规则\n补贴标准为每孩每年3600元，待遇按年计发，从符合条件的时段起持续发放至孩子年满3周岁为止[1]。\n在发放节奏上，相关部门原则上每季度至少集中组织一批补贴发放，上一个季度审核通过的申请，对应的补贴资金会在本季度末前拨付到位[1]。\n### 三、需要留意的申领时间节点\n第一，常规年度申领安排：2026年度的育儿补贴申领通道已于2026年1月5日全面开放，符合条件的家庭可提交申请[1]。\n第二，跨年度补申领的延期安排：针对2022-2024年出生的婴幼儿，国家卫生健康委、财政部已将该群体的首次育儿补贴申请截止时间延长至2026年12月31日；以2026年11月14日的当前时间计算，距离该补申领通道关闭还有约1个半月，符合条件但尚未提交申请的家庭需注意在时限内办理，避免错过补贴申领机会[1]。\n\n注：以上信息基于公开的全国统一育儿补贴申领流程指南整理，具体经办的材料要求可在申请前向婴幼儿户籍地经办部门进一步确认。\n[1] 育儿补贴申领全流程指南",
+  "sources": [
+    {
+      "index": 1,
+      "url": "https://k.sina.com.cn/article_7879922977_1d5ae152106801hium.html",
+      "title": null,
+      "origin": "citations"
+    }
+  ],
+  "usage": {
+    "completion_tokens": 3909,
+    "completion_tokens_details": {
+      "reasoning_tokens": 3503
+    },
+    "prompt_tokens": 932,
+    "prompt_tokens_details": {
+      "cached_tokens": 0
+    },
+    "total_tokens": 4841
+  },
+  "finish_reason": "stop",
+  "note": [],
+  "request_id": "2479ed49-f547-4e6c-9e4e-1511e496de55",
+  "duration_seconds": 80.187
+}

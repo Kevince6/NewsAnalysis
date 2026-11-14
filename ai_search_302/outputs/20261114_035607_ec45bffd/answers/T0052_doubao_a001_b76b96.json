@@ -1,0 +1,45 @@
+{
+  "task_id": "T0052",
+  "model": "doubao",
+  "news_id": "E005",
+  "question_index": 1,
+  "question_original": "【开放】2026年美国中期选举到底是谁赢了？参众两院的控制权发生了什么变化？",
+  "question": "2026年美国中期选举到底是谁赢了？参众两院的控制权发生了什么变化？",
+  "attempt": 1,
+  "provider": "302.ai",
+  "model_requested": "doubao-seed-2-1-pro-260628",
+  "query_date": "2026-11-14",
+  "search_service": "metaso",
+  "prompt_version": "news-search-v1",
+  "prompt_sha256": "ea56fd5557d32615a9115f2368a0c4983ff1188f4935369e694d7d46f2493be1",
+  "requested_at": "2026-11-14T04:23:25.168611+08:00",
+  "raw_file": "raw/T0052_doubao_a001_b76b96.json",
+  "transport": "sse",
+  "stream_file": "raw/T0052_doubao_a001_b76b96.sse",
+  "status": "ok",
+  "model_returned": "doubao-seed-2-1-pro-260628",
+  "answer": "根据目前可检索到的片段化分析内容，现有资料不足以完整确认2026年美国中期选举的整体胜选方，也无法呈现参众两院控制权变更的全部结果，已可明确的信息及相关局限如下：\n第一，众议院控制权已明确发生更迭，民主党在本次中期选举后取得了众议院掌控权。依据美国国会的法定权责，掌控众议院的民主党后续可通过举办听证会、签发传票、启动专项调查等方式，对特朗普政府的移民执法、关税政策制定、政府人事安排等领域的施政行为开展审查监督[4]。\n第二，现有资料仅提及本次选举后参议院的控制权出现了变化，并未明确说明控制权最终归属哪一政党。从已提及的影响来看，参议院格局变化将直接作用于内阁官员、联邦法官等联邦高级职位的任命审批流程，使特朗普政府的人事布局面临更多国会层面的阻力[4]。\n第三，从对后续政局的预判来看，本次选举带来的国会权力结构调整，将进一步加剧两党在联邦预算、财政支出、债务上限等核心财政议题上的博弈，联邦政府出现停摆的风险也可能随之上升[4]。\n\n需要特别说明的是，目前可获取的检索内容仅围绕选举后国会权力变动的施政影响展开，并未披露本次选举两党最终席位统计、参议院控制权最终归属、选举整体胜负认定的完整权威信息，相关完整选举结果请以美国官方选举计票公告及权威媒体的全流程跟踪报道为准。\n\n[4] 检索到的美国国会格局变动影响相关分析片段。",
+  "sources": [
+    {
+      "index": 1,
+      "url": "https://k.sina.cn/article_2316796262_8a17816602001mcy4.html",
+      "title": null,
+      "origin": "citations"
+    }
+  ],
+  "usage": {
+    "completion_tokens": 2962,
+    "completion_tokens_details": {
+      "reasoning_tokens": 2618
+    },
+    "prompt_tokens": 809,
+    "prompt_tokens_details": {
+      "cached_tokens": 0
+    },
+    "total_tokens": 3771
+  },
+  "finish_reason": "stop",
+  "note": [],
+  "request_id": "8f741065-ba88-410a-afb7-ec8527a64c54",
+  "duration_seconds": 78.727
+}

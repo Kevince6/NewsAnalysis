@@ -1,0 +1,45 @@
+{
+  "task_id": "T0001",
+  "model": "doubao",
+  "news_id": "E001",
+  "question_index": 1,
+  "question_original": "【开放】黄仁勋这次婚外情风波是怎么回事？他本人说了什么，英伟达又在调查什么？",
+  "question": "黄仁勋这次婚外情风波是怎么回事？他本人说了什么，英伟达又在调查什么？",
+  "attempt": 1,
+  "provider": "302.ai",
+  "model_requested": "doubao-seed-2-1-pro-260628",
+  "query_date": "2026-11-14",
+  "search_service": "metaso",
+  "prompt_version": "news-search-v1",
+  "prompt_sha256": "ea56fd5557d32615a9115f2368a0c4983ff1188f4935369e694d7d46f2493be1",
+  "requested_at": "2026-11-14T04:05:41.080594+08:00",
+  "raw_file": "raw/T0001_doubao_a001_89f382.json",
+  "transport": "sse",
+  "stream_file": "raw/T0001_doubao_a001_89f382.sse",
+  "status": "ok",
+  "model_returned": "doubao-seed-2-1-pro-260628",
+  "answer": "根据现有公开报道信息，黄仁勋婚外情风波的相关可确认情况如下：\n1.  事件基本脉络与黄仁勋的公开回应\n该风波核心为英伟达首席执行官黄仁勋的婚外情情况被曝光，截至目前黄仁勋本人已公开承认存在婚外情[3]。黄仁勋与妻子结婚时长已达41年，此前在公开场合始终保持与妻子恩爱和睦的公众形象，事件曝光后其过往的公众形象直接面临考验，相关报道也在事发后梳理公开了黄仁勋妻子的个人背景信息[3]。需要说明的是，目前可检索到的公开资料并未披露黄仁勋承认婚外情时的具体表态内容、婚外情涉及的具体细节，这部分信息有待后续公开披露。\n2.  正在开展的相关调查安排\n目前英伟达方面已经针对此次事件启动独立调查，黄仁勋能否顺利渡过此次风波，英伟达独立调查的最终结果是核心影响因素之一，但现有公开信息尚未披露英伟达此次内部独立调查的具体核查范围、核查事项及当前进展[3]。\n除企业内部的独立调查外，美国相关监管机构也会就事件开展核查，监管层面的核心核查方向包括确认这一事件是否涉及技术信息泄露、违规出口或其他违法行为；相关风险分析指出，若核查发现存在违法情形，最坏情况下黄仁勋可能面临刑事调查[3]。\n3.  事件的潜在影响\n这场风波的影响早已超出个人私德范畴：对黄仁勋而言，事件的考验不止在于是否能保住英伟达CEO的职位，更在于能否通过调查结论和后续应对，消除外界对英伟达公司治理有效性、以及事件可能关联的国家安全风险的疑虑[3]。目前已有行业分析梳理出此次事件可能影响英伟达未来发展走向的四种情境，但相关推演仍有待后续实际进展验证[3]。",
+  "sources": [
+    {
+      "index": 1,
+      "url": "https://news.qq.com/rain/a/20261109A08GXV00",
+      "title": null,
+      "origin": "citations"
+    }
+  ],
+  "usage": {
+    "completion_tokens": 2814,
+    "completion_tokens_details": {
+      "reasoning_tokens": 2408
+    },
+    "prompt_tokens": 859,
+    "prompt_tokens_details": {
+      "cached_tokens": 0
+    },
+    "total_tokens": 3673
+  },
+  "finish_reason": "stop",
+  "note": [],
+  "request_id": "ae306870-2d72-4902-bbef-3eac8de86b49",
+  "duration_seconds": 67.976
+}

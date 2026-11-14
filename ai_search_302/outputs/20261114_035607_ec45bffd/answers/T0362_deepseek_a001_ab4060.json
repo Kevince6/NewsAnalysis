@@ -1,0 +1,69 @@
+{
+  "task_id": "T0362",
+  "model": "deepseek",
+  "news_id": "E030",
+  "question_index": 4,
+  "question_original": "【事实】2026年8月20日许家印被判了什么刑罚？这是刑事一审还是终审结果？",
+  "question": "2026年8月20日许家印被判了什么刑罚？这是刑事一审还是终审结果？",
+  "attempt": 1,
+  "provider": "302.ai",
+  "model_requested": "deepseek-flash",
+  "query_date": "2026-11-14",
+  "search_service": "metaso",
+  "prompt_version": "news-search-v1",
+  "prompt_sha256": "ea56fd5557d32615a9115f2368a0c4983ff1188f4935369e694d7d46f2493be1",
+  "requested_at": "2026-11-14T12:35:18.984076+08:00",
+  "raw_file": "raw/T0362_deepseek_a001_ab4060.json",
+  "transport": "sse",
+  "stream_file": "raw/T0362_deepseek_a001_ab4060.sse",
+  "status": "ok",
+  "model_returned": "deepseek-flash",
+  "answer": "2026年8月20日，深圳市中级人民法院对许家印案作出一审宣判：认定其构成非法吸收公众存款、集资诈骗、违法发放贷款、违法运用资金、欺诈发行证券、违规披露重要信息、职务侵占、单位行贿共8项罪名，数罪并罚，判处**无期徒刑，剥夺政治权利终身，并处没收个人全部财产**[webpage 1][webpage 5]。\n\n关于审级：**这是一审判决，并非终审结果**。多家报道均明确表述为“一审无期”或“深圳中院一审宣判”[webpage 2][webpage 3][webpage 5]。按照我国刑事诉讼两审终审制，一审宣判后还有上诉、抗诉期限；若被告人上诉或检察机关抗诉，案件将进入二审，由二审法院作出终审裁判。检索到的资料没有说明许家印是否上诉、检察机关是否抗诉，因此**目前不能确认该判决已经生效**，只能确认这是一审判决结果。",
+  "sources": [
+    {
+      "index": 1,
+      "url": "https://news.qq.com/rain/a/20260820A08Q9S00",
+      "title": null,
+      "origin": "citations"
+    },
+    {
+      "index": 2,
+      "url": "https://k.sina.cn/article_7879996919_1d5af35f7020026ghg.html",
+      "title": null,
+      "origin": "citations"
+    },
+    {
+      "index": 3,
+      "url": "https://new.qq.com/rain/a/20260825A07QIH00",
+      "title": null,
+      "origin": "citations"
+    },
+    {
+      "index": 4,
+      "url": "http://bjjbls.com/NewsDetail.aspx?ID=7543",
+      "title": null,
+      "origin": "citations"
+    },
+    {
+      "index": 5,
+      "url": "https://www.163.com/dy/article/L4QKIC110511D0QS.html",
+      "title": null,
+      "origin": "citations"
+    }
+  ],
+  "usage": {
+    "completion_tokens": 495,
+    "completion_tokens_details": {
+      "reasoning_tokens": 277
+    },
+    "prompt_tokens": 1411,
+    "prompt_tokens_details": {
+      "cached_tokens": 0
+    },
+    "total_tokens": 1906
+  },
+  "finish_reason": "stop",
+  "note": [],
+  "request_id": "ffb1cab3-172a-4931-b12b-86202ae4e84a",
+  "duration_seconds": 17.907
+}

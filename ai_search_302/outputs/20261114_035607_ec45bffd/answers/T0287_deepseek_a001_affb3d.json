@@ -1,0 +1,51 @@
+{
+  "task_id": "T0287",
+  "model": "deepseek",
+  "news_id": "E024",
+  "question_index": 3,
+  "question_original": "【事实】泰国警方初步调查把王星认定为什么身份？",
+  "question": "泰国警方初步调查把王星认定为什么身份？",
+  "attempt": 1,
+  "provider": "302.ai",
+  "model_requested": "deepseek-flash",
+  "query_date": "2026-11-14",
+  "search_service": "metaso",
+  "prompt_version": "news-search-v1",
+  "prompt_sha256": "ea56fd5557d32615a9115f2368a0c4983ff1188f4935369e694d7d46f2493be1",
+  "requested_at": "2026-11-14T12:14:46.024921+08:00",
+  "raw_file": "raw/T0287_deepseek_a001_affb3d.json",
+  "transport": "sse",
+  "stream_file": "raw/T0287_deepseek_a001_affb3d.sse",
+  "status": "ok",
+  "model_returned": "deepseek-flash",
+  "answer": "泰国警方经初步调查，将王星认定为**人口贩运受害者**[1][2]。\n\n补充背景：王星是在抵达缅甸后才发现自己被骗，但当时不敢反抗；泰国警方还表示，除一名受雇将王星送往泰国西北部达府的出租车司机外，暂未发现其他泰国公民涉案，涉案的“阿波罗辉煌”公司已被捣毁，幕后老板“金老虎”及手下金灿已被抓获[1]。王星于2025年1月11日凌晨回国[2]。",
+  "sources": [
+    {
+      "index": 1,
+      "url": "https://www.douyin.com/note/7457736625443982602",
+      "title": null,
+      "origin": "citations"
+    },
+    {
+      "index": 2,
+      "url": "https://k.sina.cn/article_7879995944_1d5af322806802hafa.html",
+      "title": null,
+      "origin": "citations"
+    }
+  ],
+  "usage": {
+    "completion_tokens": 147,
+    "completion_tokens_details": {
+      "reasoning_tokens": 36
+    },
+    "prompt_tokens": 909,
+    "prompt_tokens_details": {
+      "cached_tokens": 0
+    },
+    "total_tokens": 1056
+  },
+  "finish_reason": "stop",
+  "note": [],
+  "request_id": "3757f845-7a64-41e1-bf38-918c6469b1cf",
+  "duration_seconds": 12.735
+}

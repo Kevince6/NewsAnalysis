@@ -1,0 +1,69 @@
+{
+  "task_id": "T0169",
+  "model": "doubao",
+  "news_id": "E014",
+  "question_index": 3,
+  "question_original": "【事实】尹锡悦在2026年10月29日已经被法院判死刑了吗，还是检方提出了死刑请求？",
+  "question": "尹锡悦在2026年10月29日已经被法院判死刑了吗，还是检方提出了死刑请求？",
+  "attempt": 1,
+  "provider": "302.ai",
+  "model_requested": "doubao-seed-2-1-pro-260628",
+  "query_date": "2026-11-14",
+  "search_service": "metaso",
+  "prompt_version": "news-search-v1",
+  "prompt_sha256": "ea56fd5557d32615a9115f2368a0c4983ff1188f4935369e694d7d46f2493be1",
+  "requested_at": "2026-11-14T11:47:12.390232+08:00",
+  "raw_file": "raw/T0169_doubao_a001_12b44d.json",
+  "transport": "sse",
+  "stream_file": "raw/T0169_doubao_a001_12b44d.sse",
+  "status": "ok",
+  "model_returned": "doubao-seed-2-1-pro-260628",
+  "answer": "根据现有提供的搜索结果，既无法证实尹锡悦在2026年10月29日被法院判处死刑，也无法确认检方曾对尹锡悦提出死刑请求：\n1.  案件审理尚未到达宣判节点。根据公开的二审庭审安排，法院将分阶段完成二审结案程序，尹锡悦方面预计在11月5日才进行最后辩论并发表最后陈述，该环节结束后法院才会公布二审宣判日期，说明截至该消息发布时，法院尚未就案件作出二审判决，不存在10月29日已判处死刑的情况[2]。\n2.  检方对尹锡悦的具体量刑请求未在公开片段中明确披露。现有内容仅列明了该案其他涉案人员的检方求刑意见：除尹锡悦之外，特别检察组请求判处前国防部长官金龙显无期徒刑、前情报司令官卢相源有期徒刑30年、前警察厅厅长赵志浩有期徒刑20年、前首尔警察厅厅长金峰埴有期徒刑15年、前国会警卫队队长睦贤泰有期徒刑12年[2]，但截取内容没有提及检方对尹锡悦本人的具体求刑内容，无法证实是否存在死刑相关的量刑请求。\n\n其余搜索结果为网站频道导航、媒体平台页脚版权信息、自媒体内容存储服务免责声明，未包含与该案判决、检方量刑相关的有效信息[1][3][4][5]。",
+  "sources": [
+    {
+      "index": 1,
+      "url": "https://www.jiemian.com/article/13880175.html",
+      "title": null,
+      "origin": "citations"
+    },
+    {
+      "index": 2,
+      "url": "https://news.qq.com/rain/a/20261029A070WB00",
+      "title": null,
+      "origin": "citations"
+    },
+    {
+      "index": 3,
+      "url": "https://www.thepaper.cn/newsDetail_forward_32377961",
+      "title": null,
+      "origin": "citations"
+    },
+    {
+      "index": 4,
+      "url": "https://www.thepaper.cn/newsDetail_forward_32399450",
+      "title": null,
+      "origin": "citations"
+    },
+    {
+      "index": 5,
+      "url": "https://www.163.com/dy/article/LAEFIDQT0512B07B.html",
+      "title": null,
+      "origin": "citations"
+    }
+  ],
+  "usage": {
+    "completion_tokens": 2513,
+    "completion_tokens_details": {
+      "reasoning_tokens": 2193
+    },
+    "prompt_tokens": 1518,
+    "prompt_tokens_details": {
+      "cached_tokens": 0
+    },
+    "total_tokens": 4031
+  },
+  "finish_reason": "stop",
+  "note": [],
+  "request_id": "02c314b5-ab28-4346-a0fa-4f90378cbaff",
+  "duration_seconds": 51.203
+}

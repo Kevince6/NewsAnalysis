@@ -1,0 +1,65 @@
+{
+  "task_id": "T0105",
+  "model": "qwen",
+  "news_id": "E009",
+  "question_index": 1,
+  "question_original": "【开放】OpenClaw和Moltbook到底是什么关系？它们是同一个项目吗，后来各自发生了什么？",
+  "question": "OpenClaw和Moltbook到底是什么关系？它们是同一个项目吗，后来各自发生了什么？",
+  "attempt": 1,
+  "provider": "302.ai",
+  "model_requested": "qwen3.8-max",
+  "query_date": "2026-11-14",
+  "search_service": "metaso",
+  "prompt_version": "news-search-v1",
+  "prompt_sha256": "ea56fd5557d32615a9115f2368a0c4983ff1188f4935369e694d7d46f2493be1",
+  "requested_at": "2026-11-14T11:29:01.721032+08:00",
+  "raw_file": "raw/T0105_qwen_a001_1c45f8.json",
+  "transport": "sse",
+  "stream_file": "raw/T0105_qwen_a001_1c45f8.sse",
+  "status": "ok",
+  "model_returned": "qwen3.8-max",
+  "answer": "不是同一个项目。  \n\n**OpenClaw 是一个开源的个人 AI 助手 / Agent 框架项目**；**Moltbook 则是一个主要供 AI agents 发帖、评论、互动的平台，界面和机制类似 Reddit**[1][5]。两者的关系更像是“强相关的生态/传播关系”：Moltbook 的爆火源于 OpenClaw，而 Moltbook 在 2026 年 1 月底到 2 月迅速走红后，又反过来给 OpenClaw 带来了一波关注[1][4][5]。不过，现有资料没有明确说明 Moltbook 是否是 OpenClaw 的官方衍生产品、同一团队开发或代码同源，因此可以确认的是它们在来源和传播上密切相关，但不能直接等同为同一个项目[1][4][5]。\n\n### 后来各自发生了什么\n\n1. **OpenClaw：从 Clawdbot 更名，并在开发者社区爆红**  \n   OpenClaw 最初诞生于 2025 年底，由奥地利开发者 Peter Steinberger 在一个周末创建，当时名字叫 **Clawdbot**[2]。它以 **Clawdbot** 的名字发布后，短短几周内就成为 GitHub 上增长最快的开源项目之一，星标数突破 10 万[4]。到 **2026 年 1 月 24 日前后**，项目完成了向 **OpenClaw** 的品牌切换，并在开发者社区迅速爆红，主要表现为 GitHub 上的极高关注度[1][5]。\n\n2. **Moltbook：作为 AI agents 社区平台走红**  \n   Moltbook 是一个让 AI agents 发帖、评论、互动的平台，界面和机制类似 Reddit[1][5]。它在 **2026 年 1 月底到 2 月迅速走红**，并给 OpenClaw 带来了额外流量[1][5]。资料也明确提到，**Moltbook 的爆火源于 OpenClaw**[4]。\n\n3. **OpenClaw 本身的定位**  \n   OpenClaw 被描述为一个可以在用户电脑上运行的自主 AI 助手，能够管理日历、发送消息、自动化工作流程，并可以通过 WhatsApp、Telegram、Discord 等平台与用户交互[4]。它最初叫 Clawdbot，这个名字融合了 “Claude” 和 “Claw”，暗示其机敏灵活[2]。\n\n4. **一个补充背景**  \n   资料还提到，Peter Steinberger 自己说，OpenClaw 是他自 2009 年以来做的第 44 个 AI 相关项目，而且 OpenClaw 整体上是用 AI、通过纯 prompt 做出来的[1][5]。\n\n**一句话总结：**  \nOpenClaw 是 AI 助手/Agent 框架，Moltbook 是 AI agents 互动社区平台；二者不是同一个项目，但 Moltbook 因 OpenClaw 而火，随后又反过来带动了 OpenClaw 的关注度[1][4][5]。",
+  "sources": [
+    {
+      "index": 1,
+      "url": "https://news.qq.com/rain/a/20260323A005VF00?adChannelId=tech",
+      "title": null,
+      "origin": "citations"
+    },
+    {
+      "index": 2,
+      "url": "https://www.fuyuan7.com/post-1427.html",
+      "title": null,
+      "origin": "citations"
+    },
+    {
+      "index": 3,
+      "url": "http://applocal.myzaker.com/news/article.php?pk=697f03eb8e9f09256671cf1c",
+      "title": null,
+      "origin": "citations"
+    },
+    {
+      "index": 4,
+      "url": "https://www.huxiu.com/article/4844349.html",
+      "title": null,
+      "origin": "citations"
+    }
+  ],
+  "usage": {
+    "completion_tokens": 2305,
+    "completion_tokens_details": {
+      "reasoning_tokens": 1649,
+      "text_tokens": 2305
+    },
+    "prompt_tokens": 1304,
+    "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "text_tokens": 1304
+    },
+    "total_tokens": 3609
+  },
+  "finish_reason": "stop",
+  "note": [],
+  "request_id": "be465161-b88c-44a0-ab16-20ecbf7a62a0",
+  "duration_seconds": 61.969
+}

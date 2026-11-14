@@ -1,0 +1,47 @@
+{
+  "task_id": "T0285",
+  "model": "qwen",
+  "news_id": "E024",
+  "question_index": 2,
+  "question_original": "【开放】王星1月7日被接回、1月11日又回国，这两个日期为什么不一样？分别发生了什么？",
+  "question": "王星1月7日被接回、1月11日又回国，这两个日期为什么不一样？分别发生了什么？",
+  "attempt": 1,
+  "provider": "302.ai",
+  "model_requested": "qwen3.8-max",
+  "query_date": "2026-11-14",
+  "search_service": "metaso",
+  "prompt_version": "news-search-v1",
+  "prompt_sha256": "ea56fd5557d32615a9115f2368a0c4983ff1188f4935369e694d7d46f2493be1",
+  "requested_at": "2026-11-14T12:14:40.788256+08:00",
+  "raw_file": "raw/T0285_qwen_a001_67ea22.json",
+  "transport": "sse",
+  "stream_file": "raw/T0285_qwen_a001_67ea22.sse",
+  "status": "ok",
+  "model_returned": "qwen3.8-max",
+  "answer": "这两个日期不一样，是因为它们对应的是王星失联事件中的两个不同节点：**1月7日是泰国警方在泰缅边境找到王星并将其接回泰国一方/安全控制区域；1月11日是他从泰国乘航班返回中国、抵达上海**。也就是说，1月7日的“接回”不是回到中国，而是泰国警方在泰国境内或泰缅边境处置中的接回；1月11日才是正式回国。[1]\n\n具体分别发生了：\n\n1. **1月3日：入境泰国后失联**  \n   报道梳理称，王星于1月3日入境泰国，之后在泰缅边境失联。[1]\n\n2. **1月7日：泰国警方找到并接回泰国**  \n   泰国警方公布时间线，称已于1月7日将王星找到并接回泰国，并初步调查确认王星为人口贩运受害者。这里的“接回”指的是泰国警方将其从失联地点/边境相关区域带回泰国控制或安全区域。[1]\n\n3. **1月11日：乘机返回中国，抵达上海**  \n   央视新闻消息称，王星所乘回国航班已于北京时间1月11日00:55抵达上海浦东国际机场。同日王星发文称“已经回到祖国的怀抱”。这里的“回国”是指他从泰国返回中国。[1]\n\n简而言之：**1月7日是泰国警方在泰国/泰缅边境处置中把他接回泰国安全区域；1月11日是他结束泰国方面程序后返回中国并落地上海。**[1]",
+  "sources": [
+    {
+      "index": 1,
+      "url": "https://view.inews.qq.com/a/20250111A01U2700",
+      "title": null,
+      "origin": "citations"
+    }
+  ],
+  "usage": {
+    "completion_tokens": 1500,
+    "completion_tokens_details": {
+      "reasoning_tokens": 1167,
+      "text_tokens": 1500
+    },
+    "prompt_tokens": 821,
+    "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "text_tokens": 821
+    },
+    "total_tokens": 2321
+  },
+  "finish_reason": "stop",
+  "note": [],
+  "request_id": "06fe0326-b36b-4216-87f3-57b46c1fabb2",
+  "duration_seconds": 38.875
+}

@@ -1,0 +1,69 @@
+{
+  "task_id": "T0041",
+  "model": "deepseek",
+  "news_id": "E004",
+  "question_index": 2,
+  "question_original": "【开放】巴黎游行的示威路线有哪几条？",
+  "question": "巴黎游行的示威路线有哪几条？",
+  "attempt": 1,
+  "provider": "302.ai",
+  "model_requested": "deepseek-flash",
+  "query_date": "2026-11-14",
+  "search_service": "metaso",
+  "prompt_version": "news-search-v1",
+  "prompt_sha256": "ea56fd5557d32615a9115f2368a0c4983ff1188f4935369e694d7d46f2493be1",
+  "requested_at": "2026-11-14T04:20:52.785490+08:00",
+  "raw_file": "raw/T0041_deepseek_a001_e4ebb4.json",
+  "transport": "sse",
+  "stream_file": "raw/T0041_deepseek_a001_e4ebb4.sse",
+  "status": "ok",
+  "model_returned": "deepseek-flash",
+  "answer": "检索到的资料没有给出 **2026年11月14日前后**巴黎游行的明确路线；其中出现的几条路线分别属于不同日期、不同场次的示威，且多数报道未标明完整年份，无法确认是否为“现在”的路线。按资料可归纳为以下几条：\n\n1. **巴士底广场—共和国广场—歌剧院**，或**巴士底广场—民族广场**：报道提到10月24日（周六）新一轮游行，预计采用这两条路线之一，警方加强警力部署[1]。\n2. **巴尼奥莱门（Porte de Bagnolet）→沙朗通门（Porte de Charenton）**：法国最高行政法院10月31日凌晨裁决确定的当日游行路线，位于巴黎东南方向[3]。\n3. **共和国广场→圣殿大道→十字架之女大道→博马舍大道→巴士底广场→里昂路→多梅尼尔大街→狄德罗大道→民族广场**：这是“17日”游行的路线，13点30分从共和国广场出发；巴黎警察总局还要求沿途商店、酒吧、餐馆在示威期间停业[4]。\n4. **荣军院广场→Maréchal Galliéni大道→荣军院大道→蒙巴纳斯大道→罗亚尔港大道→戈贝兰大道→意大利广场**：示威下午2点从荣军院广场出发，约19点到达意大利广场[5]。\n\n另外，有报道描述了凯旋门附近示威者向福熙大道、奥什大道、弗里德兰大道、乔治五世大道、香榭丽舍大街、协和广场、杜乐丽花园、奥斯曼大道、蒙田大道、圣奥诺雷市郊街、爱丽舍宫及里沃利街方向扩散的情况，但这属于示威人群的流动方向，并非官方公布的完整游行路线[2]。\n\n如需确认当天实际路线，建议以**巴黎警察局（Préfecture de Police）**最新公告和中国驻法国使领馆安全提醒为准；上述资料时间标注不完整，不宜直接当作2026年11月14日的现行路线使用[1][3]。",
+  "sources": [
+    {
+      "index": 1,
+      "url": "https://fr.china-embassy.gov.cn/zgzfg/zgsg/lsqwc/zytz/202610/t20261022_12045507.htm",
+      "title": null,
+      "origin": "citations"
+    },
+    {
+      "index": 2,
+      "url": "https://news.sina.cn/global/szzx/2018-12-04/detail-ihmutuec6227551.d.html?vt=4",
+      "title": null,
+      "origin": "citations"
+    },
+    {
+      "index": 3,
+      "url": "https://news.qq.com/rain/a/20261031A0CU8L00",
+      "title": null,
+      "origin": "citations"
+    },
+    {
+      "index": 4,
+      "url": "https://new.qq.com/rain/a/20191215A09YDI00",
+      "title": null,
+      "origin": "citations"
+    },
+    {
+      "index": 5,
+      "url": "https://www.52hrtt.com/ec/n/w/info/A1685709533737",
+      "title": null,
+      "origin": "citations"
+    }
+  ],
+  "usage": {
+    "completion_tokens": 1468,
+    "completion_tokens_details": {
+      "reasoning_tokens": 1009
+    },
+    "prompt_tokens": 1371,
+    "prompt_tokens_details": {
+      "cached_tokens": 0
+    },
+    "total_tokens": 2839
+  },
+  "finish_reason": "stop",
+  "note": [],
+  "request_id": "cd598565-a8d3-42c9-92ee-d85e50d3bdda",
+  "duration_seconds": 10.404
+}

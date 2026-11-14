@@ -1,0 +1,65 @@
+{
+  "task_id": "T0360",
+  "model": "qwen",
+  "news_id": "E030",
+  "question_index": 3,
+  "question_original": "【事实】证监会2024年对恒大地产和许家印分别罚了多少钱，对许家印还有什么市场禁入措施？",
+  "question": "证监会2024年对恒大地产和许家印分别罚了多少钱，对许家印还有什么市场禁入措施？",
+  "attempt": 1,
+  "provider": "302.ai",
+  "model_requested": "qwen3.8-max",
+  "query_date": "2026-11-14",
+  "search_service": "metaso",
+  "prompt_version": "news-search-v1",
+  "prompt_sha256": "ea56fd5557d32615a9115f2368a0c4983ff1188f4935369e694d7d46f2493be1",
+  "requested_at": "2026-11-14T12:35:04.694309+08:00",
+  "raw_file": "raw/T0360_qwen_a001_b3ce54.json",
+  "transport": "sse",
+  "stream_file": "raw/T0360_qwen_a001_b3ce54.sse",
+  "status": "ok",
+  "model_returned": "qwen3.8-max",
+  "answer": "证监会2024年对恒大地产罚款 **41.75亿元**；对许家印罚款 **4700万元**，并对其采取 **终身证券市场禁入措施**。[1][5]\n\n补充背景：该处罚由证监会于 **2024年5月31日** 依法作出，涉及恒大地产 **债券欺诈发行及信息披露违法** 案。除罚款外，证监会还对恒大地产作出 **责令改正、给予警告** 等处理；许家印作为恒大地产时任董事长、实际控制人，被处以顶格罚款并终身禁入证券市场。[1][3]",
+  "sources": [
+    {
+      "index": 1,
+      "url": "https://m.jrj.com.cn/madapter/finance/2024/05/31175440851270.shtml",
+      "title": null,
+      "origin": "citations"
+    },
+    {
+      "index": 2,
+      "url": "https://stock.jrj.com.cn/2024/03/19073239894671.shtml",
+      "title": null,
+      "origin": "citations"
+    },
+    {
+      "index": 3,
+      "url": "https://fund.eastmoney.com/a/202403193015571375.html",
+      "title": null,
+      "origin": "citations"
+    },
+    {
+      "index": 4,
+      "url": "https://www.thepaper.cn/newsDetail_forward_26730315",
+      "title": null,
+      "origin": "citations"
+    }
+  ],
+  "usage": {
+    "completion_tokens": 490,
+    "completion_tokens_details": {
+      "reasoning_tokens": 355,
+      "text_tokens": 490
+    },
+    "prompt_tokens": 1482,
+    "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "text_tokens": 1482
+    },
+    "total_tokens": 1972
+  },
+  "finish_reason": "stop",
+  "note": [],
+  "request_id": "c5f3183d-9432-461c-a4ce-0f96a9939e00",
+  "duration_seconds": 14.297
+}

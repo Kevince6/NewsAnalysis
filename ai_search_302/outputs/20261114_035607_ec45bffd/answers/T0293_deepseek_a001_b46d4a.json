@@ -1,0 +1,63 @@
+{
+  "task_id": "T0293",
+  "model": "deepseek",
+  "news_id": "E025",
+  "question_index": 1,
+  "question_original": "【开放】Manus宣布加入Meta和后来被要求撤销交易，这两次消息分别是怎么回事？",
+  "question": "Manus宣布加入Meta和后来被要求撤销交易，这两次消息分别是怎么回事？",
+  "attempt": 1,
+  "provider": "302.ai",
+  "model_requested": "deepseek-flash",
+  "query_date": "2026-11-14",
+  "search_service": "metaso",
+  "prompt_version": "news-search-v1",
+  "prompt_sha256": "ea56fd5557d32615a9115f2368a0c4983ff1188f4935369e694d7d46f2493be1",
+  "requested_at": "2026-11-14T12:15:52.603260+08:00",
+  "raw_file": "raw/T0293_deepseek_a001_b46d4a.json",
+  "transport": "sse",
+  "stream_file": "raw/T0293_deepseek_a001_b46d4a.sse",
+  "status": "ok",
+  "model_returned": "deepseek-flash",
+  "answer": "## 简要回答\n\n这是同一笔交易的两个阶段：**先是2025年12月Meta宣布以25亿美元收购Manus、Manus团队并入Meta；随后中国外商投资安全审查机关于2026年4月作出禁止投资决定，要求撤销交易，Manus因此将恢复独立运营。**\n\n## 一、第一次消息：Manus加入Meta\n\n根据检索到的报道，**2025年12月，Meta以25亿美元收购Manus**；交易完成后，Meta很快开始把Manus的技术整合进自身系统[citation:2]。这就是外界所说的“Manus宣布加入Meta”，本质是一起跨境并购，Manus作为被收购方并入Meta。\n\n需要说明：**搜索结果没有提供Manus或Meta当时官方公告的原文、确切宣布日期和具体表述**，上述时间与金额来自后续报道对这笔交易的回顾[citation:2]。因此“Manus宣布加入Meta”的原始发布细节，目前资料不足，无法逐字还原。\n\n## 二、第二次消息：交易被要求撤销\n\n1. **监管决定**：2026年4月27日消息，**外商投资安全审查工作机制办公室依法依规对Meta收购Manus项目作出禁止投资决定，要求撤销该收购交易**[citation:1]。\n\n2. **Meta的应对**：据《华尔街日报》报道，在中国国家发改委要求撤销相关交易后，**Meta正在准备撤销对Manus的收购**[citation:2]。\n\n3. **拆解难度大**：由于交易完成后技术与业务已开始融合，撤销意味着要重新拆解**业务、技术与组织关系**；同时，包括Benchmark在内的部分Manus投资方已从这笔交易中获得回报，Manus的多名前投资方计划在Meta推进撤销时予以配合[citation:2]。\n\n4. **Manus的去向**：Manus将**恢复独立运营**，继续通过App和网站为用户提供产品和订阅服务，并**继续在新加坡运营**[citation:3][citation:4]。\n\n## 三、时间线梳理\n\n| 时间 | 事件 |\n|---|---|\n| 2025年12月 | Meta以25亿美元收购Manus，随后开始技术整合[citation:2] |\n| 2026年1月8日 | 商务部新闻发言人何亚东表示，将会同相关部门就该收购与出口管制、技术进出口、对外投资等法律法规的一致性开展评估调查[citation:4] |\n| 2026年4月27日 | 外商投资安全审查工作机制办公室作出禁止投资决定，要求撤销收购[citation:1] |\n| 此后 | Meta准备撤销交易；Manus恢复独立运营，继续在新加坡运营[citation:2][citation:3][citation:4] |\n\n## 四、需要区分的事实与判断\n\n- **已确认的事实**：收购金额与时间、监管禁止决定、要求撤销、Manus恢复独立运营并继续在新加坡运营，均有报道支撑[citation:1][citation:2][citation:3][citation:4]。\n- **资料未披露的内容**：安全审查作出禁止决定的**具体理由**、撤销交易的**具体时间表与拆解方案**、Meta和Manus的**官方回应**（《财经》询问双方截至发稿未获回复）[citation:3]。\n- **不宜过度推断**：这笔交易同时涉及外商投资安全审查、出口管制与技术进出口等监管维度[citation:4]，但现有资料没有说明最终禁止决定具体依据哪一条款，因此不宜自行归因。",
+  "sources": [
+    {
+      "index": 1,
+      "url": "https://www.pedaily.cn/first/150810.shtml",
+      "title": null,
+      "origin": "citations"
+    },
+    {
+      "index": 2,
+      "url": "https://new.qq.com/rain/a/20260428A04N3Q00",
+      "title": null,
+      "origin": "citations"
+    },
+    {
+      "index": 3,
+      "url": "https://finance.sina.cn/2026-08-17/detail-ininruyf6787363.d.html",
+      "title": null,
+      "origin": "citations"
+    },
+    {
+      "index": 4,
+      "url": "https://xueqiu.com/9793054414/386269814",
+      "title": null,
+      "origin": "citations"
+    }
+  ],
+  "usage": {
+    "completion_tokens": 1399,
+    "completion_tokens_details": {
+      "reasoning_tokens": 668
+    },
+    "prompt_tokens": 1108,
+    "prompt_tokens_details": {
+      "cached_tokens": 0
+    },
+    "total_tokens": 2507
+  },
+  "finish_reason": "stop",
+  "note": [],
+  "request_id": "81fd49d9-571d-4834-ab77-044dee588f0d",
+  "duration_seconds": 8.765
+}

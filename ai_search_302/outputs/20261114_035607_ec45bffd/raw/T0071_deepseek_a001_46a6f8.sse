@@ -1,0 +1,72 @@
+data: {"id":"chatcmpl-b8539203-be33-45cd-b8d9-acbe752b6236","choices":[{"index":0,"delta":{"role":"assistant","reasoning_content":"用户"},"finish_reason":null,"logprobs":null}],"created":1794626266,"model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"id":"chatcmpl-b8539203-be33-45cd-b8d9-acbe752b6236","choices":[{"index":0,"delta":{"reasoning_content":"问"},"finish_reason":null,"logprobs":null}],"created":1794626266,"model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"id":"chatcmpl-b8539203-be33-45cd-b8d9-acbe752b6236","choices":[{"index":0,"delta":{"reasoning_content":"的是伊朗说"},"finish_reason":null,"logprobs":null}],"created":1794626266,"model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"id":"chatcmpl-b8539203-be33-45cd-b8d9-acbe752b6236","choices":[{"index":0,"delta":{"reasoning_content":"打中了巴林的美"},"finish_reason":null,"logprobs":null}],"created":1794626266,"model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"id":"chatcmpl-b8539203-be33-45cd-b8d9-acbe752b6236","choices":[{"index":0,"delta":{"reasoning_content":"军雷达，美军说"},"finish_reason":null,"logprobs":null}],"created":1794626266,"model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"id":"chatcmpl-b8539203-be33-45cd-b8d9-acbe752b6236","choices":[{"index":0,"delta":{"reasoning_content":"拦下了无人机，这两个"},"finish_reason":null,"logprobs":null}],"created":1794626266,"model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"id":"chatcmpl-b8539203-be33-45cd-b8d9-acbe752b6236","choices":[{"index":0,"delta":{"reasoning_content":"说"},"finish_reason":null,"logprobs":null}],"created":1794626266,"model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"id":"chatcmpl-b8539203-be33-45cd-b8d9-acbe752b6236","choices":[{"index":0,"delta":{"reasoning_content":"法的来源是什么，哪个"},"finish_reason":null,"logprobs":null}],"created":1794626266,"model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"id":"chatcmpl-b8539203-be33-45cd-b8d9-acbe752b6236","choices":[{"index":0,"delta":{"reasoning_content":"准确。我需要联网"},"finish_reason":null,"logprobs":null}],"created":1794626266,"model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"id":"chatcmpl-b8539203-be33-45cd-b8d9-acbe752b6236","choices":[{"index":0,"delta":{"reasoning_content":"检索。查询"},"finish_reason":null,"logprobs":null}],"created":1794626266,"model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"id":"chatcmpl-b8539203-be33-45cd-b8d9-acbe752b6236","choices":[{"index":0,"delta":{"reasoning_content":"日期2026-"},"finish_reason":null,"logprobs":null}],"created":1794626266,"model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"id":"chatcmpl-b8539203-be33-45cd-b8d9-acbe752b6236","choices":[{"index":0,"delta":{"reasoning_content":"11-14。这"},"finish_reason":null,"logprobs":null}],"created":1794626266,"model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"id":"chatcmpl-b8539203-be33-45cd-b8d9-acbe752b6236","choices":[{"index":0,"delta":{"reasoning_content":"似乎是2026年的事件？"},"finish_reason":null,"logprobs":null}],"created":1794626266,"model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"id":"chatcmpl-b8539203-be33-45cd-b8d9-acbe752b6236","choices":[{"index":0,"delta":{"reasoning_content":"我需要"},"finish_reason":null,"logprobs":null}],"created":1794626266,"model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"id":"chatcmpl-b8539203-be33-45cd-b8d9-acbe752b6236","choices":[{"index":0,"delta":{"reasoning_content":"搜索。\n\n"},"finish_reason":null,"logprobs":null}],"created":1794626266,"model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"id":"chatcmpl-b8539203-be33-45cd-b8d9-acbe752b6236","choices":[{"index":0,"delta":{"reasoning_content":"让我"},"finish_reason":null,"logprobs":null}],"created":1794626266,"model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"id":"chatcmpl-b8539203-be33-45cd-b8d9-acbe752b6236","choices":[{"index":0,"delta":{"reasoning_content":"搜索"},"finish_reason":null,"logprobs":null}],"created":1794626266,"model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"id":"chatcmpl-b8539203-be33-45cd-b8d9-acbe752b6236","choices":[{"index":0,"delta":{"reasoning_content":"相关信息。"},"finish_reason":null,"logprobs":null}],"created":1794626266,"model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"id":"chatcmpl-b8539203-be33-45cd-b8d9-acbe752b6236","choices":[{"index":0,"delta":{"content":"\n\n<tool"},"finish_reason":null,"logprobs":null}],"created":1794626266,"model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"id":"chatcmpl-b8539203-be33-45cd-b8d9-acbe752b6236","choices":[{"index":0,"delta":{"content":"_call"},"finish_reason":null,"logprobs":null}],"created":1794626266,"model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"id":"chatcmpl-b8539203-be33-45cd-b8d9-acbe752b6236","choices":[{"index":0,"delta":{"content":">\nweb"},"finish_reason":null,"logprobs":null}],"created":1794626266,"model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"id":"chatcmpl-b8539203-be33-45cd-b8d9-acbe752b6236","choices":[{"index":0,"delta":{"content":"_search\n{\"query"},"finish_reason":null,"logprobs":null}],"created":1794626266,"model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"id":"chatcmpl-b8539203-be33-45cd-b8d9-acbe752b6236","choices":[{"index":0,"delta":{"content":"\": \"伊朗 巴林"},"finish_reason":null,"logprobs":null}],"created":1794626266,"model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"id":"chatcmpl-b8539203-be33-45cd-b8d9-acbe752b6236","choices":[{"index":0,"delta":{"content":" 美军雷达"},"finish_reason":null,"logprobs":null}],"created":1794626266,"model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"id":"chatcmpl-b8539203-be33-45cd-b8d9-acbe752b6236","choices":[{"index":0,"delta":{"content":" 无人机"},"finish_reason":null,"logprobs":null}],"created":1794626266,"model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"id":"chatcmpl-b8539203-be33-45cd-b8d9-acbe752b6236","choices":[{"index":0,"delta":{"content":" 拦截"},"finish_reason":null,"logprobs":null}],"created":1794626266,"model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"id":"chatcmpl-b8539203-be33-45cd-b8d9-acbe752b6236","choices":[{"index":0,"delta":{"content":"\","},"finish_reason":null,"logprobs":null}],"created":1794626266,"model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"id":"chatcmpl-b8539203-be33-45cd-b8d9-acbe752b6236","choices":[{"index":0,"delta":{"content":" \"date_range"},"finish_reason":null,"logprobs":null}],"created":1794626266,"model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"id":"chatcmpl-b8539203-be33-45cd-b8d9-acbe752b6236","choices":[{"index":0,"delta":{"content":"\": \"2026-11"},"finish_reason":null,"logprobs":null}],"created":1794626266,"model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"id":"chatcmpl-b8539203-be33-45cd-b8d9-acbe752b6236","choices":[{"index":0,"delta":{"content":"-01"},"finish_reason":null,"logprobs":null}],"created":1794626266,"model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"id":"chatcmpl-b8539203-be33-45cd-b8d9-acbe752b6236","choices":[{"index":0,"delta":{"content":" to 2026-11"},"finish_reason":null,"logprobs":null}],"created":1794626266,"model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"id":"chatcmpl-b8539203-be33-45cd-b8d9-acbe752b6236","choices":[{"index":0,"delta":{"content":"-14\"}\n</tool"},"finish_reason":null,"logprobs":null}],"created":1794626266,"model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"id":"chatcmpl-b8539203-be33-45cd-b8d9-acbe752b6236","choices":[{"index":0,"delta":{"content":"_call>"},"finish_reason":null,"logprobs":null}],"created":1794626266,"model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"id":"chatcmpl-b8539203-be33-45cd-b8d9-acbe752b6236","choices":[{"index":0,"delta":{},"finish_reason":"stop","logprobs":null}],"created":1794626266,"model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"id":"chatcmpl-b8539203-be33-45cd-b8d9-acbe752b6236","choices":[],"created":1794626266,"model":"deepseek-flash","object":"chat.completion.chunk","usage":{"prompt_tokens":200,"completion_tokens":105,"total_tokens":305,"prompt_tokens_details":{"cached_tokens":0},"completion_tokens_details":{"reasoning_tokens":55}}}
+
+data: [DONE]
+

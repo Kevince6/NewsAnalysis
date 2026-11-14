@@ -1,0 +1,686 @@
+data: {"choices":[{"delta":{"content":"","reasoning_content":"","role":"assistant"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_7096020439_v1a6f4add706801izhy.html","https://www.sohu.com/a/920313200_122001252"],"created":1794629577,"id":"chatcmpl-30e31e4c-b8ad-9e38-9aea-03a9058288d0","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"我们需要"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_7096020439_v1a6f4add706801izhy.html","https://www.sohu.com/a/920313200_122001252"],"created":1794629577,"id":"chatcmpl-30e31e4c-b8ad-9e38-9aea-03a9058288d0","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"回答用户问题："},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_7096020439_v1a6f4add706801izhy.html","https://www.sohu.com/a/920313200_122001252"],"created":1794629577,"id":"chatcmpl-30e31e4c-b8ad-9e38-9aea-03a9058288d0","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"张碧晨工作室"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_7096020439_v1a6f4add706801izhy.html","https://www.sohu.com/a/920313200_122001252"],"created":1794629577,"id":"chatcmpl-30e31e4c-b8ad-9e38-9aea-03a9058288d0","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"用哪些版本上线"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_7096020439_v1a6f4add706801izhy.html","https://www.sohu.com/a/920313200_122001252"],"created":1794629577,"id":"chatcmpl-30e31e4c-b8ad-9e38-9aea-03a9058288d0","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"日期，来主张"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_7096020439_v1a6f4add706801izhy.html","https://www.sohu.com/a/920313200_122001252"],"created":1794629577,"id":"chatcmpl-30e31e4c-b8ad-9e38-9aea-03a9058288d0","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"她是《年轮"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_7096020439_v1a6f4add706801izhy.html","https://www.sohu.com/a/920313200_122001252"],"created":1794629577,"id":"chatcmpl-30e31e4c-b8ad-9e38-9aea-03a9058288d0","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"》的原唱？"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_7096020439_v1a6f4add706801izhy.html","https://www.sohu.com/a/920313200_122001252"],"created":1794629577,"id":"chatcmpl-30e31e4c-b8ad-9e38-9aea-03a9058288d0","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"需要根据提供搜索结果。"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_7096020439_v1a6f4add706801izhy.html","https://www.sohu.com/a/920313200_122001252"],"created":1794629577,"id":"chatcmpl-30e31e4c-b8ad-9e38-9aea-03a9058288d0","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"必须"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_7096020439_v1a6f4add706801izhy.html","https://www.sohu.com/a/920313200_122001252"],"created":1794629577,"id":"chatcmpl-30e31e4c-b8ad-9e38-9aea-03a9058288d0","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"用自然中文。"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_7096020439_v1a6f4add706801izhy.html","https://www.sohu.com/a/920313200_122001252"],"created":1794629577,"id":"chatcmpl-30e31e4c-b8ad-9e38-9aea-03a9058288d0","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"先直接回答，"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_7096020439_v1a6f4add706801izhy.html","https://www.sohu.com/a/920313200_122001252"],"created":1794629577,"id":"chatcmpl-30e31e4c-b8ad-9e38-9aea-03a9058288d0","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"再补充事实背景"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_7096020439_v1a6f4add706801izhy.html","https://www.sohu.com/a/920313200_122001252"],"created":1794629577,"id":"chatcmpl-30e31e4c-b8ad-9e38-9aea-03a9058288d0","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"。引用格式 ["},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_7096020439_v1a6f4add706801izhy.html","https://www.sohu.com/a/920313200_122001252"],"created":1794629577,"id":"chatcmpl-30e31e4c-b8ad-9e38-9aea-03a9058288d0","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"X] 在"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_7096020439_v1a6f4add706801izhy.html","https://www.sohu.com/a/920313200_122001252"],"created":1794629577,"id":"chatcmpl-30e31e4c-b8ad-9e38-9aea-03a9058288d0","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"句末。"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_7096020439_v1a6f4add706801izhy.html","https://www.sohu.com/a/920313200_122001252"],"created":1794629577,"id":"chatcmpl-30e31e4c-b8ad-9e38-9aea-03a9058288d0","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"今天是202"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_7096020439_v1a6f4add706801izhy.html","https://www.sohu.com/a/920313200_122001252"],"created":1794629577,"id":"chatcmpl-30e31e4c-b8ad-9e38-9aea-03a9058288d0","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"6"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_7096020439_v1a6f4add706801izhy.html","https://www.sohu.com/a/920313200_122001252"],"created":1794629577,"id":"chatcmpl-30e31e4c-b8ad-9e38-9aea-03a9058288d0","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"-11-"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_7096020439_v1a6f4add706801izhy.html","https://www.sohu.com/a/920313200_122001252"],"created":1794629577,"id":"chatcmpl-30e31e4c-b8ad-9e38-9aea-03a9058288d0","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"14，但"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_7096020439_v1a6f4add706801izhy.html","https://www.sohu.com/a/920313200_122001252"],"created":1794629577,"id":"chatcmpl-30e31e4c-b8ad-9e38-9aea-03a9058288d0","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"问题与当前无关"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_7096020439_v1a6f4add706801izhy.html","https://www.sohu.com/a/920313200_122001252"],"created":1794629577,"id":"chatcmpl-30e31e4c-b8ad-9e38-9aea-03a9058288d0","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"。需要甄别资料"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_7096020439_v1a6f4add706801izhy.html","https://www.sohu.com/a/920313200_122001252"],"created":1794629577,"id":"chatcmpl-30e31e4c-b8ad-9e38-9aea-03a9058288d0","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"。\n\n用户给出的"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_7096020439_v1a6f4add706801izhy.html","https://www.sohu.com/a/920313200_122001252"],"created":1794629577,"id":"chatcmpl-30e31e4c-b8ad-9e38-9aea-03a9058288d0","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"搜索结果：\nweb"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_7096020439_v1a6f4add706801izhy.html","https://www.sohu.com/a/920313200_122001252"],"created":1794629577,"id":"chatcmpl-30e31e4c-b8ad-9e38-9aea-03a9058288d0","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"page 4："},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_7096020439_v1a6f4add706801izhy.html","https://www.sohu.com/a/920313200_122001252"],"created":1794629577,"id":"chatcmpl-30e31e4c-b8ad-9e38-9aea-03a9058288d0","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"平台标注“原"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_7096020439_v1a6f4add706801izhy.html","https://www.sohu.com/a/920313200_122001252"],"created":1794629577,"id":"chatcmpl-30e31e4c-b8ad-9e38-9aea-03a9058288d0","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"唱"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_7096020439_v1a6f4add706801izhy.html","https://www.sohu.com/a/920313200_122001252"],"created":1794629577,"id":"chatcmpl-30e31e4c-b8ad-9e38-9aea-03a9058288d0","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"”依据版权方"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_7096020439_v1a6f4add706801izhy.html","https://www.sohu.com/a/920313200_122001252"],"created":1794629577,"id":"chatcmpl-30e31e4c-b8ad-9e38-9aea-03a9058288d0","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"要求或首发记录"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_7096020439_v1a6f4add706801izhy.html","https://www.sohu.com/a/920313200_122001252"],"created":1794629577,"id":"chatcmpl-30e31e4c-b8ad-9e38-9aea-03a9058288d0","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"，QQ音乐、"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_7096020439_v1a6f4add706801izhy.html","https://www.sohu.com/a/920313200_122001252"],"created":1794629577,"id":"chatcmpl-30e31e4c-b8ad-9e38-9aea-03a9058288d0","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"网易云目前均"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_7096020439_v1a6f4add706801izhy.html","https://www.sohu.com/a/920313200_122001252"],"created":1794629577,"id":"chatcmpl-30e31e4c-b8ad-9e38-9aea-03a9058288d0","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"标注双原唱"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_7096020439_v1a6f4add706801izhy.html","https://www.sohu.com/a/920313200_122001252"],"created":1794629577,"id":"chatcmpl-30e31e4c-b8ad-9e38-9aea-03a9058288d0","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"。影视OST常"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_7096020439_v1a6f4add706801izhy.html","https://www.sohu.com/a/920313200_122001252"],"created":1794629577,"id":"chatcmpl-30e31e4c-b8ad-9e38-9aea-03a9058288d0","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"存在多版本原"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_7096020439_v1a6f4add706801izhy.html","https://www.sohu.com/a/920313200_122001252"],"created":1794629577,"id":"chatcmpl-30e31e4c-b8ad-9e38-9aea-03a9058288d0","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"唱，但需"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_7096020439_v1a6f4add706801izhy.html","https://www.sohu.com/a/920313200_122001252"],"created":1794629577,"id":"chatcmpl-30e31e4c-b8ad-9e38-9aea-03a9058288d0","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"明确合同约定"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_7096020439_v1a6f4add706801izhy.html","https://www.sohu.com/a/920313200_122001252"],"created":1794629577,"id":"chatcmpl-30e31e4c-b8ad-9e38-9aea-03a9058288d0","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"。关键事件时间"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_7096020439_v1a6f4add706801izhy.html","https://www.sohu.com/a/920313200_122001252"],"created":1794629577,"id":"chatcmpl-30e31e4c-b8ad-9e38-9aea-03a9058288d0","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"线：20"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_7096020439_v1a6f4add706801izhy.html","https://www.sohu.com/a/920313200_122001252"],"created":1794629577,"id":"chatcmpl-30e31e4c-b8ad-9e38-9aea-03a9058288d0","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"15-0"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_7096020439_v1a6f4add706801izhy.html","https://www.sohu.com/a/920313200_122001252"],"created":1794629577,"id":"chatcmpl-30e31e4c-b8ad-9e38-9aea-03a9058288d0","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"4-2"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_7096020439_v1a6f4add706801izhy.html","https://www.sohu.com/a/920313200_122001252"],"created":1794629577,"id":"chatcmpl-30e31e4c-b8ad-9e38-9aea-03a9058288d0","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"1汪苏"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_7096020439_v1a6f4add706801izhy.html","https://www.sohu.com/a/920313200_122001252"],"created":1794629577,"id":"chatcmpl-30e31e4c-b8ad-9e38-9aea-03a9058288d0","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"泷版录制完成"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_7096020439_v1a6f4add706801izhy.html","https://www.sohu.com/a/920313200_122001252"],"created":1794629577,"id":"chatcmpl-30e31e4c-b8ad-9e38-9aea-03a9058288d0","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"；201"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_7096020439_v1a6f4add706801izhy.html","https://www.sohu.com/a/920313200_122001252"],"created":1794629577,"id":"chatcmpl-30e31e4c-b8ad-9e38-9aea-03a9058288d0","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"5-04"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_7096020439_v1a6f4add706801izhy.html","https://www.sohu.com/a/920313200_122001252"],"created":1794629577,"id":"chatcmpl-30e31e4c-b8ad-9e38-9aea-03a9058288d0","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"-30张"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_7096020439_v1a6f4add706801izhy.html","https://www.sohu.com/a/920313200_122001252"],"created":1794629577,"id":"chatcmpl-30e31e4c-b8ad-9e38-9aea-03a9058288d0","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"碧晨版录制"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_7096020439_v1a6f4add706801izhy.html","https://www.sohu.com/a/920313200_122001252"],"created":1794629577,"id":"chatcmpl-30e31e4c-b8ad-9e38-9aea-03a9058288d0","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"完成；20"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_7096020439_v1a6f4add706801izhy.html","https://www.sohu.com/a/920313200_122001252"],"created":1794629577,"id":"chatcmpl-30e31e4c-b8ad-9e38-9aea-03a9058288d0","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"15-0"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_7096020439_v1a6f4add706801izhy.html","https://www.sohu.com/a/920313200_122001252"],"created":1794629577,"id":"chatcmpl-30e31e4c-b8ad-9e38-9aea-03a9058288d0","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"6-15"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_7096020439_v1a6f4add706801izhy.html","https://www.sohu.com/a/920313200_122001252"],"created":1794629577,"id":"chatcmpl-30e31e4c-b8ad-9e38-9aea-03a9058288d0","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"张碧晨版"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_7096020439_v1a6f4add706801izhy.html","https://www.sohu.com/a/920313200_122001252"],"created":1794629577,"id":"chatcmpl-30e31e4c-b8ad-9e38-9aea-03a9058288d0","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"作为《花千"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_7096020439_v1a6f4add706801izhy.html","https://www.sohu.com/a/920313200_122001252"],"created":1794629577,"id":"chatcmpl-30e31e4c-b8ad-9e38-9aea-03a9058288d0","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"骨》插曲首发"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_7096020439_v1a6f4add706801izhy.html","https://www.sohu.com/a/920313200_122001252"],"created":1794629577,"id":"chatcmpl-30e31e4c-b8ad-9e38-9aea-03a9058288d0","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"上线；20"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_7096020439_v1a6f4add706801izhy.html","https://www.sohu.com/a/920313200_122001252"],"created":1794629577,"id":"chatcmpl-30e31e4c-b8ad-9e38-9aea-03a9058288d0","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"15-0"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_7096020439_v1a6f4add706801izhy.html","https://www.sohu.com/a/920313200_122001252"],"created":1794629577,"id":"chatcmpl-30e31e4c-b8ad-9e38-9aea-03a9058288d0","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"6-30"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_7096020439_v1a6f4add706801izhy.html","https://www.sohu.com/a/920313200_122001252"],"created":1794629577,"id":"chatcmpl-30e31e4c-b8ad-9e38-9aea-03a9058288d0","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"汪苏泷"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_7096020439_v1a6f4add706801izhy.html","https://www.sohu.com/a/920313200_122001252"],"created":1794629577,"id":"chatcmpl-30e31e4c-b8ad-9e38-9aea-03a9058288d0","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"男声版以"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_7096020439_v1a6f4add706801izhy.html","https://www.sohu.com/a/920313200_122001252"],"created":1794629577,"id":"chatcmpl-30e31e4c-b8ad-9e38-9aea-03a9058288d0","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"单曲形式上架；"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_7096020439_v1a6f4add706801izhy.html","https://www.sohu.com/a/920313200_122001252"],"created":1794629577,"id":"chatcmpl-30e31e4c-b8ad-9e38-9aea-03a9058288d0","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"2025"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_7096020439_v1a6f4add706801izhy.html","https://www.sohu.com/a/920313200_122001252"],"created":1794629577,"id":"chatcmpl-30e31e4c-b8ad-9e38-9aea-03a9058288d0","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"-07-"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_7096020439_v1a6f4add706801izhy.html","https://www.sohu.com/a/920313200_122001252"],"created":1794629577,"id":"chatcmpl-30e31e4c-b8ad-9e38-9aea-03a9058288d0","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"22网红称"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_7096020439_v1a6f4add706801izhy.html","https://www.sohu.com/a/920313200_122001252"],"created":1794629577,"id":"chatcmpl-30e31e4c-b8ad-9e38-9aea-03a9058288d0","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"“原唱只能是"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_7096020439_v1a6f4add706801izhy.html","https://www.sohu.com/a/920313200_122001252"],"created":1794629577,"id":"chatcmpl-30e31e4c-b8ad-9e38-9aea-03a9058288d0","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"张"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_7096020439_v1a6f4add706801izhy.html","https://www.sohu.com/a/920313200_122001252"],"created":1794629577,"id":"chatcmpl-30e31e4c-b8ad-9e38-9aea-03a9058288d0","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"碧晨”引发"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_7096020439_v1a6f4add706801izhy.html","https://www.sohu.com/a/920313200_122001252"],"created":1794629577,"id":"chatcmpl-30e31e4c-b8ad-9e38-9aea-03a9058288d0","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"争议；20"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_7096020439_v1a6f4add706801izhy.html","https://www.sohu.com/a/920313200_122001252"],"created":1794629577,"id":"chatcmpl-30e31e4c-b8ad-9e38-9aea-03a9058288d0","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"25-0"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_7096020439_v1a6f4add706801izhy.html","https://www.sohu.com/a/920313200_122001252"],"created":1794629577,"id":"chatcmpl-30e31e4c-b8ad-9e38-9aea-03a9058288d0","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"7-25"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_7096020439_v1a6f4add706801izhy.html","https://www.sohu.com/a/920313200_122001252"],"created":1794629577,"id":"chatcmpl-30e31e4c-b8ad-9e38-9aea-03a9058288d0","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"汪苏泷"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_7096020439_v1a6f4add706801izhy.html","https://www.sohu.com/a/920313200_122001252"],"created":1794629577,"id":"chatcmpl-30e31e4c-b8ad-9e38-9aea-03a9058288d0","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"方"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_7096020439_v1a6f4add706801izhy.html","https://www.sohu.com/a/920313200_122001252"],"created":1794629577,"id":"chatcmpl-30e31e4c-b8ad-9e38-9aea-03a9058288d0","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"收回授权；0"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_7096020439_v1a6f4add706801izhy.html","https://www.sohu.com/a/920313200_122001252"],"created":1794629577,"id":"chatcmpl-30e31e4c-b8ad-9e38-9aea-03a9058288d0","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"2:16"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_7096020439_v1a6f4add706801izhy.html","https://www.sohu.com/a/920313200_122001252"],"created":1794629577,"id":"chatcmpl-30e31e4c-b8ad-9e38-9aea-03a9058288d0","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"张碧晨工作室"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_7096020439_v1a6f4add706801izhy.html","https://www.sohu.com/a/920313200_122001252"],"created":1794629577,"id":"chatcmpl-30e31e4c-b8ad-9e38-9aea-03a9058288d0","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"声明“唯一原"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_7096020439_v1a6f4add706801izhy.html","https://www.sohu.com/a/920313200_122001252"],"created":1794629577,"id":"chatcmpl-30e31e4c-b8ad-9e38-9aea-03a9058288d0","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"唱”，并告别"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_7096020439_v1a6f4add706801izhy.html","https://www.sohu.com/a/920313200_122001252"],"created":1794629577,"id":"chatcmpl-30e31e4c-b8ad-9e38-9aea-03a9058288d0","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"歌曲；"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_7096020439_v1a6f4add706801izhy.html","https://www.sohu.com/a/920313200_122001252"],"created":1794629577,"id":"chatcmpl-30e31e4c-b8ad-9e38-9aea-03a9058288d0","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"03:3"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_7096020439_v1a6f4add706801izhy.html","https://www.sohu.com/a/920313200_122001252"],"created":1794629577,"id":"chatcmpl-30e31e4c-b8ad-9e38-9aea-03a9058288d0","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"5汪苏"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_7096020439_v1a6f4add706801izhy.html","https://www.sohu.com/a/920313200_122001252"],"created":1794629577,"id":"chatcmpl-30e31e4c-b8ad-9e38-9aea-03a9058288d0","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"泷经纪公司出示邮件"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_7096020439_v1a6f4add706801izhy.html","https://www.sohu.com/a/920313200_122001252"],"created":1794629577,"id":"chatcmpl-30e31e4c-b8ad-9e38-9aea-03a9058288d0","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"证明“男女版"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_7096020439_v1a6f4add706801izhy.html","https://www.sohu.com/a/920313200_122001252"],"created":1794629577,"id":"chatcmpl-30e31e4c-b8ad-9e38-9aea-03a9058288d0","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"同期立项"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_7096020439_v1a6f4add706801izhy.html","https://www.sohu.com/a/920313200_122001252"],"created":1794629577,"id":"chatcmpl-30e31e4c-b8ad-9e38-9aea-03a9058288d0","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"”。\n\nwebpage"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_7096020439_v1a6f4add706801izhy.html","https://www.sohu.com/a/920313200_122001252"],"created":1794629577,"id":"chatcmpl-30e31e4c-b8ad-9e38-9aea-03a9058288d0","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":" 5"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_7096020439_v1a6f4add706801izhy.html","https://www.sohu.com/a/920313200_122001252"],"created":1794629577,"id":"chatcmpl-30e31e4c-b8ad-9e38-9aea-03a9058288d0","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"：同一天张"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_7096020439_v1a6f4add706801izhy.html","https://www.sohu.com/a/920313200_122001252"],"created":1794629577,"id":"chatcmpl-30e31e4c-b8ad-9e38-9aea-03a9058288d0","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"碧晨工作室回应"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_7096020439_v1a6f4add706801izhy.html","https://www.sohu.com/a/920313200_122001252"],"created":1794629577,"id":"chatcmpl-30e31e4c-b8ad-9e38-9aea-03a9058288d0","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"，声明“《"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_7096020439_v1a6f4add706801izhy.html","https://www.sohu.com/a/920313200_122001252"],"created":1794629577,"id":"chatcmpl-30e31e4c-b8ad-9e38-9aea-03a9058288d0","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"年轮》的唯一"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_7096020439_v1a6f4add706801izhy.html","https://www.sohu.com/a/920313200_122001252"],"created":1794629577,"id":"chatcmpl-30e31e4c-b8ad-9e38-9aea-03a9058288d0","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"原唱，不容"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_7096020439_v1a6f4add706801izhy.html","https://www.sohu.com/a/920313200_122001252"],"created":1794629577,"id":"chatcmpl-30e31e4c-b8ad-9e38-9aea-03a9058288d0","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"置疑！”工作室给出"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_7096020439_v1a6f4add706801izhy.html","https://www.sohu.com/a/920313200_122001252"],"created":1794629577,"id":"chatcmpl-30e31e4c-b8ad-9e38-9aea-03a9058288d0","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"详细时间线"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_7096020439_v1a6f4add706801izhy.html","https://www.sohu.com/a/920313200_122001252"],"created":1794629577,"id":"chatcmpl-30e31e4c-b8ad-9e38-9aea-03a9058288d0","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"：201"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_7096020439_v1a6f4add706801izhy.html","https://www.sohu.com/a/920313200_122001252"],"created":1794629577,"id":"chatcmpl-30e31e4c-b8ad-9e38-9aea-03a9058288d0","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"5年6月"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_7096020439_v1a6f4add706801izhy.html","https://www.sohu.com/a/920313200_122001252"],"created":1794629577,"id":"chatcmpl-30e31e4c-b8ad-9e38-9aea-03a9058288d0","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"15日，"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_7096020439_v1a6f4add706801izhy.html","https://www.sohu.com/a/920313200_122001252"],"created":1794629577,"id":"chatcmpl-30e31e4c-b8ad-9e38-9aea-03a9058288d0","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"张碧晨演唱"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_7096020439_v1a6f4add706801izhy.html","https://www.sohu.com/a/920313200_122001252"],"created":1794629577,"id":"chatcmpl-30e31e4c-b8ad-9e38-9aea-03a9058288d0","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"版本作为电视剧《"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_7096020439_v1a6f4add706801izhy.html","https://www.sohu.com/a/920313200_122001252"],"created":1794629577,"id":"chatcmpl-30e31e4c-b8ad-9e38-9aea-03a9058288d0","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"花千骨》"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_7096020439_v1a6f4add706801izhy.html","https://www.sohu.com/a/920313200_122001252"],"created":1794629577,"id":"chatcmpl-30e31e4c-b8ad-9e38-9aea-03a9058288d0","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"插曲率先上线；"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_7096020439_v1a6f4add706801izhy.html","https://www.sohu.com/a/920313200_122001252"],"created":1794629577,"id":"chatcmpl-30e31e4c-b8ad-9e38-9aea-03a9058288d0","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"半个月后的6月"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_7096020439_v1a6f4add706801izhy.html","https://www.sohu.com/a/920313200_122001252"],"created":1794629577,"id":"chatcmpl-30e31e4c-b8ad-9e38-9aea-03a9058288d0","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"30日，"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_7096020439_v1a6f4add706801izhy.html","https://www.sohu.com/a/920313200_122001252"],"created":1794629577,"id":"chatcmpl-30e31e4c-b8ad-9e38-9aea-03a9058288d0","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"男声版本才"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_7096020439_v1a6f4add706801izhy.html","https://www.sohu.com/a/920313200_122001252"],"created":1794629577,"id":"chatcmpl-30e31e4c-b8ad-9e38-9aea-03a9058288d0","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"登上音乐平台。"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_7096020439_v1a6f4add706801izhy.html","https://www.sohu.com/a/920313200_122001252"],"created":1794629577,"id":"chatcmpl-30e31e4c-b8ad-9e38-9aea-03a9058288d0","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"这个时间差证明"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_7096020439_v1a6f4add706801izhy.html","https://www.sohu.com/a/920313200_122001252"],"created":1794629577,"id":"chatcmpl-30e31e4c-b8ad-9e38-9aea-03a9058288d0","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"张碧晨原"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_7096020439_v1a6f4add706801izhy.html","https://www.sohu.com/a/920313200_122001252"],"created":1794629577,"id":"chatcmpl-30e31e4c-b8ad-9e38-9aea-03a9058288d0","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"唱。\n\n问题"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_7096020439_v1a6f4add706801izhy.html","https://www.sohu.com/a/920313200_122001252"],"created":1794629577,"id":"chatcmpl-30e31e4c-b8ad-9e38-9aea-03a9058288d0","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"：张"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_7096020439_v1a6f4add706801izhy.html","https://www.sohu.com/a/920313200_122001252"],"created":1794629577,"id":"chatcmpl-30e31e4c-b8ad-9e38-9aea-03a9058288d0","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"碧晨工作室用"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_7096020439_v1a6f4add706801izhy.html","https://www.sohu.com/a/920313200_122001252"],"created":1794629577,"id":"chatcmpl-30e31e4c-b8ad-9e38-9aea-03a9058288d0","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"哪些版本上线日期"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_7096020439_v1a6f4add706801izhy.html","https://www.sohu.com/a/920313200_122001252"],"created":1794629577,"id":"chatcmpl-30e31e4c-b8ad-9e38-9aea-03a9058288d0","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"，来主张她是"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_7096020439_v1a6f4add706801izhy.html","https://www.sohu.com/a/920313200_122001252"],"created":1794629577,"id":"chatcmpl-30e31e4c-b8ad-9e38-9aea-03a9058288d0","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"《年轮》"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_7096020439_v1a6f4add706801izhy.html","https://www.sohu.com/a/920313200_122001252"],"created":1794629577,"id":"chatcmpl-30e31e4c-b8ad-9e38-9aea-03a9058288d0","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"的原唱？答案"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_7096020439_v1a6f4add706801izhy.html","https://www.sohu.com/a/920313200_122001252"],"created":1794629577,"id":"chatcmpl-30e31e4c-b8ad-9e38-9aea-03a9058288d0","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"应聚焦“哪些"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_7096020439_v1a6f4add706801izhy.html","https://www.sohu.com/a/920313200_122001252"],"created":1794629577,"id":"chatcmpl-30e31e4c-b8ad-9e38-9aea-03a9058288d0","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"版本上线日期”"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_7096020439_v1a6f4add706801izhy.html","https://www.sohu.com/a/920313200_122001252"],"created":1794629577,"id":"chatcmpl-30e31e4c-b8ad-9e38-9aea-03a9058288d0","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"：张碧晨"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_7096020439_v1a6f4add706801izhy.html","https://www.sohu.com/a/920313200_122001252"],"created":1794629577,"id":"chatcmpl-30e31e4c-b8ad-9e38-9aea-03a9058288d0","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"版201"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_7096020439_v1a6f4add706801izhy.html","https://www.sohu.com/a/920313200_122001252"],"created":1794629577,"id":"chatcmpl-30e31e4c-b8ad-9e38-9aea-03a9058288d0","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"5年6月"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_7096020439_v1a6f4add706801izhy.html","https://www.sohu.com/a/920313200_122001252"],"created":1794629577,"id":"chatcmpl-30e31e4c-b8ad-9e38-9aea-03a9058288d0","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"15日作为"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_7096020439_v1a6f4add706801izhy.html","https://www.sohu.com/a/920313200_122001252"],"created":1794629577,"id":"chatcmpl-30e31e4c-b8ad-9e38-9aea-03a9058288d0","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"《花千骨"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_7096020439_v1a6f4add706801izhy.html","https://www.sohu.com/a/920313200_122001252"],"created":1794629577,"id":"chatcmpl-30e31e4c-b8ad-9e38-9aea-03a9058288d0","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"》插曲率先上线"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_7096020439_v1a6f4add706801izhy.html","https://www.sohu.com/a/920313200_122001252"],"created":1794629577,"id":"chatcmpl-30e31e4c-b8ad-9e38-9aea-03a9058288d0","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"；汪苏"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_7096020439_v1a6f4add706801izhy.html","https://www.sohu.com/a/920313200_122001252"],"created":1794629577,"id":"chatcmpl-30e31e4c-b8ad-9e38-9aea-03a9058288d0","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"泷男声版"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_7096020439_v1a6f4add706801izhy.html","https://www.sohu.com/a/920313200_122001252"],"created":1794629577,"id":"chatcmpl-30e31e4c-b8ad-9e38-9aea-03a9058288d0","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"2015"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_7096020439_v1a6f4add706801izhy.html","https://www.sohu.com/a/920313200_122001252"],"created":1794629577,"id":"chatcmpl-30e31e4c-b8ad-9e38-9aea-03a9058288d0","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"年6月3"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_7096020439_v1a6f4add706801izhy.html","https://www.sohu.com/a/920313200_122001252"],"created":1794629577,"id":"chatcmpl-30e31e4c-b8ad-9e38-9aea-03a9058288d0","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"0日才上线"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_7096020439_v1a6f4add706801izhy.html","https://www.sohu.com/a/920313200_122001252"],"created":1794629577,"id":"chatcmpl-30e31e4c-b8ad-9e38-9aea-03a9058288d0","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"/"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_7096020439_v1a6f4add706801izhy.html","https://www.sohu.com/a/920313200_122001252"],"created":1794629577,"id":"chatcmpl-30e31e4c-b8ad-9e38-9aea-03a9058288d0","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"登上音乐平台。"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_7096020439_v1a6f4add706801izhy.html","https://www.sohu.com/a/920313200_122001252"],"created":1794629577,"id":"chatcmpl-30e31e4c-b8ad-9e38-9aea-03a9058288d0","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"工作室"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_7096020439_v1a6f4add706801izhy.html","https://www.sohu.com/a/920313200_122001252"],"created":1794629577,"id":"chatcmpl-30e31e4c-b8ad-9e38-9aea-03a9058288d0","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"用这两个日期的"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_7096020439_v1a6f4add706801izhy.html","https://www.sohu.com/a/920313200_122001252"],"created":1794629577,"id":"chatcmpl-30e31e4c-b8ad-9e38-9aea-03a9058288d0","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"时间"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_7096020439_v1a6f4add706801izhy.html","https://www.sohu.com/a/920313200_122001252"],"created":1794629577,"id":"chatcmpl-30e31e4c-b8ad-9e38-9aea-03a9058288d0","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"差主张她是原"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_7096020439_v1a6f4add706801izhy.html","https://www.sohu.com/a/920313200_122001252"],"created":1794629577,"id":"chatcmpl-30e31e4c-b8ad-9e38-9aea-03a9058288d0","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"唱/唯一原"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_7096020439_v1a6f4add706801izhy.html","https://www.sohu.com/a/920313200_122001252"],"created":1794629577,"id":"chatcmpl-30e31e4c-b8ad-9e38-9aea-03a9058288d0","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"唱。需要引用"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_7096020439_v1a6f4add706801izhy.html","https://www.sohu.com/a/920313200_122001252"],"created":1794629577,"id":"chatcmpl-30e31e4c-b8ad-9e38-9aea-03a9058288d0","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":" [4][5"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_7096020439_v1a6f4add706801izhy.html","https://www.sohu.com/a/920313200_122001252"],"created":1794629577,"id":"chatcmpl-30e31e4c-b8ad-9e38-9aea-03a9058288d0","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"]。\n\n要注意"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_7096020439_v1a6f4add706801izhy.html","https://www.sohu.com/a/920313200_122001252"],"created":1794629577,"id":"chatcmpl-30e31e4c-b8ad-9e38-9aea-03a9058288d0","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"用户可能问“"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_7096020439_v1a6f4add706801izhy.html","https://www.sohu.com/a/920313200_122001252"],"created":1794629577,"id":"chatcmpl-30e31e4c-b8ad-9e38-9aea-03a9058288d0","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"张碧"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_7096020439_v1a6f4add706801izhy.html","https://www.sohu.com/a/920313200_122001252"],"created":1794629577,"id":"chatcmpl-30e31e4c-b8ad-9e38-9aea-03a9058288d0","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"晨工作室用哪些"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_7096020439_v1a6f4add706801izhy.html","https://www.sohu.com/a/920313200_122001252"],"created":1794629577,"id":"chatcmpl-30e31e4c-b8ad-9e38-9aea-03a9058288d0","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"版本上线日期”"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_7096020439_v1a6f4add706801izhy.html","https://www.sohu.com/a/920313200_122001252"],"created":1794629577,"id":"chatcmpl-30e31e4c-b8ad-9e38-9aea-03a9058288d0","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"所以答案要列"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_7096020439_v1a6f4add706801izhy.html","https://www.sohu.com/a/920313200_122001252"],"created":1794629577,"id":"chatcmpl-30e31e4c-b8ad-9e38-9aea-03a9058288d0","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"：张碧晨"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_7096020439_v1a6f4add706801izhy.html","https://www.sohu.com/a/920313200_122001252"],"created":1794629577,"id":"chatcmpl-30e31e4c-b8ad-9e38-9aea-03a9058288d0","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"版上线日期、"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_7096020439_v1a6f4add706801izhy.html","https://www.sohu.com/a/920313200_122001252"],"created":1794629577,"id":"chatcmpl-30e31e4c-b8ad-9e38-9aea-03a9058288d0","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"男声版上线"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_7096020439_v1a6f4add706801izhy.html","https://www.sohu.com/a/920313200_122001252"],"created":1794629577,"id":"chatcmpl-30e31e4c-b8ad-9e38-9aea-03a9058288d0","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"日期。可能还有"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_7096020439_v1a6f4add706801izhy.html","https://www.sohu.com/a/920313200_122001252"],"created":1794629577,"id":"chatcmpl-30e31e4c-b8ad-9e38-9aea-03a9058288d0","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"“半个月后”。"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_7096020439_v1a6f4add706801izhy.html","https://www.sohu.com/a/920313200_122001252"],"created":1794629577,"id":"chatcmpl-30e31e4c-b8ad-9e38-9aea-03a9058288d0","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"直接回答：她"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_7096020439_v1a6f4add706801izhy.html","https://www.sohu.com/a/920313200_122001252"],"created":1794629577,"id":"chatcmpl-30e31e4c-b8ad-9e38-9aea-03a9058288d0","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"方主要引用张"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_7096020439_v1a6f4add706801izhy.html","https://www.sohu.com/a/920313200_122001252"],"created":1794629577,"id":"chatcmpl-30e31e4c-b8ad-9e38-9aea-03a9058288d0","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"碧晨"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_7096020439_v1a6f4add706801izhy.html","https://www.sohu.com/a/920313200_122001252"],"created":1794629577,"id":"chatcmpl-30e31e4c-b8ad-9e38-9aea-03a9058288d0","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"演唱版本于2"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_7096020439_v1a6f4add706801izhy.html","https://www.sohu.com/a/920313200_122001252"],"created":1794629577,"id":"chatcmpl-30e31e4c-b8ad-9e38-9aea-03a9058288d0","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"015"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_7096020439_v1a6f4add706801izhy.html","https://www.sohu.com/a/920313200_122001252"],"created":1794629577,"id":"chatcmpl-30e31e4c-b8ad-9e38-9aea-03a9058288d0","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"年6月1"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_7096020439_v1a6f4add706801izhy.html","https://www.sohu.com/a/920313200_122001252"],"created":1794629577,"id":"chatcmpl-30e31e4c-b8ad-9e38-9aea-03a9058288d0","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"5日作为《"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_7096020439_v1a6f4add706801izhy.html","https://www.sohu.com/a/920313200_122001252"],"created":1794629577,"id":"chatcmpl-30e31e4c-b8ad-9e38-9aea-03a9058288d0","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"花千骨》"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_7096020439_v1a6f4add706801izhy.html","https://www.sohu.com/a/920313200_122001252"],"created":1794629577,"id":"chatcmpl-30e31e4c-b8ad-9e38-9aea-03a9058288d0","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"插曲首发上线，"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_7096020439_v1a6f4add706801izhy.html","https://www.sohu.com/a/920313200_122001252"],"created":1794629577,"id":"chatcmpl-30e31e4c-b8ad-9e38-9aea-03a9058288d0","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"而男"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_7096020439_v1a6f4add706801izhy.html","https://www.sohu.com/a/920313200_122001252"],"created":1794629577,"id":"chatcmpl-30e31e4c-b8ad-9e38-9aea-03a9058288d0","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"声版本（汪"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_7096020439_v1a6f4add706801izhy.html","https://www.sohu.com/a/920313200_122001252"],"created":1794629577,"id":"chatcmpl-30e31e4c-b8ad-9e38-9aea-03a9058288d0","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"苏"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_7096020439_v1a6f4add706801izhy.html","https://www.sohu.com/a/920313200_122001252"],"created":1794629577,"id":"chatcmpl-30e31e4c-b8ad-9e38-9aea-03a9058288d0","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"泷版）于"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_7096020439_v1a6f4add706801izhy.html","https://www.sohu.com/a/920313200_122001252"],"created":1794629577,"id":"chatcmpl-30e31e4c-b8ad-9e38-9aea-03a9058288d0","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"2015"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_7096020439_v1a6f4add706801izhy.html","https://www.sohu.com/a/920313200_122001252"],"created":1794629577,"id":"chatcmpl-30e31e4c-b8ad-9e38-9aea-03a9058288d0","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"年6月3"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_7096020439_v1a6f4add706801izhy.html","https://www.sohu.com/a/920313200_122001252"],"created":1794629577,"id":"chatcmpl-30e31e4c-b8ad-9e38-9aea-03a9058288d0","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"0日才上线"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_7096020439_v1a6f4add706801izhy.html","https://www.sohu.com/a/920313200_122001252"],"created":1794629577,"id":"chatcmpl-30e31e4c-b8ad-9e38-9aea-03a9058288d0","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"，因此"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_7096020439_v1a6f4add706801izhy.html","https://www.sohu.com/a/920313200_122001252"],"created":1794629577,"id":"chatcmpl-30e31e4c-b8ad-9e38-9aea-03a9058288d0","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"主张张碧晨"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_7096020439_v1a6f4add706801izhy.html","https://www.sohu.com/a/920313200_122001252"],"created":1794629577,"id":"chatcmpl-30e31e4c-b8ad-9e38-9aea-03a9058288d0","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"版本"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_7096020439_v1a6f4add706801izhy.html","https://www.sohu.com/a/920313200_122001252"],"created":1794629577,"id":"chatcmpl-30e31e4c-b8ad-9e38-9aea-03a9058288d0","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"更早，是原"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_7096020439_v1a6f4add706801izhy.html","https://www.sohu.com/a/920313200_122001252"],"created":1794629577,"id":"chatcmpl-30e31e4c-b8ad-9e38-9aea-03a9058288d0","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"唱。"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_7096020439_v1a6f4add706801izhy.html","https://www.sohu.com/a/920313200_122001252"],"created":1794629577,"id":"chatcmpl-30e31e4c-b8ad-9e38-9aea-03a9058288d0","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"[4][5"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_7096020439_v1a6f4add706801izhy.html","https://www.sohu.com/a/920313200_122001252"],"created":1794629577,"id":"chatcmpl-30e31e4c-b8ad-9e38-9aea-03a9058288d0","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"]\n\n补充："},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_7096020439_v1a6f4add706801izhy.html","https://www.sohu.com/a/920313200_122001252"],"created":1794629577,"id":"chatcmpl-30e31e4c-b8ad-9e38-9aea-03a9058288d0","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"工作室声明语气“"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_7096020439_v1a6f4add706801izhy.html","https://www.sohu.com/a/920313200_122001252"],"created":1794629577,"id":"chatcmpl-30e31e4c-b8ad-9e38-9aea-03a9058288d0","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"唯一原唱"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_7096020439_v1a6f4add706801izhy.html","https://www.sohu.com/a/920313200_122001252"],"created":1794629577,"id":"chatcmpl-30e31e4c-b8ad-9e38-9aea-03a9058288d0","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"，不容置疑”"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_7096020439_v1a6f4add706801izhy.html","https://www.sohu.com/a/920313200_122001252"],"created":1794629577,"id":"chatcmpl-30e31e4c-b8ad-9e38-9aea-03a9058288d0","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"["},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_7096020439_v1a6f4add706801izhy.html","https://www.sohu.com/a/920313200_122001252"],"created":1794629577,"id":"chatcmpl-30e31e4c-b8ad-9e38-9aea-03a9058288d0","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"5]。可"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_7096020439_v1a6f4add706801izhy.html","https://www.sohu.com/a/920313200_122001252"],"created":1794629577,"id":"chatcmpl-30e31e4c-b8ad-9e38-9aea-03a9058288d0","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"提到"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_7096020439_v1a6f4add706801izhy.html","https://www.sohu.com/a/920313200_122001252"],"created":1794629577,"id":"chatcmpl-30e31e4c-b8ad-9e38-9aea-03a9058288d0","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"资料中还有录制"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_7096020439_v1a6f4add706801izhy.html","https://www.sohu.com/a/920313200_122001252"],"created":1794629577,"id":"chatcmpl-30e31e4c-b8ad-9e38-9aea-03a9058288d0","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"完成"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_7096020439_v1a6f4add706801izhy.html","https://www.sohu.com/a/920313200_122001252"],"created":1794629577,"id":"chatcmpl-30e31e4c-b8ad-9e38-9aea-03a9058288d0","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"日期，但工作室"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_7096020439_v1a6f4add706801izhy.html","https://www.sohu.com/a/920313200_122001252"],"created":1794629577,"id":"chatcmpl-30e31e4c-b8ad-9e38-9aea-03a9058288d0","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"主张所依据的是"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_7096020439_v1a6f4add706801izhy.html","https://www.sohu.com/a/920313200_122001252"],"created":1794629577,"id":"chatcmpl-30e31e4c-b8ad-9e38-9aea-03a9058288d0","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"上线日期"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_7096020439_v1a6f4add706801izhy.html","https://www.sohu.com/a/920313200_122001252"],"created":1794629577,"id":"chatcmpl-30e31e4c-b8ad-9e38-9aea-03a9058288d0","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"而非录制日期；"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_7096020439_v1a6f4add706801izhy.html","https://www.sohu.com/a/920313200_122001252"],"created":1794629577,"id":"chatcmpl-30e31e4c-b8ad-9e38-9aea-03a9058288d0","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"录制日期是4"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_7096020439_v1a6f4add706801izhy.html","https://www.sohu.com/a/920313200_122001252"],"created":1794629577,"id":"chatcmpl-30e31e4c-b8ad-9e38-9aea-03a9058288d0","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"月21"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_7096020439_v1a6f4add706801izhy.html","https://www.sohu.com/a/920313200_122001252"],"created":1794629577,"id":"chatcmpl-30e31e4c-b8ad-9e38-9aea-03a9058288d0","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"/4月3"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_7096020439_v1a6f4add706801izhy.html","https://www.sohu.com/a/920313200_122001252"],"created":1794629577,"id":"chatcmpl-30e31e4c-b8ad-9e38-9aea-03a9058288d0","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"0。用户问"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_7096020439_v1a6f4add706801izhy.html","https://www.sohu.com/a/920313200_122001252"],"created":1794629577,"id":"chatcmpl-30e31e4c-b8ad-9e38-9aea-03a9058288d0","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"上线"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_7096020439_v1a6f4add706801izhy.html","https://www.sohu.com/a/920313200_122001252"],"created":1794629577,"id":"chatcmpl-30e31e4c-b8ad-9e38-9aea-03a9058288d0","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"日期，不应扩展"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_7096020439_v1a6f4add706801izhy.html","https://www.sohu.com/a/920313200_122001252"],"created":1794629577,"id":"chatcmpl-30e31e4c-b8ad-9e38-9aea-03a9058288d0","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"太多，但可"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_7096020439_v1a6f4add706801izhy.html","https://www.sohu.com/a/920313200_122001252"],"created":1794629577,"id":"chatcmpl-30e31e4c-b8ad-9e38-9aea-03a9058288d0","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"补充背景"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_7096020439_v1a6f4add706801izhy.html","https://www.sohu.com/a/920313200_122001252"],"created":1794629577,"id":"chatcmpl-30e31e4c-b8ad-9e38-9aea-03a9058288d0","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"：该争议发生在"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_7096020439_v1a6f4add706801izhy.html","https://www.sohu.com/a/920313200_122001252"],"created":1794629577,"id":"chatcmpl-30e31e4c-b8ad-9e38-9aea-03a9058288d0","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"2025"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_7096020439_v1a6f4add706801izhy.html","https://www.sohu.com/a/920313200_122001252"],"created":1794629577,"id":"chatcmpl-30e31e4c-b8ad-9e38-9aea-03a9058288d0","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"年7月，"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_7096020439_v1a6f4add706801izhy.html","https://www.sohu.com/a/920313200_122001252"],"created":1794629577,"id":"chatcmpl-30e31e4c-b8ad-9e38-9aea-03a9058288d0","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"汪苏泷"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_7096020439_v1a6f4add706801izhy.html","https://www.sohu.com/a/920313200_122001252"],"created":1794629577,"id":"chatcmpl-30e31e4c-b8ad-9e38-9aea-03a9058288d0","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"方"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_7096020439_v1a6f4add706801izhy.html","https://www.sohu.com/a/920313200_122001252"],"created":1794629577,"id":"chatcmpl-30e31e4c-b8ad-9e38-9aea-03a9058288d0","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"收回授权，张"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_7096020439_v1a6f4add706801izhy.html","https://www.sohu.com/a/920313200_122001252"],"created":1794629577,"id":"chatcmpl-30e31e4c-b8ad-9e38-9aea-03a9058288d0","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"碧晨工作室"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_7096020439_v1a6f4add706801izhy.html","https://www.sohu.com/a/920313200_122001252"],"created":1794629577,"id":"chatcmpl-30e31e4c-b8ad-9e38-9aea-03a9058288d0","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"声明唯一原唱"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_7096020439_v1a6f4add706801izhy.html","https://www.sohu.com/a/920313200_122001252"],"created":1794629577,"id":"chatcmpl-30e31e4c-b8ad-9e38-9aea-03a9058288d0","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"。[4]["},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_7096020439_v1a6f4add706801izhy.html","https://www.sohu.com/a/920313200_122001252"],"created":1794629577,"id":"chatcmpl-30e31e4c-b8ad-9e38-9aea-03a9058288d0","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"5]\n\n需要"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_7096020439_v1a6f4add706801izhy.html","https://www.sohu.com/a/920313200_122001252"],"created":1794629577,"id":"chatcmpl-30e31e4c-b8ad-9e38-9aea-03a9058288d0","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"自然中文，结构化"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_7096020439_v1a6f4add706801izhy.html","https://www.sohu.com/a/920313200_122001252"],"created":1794629577,"id":"chatcmpl-30e31e4c-b8ad-9e38-9aea-03a9058288d0","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"。答案短。"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_7096020439_v1a6f4add706801izhy.html","https://www.sohu.com/a/920313200_122001252"],"created":1794629577,"id":"chatcmpl-30e31e4c-b8ad-9e38-9aea-03a9058288d0","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"必须"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_7096020439_v1a6f4add706801izhy.html","https://www.sohu.com/a/920313200_122001252"],"created":1794629577,"id":"chatcmpl-30e31e4c-b8ad-9e38-9aea-03a9058288d0","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"引用对应部分。"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_7096020439_v1a6f4add706801izhy.html","https://www.sohu.com/a/920313200_122001252"],"created":1794629577,"id":"chatcmpl-30e31e4c-b8ad-9e38-9aea-03a9058288d0","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"确保"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_7096020439_v1a6f4add706801izhy.html","https://www.sohu.com/a/920313200_122001252"],"created":1794629577,"id":"chatcmpl-30e31e4c-b8ad-9e38-9aea-03a9058288d0","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"不集中最后。"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_7096020439_v1a6f4add706801izhy.html","https://www.sohu.com/a/920313200_122001252"],"created":1794629577,"id":"chatcmpl-30e31e4c-b8ad-9e38-9aea-03a9058288d0","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"例如：\n张"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_7096020439_v1a6f4add706801izhy.html","https://www.sohu.com/a/920313200_122001252"],"created":1794629577,"id":"chatcmpl-30e31e4c-b8ad-9e38-9aea-03a9058288d0","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"碧晨工作室主要"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_7096020439_v1a6f4add706801izhy.html","https://www.sohu.com/a/920313200_122001252"],"created":1794629577,"id":"chatcmpl-30e31e4c-b8ad-9e38-9aea-03a9058288d0","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"用了两个上线日期"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_7096020439_v1a6f4add706801izhy.html","https://www.sohu.com/a/920313200_122001252"],"created":1794629577,"id":"chatcmpl-30e31e4c-b8ad-9e38-9aea-03a9058288d0","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"：\n-"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_7096020439_v1a6f4add706801izhy.html","https://www.sohu.com/a/920313200_122001252"],"created":1794629577,"id":"chatcmpl-30e31e4c-b8ad-9e38-9aea-03a9058288d0","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":" 201"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_7096020439_v1a6f4add706801izhy.html","https://www.sohu.com/a/920313200_122001252"],"created":1794629577,"id":"chatcmpl-30e31e4c-b8ad-9e38-9aea-03a9058288d0","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"5年6月"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_7096020439_v1a6f4add706801izhy.html","https://www.sohu.com/a/920313200_122001252"],"created":1794629577,"id":"chatcmpl-30e31e4c-b8ad-9e38-9aea-03a9058288d0","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"15日："},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_7096020439_v1a6f4add706801izhy.html","https://www.sohu.com/a/920313200_122001252"],"created":1794629577,"id":"chatcmpl-30e31e4c-b8ad-9e38-9aea-03a9058288d0","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"张碧晨演唱"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_7096020439_v1a6f4add706801izhy.html","https://www.sohu.com/a/920313200_122001252"],"created":1794629577,"id":"chatcmpl-30e31e4c-b8ad-9e38-9aea-03a9058288d0","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"版《年轮"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_7096020439_v1a6f4add706801izhy.html","https://www.sohu.com/a/920313200_122001252"],"created":1794629577,"id":"chatcmpl-30e31e4c-b8ad-9e38-9aea-03a9058288d0","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"》作为电视剧《"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_7096020439_v1a6f4add706801izhy.html","https://www.sohu.com/a/920313200_122001252"],"created":1794629577,"id":"chatcmpl-30e31e4c-b8ad-9e38-9aea-03a9058288d0","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"花千骨"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_7096020439_v1a6f4add706801izhy.html","https://www.sohu.com/a/920313200_122001252"],"created":1794629577,"id":"chatcmpl-30e31e4c-b8ad-9e38-9aea-03a9058288d0","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"》插曲率先上线"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_7096020439_v1a6f4add706801izhy.html","https://www.sohu.com/a/920313200_122001252"],"created":1794629577,"id":"chatcmpl-30e31e4c-b8ad-9e38-9aea-03a9058288d0","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"。[4]["},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_7096020439_v1a6f4add706801izhy.html","https://www.sohu.com/a/920313200_122001252"],"created":1794629577,"id":"chatcmpl-30e31e4c-b8ad-9e38-9aea-03a9058288d0","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"5]\n-"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_7096020439_v1a6f4add706801izhy.html","https://www.sohu.com/a/920313200_122001252"],"created":1794629577,"id":"chatcmpl-30e31e4c-b8ad-9e38-9aea-03a9058288d0","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":" 201"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_7096020439_v1a6f4add706801izhy.html","https://www.sohu.com/a/920313200_122001252"],"created":1794629577,"id":"chatcmpl-30e31e4c-b8ad-9e38-9aea-03a9058288d0","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"5年6月"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_7096020439_v1a6f4add706801izhy.html","https://www.sohu.com/a/920313200_122001252"],"created":1794629577,"id":"chatcmpl-30e31e4c-b8ad-9e38-9aea-03a9058288d0","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"30日："},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_7096020439_v1a6f4add706801izhy.html","https://www.sohu.com/a/920313200_122001252"],"created":1794629577,"id":"chatcmpl-30e31e4c-b8ad-9e38-9aea-03a9058288d0","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"男声版（"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_7096020439_v1a6f4add706801izhy.html","https://www.sohu.com/a/920313200_122001252"],"created":1794629577,"id":"chatcmpl-30e31e4c-b8ad-9e38-9aea-03a9058288d0","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"汪苏"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_7096020439_v1a6f4add706801izhy.html","https://www.sohu.com/a/920313200_122001252"],"created":1794629577,"id":"chatcmpl-30e31e4c-b8ad-9e38-9aea-03a9058288d0","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"泷版）才"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_7096020439_v1a6f4add706801izhy.html","https://www.sohu.com/a/920313200_122001252"],"created":1794629577,"id":"chatcmpl-30e31e4c-b8ad-9e38-9aea-03a9058288d0","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"以单曲形式上线"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_7096020439_v1a6f4add706801izhy.html","https://www.sohu.com/a/920313200_122001252"],"created":1794629577,"id":"chatcmpl-30e31e4c-b8ad-9e38-9aea-03a9058288d0","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"/登上音乐平台"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_7096020439_v1a6f4add706801izhy.html","https://www.sohu.com/a/920313200_122001252"],"created":1794629577,"id":"chatcmpl-30e31e4c-b8ad-9e38-9aea-03a9058288d0","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"。[4]["},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_7096020439_v1a6f4add706801izhy.html","https://www.sohu.com/a/920313200_122001252"],"created":1794629577,"id":"chatcmpl-30e31e4c-b8ad-9e38-9aea-03a9058288d0","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"5]\n工作室"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_7096020439_v1a6f4add706801izhy.html","https://www.sohu.com/a/920313200_122001252"],"created":1794629577,"id":"chatcmpl-30e31e4c-b8ad-9e38-9aea-03a9058288d0","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"据此认为张碧"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_7096020439_v1a6f4add706801izhy.html","https://www.sohu.com/a/920313200_122001252"],"created":1794629577,"id":"chatcmpl-30e31e4c-b8ad-9e38-9aea-03a9058288d0","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"晨版本"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_7096020439_v1a6f4add706801izhy.html","https://www.sohu.com/a/920313200_122001252"],"created":1794629577,"id":"chatcmpl-30e31e4c-b8ad-9e38-9aea-03a9058288d0","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"首发更早，从而"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_7096020439_v1a6f4add706801izhy.html","https://www.sohu.com/a/920313200_122001252"],"created":1794629577,"id":"chatcmpl-30e31e4c-b8ad-9e38-9aea-03a9058288d0","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"主张她是《年"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_7096020439_v1a6f4add706801izhy.html","https://www.sohu.com/a/920313200_122001252"],"created":1794629577,"id":"chatcmpl-30e31e4c-b8ad-9e38-9aea-03a9058288d0","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"轮》"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_7096020439_v1a6f4add706801izhy.html","https://www.sohu.com/a/920313200_122001252"],"created":1794629577,"id":"chatcmpl-30e31e4c-b8ad-9e38-9aea-03a9058288d0","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"的原唱，并称"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_7096020439_v1a6f4add706801izhy.html","https://www.sohu.com/a/920313200_122001252"],"created":1794629577,"id":"chatcmpl-30e31e4c-b8ad-9e38-9aea-03a9058288d0","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"“唯一原唱"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_7096020439_v1a6f4add706801izhy.html","https://www.sohu.com/a/920313200_122001252"],"created":1794629577,"id":"chatcmpl-30e31e4c-b8ad-9e38-9aea-03a9058288d0","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"，不容置疑”。"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_7096020439_v1a6f4add706801izhy.html","https://www.sohu.com/a/920313200_122001252"],"created":1794629577,"id":"chatcmpl-30e31e4c-b8ad-9e38-9aea-03a9058288d0","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"[5]\n\n"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_7096020439_v1a6f4add706801izhy.html","https://www.sohu.com/a/920313200_122001252"],"created":1794629577,"id":"chatcmpl-30e31e4c-b8ad-9e38-9aea-03a9058288d0","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"可以"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_7096020439_v1a6f4add706801izhy.html","https://www.sohu.com/a/920313200_122001252"],"created":1794629577,"id":"chatcmpl-30e31e4c-b8ad-9e38-9aea-03a9058288d0","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"补充：搜索结果还"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_7096020439_v1a6f4add706801izhy.html","https://www.sohu.com/a/920313200_122001252"],"created":1794629577,"id":"chatcmpl-30e31e4c-b8ad-9e38-9aea-03a9058288d0","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"提到"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_7096020439_v1a6f4add706801izhy.html","https://www.sohu.com/a/920313200_122001252"],"created":1794629577,"id":"chatcmpl-30e31e4c-b8ad-9e38-9aea-03a9058288d0","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"录制完成日期分别为"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_7096020439_v1a6f4add706801izhy.html","https://www.sohu.com/a/920313200_122001252"],"created":1794629577,"id":"chatcmpl-30e31e4c-b8ad-9e38-9aea-03a9058288d0","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"2015"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_7096020439_v1a6f4add706801izhy.html","https://www.sohu.com/a/920313200_122001252"],"created":1794629577,"id":"chatcmpl-30e31e4c-b8ad-9e38-9aea-03a9058288d0","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"年"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_7096020439_v1a6f4add706801izhy.html","https://www.sohu.com/a/920313200_122001252"],"created":1794629577,"id":"chatcmpl-30e31e4c-b8ad-9e38-9aea-03a9058288d0","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"4月21"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_7096020439_v1a6f4add706801izhy.html","https://www.sohu.com/a/920313200_122001252"],"created":1794629577,"id":"chatcmpl-30e31e4c-b8ad-9e38-9aea-03a9058288d0","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"日和4月3"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_7096020439_v1a6f4add706801izhy.html","https://www.sohu.com/a/920313200_122001252"],"created":1794629577,"id":"chatcmpl-30e31e4c-b8ad-9e38-9aea-03a9058288d0","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"0"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_7096020439_v1a6f4add706801izhy.html","https://www.sohu.com/a/920313200_122001252"],"created":1794629577,"id":"chatcmpl-30e31e4c-b8ad-9e38-9aea-03a9058288d0","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"日，但问题"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_7096020439_v1a6f4add706801izhy.html","https://www.sohu.com/a/920313200_122001252"],"created":1794629577,"id":"chatcmpl-30e31e4c-b8ad-9e38-9aea-03a9058288d0","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"所问“工作室"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_7096020439_v1a6f4add706801izhy.html","https://www.sohu.com/a/920313200_122001252"],"created":1794629577,"id":"chatcmpl-30e31e4c-b8ad-9e38-9aea-03a9058288d0","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"用哪些版本"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_7096020439_v1a6f4add706801izhy.html","https://www.sohu.com/a/920313200_122001252"],"created":1794629577,"id":"chatcmpl-30e31e4c-b8ad-9e38-9aea-03a9058288d0","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"上线日期”，工作室"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_7096020439_v1a6f4add706801izhy.html","https://www.sohu.com/a/920313200_122001252"],"created":1794629577,"id":"chatcmpl-30e31e4c-b8ad-9e38-9aea-03a9058288d0","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"公开强调的时间线"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_7096020439_v1a6f4add706801izhy.html","https://www.sohu.com/a/920313200_122001252"],"created":1794629577,"id":"chatcmpl-30e31e4c-b8ad-9e38-9aea-03a9058288d0","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"是6月1"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_7096020439_v1a6f4add706801izhy.html","https://www.sohu.com/a/920313200_122001252"],"created":1794629577,"id":"chatcmpl-30e31e4c-b8ad-9e38-9aea-03a9058288d0","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"5日与6"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_7096020439_v1a6f4add706801izhy.html","https://www.sohu.com/a/920313200_122001252"],"created":1794629577,"id":"chatcmpl-30e31e4c-b8ad-9e38-9aea-03a9058288d0","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"月30日"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_7096020439_v1a6f4add706801izhy.html","https://www.sohu.com/a/920313200_122001252"],"created":1794629577,"id":"chatcmpl-30e31e4c-b8ad-9e38-9aea-03a9058288d0","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"。[4]"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_7096020439_v1a6f4add706801izhy.html","https://www.sohu.com/a/920313200_122001252"],"created":1794629577,"id":"chatcmpl-30e31e4c-b8ad-9e38-9aea-03a9058288d0","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"\n\n需要不要提"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_7096020439_v1a6f4add706801izhy.html","https://www.sohu.com/a/920313200_122001252"],"created":1794629577,"id":"chatcmpl-30e31e4c-b8ad-9e38-9aea-03a9058288d0","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"“目前平台标注"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_7096020439_v1a6f4add706801izhy.html","https://www.sohu.com/a/920313200_122001252"],"created":1794629577,"id":"chatcmpl-30e31e4c-b8ad-9e38-9aea-03a9058288d0","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"双原唱”"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_7096020439_v1a6f4add706801izhy.html","https://www.sohu.com/a/920313200_122001252"],"created":1794629577,"id":"chatcmpl-30e31e4c-b8ad-9e38-9aea-03a9058288d0","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"？可以作为背景："},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_7096020439_v1a6f4add706801izhy.html","https://www.sohu.com/a/920313200_122001252"],"created":1794629577,"id":"chatcmpl-30e31e4c-b8ad-9e38-9aea-03a9058288d0","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"平台标注可能依据"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_7096020439_v1a6f4add706801izhy.html","https://www.sohu.com/a/920313200_122001252"],"created":1794629577,"id":"chatcmpl-30e31e4c-b8ad-9e38-9aea-03a9058288d0","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"版权方要求"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_7096020439_v1a6f4add706801izhy.html","https://www.sohu.com/a/920313200_122001252"],"created":1794629577,"id":"chatcmpl-30e31e4c-b8ad-9e38-9aea-03a9058288d0","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"或首发记录，"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_7096020439_v1a6f4add706801izhy.html","https://www.sohu.com/a/920313200_122001252"],"created":1794629577,"id":"chatcmpl-30e31e4c-b8ad-9e38-9aea-03a9058288d0","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"当前QQ音乐、"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_7096020439_v1a6f4add706801izhy.html","https://www.sohu.com/a/920313200_122001252"],"created":1794629577,"id":"chatcmpl-30e31e4c-b8ad-9e38-9aea-03a9058288d0","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"网易"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_7096020439_v1a6f4add706801izhy.html","https://www.sohu.com/a/920313200_122001252"],"created":1794629577,"id":"chatcmpl-30e31e4c-b8ad-9e38-9aea-03a9058288d0","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"云标注双原"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_7096020439_v1a6f4add706801izhy.html","https://www.sohu.com/a/920313200_122001252"],"created":1794629577,"id":"chatcmpl-30e31e4c-b8ad-9e38-9aea-03a9058288d0","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"唱。"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_7096020439_v1a6f4add706801izhy.html","https://www.sohu.com/a/920313200_122001252"],"created":1794629577,"id":"chatcmpl-30e31e4c-b8ad-9e38-9aea-03a9058288d0","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"[4] "},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_7096020439_v1a6f4add706801izhy.html","https://www.sohu.com/a/920313200_122001252"],"created":1794629577,"id":"chatcmpl-30e31e4c-b8ad-9e38-9aea-03a9058288d0","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"但问题只问"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_7096020439_v1a6f4add706801izhy.html","https://www.sohu.com/a/920313200_122001252"],"created":1794629577,"id":"chatcmpl-30e31e4c-b8ad-9e38-9aea-03a9058288d0","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"日期"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_7096020439_v1a6f4add706801izhy.html","https://www.sohu.com/a/920313200_122001252"],"created":1794629577,"id":"chatcmpl-30e31e4c-b8ad-9e38-9aea-03a9058288d0","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"，补充一两句"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_7096020439_v1a6f4add706801izhy.html","https://www.sohu.com/a/920313200_122001252"],"created":1794629577,"id":"chatcmpl-30e31e4c-b8ad-9e38-9aea-03a9058288d0","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"即可。注意"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_7096020439_v1a6f4add706801izhy.html","https://www.sohu.com/a/920313200_122001252"],"created":1794629577,"id":"chatcmpl-30e31e4c-b8ad-9e38-9aea-03a9058288d0","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"不能重复引用一个"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_7096020439_v1a6f4add706801izhy.html","https://www.sohu.com/a/920313200_122001252"],"created":1794629577,"id":"chatcmpl-30e31e4c-b8ad-9e38-9aea-03a9058288d0","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"网页"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_7096020439_v1a6f4add706801izhy.html","https://www.sohu.com/a/920313200_122001252"],"created":1794629577,"id":"chatcmpl-30e31e4c-b8ad-9e38-9aea-03a9058288d0","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"？指令说应"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_7096020439_v1a6f4add706801izhy.html","https://www.sohu.com/a/920313200_122001252"],"created":1794629577,"id":"chatcmpl-30e31e4c-b8ad-9e38-9aea-03a9058288d0","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"综合多个相关网页"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_7096020439_v1a6f4add706801izhy.html","https://www.sohu.com/a/920313200_122001252"],"created":1794629577,"id":"chatcmpl-30e31e4c-b8ad-9e38-9aea-03a9058288d0","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"，不能重复引用"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_7096020439_v1a6f4add706801izhy.html","https://www.sohu.com/a/920313200_122001252"],"created":1794629577,"id":"chatcmpl-30e31e4c-b8ad-9e38-9aea-03a9058288d0","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"一个网页。我们"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_7096020439_v1a6f4add706801izhy.html","https://www.sohu.com/a/920313200_122001252"],"created":1794629577,"id":"chatcmpl-30e31e4c-b8ad-9e38-9aea-03a9058288d0","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"引用[4]["},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_7096020439_v1a6f4add706801izhy.html","https://www.sohu.com/a/920313200_122001252"],"created":1794629577,"id":"chatcmpl-30e31e4c-b8ad-9e38-9aea-03a9058288d0","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"5]"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_7096020439_v1a6f4add706801izhy.html","https://www.sohu.com/a/920313200_122001252"],"created":1794629577,"id":"chatcmpl-30e31e4c-b8ad-9e38-9aea-03a9058288d0","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"多处。可以。"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_7096020439_v1a6f4add706801izhy.html","https://www.sohu.com/a/920313200_122001252"],"created":1794629577,"id":"chatcmpl-30e31e4c-b8ad-9e38-9aea-03a9058288d0","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"\n\n需要"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_7096020439_v1a6f4add706801izhy.html","https://www.sohu.com/a/920313200_122001252"],"created":1794629577,"id":"chatcmpl-30e31e4c-b8ad-9e38-9aea-03a9058288d0","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"最终答案。确保"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_7096020439_v1a6f4add706801izhy.html","https://www.sohu.com/a/920313200_122001252"],"created":1794629577,"id":"chatcmpl-30e31e4c-b8ad-9e38-9aea-03a9058288d0","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"没有额外说明工具"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_7096020439_v1a6f4add706801izhy.html","https://www.sohu.com/a/920313200_122001252"],"created":1794629577,"id":"chatcmpl-30e31e4c-b8ad-9e38-9aea-03a9058288d0","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"。"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_7096020439_v1a6f4add706801izhy.html","https://www.sohu.com/a/920313200_122001252"],"created":1794629577,"id":"chatcmpl-30e31e4c-b8ad-9e38-9aea-03a9058288d0","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"张碧晨工作室","reasoning_content":""},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_7096020439_v1a6f4add706801izhy.html","https://www.sohu.com/a/920313200_122001252"],"created":1794629577,"id":"chatcmpl-30e31e4c-b8ad-9e38-9aea-03a9058288d0","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"主要用了两个版本的","reasoning_content":""},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_7096020439_v1a6f4add706801izhy.html","https://www.sohu.com/a/920313200_122001252"],"created":1794629577,"id":"chatcmpl-30e31e4c-b8ad-9e38-9aea-03a9058288d0","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"上线日期来主张","reasoning_content":""},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_7096020439_v1a6f4add706801izhy.html","https://www.sohu.com/a/920313200_122001252"],"created":1794629577,"id":"chatcmpl-30e31e4c-b8ad-9e38-9aea-03a9058288d0","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"她是《年轮","reasoning_content":""},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_7096020439_v1a6f4add706801izhy.html","https://www.sohu.com/a/920313200_122001252"],"created":1794629577,"id":"chatcmpl-30e31e4c-b8ad-9e38-9aea-03a9058288d0","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"》的原唱：","reasoning_content":""},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_7096020439_v1a6f4add706801izhy.html","https://www.sohu.com/a/920313200_122001252"],"created":1794629577,"id":"chatcmpl-30e31e4c-b8ad-9e38-9aea-03a9058288d0","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"\n\n1. **","reasoning_content":""},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_7096020439_v1a6f4add706801izhy.html","https://www.sohu.com/a/920313200_122001252"],"created":1794629577,"id":"chatcmpl-30e31e4c-b8ad-9e38-9aea-03a9058288d0","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"张碧晨版","reasoning_content":""},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_7096020439_v1a6f4add706801izhy.html","https://www.sohu.com/a/920313200_122001252"],"created":1794629577,"id":"chatcmpl-30e31e4c-b8ad-9e38-9aea-03a9058288d0","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"《年轮》","reasoning_content":""},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_7096020439_v1a6f4add706801izhy.html","https://www.sohu.com/a/920313200_122001252"],"created":1794629577,"id":"chatcmpl-30e31e4c-b8ad-9e38-9aea-03a9058288d0","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"**","reasoning_content":""},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_7096020439_v1a6f4add706801izhy.html","https://www.sohu.com/a/920313200_122001252"],"created":1794629577,"id":"chatcmpl-30e31e4c-b8ad-9e38-9aea-03a9058288d0","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"：工作室称该","reasoning_content":""},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_7096020439_v1a6f4add706801izhy.html","https://www.sohu.com/a/920313200_122001252"],"created":1794629577,"id":"chatcmpl-30e31e4c-b8ad-9e38-9aea-03a9058288d0","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"版本于**2","reasoning_content":""},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_7096020439_v1a6f4add706801izhy.html","https://www.sohu.com/a/920313200_122001252"],"created":1794629577,"id":"chatcmpl-30e31e4c-b8ad-9e38-9aea-03a9058288d0","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"015","reasoning_content":""},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_7096020439_v1a6f4add706801izhy.html","https://www.sohu.com/a/920313200_122001252"],"created":1794629577,"id":"chatcmpl-30e31e4c-b8ad-9e38-9aea-03a9058288d0","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"年6月1","reasoning_content":""},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_7096020439_v1a6f4add706801izhy.html","https://www.sohu.com/a/920313200_122001252"],"created":1794629577,"id":"chatcmpl-30e31e4c-b8ad-9e38-9aea-03a9058288d0","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"5日**作为","reasoning_content":""},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_7096020439_v1a6f4add706801izhy.html","https://www.sohu.com/a/920313200_122001252"],"created":1794629577,"id":"chatcmpl-30e31e4c-b8ad-9e38-9aea-03a9058288d0","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"电视剧《花千","reasoning_content":""},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_7096020439_v1a6f4add706801izhy.html","https://www.sohu.com/a/920313200_122001252"],"created":1794629577,"id":"chatcmpl-30e31e4c-b8ad-9e38-9aea-03a9058288d0","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"骨》插曲率先","reasoning_content":""},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_7096020439_v1a6f4add706801izhy.html","https://www.sohu.com/a/920313200_122001252"],"created":1794629577,"id":"chatcmpl-30e31e4c-b8ad-9e38-9aea-03a9058288d0","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"上线。[4","reasoning_content":""},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_7096020439_v1a6f4add706801izhy.html","https://www.sohu.com/a/920313200_122001252"],"created":1794629577,"id":"chatcmpl-30e31e4c-b8ad-9e38-9aea-03a9058288d0","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"][5]  \n","reasoning_content":""},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_7096020439_v1a6f4add706801izhy.html","https://www.sohu.com/a/920313200_122001252"],"created":1794629577,"id":"chatcmpl-30e31e4c-b8ad-9e38-9aea-03a9058288d0","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"2. **男","reasoning_content":""},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_7096020439_v1a6f4add706801izhy.html","https://www.sohu.com/a/920313200_122001252"],"created":1794629577,"id":"chatcmpl-30e31e4c-b8ad-9e38-9aea-03a9058288d0","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"声版/汪","reasoning_content":""},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_7096020439_v1a6f4add706801izhy.html","https://www.sohu.com/a/920313200_122001252"],"created":1794629577,"id":"chatcmpl-30e31e4c-b8ad-9e38-9aea-03a9058288d0","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"苏泷","reasoning_content":""},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_7096020439_v1a6f4add706801izhy.html","https://www.sohu.com/a/920313200_122001252"],"created":1794629577,"id":"chatcmpl-30e31e4c-b8ad-9e38-9aea-03a9058288d0","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"版《年轮","reasoning_content":""},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_7096020439_v1a6f4add706801izhy.html","https://www.sohu.com/a/920313200_122001252"],"created":1794629577,"id":"chatcmpl-30e31e4c-b8ad-9e38-9aea-03a9058288d0","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"》**：工作室","reasoning_content":""},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_7096020439_v1a6f4add706801izhy.html","https://www.sohu.com/a/920313200_122001252"],"created":1794629577,"id":"chatcmpl-30e31e4c-b8ad-9e38-9aea-03a9058288d0","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"称该版本到","reasoning_content":""},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_7096020439_v1a6f4add706801izhy.html","https://www.sohu.com/a/920313200_122001252"],"created":1794629577,"id":"chatcmpl-30e31e4c-b8ad-9e38-9aea-03a9058288d0","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"**201","reasoning_content":""},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_7096020439_v1a6f4add706801izhy.html","https://www.sohu.com/a/920313200_122001252"],"created":1794629577,"id":"chatcmpl-30e31e4c-b8ad-9e38-9aea-03a9058288d0","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"5年6月","reasoning_content":""},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_7096020439_v1a6f4add706801izhy.html","https://www.sohu.com/a/920313200_122001252"],"created":1794629577,"id":"chatcmpl-30e31e4c-b8ad-9e38-9aea-03a9058288d0","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"30日**","reasoning_content":""},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_7096020439_v1a6f4add706801izhy.html","https://www.sohu.com/a/920313200_122001252"],"created":1794629577,"id":"chatcmpl-30e31e4c-b8ad-9e38-9aea-03a9058288d0","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"才登上音乐平台","reasoning_content":""},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_7096020439_v1a6f4add706801izhy.html","https://www.sohu.com/a/920313200_122001252"],"created":1794629577,"id":"chatcmpl-30e31e4c-b8ad-9e38-9aea-03a9058288d0","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"或以","reasoning_content":""},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_7096020439_v1a6f4add706801izhy.html","https://www.sohu.com/a/920313200_122001252"],"created":1794629577,"id":"chatcmpl-30e31e4c-b8ad-9e38-9aea-03a9058288d0","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"单曲形式上线。","reasoning_content":""},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_7096020439_v1a6f4add706801izhy.html","https://www.sohu.com/a/920313200_122001252"],"created":1794629577,"id":"chatcmpl-30e31e4c-b8ad-9e38-9aea-03a9058288d0","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"[4][","reasoning_content":""},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_7096020439_v1a6f4add706801izhy.html","https://www.sohu.com/a/920313200_122001252"],"created":1794629577,"id":"chatcmpl-30e31e4c-b8ad-9e38-9aea-03a9058288d0","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"5]\n\n工作室","reasoning_content":""},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_7096020439_v1a6f4add706801izhy.html","https://www.sohu.com/a/920313200_122001252"],"created":1794629577,"id":"chatcmpl-30e31e4c-b8ad-9e38-9aea-03a9058288d0","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"据此强调张碧","reasoning_content":""},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_7096020439_v1a6f4add706801izhy.html","https://www.sohu.com/a/920313200_122001252"],"created":1794629577,"id":"chatcmpl-30e31e4c-b8ad-9e38-9aea-03a9058288d0","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"晨版本“","reasoning_content":""},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_7096020439_v1a6f4add706801izhy.html","https://www.sohu.com/a/920313200_122001252"],"created":1794629577,"id":"chatcmpl-30e31e4c-b8ad-9e38-9aea-03a9058288d0","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"首发更早”，并","reasoning_content":""},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_7096020439_v1a6f4add706801izhy.html","https://www.sohu.com/a/920313200_122001252"],"created":1794629577,"id":"chatcmpl-30e31e4c-b8ad-9e38-9aea-03a9058288d0","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"声明《年轮","reasoning_content":""},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_7096020439_v1a6f4add706801izhy.html","https://www.sohu.com/a/920313200_122001252"],"created":1794629577,"id":"chatcmpl-30e31e4c-b8ad-9e38-9aea-03a9058288d0","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"》的","reasoning_content":""},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_7096020439_v1a6f4add706801izhy.html","https://www.sohu.com/a/920313200_122001252"],"created":1794629577,"id":"chatcmpl-30e31e4c-b8ad-9e38-9aea-03a9058288d0","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"“唯一原唱","reasoning_content":""},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_7096020439_v1a6f4add706801izhy.html","https://www.sohu.com/a/920313200_122001252"],"created":1794629577,"id":"chatcmpl-30e31e4c-b8ad-9e38-9aea-03a9058288d0","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"，不容置疑”。","reasoning_content":""},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_7096020439_v1a6f4add706801izhy.html","https://www.sohu.com/a/920313200_122001252"],"created":1794629577,"id":"chatcmpl-30e31e4c-b8ad-9e38-9aea-03a9058288d0","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"[5]  \n\n","reasoning_content":""},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_7096020439_v1a6f4add706801izhy.html","https://www.sohu.com/a/920313200_122001252"],"created":1794629577,"id":"chatcmpl-30e31e4c-b8ad-9e38-9aea-03a9058288d0","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"补充来说，搜索结果","reasoning_content":""},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_7096020439_v1a6f4add706801izhy.html","https://www.sohu.com/a/920313200_122001252"],"created":1794629577,"id":"chatcmpl-30e31e4c-b8ad-9e38-9aea-03a9058288d0","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"中还","reasoning_content":""},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_7096020439_v1a6f4add706801izhy.html","https://www.sohu.com/a/920313200_122001252"],"created":1794629577,"id":"chatcmpl-30e31e4c-b8ad-9e38-9aea-03a9058288d0","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"提到两版录制","reasoning_content":""},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_7096020439_v1a6f4add706801izhy.html","https://www.sohu.com/a/920313200_122001252"],"created":1794629577,"id":"chatcmpl-30e31e4c-b8ad-9e38-9aea-03a9058288d0","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"完成时间","reasoning_content":""},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_7096020439_v1a6f4add706801izhy.html","https://www.sohu.com/a/920313200_122001252"],"created":1794629577,"id":"chatcmpl-30e31e4c-b8ad-9e38-9aea-03a9058288d0","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"分别为201","reasoning_content":""},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_7096020439_v1a6f4add706801izhy.html","https://www.sohu.com/a/920313200_122001252"],"created":1794629577,"id":"chatcmpl-30e31e4c-b8ad-9e38-9aea-03a9058288d0","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"5年4月","reasoning_content":""},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_7096020439_v1a6f4add706801izhy.html","https://www.sohu.com/a/920313200_122001252"],"created":1794629577,"id":"chatcmpl-30e31e4c-b8ad-9e38-9aea-03a9058288d0","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"21日和4","reasoning_content":""},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_7096020439_v1a6f4add706801izhy.html","https://www.sohu.com/a/920313200_122001252"],"created":1794629577,"id":"chatcmpl-30e31e4c-b8ad-9e38-9aea-03a9058288d0","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"月30日","reasoning_content":""},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_7096020439_v1a6f4add706801izhy.html","https://www.sohu.com/a/920313200_122001252"],"created":1794629577,"id":"chatcmpl-30e31e4c-b8ad-9e38-9aea-03a9058288d0","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"，但张碧","reasoning_content":""},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_7096020439_v1a6f4add706801izhy.html","https://www.sohu.com/a/920313200_122001252"],"created":1794629577,"id":"chatcmpl-30e31e4c-b8ad-9e38-9aea-03a9058288d0","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"晨工作室用于主张","reasoning_content":""},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_7096020439_v1a6f4add706801izhy.html","https://www.sohu.com/a/920313200_122001252"],"created":1794629577,"id":"chatcmpl-30e31e4c-b8ad-9e38-9aea-03a9058288d0","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"原唱身份","reasoning_content":""},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_7096020439_v1a6f4add706801izhy.html","https://www.sohu.com/a/920313200_122001252"],"created":1794629577,"id":"chatcmpl-30e31e4c-b8ad-9e38-9aea-03a9058288d0","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"的核心时间线，","reasoning_content":""},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_7096020439_v1a6f4add706801izhy.html","https://www.sohu.com/a/920313200_122001252"],"created":1794629577,"id":"chatcmpl-30e31e4c-b8ad-9e38-9aea-03a9058288d0","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"是上述","reasoning_content":""},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_7096020439_v1a6f4add706801izhy.html","https://www.sohu.com/a/920313200_122001252"],"created":1794629577,"id":"chatcmpl-30e31e4c-b8ad-9e38-9aea-03a9058288d0","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"两个**上线日期","reasoning_content":""},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_7096020439_v1a6f4add706801izhy.html","https://www.sohu.com/a/920313200_122001252"],"created":1794629577,"id":"chatcmpl-30e31e4c-b8ad-9e38-9aea-03a9058288d0","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"**：","reasoning_content":""},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_7096020439_v1a6f4add706801izhy.html","https://www.sohu.com/a/920313200_122001252"],"created":1794629577,"id":"chatcmpl-30e31e4c-b8ad-9e38-9aea-03a9058288d0","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"6月15","reasoning_content":""},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_7096020439_v1a6f4add706801izhy.html","https://www.sohu.com/a/920313200_122001252"],"created":1794629577,"id":"chatcmpl-30e31e4c-b8ad-9e38-9aea-03a9058288d0","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"日与6月","reasoning_content":""},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_7096020439_v1a6f4add706801izhy.html","https://www.sohu.com/a/920313200_122001252"],"created":1794629577,"id":"chatcmpl-30e31e4c-b8ad-9e38-9aea-03a9058288d0","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"30日。","reasoning_content":""},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_7096020439_v1a6f4add706801izhy.html","https://www.sohu.com/a/920313200_122001252"],"created":1794629577,"id":"chatcmpl-30e31e4c-b8ad-9e38-9aea-03a9058288d0","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"[4]","reasoning_content":""},"finish_reason":null,"index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_7096020439_v1a6f4add706801izhy.html","https://www.sohu.com/a/920313200_122001252"],"created":1794629577,"id":"chatcmpl-30e31e4c-b8ad-9e38-9aea-03a9058288d0","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":""},"finish_reason":"stop","index":0,"logprobs":null}],"citations":["http://k.sina.com.cn/article_7096020439_v1a6f4add706801izhy.html","https://www.sohu.com/a/920313200_122001252"],"created":1794629577,"id":"chatcmpl-30e31e4c-b8ad-9e38-9aea-03a9058288d0","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[],"citations":["http://k.sina.com.cn/article_7096020439_v1a6f4add706801izhy.html","https://www.sohu.com/a/920313200_122001252"],"created":1794629577,"id":"chatcmpl-30e31e4c-b8ad-9e38-9aea-03a9058288d0","model":"qwen3.8-max","object":"chat.completion.chunk","usage":{"completion_tokens":1212,"completion_tokens_details":{"reasoning_tokens":996,"text_tokens":1212},"prompt_tokens":1089,"prompt_tokens_details":{"cached_tokens":0,"text_tokens":1089},"total_tokens":2301}}
+
+data: [DONE]
+

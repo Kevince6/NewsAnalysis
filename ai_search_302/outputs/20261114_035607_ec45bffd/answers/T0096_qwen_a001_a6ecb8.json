@@ -1,0 +1,59 @@
+{
+  "task_id": "T0096",
+  "model": "qwen",
+  "news_id": "E008",
+  "question_index": 2,
+  "question_original": "【开放】马杜罗被抓、在美国出庭和被判有罪是一回事吗？他和妻子在首次出庭时作了什么答辩？",
+  "question": "马杜罗被抓、在美国出庭和被判有罪是一回事吗？他和妻子在首次出庭时作了什么答辩？",
+  "attempt": 1,
+  "provider": "302.ai",
+  "model_requested": "qwen3.8-max",
+  "query_date": "2026-11-14",
+  "search_service": "metaso",
+  "prompt_version": "news-search-v1",
+  "prompt_sha256": "ea56fd5557d32615a9115f2368a0c4983ff1188f4935369e694d7d46f2493be1",
+  "requested_at": "2026-11-14T11:26:48.913911+08:00",
+  "raw_file": "raw/T0096_qwen_a001_a6ecb8.json",
+  "transport": "sse",
+  "stream_file": "raw/T0096_qwen_a001_a6ecb8.sse",
+  "status": "ok",
+  "model_returned": "qwen3.8-max",
+  "answer": "不是一回事。根据你给出的检索信息，马杜罗目前被报道的是“被美方控制/押送出庭并接受提讯”，而不是已经“被判有罪”[2][3][4]。\n\n### 1. “被抓”“出庭”“被判有罪”分别是什么含义？\n- **“被抓/被控制”**：指人身自由被执法机关控制。报道中马杜罗身穿蓝色囚服、戴着脚镣，由联邦法警押送进入法庭[3]。  \n- **“在美国出庭”**：是司法程序的一部分，通常是法庭告知被告指控内容、听取被告答辩，并安排后续听证或审理。本案庭审由法官阿尔文·赫勒斯坦主持，法官要求马杜罗3月17日再次出庭[2]。  \n- **“被判有罪”**：则是经过审判、认罪或其他司法程序后，由法院作出有罪认定。现有资料只提到马杜罗被指控多项罪名、本人不认罪，并未显示他已经被判有罪[2][3][4]。\n\n### 2. 马杜罗和妻子首次出庭时作了什么答辩？\n马杜罗在首次出庭时态度强硬，表示自己无罪。他说：“我是无辜的，我无罪”“我是一个正派的人，我仍然是我国家的总统”[4]；他还称自己是“被绑架的”，拒绝美方对其一切指控，并强调自己仍然是委内瑞拉总统[2]。\n\n他的妻子西利娅·弗洛雷斯同样不认罪。报道显示，她对美方指控表示无罪，并称自己“完全无辜”[2][4]。她的律师还告诉法庭，弗洛雷斯在美军突袭时受了伤，需要接受治疗[2]。\n\n此外，马杜罗夫妇作为委内瑞拉公民，在庭上提出希望与本国领事人员会面，检方对此表示支持[4]。整个提讯过程持续约30分钟，法官将下一次出庭日期定为3月17日[2][4]。\n\n### 3. 补充背景\n美方指控马杜罗及其妻子涉及“毒品恐怖主义阴谋罪、可卡因走私阴谋罪、持有机枪及破坏性装置罪”等多项罪名[2][3]。有法律专家称，如果罪名成立，他们可能面临终身监禁，但这只是对可能后果的判断，并不等于他们已经或一定会被定罪[3]。",
+  "sources": [
+    {
+      "index": 1,
+      "url": "https://finance.sina.cn/2026-01-06/detail-inhfiehz7551481.d.html",
+      "title": null,
+      "origin": "citations"
+    },
+    {
+      "index": 2,
+      "url": "https://news.sina.cn/gj/2026-01-07/detail-inhfmppz5026167.d.html?vt=4",
+      "title": null,
+      "origin": "citations"
+    },
+    {
+      "index": 3,
+      "url": "https://www.oushinet.com/static/content/wechat/europeantimes/2026-01-07/1458508858326553328.html",
+      "title": null,
+      "origin": "citations"
+    }
+  ],
+  "usage": {
+    "completion_tokens": 2205,
+    "completion_tokens_details": {
+      "reasoning_tokens": 1703,
+      "text_tokens": 2205
+    },
+    "prompt_tokens": 1132,
+    "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "text_tokens": 1132
+    },
+    "total_tokens": 3337
+  },
+  "finish_reason": "stop",
+  "note": [],
+  "request_id": "085fad78-6d6e-4f12-b741-77083d6d1fe0",
+  "duration_seconds": 58.328
+}

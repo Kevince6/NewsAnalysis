@@ -1,0 +1,45 @@
+{
+  "task_id": "T0142",
+  "model": "doubao",
+  "news_id": "E012",
+  "question_index": 3,
+  "question_original": "【事实】TikTok在美国是哪天暂停、哪天开始恢复服务的？合资公司成立又是什么时候？",
+  "question": "TikTok在美国是哪天暂停、哪天开始恢复服务的？合资公司成立又是什么时候？",
+  "attempt": 1,
+  "provider": "302.ai",
+  "model_requested": "doubao-seed-2-1-pro-260628",
+  "query_date": "2026-11-14",
+  "search_service": "metaso",
+  "prompt_version": "news-search-v1",
+  "prompt_sha256": "ea56fd5557d32615a9115f2368a0c4983ff1188f4935369e694d7d46f2493be1",
+  "requested_at": "2026-11-14T11:40:09.020745+08:00",
+  "raw_file": "raw/T0142_doubao_a001_39fbda.json",
+  "transport": "sse",
+  "stream_file": "raw/T0142_doubao_a001_39fbda.sse",
+  "status": "ok",
+  "model_returned": "doubao-seed-2-1-pro-260628",
+  "answer": "根据目前可获取的检索片段信息，暂无法确认TikTok在美国暂停服务的具体日期、正式启动服务恢复的确切日期，也无相关合资公司已实际成立的时间记录，现有公开片段仅披露了以下相关情况：\n1.  服务变动的相关动态：在相关服务出现受阻情况后，TikTok曾于某一日期的12时30分左右通过社交媒体发布声明，表示公司已与互联网服务提供商达成一致，正在恢复相关服务；TikTok在声明中称，感谢特朗普总统为服务提供商提供了必要的澄清与保证，明确服务商不会因向美国超过1.7亿用户提供TikTok服务、支持平台上超700万家小企业发展而遭受处罚[2]。由于该检索片段未标注事件对应的具体年月日，无法准确对应服务暂停、启动恢复的准确日期。\n2.  合资相关的动态：目前检索内容仅提及有相关人士发出倡议，呼吁成立由美国方面和TikTok当前所有者共同组成的合资企业，由该企业接管TikTok平台[2]，既未提及该呼吁的提出时间，也没有记录这一合资倡议是否实际落地、对应的成立时间等信息。\n\n[2] 对应检索结果中编号为webpage 2的公开信息片段。",
+  "sources": [
+    {
+      "index": 1,
+      "url": "http://finance.sina.com.cn/jjxw/2025-01-21/doc-inefsqmm8364785.shtml",
+      "title": null,
+      "origin": "citations"
+    }
+  ],
+  "usage": {
+    "completion_tokens": 1722,
+    "completion_tokens_details": {
+      "reasoning_tokens": 1452
+    },
+    "prompt_tokens": 813,
+    "prompt_tokens_details": {
+      "cached_tokens": 0
+    },
+    "total_tokens": 2535
+  },
+  "finish_reason": "stop",
+  "note": [],
+  "request_id": "9a15a57a-d044-4f16-b75c-76f9fded67ca",
+  "duration_seconds": 41.203
+}

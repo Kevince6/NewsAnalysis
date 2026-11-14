@@ -1,0 +1,59 @@
+{
+  "task_id": "T0282",
+  "model": "qwen",
+  "news_id": "E024",
+  "question_index": 1,
+  "question_original": "【开放】演员王星在泰缅边境失联后，是怎么被找到、接回泰国并回到中国的？",
+  "question": "演员王星在泰缅边境失联后，是怎么被找到、接回泰国并回到中国的？",
+  "attempt": 1,
+  "provider": "302.ai",
+  "model_requested": "qwen3.8-max",
+  "query_date": "2026-11-14",
+  "search_service": "metaso",
+  "prompt_version": "news-search-v1",
+  "prompt_sha256": "ea56fd5557d32615a9115f2368a0c4983ff1188f4935369e694d7d46f2493be1",
+  "requested_at": "2026-11-14T12:13:45.822338+08:00",
+  "raw_file": "raw/T0282_qwen_a001_ada83c.json",
+  "transport": "sse",
+  "stream_file": "raw/T0282_qwen_a001_ada83c.sse",
+  "status": "ok",
+  "model_returned": "qwen3.8-max",
+  "answer": "公开检索到的资料目前只能确认到：王星（报道中也称“演员星星”）在泰缅边境失联后，被泰方证实已在缅甸一侧找到，且一度被称身处缅甸诈骗园区；随后泰国警方表示将在泰缅边境接收并将他移送回泰国[1][3]。但“具体是如何被找到、如何从缅甸移交泰国、何时以及如何回到中国”这些关键细节，现有搜索结果并未给出完整官方通报或当事人确认[1][3]。\n\n可以确认的大致过程如下：\n\n1. **失联与求助阶段**  \n   王星赴泰国试戏/拍戏后，在泰缅边境失联，最后定位被指在泰国湄索一带[2]。中国驻泰国清迈总领事馆回应称已接到家属求助，并将持续跟踪案件[2]。同时，多名艺人转发扩散，朋友称已联系到他，认为“人应该可以救出来”[1]。\n\n2. **被找到阶段**  \n   泰国警方随后表示，王星已被找到，人在缅甸，暂时安全，并称其已进入缅甸诈骗园区，将被移送回泰国[1]。泰国达府警方也证实“人已找到”的消息属实[3]。泰国总理则公开确认王星已被找到，泰警方正在泰缅边境准备接收[3]。\n\n3. **接回泰国阶段**  \n   报道中明确提到的是：泰国警方在泰缅边境准备接收，并称将被移送回泰国[1][3]。但具体由哪一方从缅甸一侧交出、通过哪个口岸、是否经过谈判或营救行动，检索结果没有披露[1][3]。\n\n4. **回到中国阶段**  \n   目前提供的搜索结果没有说明王星是否已经回到中国、何时回国、乘坐何种交通工具、由哪些部门衔接等细节[1][3]。中国驻缅甸大使馆表示正与缅方联合调查，有进展将通报[3]，但未提供其返华安排的具体信息[3]。\n\n需要强调的是：如果按一般跨国失联/涉诈案件处置逻辑，后续通常会由泰方边防、移民或警方接收后，再与中国使领馆联系核实身份、安排遣返或回国手续；但就本案而言，这一链条中的具体环节目前不能从已给资料中确认，不能当作已经证实的事实。",
+  "sources": [
+    {
+      "index": 1,
+      "url": "https://www.bilibili.com/video/BV1PermYnEc1/",
+      "title": null,
+      "origin": "citations"
+    },
+    {
+      "index": 2,
+      "url": "https://www.bilibili.com/video/BV13qrGYaE8Q/",
+      "title": null,
+      "origin": "citations"
+    },
+    {
+      "index": 3,
+      "url": "https://www.douyin.com/video/7324625353341734185",
+      "title": null,
+      "origin": "citations"
+    }
+  ],
+  "usage": {
+    "completion_tokens": 2211,
+    "completion_tokens_details": {
+      "reasoning_tokens": 1722,
+      "text_tokens": 2211
+    },
+    "prompt_tokens": 1154,
+    "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "text_tokens": 1154
+    },
+    "total_tokens": 3365
+  },
+  "finish_reason": "stop",
+  "note": [],
+  "request_id": "38c9a3ad-dc32-4d2e-bcb8-f48cf2510e2c",
+  "duration_seconds": 60.093
+}

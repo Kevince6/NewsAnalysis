@@ -1,0 +1,63 @@
+{
+  "task_id": "T0320",
+  "model": "deepseek",
+  "news_id": "E027",
+  "question_index": 3,
+  "question_original": "【事实】美国何时通知英伟达H20对华出口需要许可，又在什么时候告知这项要求将长期执行？",
+  "question": "美国何时通知英伟达H20对华出口需要许可，又在什么时候告知这项要求将长期执行？",
+  "attempt": 1,
+  "provider": "302.ai",
+  "model_requested": "deepseek-flash",
+  "query_date": "2026-11-14",
+  "search_service": "metaso",
+  "prompt_version": "news-search-v1",
+  "prompt_sha256": "ea56fd5557d32615a9115f2368a0c4983ff1188f4935369e694d7d46f2493be1",
+  "requested_at": "2026-11-14T12:23:39.672853+08:00",
+  "raw_file": "raw/T0320_deepseek_a001_7b3664.json",
+  "transport": "sse",
+  "stream_file": "raw/T0320_deepseek_a001_7b3664.sse",
+  "status": "ok",
+  "model_returned": "deepseek-flash",
+  "answer": "**直接回答：**\n\n- **首次通知时间：2025年4月9日。** 美国政府当天向英伟达发出通知，要求向中国（含香港、澳门）及D:5国家或地区出口H20芯片，以及任何达到H20显存带宽、互联带宽或两者组合水平的其他芯片，均须获得出口许可；该要求同样适用于总部或最终母公司位于上述地区的企业。美方称，此举旨在防范相关产品被用于或转用于中国的超级计算机项目。[1][2]\n- **明确“长期执行”的时间：2025年4月14日。** 美方进一步通知英伟达，该许可证要求将在“不确定的未来”生效，也就是无限期存在。[1][2][4]\n\n**补充背景：**\n\n- 英伟达于当地时间2025年4月15日通过8-K文件对外披露上述两项通知，并称由于订单取消、库存与采购承诺等因素，预计2025年2—4月财季将计入约55亿美元的相关费用。[2][4]\n- 这一管制此后出现松动：2025年7月15日，英伟达官网声明将恢复H20在中国的销售，称正在向美国政府申请出口许可，并得到美方“将能获得许可”的保证，希望尽快恢复供应。[3]\n\n需要说明的是，上述时间点均来自英伟达公告及媒体报道的转述；美方相关规则文件本身未在检索结果中直接呈现。",
+  "sources": [
+    {
+      "index": 1,
+      "url": "https://finance.sina.cn/tech/2025-04-18/detail-inetnfmx3524228.d.html",
+      "title": null,
+      "origin": "citations"
+    },
+    {
+      "index": 2,
+      "url": "https://www.chinaflashmarket.com/News/2025-04/182822?id=39697068.scm",
+      "title": null,
+      "origin": "citations"
+    },
+    {
+      "index": 3,
+      "url": "https://www.caixin.com/2025-07-15/102341288.html",
+      "title": null,
+      "origin": "citations"
+    },
+    {
+      "index": 4,
+      "url": "https://www.yicai.com/news/102579359.html",
+      "title": null,
+      "origin": "citations"
+    }
+  ],
+  "usage": {
+    "completion_tokens": 517,
+    "completion_tokens_details": {
+      "reasoning_tokens": 204
+    },
+    "prompt_tokens": 1377,
+    "prompt_tokens_details": {
+      "cached_tokens": 0
+    },
+    "total_tokens": 1894
+  },
+  "finish_reason": "stop",
+  "note": [],
+  "request_id": "e7694798-9df6-4a27-a4a7-e16d7da3f84d",
+  "duration_seconds": 6.359
+}

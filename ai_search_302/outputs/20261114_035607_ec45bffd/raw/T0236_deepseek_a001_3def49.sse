@@ -1,0 +1,182 @@
+data: {"choices":[{"delta":{"reasoning_content":"用户","role":"assistant"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.cnr.cn/hubei/yw/20250920/t20250920_527369393.shtml"],"created":1794629103,"id":"chatcmpl-9afe1446-6195-406f-8f86-76e00df4aee3","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"问的是“"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.cnr.cn/hubei/yw/20250920/t20250920_527369393.shtml"],"created":1794629103,"id":"chatcmpl-9afe1446-6195-406f-8f86-76e00df4aee3","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"图书馆纠纷案二审是哪天"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.cnr.cn/hubei/yw/20250920/t20250920_527369393.shtml"],"created":1794629103,"id":"chatcmpl-9afe1446-6195-406f-8f86-76e00df4aee3","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"作出的，结果是什么"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.cnr.cn/hubei/yw/20250920/t20250920_527369393.shtml"],"created":1794629103,"id":"chatcmpl-9afe1446-6195-406f-8f86-76e00df4aee3","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"”。搜索结果只"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.cnr.cn/hubei/yw/20250920/t20250920_527369393.shtml"],"created":1794629103,"id":"chatcmpl-9afe1446-6195-406f-8f86-76e00df4aee3","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"提供了一段网页"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.cnr.cn/hubei/yw/20250920/t20250920_527369393.shtml"],"created":1794629103,"id":"chatcmpl-9afe1446-6195-406f-8f86-76e00df4aee3","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"4的内容"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.cnr.cn/hubei/yw/20250920/t20250920_527369393.shtml"],"created":1794629103,"id":"chatcmpl-9afe1446-6195-406f-8f86-76e00df4aee3","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"，"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.cnr.cn/hubei/yw/20250920/t20250920_527369393.shtml"],"created":1794629103,"id":"chatcmpl-9afe1446-6195-406f-8f86-76e00df4aee3","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"提到武汉中院二审判决"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.cnr.cn/hubei/yw/20250920/t20250920_527369393.shtml"],"created":1794629103,"id":"chatcmpl-9afe1446-6195-406f-8f86-76e00df4aee3","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"日期"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.cnr.cn/hubei/yw/20250920/t20250920_527369393.shtml"],"created":1794629103,"id":"chatcmpl-9afe1446-6195-406f-8f86-76e00df4aee3","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"2025年9月17"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.cnr.cn/hubei/yw/20250920/t20250920_527369393.shtml"],"created":1794629103,"id":"chatcmpl-9afe1446-6195-406f-8f86-76e00df4aee3","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"日，驳回上诉维持"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.cnr.cn/hubei/yw/20250920/t20250920_527369393.shtml"],"created":1794629103,"id":"chatcmpl-9afe1446-6195-406f-8f86-76e00df4aee3","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"原判。但问题中的"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.cnr.cn/hubei/yw/20250920/t20250920_527369393.shtml"],"created":1794629103,"id":"chatcmpl-9afe1446-6195-406f-8f86-76e00df4aee3","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"“图书馆纠纷案”需要"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.cnr.cn/hubei/yw/20250920/t20250920_527369393.shtml"],"created":1794629103,"id":"chatcmpl-9afe1446-6195-406f-8f86-76e00df4aee3","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"判断"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.cnr.cn/hubei/yw/20250920/t20250920_527369393.shtml"],"created":1794629103,"id":"chatcmpl-9afe1446-6195-406f-8f86-76e00df4aee3","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"是否指这个"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.cnr.cn/hubei/yw/20250920/t20250920_527369393.shtml"],"created":1794629103,"id":"chatcmpl-9afe1446-6195-406f-8f86-76e00df4aee3","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"案件"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.cnr.cn/hubei/yw/20250920/t20250920_527369393.shtml"],"created":1794629103,"id":"chatcmpl-9afe1446-6195-406f-8f86-76e00df4aee3","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"。搜索"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.cnr.cn/hubei/yw/20250920/t20250920_527369393.shtml"],"created":1794629103,"id":"chatcmpl-9afe1446-6195-406f-8f86-76e00df4aee3","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"结果显示的是武汉中"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.cnr.cn/hubei/yw/20250920/t20250920_527369393.shtml"],"created":1794629103,"id":"chatcmpl-9afe1446-6195-406f-8f86-76e00df4aee3","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"院，不"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.cnr.cn/hubei/yw/20250920/t20250920_527369393.shtml"],"created":1794629103,"id":"chatcmpl-9afe1446-6195-406f-8f86-76e00df4aee3","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"公开"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.cnr.cn/hubei/yw/20250920/t20250920_527369393.shtml"],"created":1794629103,"id":"chatcmpl-9afe1446-6195-406f-8f86-76e00df4aee3","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"开庭审理"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.cnr.cn/hubei/yw/20250920/t20250920_527369393.shtml"],"created":1794629103,"id":"chatcmpl-9afe1446-6195-406f-8f86-76e00df4aee3","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"，但没"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.cnr.cn/hubei/yw/20250920/t20250920_527369393.shtml"],"created":1794629103,"id":"chatcmpl-9afe1446-6195-406f-8f86-76e00df4aee3","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"明确说是图书馆纠纷"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.cnr.cn/hubei/yw/20250920/t20250920_527369393.shtml"],"created":1794629103,"id":"chatcmpl-9afe1446-6195-406f-8f86-76e00df4aee3","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"案。需要谨慎："},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.cnr.cn/hubei/yw/20250920/t20250920_527369393.shtml"],"created":1794629103,"id":"chatcmpl-9afe1446-6195-406f-8f86-76e00df4aee3","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"资料"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.cnr.cn/hubei/yw/20250920/t20250920_527369393.shtml"],"created":1794629103,"id":"chatcmpl-9afe1446-6195-406f-8f86-76e00df4aee3","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"只"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.cnr.cn/hubei/yw/20250920/t20250920_527369393.shtml"],"created":1794629103,"id":"chatcmpl-9afe1446-6195-406f-8f86-76e00df4aee3","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"显示这段，"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.cnr.cn/hubei/yw/20250920/t20250920_527369393.shtml"],"created":1794629103,"id":"chatcmpl-9afe1446-6195-406f-8f86-76e00df4aee3","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"没有明确与"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.cnr.cn/hubei/yw/20250920/t20250920_527369393.shtml"],"created":1794629103,"id":"chatcmpl-9afe1446-6195-406f-8f86-76e00df4aee3","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"“图书馆纠纷案”关联"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.cnr.cn/hubei/yw/20250920/t20250920_527369393.shtml"],"created":1794629103,"id":"chatcmpl-9afe1446-6195-406f-8f86-76e00df4aee3","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"。应该"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.cnr.cn/hubei/yw/20250920/t20250920_527369393.shtml"],"created":1794629103,"id":"chatcmpl-9afe1446-6195-406f-8f86-76e00df4aee3","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"回答："},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.cnr.cn/hubei/yw/20250920/t20250920_527369393.shtml"],"created":1794629103,"id":"chatcmpl-9afe1446-6195-406f-8f86-76e00df4aee3","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"根据提供的"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.cnr.cn/hubei/yw/20250920/t20250920_527369393.shtml"],"created":1794629103,"id":"chatcmpl-9afe1446-6195-406f-8f86-76e00df4aee3","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"搜索结果"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.cnr.cn/hubei/yw/20250920/t20250920_527369393.shtml"],"created":1794629103,"id":"chatcmpl-9afe1446-6195-406f-8f86-76e00df4aee3","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"，武汉"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.cnr.cn/hubei/yw/20250920/t20250920_527369393.shtml"],"created":1794629103,"id":"chatcmpl-9afe1446-6195-406f-8f86-76e00df4aee3","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"中院于2025年"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.cnr.cn/hubei/yw/20250920/t20250920_527369393.shtml"],"created":1794629103,"id":"chatcmpl-9afe1446-6195-406f-8f86-76e00df4aee3","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"9月17日作出二审"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.cnr.cn/hubei/yw/20250920/t20250920_527369393.shtml"],"created":1794629103,"id":"chatcmpl-9afe1446-6195-406f-8f86-76e00df4aee3","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"判决，驳回上诉、维持"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.cnr.cn/hubei/yw/20250920/t20250920_527369393.shtml"],"created":1794629103,"id":"chatcmpl-9afe1446-6195-406f-8f86-76e00df4aee3","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"原判["},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.cnr.cn/hubei/yw/20250920/t20250920_527369393.shtml"],"created":1794629103,"id":"chatcmpl-9afe1446-6195-406f-8f86-76e00df4aee3","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"4]。但需"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.cnr.cn/hubei/yw/20250920/t20250920_527369393.shtml"],"created":1794629103,"id":"chatcmpl-9afe1446-6195-406f-8f86-76e00df4aee3","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"说明该搜索结果"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.cnr.cn/hubei/yw/20250920/t20250920_527369393.shtml"],"created":1794629103,"id":"chatcmpl-9afe1446-6195-406f-8f86-76e00df4aee3","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"未明确案件"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.cnr.cn/hubei/yw/20250920/t20250920_527369393.shtml"],"created":1794629103,"id":"chatcmpl-9afe1446-6195-406f-8f86-76e00df4aee3","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"名称是否为“图书馆纠纷案"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.cnr.cn/hubei/yw/20250920/t20250920_527369393.shtml"],"created":1794629103,"id":"chatcmpl-9afe1446-6195-406f-8f86-76e00df4aee3","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"”，若"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.cnr.cn/hubei/yw/20250920/t20250920_527369393.shtml"],"created":1794629103,"id":"chatcmpl-9afe1446-6195-406f-8f86-76e00df4aee3","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"指"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.cnr.cn/hubei/yw/20250920/t20250920_527369393.shtml"],"created":1794629103,"id":"chatcmpl-9afe1446-6195-406f-8f86-76e00df4aee3","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"该案，则结果"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.cnr.cn/hubei/yw/20250920/t20250920_527369393.shtml"],"created":1794629103,"id":"chatcmpl-9afe1446-6195-406f-8f86-76e00df4aee3","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"如此"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.cnr.cn/hubei/yw/20250920/t20250920_527369393.shtml"],"created":1794629103,"id":"chatcmpl-9afe1446-6195-406f-8f86-76e00df4aee3","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"。不要"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.cnr.cn/hubei/yw/20250920/t20250920_527369393.shtml"],"created":1794629103,"id":"chatcmpl-9afe1446-6195-406f-8f86-76e00df4aee3","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"编"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.cnr.cn/hubei/yw/20250920/t20250920_527369393.shtml"],"created":1794629103,"id":"chatcmpl-9afe1446-6195-406f-8f86-76e00df4aee3","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"造。"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.cnr.cn/hubei/yw/20250920/t20250920_527369393.shtml"],"created":1794629103,"id":"chatcmpl-9afe1446-6195-406f-8f86-76e00df4aee3","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"引用"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.cnr.cn/hubei/yw/20250920/t20250920_527369393.shtml"],"created":1794629103,"id":"chatcmpl-9afe1446-6195-406f-8f86-76e00df4aee3","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"["},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.cnr.cn/hubei/yw/20250920/t20250920_527369393.shtml"],"created":1794629103,"id":"chatcmpl-9afe1446-6195-406f-8f86-76e00df4aee3","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"4]。"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.cnr.cn/hubei/yw/20250920/t20250920_527369393.shtml"],"created":1794629103,"id":"chatcmpl-9afe1446-6195-406f-8f86-76e00df4aee3","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"根据你"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.cnr.cn/hubei/yw/20250920/t20250920_527369393.shtml"],"created":1794629103,"id":"chatcmpl-9afe1446-6195-406f-8f86-76e00df4aee3","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"提供的搜索结果，相关"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.cnr.cn/hubei/yw/20250920/t20250920_527369393.shtml"],"created":1794629103,"id":"chatcmpl-9afe1446-6195-406f-8f86-76e00df4aee3","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"二审判决"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.cnr.cn/hubei/yw/20250920/t20250920_527369393.shtml"],"created":1794629103,"id":"chatcmpl-9afe1446-6195-406f-8f86-76e00df4aee3","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"由武汉"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.cnr.cn/hubei/yw/20250920/t20250920_527369393.shtml"],"created":1794629103,"id":"chatcmpl-9afe1446-6195-406f-8f86-76e00df4aee3","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"中院于**2025"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.cnr.cn/hubei/yw/20250920/t20250920_527369393.shtml"],"created":1794629103,"id":"chatcmpl-9afe1446-6195-406f-8f86-76e00df4aee3","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"年9月17日**"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.cnr.cn/hubei/yw/20250920/t20250920_527369393.shtml"],"created":1794629103,"id":"chatcmpl-9afe1446-6195-406f-8f86-76e00df4aee3","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"作出，结果为："},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.cnr.cn/hubei/yw/20250920/t20250920_527369393.shtml"],"created":1794629103,"id":"chatcmpl-9afe1446-6195-406f-8f86-76e00df4aee3","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"**驳回上诉，维持原"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.cnr.cn/hubei/yw/20250920/t20250920_527369393.shtml"],"created":1794629103,"id":"chatcmpl-9afe1446-6195-406f-8f86-76e00df4aee3","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"判**[4]。\n\n需要"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.cnr.cn/hubei/yw/20250920/t20250920_527369393.shtml"],"created":1794629103,"id":"chatcmpl-9afe1446-6195-406f-8f86-76e00df4aee3","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"说明的是，"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.cnr.cn/hubei/yw/20250920/t20250920_527369393.shtml"],"created":1794629103,"id":"chatcmpl-9afe1446-6195-406f-8f86-76e00df4aee3","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"该检索片段"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.cnr.cn/hubei/yw/20250920/t20250920_527369393.shtml"],"created":1794629103,"id":"chatcmpl-9afe1446-6195-406f-8f86-76e00df4aee3","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"只提到"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.cnr.cn/hubei/yw/20250920/t20250920_527369393.shtml"],"created":1794629103,"id":"chatcmpl-9afe1446-6195-406f-8f86-76e00df4aee3","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"“"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.cnr.cn/hubei/yw/20250920/t20250920_527369393.shtml"],"created":1794629103,"id":"chatcmpl-9afe1446-6195-406f-8f86-76e00df4aee3","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"武汉中院经不"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.cnr.cn/hubei/yw/20250920/t20250920_527369393.shtml"],"created":1794629103,"id":"chatcmpl-9afe1446-6195-406f-8f86-76e00df4aee3","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"公开开庭审理后认为"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.cnr.cn/hubei/yw/20250920/t20250920_527369393.shtml"],"created":1794629103,"id":"chatcmpl-9afe1446-6195-406f-8f86-76e00df4aee3","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"，"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.cnr.cn/hubei/yw/20250920/t20250920_527369393.shtml"],"created":1794629103,"id":"chatcmpl-9afe1446-6195-406f-8f86-76e00df4aee3","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"一审判决认定事实清楚，"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.cnr.cn/hubei/yw/20250920/t20250920_527369393.shtml"],"created":1794629103,"id":"chatcmpl-9afe1446-6195-406f-8f86-76e00df4aee3","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"适用法律正确，应予"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.cnr.cn/hubei/yw/20250920/t20250920_527369393.shtml"],"created":1794629103,"id":"chatcmpl-9afe1446-6195-406f-8f86-76e00df4aee3","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"维持”，并未"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.cnr.cn/hubei/yw/20250920/t20250920_527369393.shtml"],"created":1794629103,"id":"chatcmpl-9afe1446-6195-406f-8f86-76e00df4aee3","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"在片段"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.cnr.cn/hubei/yw/20250920/t20250920_527369393.shtml"],"created":1794629103,"id":"chatcmpl-9afe1446-6195-406f-8f86-76e00df4aee3","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"中明确写出案件"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.cnr.cn/hubei/yw/20250920/t20250920_527369393.shtml"],"created":1794629103,"id":"chatcmpl-9afe1446-6195-406f-8f86-76e00df4aee3","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"名"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.cnr.cn/hubei/yw/20250920/t20250920_527369393.shtml"],"created":1794629103,"id":"chatcmpl-9afe1446-6195-406f-8f86-76e00df4aee3","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"称为“图书馆纠纷案”。"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.cnr.cn/hubei/yw/20250920/t20250920_527369393.shtml"],"created":1794629103,"id":"chatcmpl-9afe1446-6195-406f-8f86-76e00df4aee3","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"因此，如果所指"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.cnr.cn/hubei/yw/20250920/t20250920_527369393.shtml"],"created":1794629103,"id":"chatcmpl-9afe1446-6195-406f-8f86-76e00df4aee3","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"的"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.cnr.cn/hubei/yw/20250920/t20250920_527369393.shtml"],"created":1794629103,"id":"chatcmpl-9afe1446-6195-406f-8f86-76e00df4aee3","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"“"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.cnr.cn/hubei/yw/20250920/t20250920_527369393.shtml"],"created":1794629103,"id":"chatcmpl-9afe1446-6195-406f-8f86-76e00df4aee3","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"图书馆纠纷案”就是该"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.cnr.cn/hubei/yw/20250920/t20250920_527369393.shtml"],"created":1794629103,"id":"chatcmpl-9afe1446-6195-406f-8f86-76e00df4aee3","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"案"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.cnr.cn/hubei/yw/20250920/t20250920_527369393.shtml"],"created":1794629103,"id":"chatcmpl-9afe1446-6195-406f-8f86-76e00df4aee3","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"，那么"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.cnr.cn/hubei/yw/20250920/t20250920_527369393.shtml"],"created":1794629103,"id":"chatcmpl-9afe1446-6195-406f-8f86-76e00df4aee3","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"二审时间和"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.cnr.cn/hubei/yw/20250920/t20250920_527369393.shtml"],"created":1794629103,"id":"chatcmpl-9afe1446-6195-406f-8f86-76e00df4aee3","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"结果如上"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.cnr.cn/hubei/yw/20250920/t20250920_527369393.shtml"],"created":1794629103,"id":"chatcmpl-9afe1446-6195-406f-8f86-76e00df4aee3","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"；若"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.cnr.cn/hubei/yw/20250920/t20250920_527369393.shtml"],"created":1794629103,"id":"chatcmpl-9afe1446-6195-406f-8f86-76e00df4aee3","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"指其他案件"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.cnr.cn/hubei/yw/20250920/t20250920_527369393.shtml"],"created":1794629103,"id":"chatcmpl-9afe1446-6195-406f-8f86-76e00df4aee3","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"，则"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.cnr.cn/hubei/yw/20250920/t20250920_527369393.shtml"],"created":1794629103,"id":"chatcmpl-9afe1446-6195-406f-8f86-76e00df4aee3","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"现有资料"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.cnr.cn/hubei/yw/20250920/t20250920_527369393.shtml"],"created":1794629103,"id":"chatcmpl-9afe1446-6195-406f-8f86-76e00df4aee3","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"不足以确认。"},"finish_reason":"stop","index":0,"logprobs":null}],"citations":["https://www.cnr.cn/hubei/yw/20250920/t20250920_527369393.shtml"],"created":1794629103,"id":"chatcmpl-9afe1446-6195-406f-8f86-76e00df4aee3","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[],"citations":["https://www.cnr.cn/hubei/yw/20250920/t20250920_527369393.shtml"],"created":1794629103,"id":"chatcmpl-9afe1446-6195-406f-8f86-76e00df4aee3","model":"deepseek-flash","object":"chat.completion.chunk","usage":{"completion_tokens":277,"completion_tokens_details":{"reasoning_tokens":160},"prompt_tokens":760,"prompt_tokens_details":{"cached_tokens":0},"total_tokens":1037}}
+
+data: [DONE]
+

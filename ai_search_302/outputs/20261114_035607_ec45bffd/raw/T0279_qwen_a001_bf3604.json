@@ -1,0 +1,58 @@
+{
+  "request": {
+    "model": "qwen3.8-max",
+    "messages": [
+      {
+        "role": "system",
+        "content": "请联网检索后，用自然中文回答用户的问题。\n先直接回答，再补充理解答案所需的事实、背景或说明；复杂问题可分点，简单问题可简答。\n优先参考与问题直接相关的原始发布、机构公告、当事人回应及可信媒体报道。\n依据检索到的资料作答。资料不足、存在分歧或尚未确认的内容，请明确说明；解释和判断应与已确认的事实区分。\n在相关事实后标注检索来源，沿用检索结果提供的引用编号或标记。\n\n查询日期：2026-11-14（北京时间，UTC+8）。问题中的“现在”“近期”“最新”以此日期为参照；问题明确指定时间范围时，以问题为准。"
+      },
+      {
+        "role": "user",
+        "content": "2025年7月25日，汪苏泷方对《年轮》授权作出了什么决定？"
+      }
+    ],
+    "web-search": true,
+    "search-service": "metaso",
+    "search-results": 5,
+    "stream": true,
+    "stream_options": {
+      "include_usage": true
+    }
+  },
+  "response": {
+    "object": "chat.completion",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "2025年7月25日，汪苏泷方决定收回歌曲《年轮》的演唱授权，并表示暂不授权该作品用于任何演唱[1][5]。  \n\n该决定与当时围绕《年轮》原唱及授权问题的争议有关，汪苏泷方称希望外界关注回归音乐本身[1][4]。",
+          "reasoning_content": "我们需要回答用户问题。必须先调用工具。已经调用。现在需要分析搜索结果。用户问：2025年7月25日，汪苏泷方对《年轮》授权作出了什么决定？搜索结果：网页1：2025年7月25日，汪苏泷对接号发文称，因某博主不当话术，《年轮》引发争议。团队本无意参与，积极沟通后仍陷风波。在《年轮》发行十年之际，决定收回授权，暂不授权该作品做任何演唱，希望关注回归音乐本身。网页5：汪苏泷工作室宣布收回歌曲《年轮》的所有演唱授权。网页4：汪苏泷决定收回《年轮》演唱授权。需要直接回答，再补充背景。引用编号 [1][4][5] 或 [1][5]。注意今天2026-11-14，但问题历史事件。需要中文自然。简洁。可以说明决定：收回《年轮》授权，暂不授权任何演唱。可能“所有演唱授权”。来源：网页1说收回授权，暂不授权该作品做任何演唱；网页5说所有演唱授权。需要避免过度扩展。可提张碧晨声明背景？用户只问决定，补充一两句争议背景。格式可短。确保引用在句末。不要集中最后。\n"
+        },
+        "finish_reason": "stop"
+      }
+    ],
+    "id": "chatcmpl-7e05f6d2-d5f2-96c0-8a4f-d5d8f43eef90",
+    "model": "qwen3.8-max",
+    "created": 1794629609,
+    "citations": [
+      "https://baike.baidu.com/item/%E5%B9%B4%E8%BD%AE/17740222#%3A~%3Atext%3D%E5%9B%A0%E6%AD%A4%E5%BC%A0%E7%A2%A7%E6%99%A8%E5%A5%B3%E5%A3%AB%E6%98%AF%E3%80%8A%E5%B9%B4%E8%BD%AE%E3%80%8B%E7%9A%84%E5%94%AF%E4%B8%80%E5%8E%9F%E5%94%B1%E3%80%82",
+      "https://v.qq.com/x/page/j11909fvak4.html",
+      "https://ent.china.com/movie/newszh/11005281/20250727/48657103.html"
+    ],
+    "usage": {
+      "completion_tokens": 372,
+      "completion_tokens_details": {
+        "reasoning_tokens": 291,
+        "text_tokens": 372
+      },
+      "prompt_tokens": 1213,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "text_tokens": 1213
+      },
+      "total_tokens": 1585
+    },
+    "_transport": "sse"
+  }
+}

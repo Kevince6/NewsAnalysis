@@ -1,0 +1,59 @@
+{
+  "task_id": "T0201",
+  "model": "qwen",
+  "news_id": "E016",
+  "question_index": 4,
+  "question_original": "【事实】魏家案公布的122亿余元全是诈骗损失吗？",
+  "question": "魏家案公布的122亿余元全是诈骗损失吗？",
+  "attempt": 1,
+  "provider": "302.ai",
+  "model_requested": "qwen3.8-max",
+  "query_date": "2026-11-14",
+  "search_service": "metaso",
+  "prompt_version": "news-search-v1",
+  "prompt_sha256": "ea56fd5557d32615a9115f2368a0c4983ff1188f4935369e694d7d46f2493be1",
+  "requested_at": "2026-11-14T11:54:52.837073+08:00",
+  "raw_file": "raw/T0201_qwen_a001_9de658.json",
+  "transport": "sse",
+  "stream_file": "raw/T0201_qwen_a001_9de658.sse",
+  "status": "ok",
+  "model_returned": "qwen3.8-max",
+  "answer": "不能仅凭“公布的122亿余元”就认定它全是诈骗损失；目前你提供的检索结果也不足以确认“魏家案”中这122亿余元的具体司法口径。\n\n补充说明如下：\n\n1. **现有资料未直接确认“魏家案122亿余元”的性质**  \n   在你给出的搜索结果中，没有出现“魏家案”及“122亿余元”的原始通报、法院判决或权威报道；其中一条内容只涉及另一起案件，即顾国平、上海斐讯/华夏万家相关案件，并明确表述为“造成90.86万余名被害人实际经济损失99.71亿余元”[1]。其余检索页面也未提供与“魏家案”金额口径直接相关的有效信息[4][5]。\n\n2. **“公布金额”不一定等于“诈骗损失”**  \n   刑事案件或非法集资类案件通报中常见的金额可能有不同口径，例如：  \n   - **涉案金额/吸收资金金额**：通常指资金流入或交易规模，不一定扣除已返还、已兑付或可追回部分；  \n   - **未兑付金额/待兑付金额**：指尚未归还投资人的金额，可能包含本金、利息或收益，口径不等同于“诈骗损失”；  \n   - **诈骗数额/实际经济损失**：更接近最终认定的被害人损失，通常需结合审计、追赃挽损、退赔情况确定。  \n   因此，如果通报写的是“涉案122亿余元”“吸收资金122亿余元”或“未兑付122亿余元”，不能直接理解为全部是诈骗造成的实际损失。\n\n3. **是否属于诈骗损失，要看公告原文表述**  \n   如果官方文件明确写为“诈骗数额122亿余元”或“造成被害人实际经济损失122亿余元”，才更接近“诈骗损失”口径；如果只是笼统说“涉案金额122亿余元”，则不能直接等同。  \n  目前检索到的资料未显示“魏家案”采用的是哪一种口径，所以不能断言“122亿余元全是诈骗损失”。",
+  "sources": [
+    {
+      "index": 1,
+      "url": "http://jssjt.jiangsu.gov.cn/art/2021/12/31/art_59514_10260768.html",
+      "title": null,
+      "origin": "citations"
+    },
+    {
+      "index": 2,
+      "url": "https://www.thepaper.cn/newsDetail_forward_33211102",
+      "title": null,
+      "origin": "citations"
+    },
+    {
+      "index": 3,
+      "url": "https://github.com/bernettcoia/20260718_10/blob/main/20260722_8k1gt.md",
+      "title": null,
+      "origin": "citations"
+    }
+  ],
+  "usage": {
+    "completion_tokens": 3615,
+    "completion_tokens_details": {
+      "reasoning_tokens": 3147,
+      "text_tokens": 3615
+    },
+    "prompt_tokens": 1206,
+    "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "text_tokens": 1206
+    },
+    "total_tokens": 4821
+  },
+  "finish_reason": "stop",
+  "note": [],
+  "request_id": "d107f28a-3eab-4001-a889-3408f713fcfa",
+  "duration_seconds": 85.562
+}

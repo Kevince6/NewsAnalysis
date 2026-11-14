@@ -1,0 +1,51 @@
+{
+  "task_id": "T0086",
+  "model": "deepseek",
+  "news_id": "E007",
+  "question_index": 3,
+  "question_original": "【事实】2026年第二季度，欧元区和欧盟的政府债务占GDP比例各是多少？比上一季度升了还是降了？",
+  "question": "2026年第二季度，欧元区和欧盟的政府债务占GDP比例各是多少？比上一季度升了还是降了？",
+  "attempt": 1,
+  "provider": "302.ai",
+  "model_requested": "deepseek-flash",
+  "query_date": "2026-11-14",
+  "search_service": "metaso",
+  "prompt_version": "news-search-v1",
+  "prompt_sha256": "ea56fd5557d32615a9115f2368a0c4983ff1188f4935369e694d7d46f2493be1",
+  "requested_at": "2026-11-14T11:22:52.417886+08:00",
+  "raw_file": "raw/T0086_deepseek_a001_b5c6a1.json",
+  "transport": "sse",
+  "stream_file": "raw/T0086_deepseek_a001_b5c6a1.sse",
+  "status": "ok",
+  "model_returned": "deepseek-flash",
+  "answer": "2026年第二季度末，欧元区政府债务占GDP比重为**88.8%**，高于第一季度末的**88.4%**，环比上升0.4个百分点；欧盟整体政府债务占GDP比重为**82.9%**，高于第一季度末的**82.5%**，同样上升0.4个百分点。[3][4]\n\n也就是说，欧元区和欧盟的政府债务率在2026年第二季度均较上一季度上升，公共债务负担继续加重。[3]\n\n补充背景：同期欧元区财政赤字率从第一季度的3.2%升至3.3%，欧盟成员国整体财政赤字率从3.1%升至3.5%，说明债务上升与赤字扩大同时发生。[3]",
+  "sources": [
+    {
+      "index": 1,
+      "url": "https://mp.weixin.qq.com/s?__biz=MjM5Mjg1NjQ1Mw==&mid=2651244218&idx=1&sn=76a9ca2ed26a3e2754562eb9ab1fa962&chksm=bc9f57ca60695039e90de615148d500a84bb67655b08e36e5835dbe0580f607fdd9f5d1576d1&scene=27",
+      "title": null,
+      "origin": "citations"
+    },
+    {
+      "index": 2,
+      "url": "https://news.qq.com/rain/a/20261103A0506I00",
+      "title": null,
+      "origin": "citations"
+    }
+  ],
+  "usage": {
+    "completion_tokens": 290,
+    "completion_tokens_details": {
+      "reasoning_tokens": 134
+    },
+    "prompt_tokens": 847,
+    "prompt_tokens_details": {
+      "cached_tokens": 0
+    },
+    "total_tokens": 1137
+  },
+  "finish_reason": "stop",
+  "note": [],
+  "request_id": "af3f4d0a-3b22-4f57-a64b-6b7601a8311f",
+  "duration_seconds": 4.016
+}

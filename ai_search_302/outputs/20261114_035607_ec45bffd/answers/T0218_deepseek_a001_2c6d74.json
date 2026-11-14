@@ -1,0 +1,69 @@
+{
+  "task_id": "T0218",
+  "model": "deepseek",
+  "news_id": "E018",
+  "question_index": 2,
+  "question_original": "【开放】赤峰白菜事件里，种植户最初的损失说法和后来的官方评估有什么差别？事情最终怎么处理？",
+  "question": "赤峰白菜事件里，种植户最初的损失说法和后来的官方评估有什么差别？事情最终怎么处理？",
+  "attempt": 1,
+  "provider": "302.ai",
+  "model_requested": "deepseek-flash",
+  "query_date": "2026-11-14",
+  "search_service": "metaso",
+  "prompt_version": "news-search-v1",
+  "prompt_sha256": "ea56fd5557d32615a9115f2368a0c4983ff1188f4935369e694d7d46f2493be1",
+  "requested_at": "2026-11-14T12:01:07.373023+08:00",
+  "raw_file": "raw/T0218_deepseek_a001_2c6d74.json",
+  "transport": "sse",
+  "stream_file": "raw/T0218_deepseek_a001_2c6d74.sse",
+  "status": "ok",
+  "model_returned": "deepseek-flash",
+  "answer": "**先给结论：**从目前检索到的官方通报看，能确认的是“最终评估损失为9.52万元、已补偿到位”，但通报中没有披露种植户最初自行主张的具体损失金额，因此无法做“最初说多少、后来评多少”的精确数字对比。可以确认的差别主要在**损失认定口径**和**对事件性质的描述**上。\n\n## 1. 官方评估的损失口径\n\n联合调查组委托有法定资质的评估机构，综合**市场价格、环境气候、收割方式**等因素测算，测定种植户损失为 **9.52万元**，李某某等5名种植户对评估结果表示认同[1][3][5]。\n\n官方通报还交代了评估所依据的事实背景：涉事地块 **380亩**，由5名种植户种植，白菜从10月开始售卖，事发前已经**多轮择优选收**，大部分优质白菜已采收完毕；未售白菜受低温霜降冻害影响，质量明显下降，群众采捡后有的食用、有的喂养畜禽[2][3]。这实际上意味着官方不认可“整片380亩白菜被哄抢、全军覆没”这类笼统说法。\n\n## 2. “最初说法”与官方评估的差别\n\n检索结果中**没有出现种植户最初索赔或对外声称的具体金额**，也没有他们最初完整表述的原文，所以不能替他们给出一个“最初说损失多少万”的数字。就现有材料而言，差别主要体现在：\n\n- **范围与质量**：网络传播聚焦“白菜被采捡/哄抢”；官方调查强调大部分优质白菜此前已多轮选收，剩余部分本身受霜冻影响、质量下降[3]。\n- **计价方式**：官方按市场价格、环境气候、收割方式等综合评估，而非按亩产全价简单相乘[1][3]。\n- **结果**：评估认定为9.52万元，且5名种植户本人表示认同[1][2][5]。\n\n因此，若把“最初说法”理解为网络上流传的较大损失说法，它与官方9.52万元的评估结果差距明显；但这一“最初说法”的具体数字，在现有检索资料中无法核实，引用时需谨慎。\n\n## 3. 最终处理\n\n- **补偿**：联合调查组组织相关责任方就补偿事宜达成一致，补偿已到位[1][2][5]。\n- **追责**：内蒙古赤峰市松山区和有关部门按管理权限，依法依规分别对**涉事媒体、主办单位和相关责任人**追究有关责任[1][5]。\n- **公开程度**：通报未在检索结果中列出被追责单位、人员的具体名单及追责形式，这部分信息目前无法从现有材料确认[1][5]。\n\n**一句话概括：**官方最终以9.52万元认定损失并完成补偿，同时对涉事媒体、主办单位及责任人追责；种植户最初的具体损失说法在检索到的通报中没有披露，二者只能确认在“是否大部分已采收、剩余白菜质量如何、按什么口径计价”上存在明显口径差异，而不能确认具体数字差。",
+  "sources": [
+    {
+      "index": 1,
+      "url": "https://big5.cctv.com/gate/big5/news.cctv.com/2025/11/17/ARTIfcmPXCH2gNNBucGYA3Fp251117.shtml",
+      "title": null,
+      "origin": "citations"
+    },
+    {
+      "index": 2,
+      "url": "https://finance.sina.com.cn/jjxw/2025-11-18/doc-infxtzmp5042960.shtml",
+      "title": null,
+      "origin": "citations"
+    },
+    {
+      "index": 3,
+      "url": "https://mp.weixin.qq.com/s?__biz=MzA5MjI5NzkyNA==&mid=2652694471&idx=2&sn=3affb78560c7bafd86ea46f5562f1bfe&chksm=8a41e79ace792429b754b729cf5d66c37758defc150224f58f027235d9488cea8b1a00451595&scene=27",
+      "title": null,
+      "origin": "citations"
+    },
+    {
+      "index": 4,
+      "url": "https://mp.weixin.qq.com/s?__biz=MjM5ODIwMTM4Mg==&mid=2654983932&idx=1&sn=8843e2ea220664ade196e5771e17cd19&chksm=bcd3da6ab95ba2b6eb46b80f38168cb8ed7d1410d6bfe3bae370e7d52129d2a7f8db7ad190da&scene=27",
+      "title": null,
+      "origin": "citations"
+    },
+    {
+      "index": 5,
+      "url": "https://baijiahao.baidu.com/s?id=1849049215194391675",
+      "title": null,
+      "origin": "citations"
+    }
+  ],
+  "usage": {
+    "completion_tokens": 1153,
+    "completion_tokens_details": {
+      "reasoning_tokens": 490
+    },
+    "prompt_tokens": 1344,
+    "prompt_tokens_details": {
+      "cached_tokens": 0
+    },
+    "total_tokens": 2497
+  },
+  "finish_reason": "stop",
+  "note": [],
+  "request_id": "390fd430-7c21-45ae-aaa4-afc56afb853e",
+  "duration_seconds": 9.782
+}

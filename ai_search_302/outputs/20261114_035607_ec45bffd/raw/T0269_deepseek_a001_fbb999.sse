@@ -1,0 +1,986 @@
+data: {"choices":[{"delta":{"reasoning_content":"用户","role":"assistant"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://m.douban.com/doulist/162038586/","https://news.qq.com/rain/a/20250725A09JOL00","https://new.qq.com/rain/a/20250725A0991P00"],"created":1794629489,"id":"chatcmpl-3d1f6862-e224-4364-b08b-b92946a95946","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"问的是"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://m.douban.com/doulist/162038586/","https://news.qq.com/rain/a/20250725A09JOL00","https://new.qq.com/rain/a/20250725A0991P00"],"created":1794629489,"id":"chatcmpl-3d1f6862-e224-4364-b08b-b92946a95946","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"《年轮》争议"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://m.douban.com/doulist/162038586/","https://news.qq.com/rain/a/20250725A09JOL00","https://new.qq.com/rain/a/20250725A0991P00"],"created":1794629489,"id":"chatcmpl-3d1f6862-e224-4364-b08b-b92946a95946","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"："},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://m.douban.com/doulist/162038586/","https://news.qq.com/rain/a/20250725A09JOL00","https://new.qq.com/rain/a/20250725A0991P00"],"created":1794629489,"id":"chatcmpl-3d1f6862-e224-4364-b08b-b92946a95946","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"到底"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://m.douban.com/doulist/162038586/","https://news.qq.com/rain/a/20250725A09JOL00","https://new.qq.com/rain/a/20250725A0991P00"],"created":1794629489,"id":"chatcmpl-3d1f6862-e224-4364-b08b-b92946a95946","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"在争\""},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://m.douban.com/doulist/162038586/","https://news.qq.com/rain/a/20250725A09JOL00","https://new.qq.com/rain/a/20250725A0991P00"],"created":1794629489,"id":"chatcmpl-3d1f6862-e224-4364-b08b-b92946a95946","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"谁是原唱\"还是\""},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://m.douban.com/doulist/162038586/","https://news.qq.com/rain/a/20250725A09JOL00","https://new.qq.com/rain/a/20250725A0991P00"],"created":1794629489,"id":"chatcmpl-3d1f6862-e224-4364-b08b-b92946a95946","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"谁还能唱\"？汪"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://m.douban.com/doulist/162038586/","https://news.qq.com/rain/a/20250725A09JOL00","https://new.qq.com/rain/a/20250725A0991P00"],"created":1794629489,"id":"chatcmpl-3d1f6862-e224-4364-b08b-b92946a95946","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"苏泷方"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://m.douban.com/doulist/162038586/","https://news.qq.com/rain/a/20250725A09JOL00","https://new.qq.com/rain/a/20250725A0991P00"],"created":1794629489,"id":"chatcmpl-3d1f6862-e224-4364-b08b-b92946a95946","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"和张碧晨方"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://m.douban.com/doulist/162038586/","https://news.qq.com/rain/a/20250725A09JOL00","https://new.qq.com/rain/a/20250725A0991P00"],"created":1794629489,"id":"chatcmpl-3d1f6862-e224-4364-b08b-b92946a95946","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"分别说了什么？\n\n搜索结果提供"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://m.douban.com/doulist/162038586/","https://news.qq.com/rain/a/20250725A09JOL00","https://new.qq.com/rain/a/20250725A0991P00"],"created":1794629489,"id":"chatcmpl-3d1f6862-e224-4364-b08b-b92946a95946","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"的信息：\n- webpage"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://m.douban.com/doulist/162038586/","https://news.qq.com/rain/a/20250725A09JOL00","https://new.qq.com/rain/a/20250725A0991P00"],"created":1794629489,"id":"chatcmpl-3d1f6862-e224-4364-b08b-b92946a95946","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":" 4:"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://m.douban.com/doulist/162038586/","https://news.qq.com/rain/a/20250725A09JOL00","https://new.qq.com/rain/a/20250725A0991P00"],"created":1794629489,"id":"chatcmpl-3d1f6862-e224-4364-b08b-b92946a95946","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":" 7月23"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://m.douban.com/doulist/162038586/","https://news.qq.com/rain/a/20250725A09JOL00","https://new.qq.com/rain/a/20250725A0991P00"],"created":1794629489,"id":"chatcmpl-3d1f6862-e224-4364-b08b-b92946a95946","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"日QQ音乐移除"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://m.douban.com/doulist/162038586/","https://news.qq.com/rain/a/20250725A09JOL00","https://new.qq.com/rain/a/20250725A0991P00"],"created":1794629489,"id":"chatcmpl-3d1f6862-e224-4364-b08b-b92946a95946","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"张碧晨版"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://m.douban.com/doulist/162038586/","https://news.qq.com/rain/a/20250725A09JOL00","https://new.qq.com/rain/a/20250725A0991P00"],"created":1794629489,"id":"chatcmpl-3d1f6862-e224-4364-b08b-b92946a95946","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"\""},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://m.douban.com/doulist/162038586/","https://news.qq.com/rain/a/20250725A09JOL00","https://new.qq.com/rain/a/20250725A0991P00"],"created":1794629489,"id":"chatcmpl-3d1f6862-e224-4364-b08b-b92946a95946","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"原唱\"标签，仅"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://m.douban.com/doulist/162038586/","https://news.qq.com/rain/a/20250725A09JOL00","https://new.qq.com/rain/a/20250725A0991P00"],"created":1794629489,"id":"chatcmpl-3d1f6862-e224-4364-b08b-b92946a95946","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"标注\"演唱者\"，"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://m.douban.com/doulist/162038586/","https://news.qq.com/rain/a/20250725A09JOL00","https://new.qq.com/rain/a/20250725A0991P00"],"created":1794629489,"id":"chatcmpl-3d1f6862-e224-4364-b08b-b92946a95946","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"汪苏泷版本"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://m.douban.com/doulist/162038586/","https://news.qq.com/rain/a/20250725A09JOL00","https://new.qq.com/rain/a/20250725A0991P00"],"created":1794629489,"id":"chatcmpl-3d1f6862-e224-4364-b08b-b92946a95946","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"保留\"原唱\"标识"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://m.douban.com/doulist/162038586/","https://news.qq.com/rain/a/20250725A09JOL00","https://new.qq.com/rain/a/20250725A0991P00"],"created":1794629489,"id":"chatcmpl-3d1f6862-e224-4364-b08b-b92946a95946","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"。网红"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://m.douban.com/doulist/162038586/","https://news.qq.com/rain/a/20250725A09JOL00","https://new.qq.com/rain/a/20250725A0991P00"],"created":1794629489,"id":"chatcmpl-3d1f6862-e224-4364-b08b-b92946a95946","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"\"旺仔"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://m.douban.com/doulist/162038586/","https://news.qq.com/rain/a/20250725A09JOL00","https://new.qq.com/rain/a/20250725A0991P00"],"created":1794629489,"id":"chatcmpl-3d1f6862-e224-4364-b08b-b92946a95946","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"小乔\"直播称\""},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://m.douban.com/doulist/162038586/","https://news.qq.com/rain/a/20250725A09JOL00","https://new.qq.com/rain/a/20250725A0991P00"],"created":1794629489,"id":"chatcmpl-3d1f6862-e224-4364-b08b-b92946a95946","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"原唱只有张碧"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://m.douban.com/doulist/162038586/","https://news.qq.com/rain/a/20250725A09JOL00","https://new.qq.com/rain/a/20250725A0991P00"],"created":1794629489,"id":"chatcmpl-3d1f6862-e224-4364-b08b-b92946a95946","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"晨\"，拒绝"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://m.douban.com/doulist/162038586/","https://news.qq.com/rain/a/20250725A09JOL00","https://new.qq.com/rain/a/20250725A0991P00"],"created":1794629489,"id":"chatcmpl-3d1f6862-e224-4364-b08b-b92946a95946","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"标注"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://m.douban.com/doulist/162038586/","https://news.qq.com/rain/a/20250725A09JOL00","https://new.qq.com/rain/a/20250725A0991P00"],"created":1794629489,"id":"chatcmpl-3d1f6862-e224-4364-b08b-b92946a95946","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"汪苏泷，引发"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://m.douban.com/doulist/162038586/","https://news.qq.com/rain/a/20250725A09JOL00","https://new.qq.com/rain/a/20250725A0991P00"],"created":1794629489,"id":"chatcmpl-3d1f6862-e224-4364-b08b-b92946a95946","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"粉丝争议。7月25"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://m.douban.com/doulist/162038586/","https://news.qq.com/rain/a/20250725A09JOL00","https://new.qq.com/rain/a/20250725A0991P00"],"created":1794629489,"id":"chatcmpl-3d1f6862-e224-4364-b08b-b92946a95946","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"日汪苏泷方"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://m.douban.com/doulist/162038586/","https://news.qq.com/rain/a/20250725A09JOL00","https://new.qq.com/rain/a/20250725A0991P00"],"created":1794629489,"id":"chatcmpl-3d1f6862-e224-4364-b08b-b92946a95946","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"收回《"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://m.douban.com/doulist/162038586/","https://news.qq.com/rain/a/20250725A09JOL00","https://new.qq.com/rain/a/20250725A0991P00"],"created":1794629489,"id":"chatcmpl-3d1f6862-e224-4364-b08b-b92946a95946","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"年轮》所有演唱"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://m.douban.com/doulist/162038586/","https://news.qq.com/rain/a/20250725A09JOL00","https://new.qq.com/rain/a/20250725A0991P00"],"created":1794629489,"id":"chatcmpl-3d1f6862-e224-4364-b08b-b92946a95946","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"授权，称争议"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://m.douban.com/doulist/162038586/","https://news.qq.com/rain/a/20250725A09JOL00","https://new.qq.com/rain/a/20250725A0991P00"],"created":1794629489,"id":"chatcmpl-3d1f6862-e224-4364-b08b-b92946a95946","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"源于博主不当言论，确认"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://m.douban.com/doulist/162038586/","https://news.qq.com/rain/a/20250725A09JOL00","https://new.qq.com/rain/a/20250725A0991P00"],"created":1794629489,"id":"chatcmpl-3d1f6862-e224-4364-b08b-b92946a95946","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"《梦幻诛"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://m.douban.com/doulist/162038586/","https://news.qq.com/rain/a/20250725A09JOL00","https://new.qq.com/rain/a/20250725A0991P00"],"created":1794629489,"id":"chatcmpl-3d1f6862-e224-4364-b08b-b92946a95946","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"仙》为双"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://m.douban.com/doulist/162038586/","https://news.qq.com/rain/a/20250725A09JOL00","https://new.qq.com/rain/a/20250725A0991P00"],"created":1794629489,"id":"chatcmpl-3d1f6862-e224-4364-b08b-b92946a95946","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"原唱。同日"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://m.douban.com/doulist/162038586/","https://news.qq.com/rain/a/20250725A09JOL00","https://new.qq.com/rain/a/20250725A0991P00"],"created":1794629489,"id":"chatcmpl-3d1f6862-e224-4364-b08b-b92946a95946","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"张碧晨工作室声明其为"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://m.douban.com/doulist/162038586/","https://news.qq.com/rain/a/20250725A09JOL00","https://new.qq.com/rain/a/20250725A0991P00"],"created":1794629489,"id":"chatcmpl-3d1f6862-e224-4364-b08b-b92946a95946","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"《年轮》\"唯一"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://m.douban.com/doulist/162038586/","https://news.qq.com/rain/a/20250725A09JOL00","https://new.qq.com/rain/a/20250725A0991P00"],"created":1794629489,"id":"chatcmpl-3d1f6862-e224-4364-b08b-b92946a95946","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"原唱\"，依据201"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://m.douban.com/doulist/162038586/","https://news.qq.com/rain/a/20250725A09JOL00","https://new.qq.com/rain/a/20250725A0991P00"],"created":1794629489,"id":"chatcmpl-3d1f6862-e224-4364-b08b-b92946a95946","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"5年6月15日"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://m.douban.com/doulist/162038586/","https://news.qq.com/rain/a/20250725A09JOL00","https://new.qq.com/rain/a/20250725A0991P00"],"created":1794629489,"id":"chatcmpl-3d1f6862-e224-4364-b08b-b92946a95946","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"首次公开发行时间"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://m.douban.com/doulist/162038586/","https://news.qq.com/rain/a/20250725A09JOL00","https://new.qq.com/rain/a/20250725A0991P00"],"created":1794629489,"id":"chatcmpl-3d1f6862-e224-4364-b08b-b92946a95946","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"及行业惯例，承认"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://m.douban.com/doulist/162038586/","https://news.qq.com/rain/a/20250725A09JOL00","https://new.qq.com/rain/a/20250725A0991P00"],"created":1794629489,"id":"chatcmpl-3d1f6862-e224-4364-b08b-b92946a95946","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"《梦幻诛仙》为"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://m.douban.com/doulist/162038586/","https://news.qq.com/rain/a/20250725A09JOL00","https://new.qq.com/rain/a/20250725A0991P00"],"created":1794629489,"id":"chatcmpl-3d1f6862-e224-4364-b08b-b92946a95946","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"双版本。\n"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://m.douban.com/doulist/162038586/","https://news.qq.com/rain/a/20250725A09JOL00","https://new.qq.com/rain/a/20250725A0991P00"],"created":1794629489,"id":"chatcmpl-3d1f6862-e224-4364-b08b-b92946a95946","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"- webpage"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://m.douban.com/doulist/162038586/","https://news.qq.com/rain/a/20250725A09JOL00","https://new.qq.com/rain/a/20250725A0991P00"],"created":1794629489,"id":"chatcmpl-3d1f6862-e224-4364-b08b-b92946a95946","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":" 5: 事件"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://m.douban.com/doulist/162038586/","https://news.qq.com/rain/a/20250725A09JOL00","https://new.qq.com/rain/a/20250725A0991P00"],"created":1794629489,"id":"chatcmpl-3d1f6862-e224-4364-b08b-b92946a95946","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"源于网红\"旺仔小"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://m.douban.com/doulist/162038586/","https://news.qq.com/rain/a/20250725A09JOL00","https://new.qq.com/rain/a/20250725A0991P00"],"created":1794629489,"id":"chatcmpl-3d1f6862-e224-4364-b08b-b92946a95946","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"乔\"数"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://m.douban.com/doulist/162038586/","https://news.qq.com/rain/a/20250725A09JOL00","https://new.qq.com/rain/a/20250725A0991P00"],"created":1794629489,"id":"chatcmpl-3d1f6862-e224-4364-b08b-b92946a95946","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"年前评论称《"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://m.douban.com/doulist/162038586/","https://news.qq.com/rain/a/20250725A09JOL00","https://new.qq.com/rain/a/20250725A0991P00"],"created":1794629489,"id":"chatcmpl-3d1f6862-e224-4364-b08b-b92946a95946","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"年轮》由汪苏"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://m.douban.com/doulist/162038586/","https://news.qq.com/rain/a/20250725A09JOL00","https://new.qq.com/rain/a/20250725A0991P00"],"created":1794629489,"id":"chatcmpl-3d1f6862-e224-4364-b08b-b92946a95946","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"泷创作，但"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://m.douban.com/doulist/162038586/","https://news.qq.com/rain/a/20250725A09JOL00","https://new.qq.com/rain/a/20250725A0991P00"],"created":1794629489,"id":"chatcmpl-3d1f6862-e224-4364-b08b-b92946a95946","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"原唱是张碧晨"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://m.douban.com/doulist/162038586/","https://news.qq.com/rain/a/20250725A09JOL00","https://new.qq.com/rain/a/20250725A0991P00"],"created":1794629489,"id":"chatcmpl-3d1f6862-e224-4364-b08b-b92946a95946","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"，\"我"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://m.douban.com/doulist/162038586/","https://news.qq.com/rain/a/20250725A09JOL00","https://new.qq.com/rain/a/20250725A0991P00"],"created":1794629489,"id":"chatcmpl-3d1f6862-e224-4364-b08b-b92946a95946","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"发一百遍《"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://m.douban.com/doulist/162038586/","https://news.qq.com/rain/a/20250725A09JOL00","https://new.qq.com/rain/a/20250725A0991P00"],"created":1794629489,"id":"chatcmpl-3d1f6862-e224-4364-b08b-b92946a95946","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"年轮》也只会写"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://m.douban.com/doulist/162038586/","https://news.qq.com/rain/a/20250725A09JOL00","https://new.qq.com/rain/a/20250725A0991P00"],"created":1794629489,"id":"chatcmpl-3d1f6862-e224-4364-b08b-b92946a95946","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"张碧晨原唱\"。"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://m.douban.com/doulist/162038586/","https://news.qq.com/rain/a/20250725A09JOL00","https://new.qq.com/rain/a/20250725A0991P00"],"created":1794629489,"id":"chatcmpl-3d1f6862-e224-4364-b08b-b92946a95946","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"7月22日话题"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://m.douban.com/doulist/162038586/","https://news.qq.com/rain/a/20250725A09JOL00","https://new.qq.com/rain/a/20250725A0991P00"],"created":1794629489,"id":"chatcmpl-3d1f6862-e224-4364-b08b-b92946a95946","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"登上热搜。\n- webpage "},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://m.douban.com/doulist/162038586/","https://news.qq.com/rain/a/20250725A09JOL00","https://new.qq.com/rain/a/20250725A0991P00"],"created":1794629489,"id":"chatcmpl-3d1f6862-e224-4364-b08b-b92946a95946","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"3: 豆瓣"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://m.douban.com/doulist/162038586/","https://news.qq.com/rain/a/20250725A09JOL00","https://new.qq.com/rain/a/20250725A0991P00"],"created":1794629489,"id":"chatcmpl-3d1f6862-e224-4364-b08b-b92946a95946","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"网友评论，倾向"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://m.douban.com/doulist/162038586/","https://news.qq.com/rain/a/20250725A09JOL00","https://new.qq.com/rain/a/20250725A0991P00"],"created":1794629489,"id":"chatcmpl-3d1f6862-e224-4364-b08b-b92946a95946","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"张碧晨原"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://m.douban.com/doulist/162038586/","https://news.qq.com/rain/a/20250725A09JOL00","https://new.qq.com/rain/a/20250725A0991P00"],"created":1794629489,"id":"chatcmpl-3d1f6862-e224-4364-b08b-b92946a95946","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"唱。\n\n需要注意：检索"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://m.douban.com/doulist/162038586/","https://news.qq.com/rain/a/20250725A09JOL00","https://new.qq.com/rain/a/20250725A0991P00"],"created":1794629489,"id":"chatcmpl-3d1f6862-e224-4364-b08b-b92946a95946","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"结果有限"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://m.douban.com/doulist/162038586/","https://news.qq.com/rain/a/20250725A09JOL00","https://new.qq.com/rain/a/20250725A0991P00"],"created":1794629489,"id":"chatcmpl-3d1f6862-e224-4364-b08b-b92946a95946","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"，主要是"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://m.douban.com/doulist/162038586/","https://news.qq.com/rain/a/20250725A09JOL00","https://new.qq.com/rain/a/20250725A0991P00"],"created":1794629489,"id":"chatcmpl-3d1f6862-e224-4364-b08b-b92946a95946","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"二手"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://m.douban.com/doulist/162038586/","https://news.qq.com/rain/a/20250725A09JOL00","https://new.qq.com/rain/a/20250725A0991P00"],"created":1794629489,"id":"chatcmpl-3d1f6862-e224-4364-b08b-b92946a95946","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"报道"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://m.douban.com/doulist/162038586/","https://news.qq.com/rain/a/20250725A09JOL00","https://new.qq.com/rain/a/20250725A0991P00"],"created":1794629489,"id":"chatcmpl-3d1f6862-e224-4364-b08b-b92946a95946","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"（"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://m.douban.com/doulist/162038586/","https://news.qq.com/rain/a/20250725A09JOL00","https://new.qq.com/rain/a/20250725A0991P00"],"created":1794629489,"id":"chatcmpl-3d1f6862-e224-4364-b08b-b92946a95946","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"腾讯"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://m.douban.com/doulist/162038586/","https://news.qq.com/rain/a/20250725A09JOL00","https://new.qq.com/rain/a/20250725A0991P00"],"created":1794629489,"id":"chatcmpl-3d1f6862-e224-4364-b08b-b92946a95946","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"新闻、豆瓣）。我应该"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://m.douban.com/doulist/162038586/","https://news.qq.com/rain/a/20250725A09JOL00","https://new.qq.com/rain/a/20250725A0991P00"],"created":1794629489,"id":"chatcmpl-3d1f6862-e224-4364-b08b-b92946a95946","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"基于这些资料"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://m.douban.com/doulist/162038586/","https://news.qq.com/rain/a/20250725A09JOL00","https://new.qq.com/rain/a/20250725A0991P00"],"created":1794629489,"id":"chatcmpl-3d1f6862-e224-4364-b08b-b92946a95946","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"回答，并明确指出"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://m.douban.com/doulist/162038586/","https://news.qq.com/rain/a/20250725A09JOL00","https://new.qq.com/rain/a/20250725A0991P00"],"created":1794629489,"id":"chatcmpl-3d1f6862-e224-4364-b08b-b92946a95946","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"资料"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://m.douban.com/doulist/162038586/","https://news.qq.com/rain/a/20250725A09JOL00","https://new.qq.com/rain/a/20250725A0991P00"],"created":1794629489,"id":"chatcmpl-3d1f6862-e224-4364-b08b-b92946a95946","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"不足"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://m.douban.com/doulist/162038586/","https://news.qq.com/rain/a/20250725A09JOL00","https://new.qq.com/rain/a/20250725A0991P00"],"created":1794629489,"id":"chatcmpl-3d1f6862-e224-4364-b08b-b92946a95946","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"的地方"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://m.douban.com/doulist/162038586/","https://news.qq.com/rain/a/20250725A09JOL00","https://new.qq.com/rain/a/20250725A0991P00"],"created":1794629489,"id":"chatcmpl-3d1f6862-e224-4364-b08b-b92946a95946","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"。需要"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://m.douban.com/doulist/162038586/","https://news.qq.com/rain/a/20250725A09JOL00","https://new.qq.com/rain/a/20250725A0991P00"],"created":1794629489,"id":"chatcmpl-3d1f6862-e224-4364-b08b-b92946a95946","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"区分事实"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://m.douban.com/doulist/162038586/","https://news.qq.com/rain/a/20250725A09JOL00","https://new.qq.com/rain/a/20250725A0991P00"],"created":1794629489,"id":"chatcmpl-3d1f6862-e224-4364-b08b-b92946a95946","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"与判断"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://m.douban.com/doulist/162038586/","https://news.qq.com/rain/a/20250725A09JOL00","https://new.qq.com/rain/a/20250725A0991P00"],"created":1794629489,"id":"chatcmpl-3d1f6862-e224-4364-b08b-b92946a95946","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"。\n\n回答"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://m.douban.com/doulist/162038586/","https://news.qq.com/rain/a/20250725A09JOL00","https://new.qq.com/rain/a/20250725A0991P00"],"created":1794629489,"id":"chatcmpl-3d1f6862-e224-4364-b08b-b92946a95946","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"结构：\n1. 直接"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://m.douban.com/doulist/162038586/","https://news.qq.com/rain/a/20250725A09JOL00","https://new.qq.com/rain/a/20250725A0991P00"],"created":1794629489,"id":"chatcmpl-3d1f6862-e224-4364-b08b-b92946a95946","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"回答：两"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://m.douban.com/doulist/162038586/","https://news.qq.com/rain/a/20250725A09JOL00","https://new.qq.com/rain/a/20250725A0991P00"],"created":1794629489,"id":"chatcmpl-3d1f6862-e224-4364-b08b-b92946a95946","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"件事同时发生，"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://m.douban.com/doulist/162038586/","https://news.qq.com/rain/a/20250725A09JOL00","https://new.qq.com/rain/a/20250725A0991P00"],"created":1794629489,"id":"chatcmpl-3d1f6862-e224-4364-b08b-b92946a95946","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"但性质"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://m.douban.com/doulist/162038586/","https://news.qq.com/rain/a/20250725A09JOL00","https://new.qq.com/rain/a/20250725A0991P00"],"created":1794629489,"id":"chatcmpl-3d1f6862-e224-4364-b08b-b92946a95946","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"不同——\""},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://m.douban.com/doulist/162038586/","https://news.qq.com/rain/a/20250725A09JOL00","https://new.qq.com/rain/a/20250725A0991P00"],"created":1794629489,"id":"chatcmpl-3d1f6862-e224-4364-b08b-b92946a95946","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"谁是"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://m.douban.com/doulist/162038586/","https://news.qq.com/rain/a/20250725A09JOL00","https://new.qq.com/rain/a/20250725A0991P00"],"created":1794629489,"id":"chatcmpl-3d1f6862-e224-4364-b08b-b92946a95946","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"原唱\"是名"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://m.douban.com/doulist/162038586/","https://news.qq.com/rain/a/20250725A09JOL00","https://new.qq.com/rain/a/20250725A0991P00"],"created":1794629489,"id":"chatcmpl-3d1f6862-e224-4364-b08b-b92946a95946","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"分/署名"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://m.douban.com/doulist/162038586/","https://news.qq.com/rain/a/20250725A09JOL00","https://new.qq.com/rain/a/20250725A0991P00"],"created":1794629489,"id":"chatcmpl-3d1f6862-e224-4364-b08b-b92946a95946","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"之争，\"谁"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://m.douban.com/doulist/162038586/","https://news.qq.com/rain/a/20250725A09JOL00","https://new.qq.com/rain/a/20250725A0991P00"],"created":1794629489,"id":"chatcmpl-3d1f6862-e224-4364-b08b-b92946a95946","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"还能唱"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://m.douban.com/doulist/162038586/","https://news.qq.com/rain/a/20250725A09JOL00","https://new.qq.com/rain/a/20250725A0991P00"],"created":1794629489,"id":"chatcmpl-3d1f6862-e224-4364-b08b-b92946a95946","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"\"是版权"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://m.douban.com/doulist/162038586/","https://news.qq.com/rain/a/20250725A09JOL00","https://new.qq.com/rain/a/20250725A0991P00"],"created":1794629489,"id":"chatcmpl-3d1f6862-e224-4364-b08b-b92946a95946","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"授权"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://m.douban.com/doulist/162038586/","https://news.qq.com/rain/a/20250725A09JOL00","https://new.qq.com/rain/a/20250725A0991P00"],"created":1794629489,"id":"chatcmpl-3d1f6862-e224-4364-b08b-b92946a95946","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"之争，"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://m.douban.com/doulist/162038586/","https://news.qq.com/rain/a/20250725A09JOL00","https://new.qq.com/rain/a/20250725A0991P00"],"created":1794629489,"id":"chatcmpl-3d1f6862-e224-4364-b08b-b92946a95946","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"后者"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://m.douban.com/doulist/162038586/","https://news.qq.com/rain/a/20250725A09JOL00","https://new.qq.com/rain/a/20250725A0991P00"],"created":1794629489,"id":"chatcmpl-3d1f6862-e224-4364-b08b-b92946a95946","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"是前者争议"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://m.douban.com/doulist/162038586/","https://news.qq.com/rain/a/20250725A09JOL00","https://new.qq.com/rain/a/20250725A0991P00"],"created":1794629489,"id":"chatcmpl-3d1f6862-e224-4364-b08b-b92946a95946","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"升级"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://m.douban.com/doulist/162038586/","https://news.qq.com/rain/a/20250725A09JOL00","https://new.qq.com/rain/a/20250725A0991P00"],"created":1794629489,"id":"chatcmpl-3d1f6862-e224-4364-b08b-b92946a95946","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"的结果"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://m.douban.com/doulist/162038586/","https://news.qq.com/rain/a/20250725A09JOL00","https://new.qq.com/rain/a/20250725A0991P00"],"created":1794629489,"id":"chatcmpl-3d1f6862-e224-4364-b08b-b92946a95946","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"。\n"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://m.douban.com/doulist/162038586/","https://news.qq.com/rain/a/20250725A09JOL00","https://new.qq.com/rain/a/20250725A0991P00"],"created":1794629489,"id":"chatcmpl-3d1f6862-e224-4364-b08b-b92946a95946","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"2. 争"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://m.douban.com/doulist/162038586/","https://news.qq.com/rain/a/20250725A09JOL00","https://new.qq.com/rain/a/20250725A0991P00"],"created":1794629489,"id":"chatcmpl-3d1f6862-e224-4364-b08b-b92946a95946","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"\""},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://m.douban.com/doulist/162038586/","https://news.qq.com/rain/a/20250725A09JOL00","https://new.qq.com/rain/a/20250725A0991P00"],"created":1794629489,"id":"chatcmpl-3d1f6862-e224-4364-b08b-b92946a95946","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"谁是原唱\"的起因"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://m.douban.com/doulist/162038586/","https://news.qq.com/rain/a/20250725A09JOL00","https://new.qq.com/rain/a/20250725A0991P00"],"created":1794629489,"id":"chatcmpl-3d1f6862-e224-4364-b08b-b92946a95946","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"：网红"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://m.douban.com/doulist/162038586/","https://news.qq.com/rain/a/20250725A09JOL00","https://new.qq.com/rain/a/20250725A0991P00"],"created":1794629489,"id":"chatcmpl-3d1f6862-e224-4364-b08b-b92946a95946","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"旺仔"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://m.douban.com/doulist/162038586/","https://news.qq.com/rain/a/20250725A09JOL00","https://new.qq.com/rain/a/20250725A0991P00"],"created":1794629489,"id":"chatcmpl-3d1f6862-e224-4364-b08b-b92946a95946","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"小乔"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://m.douban.com/doulist/162038586/","https://news.qq.com/rain/a/20250725A09JOL00","https://new.qq.com/rain/a/20250725A0991P00"],"created":1794629489,"id":"chatcmpl-3d1f6862-e224-4364-b08b-b92946a95946","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"言论，"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://m.douban.com/doulist/162038586/","https://news.qq.com/rain/a/20250725A09JOL00","https://new.qq.com/rain/a/20250725A0991P00"],"created":1794629489,"id":"chatcmpl-3d1f6862-e224-4364-b08b-b92946a95946","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"7月22日热搜"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://m.douban.com/doulist/162038586/","https://news.qq.com/rain/a/20250725A09JOL00","https://new.qq.com/rain/a/20250725A0991P00"],"created":1794629489,"id":"chatcmpl-3d1f6862-e224-4364-b08b-b92946a95946","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"。\n3. 平台标签"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://m.douban.com/doulist/162038586/","https://news.qq.com/rain/a/20250725A09JOL00","https://new.qq.com/rain/a/20250725A0991P00"],"created":1794629489,"id":"chatcmpl-3d1f6862-e224-4364-b08b-b92946a95946","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"变化：QQ音乐7"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://m.douban.com/doulist/162038586/","https://news.qq.com/rain/a/20250725A09JOL00","https://new.qq.com/rain/a/20250725A0991P00"],"created":1794629489,"id":"chatcmpl-3d1f6862-e224-4364-b08b-b92946a95946","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"月23日移除张碧"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://m.douban.com/doulist/162038586/","https://news.qq.com/rain/a/20250725A09JOL00","https://new.qq.com/rain/a/20250725A0991P00"],"created":1794629489,"id":"chatcmpl-3d1f6862-e224-4364-b08b-b92946a95946","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"晨版\"原唱\""},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://m.douban.com/doulist/162038586/","https://news.qq.com/rain/a/20250725A09JOL00","https://new.qq.com/rain/a/20250725A0991P00"],"created":1794629489,"id":"chatcmpl-3d1f6862-e224-4364-b08b-b92946a95946","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"标签。\n4. 汪"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://m.douban.com/doulist/162038586/","https://news.qq.com/rain/a/20250725A09JOL00","https://new.qq.com/rain/a/20250725A0991P00"],"created":1794629489,"id":"chatcmpl-3d1f6862-e224-4364-b08b-b92946a95946","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"苏泷方：7"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://m.douban.com/doulist/162038586/","https://news.qq.com/rain/a/20250725A09JOL00","https://new.qq.com/rain/a/20250725A0991P00"],"created":1794629489,"id":"chatcmpl-3d1f6862-e224-4364-b08b-b92946a95946","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"月25日收回《"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://m.douban.com/doulist/162038586/","https://news.qq.com/rain/a/20250725A09JOL00","https://new.qq.com/rain/a/20250725A0991P00"],"created":1794629489,"id":"chatcmpl-3d1f6862-e224-4364-b08b-b92946a95946","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"年轮"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://m.douban.com/doulist/162038586/","https://news.qq.com/rain/a/20250725A09JOL00","https://new.qq.com/rain/a/20250725A0991P00"],"created":1794629489,"id":"chatcmpl-3d1f6862-e224-4364-b08b-b92946a95946","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"》所有演唱授权，称"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://m.douban.com/doulist/162038586/","https://news.qq.com/rain/a/20250725A09JOL00","https://new.qq.com/rain/a/20250725A0991P00"],"created":1794629489,"id":"chatcmpl-3d1f6862-e224-4364-b08b-b92946a95946","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"争议源于博主"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://m.douban.com/doulist/162038586/","https://news.qq.com/rain/a/20250725A09JOL00","https://new.qq.com/rain/a/20250725A0991P00"],"created":1794629489,"id":"chatcmpl-3d1f6862-e224-4364-b08b-b92946a95946","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"不当言论，确认《梦幻"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://m.douban.com/doulist/162038586/","https://news.qq.com/rain/a/20250725A09JOL00","https://new.qq.com/rain/a/20250725A0991P00"],"created":1794629489,"id":"chatcmpl-3d1f6862-e224-4364-b08b-b92946a95946","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"诛"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://m.douban.com/doulist/162038586/","https://news.qq.com/rain/a/20250725A09JOL00","https://new.qq.com/rain/a/20250725A0991P00"],"created":1794629489,"id":"chatcmpl-3d1f6862-e224-4364-b08b-b92946a95946","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"仙》为双原唱"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://m.douban.com/doulist/162038586/","https://news.qq.com/rain/a/20250725A09JOL00","https://new.qq.com/rain/a/20250725A0991P00"],"created":1794629489,"id":"chatcmpl-3d1f6862-e224-4364-b08b-b92946a95946","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"。\n5. 张碧"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://m.douban.com/doulist/162038586/","https://news.qq.com/rain/a/20250725A09JOL00","https://new.qq.com/rain/a/20250725A0991P00"],"created":1794629489,"id":"chatcmpl-3d1f6862-e224-4364-b08b-b92946a95946","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"晨方：同日"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://m.douban.com/doulist/162038586/","https://news.qq.com/rain/a/20250725A09JOL00","https://new.qq.com/rain/a/20250725A0991P00"],"created":1794629489,"id":"chatcmpl-3d1f6862-e224-4364-b08b-b92946a95946","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"声明\""},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://m.douban.com/doulist/162038586/","https://news.qq.com/rain/a/20250725A09JOL00","https://new.qq.com/rain/a/20250725A0991P00"],"created":1794629489,"id":"chatcmpl-3d1f6862-e224-4364-b08b-b92946a95946","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"唯一原唱\"，依据201"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://m.douban.com/doulist/162038586/","https://news.qq.com/rain/a/20250725A09JOL00","https://new.qq.com/rain/a/20250725A0991P00"],"created":1794629489,"id":"chatcmpl-3d1f6862-e224-4364-b08b-b92946a95946","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"5年6月15日"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://m.douban.com/doulist/162038586/","https://news.qq.com/rain/a/20250725A09JOL00","https://new.qq.com/rain/a/20250725A0991P00"],"created":1794629489,"id":"chatcmpl-3d1f6862-e224-4364-b08b-b92946a95946","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"首次公开发行时间及行业"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://m.douban.com/doulist/162038586/","https://news.qq.com/rain/a/20250725A09JOL00","https://new.qq.com/rain/a/20250725A0991P00"],"created":1794629489,"id":"chatcmpl-3d1f6862-e224-4364-b08b-b92946a95946","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"惯例，承认《梦幻诛"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://m.douban.com/doulist/162038586/","https://news.qq.com/rain/a/20250725A09JOL00","https://new.qq.com/rain/a/20250725A0991P00"],"created":1794629489,"id":"chatcmpl-3d1f6862-e224-4364-b08b-b92946a95946","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"仙》双版本。\n6"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://m.douban.com/doulist/162038586/","https://news.qq.com/rain/a/20250725A09JOL00","https://new.qq.com/rain/a/20250725A0991P00"],"created":1794629489,"id":"chatcmpl-3d1f6862-e224-4364-b08b-b92946a95946","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":". 判断"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://m.douban.com/doulist/162038586/","https://news.qq.com/rain/a/20250725A09JOL00","https://new.qq.com/rain/a/20250725A0991P00"],"created":1794629489,"id":"chatcmpl-3d1f6862-e224-4364-b08b-b92946a95946","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"：从公开"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://m.douban.com/doulist/162038586/","https://news.qq.com/rain/a/20250725A09JOL00","https://new.qq.com/rain/a/20250725A0991P00"],"created":1794629489,"id":"chatcmpl-3d1f6862-e224-4364-b08b-b92946a95946","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"信息看，双方"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://m.douban.com/doulist/162038586/","https://news.qq.com/rain/a/20250725A09JOL00","https://new.qq.com/rain/a/20250725A0991P00"],"created":1794629489,"id":"chatcmpl-3d1f6862-e224-4364-b08b-b92946a95946","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"对"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://m.douban.com/doulist/162038586/","https://news.qq.com/rain/a/20250725A09JOL00","https://new.qq.com/rain/a/20250725A0991P00"],"created":1794629489,"id":"chatcmpl-3d1f6862-e224-4364-b08b-b92946a95946","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"《"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://m.douban.com/doulist/162038586/","https://news.qq.com/rain/a/20250725A09JOL00","https://new.qq.com/rain/a/20250725A0991P00"],"created":1794629489,"id":"chatcmpl-3d1f6862-e224-4364-b08b-b92946a95946","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"年轮》原"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://m.douban.com/doulist/162038586/","https://news.qq.com/rain/a/20250725A09JOL00","https://new.qq.com/rain/a/20250725A0991P00"],"created":1794629489,"id":"chatcmpl-3d1f6862-e224-4364-b08b-b92946a95946","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"唱定性"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://m.douban.com/doulist/162038586/","https://news.qq.com/rain/a/20250725A09JOL00","https://new.qq.com/rain/a/20250725A0991P00"],"created":1794629489,"id":"chatcmpl-3d1f6862-e224-4364-b08b-b92946a95946","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"完全"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://m.douban.com/doulist/162038586/","https://news.qq.com/rain/a/20250725A09JOL00","https://new.qq.com/rain/a/20250725A0991P00"],"created":1794629489,"id":"chatcmpl-3d1f6862-e224-4364-b08b-b92946a95946","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"对立；\""},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://m.douban.com/doulist/162038586/","https://news.qq.com/rain/a/20250725A09JOL00","https://new.qq.com/rain/a/20250725A0991P00"],"created":1794629489,"id":"chatcmpl-3d1f6862-e224-4364-b08b-b92946a95946","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"谁"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://m.douban.com/doulist/162038586/","https://news.qq.com/rain/a/20250725A09JOL00","https://new.qq.com/rain/a/20250725A0991P00"],"created":1794629489,"id":"chatcmpl-3d1f6862-e224-4364-b08b-b92946a95946","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"还能唱\"层面"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://m.douban.com/doulist/162038586/","https://news.qq.com/rain/a/20250725A09JOL00","https://new.qq.com/rain/a/20250725A0991P00"],"created":1794629489,"id":"chatcmpl-3d1f6862-e224-4364-b08b-b92946a95946","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"，"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://m.douban.com/doulist/162038586/","https://news.qq.com/rain/a/20250725A09JOL00","https://new.qq.com/rain/a/20250725A0991P00"],"created":1794629489,"id":"chatcmpl-3d1f6862-e224-4364-b08b-b92946a95946","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"汪苏泷作为"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://m.douban.com/doulist/162038586/","https://news.qq.com/rain/a/20250725A09JOL00","https://new.qq.com/rain/a/20250725A0991P00"],"created":1794629489,"id":"chatcmpl-3d1f6862-e224-4364-b08b-b92946a95946","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"词曲"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://m.douban.com/doulist/162038586/","https://news.qq.com/rain/a/20250725A09JOL00","https://new.qq.com/rain/a/20250725A0991P00"],"created":1794629489,"id":"chatcmpl-3d1f6862-e224-4364-b08b-b92946a95946","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"作者/"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://m.douban.com/doulist/162038586/","https://news.qq.com/rain/a/20250725A09JOL00","https://new.qq.com/rain/a/20250725A0991P00"],"created":1794629489,"id":"chatcmpl-3d1f6862-e224-4364-b08b-b92946a95946","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"版权方收回授权，意味着"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://m.douban.com/doulist/162038586/","https://news.qq.com/rain/a/20250725A09JOL00","https://new.qq.com/rain/a/20250725A0991P00"],"created":1794629489,"id":"chatcmpl-3d1f6862-e224-4364-b08b-b92946a95946","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"张碧晨方"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://m.douban.com/doulist/162038586/","https://news.qq.com/rain/a/20250725A09JOL00","https://new.qq.com/rain/a/20250725A0991P00"],"created":1794629489,"id":"chatcmpl-3d1f6862-e224-4364-b08b-b92946a95946","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"在"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://m.douban.com/doulist/162038586/","https://news.qq.com/rain/a/20250725A09JOL00","https://new.qq.com/rain/a/20250725A0991P00"],"created":1794629489,"id":"chatcmpl-3d1f6862-e224-4364-b08b-b92946a95946","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"商业演出"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://m.douban.com/doulist/162038586/","https://news.qq.com/rain/a/20250725A09JOL00","https://new.qq.com/rain/a/20250725A0991P00"],"created":1794629489,"id":"chatcmpl-3d1f6862-e224-4364-b08b-b92946a95946","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"等"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://m.douban.com/doulist/162038586/","https://news.qq.com/rain/a/20250725A09JOL00","https://new.qq.com/rain/a/20250725A0991P00"],"created":1794629489,"id":"chatcmpl-3d1f6862-e224-4364-b08b-b92946a95946","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"场景"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://m.douban.com/doulist/162038586/","https://news.qq.com/rain/a/20250725A09JOL00","https://new.qq.com/rain/a/20250725A0991P00"],"created":1794629489,"id":"chatcmpl-3d1f6862-e224-4364-b08b-b92946a95946","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"可能不能再"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://m.douban.com/doulist/162038586/","https://news.qq.com/rain/a/20250725A09JOL00","https://new.qq.com/rain/a/20250725A0991P00"],"created":1794629489,"id":"chatcmpl-3d1f6862-e224-4364-b08b-b92946a95946","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"唱——"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://m.douban.com/doulist/162038586/","https://news.qq.com/rain/a/20250725A09JOL00","https://new.qq.com/rain/a/20250725A0991P00"],"created":1794629489,"id":"chatcmpl-3d1f6862-e224-4364-b08b-b92946a95946","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"但这个"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://m.douban.com/doulist/162038586/","https://news.qq.com/rain/a/20250725A09JOL00","https://new.qq.com/rain/a/20250725A0991P00"],"created":1794629489,"id":"chatcmpl-3d1f6862-e224-4364-b08b-b92946a95946","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"具体"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://m.douban.com/doulist/162038586/","https://news.qq.com/rain/a/20250725A09JOL00","https://new.qq.com/rain/a/20250725A0991P00"],"created":1794629489,"id":"chatcmpl-3d1f6862-e224-4364-b08b-b92946a95946","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"影响"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://m.douban.com/doulist/162038586/","https://news.qq.com/rain/a/20250725A09JOL00","https://new.qq.com/rain/a/20250725A0991P00"],"created":1794629489,"id":"chatcmpl-3d1f6862-e224-4364-b08b-b92946a95946","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"检索"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://m.douban.com/doulist/162038586/","https://news.qq.com/rain/a/20250725A09JOL00","https://new.qq.com/rain/a/20250725A0991P00"],"created":1794629489,"id":"chatcmpl-3d1f6862-e224-4364-b08b-b92946a95946","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"资料"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://m.douban.com/doulist/162038586/","https://news.qq.com/rain/a/20250725A09JOL00","https://new.qq.com/rain/a/20250725A0991P00"],"created":1794629489,"id":"chatcmpl-3d1f6862-e224-4364-b08b-b92946a95946","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"没"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://m.douban.com/doulist/162038586/","https://news.qq.com/rain/a/20250725A09JOL00","https://new.qq.com/rain/a/20250725A0991P00"],"created":1794629489,"id":"chatcmpl-3d1f6862-e224-4364-b08b-b92946a95946","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"细"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://m.douban.com/doulist/162038586/","https://news.qq.com/rain/a/20250725A09JOL00","https://new.qq.com/rain/a/20250725A0991P00"],"created":1794629489,"id":"chatcmpl-3d1f6862-e224-4364-b08b-b92946a95946","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"说，需"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://m.douban.com/doulist/162038586/","https://news.qq.com/rain/a/20250725A09JOL00","https://new.qq.com/rain/a/20250725A0991P00"],"created":1794629489,"id":"chatcmpl-3d1f6862-e224-4364-b08b-b92946a95946","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"谨慎"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://m.douban.com/doulist/162038586/","https://news.qq.com/rain/a/20250725A09JOL00","https://new.qq.com/rain/a/20250725A0991P00"],"created":1794629489,"id":"chatcmpl-3d1f6862-e224-4364-b08b-b92946a95946","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"。\n"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://m.douban.com/doulist/162038586/","https://news.qq.com/rain/a/20250725A09JOL00","https://new.qq.com/rain/a/20250725A0991P00"],"created":1794629489,"id":"chatcmpl-3d1f6862-e224-4364-b08b-b92946a95946","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"7. 说明"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://m.douban.com/doulist/162038586/","https://news.qq.com/rain/a/20250725A09JOL00","https://new.qq.com/rain/a/20250725A0991P00"],"created":1794629489,"id":"chatcmpl-3d1f6862-e224-4364-b08b-b92946a95946","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"信息"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://m.douban.com/doulist/162038586/","https://news.qq.com/rain/a/20250725A09JOL00","https://new.qq.com/rain/a/20250725A0991P00"],"created":1794629489,"id":"chatcmpl-3d1f6862-e224-4364-b08b-b92946a95946","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"局限"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://m.douban.com/doulist/162038586/","https://news.qq.com/rain/a/20250725A09JOL00","https://new.qq.com/rain/a/20250725A0991P00"],"created":1794629489,"id":"chatcmpl-3d1f6862-e224-4364-b08b-b92946a95946","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"：检索到的"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://m.douban.com/doulist/162038586/","https://news.qq.com/rain/a/20250725A09JOL00","https://new.qq.com/rain/a/20250725A0991P00"],"created":1794629489,"id":"chatcmpl-3d1f6862-e224-4364-b08b-b92946a95946","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"多为二手"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://m.douban.com/doulist/162038586/","https://news.qq.com/rain/a/20250725A09JOL00","https://new.qq.com/rain/a/20250725A0991P00"],"created":1794629489,"id":"chatcmpl-3d1f6862-e224-4364-b08b-b92946a95946","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"报道，双方"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://m.douban.com/doulist/162038586/","https://news.qq.com/rain/a/20250725A09JOL00","https://new.qq.com/rain/a/20250725A0991P00"],"created":1794629489,"id":"chatcmpl-3d1f6862-e224-4364-b08b-b92946a95946","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"完整"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://m.douban.com/doulist/162038586/","https://news.qq.com/rain/a/20250725A09JOL00","https://new.qq.com/rain/a/20250725A0991P00"],"created":1794629489,"id":"chatcmpl-3d1f6862-e224-4364-b08b-b92946a95946","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"声明"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://m.douban.com/doulist/162038586/","https://news.qq.com/rain/a/20250725A09JOL00","https://new.qq.com/rain/a/20250725A0991P00"],"created":1794629489,"id":"chatcmpl-3d1f6862-e224-4364-b08b-b92946a95946","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"原文未见，"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://m.douban.com/doulist/162038586/","https://news.qq.com/rain/a/20250725A09JOL00","https://new.qq.com/rain/a/20250725A0991P00"],"created":1794629489,"id":"chatcmpl-3d1f6862-e224-4364-b08b-b92946a95946","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"时间"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://m.douban.com/doulist/162038586/","https://news.qq.com/rain/a/20250725A09JOL00","https://new.qq.com/rain/a/20250725A0991P00"],"created":1794629489,"id":"chatcmpl-3d1f6862-e224-4364-b08b-b92946a95946","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"线以"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://m.douban.com/doulist/162038586/","https://news.qq.com/rain/a/20250725A09JOL00","https://new.qq.com/rain/a/20250725A0991P00"],"created":1794629489,"id":"chatcmpl-3d1f6862-e224-4364-b08b-b92946a95946","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"2025年7月为主"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://m.douban.com/doulist/162038586/","https://news.qq.com/rain/a/20250725A09JOL00","https://new.qq.com/rain/a/20250725A0991P00"],"created":1794629489,"id":"chatcmpl-3d1f6862-e224-4364-b08b-b92946a95946","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"（注意："},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://m.douban.com/doulist/162038586/","https://news.qq.com/rain/a/20250725A09JOL00","https://new.qq.com/rain/a/20250725A0991P00"],"created":1794629489,"id":"chatcmpl-3d1f6862-e224-4364-b08b-b92946a95946","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"搜索结果说7"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://m.douban.com/doulist/162038586/","https://news.qq.com/rain/a/20250725A09JOL00","https://new.qq.com/rain/a/20250725A0991P00"],"created":1794629489,"id":"chatcmpl-3d1f6862-e224-4364-b08b-b92946a95946","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"月，"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://m.douban.com/doulist/162038586/","https://news.qq.com/rain/a/20250725A09JOL00","https://new.qq.com/rain/a/20250725A0991P00"],"created":1794629489,"id":"chatcmpl-3d1f6862-e224-4364-b08b-b92946a95946","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"未"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://m.douban.com/doulist/162038586/","https://news.qq.com/rain/a/20250725A09JOL00","https://new.qq.com/rain/a/20250725A0991P00"],"created":1794629489,"id":"chatcmpl-3d1f6862-e224-4364-b08b-b92946a95946","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"标年份；"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://m.douban.com/doulist/162038586/","https://news.qq.com/rain/a/20250725A09JOL00","https://new.qq.com/rain/a/20250725A0991P00"],"created":1794629489,"id":"chatcmpl-3d1f6862-e224-4364-b08b-b92946a95946","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"问题"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://m.douban.com/doulist/162038586/","https://news.qq.com/rain/a/20250725A09JOL00","https://new.qq.com/rain/a/20250725A0991P00"],"created":1794629489,"id":"chatcmpl-3d1f6862-e224-4364-b08b-b92946a95946","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"查询"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://m.douban.com/doulist/162038586/","https://news.qq.com/rain/a/20250725A09JOL00","https://new.qq.com/rain/a/20250725A0991P00"],"created":1794629489,"id":"chatcmpl-3d1f6862-e224-4364-b08b-b92946a95946","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"日期2026-11-"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://m.douban.com/doulist/162038586/","https://news.qq.com/rain/a/20250725A09JOL00","https://new.qq.com/rain/a/20250725A0991P00"],"created":1794629489,"id":"chatcmpl-3d1f6862-e224-4364-b08b-b92946a95946","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"14，事件"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://m.douban.com/doulist/162038586/","https://news.qq.com/rain/a/20250725A09JOL00","https://new.qq.com/rain/a/20250725A0991P00"],"created":1794629489,"id":"chatcmpl-3d1f6862-e224-4364-b08b-b92946a95946","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"应是2025年7"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://m.douban.com/doulist/162038586/","https://news.qq.com/rain/a/20250725A09JOL00","https://new.qq.com/rain/a/20250725A0991P00"],"created":1794629489,"id":"chatcmpl-3d1f6862-e224-4364-b08b-b92946a95946","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"月）。我不能确定年份"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://m.douban.com/doulist/162038586/","https://news.qq.com/rain/a/20250725A09JOL00","https://new.qq.com/rain/a/20250725A0991P00"],"created":1794629489,"id":"chatcmpl-3d1f6862-e224-4364-b08b-b92946a95946","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"，但可以说"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://m.douban.com/doulist/162038586/","https://news.qq.com/rain/a/20250725A09JOL00","https://new.qq.com/rain/a/20250725A0991P00"],"created":1794629489,"id":"chatcmpl-3d1f6862-e224-4364-b08b-b92946a95946","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"\"2025年7"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://m.douban.com/doulist/162038586/","https://news.qq.com/rain/a/20250725A09JOL00","https://new.qq.com/rain/a/20250725A0991P00"],"created":1794629489,"id":"chatcmpl-3d1f6862-e224-4364-b08b-b92946a95946","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"月\"？检索"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://m.douban.com/doulist/162038586/","https://news.qq.com/rain/a/20250725A09JOL00","https://new.qq.com/rain/a/20250725A0991P00"],"created":1794629489,"id":"chatcmpl-3d1f6862-e224-4364-b08b-b92946a95946","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"结果没"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://m.douban.com/doulist/162038586/","https://news.qq.com/rain/a/20250725A09JOL00","https://new.qq.com/rain/a/20250725A0991P00"],"created":1794629489,"id":"chatcmpl-3d1f6862-e224-4364-b08b-b92946a95946","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"写年份。谨慎表述为"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://m.douban.com/doulist/162038586/","https://news.qq.com/rain/a/20250725A09JOL00","https://new.qq.com/rain/a/20250725A0991P00"],"created":1794629489,"id":"chatcmpl-3d1f6862-e224-4364-b08b-b92946a95946","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"\"报道"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://m.douban.com/doulist/162038586/","https://news.qq.com/rain/a/20250725A09JOL00","https://new.qq.com/rain/a/20250725A0991P00"],"created":1794629489,"id":"chatcmpl-3d1f6862-e224-4364-b08b-b92946a95946","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"中的"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://m.douban.com/doulist/162038586/","https://news.qq.com/rain/a/20250725A09JOL00","https://new.qq.com/rain/a/20250725A0991P00"],"created":1794629489,"id":"chatcmpl-3d1f6862-e224-4364-b08b-b92946a95946","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"7月22-"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://m.douban.com/doulist/162038586/","https://news.qq.com/rain/a/20250725A09JOL00","https://new.qq.com/rain/a/20250725A0991P00"],"created":1794629489,"id":"chatcmpl-3d1f6862-e224-4364-b08b-b92946a95946","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"25日\"。实际上"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://m.douban.com/doulist/162038586/","https://news.qq.com/rain/a/20250725A09JOL00","https://new.qq.com/rain/a/20250725A0991P00"],"created":1794629489,"id":"chatcmpl-3d1f6862-e224-4364-b08b-b92946a95946","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"这个"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://m.douban.com/doulist/162038586/","https://news.qq.com/rain/a/20250725A09JOL00","https://new.qq.com/rain/a/20250725A0991P00"],"created":1794629489,"id":"chatcmpl-3d1f6862-e224-4364-b08b-b92946a95946","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"事件是2025年7"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://m.douban.com/doulist/162038586/","https://news.qq.com/rain/a/20250725A09JOL00","https://new.qq.com/rain/a/20250725A0991P00"],"created":1794629489,"id":"chatcmpl-3d1f6862-e224-4364-b08b-b92946a95946","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"月"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://m.douban.com/doulist/162038586/","https://news.qq.com/rain/a/20250725A09JOL00","https://new.qq.com/rain/a/20250725A0991P00"],"created":1794629489,"id":"chatcmpl-3d1f6862-e224-4364-b08b-b92946a95946","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"发生的"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://m.douban.com/doulist/162038586/","https://news.qq.com/rain/a/20250725A09JOL00","https://new.qq.com/rain/a/20250725A0991P00"],"created":1794629489,"id":"chatcmpl-3d1f6862-e224-4364-b08b-b92946a95946","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"。但"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://m.douban.com/doulist/162038586/","https://news.qq.com/rain/a/20250725A09JOL00","https://new.qq.com/rain/a/20250725A0991P00"],"created":1794629489,"id":"chatcmpl-3d1f6862-e224-4364-b08b-b92946a95946","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"资料"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://m.douban.com/doulist/162038586/","https://news.qq.com/rain/a/20250725A09JOL00","https://new.qq.com/rain/a/20250725A0991P00"],"created":1794629489,"id":"chatcmpl-3d1f6862-e224-4364-b08b-b92946a95946","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"未"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://m.douban.com/doulist/162038586/","https://news.qq.com/rain/a/20250725A09JOL00","https://new.qq.com/rain/a/20250725A0991P00"],"created":1794629489,"id":"chatcmpl-3d1f6862-e224-4364-b08b-b92946a95946","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"标"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://m.douban.com/doulist/162038586/","https://news.qq.com/rain/a/20250725A09JOL00","https://new.qq.com/rain/a/20250725A0991P00"],"created":1794629489,"id":"chatcmpl-3d1f6862-e224-4364-b08b-b92946a95946","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"年份，我可以不"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://m.douban.com/doulist/162038586/","https://news.qq.com/rain/a/20250725A09JOL00","https://new.qq.com/rain/a/20250725A0991P00"],"created":1794629489,"id":"chatcmpl-3d1f6862-e224-4364-b08b-b92946a95946","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"写年份或"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://m.douban.com/doulist/162038586/","https://news.qq.com/rain/a/20250725A09JOL00","https://new.qq.com/rain/a/20250725A0991P00"],"created":1794629489,"id":"chatcmpl-3d1f6862-e224-4364-b08b-b92946a95946","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"写\"检索"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://m.douban.com/doulist/162038586/","https://news.qq.com/rain/a/20250725A09JOL00","https://new.qq.com/rain/a/20250725A0991P00"],"created":1794629489,"id":"chatcmpl-3d1f6862-e224-4364-b08b-b92946a95946","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"资料"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://m.douban.com/doulist/162038586/","https://news.qq.com/rain/a/20250725A09JOL00","https://new.qq.com/rain/a/20250725A0991P00"],"created":1794629489,"id":"chatcmpl-3d1f6862-e224-4364-b08b-b92946a95946","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"中的7月\""},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://m.douban.com/doulist/162038586/","https://news.qq.com/rain/a/20250725A09JOL00","https://new.qq.com/rain/a/20250725A0991P00"],"created":1794629489,"id":"chatcmpl-3d1f6862-e224-4364-b08b-b92946a95946","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"。\n\n需要引用"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://m.douban.com/doulist/162038586/","https://news.qq.com/rain/a/20250725A09JOL00","https://new.qq.com/rain/a/20250725A0991P00"],"created":1794629489,"id":"chatcmpl-3d1f6862-e224-4364-b08b-b92946a95946","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"格式 ["},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://m.douban.com/doulist/162038586/","https://news.qq.com/rain/a/20250725A09JOL00","https://new.qq.com/rain/a/20250725A0991P00"],"created":1794629489,"id":"chatcmpl-3d1f6862-e224-4364-b08b-b92946a95946","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"4"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://m.douban.com/doulist/162038586/","https://news.qq.com/rain/a/20250725A09JOL00","https://new.qq.com/rain/a/20250725A0991P00"],"created":1794629489,"id":"chatcmpl-3d1f6862-e224-4364-b08b-b92946a95946","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"] [5"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://m.douban.com/doulist/162038586/","https://news.qq.com/rain/a/20250725A09JOL00","https://new.qq.com/rain/a/20250725A0991P00"],"created":1794629489,"id":"chatcmpl-3d1f6862-e224-4364-b08b-b92946a95946","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"] ["},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://m.douban.com/doulist/162038586/","https://news.qq.com/rain/a/20250725A09JOL00","https://new.qq.com/rain/a/20250725A0991P00"],"created":1794629489,"id":"chatcmpl-3d1f6862-e224-4364-b08b-b92946a95946","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"3]。"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://m.douban.com/doulist/162038586/","https://news.qq.com/rain/a/20250725A09JOL00","https://new.qq.com/rain/a/20250725A0991P00"],"created":1794629489,"id":"chatcmpl-3d1f6862-e224-4364-b08b-b92946a95946","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"注意不要"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://m.douban.com/doulist/162038586/","https://news.qq.com/rain/a/20250725A09JOL00","https://new.qq.com/rain/a/20250725A0991P00"],"created":1794629489,"id":"chatcmpl-3d1f6862-e224-4364-b08b-b92946a95946","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"集中"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://m.douban.com/doulist/162038586/","https://news.qq.com/rain/a/20250725A09JOL00","https://new.qq.com/rain/a/20250725A0991P00"],"created":1794629489,"id":"chatcmpl-3d1f6862-e224-4364-b08b-b92946a95946","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"引用。\n\n写作"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://m.douban.com/doulist/162038586/","https://news.qq.com/rain/a/20250725A09JOL00","https://new.qq.com/rain/a/20250725A0991P00"],"created":1794629489,"id":"chatcmpl-3d1f6862-e224-4364-b08b-b92946a95946","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"要自然"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://m.douban.com/doulist/162038586/","https://news.qq.com/rain/a/20250725A09JOL00","https://new.qq.com/rain/a/20250725A0991P00"],"created":1794629489,"id":"chatcmpl-3d1f6862-e224-4364-b08b-b92946a95946","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"中文，结构化"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://m.douban.com/doulist/162038586/","https://news.qq.com/rain/a/20250725A09JOL00","https://new.qq.com/rain/a/20250725A0991P00"],"created":1794629489,"id":"chatcmpl-3d1f6862-e224-4364-b08b-b92946a95946","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"。字数"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://m.douban.com/doulist/162038586/","https://news.qq.com/rain/a/20250725A09JOL00","https://new.qq.com/rain/a/20250725A0991P00"],"created":1794629489,"id":"chatcmpl-3d1f6862-e224-4364-b08b-b92946a95946","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"适中。"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://m.douban.com/doulist/162038586/","https://news.qq.com/rain/a/20250725A09JOL00","https://new.qq.com/rain/a/20250725A0991P00"],"created":1794629489,"id":"chatcmpl-3d1f6862-e224-4364-b08b-b92946a95946","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"**"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://m.douban.com/doulist/162038586/","https://news.qq.com/rain/a/20250725A09JOL00","https://new.qq.com/rain/a/20250725A0991P00"],"created":1794629489,"id":"chatcmpl-3d1f6862-e224-4364-b08b-b92946a95946","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"简要"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://m.douban.com/doulist/162038586/","https://news.qq.com/rain/a/20250725A09JOL00","https://new.qq.com/rain/a/20250725A0991P00"],"created":1794629489,"id":"chatcmpl-3d1f6862-e224-4364-b08b-b92946a95946","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"回答：这场争议表面"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://m.douban.com/doulist/162038586/","https://news.qq.com/rain/a/20250725A09JOL00","https://new.qq.com/rain/a/20250725A0991P00"],"created":1794629489,"id":"chatcmpl-3d1f6862-e224-4364-b08b-b92946a95946","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"在"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://m.douban.com/doulist/162038586/","https://news.qq.com/rain/a/20250725A09JOL00","https://new.qq.com/rain/a/20250725A0991P00"],"created":1794629489,"id":"chatcmpl-3d1f6862-e224-4364-b08b-b92946a95946","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"争“谁是"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://m.douban.com/doulist/162038586/","https://news.qq.com/rain/a/20250725A09JOL00","https://new.qq.com/rain/a/20250725A0991P00"],"created":1794629489,"id":"chatcmpl-3d1f6862-e224-4364-b08b-b92946a95946","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"原唱”，实质上是两"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://m.douban.com/doulist/162038586/","https://news.qq.com/rain/a/20250725A09JOL00","https://new.qq.com/rain/a/20250725A0991P00"],"created":1794629489,"id":"chatcmpl-3d1f6862-e224-4364-b08b-b92946a95946","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"件事叠"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://m.douban.com/doulist/162038586/","https://news.qq.com/rain/a/20250725A09JOL00","https://new.qq.com/rain/a/20250725A0991P00"],"created":1794629489,"id":"chatcmpl-3d1f6862-e224-4364-b08b-b92946a95946","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"在一起：一是《年"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://m.douban.com/doulist/162038586/","https://news.qq.com/rain/a/20250725A09JOL00","https://new.qq.com/rain/a/20250725A0991P00"],"created":1794629489,"id":"chatcmpl-3d1f6862-e224-4364-b08b-b92946a95946","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"轮》的“"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://m.douban.com/doulist/162038586/","https://news.qq.com/rain/a/20250725A09JOL00","https://new.qq.com/rain/a/20250725A0991P00"],"created":1794629489,"id":"chatcmpl-3d1f6862-e224-4364-b08b-b92946a95946","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"原唱”名"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://m.douban.com/doulist/162038586/","https://news.qq.com/rain/a/20250725A09JOL00","https://new.qq.com/rain/a/20250725A0991P00"],"created":1794629489,"id":"chatcmpl-3d1f6862-e224-4364-b08b-b92946a95946","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"分和平台"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://m.douban.com/doulist/162038586/","https://news.qq.com/rain/a/20250725A09JOL00","https://new.qq.com/rain/a/20250725A0991P00"],"created":1794629489,"id":"chatcmpl-3d1f6862-e224-4364-b08b-b92946a95946","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"署名，"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://m.douban.com/doulist/162038586/","https://news.qq.com/rain/a/20250725A09JOL00","https://new.qq.com/rain/a/20250725A0991P00"],"created":1794629489,"id":"chatcmpl-3d1f6862-e224-4364-b08b-b92946a95946","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"二是版权方收回"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://m.douban.com/doulist/162038586/","https://news.qq.com/rain/a/20250725A09JOL00","https://new.qq.com/rain/a/20250725A0991P00"],"created":1794629489,"id":"chatcmpl-3d1f6862-e224-4364-b08b-b92946a95946","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"授权后"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://m.douban.com/doulist/162038586/","https://news.qq.com/rain/a/20250725A09JOL00","https://new.qq.com/rain/a/20250725A0991P00"],"created":1794629489,"id":"chatcmpl-3d1f6862-e224-4364-b08b-b92946a95946","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"“谁还能唱”。前者"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://m.douban.com/doulist/162038586/","https://news.qq.com/rain/a/20250725A09JOL00","https://new.qq.com/rain/a/20250725A0991P00"],"created":1794629489,"id":"chatcmpl-3d1f6862-e224-4364-b08b-b92946a95946","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"是舆论"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://m.douban.com/doulist/162038586/","https://news.qq.com/rain/a/20250725A09JOL00","https://new.qq.com/rain/a/20250725A0991P00"],"created":1794629489,"id":"chatcmpl-3d1f6862-e224-4364-b08b-b92946a95946","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"和"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://m.douban.com/doulist/162038586/","https://news.qq.com/rain/a/20250725A09JOL00","https://new.qq.com/rain/a/20250725A0991P00"],"created":1794629489,"id":"chatcmpl-3d1f6862-e224-4364-b08b-b92946a95946","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"标签"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://m.douban.com/doulist/162038586/","https://news.qq.com/rain/a/20250725A09JOL00","https://new.qq.com/rain/a/20250725A0991P00"],"created":1794629489,"id":"chatcmpl-3d1f6862-e224-4364-b08b-b92946a95946","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"之争，后者是授权"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://m.douban.com/doulist/162038586/","https://news.qq.com/rain/a/20250725A09JOL00","https://new.qq.com/rain/a/20250725A0991P00"],"created":1794629489,"id":"chatcmpl-3d1f6862-e224-4364-b08b-b92946a95946","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"与商业"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://m.douban.com/doulist/162038586/","https://news.qq.com/rain/a/20250725A09JOL00","https://new.qq.com/rain/a/20250725A0991P00"],"created":1794629489,"id":"chatcmpl-3d1f6862-e224-4364-b08b-b92946a95946","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"演出"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://m.douban.com/doulist/162038586/","https://news.qq.com/rain/a/20250725A09JOL00","https://new.qq.com/rain/a/20250725A0991P00"],"created":1794629489,"id":"chatcmpl-3d1f6862-e224-4364-b08b-b92946a95946","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"层面"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://m.douban.com/doulist/162038586/","https://news.qq.com/rain/a/20250725A09JOL00","https://new.qq.com/rain/a/20250725A0991P00"],"created":1794629489,"id":"chatcmpl-3d1f6862-e224-4364-b08b-b92946a95946","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"之争，而后者"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://m.douban.com/doulist/162038586/","https://news.qq.com/rain/a/20250725A09JOL00","https://new.qq.com/rain/a/20250725A0991P00"],"created":1794629489,"id":"chatcmpl-3d1f6862-e224-4364-b08b-b92946a95946","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"是前者的升级结果"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://m.douban.com/doulist/162038586/","https://news.qq.com/rain/a/20250725A09JOL00","https://new.qq.com/rain/a/20250725A0991P00"],"created":1794629489,"id":"chatcmpl-3d1f6862-e224-4364-b08b-b92946a95946","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"。**\n\n### 一、争议"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://m.douban.com/doulist/162038586/","https://news.qq.com/rain/a/20250725A09JOL00","https://new.qq.com/rain/a/20250725A0991P00"],"created":1794629489,"id":"chatcmpl-3d1f6862-e224-4364-b08b-b92946a95946","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"的起点：争"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://m.douban.com/doulist/162038586/","https://news.qq.com/rain/a/20250725A09JOL00","https://new.qq.com/rain/a/20250725A0991P00"],"created":1794629489,"id":"chatcmpl-3d1f6862-e224-4364-b08b-b92946a95946","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"的是“原"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://m.douban.com/doulist/162038586/","https://news.qq.com/rain/a/20250725A09JOL00","https://new.qq.com/rain/a/20250725A0991P00"],"created":1794629489,"id":"chatcmpl-3d1f6862-e224-4364-b08b-b92946a95946","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"唱”名"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://m.douban.com/doulist/162038586/","https://news.qq.com/rain/a/20250725A09JOL00","https://new.qq.com/rain/a/20250725A0991P00"],"created":1794629489,"id":"chatcmpl-3d1f6862-e224-4364-b08b-b92946a95946","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"分\n\n起因是网红“"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://m.douban.com/doulist/162038586/","https://news.qq.com/rain/a/20250725A09JOL00","https://new.qq.com/rain/a/20250725A0991P00"],"created":1794629489,"id":"chatcmpl-3d1f6862-e224-4364-b08b-b92946a95946","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"旺仔"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://m.douban.com/doulist/162038586/","https://news.qq.com/rain/a/20250725A09JOL00","https://new.qq.com/rain/a/20250725A0991P00"],"created":1794629489,"id":"chatcmpl-3d1f6862-e224-4364-b08b-b92946a95946","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"小乔"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://m.douban.com/doulist/162038586/","https://news.qq.com/rain/a/20250725A09JOL00","https://new.qq.com/rain/a/20250725A0991P00"],"created":1794629489,"id":"chatcmpl-3d1f6862-e224-4364-b08b-b92946a95946","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"”被"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://m.douban.com/doulist/162038586/","https://news.qq.com/rain/a/20250725A09JOL00","https://new.qq.com/rain/a/20250725A0991P00"],"created":1794629489,"id":"chatcmpl-3d1f6862-e224-4364-b08b-b92946a95946","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"翻"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://m.douban.com/doulist/162038586/","https://news.qq.com/rain/a/20250725A09JOL00","https://new.qq.com/rain/a/20250725A0991P00"],"created":1794629489,"id":"chatcmpl-3d1f6862-e224-4364-b08b-b92946a95946","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"出数"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://m.douban.com/doulist/162038586/","https://news.qq.com/rain/a/20250725A09JOL00","https://new.qq.com/rain/a/20250725A0991P00"],"created":1794629489,"id":"chatcmpl-3d1f6862-e224-4364-b08b-b92946a95946","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"年前的言论"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://m.douban.com/doulist/162038586/","https://news.qq.com/rain/a/20250725A09JOL00","https://new.qq.com/rain/a/20250725A0991P00"],"created":1794629489,"id":"chatcmpl-3d1f6862-e224-4364-b08b-b92946a95946","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"："},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://m.douban.com/doulist/162038586/","https://news.qq.com/rain/a/20250725A09JOL00","https://new.qq.com/rain/a/20250725A0991P00"],"created":1794629489,"id":"chatcmpl-3d1f6862-e224-4364-b08b-b92946a95946","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"她称《年轮》"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://m.douban.com/doulist/162038586/","https://news.qq.com/rain/a/20250725A09JOL00","https://new.qq.com/rain/a/20250725A0991P00"],"created":1794629489,"id":"chatcmpl-3d1f6862-e224-4364-b08b-b92946a95946","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"由汪苏泷创作"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://m.douban.com/doulist/162038586/","https://news.qq.com/rain/a/20250725A09JOL00","https://new.qq.com/rain/a/20250725A0991P00"],"created":1794629489,"id":"chatcmpl-3d1f6862-e224-4364-b08b-b92946a95946","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"，但原"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://m.douban.com/doulist/162038586/","https://news.qq.com/rain/a/20250725A09JOL00","https://new.qq.com/rain/a/20250725A0991P00"],"created":1794629489,"id":"chatcmpl-3d1f6862-e224-4364-b08b-b92946a95946","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"唱是张碧"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://m.douban.com/doulist/162038586/","https://news.qq.com/rain/a/20250725A09JOL00","https://new.qq.com/rain/a/20250725A0991P00"],"created":1794629489,"id":"chatcmpl-3d1f6862-e224-4364-b08b-b92946a95946","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"晨，并表示"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://m.douban.com/doulist/162038586/","https://news.qq.com/rain/a/20250725A09JOL00","https://new.qq.com/rain/a/20250725A0991P00"],"created":1794629489,"id":"chatcmpl-3d1f6862-e224-4364-b08b-b92946a95946","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"“我发"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://m.douban.com/doulist/162038586/","https://news.qq.com/rain/a/20250725A09JOL00","https://new.qq.com/rain/a/20250725A0991P00"],"created":1794629489,"id":"chatcmpl-3d1f6862-e224-4364-b08b-b92946a95946","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"一百遍《年"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://m.douban.com/doulist/162038586/","https://news.qq.com/rain/a/20250725A09JOL00","https://new.qq.com/rain/a/20250725A0991P00"],"created":1794629489,"id":"chatcmpl-3d1f6862-e224-4364-b08b-b92946a95946","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"轮》也只会写"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://m.douban.com/doulist/162038586/","https://news.qq.com/rain/a/20250725A09JOL00","https://new.qq.com/rain/a/20250725A0991P00"],"created":1794629489,"id":"chatcmpl-3d1f6862-e224-4364-b08b-b92946a95946","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"张碧晨原唱”。"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://m.douban.com/doulist/162038586/","https://news.qq.com/rain/a/20250725A09JOL00","https://new.qq.com/rain/a/20250725A0991P00"],"created":1794629489,"id":"chatcmpl-3d1f6862-e224-4364-b08b-b92946a95946","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"202"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://m.douban.com/doulist/162038586/","https://news.qq.com/rain/a/20250725A09JOL00","https://new.qq.com/rain/a/20250725A0991P00"],"created":1794629489,"id":"chatcmpl-3d1f6862-e224-4364-b08b-b92946a95946","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"5年7月22日"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://m.douban.com/doulist/162038586/","https://news.qq.com/rain/a/20250725A09JOL00","https://new.qq.com/rain/a/20250725A0991P00"],"created":1794629489,"id":"chatcmpl-3d1f6862-e224-4364-b08b-b92946a95946","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"，“旺"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://m.douban.com/doulist/162038586/","https://news.qq.com/rain/a/20250725A09JOL00","https://new.qq.com/rain/a/20250725A0991P00"],"created":1794629489,"id":"chatcmpl-3d1f6862-e224-4364-b08b-b92946a95946","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"仔小乔说《年"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://m.douban.com/doulist/162038586/","https://news.qq.com/rain/a/20250725A09JOL00","https://new.qq.com/rain/a/20250725A0991P00"],"created":1794629489,"id":"chatcmpl-3d1f6862-e224-4364-b08b-b92946a95946","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"轮》原唱不是汪"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://m.douban.com/doulist/162038586/","https://news.qq.com/rain/a/20250725A09JOL00","https://new.qq.com/rain/a/20250725A0991P00"],"created":1794629489,"id":"chatcmpl-3d1f6862-e224-4364-b08b-b92946a95946","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"苏泷”登上"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://m.douban.com/doulist/162038586/","https://news.qq.com/rain/a/20250725A09JOL00","https://new.qq.com/rain/a/20250725A0991P00"],"created":1794629489,"id":"chatcmpl-3d1f6862-e224-4364-b08b-b92946a95946","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"热搜，双方"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://m.douban.com/doulist/162038586/","https://news.qq.com/rain/a/20250725A09JOL00","https://new.qq.com/rain/a/20250725A0991P00"],"created":1794629489,"id":"chatcmpl-3d1f6862-e224-4364-b08b-b92946a95946","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"粉丝随即就"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://m.douban.com/doulist/162038586/","https://news.qq.com/rain/a/20250725A09JOL00","https://new.qq.com/rain/a/20250725A0991P00"],"created":1794629489,"id":"chatcmpl-3d1f6862-e224-4364-b08b-b92946a95946","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"“唯一"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://m.douban.com/doulist/162038586/","https://news.qq.com/rain/a/20250725A09JOL00","https://new.qq.com/rain/a/20250725A0991P00"],"created":1794629489,"id":"chatcmpl-3d1f6862-e224-4364-b08b-b92946a95946","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"原唱”还是"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://m.douban.com/doulist/162038586/","https://news.qq.com/rain/a/20250725A09JOL00","https://new.qq.com/rain/a/20250725A0991P00"],"created":1794629489,"id":"chatcmpl-3d1f6862-e224-4364-b08b-b92946a95946","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"“双原唱"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://m.douban.com/doulist/162038586/","https://news.qq.com/rain/a/20250725A09JOL00","https://new.qq.com/rain/a/20250725A0991P00"],"created":1794629489,"id":"chatcmpl-3d1f6862-e224-4364-b08b-b92946a95946","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"”激烈"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://m.douban.com/doulist/162038586/","https://news.qq.com/rain/a/20250725A09JOL00","https://new.qq.com/rain/a/20250725A0991P00"],"created":1794629489,"id":"chatcmpl-3d1f6862-e224-4364-b08b-b92946a95946","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"争论["},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://m.douban.com/doulist/162038586/","https://news.qq.com/rain/a/20250725A09JOL00","https://new.qq.com/rain/a/20250725A0991P00"],"created":1794629489,"id":"chatcmpl-3d1f6862-e224-4364-b08b-b92946a95946","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"5]。\n\n紧接着"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://m.douban.com/doulist/162038586/","https://news.qq.com/rain/a/20250725A09JOL00","https://new.qq.com/rain/a/20250725A0991P00"],"created":1794629489,"id":"chatcmpl-3d1f6862-e224-4364-b08b-b92946a95946","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"，平台标签"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://m.douban.com/doulist/162038586/","https://news.qq.com/rain/a/20250725A09JOL00","https://new.qq.com/rain/a/20250725A0991P00"],"created":1794629489,"id":"chatcmpl-3d1f6862-e224-4364-b08b-b92946a95946","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"也"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://m.douban.com/doulist/162038586/","https://news.qq.com/rain/a/20250725A09JOL00","https://new.qq.com/rain/a/20250725A0991P00"],"created":1794629489,"id":"chatcmpl-3d1f6862-e224-4364-b08b-b92946a95946","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"出现"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://m.douban.com/doulist/162038586/","https://news.qq.com/rain/a/20250725A09JOL00","https://new.qq.com/rain/a/20250725A0991P00"],"created":1794629489,"id":"chatcmpl-3d1f6862-e224-4364-b08b-b92946a95946","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"变动"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://m.douban.com/doulist/162038586/","https://news.qq.com/rain/a/20250725A09JOL00","https://new.qq.com/rain/a/20250725A0991P00"],"created":1794629489,"id":"chatcmpl-3d1f6862-e224-4364-b08b-b92946a95946","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"：7月23日，"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://m.douban.com/doulist/162038586/","https://news.qq.com/rain/a/20250725A09JOL00","https://new.qq.com/rain/a/20250725A0991P00"],"created":1794629489,"id":"chatcmpl-3d1f6862-e224-4364-b08b-b92946a95946","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"QQ音乐移"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://m.douban.com/doulist/162038586/","https://news.qq.com/rain/a/20250725A09JOL00","https://new.qq.com/rain/a/20250725A0991P00"],"created":1794629489,"id":"chatcmpl-3d1f6862-e224-4364-b08b-b92946a95946","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"除了张碧晨版《"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://m.douban.com/doulist/162038586/","https://news.qq.com/rain/a/20250725A09JOL00","https://new.qq.com/rain/a/20250725A0991P00"],"created":1794629489,"id":"chatcmpl-3d1f6862-e224-4364-b08b-b92946a95946","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"年轮》的“原"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://m.douban.com/doulist/162038586/","https://news.qq.com/rain/a/20250725A09JOL00","https://new.qq.com/rain/a/20250725A0991P00"],"created":1794629489,"id":"chatcmpl-3d1f6862-e224-4364-b08b-b92946a95946","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"唱”标签，只标注"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://m.douban.com/doulist/162038586/","https://news.qq.com/rain/a/20250725A09JOL00","https://new.qq.com/rain/a/20250725A0991P00"],"created":1794629489,"id":"chatcmpl-3d1f6862-e224-4364-b08b-b92946a95946","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"“演唱者”，"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://m.douban.com/doulist/162038586/","https://news.qq.com/rain/a/20250725A09JOL00","https://new.qq.com/rain/a/20250725A0991P00"],"created":1794629489,"id":"chatcmpl-3d1f6862-e224-4364-b08b-b92946a95946","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"而汪苏"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://m.douban.com/doulist/162038586/","https://news.qq.com/rain/a/20250725A09JOL00","https://new.qq.com/rain/a/20250725A0991P00"],"created":1794629489,"id":"chatcmpl-3d1f6862-e224-4364-b08b-b92946a95946","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"泷版本"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://m.douban.com/doulist/162038586/","https://news.qq.com/rain/a/20250725A09JOL00","https://new.qq.com/rain/a/20250725A0991P00"],"created":1794629489,"id":"chatcmpl-3d1f6862-e224-4364-b08b-b92946a95946","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"仍保留“原唱”"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://m.douban.com/doulist/162038586/","https://news.qq.com/rain/a/20250725A09JOL00","https://new.qq.com/rain/a/20250725A0991P00"],"created":1794629489,"id":"chatcmpl-3d1f6862-e224-4364-b08b-b92946a95946","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"标识[4"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://m.douban.com/doulist/162038586/","https://news.qq.com/rain/a/20250725A09JOL00","https://new.qq.com/rain/a/20250725A0991P00"],"created":1794629489,"id":"chatcmpl-3d1f6862-e224-4364-b08b-b92946a95946","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"]。这一步"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://m.douban.com/doulist/162038586/","https://news.qq.com/rain/a/20250725A09JOL00","https://new.qq.com/rain/a/20250725A0991P00"],"created":1794629489,"id":"chatcmpl-3d1f6862-e224-4364-b08b-b92946a95946","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"使"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://m.douban.com/doulist/162038586/","https://news.qq.com/rain/a/20250725A09JOL00","https://new.qq.com/rain/a/20250725A0991P00"],"created":1794629489,"id":"chatcmpl-3d1f6862-e224-4364-b08b-b92946a95946","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"争议从"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://m.douban.com/doulist/162038586/","https://news.qq.com/rain/a/20250725A09JOL00","https://new.qq.com/rain/a/20250725A0991P00"],"created":1794629489,"id":"chatcmpl-3d1f6862-e224-4364-b08b-b92946a95946","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"粉丝"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://m.douban.com/doulist/162038586/","https://news.qq.com/rain/a/20250725A09JOL00","https://new.qq.com/rain/a/20250725A0991P00"],"created":1794629489,"id":"chatcmpl-3d1f6862-e224-4364-b08b-b92946a95946","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"口水"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://m.douban.com/doulist/162038586/","https://news.qq.com/rain/a/20250725A09JOL00","https://new.qq.com/rain/a/20250725A0991P00"],"created":1794629489,"id":"chatcmpl-3d1f6862-e224-4364-b08b-b92946a95946","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"战变成了可见"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://m.douban.com/doulist/162038586/","https://news.qq.com/rain/a/20250725A09JOL00","https://new.qq.com/rain/a/20250725A0991P00"],"created":1794629489,"id":"chatcmpl-3d1f6862-e224-4364-b08b-b92946a95946","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"的“署名事实"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://m.douban.com/doulist/162038586/","https://news.qq.com/rain/a/20250725A09JOL00","https://new.qq.com/rain/a/20250725A0991P00"],"created":1794629489,"id":"chatcmpl-3d1f6862-e224-4364-b08b-b92946a95946","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"”"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://m.douban.com/doulist/162038586/","https://news.qq.com/rain/a/20250725A09JOL00","https://new.qq.com/rain/a/20250725A0991P00"],"created":1794629489,"id":"chatcmpl-3d1f6862-e224-4364-b08b-b92946a95946","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"之争。\n\n### 二、"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://m.douban.com/doulist/162038586/","https://news.qq.com/rain/a/20250725A09JOL00","https://new.qq.com/rain/a/20250725A0991P00"],"created":1794629489,"id":"chatcmpl-3d1f6862-e224-4364-b08b-b92946a95946","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"汪苏泷方"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://m.douban.com/doulist/162038586/","https://news.qq.com/rain/a/20250725A09JOL00","https://new.qq.com/rain/a/20250725A0991P00"],"created":1794629489,"id":"chatcmpl-3d1f6862-e224-4364-b08b-b92946a95946","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"：先"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://m.douban.com/doulist/162038586/","https://news.qq.com/rain/a/20250725A09JOL00","https://new.qq.com/rain/a/20250725A0991P00"],"created":1794629489,"id":"chatcmpl-3d1f6862-e224-4364-b08b-b92946a95946","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"定性"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://m.douban.com/doulist/162038586/","https://news.qq.com/rain/a/20250725A09JOL00","https://new.qq.com/rain/a/20250725A0991P00"],"created":1794629489,"id":"chatcmpl-3d1f6862-e224-4364-b08b-b92946a95946","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"，再收授权"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://m.douban.com/doulist/162038586/","https://news.qq.com/rain/a/20250725A09JOL00","https://new.qq.com/rain/a/20250725A0991P00"],"created":1794629489,"id":"chatcmpl-3d1f6862-e224-4364-b08b-b92946a95946","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"\n\n汪苏泷方"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://m.douban.com/doulist/162038586/","https://news.qq.com/rain/a/20250725A09JOL00","https://new.qq.com/rain/a/20250725A0991P00"],"created":1794629489,"id":"chatcmpl-3d1f6862-e224-4364-b08b-b92946a95946","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"在"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://m.douban.com/doulist/162038586/","https://news.qq.com/rain/a/20250725A09JOL00","https://new.qq.com/rain/a/20250725A0991P00"],"created":1794629489,"id":"chatcmpl-3d1f6862-e224-4364-b08b-b92946a95946","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"7月25日收回"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://m.douban.com/doulist/162038586/","https://news.qq.com/rain/a/20250725A09JOL00","https://new.qq.com/rain/a/20250725A0991P00"],"created":1794629489,"id":"chatcmpl-3d1f6862-e224-4364-b08b-b92946a95946","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"《年"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://m.douban.com/doulist/162038586/","https://news.qq.com/rain/a/20250725A09JOL00","https://new.qq.com/rain/a/20250725A0991P00"],"created":1794629489,"id":"chatcmpl-3d1f6862-e224-4364-b08b-b92946a95946","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"轮》的所有"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://m.douban.com/doulist/162038586/","https://news.qq.com/rain/a/20250725A09JOL00","https://new.qq.com/rain/a/20250725A0991P00"],"created":1794629489,"id":"chatcmpl-3d1f6862-e224-4364-b08b-b92946a95946","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"演唱授权，并表示"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://m.douban.com/doulist/162038586/","https://news.qq.com/rain/a/20250725A09JOL00","https://new.qq.com/rain/a/20250725A0991P00"],"created":1794629489,"id":"chatcmpl-3d1f6862-e224-4364-b08b-b92946a95946","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"争议"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://m.douban.com/doulist/162038586/","https://news.qq.com/rain/a/20250725A09JOL00","https://new.qq.com/rain/a/20250725A0991P00"],"created":1794629489,"id":"chatcmpl-3d1f6862-e224-4364-b08b-b92946a95946","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"源于博主"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://m.douban.com/doulist/162038586/","https://news.qq.com/rain/a/20250725A09JOL00","https://new.qq.com/rain/a/20250725A0991P00"],"created":1794629489,"id":"chatcmpl-3d1f6862-e224-4364-b08b-b92946a95946","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"的不当言论；同时"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://m.douban.com/doulist/162038586/","https://news.qq.com/rain/a/20250725A09JOL00","https://new.qq.com/rain/a/20250725A0991P00"],"created":1794629489,"id":"chatcmpl-3d1f6862-e224-4364-b08b-b92946a95946","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"确认《梦幻"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://m.douban.com/doulist/162038586/","https://news.qq.com/rain/a/20250725A09JOL00","https://new.qq.com/rain/a/20250725A0991P00"],"created":1794629489,"id":"chatcmpl-3d1f6862-e224-4364-b08b-b92946a95946","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"诛"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://m.douban.com/doulist/162038586/","https://news.qq.com/rain/a/20250725A09JOL00","https://new.qq.com/rain/a/20250725A0991P00"],"created":1794629489,"id":"chatcmpl-3d1f6862-e224-4364-b08b-b92946a95946","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"仙》属于"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://m.douban.com/doulist/162038586/","https://news.qq.com/rain/a/20250725A09JOL00","https://new.qq.com/rain/a/20250725A0991P00"],"created":1794629489,"id":"chatcmpl-3d1f6862-e224-4364-b08b-b92946a95946","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"双"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://m.douban.com/doulist/162038586/","https://news.qq.com/rain/a/20250725A09JOL00","https://new.qq.com/rain/a/20250725A0991P00"],"created":1794629489,"id":"chatcmpl-3d1f6862-e224-4364-b08b-b92946a95946","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"原唱["},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://m.douban.com/doulist/162038586/","https://news.qq.com/rain/a/20250725A09JOL00","https://new.qq.com/rain/a/20250725A0991P00"],"created":1794629489,"id":"chatcmpl-3d1f6862-e224-4364-b08b-b92946a95946","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"4]。"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://m.douban.com/doulist/162038586/","https://news.qq.com/rain/a/20250725A09JOL00","https://new.qq.com/rain/a/20250725A0991P00"],"created":1794629489,"id":"chatcmpl-3d1f6862-e224-4364-b08b-b92946a95946","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"\n\n也就是说，汪"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://m.douban.com/doulist/162038586/","https://news.qq.com/rain/a/20250725A09JOL00","https://new.qq.com/rain/a/20250725A0991P00"],"created":1794629489,"id":"chatcmpl-3d1f6862-e224-4364-b08b-b92946a95946","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"苏泷方的"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://m.douban.com/doulist/162038586/","https://news.qq.com/rain/a/20250725A09JOL00","https://new.qq.com/rain/a/20250725A0991P00"],"created":1794629489,"id":"chatcmpl-3d1f6862-e224-4364-b08b-b92946a95946","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"动作"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://m.douban.com/doulist/162038586/","https://news.qq.com/rain/a/20250725A09JOL00","https://new.qq.com/rain/a/20250725A0991P00"],"created":1794629489,"id":"chatcmpl-3d1f6862-e224-4364-b08b-b92946a95946","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"包含"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://m.douban.com/doulist/162038586/","https://news.qq.com/rain/a/20250725A09JOL00","https://new.qq.com/rain/a/20250725A0991P00"],"created":1794629489,"id":"chatcmpl-3d1f6862-e224-4364-b08b-b92946a95946","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"两层：第一"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://m.douban.com/doulist/162038586/","https://news.qq.com/rain/a/20250725A09JOL00","https://new.qq.com/rain/a/20250725A0991P00"],"created":1794629489,"id":"chatcmpl-3d1f6862-e224-4364-b08b-b92946a95946","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"，"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://m.douban.com/doulist/162038586/","https://news.qq.com/rain/a/20250725A09JOL00","https://new.qq.com/rain/a/20250725A0991P00"],"created":1794629489,"id":"chatcmpl-3d1f6862-e224-4364-b08b-b92946a95946","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"把"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://m.douban.com/doulist/162038586/","https://news.qq.com/rain/a/20250725A09JOL00","https://new.qq.com/rain/a/20250725A0991P00"],"created":1794629489,"id":"chatcmpl-3d1f6862-e224-4364-b08b-b92946a95946","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"争议归因于"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://m.douban.com/doulist/162038586/","https://news.qq.com/rain/a/20250725A09JOL00","https://new.qq.com/rain/a/20250725A0991P00"],"created":1794629489,"id":"chatcmpl-3d1f6862-e224-4364-b08b-b92946a95946","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"外部"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://m.douban.com/doulist/162038586/","https://news.qq.com/rain/a/20250725A09JOL00","https://new.qq.com/rain/a/20250725A0991P00"],"created":1794629489,"id":"chatcmpl-3d1f6862-e224-4364-b08b-b92946a95946","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"博"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://m.douban.com/doulist/162038586/","https://news.qq.com/rain/a/20250725A09JOL00","https://new.qq.com/rain/a/20250725A0991P00"],"created":1794629489,"id":"chatcmpl-3d1f6862-e224-4364-b08b-b92946a95946","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"主的言论"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://m.douban.com/doulist/162038586/","https://news.qq.com/rain/a/20250725A09JOL00","https://new.qq.com/rain/a/20250725A0991P00"],"created":1794629489,"id":"chatcmpl-3d1f6862-e224-4364-b08b-b92946a95946","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"，而非"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://m.douban.com/doulist/162038586/","https://news.qq.com/rain/a/20250725A09JOL00","https://new.qq.com/rain/a/20250725A0991P00"],"created":1794629489,"id":"chatcmpl-3d1f6862-e224-4364-b08b-b92946a95946","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"自己"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://m.douban.com/doulist/162038586/","https://news.qq.com/rain/a/20250725A09JOL00","https://new.qq.com/rain/a/20250725A0991P00"],"created":1794629489,"id":"chatcmpl-3d1f6862-e224-4364-b08b-b92946a95946","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"主动挑起"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://m.douban.com/doulist/162038586/","https://news.qq.com/rain/a/20250725A09JOL00","https://new.qq.com/rain/a/20250725A0991P00"],"created":1794629489,"id":"chatcmpl-3d1f6862-e224-4364-b08b-b92946a95946","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"；第二，以"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://m.douban.com/doulist/162038586/","https://news.qq.com/rain/a/20250725A09JOL00","https://new.qq.com/rain/a/20250725A0991P00"],"created":1794629489,"id":"chatcmpl-3d1f6862-e224-4364-b08b-b92946a95946","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"版权方身份收回授权"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://m.douban.com/doulist/162038586/","https://news.qq.com/rain/a/20250725A09JOL00","https://new.qq.com/rain/a/20250725A0991P00"],"created":1794629489,"id":"chatcmpl-3d1f6862-e224-4364-b08b-b92946a95946","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"。"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://m.douban.com/doulist/162038586/","https://news.qq.com/rain/a/20250725A09JOL00","https://new.qq.com/rain/a/20250725A0991P00"],"created":1794629489,"id":"chatcmpl-3d1f6862-e224-4364-b08b-b92946a95946","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"这就"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://m.douban.com/doulist/162038586/","https://news.qq.com/rain/a/20250725A09JOL00","https://new.qq.com/rain/a/20250725A0991P00"],"created":1794629489,"id":"chatcmpl-3d1f6862-e224-4364-b08b-b92946a95946","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"把"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://m.douban.com/doulist/162038586/","https://news.qq.com/rain/a/20250725A09JOL00","https://new.qq.com/rain/a/20250725A0991P00"],"created":1794629489,"id":"chatcmpl-3d1f6862-e224-4364-b08b-b92946a95946","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"“谁是"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://m.douban.com/doulist/162038586/","https://news.qq.com/rain/a/20250725A09JOL00","https://new.qq.com/rain/a/20250725A0991P00"],"created":1794629489,"id":"chatcmpl-3d1f6862-e224-4364-b08b-b92946a95946","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"原唱”的讨论"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://m.douban.com/doulist/162038586/","https://news.qq.com/rain/a/20250725A09JOL00","https://new.qq.com/rain/a/20250725A0991P00"],"created":1794629489,"id":"chatcmpl-3d1f6862-e224-4364-b08b-b92946a95946","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"，直接"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://m.douban.com/doulist/162038586/","https://news.qq.com/rain/a/20250725A09JOL00","https://new.qq.com/rain/a/20250725A0991P00"],"created":1794629489,"id":"chatcmpl-3d1f6862-e224-4364-b08b-b92946a95946","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"推到了“谁还能"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://m.douban.com/doulist/162038586/","https://news.qq.com/rain/a/20250725A09JOL00","https://new.qq.com/rain/a/20250725A0991P00"],"created":1794629489,"id":"chatcmpl-3d1f6862-e224-4364-b08b-b92946a95946","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"唱”的现实"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://m.douban.com/doulist/162038586/","https://news.qq.com/rain/a/20250725A09JOL00","https://new.qq.com/rain/a/20250725A0991P00"],"created":1794629489,"id":"chatcmpl-3d1f6862-e224-4364-b08b-b92946a95946","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"层面。\n\n### 三、"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://m.douban.com/doulist/162038586/","https://news.qq.com/rain/a/20250725A09JOL00","https://new.qq.com/rain/a/20250725A0991P00"],"created":1794629489,"id":"chatcmpl-3d1f6862-e224-4364-b08b-b92946a95946","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"张碧晨方：坚持"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://m.douban.com/doulist/162038586/","https://news.qq.com/rain/a/20250725A09JOL00","https://new.qq.com/rain/a/20250725A0991P00"],"created":1794629489,"id":"chatcmpl-3d1f6862-e224-4364-b08b-b92946a95946","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"“唯一原唱”"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://m.douban.com/doulist/162038586/","https://news.qq.com/rain/a/20250725A09JOL00","https://new.qq.com/rain/a/20250725A0991P00"],"created":1794629489,"id":"chatcmpl-3d1f6862-e224-4364-b08b-b92946a95946","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"\n\n同"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://m.douban.com/doulist/162038586/","https://news.qq.com/rain/a/20250725A09JOL00","https://new.qq.com/rain/a/20250725A0991P00"],"created":1794629489,"id":"chatcmpl-3d1f6862-e224-4364-b08b-b92946a95946","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"一天，张碧晨"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://m.douban.com/doulist/162038586/","https://news.qq.com/rain/a/20250725A09JOL00","https://new.qq.com/rain/a/20250725A0991P00"],"created":1794629489,"id":"chatcmpl-3d1f6862-e224-4364-b08b-b92946a95946","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"工作室发布声明，"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://m.douban.com/doulist/162038586/","https://news.qq.com/rain/a/20250725A09JOL00","https://new.qq.com/rain/a/20250725A0991P00"],"created":1794629489,"id":"chatcmpl-3d1f6862-e224-4364-b08b-b92946a95946","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"主张"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://m.douban.com/doulist/162038586/","https://news.qq.com/rain/a/20250725A09JOL00","https://new.qq.com/rain/a/20250725A0991P00"],"created":1794629489,"id":"chatcmpl-3d1f6862-e224-4364-b08b-b92946a95946","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"张"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://m.douban.com/doulist/162038586/","https://news.qq.com/rain/a/20250725A09JOL00","https://new.qq.com/rain/a/20250725A0991P00"],"created":1794629489,"id":"chatcmpl-3d1f6862-e224-4364-b08b-b92946a95946","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"碧晨是《年轮"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://m.douban.com/doulist/162038586/","https://news.qq.com/rain/a/20250725A09JOL00","https://new.qq.com/rain/a/20250725A0991P00"],"created":1794629489,"id":"chatcmpl-3d1f6862-e224-4364-b08b-b92946a95946","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"》"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://m.douban.com/doulist/162038586/","https://news.qq.com/rain/a/20250725A09JOL00","https://new.qq.com/rain/a/20250725A0991P00"],"created":1794629489,"id":"chatcmpl-3d1f6862-e224-4364-b08b-b92946a95946","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"的“唯一原唱”，"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://m.douban.com/doulist/162038586/","https://news.qq.com/rain/a/20250725A09JOL00","https://new.qq.com/rain/a/20250725A0991P00"],"created":1794629489,"id":"chatcmpl-3d1f6862-e224-4364-b08b-b92946a95946","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"依据是2015年6"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://m.douban.com/doulist/162038586/","https://news.qq.com/rain/a/20250725A09JOL00","https://new.qq.com/rain/a/20250725A0991P00"],"created":1794629489,"id":"chatcmpl-3d1f6862-e224-4364-b08b-b92946a95946","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"月15日的"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://m.douban.com/doulist/162038586/","https://news.qq.com/rain/a/20250725A09JOL00","https://new.qq.com/rain/a/20250725A0991P00"],"created":1794629489,"id":"chatcmpl-3d1f6862-e224-4364-b08b-b92946a95946","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"首次公开发行"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://m.douban.com/doulist/162038586/","https://news.qq.com/rain/a/20250725A09JOL00","https://new.qq.com/rain/a/20250725A0991P00"],"created":1794629489,"id":"chatcmpl-3d1f6862-e224-4364-b08b-b92946a95946","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"时间以及"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://m.douban.com/doulist/162038586/","https://news.qq.com/rain/a/20250725A09JOL00","https://new.qq.com/rain/a/20250725A0991P00"],"created":1794629489,"id":"chatcmpl-3d1f6862-e224-4364-b08b-b92946a95946","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"行业惯例；不过"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://m.douban.com/doulist/162038586/","https://news.qq.com/rain/a/20250725A09JOL00","https://new.qq.com/rain/a/20250725A0991P00"],"created":1794629489,"id":"chatcmpl-3d1f6862-e224-4364-b08b-b92946a95946","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"声明也承认，《"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://m.douban.com/doulist/162038586/","https://news.qq.com/rain/a/20250725A09JOL00","https://new.qq.com/rain/a/20250725A0991P00"],"created":1794629489,"id":"chatcmpl-3d1f6862-e224-4364-b08b-b92946a95946","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"梦幻"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://m.douban.com/doulist/162038586/","https://news.qq.com/rain/a/20250725A09JOL00","https://new.qq.com/rain/a/20250725A0991P00"],"created":1794629489,"id":"chatcmpl-3d1f6862-e224-4364-b08b-b92946a95946","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"诛"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://m.douban.com/doulist/162038586/","https://news.qq.com/rain/a/20250725A09JOL00","https://new.qq.com/rain/a/20250725A0991P00"],"created":1794629489,"id":"chatcmpl-3d1f6862-e224-4364-b08b-b92946a95946","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"仙》是"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://m.douban.com/doulist/162038586/","https://news.qq.com/rain/a/20250725A09JOL00","https://new.qq.com/rain/a/20250725A0991P00"],"created":1794629489,"id":"chatcmpl-3d1f6862-e224-4364-b08b-b92946a95946","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"双版本[4]。"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://m.douban.com/doulist/162038586/","https://news.qq.com/rain/a/20250725A09JOL00","https://new.qq.com/rain/a/20250725A0991P00"],"created":1794629489,"id":"chatcmpl-3d1f6862-e224-4364-b08b-b92946a95946","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"\n\n可以看到"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://m.douban.com/doulist/162038586/","https://news.qq.com/rain/a/20250725A09JOL00","https://new.qq.com/rain/a/20250725A0991P00"],"created":1794629489,"id":"chatcmpl-3d1f6862-e224-4364-b08b-b92946a95946","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"，张碧晨方的"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://m.douban.com/doulist/162038586/","https://news.qq.com/rain/a/20250725A09JOL00","https://new.qq.com/rain/a/20250725A0991P00"],"created":1794629489,"id":"chatcmpl-3d1f6862-e224-4364-b08b-b92946a95946","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"论证"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://m.douban.com/doulist/162038586/","https://news.qq.com/rain/a/20250725A09JOL00","https://new.qq.com/rain/a/20250725A0991P00"],"created":1794629489,"id":"chatcmpl-3d1f6862-e224-4364-b08b-b92946a95946","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"逻辑是“首发时间＋"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://m.douban.com/doulist/162038586/","https://news.qq.com/rain/a/20250725A09JOL00","https://new.qq.com/rain/a/20250725A0991P00"],"created":1794629489,"id":"chatcmpl-3d1f6862-e224-4364-b08b-b92946a95946","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"行业惯例”，而不是"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://m.douban.com/doulist/162038586/","https://news.qq.com/rain/a/20250725A09JOL00","https://new.qq.com/rain/a/20250725A0991P00"],"created":1794629489,"id":"chatcmpl-3d1f6862-e224-4364-b08b-b92946a95946","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"“谁创作"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://m.douban.com/doulist/162038586/","https://news.qq.com/rain/a/20250725A09JOL00","https://new.qq.com/rain/a/20250725A0991P00"],"created":1794629489,"id":"chatcmpl-3d1f6862-e224-4364-b08b-b92946a95946","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"了这首歌"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://m.douban.com/doulist/162038586/","https://news.qq.com/rain/a/20250725A09JOL00","https://new.qq.com/rain/a/20250725A0991P00"],"created":1794629489,"id":"chatcmpl-3d1f6862-e224-4364-b08b-b92946a95946","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"”。这也"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://m.douban.com/doulist/162038586/","https://news.qq.com/rain/a/20250725A09JOL00","https://new.qq.com/rain/a/20250725A0991P00"],"created":1794629489,"id":"chatcmpl-3d1f6862-e224-4364-b08b-b92946a95946","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"解释了为什么双方各"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://m.douban.com/doulist/162038586/","https://news.qq.com/rain/a/20250725A09JOL00","https://new.qq.com/rain/a/20250725A0991P00"],"created":1794629489,"id":"chatcmpl-3d1f6862-e224-4364-b08b-b92946a95946","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"说"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://m.douban.com/doulist/162038586/","https://news.qq.com/rain/a/20250725A09JOL00","https://new.qq.com/rain/a/20250725A0991P00"],"created":1794629489,"id":"chatcmpl-3d1f6862-e224-4364-b08b-b92946a95946","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"各话：一边"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://m.douban.com/doulist/162038586/","https://news.qq.com/rain/a/20250725A09JOL00","https://new.qq.com/rain/a/20250725A0991P00"],"created":1794629489,"id":"chatcmpl-3d1f6862-e224-4364-b08b-b92946a95946","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"强调的是"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://m.douban.com/doulist/162038586/","https://news.qq.com/rain/a/20250725A09JOL00","https://new.qq.com/rain/a/20250725A0991P00"],"created":1794629489,"id":"chatcmpl-3d1f6862-e224-4364-b08b-b92946a95946","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"演唱"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://m.douban.com/doulist/162038586/","https://news.qq.com/rain/a/20250725A09JOL00","https://new.qq.com/rain/a/20250725A0991P00"],"created":1794629489,"id":"chatcmpl-3d1f6862-e224-4364-b08b-b92946a95946","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"者首发"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://m.douban.com/doulist/162038586/","https://news.qq.com/rain/a/20250725A09JOL00","https://new.qq.com/rain/a/20250725A0991P00"],"created":1794629489,"id":"chatcmpl-3d1f6862-e224-4364-b08b-b92946a95946","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"事实"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://m.douban.com/doulist/162038586/","https://news.qq.com/rain/a/20250725A09JOL00","https://new.qq.com/rain/a/20250725A0991P00"],"created":1794629489,"id":"chatcmpl-3d1f6862-e224-4364-b08b-b92946a95946","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"，一边强调的是词"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://m.douban.com/doulist/162038586/","https://news.qq.com/rain/a/20250725A09JOL00","https://new.qq.com/rain/a/20250725A0991P00"],"created":1794629489,"id":"chatcmpl-3d1f6862-e224-4364-b08b-b92946a95946","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"曲版权与授权"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://m.douban.com/doulist/162038586/","https://news.qq.com/rain/a/20250725A09JOL00","https://new.qq.com/rain/a/20250725A0991P00"],"created":1794629489,"id":"chatcmpl-3d1f6862-e224-4364-b08b-b92946a95946","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"控制"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://m.douban.com/doulist/162038586/","https://news.qq.com/rain/a/20250725A09JOL00","https://new.qq.com/rain/a/20250725A0991P00"],"created":1794629489,"id":"chatcmpl-3d1f6862-e224-4364-b08b-b92946a95946","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"权。\n\n### 四、"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://m.douban.com/doulist/162038586/","https://news.qq.com/rain/a/20250725A09JOL00","https://new.qq.com/rain/a/20250725A0991P00"],"created":1794629489,"id":"chatcmpl-3d1f6862-e224-4364-b08b-b92946a95946","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"所以到底"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://m.douban.com/doulist/162038586/","https://news.qq.com/rain/a/20250725A09JOL00","https://new.qq.com/rain/a/20250725A0991P00"],"created":1794629489,"id":"chatcmpl-3d1f6862-e224-4364-b08b-b92946a95946","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"在争什么？"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://m.douban.com/doulist/162038586/","https://news.qq.com/rain/a/20250725A09JOL00","https://new.qq.com/rain/a/20250725A0991P00"],"created":1794629489,"id":"chatcmpl-3d1f6862-e224-4364-b08b-b92946a95946","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"\n\n可以分"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://m.douban.com/doulist/162038586/","https://news.qq.com/rain/a/20250725A09JOL00","https://new.qq.com/rain/a/20250725A0991P00"],"created":1794629489,"id":"chatcmpl-3d1f6862-e224-4364-b08b-b92946a95946","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"两层"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://m.douban.com/doulist/162038586/","https://news.qq.com/rain/a/20250725A09JOL00","https://new.qq.com/rain/a/20250725A0991P00"],"created":1794629489,"id":"chatcmpl-3d1f6862-e224-4364-b08b-b92946a95946","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"看：\n\n-"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://m.douban.com/doulist/162038586/","https://news.qq.com/rain/a/20250725A09JOL00","https://new.qq.com/rain/a/20250725A0991P00"],"created":1794629489,"id":"chatcmpl-3d1f6862-e224-4364-b08b-b92946a95946","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":" **名"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://m.douban.com/doulist/162038586/","https://news.qq.com/rain/a/20250725A09JOL00","https://new.qq.com/rain/a/20250725A0991P00"],"created":1794629489,"id":"chatcmpl-3d1f6862-e224-4364-b08b-b92946a95946","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"分层"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://m.douban.com/doulist/162038586/","https://news.qq.com/rain/a/20250725A09JOL00","https://new.qq.com/rain/a/20250725A0991P00"],"created":1794629489,"id":"chatcmpl-3d1f6862-e224-4364-b08b-b92946a95946","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"**：争"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://m.douban.com/doulist/162038586/","https://news.qq.com/rain/a/20250725A09JOL00","https://new.qq.com/rain/a/20250725A0991P00"],"created":1794629489,"id":"chatcmpl-3d1f6862-e224-4364-b08b-b92946a95946","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"的是《"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://m.douban.com/doulist/162038586/","https://news.qq.com/rain/a/20250725A09JOL00","https://new.qq.com/rain/a/20250725A0991P00"],"created":1794629489,"id":"chatcmpl-3d1f6862-e224-4364-b08b-b92946a95946","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"年轮》到底"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://m.douban.com/doulist/162038586/","https://news.qq.com/rain/a/20250725A09JOL00","https://new.qq.com/rain/a/20250725A0991P00"],"created":1794629489,"id":"chatcmpl-3d1f6862-e224-4364-b08b-b92946a95946","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"该标"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://m.douban.com/doulist/162038586/","https://news.qq.com/rain/a/20250725A09JOL00","https://new.qq.com/rain/a/20250725A0991P00"],"created":1794629489,"id":"chatcmpl-3d1f6862-e224-4364-b08b-b92946a95946","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"“张碧晨"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://m.douban.com/doulist/162038586/","https://news.qq.com/rain/a/20250725A09JOL00","https://new.qq.com/rain/a/20250725A0991P00"],"created":1794629489,"id":"chatcmpl-3d1f6862-e224-4364-b08b-b92946a95946","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"唯一原唱”，还是承认"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://m.douban.com/doulist/162038586/","https://news.qq.com/rain/a/20250725A09JOL00","https://new.qq.com/rain/a/20250725A0991P00"],"created":1794629489,"id":"chatcmpl-3d1f6862-e224-4364-b08b-b92946a95946","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"汪苏泷"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://m.douban.com/doulist/162038586/","https://news.qq.com/rain/a/20250725A09JOL00","https://new.qq.com/rain/a/20250725A0991P00"],"created":1794629489,"id":"chatcmpl-3d1f6862-e224-4364-b08b-b92946a95946","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"也是原"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://m.douban.com/doulist/162038586/","https://news.qq.com/rain/a/20250725A09JOL00","https://new.qq.com/rain/a/20250725A0991P00"],"created":1794629489,"id":"chatcmpl-3d1f6862-e224-4364-b08b-b92946a95946","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"唱之一"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://m.douban.com/doulist/162038586/","https://news.qq.com/rain/a/20250725A09JOL00","https://new.qq.com/rain/a/20250725A0991P00"],"created":1794629489,"id":"chatcmpl-3d1f6862-e224-4364-b08b-b92946a95946","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"。平台"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://m.douban.com/doulist/162038586/","https://news.qq.com/rain/a/20250725A09JOL00","https://new.qq.com/rain/a/20250725A0991P00"],"created":1794629489,"id":"chatcmpl-3d1f6862-e224-4364-b08b-b92946a95946","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"标签、工作室"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://m.douban.com/doulist/162038586/","https://news.qq.com/rain/a/20250725A09JOL00","https://new.qq.com/rain/a/20250725A0991P00"],"created":1794629489,"id":"chatcmpl-3d1f6862-e224-4364-b08b-b92946a95946","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"声明、粉丝论"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://m.douban.com/doulist/162038586/","https://news.qq.com/rain/a/20250725A09JOL00","https://new.qq.com/rain/a/20250725A0991P00"],"created":1794629489,"id":"chatcmpl-3d1f6862-e224-4364-b08b-b92946a95946","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"战"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://m.douban.com/doulist/162038586/","https://news.qq.com/rain/a/20250725A09JOL00","https://new.qq.com/rain/a/20250725A0991P00"],"created":1794629489,"id":"chatcmpl-3d1f6862-e224-4364-b08b-b92946a95946","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"都围绕这一点"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://m.douban.com/doulist/162038586/","https://news.qq.com/rain/a/20250725A09JOL00","https://new.qq.com/rain/a/20250725A0991P00"],"created":1794629489,"id":"chatcmpl-3d1f6862-e224-4364-b08b-b92946a95946","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"["},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://m.douban.com/doulist/162038586/","https://news.qq.com/rain/a/20250725A09JOL00","https://new.qq.com/rain/a/20250725A0991P00"],"created":1794629489,"id":"chatcmpl-3d1f6862-e224-4364-b08b-b92946a95946","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"4"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://m.douban.com/doulist/162038586/","https://news.qq.com/rain/a/20250725A09JOL00","https://new.qq.com/rain/a/20250725A0991P00"],"created":1794629489,"id":"chatcmpl-3d1f6862-e224-4364-b08b-b92946a95946","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"][5]。\n- **"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://m.douban.com/doulist/162038586/","https://news.qq.com/rain/a/20250725A09JOL00","https://new.qq.com/rain/a/20250725A0991P00"],"created":1794629489,"id":"chatcmpl-3d1f6862-e224-4364-b08b-b92946a95946","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"授权层**：汪苏"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://m.douban.com/doulist/162038586/","https://news.qq.com/rain/a/20250725A09JOL00","https://new.qq.com/rain/a/20250725A0991P00"],"created":1794629489,"id":"chatcmpl-3d1f6862-e224-4364-b08b-b92946a95946","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"泷方收回全部"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://m.douban.com/doulist/162038586/","https://news.qq.com/rain/a/20250725A09JOL00","https://new.qq.com/rain/a/20250725A0991P00"],"created":1794629489,"id":"chatcmpl-3d1f6862-e224-4364-b08b-b92946a95946","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"演唱授权后，问题"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://m.douban.com/doulist/162038586/","https://news.qq.com/rain/a/20250725A09JOL00","https://new.qq.com/rain/a/20250725A0991P00"],"created":1794629489,"id":"chatcmpl-3d1f6862-e224-4364-b08b-b92946a95946","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"就变成了张"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://m.douban.com/doulist/162038586/","https://news.qq.com/rain/a/20250725A09JOL00","https://new.qq.com/rain/a/20250725A0991P00"],"created":1794629489,"id":"chatcmpl-3d1f6862-e224-4364-b08b-b92946a95946","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"碧晨方"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://m.douban.com/doulist/162038586/","https://news.qq.com/rain/a/20250725A09JOL00","https://new.qq.com/rain/a/20250725A0991P00"],"created":1794629489,"id":"chatcmpl-3d1f6862-e224-4364-b08b-b92946a95946","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"今后"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://m.douban.com/doulist/162038586/","https://news.qq.com/rain/a/20250725A09JOL00","https://new.qq.com/rain/a/20250725A0991P00"],"created":1794629489,"id":"chatcmpl-3d1f6862-e224-4364-b08b-b92946a95946","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"在商业演出"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://m.douban.com/doulist/162038586/","https://news.qq.com/rain/a/20250725A09JOL00","https://new.qq.com/rain/a/20250725A0991P00"],"created":1794629489,"id":"chatcmpl-3d1f6862-e224-4364-b08b-b92946a95946","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"等"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://m.douban.com/doulist/162038586/","https://news.qq.com/rain/a/20250725A09JOL00","https://new.qq.com/rain/a/20250725A0991P00"],"created":1794629489,"id":"chatcmpl-3d1f6862-e224-4364-b08b-b92946a95946","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"场景"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://m.douban.com/doulist/162038586/","https://news.qq.com/rain/a/20250725A09JOL00","https://new.qq.com/rain/a/20250725A0991P00"],"created":1794629489,"id":"chatcmpl-3d1f6862-e224-4364-b08b-b92946a95946","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"中还能"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://m.douban.com/doulist/162038586/","https://news.qq.com/rain/a/20250725A09JOL00","https://new.qq.com/rain/a/20250725A0991P00"],"created":1794629489,"id":"chatcmpl-3d1f6862-e224-4364-b08b-b92946a95946","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"不能唱、"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://m.douban.com/doulist/162038586/","https://news.qq.com/rain/a/20250725A09JOL00","https://new.qq.com/rain/a/20250725A0991P00"],"created":1794629489,"id":"chatcmpl-3d1f6862-e224-4364-b08b-b92946a95946","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"以"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://m.douban.com/doulist/162038586/","https://news.qq.com/rain/a/20250725A09JOL00","https://new.qq.com/rain/a/20250725A0991P00"],"created":1794629489,"id":"chatcmpl-3d1f6862-e224-4364-b08b-b92946a95946","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"什么名义唱。这部分"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://m.douban.com/doulist/162038586/","https://news.qq.com/rain/a/20250725A09JOL00","https://new.qq.com/rain/a/20250725A0991P00"],"created":1794629489,"id":"chatcmpl-3d1f6862-e224-4364-b08b-b92946a95946","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"是版权"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://m.douban.com/doulist/162038586/","https://news.qq.com/rain/a/20250725A09JOL00","https://new.qq.com/rain/a/20250725A0991P00"],"created":1794629489,"id":"chatcmpl-3d1f6862-e224-4364-b08b-b92946a95946","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"方"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://m.douban.com/doulist/162038586/","https://news.qq.com/rain/a/20250725A09JOL00","https://new.qq.com/rain/a/20250725A0991P00"],"created":1794629489,"id":"chatcmpl-3d1f6862-e224-4364-b08b-b92946a95946","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"行使"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://m.douban.com/doulist/162038586/","https://news.qq.com/rain/a/20250725A09JOL00","https://new.qq.com/rain/a/20250725A0991P00"],"created":1794629489,"id":"chatcmpl-3d1f6862-e224-4364-b08b-b92946a95946","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"权利的直接"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://m.douban.com/doulist/162038586/","https://news.qq.com/rain/a/20250725A09JOL00","https://new.qq.com/rain/a/20250725A0991P00"],"created":1794629489,"id":"chatcmpl-3d1f6862-e224-4364-b08b-b92946a95946","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"结果，也是争议"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://m.douban.com/doulist/162038586/","https://news.qq.com/rain/a/20250725A09JOL00","https://new.qq.com/rain/a/20250725A0991P00"],"created":1794629489,"id":"chatcmpl-3d1f6862-e224-4364-b08b-b92946a95946","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"从“名"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://m.douban.com/doulist/162038586/","https://news.qq.com/rain/a/20250725A09JOL00","https://new.qq.com/rain/a/20250725A0991P00"],"created":1794629489,"id":"chatcmpl-3d1f6862-e224-4364-b08b-b92946a95946","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"分”走向“实际"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://m.douban.com/doulist/162038586/","https://news.qq.com/rain/a/20250725A09JOL00","https://new.qq.com/rain/a/20250725A0991P00"],"created":1794629489,"id":"chatcmpl-3d1f6862-e224-4364-b08b-b92946a95946","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"利益"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://m.douban.com/doulist/162038586/","https://news.qq.com/rain/a/20250725A09JOL00","https://new.qq.com/rain/a/20250725A0991P00"],"created":1794629489,"id":"chatcmpl-3d1f6862-e224-4364-b08b-b92946a95946","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"”的关键["},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://m.douban.com/doulist/162038586/","https://news.qq.com/rain/a/20250725A09JOL00","https://new.qq.com/rain/a/20250725A0991P00"],"created":1794629489,"id":"chatcmpl-3d1f6862-e224-4364-b08b-b92946a95946","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"4]。\n\n从"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://m.douban.com/doulist/162038586/","https://news.qq.com/rain/a/20250725A09JOL00","https://new.qq.com/rain/a/20250725A0991P00"],"created":1794629489,"id":"chatcmpl-3d1f6862-e224-4364-b08b-b92946a95946","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"检索"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://m.douban.com/doulist/162038586/","https://news.qq.com/rain/a/20250725A09JOL00","https://new.qq.com/rain/a/20250725A0991P00"],"created":1794629489,"id":"chatcmpl-3d1f6862-e224-4364-b08b-b92946a95946","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"到的资料"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://m.douban.com/doulist/162038586/","https://news.qq.com/rain/a/20250725A09JOL00","https://new.qq.com/rain/a/20250725A0991P00"],"created":1794629489,"id":"chatcmpl-3d1f6862-e224-4364-b08b-b92946a95946","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"看，豆瓣"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://m.douban.com/doulist/162038586/","https://news.qq.com/rain/a/20250725A09JOL00","https://new.qq.com/rain/a/20250725A0991P00"],"created":1794629489,"id":"chatcmpl-3d1f6862-e224-4364-b08b-b92946a95946","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"等"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://m.douban.com/doulist/162038586/","https://news.qq.com/rain/a/20250725A09JOL00","https://new.qq.com/rain/a/20250725A0991P00"],"created":1794629489,"id":"chatcmpl-3d1f6862-e224-4364-b08b-b92946a95946","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"平台上的"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://m.douban.com/doulist/162038586/","https://news.qq.com/rain/a/20250725A09JOL00","https://new.qq.com/rain/a/20250725A0991P00"],"created":1794629489,"id":"chatcmpl-3d1f6862-e224-4364-b08b-b92946a95946","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"讨论"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://m.douban.com/doulist/162038586/","https://news.qq.com/rain/a/20250725A09JOL00","https://new.qq.com/rain/a/20250725A0991P00"],"created":1794629489,"id":"chatcmpl-3d1f6862-e224-4364-b08b-b92946a95946","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"明显"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://m.douban.com/doulist/162038586/","https://news.qq.com/rain/a/20250725A09JOL00","https://new.qq.com/rain/a/20250725A0991P00"],"created":1794629489,"id":"chatcmpl-3d1f6862-e224-4364-b08b-b92946a95946","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"偏向张碧晨"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://m.douban.com/doulist/162038586/","https://news.qq.com/rain/a/20250725A09JOL00","https://new.qq.com/rain/a/20250725A0991P00"],"created":1794629489,"id":"chatcmpl-3d1f6862-e224-4364-b08b-b92946a95946","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"，认为“听起来"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://m.douban.com/doulist/162038586/","https://news.qq.com/rain/a/20250725A09JOL00","https://new.qq.com/rain/a/20250725A0991P00"],"created":1794629489,"id":"chatcmpl-3d1f6862-e224-4364-b08b-b92946a95946","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"就是张"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://m.douban.com/doulist/162038586/","https://news.qq.com/rain/a/20250725A09JOL00","https://new.qq.com/rain/a/20250725A0991P00"],"created":1794629489,"id":"chatcmpl-3d1f6862-e224-4364-b08b-b92946a95946","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"碧晨原唱”，并"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://m.douban.com/doulist/162038586/","https://news.qq.com/rain/a/20250725A09JOL00","https://new.qq.com/rain/a/20250725A0991P00"],"created":1794629489,"id":"chatcmpl-3d1f6862-e224-4364-b08b-b92946a95946","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"质疑"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://m.douban.com/doulist/162038586/","https://news.qq.com/rain/a/20250725A09JOL00","https://new.qq.com/rain/a/20250725A0991P00"],"created":1794629489,"id":"chatcmpl-3d1f6862-e224-4364-b08b-b92946a95946","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"汪苏泷“"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://m.douban.com/doulist/162038586/","https://news.qq.com/rain/a/20250725A09JOL00","https://new.qq.com/rain/a/20250725A0991P00"],"created":1794629489,"id":"chatcmpl-3d1f6862-e224-4364-b08b-b92946a95946","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"卖了版权又"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://m.douban.com/doulist/162038586/","https://news.qq.com/rain/a/20250725A09JOL00","https://new.qq.com/rain/a/20250725A0991P00"],"created":1794629489,"id":"chatcmpl-3d1f6862-e224-4364-b08b-b92946a95946","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"出来"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://m.douban.com/doulist/162038586/","https://news.qq.com/rain/a/20250725A09JOL00","https://new.qq.com/rain/a/20250725A0991P00"],"created":1794629489,"id":"chatcmpl-3d1f6862-e224-4364-b08b-b92946a95946","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"叫屈”[3]。"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://m.douban.com/doulist/162038586/","https://news.qq.com/rain/a/20250725A09JOL00","https://new.qq.com/rain/a/20250725A0991P00"],"created":1794629489,"id":"chatcmpl-3d1f6862-e224-4364-b08b-b92946a95946","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"但这属于网友观点"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://m.douban.com/doulist/162038586/","https://news.qq.com/rain/a/20250725A09JOL00","https://new.qq.com/rain/a/20250725A0991P00"],"created":1794629489,"id":"chatcmpl-3d1f6862-e224-4364-b08b-b92946a95946","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"，不是双方"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://m.douban.com/doulist/162038586/","https://news.qq.com/rain/a/20250725A09JOL00","https://new.qq.com/rain/a/20250725A0991P00"],"created":1794629489,"id":"chatcmpl-3d1f6862-e224-4364-b08b-b92946a95946","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"正式"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://m.douban.com/doulist/162038586/","https://news.qq.com/rain/a/20250725A09JOL00","https://new.qq.com/rain/a/20250725A0991P00"],"created":1794629489,"id":"chatcmpl-3d1f6862-e224-4364-b08b-b92946a95946","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"表态"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://m.douban.com/doulist/162038586/","https://news.qq.com/rain/a/20250725A09JOL00","https://new.qq.com/rain/a/20250725A0991P00"],"created":1794629489,"id":"chatcmpl-3d1f6862-e224-4364-b08b-b92946a95946","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"。\n\n### 五"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://m.douban.com/doulist/162038586/","https://news.qq.com/rain/a/20250725A09JOL00","https://new.qq.com/rain/a/20250725A0991P00"],"created":1794629489,"id":"chatcmpl-3d1f6862-e224-4364-b08b-b92946a95946","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"、需要说明的信息"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://m.douban.com/doulist/162038586/","https://news.qq.com/rain/a/20250725A09JOL00","https://new.qq.com/rain/a/20250725A0991P00"],"created":1794629489,"id":"chatcmpl-3d1f6862-e224-4364-b08b-b92946a95946","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"局限\n\n现有检索"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://m.douban.com/doulist/162038586/","https://news.qq.com/rain/a/20250725A09JOL00","https://new.qq.com/rain/a/20250725A0991P00"],"created":1794629489,"id":"chatcmpl-3d1f6862-e224-4364-b08b-b92946a95946","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"结果"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://m.douban.com/doulist/162038586/","https://news.qq.com/rain/a/20250725A09JOL00","https://new.qq.com/rain/a/20250725A0991P00"],"created":1794629489,"id":"chatcmpl-3d1f6862-e224-4364-b08b-b92946a95946","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"主要是二手"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://m.douban.com/doulist/162038586/","https://news.qq.com/rain/a/20250725A09JOL00","https://new.qq.com/rain/a/20250725A0991P00"],"created":1794629489,"id":"chatcmpl-3d1f6862-e224-4364-b08b-b92946a95946","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"报道和"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://m.douban.com/doulist/162038586/","https://news.qq.com/rain/a/20250725A09JOL00","https://new.qq.com/rain/a/20250725A0991P00"],"created":1794629489,"id":"chatcmpl-3d1f6862-e224-4364-b08b-b92946a95946","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"论坛"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://m.douban.com/doulist/162038586/","https://news.qq.com/rain/a/20250725A09JOL00","https://new.qq.com/rain/a/20250725A0991P00"],"created":1794629489,"id":"chatcmpl-3d1f6862-e224-4364-b08b-b92946a95946","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"讨论"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://m.douban.com/doulist/162038586/","https://news.qq.com/rain/a/20250725A09JOL00","https://new.qq.com/rain/a/20250725A0991P00"],"created":1794629489,"id":"chatcmpl-3d1f6862-e224-4364-b08b-b92946a95946","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"，**"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://m.douban.com/doulist/162038586/","https://news.qq.com/rain/a/20250725A09JOL00","https://new.qq.com/rain/a/20250725A0991P00"],"created":1794629489,"id":"chatcmpl-3d1f6862-e224-4364-b08b-b92946a95946","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"未见"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://m.douban.com/doulist/162038586/","https://news.qq.com/rain/a/20250725A09JOL00","https://new.qq.com/rain/a/20250725A0991P00"],"created":1794629489,"id":"chatcmpl-3d1f6862-e224-4364-b08b-b92946a95946","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"汪"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://m.douban.com/doulist/162038586/","https://news.qq.com/rain/a/20250725A09JOL00","https://new.qq.com/rain/a/20250725A0991P00"],"created":1794629489,"id":"chatcmpl-3d1f6862-e224-4364-b08b-b92946a95946","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"苏泷方"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://m.douban.com/doulist/162038586/","https://news.qq.com/rain/a/20250725A09JOL00","https://new.qq.com/rain/a/20250725A0991P00"],"created":1794629489,"id":"chatcmpl-3d1f6862-e224-4364-b08b-b92946a95946","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"和张"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://m.douban.com/doulist/162038586/","https://news.qq.com/rain/a/20250725A09JOL00","https://new.qq.com/rain/a/20250725A0991P00"],"created":1794629489,"id":"chatcmpl-3d1f6862-e224-4364-b08b-b92946a95946","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"碧晨工作室"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://m.douban.com/doulist/162038586/","https://news.qq.com/rain/a/20250725A09JOL00","https://new.qq.com/rain/a/20250725A0991P00"],"created":1794629489,"id":"chatcmpl-3d1f6862-e224-4364-b08b-b92946a95946","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"的"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://m.douban.com/doulist/162038586/","https://news.qq.com/rain/a/20250725A09JOL00","https://new.qq.com/rain/a/20250725A0991P00"],"created":1794629489,"id":"chatcmpl-3d1f6862-e224-4364-b08b-b92946a95946","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"声明"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://m.douban.com/doulist/162038586/","https://news.qq.com/rain/a/20250725A09JOL00","https://new.qq.com/rain/a/20250725A0991P00"],"created":1794629489,"id":"chatcmpl-3d1f6862-e224-4364-b08b-b92946a95946","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"原文"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://m.douban.com/doulist/162038586/","https://news.qq.com/rain/a/20250725A09JOL00","https://new.qq.com/rain/a/20250725A0991P00"],"created":1794629489,"id":"chatcmpl-3d1f6862-e224-4364-b08b-b92946a95946","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"全文"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://m.douban.com/doulist/162038586/","https://news.qq.com/rain/a/20250725A09JOL00","https://new.qq.com/rain/a/20250725A0991P00"],"created":1794629489,"id":"chatcmpl-3d1f6862-e224-4364-b08b-b92946a95946","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"**，也"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://m.douban.com/doulist/162038586/","https://news.qq.com/rain/a/20250725A09JOL00","https://new.qq.com/rain/a/20250725A0991P00"],"created":1794629489,"id":"chatcmpl-3d1f6862-e224-4364-b08b-b92946a95946","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"未见双方"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://m.douban.com/doulist/162038586/","https://news.qq.com/rain/a/20250725A09JOL00","https://new.qq.com/rain/a/20250725A0991P00"],"created":1794629489,"id":"chatcmpl-3d1f6862-e224-4364-b08b-b92946a95946","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"后续"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://m.douban.com/doulist/162038586/","https://news.qq.com/rain/a/20250725A09JOL00","https://new.qq.com/rain/a/20250725A0991P00"],"created":1794629489,"id":"chatcmpl-3d1f6862-e224-4364-b08b-b92946a95946","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"是否有"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://m.douban.com/doulist/162038586/","https://news.qq.com/rain/a/20250725A09JOL00","https://new.qq.com/rain/a/20250725A0991P00"],"created":1794629489,"id":"chatcmpl-3d1f6862-e224-4364-b08b-b92946a95946","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"进一步回应"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://m.douban.com/doulist/162038586/","https://news.qq.com/rain/a/20250725A09JOL00","https://new.qq.com/rain/a/20250725A0991P00"],"created":1794629489,"id":"chatcmpl-3d1f6862-e224-4364-b08b-b92946a95946","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"或和解。"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://m.douban.com/doulist/162038586/","https://news.qq.com/rain/a/20250725A09JOL00","https://new.qq.com/rain/a/20250725A0991P00"],"created":1794629489,"id":"chatcmpl-3d1f6862-e224-4364-b08b-b92946a95946","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"因此，"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://m.douban.com/doulist/162038586/","https://news.qq.com/rain/a/20250725A09JOL00","https://new.qq.com/rain/a/20250725A0991P00"],"created":1794629489,"id":"chatcmpl-3d1f6862-e224-4364-b08b-b92946a95946","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"上述"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://m.douban.com/doulist/162038586/","https://news.qq.com/rain/a/20250725A09JOL00","https://new.qq.com/rain/a/20250725A0991P00"],"created":1794629489,"id":"chatcmpl-3d1f6862-e224-4364-b08b-b92946a95946","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"时间"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://m.douban.com/doulist/162038586/","https://news.qq.com/rain/a/20250725A09JOL00","https://new.qq.com/rain/a/20250725A0991P00"],"created":1794629489,"id":"chatcmpl-3d1f6862-e224-4364-b08b-b92946a95946","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"线和"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://m.douban.com/doulist/162038586/","https://news.qq.com/rain/a/20250725A09JOL00","https://new.qq.com/rain/a/20250725A0991P00"],"created":1794629489,"id":"chatcmpl-3d1f6862-e224-4364-b08b-b92946a95946","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"表态内容应以"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://m.douban.com/doulist/162038586/","https://news.qq.com/rain/a/20250725A09JOL00","https://new.qq.com/rain/a/20250725A0991P00"],"created":1794629489,"id":"chatcmpl-3d1f6862-e224-4364-b08b-b92946a95946","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"报道为准；至于"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://m.douban.com/doulist/162038586/","https://news.qq.com/rain/a/20250725A09JOL00","https://new.qq.com/rain/a/20250725A0991P00"],"created":1794629489,"id":"chatcmpl-3d1f6862-e224-4364-b08b-b92946a95946","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"“收回授权后张"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://m.douban.com/doulist/162038586/","https://news.qq.com/rain/a/20250725A09JOL00","https://new.qq.com/rain/a/20250725A0991P00"],"created":1794629489,"id":"chatcmpl-3d1f6862-e224-4364-b08b-b92946a95946","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"碧晨是否"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://m.douban.com/doulist/162038586/","https://news.qq.com/rain/a/20250725A09JOL00","https://new.qq.com/rain/a/20250725A0991P00"],"created":1794629489,"id":"chatcmpl-3d1f6862-e224-4364-b08b-b92946a95946","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"还能在"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://m.douban.com/doulist/162038586/","https://news.qq.com/rain/a/20250725A09JOL00","https://new.qq.com/rain/a/20250725A0991P00"],"created":1794629489,"id":"chatcmpl-3d1f6862-e224-4364-b08b-b92946a95946","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"哪些"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://m.douban.com/doulist/162038586/","https://news.qq.com/rain/a/20250725A09JOL00","https://new.qq.com/rain/a/20250725A0991P00"],"created":1794629489,"id":"chatcmpl-3d1f6862-e224-4364-b08b-b92946a95946","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"具体"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://m.douban.com/doulist/162038586/","https://news.qq.com/rain/a/20250725A09JOL00","https://new.qq.com/rain/a/20250725A0991P00"],"created":1794629489,"id":"chatcmpl-3d1f6862-e224-4364-b08b-b92946a95946","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"场合演唱"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://m.douban.com/doulist/162038586/","https://news.qq.com/rain/a/20250725A09JOL00","https://new.qq.com/rain/a/20250725A0991P00"],"created":1794629489,"id":"chatcmpl-3d1f6862-e224-4364-b08b-b92946a95946","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"”，检索"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://m.douban.com/doulist/162038586/","https://news.qq.com/rain/a/20250725A09JOL00","https://new.qq.com/rain/a/20250725A0991P00"],"created":1794629489,"id":"chatcmpl-3d1f6862-e224-4364-b08b-b92946a95946","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"资料没有"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://m.douban.com/doulist/162038586/","https://news.qq.com/rain/a/20250725A09JOL00","https://new.qq.com/rain/a/20250725A0991P00"],"created":1794629489,"id":"chatcmpl-3d1f6862-e224-4364-b08b-b92946a95946","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"给出细则"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://m.douban.com/doulist/162038586/","https://news.qq.com/rain/a/20250725A09JOL00","https://new.qq.com/rain/a/20250725A0991P00"],"created":1794629489,"id":"chatcmpl-3d1f6862-e224-4364-b08b-b92946a95946","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"，无法"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://m.douban.com/doulist/162038586/","https://news.qq.com/rain/a/20250725A09JOL00","https://new.qq.com/rain/a/20250725A0991P00"],"created":1794629489,"id":"chatcmpl-3d1f6862-e224-4364-b08b-b92946a95946","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"确认"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://m.douban.com/doulist/162038586/","https://news.qq.com/rain/a/20250725A09JOL00","https://new.qq.com/rain/a/20250725A0991P00"],"created":1794629489,"id":"chatcmpl-3d1f6862-e224-4364-b08b-b92946a95946","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"。"},"finish_reason":"stop","index":0,"logprobs":null}],"citations":["https://m.douban.com/doulist/162038586/","https://news.qq.com/rain/a/20250725A09JOL00","https://new.qq.com/rain/a/20250725A0991P00"],"created":1794629489,"id":"chatcmpl-3d1f6862-e224-4364-b08b-b92946a95946","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[],"citations":["https://m.douban.com/doulist/162038586/","https://news.qq.com/rain/a/20250725A09JOL00","https://new.qq.com/rain/a/20250725A0991P00"],"created":1794629489,"id":"chatcmpl-3d1f6862-e224-4364-b08b-b92946a95946","model":"deepseek-flash","object":"chat.completion.chunk","usage":{"completion_tokens":1463,"completion_tokens_details":{"reasoning_tokens":694},"prompt_tokens":1154,"prompt_tokens_details":{"cached_tokens":0},"total_tokens":2617}}
+
+data: [DONE]
+

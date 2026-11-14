@@ -1,0 +1,51 @@
+{
+  "task_id": "T0235",
+  "model": "doubao",
+  "news_id": "E019",
+  "question_index": 4,
+  "question_original": "【事实】图书馆纠纷案二审是哪天作出的，结果是什么？",
+  "question": "图书馆纠纷案二审是哪天作出的，结果是什么？",
+  "attempt": 1,
+  "provider": "302.ai",
+  "model_requested": "doubao-seed-2-1-pro-260628",
+  "query_date": "2026-11-14",
+  "search_service": "metaso",
+  "prompt_version": "news-search-v1",
+  "prompt_sha256": "ea56fd5557d32615a9115f2368a0c4983ff1188f4935369e694d7d46f2493be1",
+  "requested_at": "2026-11-14T12:04:53.638145+08:00",
+  "raw_file": "raw/T0235_doubao_a001_0b8a9d.json",
+  "transport": "sse",
+  "stream_file": "raw/T0235_doubao_a001_0b8a9d.sse",
+  "status": "ok",
+  "model_returned": "doubao-seed-2-1-pro-260628",
+  "answer": "根据目前可获取的检索资料，暂无法查询到你所询问的图书馆纠纷案二审的作出日期及具体裁判结果的对应信息。\n\n现有检索到的内容均未覆盖二审相关细节：\n1. 有评论提及原图书馆馆长赖双平本应在图书馆改造升级过程中履职尽责、为公众谋福利，却公权私用以谋取个人利益，是对“书中自有黄金屋”的错误解读，最终受到法律严惩，但该内容未提及任何相关案件的审理程序、二审宣判时间、具体裁判结果等关键信息[1]。\n2. 其余检索内容为监区二级图书室的日常运行管理规范，明确了二级图书室在藏书保有量、开放时长、人员配置、借阅登记等方面的管理要求，与你询问的案件二审信息无关联[4]。\n\n若需要精准查询对应案件的二审信息，建议补充案件具体当事人、审理法院等关键信息后进一步检索核实。",
+  "sources": [
+    {
+      "index": 1,
+      "url": "http://www.hexinglong.jcy.gov.cn/jcwh/201906/t20190611_2592325.shtml",
+      "title": null,
+      "origin": "citations"
+    },
+    {
+      "index": 2,
+      "url": "http://jyglj.guizhou.gov.cn/pb/jywh/gzdt/201811/t20181108_25644351.html",
+      "title": null,
+      "origin": "citations"
+    }
+  ],
+  "usage": {
+    "completion_tokens": 1102,
+    "completion_tokens_details": {
+      "reasoning_tokens": 898
+    },
+    "prompt_tokens": 949,
+    "prompt_tokens_details": {
+      "cached_tokens": 0
+    },
+    "total_tokens": 2051
+  },
+  "finish_reason": "stop",
+  "note": [],
+  "request_id": "251a4894-753b-4c06-a4e2-b983c2693328",
+  "duration_seconds": 28.625
+}

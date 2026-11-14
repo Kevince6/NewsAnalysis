@@ -1,0 +1,51 @@
+{
+  "task_id": "T0160",
+  "model": "doubao",
+  "news_id": "E013",
+  "question_index": 5,
+  "question_original": "【事实】2025年已领过育儿补贴，2026年还符合条件、信息也没变化，能不能直接续领？",
+  "question": "2025年已领过育儿补贴，2026年还符合条件、信息也没变化，能不能直接续领？",
+  "attempt": 1,
+  "provider": "302.ai",
+  "model_requested": "doubao-seed-2-1-pro-260628",
+  "query_date": "2026-11-14",
+  "search_service": "metaso",
+  "prompt_version": "news-search-v1",
+  "prompt_sha256": "ea56fd5557d32615a9115f2368a0c4983ff1188f4935369e694d7d46f2493be1",
+  "requested_at": "2026-11-14T11:44:23.320457+08:00",
+  "raw_file": "raw/T0160_doubao_a001_d1e54f.json",
+  "transport": "sse",
+  "stream_file": "raw/T0160_doubao_a001_d1e54f.sse",
+  "status": "ok",
+  "model_returned": "doubao-seed-2-1-pro-260628",
+  "answer": "若您家孩子属于2026年育儿补贴的覆盖范围，且抚养权等申领核心信息没有变化，可以通过2026年新上线的“一键续领”功能便捷完成续领申请，办理每年3600元标准的育儿补贴续领手续[5]。\n\n需要提醒您注意两点资格核对事项：\n1. 请先确认孩子是否在2026年的补贴对象范围内：2025年1月1日起符合法律法规规定生育或收养的3周岁以下婴幼儿，属于政策明确的常规补贴对象；2023年1月1日后出生的婴幼儿，2026年也可按应补贴月数折算申领；但2022年出生的婴幼儿对应的育儿补贴已在2025年内完成全部申领，2026年不再纳入补贴覆盖范围，这类家庭即便2025年领过补贴，2026年也不符合续领资格[3]。\n2. 续领的主体需要符合申领资格要求：如果2025年申领至今，您家的婚姻状况、孩子抚养权归属没有发生变化，仍由原申领的父母一方（含生父母、养父母）或具有抚养权的监护人操作续领即可；如果期间出现抚养权变更、父母监护缺失等情况，需要调整为符合资格的实际抚养权人、监护人申领[3]。",
+  "sources": [
+    {
+      "index": 1,
+      "url": "https://news.qq.com/rain/a/20260528A06U0900",
+      "title": null,
+      "origin": "citations"
+    },
+    {
+      "index": 2,
+      "url": "http://www.eeo.com.cn/2026/0721/968370.shtml",
+      "title": null,
+      "origin": "citations"
+    }
+  ],
+  "usage": {
+    "completion_tokens": 2236,
+    "completion_tokens_details": {
+      "reasoning_tokens": 1936
+    },
+    "prompt_tokens": 1007,
+    "prompt_tokens_details": {
+      "cached_tokens": 0
+    },
+    "total_tokens": 3243
+  },
+  "finish_reason": "stop",
+  "note": [],
+  "request_id": "bdcb9db0-ec95-4255-b8c1-38cd8aac5b4a",
+  "duration_seconds": 44.875
+}

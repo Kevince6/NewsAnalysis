@@ -1,0 +1,572 @@
+data: {"choices":[{"delta":{"reasoning_content":"用户","role":"assistant"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.hmo.gov.cn/2026/10/30/ARTIZpiGh5CGHaiev9MZL2Xz261030.shtml"],"created":1794630381,"id":"chatcmpl-7818b48b-d243-4411-9658-b2ee8bded02b","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"问"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.hmo.gov.cn/2026/10/30/ARTIZpiGh5CGHaiev9MZL2Xz261030.shtml"],"created":1794630381,"id":"chatcmpl-7818b48b-d243-4411-9658-b2ee8bded02b","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"的是香港"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.hmo.gov.cn/2026/10/30/ARTIZpiGh5CGHaiev9MZL2Xz261030.shtml"],"created":1794630381,"id":"chatcmpl-7818b48b-d243-4411-9658-b2ee8bded02b","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"政府2026年10月"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.hmo.gov.cn/2026/10/30/ARTIZpiGh5CGHaiev9MZL2Xz261030.shtml"],"created":1794630381,"id":"chatcmpl-7818b48b-d243-4411-9658-b2ee8bded02b","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"29日回应宏福苑"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.hmo.gov.cn/2026/10/30/ARTIZpiGh5CGHaiev9MZL2Xz261030.shtml"],"created":1794630381,"id":"chatcmpl-7818b48b-d243-4411-9658-b2ee8bded02b","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"火灾调查报告的重点"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.hmo.gov.cn/2026/10/30/ARTIZpiGh5CGHaiev9MZL2Xz261030.shtml"],"created":1794630381,"id":"chatcmpl-7818b48b-d243-4411-9658-b2ee8bded02b","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"和改革安排"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.hmo.gov.cn/2026/10/30/ARTIZpiGh5CGHaiev9MZL2Xz261030.shtml"],"created":1794630381,"id":"chatcmpl-7818b48b-d243-4411-9658-b2ee8bded02b","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"。搜索结果只"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.hmo.gov.cn/2026/10/30/ARTIZpiGh5CGHaiev9MZL2Xz261030.shtml"],"created":1794630381,"id":"chatcmpl-7818b48b-d243-4411-9658-b2ee8bded02b","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"提供了一个"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.hmo.gov.cn/2026/10/30/ARTIZpiGh5CGHaiev9MZL2Xz261030.shtml"],"created":1794630381,"id":"chatcmpl-7818b48b-d243-4411-9658-b2ee8bded02b","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"网页"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.hmo.gov.cn/2026/10/30/ARTIZpiGh5CGHaiev9MZL2Xz261030.shtml"],"created":1794630381,"id":"chatcmpl-7818b48b-d243-4411-9658-b2ee8bded02b","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"[web"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.hmo.gov.cn/2026/10/30/ARTIZpiGh5CGHaiev9MZL2Xz261030.shtml"],"created":1794630381,"id":"chatcmpl-7818b48b-d243-4411-9658-b2ee8bded02b","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"page 2]，内容是关于"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.hmo.gov.cn/2026/10/30/ARTIZpiGh5CGHaiev9MZL2Xz261030.shtml"],"created":1794630381,"id":"chatcmpl-7818b48b-d243-4411-9658-b2ee8bded02b","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"香港总商会和工业"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.hmo.gov.cn/2026/10/30/ARTIZpiGh5CGHaiev9MZL2Xz261030.shtml"],"created":1794630381,"id":"chatcmpl-7818b48b-d243-4411-9658-b2ee8bded02b","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"总会"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.hmo.gov.cn/2026/10/30/ARTIZpiGh5CGHaiev9MZL2Xz261030.shtml"],"created":1794630381,"id":"chatcmpl-7818b48b-d243-4411-9658-b2ee8bded02b","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"支持政府"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.hmo.gov.cn/2026/10/30/ARTIZpiGh5CGHaiev9MZL2Xz261030.shtml"],"created":1794630381,"id":"chatcmpl-7818b48b-d243-4411-9658-b2ee8bded02b","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"公布宏"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.hmo.gov.cn/2026/10/30/ARTIZpiGh5CGHaiev9MZL2Xz261030.shtml"],"created":1794630381,"id":"chatcmpl-7818b48b-d243-4411-9658-b2ee8bded02b","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"福苑火灾独立委员会"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.hmo.gov.cn/2026/10/30/ARTIZpiGh5CGHaiev9MZL2Xz261030.shtml"],"created":1794630381,"id":"chatcmpl-7818b48b-d243-4411-9658-b2ee8bded02b","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"报告及"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.hmo.gov.cn/2026/10/30/ARTIZpiGh5CGHaiev9MZL2Xz261030.shtml"],"created":1794630381,"id":"chatcmpl-7818b48b-d243-4411-9658-b2ee8bded02b","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"改革措施。这个"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.hmo.gov.cn/2026/10/30/ARTIZpiGh5CGHaiev9MZL2Xz261030.shtml"],"created":1794630381,"id":"chatcmpl-7818b48b-d243-4411-9658-b2ee8bded02b","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"网页没有直接"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.hmo.gov.cn/2026/10/30/ARTIZpiGh5CGHaiev9MZL2Xz261030.shtml"],"created":1794630381,"id":"chatcmpl-7818b48b-d243-4411-9658-b2ee8bded02b","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"提供"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.hmo.gov.cn/2026/10/30/ARTIZpiGh5CGHaiev9MZL2Xz261030.shtml"],"created":1794630381,"id":"chatcmpl-7818b48b-d243-4411-9658-b2ee8bded02b","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"政府回"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.hmo.gov.cn/2026/10/30/ARTIZpiGh5CGHaiev9MZL2Xz261030.shtml"],"created":1794630381,"id":"chatcmpl-7818b48b-d243-4411-9658-b2ee8bded02b","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"应的具体内容。\n\n"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.hmo.gov.cn/2026/10/30/ARTIZpiGh5CGHaiev9MZL2Xz261030.shtml"],"created":1794630381,"id":"chatcmpl-7818b48b-d243-4411-9658-b2ee8bded02b","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"我需要判断：搜索结果"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.hmo.gov.cn/2026/10/30/ARTIZpiGh5CGHaiev9MZL2Xz261030.shtml"],"created":1794630381,"id":"chatcmpl-7818b48b-d243-4411-9658-b2ee8bded02b","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"信息"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.hmo.gov.cn/2026/10/30/ARTIZpiGh5CGHaiev9MZL2Xz261030.shtml"],"created":1794630381,"id":"chatcmpl-7818b48b-d243-4411-9658-b2ee8bded02b","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"严重"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.hmo.gov.cn/2026/10/30/ARTIZpiGh5CGHaiev9MZL2Xz261030.shtml"],"created":1794630381,"id":"chatcmpl-7818b48b-d243-4411-9658-b2ee8bded02b","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"不足。按照"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.hmo.gov.cn/2026/10/30/ARTIZpiGh5CGHaiev9MZL2Xz261030.shtml"],"created":1794630381,"id":"chatcmpl-7818b48b-d243-4411-9658-b2ee8bded02b","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"要求，资料"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.hmo.gov.cn/2026/10/30/ARTIZpiGh5CGHaiev9MZL2Xz261030.shtml"],"created":1794630381,"id":"chatcmpl-7818b48b-d243-4411-9658-b2ee8bded02b","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"不足应"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.hmo.gov.cn/2026/10/30/ARTIZpiGh5CGHaiev9MZL2Xz261030.shtml"],"created":1794630381,"id":"chatcmpl-7818b48b-d243-4411-9658-b2ee8bded02b","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"明确说明。"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.hmo.gov.cn/2026/10/30/ARTIZpiGh5CGHaiev9MZL2Xz261030.shtml"],"created":1794630381,"id":"chatcmpl-7818b48b-d243-4411-9658-b2ee8bded02b","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"我不能"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.hmo.gov.cn/2026/10/30/ARTIZpiGh5CGHaiev9MZL2Xz261030.shtml"],"created":1794630381,"id":"chatcmpl-7818b48b-d243-4411-9658-b2ee8bded02b","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"编造政府"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.hmo.gov.cn/2026/10/30/ARTIZpiGh5CGHaiev9MZL2Xz261030.shtml"],"created":1794630381,"id":"chatcmpl-7818b48b-d243-4411-9658-b2ee8bded02b","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"回"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.hmo.gov.cn/2026/10/30/ARTIZpiGh5CGHaiev9MZL2Xz261030.shtml"],"created":1794630381,"id":"chatcmpl-7818b48b-d243-4411-9658-b2ee8bded02b","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"应的具体细节。我只能基于"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.hmo.gov.cn/2026/10/30/ARTIZpiGh5CGHaiev9MZL2Xz261030.shtml"],"created":1794630381,"id":"chatcmpl-7818b48b-d243-4411-9658-b2ee8bded02b","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"["},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.hmo.gov.cn/2026/10/30/ARTIZpiGh5CGHaiev9MZL2Xz261030.shtml"],"created":1794630381,"id":"chatcmpl-7818b48b-d243-4411-9658-b2ee8bded02b","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"webpage 2]说明"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.hmo.gov.cn/2026/10/30/ARTIZpiGh5CGHaiev9MZL2Xz261030.shtml"],"created":1794630381,"id":"chatcmpl-7818b48b-d243-4411-9658-b2ee8bded02b","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"已知"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.hmo.gov.cn/2026/10/30/ARTIZpiGh5CGHaiev9MZL2Xz261030.shtml"],"created":1794630381,"id":"chatcmpl-7818b48b-d243-4411-9658-b2ee8bded02b","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"的信息：政府"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.hmo.gov.cn/2026/10/30/ARTIZpiGh5CGHaiev9MZL2Xz261030.shtml"],"created":1794630381,"id":"chatcmpl-7818b48b-d243-4411-9658-b2ee8bded02b","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"公布了"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.hmo.gov.cn/2026/10/30/ARTIZpiGh5CGHaiev9MZL2Xz261030.shtml"],"created":1794630381,"id":"chatcmpl-7818b48b-d243-4411-9658-b2ee8bded02b","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"独立委员会"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.hmo.gov.cn/2026/10/30/ARTIZpiGh5CGHaiev9MZL2Xz261030.shtml"],"created":1794630381,"id":"chatcmpl-7818b48b-d243-4411-9658-b2ee8bded02b","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"报告，并提出"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.hmo.gov.cn/2026/10/30/ARTIZpiGh5CGHaiev9MZL2Xz261030.shtml"],"created":1794630381,"id":"chatcmpl-7818b48b-d243-4411-9658-b2ee8bded02b","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"全面"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.hmo.gov.cn/2026/10/30/ARTIZpiGh5CGHaiev9MZL2Xz261030.shtml"],"created":1794630381,"id":"chatcmpl-7818b48b-d243-4411-9658-b2ee8bded02b","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"改革措施；商"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.hmo.gov.cn/2026/10/30/ARTIZpiGh5CGHaiev9MZL2Xz261030.shtml"],"created":1794630381,"id":"chatcmpl-7818b48b-d243-4411-9658-b2ee8bded02b","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"界支持"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.hmo.gov.cn/2026/10/30/ARTIZpiGh5CGHaiev9MZL2Xz261030.shtml"],"created":1794630381,"id":"chatcmpl-7818b48b-d243-4411-9658-b2ee8bded02b","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"；改革"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.hmo.gov.cn/2026/10/30/ARTIZpiGh5CGHaiev9MZL2Xz261030.shtml"],"created":1794630381,"id":"chatcmpl-7818b48b-d243-4411-9658-b2ee8bded02b","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"方向包括完善"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.hmo.gov.cn/2026/10/30/ARTIZpiGh5CGHaiev9MZL2Xz261030.shtml"],"created":1794630381,"id":"chatcmpl-7818b48b-d243-4411-9658-b2ee8bded02b","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"楼宇维修"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.hmo.gov.cn/2026/10/30/ARTIZpiGh5CGHaiev9MZL2Xz261030.shtml"],"created":1794630381,"id":"chatcmpl-7818b48b-d243-4411-9658-b2ee8bded02b","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"工程规管"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.hmo.gov.cn/2026/10/30/ARTIZpiGh5CGHaiev9MZL2Xz261030.shtml"],"created":1794630381,"id":"chatcmpl-7818b48b-d243-4411-9658-b2ee8bded02b","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"、厘"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.hmo.gov.cn/2026/10/30/ARTIZpiGh5CGHaiev9MZL2Xz261030.shtml"],"created":1794630381,"id":"chatcmpl-7818b48b-d243-4411-9658-b2ee8bded02b","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"清持"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.hmo.gov.cn/2026/10/30/ARTIZpiGh5CGHaiev9MZL2Xz261030.shtml"],"created":1794630381,"id":"chatcmpl-7818b48b-d243-4411-9658-b2ee8bded02b","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"份者"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.hmo.gov.cn/2026/10/30/ARTIZpiGh5CGHaiev9MZL2Xz261030.shtml"],"created":1794630381,"id":"chatcmpl-7818b48b-d243-4411-9658-b2ee8bded02b","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"监管责任、加强风险"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.hmo.gov.cn/2026/10/30/ARTIZpiGh5CGHaiev9MZL2Xz261030.shtml"],"created":1794630381,"id":"chatcmpl-7818b48b-d243-4411-9658-b2ee8bded02b","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"防范及执行机制。\n\n但"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.hmo.gov.cn/2026/10/30/ARTIZpiGh5CGHaiev9MZL2Xz261030.shtml"],"created":1794630381,"id":"chatcmpl-7818b48b-d243-4411-9658-b2ee8bded02b","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"问题是\""},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.hmo.gov.cn/2026/10/30/ARTIZpiGh5CGHaiev9MZL2Xz261030.shtml"],"created":1794630381,"id":"chatcmpl-7818b48b-d243-4411-9658-b2ee8bded02b","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"重点"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.hmo.gov.cn/2026/10/30/ARTIZpiGh5CGHaiev9MZL2Xz261030.shtml"],"created":1794630381,"id":"chatcmpl-7818b48b-d243-4411-9658-b2ee8bded02b","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"回应了哪些问题，"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.hmo.gov.cn/2026/10/30/ARTIZpiGh5CGHaiev9MZL2Xz261030.shtml"],"created":1794630381,"id":"chatcmpl-7818b48b-d243-4411-9658-b2ee8bded02b","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"提出了哪些改革安排"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.hmo.gov.cn/2026/10/30/ARTIZpiGh5CGHaiev9MZL2Xz261030.shtml"],"created":1794630381,"id":"chatcmpl-7818b48b-d243-4411-9658-b2ee8bded02b","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"\"——搜索结果没有列出"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.hmo.gov.cn/2026/10/30/ARTIZpiGh5CGHaiev9MZL2Xz261030.shtml"],"created":1794630381,"id":"chatcmpl-7818b48b-d243-4411-9658-b2ee8bded02b","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"具体"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.hmo.gov.cn/2026/10/30/ARTIZpiGh5CGHaiev9MZL2Xz261030.shtml"],"created":1794630381,"id":"chatcmpl-7818b48b-d243-4411-9658-b2ee8bded02b","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"回应"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.hmo.gov.cn/2026/10/30/ARTIZpiGh5CGHaiev9MZL2Xz261030.shtml"],"created":1794630381,"id":"chatcmpl-7818b48b-d243-4411-9658-b2ee8bded02b","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"的问题。我应该直接"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.hmo.gov.cn/2026/10/30/ARTIZpiGh5CGHaiev9MZL2Xz261030.shtml"],"created":1794630381,"id":"chatcmpl-7818b48b-d243-4411-9658-b2ee8bded02b","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"回答"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.hmo.gov.cn/2026/10/30/ARTIZpiGh5CGHaiev9MZL2Xz261030.shtml"],"created":1794630381,"id":"chatcmpl-7818b48b-d243-4411-9658-b2ee8bded02b","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"：根据"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.hmo.gov.cn/2026/10/30/ARTIZpiGh5CGHaiev9MZL2Xz261030.shtml"],"created":1794630381,"id":"chatcmpl-7818b48b-d243-4411-9658-b2ee8bded02b","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"现有搜索结果，无法确认具体"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.hmo.gov.cn/2026/10/30/ARTIZpiGh5CGHaiev9MZL2Xz261030.shtml"],"created":1794630381,"id":"chatcmpl-7818b48b-d243-4411-9658-b2ee8bded02b","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"重点回应的问题"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.hmo.gov.cn/2026/10/30/ARTIZpiGh5CGHaiev9MZL2Xz261030.shtml"],"created":1794630381,"id":"chatcmpl-7818b48b-d243-4411-9658-b2ee8bded02b","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"；只能确认改革"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.hmo.gov.cn/2026/10/30/ARTIZpiGh5CGHaiev9MZL2Xz261030.shtml"],"created":1794630381,"id":"chatcmpl-7818b48b-d243-4411-9658-b2ee8bded02b","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"安排"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.hmo.gov.cn/2026/10/30/ARTIZpiGh5CGHaiev9MZL2Xz261030.shtml"],"created":1794630381,"id":"chatcmpl-7818b48b-d243-4411-9658-b2ee8bded02b","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"的大"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.hmo.gov.cn/2026/10/30/ARTIZpiGh5CGHaiev9MZL2Xz261030.shtml"],"created":1794630381,"id":"chatcmpl-7818b48b-d243-4411-9658-b2ee8bded02b","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"方向。需要"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.hmo.gov.cn/2026/10/30/ARTIZpiGh5CGHaiev9MZL2Xz261030.shtml"],"created":1794630381,"id":"chatcmpl-7818b48b-d243-4411-9658-b2ee8bded02b","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"明确说明资料"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.hmo.gov.cn/2026/10/30/ARTIZpiGh5CGHaiev9MZL2Xz261030.shtml"],"created":1794630381,"id":"chatcmpl-7818b48b-d243-4411-9658-b2ee8bded02b","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"不足。\n\n"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.hmo.gov.cn/2026/10/30/ARTIZpiGh5CGHaiev9MZL2Xz261030.shtml"],"created":1794630381,"id":"chatcmpl-7818b48b-d243-4411-9658-b2ee8bded02b","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"注意"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.hmo.gov.cn/2026/10/30/ARTIZpiGh5CGHaiev9MZL2Xz261030.shtml"],"created":1794630381,"id":"chatcmpl-7818b48b-d243-4411-9658-b2ee8bded02b","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"日期"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.hmo.gov.cn/2026/10/30/ARTIZpiGh5CGHaiev9MZL2Xz261030.shtml"],"created":1794630381,"id":"chatcmpl-7818b48b-d243-4411-9658-b2ee8bded02b","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"：查询"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.hmo.gov.cn/2026/10/30/ARTIZpiGh5CGHaiev9MZL2Xz261030.shtml"],"created":1794630381,"id":"chatcmpl-7818b48b-d243-4411-9658-b2ee8bded02b","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"日期2026-"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.hmo.gov.cn/2026/10/30/ARTIZpiGh5CGHaiev9MZL2Xz261030.shtml"],"created":1794630381,"id":"chatcmpl-7818b48b-d243-4411-9658-b2ee8bded02b","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"11-14，用户说"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.hmo.gov.cn/2026/10/30/ARTIZpiGh5CGHaiev9MZL2Xz261030.shtml"],"created":1794630381,"id":"chatcmpl-7818b48b-d243-4411-9658-b2ee8bded02b","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"政府"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.hmo.gov.cn/2026/10/30/ARTIZpiGh5CGHaiev9MZL2Xz261030.shtml"],"created":1794630381,"id":"chatcmpl-7818b48b-d243-4411-9658-b2ee8bded02b","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"2026年10月29"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.hmo.gov.cn/2026/10/30/ARTIZpiGh5CGHaiev9MZL2Xz261030.shtml"],"created":1794630381,"id":"chatcmpl-7818b48b-d243-4411-9658-b2ee8bded02b","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"日回应。搜索结果"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.hmo.gov.cn/2026/10/30/ARTIZpiGh5CGHaiev9MZL2Xz261030.shtml"],"created":1794630381,"id":"chatcmpl-7818b48b-d243-4411-9658-b2ee8bded02b","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"没有"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.hmo.gov.cn/2026/10/30/ARTIZpiGh5CGHaiev9MZL2Xz261030.shtml"],"created":1794630381,"id":"chatcmpl-7818b48b-d243-4411-9658-b2ee8bded02b","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"日期，但"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.hmo.gov.cn/2026/10/30/ARTIZpiGh5CGHaiev9MZL2Xz261030.shtml"],"created":1794630381,"id":"chatcmpl-7818b48b-d243-4411-9658-b2ee8bded02b","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"提到\""},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.hmo.gov.cn/2026/10/30/ARTIZpiGh5CGHaiev9MZL2Xz261030.shtml"],"created":1794630381,"id":"chatcmpl-7818b48b-d243-4411-9658-b2ee8bded02b","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"宏福"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.hmo.gov.cn/2026/10/30/ARTIZpiGh5CGHaiev9MZL2Xz261030.shtml"],"created":1794630381,"id":"chatcmpl-7818b48b-d243-4411-9658-b2ee8bded02b","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"苑火灾独立"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.hmo.gov.cn/2026/10/30/ARTIZpiGh5CGHaiev9MZL2Xz261030.shtml"],"created":1794630381,"id":"chatcmpl-7818b48b-d243-4411-9658-b2ee8bded02b","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"委员会报告\"。我不能"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.hmo.gov.cn/2026/10/30/ARTIZpiGh5CGHaiev9MZL2Xz261030.shtml"],"created":1794630381,"id":"chatcmpl-7818b48b-d243-4411-9658-b2ee8bded02b","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"推断"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.hmo.gov.cn/2026/10/30/ARTIZpiGh5CGHaiev9MZL2Xz261030.shtml"],"created":1794630381,"id":"chatcmpl-7818b48b-d243-4411-9658-b2ee8bded02b","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"更多。\n\n"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.hmo.gov.cn/2026/10/30/ARTIZpiGh5CGHaiev9MZL2Xz261030.shtml"],"created":1794630381,"id":"chatcmpl-7818b48b-d243-4411-9658-b2ee8bded02b","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"回答要"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.hmo.gov.cn/2026/10/30/ARTIZpiGh5CGHaiev9MZL2Xz261030.shtml"],"created":1794630381,"id":"chatcmpl-7818b48b-d243-4411-9658-b2ee8bded02b","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"自然"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.hmo.gov.cn/2026/10/30/ARTIZpiGh5CGHaiev9MZL2Xz261030.shtml"],"created":1794630381,"id":"chatcmpl-7818b48b-d243-4411-9658-b2ee8bded02b","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"中文，先"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.hmo.gov.cn/2026/10/30/ARTIZpiGh5CGHaiev9MZL2Xz261030.shtml"],"created":1794630381,"id":"chatcmpl-7818b48b-d243-4411-9658-b2ee8bded02b","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"直接回答，再补充"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.hmo.gov.cn/2026/10/30/ARTIZpiGh5CGHaiev9MZL2Xz261030.shtml"],"created":1794630381,"id":"chatcmpl-7818b48b-d243-4411-9658-b2ee8bded02b","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"说明。引用["},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.hmo.gov.cn/2026/10/30/ARTIZpiGh5CGHaiev9MZL2Xz261030.shtml"],"created":1794630381,"id":"chatcmpl-7818b48b-d243-4411-9658-b2ee8bded02b","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"2]。\n\n"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.hmo.gov.cn/2026/10/30/ARTIZpiGh5CGHaiev9MZL2Xz261030.shtml"],"created":1794630381,"id":"chatcmpl-7818b48b-d243-4411-9658-b2ee8bded02b","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"需要"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.hmo.gov.cn/2026/10/30/ARTIZpiGh5CGHaiev9MZL2Xz261030.shtml"],"created":1794630381,"id":"chatcmpl-7818b48b-d243-4411-9658-b2ee8bded02b","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"谨慎：不要声称"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.hmo.gov.cn/2026/10/30/ARTIZpiGh5CGHaiev9MZL2Xz261030.shtml"],"created":1794630381,"id":"chatcmpl-7818b48b-d243-4411-9658-b2ee8bded02b","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"政府具体"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.hmo.gov.cn/2026/10/30/ARTIZpiGh5CGHaiev9MZL2Xz261030.shtml"],"created":1794630381,"id":"chatcmpl-7818b48b-d243-4411-9658-b2ee8bded02b","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"回应了"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.hmo.gov.cn/2026/10/30/ARTIZpiGh5CGHaiev9MZL2Xz261030.shtml"],"created":1794630381,"id":"chatcmpl-7818b48b-d243-4411-9658-b2ee8bded02b","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"哪些问题。可以说明搜索结果"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.hmo.gov.cn/2026/10/30/ARTIZpiGh5CGHaiev9MZL2Xz261030.shtml"],"created":1794630381,"id":"chatcmpl-7818b48b-d243-4411-9658-b2ee8bded02b","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"仅"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.hmo.gov.cn/2026/10/30/ARTIZpiGh5CGHaiev9MZL2Xz261030.shtml"],"created":1794630381,"id":"chatcmpl-7818b48b-d243-4411-9658-b2ee8bded02b","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"显示"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.hmo.gov.cn/2026/10/30/ARTIZpiGh5CGHaiev9MZL2Xz261030.shtml"],"created":1794630381,"id":"chatcmpl-7818b48b-d243-4411-9658-b2ee8bded02b","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"商界"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.hmo.gov.cn/2026/10/30/ARTIZpiGh5CGHaiev9MZL2Xz261030.shtml"],"created":1794630381,"id":"chatcmpl-7818b48b-d243-4411-9658-b2ee8bded02b","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"回应"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.hmo.gov.cn/2026/10/30/ARTIZpiGh5CGHaiev9MZL2Xz261030.shtml"],"created":1794630381,"id":"chatcmpl-7818b48b-d243-4411-9658-b2ee8bded02b","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"，未"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.hmo.gov.cn/2026/10/30/ARTIZpiGh5CGHaiev9MZL2Xz261030.shtml"],"created":1794630381,"id":"chatcmpl-7818b48b-d243-4411-9658-b2ee8bded02b","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"提供政府回应全文"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.hmo.gov.cn/2026/10/30/ARTIZpiGh5CGHaiev9MZL2Xz261030.shtml"],"created":1794630381,"id":"chatcmpl-7818b48b-d243-4411-9658-b2ee8bded02b","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"。改革"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.hmo.gov.cn/2026/10/30/ARTIZpiGh5CGHaiev9MZL2Xz261030.shtml"],"created":1794630381,"id":"chatcmpl-7818b48b-d243-4411-9658-b2ee8bded02b","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"安排方面，"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.hmo.gov.cn/2026/10/30/ARTIZpiGh5CGHaiev9MZL2Xz261030.shtml"],"created":1794630381,"id":"chatcmpl-7818b48b-d243-4411-9658-b2ee8bded02b","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"[web"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.hmo.gov.cn/2026/10/30/ARTIZpiGh5CGHaiev9MZL2Xz261030.shtml"],"created":1794630381,"id":"chatcmpl-7818b48b-d243-4411-9658-b2ee8bded02b","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"page 2]提到总"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.hmo.gov.cn/2026/10/30/ARTIZpiGh5CGHaiev9MZL2Xz261030.shtml"],"created":1794630381,"id":"chatcmpl-7818b48b-d243-4411-9658-b2ee8bded02b","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"商会支持政府"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.hmo.gov.cn/2026/10/30/ARTIZpiGh5CGHaiev9MZL2Xz261030.shtml"],"created":1794630381,"id":"chatcmpl-7818b48b-d243-4411-9658-b2ee8bded02b","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"认真"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.hmo.gov.cn/2026/10/30/ARTIZpiGh5CGHaiev9MZL2Xz261030.shtml"],"created":1794630381,"id":"chatcmpl-7818b48b-d243-4411-9658-b2ee8bded02b","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"研究报告建议"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.hmo.gov.cn/2026/10/30/ARTIZpiGh5CGHaiev9MZL2Xz261030.shtml"],"created":1794630381,"id":"chatcmpl-7818b48b-d243-4411-9658-b2ee8bded02b","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"，落实系统性"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.hmo.gov.cn/2026/10/30/ARTIZpiGh5CGHaiev9MZL2Xz261030.shtml"],"created":1794630381,"id":"chatcmpl-7818b48b-d243-4411-9658-b2ee8bded02b","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"改革，包括完善"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.hmo.gov.cn/2026/10/30/ARTIZpiGh5CGHaiev9MZL2Xz261030.shtml"],"created":1794630381,"id":"chatcmpl-7818b48b-d243-4411-9658-b2ee8bded02b","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"楼宇维修"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.hmo.gov.cn/2026/10/30/ARTIZpiGh5CGHaiev9MZL2Xz261030.shtml"],"created":1794630381,"id":"chatcmpl-7818b48b-d243-4411-9658-b2ee8bded02b","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"工程规管、厘"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.hmo.gov.cn/2026/10/30/ARTIZpiGh5CGHaiev9MZL2Xz261030.shtml"],"created":1794630381,"id":"chatcmpl-7818b48b-d243-4411-9658-b2ee8bded02b","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"清各持"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.hmo.gov.cn/2026/10/30/ARTIZpiGh5CGHaiev9MZL2Xz261030.shtml"],"created":1794630381,"id":"chatcmpl-7818b48b-d243-4411-9658-b2ee8bded02b","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"份者的监管责任、加强"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.hmo.gov.cn/2026/10/30/ARTIZpiGh5CGHaiev9MZL2Xz261030.shtml"],"created":1794630381,"id":"chatcmpl-7818b48b-d243-4411-9658-b2ee8bded02b","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"风险防范及执行机制。"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.hmo.gov.cn/2026/10/30/ARTIZpiGh5CGHaiev9MZL2Xz261030.shtml"],"created":1794630381,"id":"chatcmpl-7818b48b-d243-4411-9658-b2ee8bded02b","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"工业总会"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.hmo.gov.cn/2026/10/30/ARTIZpiGh5CGHaiev9MZL2Xz261030.shtml"],"created":1794630381,"id":"chatcmpl-7818b48b-d243-4411-9658-b2ee8bded02b","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"支持"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.hmo.gov.cn/2026/10/30/ARTIZpiGh5CGHaiev9MZL2Xz261030.shtml"],"created":1794630381,"id":"chatcmpl-7818b48b-d243-4411-9658-b2ee8bded02b","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"政府"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.hmo.gov.cn/2026/10/30/ARTIZpiGh5CGHaiev9MZL2Xz261030.shtml"],"created":1794630381,"id":"chatcmpl-7818b48b-d243-4411-9658-b2ee8bded02b","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"公布报告"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.hmo.gov.cn/2026/10/30/ARTIZpiGh5CGHaiev9MZL2Xz261030.shtml"],"created":1794630381,"id":"chatcmpl-7818b48b-d243-4411-9658-b2ee8bded02b","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"并就"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.hmo.gov.cn/2026/10/30/ARTIZpiGh5CGHaiev9MZL2Xz261030.shtml"],"created":1794630381,"id":"chatcmpl-7818b48b-d243-4411-9658-b2ee8bded02b","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"报告"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.hmo.gov.cn/2026/10/30/ARTIZpiGh5CGHaiev9MZL2Xz261030.shtml"],"created":1794630381,"id":"chatcmpl-7818b48b-d243-4411-9658-b2ee8bded02b","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"建议提出全面改革"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.hmo.gov.cn/2026/10/30/ARTIZpiGh5CGHaiev9MZL2Xz261030.shtml"],"created":1794630381,"id":"chatcmpl-7818b48b-d243-4411-9658-b2ee8bded02b","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"措施。\n\n我可以整理为"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.hmo.gov.cn/2026/10/30/ARTIZpiGh5CGHaiev9MZL2Xz261030.shtml"],"created":1794630381,"id":"chatcmpl-7818b48b-d243-4411-9658-b2ee8bded02b","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"：\n- 现有"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.hmo.gov.cn/2026/10/30/ARTIZpiGh5CGHaiev9MZL2Xz261030.shtml"],"created":1794630381,"id":"chatcmpl-7818b48b-d243-4411-9658-b2ee8bded02b","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"检索结果"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.hmo.gov.cn/2026/10/30/ARTIZpiGh5CGHaiev9MZL2Xz261030.shtml"],"created":1794630381,"id":"chatcmpl-7818b48b-d243-4411-9658-b2ee8bded02b","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"不足以完整"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.hmo.gov.cn/2026/10/30/ARTIZpiGh5CGHaiev9MZL2Xz261030.shtml"],"created":1794630381,"id":"chatcmpl-7818b48b-d243-4411-9658-b2ee8bded02b","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"回答\""},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.hmo.gov.cn/2026/10/30/ARTIZpiGh5CGHaiev9MZL2Xz261030.shtml"],"created":1794630381,"id":"chatcmpl-7818b48b-d243-4411-9658-b2ee8bded02b","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"重点回应了"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.hmo.gov.cn/2026/10/30/ARTIZpiGh5CGHaiev9MZL2Xz261030.shtml"],"created":1794630381,"id":"chatcmpl-7818b48b-d243-4411-9658-b2ee8bded02b","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"哪些问题\"。\n"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.hmo.gov.cn/2026/10/30/ARTIZpiGh5CGHaiev9MZL2Xz261030.shtml"],"created":1794630381,"id":"chatcmpl-7818b48b-d243-4411-9658-b2ee8bded02b","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"- 可确认的改革"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.hmo.gov.cn/2026/10/30/ARTIZpiGh5CGHaiev9MZL2Xz261030.shtml"],"created":1794630381,"id":"chatcmpl-7818b48b-d243-4411-9658-b2ee8bded02b","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"方向"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.hmo.gov.cn/2026/10/30/ARTIZpiGh5CGHaiev9MZL2Xz261030.shtml"],"created":1794630381,"id":"chatcmpl-7818b48b-d243-4411-9658-b2ee8bded02b","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"（"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.hmo.gov.cn/2026/10/30/ARTIZpiGh5CGHaiev9MZL2Xz261030.shtml"],"created":1794630381,"id":"chatcmpl-7818b48b-d243-4411-9658-b2ee8bded02b","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"来自"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.hmo.gov.cn/2026/10/30/ARTIZpiGh5CGHaiev9MZL2Xz261030.shtml"],"created":1794630381,"id":"chatcmpl-7818b48b-d243-4411-9658-b2ee8bded02b","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"总"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.hmo.gov.cn/2026/10/30/ARTIZpiGh5CGHaiev9MZL2Xz261030.shtml"],"created":1794630381,"id":"chatcmpl-7818b48b-d243-4411-9658-b2ee8bded02b","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"商会转"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.hmo.gov.cn/2026/10/30/ARTIZpiGh5CGHaiev9MZL2Xz261030.shtml"],"created":1794630381,"id":"chatcmpl-7818b48b-d243-4411-9658-b2ee8bded02b","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"述）：完善楼宇维修"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.hmo.gov.cn/2026/10/30/ARTIZpiGh5CGHaiev9MZL2Xz261030.shtml"],"created":1794630381,"id":"chatcmpl-7818b48b-d243-4411-9658-b2ee8bded02b","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"工程规管、厘清"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.hmo.gov.cn/2026/10/30/ARTIZpiGh5CGHaiev9MZL2Xz261030.shtml"],"created":1794630381,"id":"chatcmpl-7818b48b-d243-4411-9658-b2ee8bded02b","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"各持份"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.hmo.gov.cn/2026/10/30/ARTIZpiGh5CGHaiev9MZL2Xz261030.shtml"],"created":1794630381,"id":"chatcmpl-7818b48b-d243-4411-9658-b2ee8bded02b","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"者监管责任、加强风险"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.hmo.gov.cn/2026/10/30/ARTIZpiGh5CGHaiev9MZL2Xz261030.shtml"],"created":1794630381,"id":"chatcmpl-7818b48b-d243-4411-9658-b2ee8bded02b","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"防范及执行机制、提升"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.hmo.gov.cn/2026/10/30/ARTIZpiGh5CGHaiev9MZL2Xz261030.shtml"],"created":1794630381,"id":"chatcmpl-7818b48b-d243-4411-9658-b2ee8bded02b","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"城市管理和"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.hmo.gov.cn/2026/10/30/ARTIZpiGh5CGHaiev9MZL2Xz261030.shtml"],"created":1794630381,"id":"chatcmpl-7818b48b-d243-4411-9658-b2ee8bded02b","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"楼宇安全水平。\n"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.hmo.gov.cn/2026/10/30/ARTIZpiGh5CGHaiev9MZL2Xz261030.shtml"],"created":1794630381,"id":"chatcmpl-7818b48b-d243-4411-9658-b2ee8bded02b","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"- 政府和"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.hmo.gov.cn/2026/10/30/ARTIZpiGh5CGHaiev9MZL2Xz261030.shtml"],"created":1794630381,"id":"chatcmpl-7818b48b-d243-4411-9658-b2ee8bded02b","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"业界"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.hmo.gov.cn/2026/10/30/ARTIZpiGh5CGHaiev9MZL2Xz261030.shtml"],"created":1794630381,"id":"chatcmpl-7818b48b-d243-4411-9658-b2ee8bded02b","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"态度：透明"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.hmo.gov.cn/2026/10/30/ARTIZpiGh5CGHaiev9MZL2Xz261030.shtml"],"created":1794630381,"id":"chatcmpl-7818b48b-d243-4411-9658-b2ee8bded02b","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"、"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.hmo.gov.cn/2026/10/30/ARTIZpiGh5CGHaiev9MZL2Xz261030.shtml"],"created":1794630381,"id":"chatcmpl-7818b48b-d243-4411-9658-b2ee8bded02b","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"基于事实和"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.hmo.gov.cn/2026/10/30/ARTIZpiGh5CGHaiev9MZL2Xz261030.shtml"],"created":1794630381,"id":"chatcmpl-7818b48b-d243-4411-9658-b2ee8bded02b","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"证据处理事件"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.hmo.gov.cn/2026/10/30/ARTIZpiGh5CGHaiev9MZL2Xz261030.shtml"],"created":1794630381,"id":"chatcmpl-7818b48b-d243-4411-9658-b2ee8bded02b","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"；支持"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.hmo.gov.cn/2026/10/30/ARTIZpiGh5CGHaiev9MZL2Xz261030.shtml"],"created":1794630381,"id":"chatcmpl-7818b48b-d243-4411-9658-b2ee8bded02b","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"公布"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.hmo.gov.cn/2026/10/30/ARTIZpiGh5CGHaiev9MZL2Xz261030.shtml"],"created":1794630381,"id":"chatcmpl-7818b48b-d243-4411-9658-b2ee8bded02b","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"独立"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.hmo.gov.cn/2026/10/30/ARTIZpiGh5CGHaiev9MZL2Xz261030.shtml"],"created":1794630381,"id":"chatcmpl-7818b48b-d243-4411-9658-b2ee8bded02b","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"委员会报告并提出"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.hmo.gov.cn/2026/10/30/ARTIZpiGh5CGHaiev9MZL2Xz261030.shtml"],"created":1794630381,"id":"chatcmpl-7818b48b-d243-4411-9658-b2ee8bded02b","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"全面改革措施。\n- "},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.hmo.gov.cn/2026/10/30/ARTIZpiGh5CGHaiev9MZL2Xz261030.shtml"],"created":1794630381,"id":"chatcmpl-7818b48b-d243-4411-9658-b2ee8bded02b","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"建议查看"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.hmo.gov.cn/2026/10/30/ARTIZpiGh5CGHaiev9MZL2Xz261030.shtml"],"created":1794630381,"id":"chatcmpl-7818b48b-d243-4411-9658-b2ee8bded02b","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"政府"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.hmo.gov.cn/2026/10/30/ARTIZpiGh5CGHaiev9MZL2Xz261030.shtml"],"created":1794630381,"id":"chatcmpl-7818b48b-d243-4411-9658-b2ee8bded02b","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"新闻"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.hmo.gov.cn/2026/10/30/ARTIZpiGh5CGHaiev9MZL2Xz261030.shtml"],"created":1794630381,"id":"chatcmpl-7818b48b-d243-4411-9658-b2ee8bded02b","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"公报"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.hmo.gov.cn/2026/10/30/ARTIZpiGh5CGHaiev9MZL2Xz261030.shtml"],"created":1794630381,"id":"chatcmpl-7818b48b-d243-4411-9658-b2ee8bded02b","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"/独立"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.hmo.gov.cn/2026/10/30/ARTIZpiGh5CGHaiev9MZL2Xz261030.shtml"],"created":1794630381,"id":"chatcmpl-7818b48b-d243-4411-9658-b2ee8bded02b","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"委员会报告原文。\n\n"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.hmo.gov.cn/2026/10/30/ARTIZpiGh5CGHaiev9MZL2Xz261030.shtml"],"created":1794630381,"id":"chatcmpl-7818b48b-d243-4411-9658-b2ee8bded02b","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"需要注明"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.hmo.gov.cn/2026/10/30/ARTIZpiGh5CGHaiev9MZL2Xz261030.shtml"],"created":1794630381,"id":"chatcmpl-7818b48b-d243-4411-9658-b2ee8bded02b","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"这是"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.hmo.gov.cn/2026/10/30/ARTIZpiGh5CGHaiev9MZL2Xz261030.shtml"],"created":1794630381,"id":"chatcmpl-7818b48b-d243-4411-9658-b2ee8bded02b","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"资料不足，存在"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.hmo.gov.cn/2026/10/30/ARTIZpiGh5CGHaiev9MZL2Xz261030.shtml"],"created":1794630381,"id":"chatcmpl-7818b48b-d243-4411-9658-b2ee8bded02b","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"未"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.hmo.gov.cn/2026/10/30/ARTIZpiGh5CGHaiev9MZL2Xz261030.shtml"],"created":1794630381,"id":"chatcmpl-7818b48b-d243-4411-9658-b2ee8bded02b","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"确认内容"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.hmo.gov.cn/2026/10/30/ARTIZpiGh5CGHaiev9MZL2Xz261030.shtml"],"created":1794630381,"id":"chatcmpl-7818b48b-d243-4411-9658-b2ee8bded02b","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"。避免编"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.hmo.gov.cn/2026/10/30/ARTIZpiGh5CGHaiev9MZL2Xz261030.shtml"],"created":1794630381,"id":"chatcmpl-7818b48b-d243-4411-9658-b2ee8bded02b","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"造。\n\n"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.hmo.gov.cn/2026/10/30/ARTIZpiGh5CGHaiev9MZL2Xz261030.shtml"],"created":1794630381,"id":"chatcmpl-7818b48b-d243-4411-9658-b2ee8bded02b","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"格式"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.hmo.gov.cn/2026/10/30/ARTIZpiGh5CGHaiev9MZL2Xz261030.shtml"],"created":1794630381,"id":"chatcmpl-7818b48b-d243-4411-9658-b2ee8bded02b","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"：简短"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.hmo.gov.cn/2026/10/30/ARTIZpiGh5CGHaiev9MZL2Xz261030.shtml"],"created":1794630381,"id":"chatcmpl-7818b48b-d243-4411-9658-b2ee8bded02b","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"结构化。引用"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.hmo.gov.cn/2026/10/30/ARTIZpiGh5CGHaiev9MZL2Xz261030.shtml"],"created":1794630381,"id":"chatcmpl-7818b48b-d243-4411-9658-b2ee8bded02b","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"[2]"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.hmo.gov.cn/2026/10/30/ARTIZpiGh5CGHaiev9MZL2Xz261030.shtml"],"created":1794630381,"id":"chatcmpl-7818b48b-d243-4411-9658-b2ee8bded02b","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"在相关"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.hmo.gov.cn/2026/10/30/ARTIZpiGh5CGHaiev9MZL2Xz261030.shtml"],"created":1794630381,"id":"chatcmpl-7818b48b-d243-4411-9658-b2ee8bded02b","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"reasoning_content":"句子后。"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.hmo.gov.cn/2026/10/30/ARTIZpiGh5CGHaiev9MZL2Xz261030.shtml"],"created":1794630381,"id":"chatcmpl-7818b48b-d243-4411-9658-b2ee8bded02b","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"根据"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.hmo.gov.cn/2026/10/30/ARTIZpiGh5CGHaiev9MZL2Xz261030.shtml"],"created":1794630381,"id":"chatcmpl-7818b48b-d243-4411-9658-b2ee8bded02b","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"目前检索到的资料"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.hmo.gov.cn/2026/10/30/ARTIZpiGh5CGHaiev9MZL2Xz261030.shtml"],"created":1794630381,"id":"chatcmpl-7818b48b-d243-4411-9658-b2ee8bded02b","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"，**"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.hmo.gov.cn/2026/10/30/ARTIZpiGh5CGHaiev9MZL2Xz261030.shtml"],"created":1794630381,"id":"chatcmpl-7818b48b-d243-4411-9658-b2ee8bded02b","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"无法完整"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.hmo.gov.cn/2026/10/30/ARTIZpiGh5CGHaiev9MZL2Xz261030.shtml"],"created":1794630381,"id":"chatcmpl-7818b48b-d243-4411-9658-b2ee8bded02b","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"确认**"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.hmo.gov.cn/2026/10/30/ARTIZpiGh5CGHaiev9MZL2Xz261030.shtml"],"created":1794630381,"id":"chatcmpl-7818b48b-d243-4411-9658-b2ee8bded02b","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"香港政府于2026"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.hmo.gov.cn/2026/10/30/ARTIZpiGh5CGHaiev9MZL2Xz261030.shtml"],"created":1794630381,"id":"chatcmpl-7818b48b-d243-4411-9658-b2ee8bded02b","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"年10月29日回应"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.hmo.gov.cn/2026/10/30/ARTIZpiGh5CGHaiev9MZL2Xz261030.shtml"],"created":1794630381,"id":"chatcmpl-7818b48b-d243-4411-9658-b2ee8bded02b","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"宏"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.hmo.gov.cn/2026/10/30/ARTIZpiGh5CGHaiev9MZL2Xz261030.shtml"],"created":1794630381,"id":"chatcmpl-7818b48b-d243-4411-9658-b2ee8bded02b","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"福苑火灾调查报告"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.hmo.gov.cn/2026/10/30/ARTIZpiGh5CGHaiev9MZL2Xz261030.shtml"],"created":1794630381,"id":"chatcmpl-7818b48b-d243-4411-9658-b2ee8bded02b","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"时“"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.hmo.gov.cn/2026/10/30/ARTIZpiGh5CGHaiev9MZL2Xz261030.shtml"],"created":1794630381,"id":"chatcmpl-7818b48b-d243-4411-9658-b2ee8bded02b","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"重点回应了哪些问题”"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.hmo.gov.cn/2026/10/30/ARTIZpiGh5CGHaiev9MZL2Xz261030.shtml"],"created":1794630381,"id":"chatcmpl-7818b48b-d243-4411-9658-b2ee8bded02b","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"的具体"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.hmo.gov.cn/2026/10/30/ARTIZpiGh5CGHaiev9MZL2Xz261030.shtml"],"created":1794630381,"id":"chatcmpl-7818b48b-d243-4411-9658-b2ee8bded02b","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"清单；"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.hmo.gov.cn/2026/10/30/ARTIZpiGh5CGHaiev9MZL2Xz261030.shtml"],"created":1794630381,"id":"chatcmpl-7818b48b-d243-4411-9658-b2ee8bded02b","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"搜索结果"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.hmo.gov.cn/2026/10/30/ARTIZpiGh5CGHaiev9MZL2Xz261030.shtml"],"created":1794630381,"id":"chatcmpl-7818b48b-d243-4411-9658-b2ee8bded02b","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"主要"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.hmo.gov.cn/2026/10/30/ARTIZpiGh5CGHaiev9MZL2Xz261030.shtml"],"created":1794630381,"id":"chatcmpl-7818b48b-d243-4411-9658-b2ee8bded02b","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"呈现"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.hmo.gov.cn/2026/10/30/ARTIZpiGh5CGHaiev9MZL2Xz261030.shtml"],"created":1794630381,"id":"chatcmpl-7818b48b-d243-4411-9658-b2ee8bded02b","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"的是香港总商会"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.hmo.gov.cn/2026/10/30/ARTIZpiGh5CGHaiev9MZL2Xz261030.shtml"],"created":1794630381,"id":"chatcmpl-7818b48b-d243-4411-9658-b2ee8bded02b","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"、"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.hmo.gov.cn/2026/10/30/ARTIZpiGh5CGHaiev9MZL2Xz261030.shtml"],"created":1794630381,"id":"chatcmpl-7818b48b-d243-4411-9658-b2ee8bded02b","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"香港工业总会"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.hmo.gov.cn/2026/10/30/ARTIZpiGh5CGHaiev9MZL2Xz261030.shtml"],"created":1794630381,"id":"chatcmpl-7818b48b-d243-4411-9658-b2ee8bded02b","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"对政府"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.hmo.gov.cn/2026/10/30/ARTIZpiGh5CGHaiev9MZL2Xz261030.shtml"],"created":1794630381,"id":"chatcmpl-7818b48b-d243-4411-9658-b2ee8bded02b","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"公布独立委员会报告"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.hmo.gov.cn/2026/10/30/ARTIZpiGh5CGHaiev9MZL2Xz261030.shtml"],"created":1794630381,"id":"chatcmpl-7818b48b-d243-4411-9658-b2ee8bded02b","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"及"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.hmo.gov.cn/2026/10/30/ARTIZpiGh5CGHaiev9MZL2Xz261030.shtml"],"created":1794630381,"id":"chatcmpl-7818b48b-d243-4411-9658-b2ee8bded02b","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"改革方向的"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.hmo.gov.cn/2026/10/30/ARTIZpiGh5CGHaiev9MZL2Xz261030.shtml"],"created":1794630381,"id":"chatcmpl-7818b48b-d243-4411-9658-b2ee8bded02b","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"回应"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.hmo.gov.cn/2026/10/30/ARTIZpiGh5CGHaiev9MZL2Xz261030.shtml"],"created":1794630381,"id":"chatcmpl-7818b48b-d243-4411-9658-b2ee8bded02b","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"，而非"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.hmo.gov.cn/2026/10/30/ARTIZpiGh5CGHaiev9MZL2Xz261030.shtml"],"created":1794630381,"id":"chatcmpl-7818b48b-d243-4411-9658-b2ee8bded02b","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"政府回应"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.hmo.gov.cn/2026/10/30/ARTIZpiGh5CGHaiev9MZL2Xz261030.shtml"],"created":1794630381,"id":"chatcmpl-7818b48b-d243-4411-9658-b2ee8bded02b","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"全文["},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.hmo.gov.cn/2026/10/30/ARTIZpiGh5CGHaiev9MZL2Xz261030.shtml"],"created":1794630381,"id":"chatcmpl-7818b48b-d243-4411-9658-b2ee8bded02b","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"2]。\n\n可以"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.hmo.gov.cn/2026/10/30/ARTIZpiGh5CGHaiev9MZL2Xz261030.shtml"],"created":1794630381,"id":"chatcmpl-7818b48b-d243-4411-9658-b2ee8bded02b","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"确认的改革"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.hmo.gov.cn/2026/10/30/ARTIZpiGh5CGHaiev9MZL2Xz261030.shtml"],"created":1794630381,"id":"chatcmpl-7818b48b-d243-4411-9658-b2ee8bded02b","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"安排方向"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.hmo.gov.cn/2026/10/30/ARTIZpiGh5CGHaiev9MZL2Xz261030.shtml"],"created":1794630381,"id":"chatcmpl-7818b48b-d243-4411-9658-b2ee8bded02b","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"包括"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.hmo.gov.cn/2026/10/30/ARTIZpiGh5CGHaiev9MZL2Xz261030.shtml"],"created":1794630381,"id":"chatcmpl-7818b48b-d243-4411-9658-b2ee8bded02b","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"：\n\n- **"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.hmo.gov.cn/2026/10/30/ARTIZpiGh5CGHaiev9MZL2Xz261030.shtml"],"created":1794630381,"id":"chatcmpl-7818b48b-d243-4411-9658-b2ee8bded02b","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"完善"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.hmo.gov.cn/2026/10/30/ARTIZpiGh5CGHaiev9MZL2Xz261030.shtml"],"created":1794630381,"id":"chatcmpl-7818b48b-d243-4411-9658-b2ee8bded02b","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"楼宇维修工程"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.hmo.gov.cn/2026/10/30/ARTIZpiGh5CGHaiev9MZL2Xz261030.shtml"],"created":1794630381,"id":"chatcmpl-7818b48b-d243-4411-9658-b2ee8bded02b","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"规管**：针对"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.hmo.gov.cn/2026/10/30/ARTIZpiGh5CGHaiev9MZL2Xz261030.shtml"],"created":1794630381,"id":"chatcmpl-7818b48b-d243-4411-9658-b2ee8bded02b","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"维修工程制度"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.hmo.gov.cn/2026/10/30/ARTIZpiGh5CGHaiev9MZL2Xz261030.shtml"],"created":1794630381,"id":"chatcmpl-7818b48b-d243-4411-9658-b2ee8bded02b","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"漏洞"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.hmo.gov.cn/2026/10/30/ARTIZpiGh5CGHaiev9MZL2Xz261030.shtml"],"created":1794630381,"id":"chatcmpl-7818b48b-d243-4411-9658-b2ee8bded02b","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"提出系统性"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.hmo.gov.cn/2026/10/30/ARTIZpiGh5CGHaiev9MZL2Xz261030.shtml"],"created":1794630381,"id":"chatcmpl-7818b48b-d243-4411-9658-b2ee8bded02b","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"改革"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.hmo.gov.cn/2026/10/30/ARTIZpiGh5CGHaiev9MZL2Xz261030.shtml"],"created":1794630381,"id":"chatcmpl-7818b48b-d243-4411-9658-b2ee8bded02b","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"[2]。"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.hmo.gov.cn/2026/10/30/ARTIZpiGh5CGHaiev9MZL2Xz261030.shtml"],"created":1794630381,"id":"chatcmpl-7818b48b-d243-4411-9658-b2ee8bded02b","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"\n- **厘"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.hmo.gov.cn/2026/10/30/ARTIZpiGh5CGHaiev9MZL2Xz261030.shtml"],"created":1794630381,"id":"chatcmpl-7818b48b-d243-4411-9658-b2ee8bded02b","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"清各持"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.hmo.gov.cn/2026/10/30/ARTIZpiGh5CGHaiev9MZL2Xz261030.shtml"],"created":1794630381,"id":"chatcmpl-7818b48b-d243-4411-9658-b2ee8bded02b","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"份者的监管责任**："},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.hmo.gov.cn/2026/10/30/ARTIZpiGh5CGHaiev9MZL2Xz261030.shtml"],"created":1794630381,"id":"chatcmpl-7818b48b-d243-4411-9658-b2ee8bded02b","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"明确政府"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.hmo.gov.cn/2026/10/30/ARTIZpiGh5CGHaiev9MZL2Xz261030.shtml"],"created":1794630381,"id":"chatcmpl-7818b48b-d243-4411-9658-b2ee8bded02b","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"、业主"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.hmo.gov.cn/2026/10/30/ARTIZpiGh5CGHaiev9MZL2Xz261030.shtml"],"created":1794630381,"id":"chatcmpl-7818b48b-d243-4411-9658-b2ee8bded02b","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"、法"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.hmo.gov.cn/2026/10/30/ARTIZpiGh5CGHaiev9MZL2Xz261030.shtml"],"created":1794630381,"id":"chatcmpl-7818b48b-d243-4411-9658-b2ee8bded02b","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"团"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.hmo.gov.cn/2026/10/30/ARTIZpiGh5CGHaiev9MZL2Xz261030.shtml"],"created":1794630381,"id":"chatcmpl-7818b48b-d243-4411-9658-b2ee8bded02b","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"、业界"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.hmo.gov.cn/2026/10/30/ARTIZpiGh5CGHaiev9MZL2Xz261030.shtml"],"created":1794630381,"id":"chatcmpl-7818b48b-d243-4411-9658-b2ee8bded02b","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"等各方"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.hmo.gov.cn/2026/10/30/ARTIZpiGh5CGHaiev9MZL2Xz261030.shtml"],"created":1794630381,"id":"chatcmpl-7818b48b-d243-4411-9658-b2ee8bded02b","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"在楼"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.hmo.gov.cn/2026/10/30/ARTIZpiGh5CGHaiev9MZL2Xz261030.shtml"],"created":1794630381,"id":"chatcmpl-7818b48b-d243-4411-9658-b2ee8bded02b","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"宇安全中的"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.hmo.gov.cn/2026/10/30/ARTIZpiGh5CGHaiev9MZL2Xz261030.shtml"],"created":1794630381,"id":"chatcmpl-7818b48b-d243-4411-9658-b2ee8bded02b","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"职责"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.hmo.gov.cn/2026/10/30/ARTIZpiGh5CGHaiev9MZL2Xz261030.shtml"],"created":1794630381,"id":"chatcmpl-7818b48b-d243-4411-9658-b2ee8bded02b","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"边界[2]。\n-"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.hmo.gov.cn/2026/10/30/ARTIZpiGh5CGHaiev9MZL2Xz261030.shtml"],"created":1794630381,"id":"chatcmpl-7818b48b-d243-4411-9658-b2ee8bded02b","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":" **加强风险防范及"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.hmo.gov.cn/2026/10/30/ARTIZpiGh5CGHaiev9MZL2Xz261030.shtml"],"created":1794630381,"id":"chatcmpl-7818b48b-d243-4411-9658-b2ee8bded02b","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"执行机制**：强化"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.hmo.gov.cn/2026/10/30/ARTIZpiGh5CGHaiev9MZL2Xz261030.shtml"],"created":1794630381,"id":"chatcmpl-7818b48b-d243-4411-9658-b2ee8bded02b","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"事前防范与事后"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.hmo.gov.cn/2026/10/30/ARTIZpiGh5CGHaiev9MZL2Xz261030.shtml"],"created":1794630381,"id":"chatcmpl-7818b48b-d243-4411-9658-b2ee8bded02b","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"执行"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.hmo.gov.cn/2026/10/30/ARTIZpiGh5CGHaiev9MZL2Xz261030.shtml"],"created":1794630381,"id":"chatcmpl-7818b48b-d243-4411-9658-b2ee8bded02b","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"，提升城市"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.hmo.gov.cn/2026/10/30/ARTIZpiGh5CGHaiev9MZL2Xz261030.shtml"],"created":1794630381,"id":"chatcmpl-7818b48b-d243-4411-9658-b2ee8bded02b","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"管理和"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.hmo.gov.cn/2026/10/30/ARTIZpiGh5CGHaiev9MZL2Xz261030.shtml"],"created":1794630381,"id":"chatcmpl-7818b48b-d243-4411-9658-b2ee8bded02b","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"楼宇安全水平，"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.hmo.gov.cn/2026/10/30/ARTIZpiGh5CGHaiev9MZL2Xz261030.shtml"],"created":1794630381,"id":"chatcmpl-7818b48b-d243-4411-9658-b2ee8bded02b","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"做到防"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.hmo.gov.cn/2026/10/30/ARTIZpiGh5CGHaiev9MZL2Xz261030.shtml"],"created":1794630381,"id":"chatcmpl-7818b48b-d243-4411-9658-b2ee8bded02b","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"患于未然"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.hmo.gov.cn/2026/10/30/ARTIZpiGh5CGHaiev9MZL2Xz261030.shtml"],"created":1794630381,"id":"chatcmpl-7818b48b-d243-4411-9658-b2ee8bded02b","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"[2]。\n- **"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.hmo.gov.cn/2026/10/30/ARTIZpiGh5CGHaiev9MZL2Xz261030.shtml"],"created":1794630381,"id":"chatcmpl-7818b48b-d243-4411-9658-b2ee8bded02b","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"整体"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.hmo.gov.cn/2026/10/30/ARTIZpiGh5CGHaiev9MZL2Xz261030.shtml"],"created":1794630381,"id":"chatcmpl-7818b48b-d243-4411-9658-b2ee8bded02b","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"态度"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.hmo.gov.cn/2026/10/30/ARTIZpiGh5CGHaiev9MZL2Xz261030.shtml"],"created":1794630381,"id":"chatcmpl-7818b48b-d243-4411-9658-b2ee8bded02b","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"**"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.hmo.gov.cn/2026/10/30/ARTIZpiGh5CGHaiev9MZL2Xz261030.shtml"],"created":1794630381,"id":"chatcmpl-7818b48b-d243-4411-9658-b2ee8bded02b","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"：总"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.hmo.gov.cn/2026/10/30/ARTIZpiGh5CGHaiev9MZL2Xz261030.shtml"],"created":1794630381,"id":"chatcmpl-7818b48b-d243-4411-9658-b2ee8bded02b","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"商会肯定"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.hmo.gov.cn/2026/10/30/ARTIZpiGh5CGHaiev9MZL2Xz261030.shtml"],"created":1794630381,"id":"chatcmpl-7818b48b-d243-4411-9658-b2ee8bded02b","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"当局"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.hmo.gov.cn/2026/10/30/ARTIZpiGh5CGHaiev9MZL2Xz261030.shtml"],"created":1794630381,"id":"chatcmpl-7818b48b-d243-4411-9658-b2ee8bded02b","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"以透明"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.hmo.gov.cn/2026/10/30/ARTIZpiGh5CGHaiev9MZL2Xz261030.shtml"],"created":1794630381,"id":"chatcmpl-7818b48b-d243-4411-9658-b2ee8bded02b","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"及基于事实"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.hmo.gov.cn/2026/10/30/ARTIZpiGh5CGHaiev9MZL2Xz261030.shtml"],"created":1794630381,"id":"chatcmpl-7818b48b-d243-4411-9658-b2ee8bded02b","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"和证据的方式处理事件，"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.hmo.gov.cn/2026/10/30/ARTIZpiGh5CGHaiev9MZL2Xz261030.shtml"],"created":1794630381,"id":"chatcmpl-7818b48b-d243-4411-9658-b2ee8bded02b","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"并支持政府"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.hmo.gov.cn/2026/10/30/ARTIZpiGh5CGHaiev9MZL2Xz261030.shtml"],"created":1794630381,"id":"chatcmpl-7818b48b-d243-4411-9658-b2ee8bded02b","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"认真研究报告建议"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.hmo.gov.cn/2026/10/30/ARTIZpiGh5CGHaiev9MZL2Xz261030.shtml"],"created":1794630381,"id":"chatcmpl-7818b48b-d243-4411-9658-b2ee8bded02b","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"、落实系统性改革；"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.hmo.gov.cn/2026/10/30/ARTIZpiGh5CGHaiev9MZL2Xz261030.shtml"],"created":1794630381,"id":"chatcmpl-7818b48b-d243-4411-9658-b2ee8bded02b","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"工业总会"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.hmo.gov.cn/2026/10/30/ARTIZpiGh5CGHaiev9MZL2Xz261030.shtml"],"created":1794630381,"id":"chatcmpl-7818b48b-d243-4411-9658-b2ee8bded02b","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"亦"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.hmo.gov.cn/2026/10/30/ARTIZpiGh5CGHaiev9MZL2Xz261030.shtml"],"created":1794630381,"id":"chatcmpl-7818b48b-d243-4411-9658-b2ee8bded02b","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"支持政府公布"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.hmo.gov.cn/2026/10/30/ARTIZpiGh5CGHaiev9MZL2Xz261030.shtml"],"created":1794630381,"id":"chatcmpl-7818b48b-d243-4411-9658-b2ee8bded02b","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"报告并就"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.hmo.gov.cn/2026/10/30/ARTIZpiGh5CGHaiev9MZL2Xz261030.shtml"],"created":1794630381,"id":"chatcmpl-7818b48b-d243-4411-9658-b2ee8bded02b","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"报告建议"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.hmo.gov.cn/2026/10/30/ARTIZpiGh5CGHaiev9MZL2Xz261030.shtml"],"created":1794630381,"id":"chatcmpl-7818b48b-d243-4411-9658-b2ee8bded02b","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"提出全面改革措施[2"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.hmo.gov.cn/2026/10/30/ARTIZpiGh5CGHaiev9MZL2Xz261030.shtml"],"created":1794630381,"id":"chatcmpl-7818b48b-d243-4411-9658-b2ee8bded02b","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"]。\n\n需要"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.hmo.gov.cn/2026/10/30/ARTIZpiGh5CGHaiev9MZL2Xz261030.shtml"],"created":1794630381,"id":"chatcmpl-7818b48b-d243-4411-9658-b2ee8bded02b","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"说明的是，上述"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.hmo.gov.cn/2026/10/30/ARTIZpiGh5CGHaiev9MZL2Xz261030.shtml"],"created":1794630381,"id":"chatcmpl-7818b48b-d243-4411-9658-b2ee8bded02b","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"内容来自"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.hmo.gov.cn/2026/10/30/ARTIZpiGh5CGHaiev9MZL2Xz261030.shtml"],"created":1794630381,"id":"chatcmpl-7818b48b-d243-4411-9658-b2ee8bded02b","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"商会"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.hmo.gov.cn/2026/10/30/ARTIZpiGh5CGHaiev9MZL2Xz261030.shtml"],"created":1794630381,"id":"chatcmpl-7818b48b-d243-4411-9658-b2ee8bded02b","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"方面的"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.hmo.gov.cn/2026/10/30/ARTIZpiGh5CGHaiev9MZL2Xz261030.shtml"],"created":1794630381,"id":"chatcmpl-7818b48b-d243-4411-9658-b2ee8bded02b","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"转述与"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.hmo.gov.cn/2026/10/30/ARTIZpiGh5CGHaiev9MZL2Xz261030.shtml"],"created":1794630381,"id":"chatcmpl-7818b48b-d243-4411-9658-b2ee8bded02b","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"表态"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.hmo.gov.cn/2026/10/30/ARTIZpiGh5CGHaiev9MZL2Xz261030.shtml"],"created":1794630381,"id":"chatcmpl-7818b48b-d243-4411-9658-b2ee8bded02b","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"，并非政府回应"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.hmo.gov.cn/2026/10/30/ARTIZpiGh5CGHaiev9MZL2Xz261030.shtml"],"created":1794630381,"id":"chatcmpl-7818b48b-d243-4411-9658-b2ee8bded02b","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"原文"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.hmo.gov.cn/2026/10/30/ARTIZpiGh5CGHaiev9MZL2Xz261030.shtml"],"created":1794630381,"id":"chatcmpl-7818b48b-d243-4411-9658-b2ee8bded02b","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"。若需"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.hmo.gov.cn/2026/10/30/ARTIZpiGh5CGHaiev9MZL2Xz261030.shtml"],"created":1794630381,"id":"chatcmpl-7818b48b-d243-4411-9658-b2ee8bded02b","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"准确"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.hmo.gov.cn/2026/10/30/ARTIZpiGh5CGHaiev9MZL2Xz261030.shtml"],"created":1794630381,"id":"chatcmpl-7818b48b-d243-4411-9658-b2ee8bded02b","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"掌握政府“重点回应了"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.hmo.gov.cn/2026/10/30/ARTIZpiGh5CGHaiev9MZL2Xz261030.shtml"],"created":1794630381,"id":"chatcmpl-7818b48b-d243-4411-9658-b2ee8bded02b","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"哪些问题”，"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.hmo.gov.cn/2026/10/30/ARTIZpiGh5CGHaiev9MZL2Xz261030.shtml"],"created":1794630381,"id":"chatcmpl-7818b48b-d243-4411-9658-b2ee8bded02b","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"建议"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.hmo.gov.cn/2026/10/30/ARTIZpiGh5CGHaiev9MZL2Xz261030.shtml"],"created":1794630381,"id":"chatcmpl-7818b48b-d243-4411-9658-b2ee8bded02b","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"查阅香港特"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.hmo.gov.cn/2026/10/30/ARTIZpiGh5CGHaiev9MZL2Xz261030.shtml"],"created":1794630381,"id":"chatcmpl-7818b48b-d243-4411-9658-b2ee8bded02b","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"区政府新闻公报、"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.hmo.gov.cn/2026/10/30/ARTIZpiGh5CGHaiev9MZL2Xz261030.shtml"],"created":1794630381,"id":"chatcmpl-7818b48b-d243-4411-9658-b2ee8bded02b","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"独立委员会"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.hmo.gov.cn/2026/10/30/ARTIZpiGh5CGHaiev9MZL2Xz261030.shtml"],"created":1794630381,"id":"chatcmpl-7818b48b-d243-4411-9658-b2ee8bded02b","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"报告全文"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.hmo.gov.cn/2026/10/30/ARTIZpiGh5CGHaiev9MZL2Xz261030.shtml"],"created":1794630381,"id":"chatcmpl-7818b48b-d243-4411-9658-b2ee8bded02b","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"及政府当日"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.hmo.gov.cn/2026/10/30/ARTIZpiGh5CGHaiev9MZL2Xz261030.shtml"],"created":1794630381,"id":"chatcmpl-7818b48b-d243-4411-9658-b2ee8bded02b","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"记者"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.hmo.gov.cn/2026/10/30/ARTIZpiGh5CGHaiev9MZL2Xz261030.shtml"],"created":1794630381,"id":"chatcmpl-7818b48b-d243-4411-9658-b2ee8bded02b","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"会"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.hmo.gov.cn/2026/10/30/ARTIZpiGh5CGHaiev9MZL2Xz261030.shtml"],"created":1794630381,"id":"chatcmpl-7818b48b-d243-4411-9658-b2ee8bded02b","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"实录"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.hmo.gov.cn/2026/10/30/ARTIZpiGh5CGHaiev9MZL2Xz261030.shtml"],"created":1794630381,"id":"chatcmpl-7818b48b-d243-4411-9658-b2ee8bded02b","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"；"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.hmo.gov.cn/2026/10/30/ARTIZpiGh5CGHaiev9MZL2Xz261030.shtml"],"created":1794630381,"id":"chatcmpl-7818b48b-d243-4411-9658-b2ee8bded02b","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"现有"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.hmo.gov.cn/2026/10/30/ARTIZpiGh5CGHaiev9MZL2Xz261030.shtml"],"created":1794630381,"id":"chatcmpl-7818b48b-d243-4411-9658-b2ee8bded02b","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"搜索结果"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.hmo.gov.cn/2026/10/30/ARTIZpiGh5CGHaiev9MZL2Xz261030.shtml"],"created":1794630381,"id":"chatcmpl-7818b48b-d243-4411-9658-b2ee8bded02b","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"不足以支持"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.hmo.gov.cn/2026/10/30/ARTIZpiGh5CGHaiev9MZL2Xz261030.shtml"],"created":1794630381,"id":"chatcmpl-7818b48b-d243-4411-9658-b2ee8bded02b","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"逐项列举"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://www.hmo.gov.cn/2026/10/30/ARTIZpiGh5CGHaiev9MZL2Xz261030.shtml"],"created":1794630381,"id":"chatcmpl-7818b48b-d243-4411-9658-b2ee8bded02b","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[{"delta":{"content":"。"},"finish_reason":"stop","index":0,"logprobs":null}],"citations":["https://www.hmo.gov.cn/2026/10/30/ARTIZpiGh5CGHaiev9MZL2Xz261030.shtml"],"created":1794630381,"id":"chatcmpl-7818b48b-d243-4411-9658-b2ee8bded02b","model":"deepseek-flash","object":"chat.completion.chunk"}
+
+data: {"choices":[],"citations":["https://www.hmo.gov.cn/2026/10/30/ARTIZpiGh5CGHaiev9MZL2Xz261030.shtml"],"created":1794630381,"id":"chatcmpl-7818b48b-d243-4411-9658-b2ee8bded02b","model":"deepseek-flash","object":"chat.completion.chunk","usage":{"completion_tokens":751,"completion_tokens_details":{"reasoning_tokens":476},"prompt_tokens":723,"prompt_tokens_details":{"cached_tokens":0},"total_tokens":1474}}
+
+data: [DONE]
+

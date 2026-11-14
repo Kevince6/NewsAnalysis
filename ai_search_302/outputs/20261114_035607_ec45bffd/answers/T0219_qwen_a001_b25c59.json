@@ -1,0 +1,65 @@
+{
+  "task_id": "T0219",
+  "model": "qwen",
+  "news_id": "E018",
+  "question_index": 2,
+  "question_original": "【开放】赤峰白菜事件里，种植户最初的损失说法和后来的官方评估有什么差别？事情最终怎么处理？",
+  "question": "赤峰白菜事件里，种植户最初的损失说法和后来的官方评估有什么差别？事情最终怎么处理？",
+  "attempt": 1,
+  "provider": "302.ai",
+  "model_requested": "qwen3.8-max",
+  "query_date": "2026-11-14",
+  "search_service": "metaso",
+  "prompt_version": "news-search-v1",
+  "prompt_sha256": "ea56fd5557d32615a9115f2368a0c4983ff1188f4935369e694d7d46f2493be1",
+  "requested_at": "2026-11-14T12:01:17.162789+08:00",
+  "raw_file": "raw/T0219_qwen_a001_b25c59.json",
+  "transport": "sse",
+  "stream_file": "raw/T0219_qwen_a001_b25c59.sse",
+  "status": "ok",
+  "model_returned": "qwen3.8-max",
+  "answer": "从目前能看到的通报内容来看，**官方最终评估的种植户损失为9.52万元**，并已与5名种植户确认、补偿到位[1][2][3][4]。但你问到的“种植户最初的损失说法”，现有检索结果里**没有给出具体金额或原始表述**，因此无法直接对比“最初说法”与“官方评估”在数字上的差距；只能确认官方后来认定的损失口径和结论。\n\n可确认的差别主要体现在**损失认定背景**上：\n\n1. **官方调查称损失并非按“整片白菜被毁”计算**  \n   通报显示，事发前5名种植户的380亩白菜已经过多轮择优选收，大部分优质白菜已被采收完毕；未售白菜又受低温霜降冻害影响，质量明显下降，后来群众采捡后多用于食用或喂养畜禽[2]。\n\n2. **官方评估金额为9.52万元**  \n   联合调查组委托具备法定资质的评估机构，综合市场价格、环境气候、收割方式等因素测算，认定种植户损失为9.52万元；李某某等5名种植户对评估结果表示认同[1][2][3][4]。\n\n最终处理结果是：\n\n1. **补偿已完成**  \n   联合调查组组织相关责任方就补偿事宜达成一致意见，并已补偿到位[1][2][3][4]。\n\n2. **对涉事媒体、主办单位及相关责任人追责**  \n   内蒙古赤峰市松山区和有关部门按照管理权限，依法依规分别对涉事媒体、主办单位和相关责任人追究责任[3][4]。",
+  "sources": [
+    {
+      "index": 1,
+      "url": "https://mp.weixin.qq.com/s?__biz=MjM5ODIwMTM4Mg==&mid=2654983932&idx=1&sn=8843e2ea220664ade196e5771e17cd19&chksm=bcd3da6ab95ba2b6eb46b80f38168cb8ed7d1410d6bfe3bae370e7d52129d2a7f8db7ad190da&scene=27",
+      "title": null,
+      "origin": "citations"
+    },
+    {
+      "index": 2,
+      "url": "https://mp.weixin.qq.com/s?__biz=MzA5MjI5NzkyNA==&mid=2652694471&idx=2&sn=3affb78560c7bafd86ea46f5562f1bfe&chksm=8a41e79ace792429b754b729cf5d66c37758defc150224f58f027235d9488cea8b1a00451595&scene=27",
+      "title": null,
+      "origin": "citations"
+    },
+    {
+      "index": 3,
+      "url": "https://big5.cctv.com/gate/big5/news.cctv.com/2025/11/17/ARTIfcmPXCH2gNNBucGYA3Fp251117.shtml",
+      "title": null,
+      "origin": "citations"
+    },
+    {
+      "index": 4,
+      "url": "https://baijiahao.baidu.com/s?id=1849049215194391675",
+      "title": null,
+      "origin": "citations"
+    }
+  ],
+  "usage": {
+    "completion_tokens": 890,
+    "completion_tokens_details": {
+      "reasoning_tokens": 543,
+      "text_tokens": 890
+    },
+    "prompt_tokens": 1267,
+    "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "text_tokens": 1267
+    },
+    "total_tokens": 2157
+  },
+  "finish_reason": "stop",
+  "note": [],
+  "request_id": "2f0c4d8b-55d4-4135-b226-1c9d3db4a7b5",
+  "duration_seconds": 24.703
+}

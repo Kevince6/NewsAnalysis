@@ -1,0 +1,59 @@
+{
+  "task_id": "T0048",
+  "model": "qwen",
+  "news_id": "E004",
+  "question_index": 4,
+  "question_original": "【事实】巴黎警方通报中，10月17日拘捕了多少人？18日又有多少家商店受损、被抢掠？",
+  "question": "巴黎警方通报中，10月17日拘捕了多少人？18日又有多少家商店受损、被抢掠？",
+  "attempt": 1,
+  "provider": "302.ai",
+  "model_requested": "qwen3.8-max",
+  "query_date": "2026-11-14",
+  "search_service": "metaso",
+  "prompt_version": "news-search-v1",
+  "prompt_sha256": "ea56fd5557d32615a9115f2368a0c4983ff1188f4935369e694d7d46f2493be1",
+  "requested_at": "2026-11-14T04:22:17.803890+08:00",
+  "raw_file": "raw/T0048_qwen_a001_5f178b.json",
+  "transport": "sse",
+  "stream_file": "raw/T0048_qwen_a001_5f178b.sse",
+  "status": "ok",
+  "model_returned": "qwen3.8-max",
+  "answer": "直接回答：\n\n1. **10月17日拘捕人数**：现有检索结果中没有明确标注“巴黎警方通报”的单独数字；相关报道称当日骚乱中**约1800人被捕**[1]。另外，法国内政部长努内兹事后通报的是**全法国范围内10月17日有2397人被捕**[2]。\n\n2. **10月18日商店受损、被抢掠数量**：资料中未给出**仅10月18日当天**的单独数字；法国经济部披露的是**10月17日至18日全国至少3000家商铺遭到破坏或抢劫**[4]。\n\n补充说明：此次骚乱波及巴黎、马赛、尼斯、南特、波尔多等多座城市，商铺涉及超市、药店、奢侈品店等多个行业[1]；法国政府随后在部分区域实施宵禁，并要求二手交易平台清理疑似赃物信息[2][4]。",
+  "sources": [
+    {
+      "index": 1,
+      "url": "https://news.qq.com/rain/a/20261019A04Z5H00",
+      "title": null,
+      "origin": "citations"
+    },
+    {
+      "index": 2,
+      "url": "https://news.qq.com/rain/a/20261021A07FKX00",
+      "title": null,
+      "origin": "citations"
+    },
+    {
+      "index": 3,
+      "url": "https://www.163.com/dy/article/L9P4E0A1051481US.html",
+      "title": null,
+      "origin": "citations"
+    }
+  ],
+  "usage": {
+    "completion_tokens": 2515,
+    "completion_tokens_details": {
+      "reasoning_tokens": 2297,
+      "text_tokens": 2515
+    },
+    "prompt_tokens": 1167,
+    "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "text_tokens": 1167
+    },
+    "total_tokens": 3682
+  },
+  "finish_reason": "stop",
+  "note": [],
+  "request_id": "7867cdb3-0676-40ca-9568-a93af66027d2",
+  "duration_seconds": 67.353
+}

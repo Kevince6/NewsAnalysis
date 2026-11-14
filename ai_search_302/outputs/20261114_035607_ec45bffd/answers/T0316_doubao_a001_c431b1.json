@@ -1,0 +1,69 @@
+{
+  "task_id": "T0316",
+  "model": "doubao",
+  "news_id": "E027",
+  "question_index": 2,
+  "question_original": "【开放】网信办因什么问题约谈英伟达，英伟达又怎么回应？约谈本身能证明H20已经查实存在后门吗？",
+  "question": "网信办因什么问题约谈英伟达，英伟达又怎么回应？约谈本身能证明H20已经查实存在后门吗？",
+  "attempt": 1,
+  "provider": "302.ai",
+  "model_requested": "doubao-seed-2-1-pro-260628",
+  "query_date": "2026-11-14",
+  "search_service": "metaso",
+  "prompt_version": "news-search-v1",
+  "prompt_sha256": "ea56fd5557d32615a9115f2368a0c4983ff1188f4935369e694d7d46f2493be1",
+  "requested_at": "2026-11-14T12:22:06.475789+08:00",
+  "raw_file": "raw/T0316_doubao_a001_c431b1.json",
+  "transport": "sse",
+  "stream_file": "raw/T0316_doubao_a001_c431b1.sse",
+  "status": "ok",
+  "model_returned": "doubao-seed-2-1-pro-260628",
+  "answer": "根据现有公开检索信息，相关问题解答如下：\n1.  网信办约谈英伟达的具体事由\n2025年7月31日，国家网信办针对英伟达专供中国市场的H20算力芯片被曝出存在安全漏洞、隐蔽后门的风险线索，依据《网络安全法》《数据安全法》《个人信息保护法》等法律法规对英伟达公司进行约谈，要求企业就H20芯片涉及的漏洞、后门安全风险作出说明，提交相关证明材料，全面评估在华销售产品的安全风险，防范隐患威胁我国核心数据安全、算力控制权与关键系统稳定[1][2][3][4]。\n相关风险担忧存在现实背景：此前曾有美国议员公开要求对华出口芯片必须加装追踪定位功能，也有业内专家提及，英伟达芯片的远程关闭、追踪定位相关技术已经成熟，这也进一步引发了监管和市场对H20芯片安全可靠性的警惕[1]。\n2.  英伟达的回应情况\n在当前检索覆盖的所有公开信息中，未提及英伟达针对此次约谈作出的正式公开回应，该部分信息目前没有可确认的公开内容。\n3.  约谈行为不能证明H20芯片已被查实存在后门\n需要明确区分监管核查程序与最终查实结论：\n第一，从官方披露的约谈内容来看，此次约谈是监管部门针对已曝光的风险线索启动的问询、排查环节，核心目的是向企业核实风险情况、收集佐证材料，并非发布最终的违法违规或问题认定结论[2]。\n第二，目前网络上部分自媒体传播的“H20芯片暗藏后门、被要求30天整改”等表述，属于短视频平台的个人传播内容，并未得到官方监管公告或权威信源的证实，不能作为问题已经查实的依据[5]。截至检索覆盖的信息范围，公开渠道尚未有官方发布H20芯片确实存在后门的正式调查结论。",
+  "sources": [
+    {
+      "index": 1,
+      "url": "https://www.douyin.com/shipin/7533815183563737123",
+      "title": null,
+      "origin": "citations"
+    },
+    {
+      "index": 2,
+      "url": "https://www.huxiu.com/ainews/2196.html",
+      "title": null,
+      "origin": "citations"
+    },
+    {
+      "index": 3,
+      "url": "https://xueqiu.com/1672868695/344990743",
+      "title": null,
+      "origin": "citations"
+    },
+    {
+      "index": 4,
+      "url": "https://finance.sina.cn/stock/jdts/2025-08-01/detail-infimnma6744083.d.html?vt=4&cid=76993&node_id=76993",
+      "title": null,
+      "origin": "citations"
+    },
+    {
+      "index": 5,
+      "url": "https://www.douyin.com/shipin/7533812304706816015",
+      "title": null,
+      "origin": "citations"
+    }
+  ],
+  "usage": {
+    "completion_tokens": 3457,
+    "completion_tokens_details": {
+      "reasoning_tokens": 3039
+    },
+    "prompt_tokens": 1476,
+    "prompt_tokens_details": {
+      "cached_tokens": 0
+    },
+    "total_tokens": 4933
+  },
+  "finish_reason": "stop",
+  "note": [],
+  "request_id": "32f0e9be-f96f-4a62-b788-bc4c3f89689b",
+  "duration_seconds": 72.234
+}

@@ -1,0 +1,63 @@
+{
+  "task_id": "T0331",
+  "model": "doubao",
+  "news_id": "E028",
+  "question_index": 2,
+  "question_original": "【开放】宏福苑火灾报告已经公开，为什么还有内容被遮盖？完整版本要等到什么时候才能公布？",
+  "question": "宏福苑火灾报告已经公开，为什么还有内容被遮盖？完整版本要等到什么时候才能公布？",
+  "attempt": 1,
+  "provider": "302.ai",
+  "model_requested": "doubao-seed-2-1-pro-260628",
+  "query_date": "2026-11-14",
+  "search_service": "metaso",
+  "prompt_version": "news-search-v1",
+  "prompt_sha256": "ea56fd5557d32615a9115f2368a0c4983ff1188f4935369e694d7d46f2493be1",
+  "requested_at": "2026-11-14T12:26:44.187110+08:00",
+  "raw_file": "raw/T0331_doubao_a001_ce07ca.json",
+  "transport": "sse",
+  "stream_file": "raw/T0331_doubao_a001_ce07ca.sse",
+  "status": "ok",
+  "model_returned": "doubao-seed-2-1-pro-260628",
+  "answer": "目前已公开的宏福苑火灾报告存在部分内容被遮盖的情况，根源是调查独立委员会预先设定的公开规则，而无遮盖的完整版本目前暂无明确的公布时间表，具体说明如下：\n### 一、公开版本存在内容遮盖的原因\n负责调查大埔宏福苑火灾的独立委员会在工作启动之初就明确了信息公开边界：委员会最终形成的报告和建议原则上会向公众全面公开，但涉及司法程序的资料不属于公开范围，这部分可能影响司法程序公正推进的内容，就是当前公开版本中被遮盖处理的部分[2]。\n### 二、与报告公开相关的时间进展及完整版说明\n1.  调查工作的既定安排：2025年12月19日，宏福苑火灾调查独立委员会正式展开工作，委员会主席陆启康在首次会议上公布工作计划，明确目标是自工作启动起9个月内完成全部调查，向行政长官提交正式报告，报告提交后除需保密的涉司法程序内容外，其余内容将全面对公众公开[2]。\n2.  报告公开的当前进展：2025年11月26日大埔宏福苑发生火灾，大火共延烧7栋住宅楼，造成168人死亡[4]；在火灾发生近8个月的2026年7月17日，独立委员会召开最后一场听证会，会上公布了长达627页的书面报告文件，即目前公众可查阅的带部分遮盖的公开版本，这一推进节奏与委员会此前公布的9个月调查周期基本匹配[4]。\n3.  完整版的公布前提：按照委员会确定的规则，被遮盖的涉司法内容不会随主报告同步公开，这类内容的解封、公布需要等待相关司法程序完结，避免过早公开干扰案件办理。截至查询日期2026年11月14日，公开渠道暂未发布相关司法程序的进度安排、以及被遮盖内容的具体公开时间，因此暂时无法确定无遮盖完整版本的确切公布时间。\n### 补充背景\n目前已有民间公益项目搭建了宏福苑火灾资料的镜像存库，每12小时同步一次公开渠道发布的事件相关资料（包括已公开的报告片段、新闻报道、官方回应、社区支援信息等），避免公开资料因各类原因无法访问，但该存库仅收录已正式公开的内容，不会包含未解封的被遮盖资料[1]。",
+  "sources": [
+    {
+      "index": 1,
+      "url": "https://github.com/horsehcj/Hong-Kong-Fire-Documentary",
+      "title": null,
+      "origin": "citations"
+    },
+    {
+      "index": 2,
+      "url": "https://baike.baidu.com/item/%E5%AE%8F%E7%A6%8F%E8%8B%91/67030959#%3A~%3Atext%3D%E5%AE%8F%E7%A6%8F%E8%8B%91%E7%9A%848%2C%E9%A2%87%E6%9C%89%E4%B8%AD%E5%9B%BD%E4%BC%A0%E7%BB%9F%E7%89%B9%E8%89%B2%E3%80%82",
+      "title": null,
+      "origin": "citations"
+    },
+    {
+      "index": 3,
+      "url": "https://www.chinanews.com.cn/dwq/2025/11-27/10522278.shtml",
+      "title": null,
+      "origin": "citations"
+    },
+    {
+      "index": 4,
+      "url": "https://www.thepaper.cn/newsDetail_forward_33657665",
+      "title": null,
+      "origin": "citations"
+    }
+  ],
+  "usage": {
+    "completion_tokens": 3999,
+    "completion_tokens_details": {
+      "reasoning_tokens": 3460
+    },
+    "prompt_tokens": 1545,
+    "prompt_tokens_details": {
+      "cached_tokens": 0
+    },
+    "total_tokens": 5544
+  },
+  "finish_reason": "stop",
+  "note": [],
+  "request_id": "268c4f27-de5e-462f-9d2a-50afade44339",
+  "duration_seconds": 91.672
+}

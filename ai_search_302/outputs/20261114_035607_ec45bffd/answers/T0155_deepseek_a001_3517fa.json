@@ -1,0 +1,57 @@
+{
+  "task_id": "T0155",
+  "model": "deepseek",
+  "news_id": "E013",
+  "question_index": 3,
+  "question_original": "【事实】国家育儿补贴基础标准是每个孩子每年3600元，还是每月3600元？2025年前出生的孩子怎么折算？",
+  "question": "国家育儿补贴基础标准是每个孩子每年3600元，还是每月3600元？2025年前出生的孩子怎么折算？",
+  "attempt": 1,
+  "provider": "302.ai",
+  "model_requested": "deepseek-flash",
+  "query_date": "2026-11-14",
+  "search_service": "metaso",
+  "prompt_version": "news-search-v1",
+  "prompt_sha256": "ea56fd5557d32615a9115f2368a0c4983ff1188f4935369e694d7d46f2493be1",
+  "requested_at": "2026-11-14T11:42:52.895709+08:00",
+  "raw_file": "raw/T0155_deepseek_a001_3517fa.json",
+  "transport": "sse",
+  "stream_file": "raw/T0155_deepseek_a001_3517fa.sse",
+  "status": "ok",
+  "model_returned": "deepseek-flash",
+  "answer": "**是按年发放：国家基础标准为每孩每年3600元，不是每月3600元。** 补贴发到孩子年满3周岁；2025年1月1日及以后出生的，可连续申领3年，共10800元[1][5]。\n\n**2025年前出生的孩子怎么折算：**\n\n- **适用对象**：2025年1月1日之前出生，且在2025年1月1日时**仍未满3周岁**的婴幼儿[1][5]。\n- **折算原则**：不按3年全额发，而是按**应补贴月数折算**补贴金额[1][3][5]。也就是说，只计算从2025年1月1日起到孩子满3周岁前剩余的符合条件的月数。\n- **具体算法**：检索结果中，相关页面写明“具体算法见下表”，但折算表以图片形式呈现，文字部分没有给出每个出生月份对应的精确金额，因此无法从现有资料逐月确认。按年标准理解，可视为**每月折合300元**（3600÷12），再用“300元×应补贴月数”估算；但最终应以当地卫健部门公布的折算表或申领系统计算为准。\n\n另外，各地发放进度不同，补贴可能分批到账，例如厦门思明区2025年第一批已于11月26日发放[3]。",
+  "sources": [
+    {
+      "index": 1,
+      "url": "http://www.yzq.gov.cn/yzqrmzf/zwdt1b/202507/0f3d576b6f014ae0a59805362ff64b95.shtml",
+      "title": null,
+      "origin": "citations"
+    },
+    {
+      "index": 2,
+      "url": "https://m.thepaper.cn/newsDetail_forward_32071232",
+      "title": null,
+      "origin": "citations"
+    },
+    {
+      "index": 3,
+      "url": "https://new.qq.com/rain/a/20251229A05FO700",
+      "title": null,
+      "origin": "citations"
+    }
+  ],
+  "usage": {
+    "completion_tokens": 1730,
+    "completion_tokens_details": {
+      "reasoning_tokens": 1439
+    },
+    "prompt_tokens": 1216,
+    "prompt_tokens_details": {
+      "cached_tokens": 0
+    },
+    "total_tokens": 2946
+  },
+  "finish_reason": "stop",
+  "note": [],
+  "request_id": "e74706bc-6f20-4800-92ed-cfef1299f718",
+  "duration_seconds": 11.687
+}

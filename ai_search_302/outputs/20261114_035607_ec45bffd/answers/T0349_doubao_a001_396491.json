@@ -1,0 +1,69 @@
+{
+  "task_id": "T0349",
+  "model": "doubao",
+  "news_id": "E029",
+  "question_index": 4,
+  "question_original": "【事实】2026年7月21日的报道预告，阿波罗长廊哪天重开，还会陈列之前那批珠宝吗？",
+  "question": "2026年7月21日的报道预告，阿波罗长廊哪天重开，还会陈列之前那批珠宝吗？",
+  "attempt": 1,
+  "provider": "302.ai",
+  "model_requested": "doubao-seed-2-1-pro-260628",
+  "query_date": "2026-11-14",
+  "search_service": "metaso",
+  "prompt_version": "news-search-v1",
+  "prompt_sha256": "ea56fd5557d32615a9115f2368a0c4983ff1188f4935369e694d7d46f2493be1",
+  "requested_at": "2026-11-14T12:31:49.345023+08:00",
+  "raw_file": "raw/T0349_doubao_a001_396491.json",
+  "transport": "sse",
+  "stream_file": "raw/T0349_doubao_a001_396491.sse",
+  "status": "ok",
+  "model_returned": "doubao-seed-2-1-pro-260628",
+  "answer": "根据2026年7月21日新华社、央视新闻、中新网等媒体发布的预告信息，法国巴黎卢浮宫阿波罗长廊定于2026年7月22日对公众重新开放；重开后该展厅将不再展出任何珠宝，此前在厅内陈列的王室珠宝也不会再回到该展厅陈列[1][3][4][5]。\n\n相关背景与后续情况如下：\n1. **展陈功能的调整安排**：按照预告内容，阿波罗长廊重新开放后，将恢复其17世纪美术陈列室的原始定位，不再承担珠宝展品的展示功能，观众主要可以参观长廊本身极具历史艺术价值的墙壁彩绘、鎏金雕刻和穹顶装饰[1][4]。\n2. **此前闭馆的直接原因**：阿波罗长廊此次闭馆时长近9个月，源于2025年秋（2025年10月）展厅发生的震惊世界的王室珍宝劫案——案发时共计价值8800万欧元的法国王室珠宝被盗，自案件发生后该长廊就一直处于关闭状态；截至2026年7月21日相关预告发布时，这批被盗的珠宝仍然下落不明[1][3][5]。\n3. **预告内容的实际落地情况**：2026年7月23日的公开信息显示，阿波罗长廊实际开放时间、展陈安排均与7月21日的预告内容一致，开放期间未展示珍贵珠宝类展品[2]。",
+  "sources": [
+    {
+      "index": 1,
+      "url": "http://www.news.cn/20260721/796ddb6bac304474aa41952ffd3bf18f/c.html",
+      "title": null,
+      "origin": "citations"
+    },
+    {
+      "index": 2,
+      "url": "https://github.com/hanxinchaofanai-web/qmXMpLLu/blob/qLpTeURK/aJzdIDIc/XFWuZiym.md",
+      "title": null,
+      "origin": "citations"
+    },
+    {
+      "index": 3,
+      "url": "https://news.qq.com/rain/a/20260721A02KJ400",
+      "title": null,
+      "origin": "citations"
+    },
+    {
+      "index": 4,
+      "url": "https://news.qq.com/rain/a/20260722A0B3WZ00",
+      "title": null,
+      "origin": "citations"
+    },
+    {
+      "index": 5,
+      "url": "https://news.cnr.cn/sq/20260721/t20260721_527720977.shtml",
+      "title": null,
+      "origin": "citations"
+    }
+  ],
+  "usage": {
+    "completion_tokens": 4122,
+    "completion_tokens_details": {
+      "reasoning_tokens": 3792
+    },
+    "prompt_tokens": 1649,
+    "prompt_tokens_details": {
+      "cached_tokens": 0
+    },
+    "total_tokens": 5771
+  },
+  "finish_reason": "stop",
+  "note": [],
+  "request_id": "110a391d-83c5-40c1-81ce-882cb9d7e7a9",
+  "duration_seconds": 77.5
+}

@@ -1,0 +1,40 @@
+{
+  "task_id": "T0016",
+  "model": "doubao",
+  "news_id": "E002",
+  "question_index": 2,
+  "question_original": "【事实】中国歌唱家刘欢去世的主要原因是什么？",
+  "question": "中国歌唱家刘欢去世的主要原因是什么？",
+  "attempt": 1,
+  "provider": "302.ai",
+  "model_requested": "doubao-seed-2-1-pro-260628",
+  "query_date": "2026-11-14",
+  "search_service": "metaso",
+  "prompt_version": "news-search-v1",
+  "prompt_sha256": "ea56fd5557d32615a9115f2368a0c4983ff1188f4935369e694d7d46f2493be1",
+  "requested_at": "2026-11-14T04:09:23.292012+08:00",
+  "raw_file": "raw/T0016_doubao_a001_4f1e20.json",
+  "transport": "sse",
+  "stream_file": "raw/T0016_doubao_a001_4f1e20.sse",
+  "status": "needs_review",
+  "model_returned": "doubao-seed-2-1-pro-260628",
+  "answer": "截至2026年11月14日，没有任何官方渠道（包括刘欢本人及家属、所属机构、权威媒体）发布过歌唱家刘欢去世的消息，相关传言为不实信息，因此不存在所谓“去世主要原因”的说法。\n\n### 补充说明：\n1.  刘欢曾在2009年被确诊为股骨头缺血性坏死，并接受过手术治疗，术后曾逐渐恢复公开活动[1]；近年来虽较少出现在公众视野，但并无权威信息证实其去世。\n2.  网络上关于名人去世的谣言时有出现，建议公众以官方通报或权威媒体报道为准，不信谣、不传谣。\n\n[1] 来源：《北京晚报》2010年相关报道，披露刘欢股骨头坏死手术及恢复情况。",
+  "sources": [],
+  "usage": {
+    "completion_tokens": 552,
+    "prompt_tokens": 207,
+    "total_tokens": 759,
+    "prompt_tokens_details": {
+      "cached_tokens": 0
+    },
+    "completion_tokens_details": {
+      "reasoning_tokens": 376
+    }
+  },
+  "finish_reason": "stop",
+  "note": [
+    "未返回平台来源链接；仅凭正文中的链接不能确认搜索是否成功。"
+  ],
+  "request_id": "203b634d-9d93-495c-be95-44a9ff6034f8",
+  "duration_seconds": 17.318
+}

@@ -1,0 +1,69 @@
+{
+  "task_id": "T0260",
+  "model": "deepseek",
+  "news_id": "E022",
+  "question_index": 1,
+  "question_original": "【开放】海南封关以后，普通游客出行有什么变化？从国内城市过去和从境外入境，证件要求有什么不同？",
+  "question": "海南封关以后，普通游客出行有什么变化？从国内城市过去和从境外入境，证件要求有什么不同？",
+  "attempt": 2,
+  "provider": "302.ai",
+  "model_requested": "deepseek-flash",
+  "query_date": "2026-11-14",
+  "search_service": "metaso",
+  "prompt_version": "news-search-v1",
+  "prompt_sha256": "ea56fd5557d32615a9115f2368a0c4983ff1188f4935369e694d7d46f2493be1",
+  "requested_at": "2026-11-14T04:03:27.738874+08:00",
+  "raw_file": "raw/T0260_deepseek_a002_a4dc69.json",
+  "transport": "sse",
+  "stream_file": "raw/T0260_deepseek_a002_a4dc69.sse",
+  "status": "ok",
+  "model_returned": "deepseek-flash",
+  "answer": "**直接结论：海南封关后，普通游客“进出岛”的人员通行规则基本没变，变的主要是海关对货物的监管，而不是游客要额外办“入岛证”。** 内地居民从国内其他城市去海南，和以前一样不需要办理额外证件；从境外入境海南，则仍按现行出入境管理规定，持有效护照、签证/免签许可、通行证等入境证件[5][4]。\n\n### 1. 从国内城市去海南：内地游客基本无变化\n- 内地居民到海南出差、旅游，仍按现行规定管理，**不需要办理任何额外证件**[5]。\n- 封关制度下，除部分货物从海南进入内地需接受查验外，大多数货物以及**所有人员、物品、交通工具**进出海南岛仍按现行规定管理[5]。也就是说，普通游客不会因为封关而多出一道“人员通行审批”。\n\n### 2. 从境外入境海南：证件要求按出入境管理执行\n不同类型旅客的要求大致如下：\n\n| 旅客类型 | 从境外前往海南的证件要求 |\n|---|---|\n| 外国人 | 总体与封关前一致，持本人有效护照或其他国际旅行证件，以及有效签证、居留证件、外国人永久居留身份证、APEC商务旅行卡等入境许可证明入境[4]。 |\n| 港澳台居民 | 持本人有效港澳居民来往内地通行证、台湾居民来往大陆通行证等证件[4]。 |\n| 华侨 | 持本人有效中国护照[4]。 |\n| 内地居民 | 检索资料没有单独列明“内地居民从境外直接到海南”的证件清单；原则上应按中国公民入境规定持有效护照等出入境证件，建议出发前向边检确认。 |\n\n另外，据中新网2026年11月报道，三亚目前对全球88国公民实施免签入境，单人通关时间缩短至30秒，并已开通38条境外客运航线[1]。这说明境外游客进入海南的便利度在提升，但**免签适用的具体国家名单、停留期限和活动范围**，仍应以国家移民管理局、海南边检等官方发布为准；现有检索结果没有给出完整名单。\n\n### 3. 实际体验上的主要变化\n- **人员通关更快、国际航线更多**：三亚口岸出入境人员今年突破100万人次，同比增长30.3%，境外客运航线覆盖东南亚、中亚、俄语区等客源地[1]。\n- **购物和携带物品需注意海关监管**：封关后“一线放开、二线管住、岛内自由”，游客离岛携带物品仍要接受海关监管；个人携带免税商品进入内地需申报缴税，“有偿代购”或“额度转卖”可能涉嫌走私。该提示来自标注为AI生成的内容，仅作风险提醒，具体以海关公告为准[3]。\n\n**一句话总结：** 国内游客去海南，证件上“照旧”；境外入境海南，护照和签证/免签、通行证等出入境要求“照旧”；真正需要留意的是购物、携带物品和货物进出岛的海关查验规则[5][4][3]。",
+  "sources": [
+    {
+      "index": 1,
+      "url": "https://www.chinanews.com.cn/sh/shipin/cns/2026/11-06/news1074001.shtml",
+      "title": null,
+      "origin": "citations"
+    },
+    {
+      "index": 2,
+      "url": "https://finance.sina.cn/2026-02-26/detail-inhpefhh1377275.d.html",
+      "title": null,
+      "origin": "citations"
+    },
+    {
+      "index": 3,
+      "url": "https://k.sina.cn/article_7857201853_v1d45362bd06801p2be.html",
+      "title": null,
+      "origin": "citations"
+    },
+    {
+      "index": 4,
+      "url": "https://m.163.com/dy/article/KKC0VKO70514R9KQ.html",
+      "title": null,
+      "origin": "citations"
+    },
+    {
+      "index": 5,
+      "url": "https://mp.weixin.qq.com/s?__biz=MzA5NTE4MzMxNA==&mid=2650559126&idx=2&sn=3f49cce759b8c0de84e0a390089b598c&chksm=89c42f80a6675579b1258209843fd75ba6ff33021cb65a557777c9764cd55eeedb33c39ee035&scene=27",
+      "title": null,
+      "origin": "citations"
+    }
+  ],
+  "usage": {
+    "completion_tokens": 2416,
+    "completion_tokens_details": {
+      "reasoning_tokens": 1754
+    },
+    "prompt_tokens": 1398,
+    "prompt_tokens_details": {
+      "cached_tokens": 0
+    },
+    "total_tokens": 3814
+  },
+  "finish_reason": "stop",
+  "note": [],
+  "request_id": "a68f95a5-ba9e-4c77-9618-43412c8fd0f2",
+  "duration_seconds": 17.475
+}

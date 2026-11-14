@@ -1,0 +1,45 @@
+{
+  "task_id": "T0154",
+  "model": "doubao",
+  "news_id": "E013",
+  "question_index": 3,
+  "question_original": "【事实】国家育儿补贴基础标准是每个孩子每年3600元，还是每月3600元？2025年前出生的孩子怎么折算？",
+  "question": "国家育儿补贴基础标准是每个孩子每年3600元，还是每月3600元？2025年前出生的孩子怎么折算？",
+  "attempt": 1,
+  "provider": "302.ai",
+  "model_requested": "doubao-seed-2-1-pro-260628",
+  "query_date": "2026-11-14",
+  "search_service": "metaso",
+  "prompt_version": "news-search-v1",
+  "prompt_sha256": "ea56fd5557d32615a9115f2368a0c4983ff1188f4935369e694d7d46f2493be1",
+  "requested_at": "2026-11-14T11:42:20.554214+08:00",
+  "raw_file": "raw/T0154_doubao_a001_761f73.json",
+  "transport": "sse",
+  "stream_file": "raw/T0154_doubao_a001_761f73.sse",
+  "status": "ok",
+  "model_returned": "doubao-seed-2-1-pro-260628",
+  "answer": "### 明确答复\n1. 补贴标准：国家层面统一的普惠性育儿补贴基础标准为**每孩每年3600元**，并非每月3600元，补贴覆盖所有合法生育的3岁以下婴幼儿家庭[4]。\n2. 2025年前出生孩子的补贴安排：该育儿补贴制度自2025年1月1日起正式实施，对于2025年前出生、政策落地时未满3周岁的婴幼儿，方案明确将溯及既往，按规则补发对应折算后的补贴金额[4]。目前检索到的公开方案内容仅明确了溯及补发的原则，尚未披露折算的具体计算细则。\n---\n### 补充背景\n此次公布的《育儿补贴制度实施方案》是我国首次在全国层面建立的普惠性育儿现金补贴制度，以真金白银直达育儿家庭的形式，将生育支持举措从地方零散试点上升为国家统一行动，是我国应对人口结构挑战、构建生育友好型社会的关键民生举措[4]。\n\n[4] 搜索结果来源：公布《育儿补贴制度实施方案》的相关公开表述内容。",
+  "sources": [
+    {
+      "index": 1,
+      "url": "https://www.bilibili.com/opus/1094838394134986768",
+      "title": null,
+      "origin": "citations"
+    }
+  ],
+  "usage": {
+    "completion_tokens": 1589,
+    "completion_tokens_details": {
+      "reasoning_tokens": 1342
+    },
+    "prompt_tokens": 861,
+    "prompt_tokens_details": {
+      "cached_tokens": 0
+    },
+    "total_tokens": 2450
+  },
+  "finish_reason": "stop",
+  "note": [],
+  "request_id": "47b3e635-1eac-4489-9bd1-c148e54ff26f",
+  "duration_seconds": 32.328
+}

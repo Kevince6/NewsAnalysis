@@ -1,0 +1,51 @@
+{
+  "task_id": "T0088",
+  "model": "doubao",
+  "news_id": "E007",
+  "question_index": 4,
+  "question_original": "【事实】2026年第二季度，希腊、意大利和法国的政府债务占GDP比例分别是多少？三国中谁最高？",
+  "question": "2026年第二季度，希腊、意大利和法国的政府债务占GDP比例分别是多少？三国中谁最高？",
+  "attempt": 1,
+  "provider": "302.ai",
+  "model_requested": "doubao-seed-2-1-pro-260628",
+  "query_date": "2026-11-14",
+  "search_service": "metaso",
+  "prompt_version": "news-search-v1",
+  "prompt_sha256": "ea56fd5557d32615a9115f2368a0c4983ff1188f4935369e694d7d46f2493be1",
+  "requested_at": "2026-11-14T11:23:36.676301+08:00",
+  "raw_file": "raw/T0088_doubao_a001_bb5281.json",
+  "transport": "sse",
+  "stream_file": "raw/T0088_doubao_a001_bb5281.sse",
+  "status": "ok",
+  "model_returned": "doubao-seed-2-1-pro-260628",
+  "answer": "根据现有可检索到的权威公开统计，由新华社承建的新华财经平台发布的、以2026年1月保加利亚加入欧元区后21个成员国为统计口径的欧元区政府债务数据显示：希腊政府债务占GDP比重为143.5%，意大利为138.9%，法国为117.6%；三个国家中希腊的政府债务占GDP比例最高[1]。\n\n需要说明的相关信息：\n1.  上述新华财经发布的统计数据仅明确了欧元区成员国的统计口径范围，未直接标注数据对应的具体统计时段为2026年第二季度，目前暂无法确认该数值是否完全匹配你询问的2026年二季度统计节点[1]。\n2.  另一项欧洲各国政府债务对比的公开资料显示，希腊、意大利两国债务占本国GDP比重均超过135%，法国债务占GDP比重为118.4%，可确认希腊、意大利的债务率均高于法国，但该来源未披露希腊、意大利的精确债务率数值，也未对两国债务率的高低排序作出说明；该资料中涉及西班牙、德国的2026年债务规模为机构预测值[5]。两个来源统计的法国债务率存在0.8个百分点的小幅差异，大概率与统计口径、数据发布时点不同有关。",
+  "sources": [
+    {
+      "index": 1,
+      "url": "https://www.21jingji.com/article/20260723/herald/ed64139011fb20242d6af55c648c1d8c.html",
+      "title": null,
+      "origin": "citations"
+    },
+    {
+      "index": 2,
+      "url": "https://www.cuiqq.com/newsdetail/17988",
+      "title": null,
+      "origin": "citations"
+    }
+  ],
+  "usage": {
+    "completion_tokens": 5216,
+    "completion_tokens_details": {
+      "reasoning_tokens": 4914
+    },
+    "prompt_tokens": 1104,
+    "prompt_tokens_details": {
+      "cached_tokens": 0
+    },
+    "total_tokens": 6320
+  },
+  "finish_reason": "stop",
+  "note": [],
+  "request_id": "e9eb161a-300f-4248-bf2e-50ec36a9a634",
+  "duration_seconds": 90.641
+}

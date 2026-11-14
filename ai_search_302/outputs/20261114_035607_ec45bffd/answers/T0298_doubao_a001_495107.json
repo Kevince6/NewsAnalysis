@@ -1,0 +1,63 @@
+{
+  "task_id": "T0298",
+  "model": "doubao",
+  "news_id": "E025",
+  "question_index": 3,
+  "question_original": "【事实】2026年4月27日监管部门要求撤销Manus收购交易，这就能证明交易已经撤销完成了吗？",
+  "question": "2026年4月27日监管部门要求撤销Manus收购交易，这就能证明交易已经撤销完成了吗？",
+  "attempt": 1,
+  "provider": "302.ai",
+  "model_requested": "doubao-seed-2-1-pro-260628",
+  "query_date": "2026-11-14",
+  "search_service": "metaso",
+  "prompt_version": "news-search-v1",
+  "prompt_sha256": "ea56fd5557d32615a9115f2368a0c4983ff1188f4935369e694d7d46f2493be1",
+  "requested_at": "2026-11-14T12:17:34.713907+08:00",
+  "raw_file": "raw/T0298_doubao_a001_495107.json",
+  "transport": "sse",
+  "stream_file": "raw/T0298_doubao_a001_495107.sse",
+  "status": "ok",
+  "model_returned": "doubao-seed-2-1-pro-260628",
+  "answer": "这无法证明相关收购交易在2026年4月27日就已经撤销完成。\n### 相关事实与背景说明：\n1.  2026年4月27日是监管部门发布行政指令的节点，而非交易撤销的完成节点：当天国家发展改革委下设的外商投资安全审查工作机制办公室正式依法作出禁止Meta收购Manus的决定，向交易当事方提出撤销收购安排的要求，这一行为属于监管审查结论的送达与公示，并不代表撤销动作在当日就已执行完毕[2][3][4]。该决定是2020年《外商投资安全审查办法》实施以来我国首例公开披露的外资收购禁止决定，也是国内首宗被公开否决的AI领域外资收购案例，审查围绕国家安全、关键技术领域相关风险展开[2][3]。\n2.  交易撤销与后续理顺工作在禁令发布后经历了数月的推进周期：监管禁令下达后，Manus才逐步推进与Meta的业务分离工作，直到2026年9月1日Manus才正式恢复独立运营，标志着收购安排的撤销、原状恢复工作正式落地[1]。\n3.  相关配套状态的变化也印证了撤销完成时点在4月27日之后：在业务分离推进过程中，Manus创始人肖弘、首席科学家季逸超曾被监管部门采取限制出境措施，直到交易撤销、业务分离完成后，两人才解除出境限制；后续Manus完成了新一轮融资，为独立运营阶段的发展提供资金支持，同时保留了新加坡总部的布局，公司发展正式走出收购风波的不确定阶段[1]。",
+  "sources": [
+    {
+      "index": 1,
+      "url": "https://news.qq.com/rain/a/20261009A0AKJZ00",
+      "title": null,
+      "origin": "citations"
+    },
+    {
+      "index": 2,
+      "url": "https://www.cnblogs.com/gyc567/p/19938759",
+      "title": null,
+      "origin": "citations"
+    },
+    {
+      "index": 3,
+      "url": "https://k.sina.cn/article_5953189932_162d6782c06704mceo.html",
+      "title": null,
+      "origin": "citations"
+    },
+    {
+      "index": 4,
+      "url": "https://k.sina.cn/article_5952915705_162d248f906702ujvu.html",
+      "title": null,
+      "origin": "citations"
+    }
+  ],
+  "usage": {
+    "completion_tokens": 2202,
+    "completion_tokens_details": {
+      "reasoning_tokens": 1839
+    },
+    "prompt_tokens": 1261,
+    "prompt_tokens_details": {
+      "cached_tokens": 0
+    },
+    "total_tokens": 3463
+  },
+  "finish_reason": "stop",
+  "note": [],
+  "request_id": "b5aed6ee-a428-426b-a564-21dcf852628c",
+  "duration_seconds": 40.031
+}

@@ -1,0 +1,59 @@
+{
+  "task_id": "T0348",
+  "model": "qwen",
+  "news_id": "E029",
+  "question_index": 3,
+  "question_original": "【事实】卢浮宫2026年2月4日说欧仁妮皇后皇冠可以完整修复，是宣布已经修好了吗？",
+  "question": "卢浮宫2026年2月4日说欧仁妮皇后皇冠可以完整修复，是宣布已经修好了吗？",
+  "attempt": 1,
+  "provider": "302.ai",
+  "model_requested": "qwen3.8-max",
+  "query_date": "2026-11-14",
+  "search_service": "metaso",
+  "prompt_version": "news-search-v1",
+  "prompt_sha256": "ea56fd5557d32615a9115f2368a0c4983ff1188f4935369e694d7d46f2493be1",
+  "requested_at": "2026-11-14T12:31:43.022104+08:00",
+  "raw_file": "raw/T0348_qwen_a001_cc690d.json",
+  "transport": "sse",
+  "stream_file": "raw/T0348_qwen_a001_cc690d.sse",
+  "status": "ok",
+  "model_returned": "qwen3.8-max",
+  "answer": "不是。卢浮宫公告所说的“可以完整修复”并不是宣布欧仁妮皇后皇冠已经修复完成，而是表示这件在2025年10月卢浮宫抢劫案中被寻回的皇冠虽已受损，但保存状况足以进行整体修复[1]。\n\n公告称，皇冠框架因被挤压和撞击而变形，但整体近乎保存完整，仅缺失一个装饰性部件，因此“无需重构或补配即可完成整体修复”[1]。也就是说，馆方是在说明其具备修复条件、可以启动修复，而不是说修复已经完成[1]。\n\n目前公布的修复方向主要是对框架进行重新整形，后续还将依照法国相关规定招标选择具备资质的修复师，并成立专家咨询委员会提供修复建议[1]。此外，卢浮宫方面也提到，委员会将由现任馆长洛朗丝·德卡尔领导，成员包括艺术品部负责人、珠宝史学者等，并邀请法国珠宝世家代表参与[5]。\n\n简单说：这是“可以修、准备修”的评估结论，不是“已经修好了”的结果通报。",
+  "sources": [
+    {
+      "index": 1,
+      "url": "https://www.news.cn/world/20260206/6949ce88f59e471699ce7c47981c545a/c.html",
+      "title": null,
+      "origin": "citations"
+    },
+    {
+      "index": 2,
+      "url": "https://tv.cctv.com/2026/02/07/VIDEwLH3fGaViPPPm5du4M7N260207.shtml",
+      "title": null,
+      "origin": "citations"
+    },
+    {
+      "index": 3,
+      "url": "http://www.xinhuanet.com/20260206/bcf01dc3951e468589561473be259425/c.html",
+      "title": null,
+      "origin": "citations"
+    }
+  ],
+  "usage": {
+    "completion_tokens": 683,
+    "completion_tokens_details": {
+      "reasoning_tokens": 453,
+      "text_tokens": 683
+    },
+    "prompt_tokens": 1162,
+    "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "text_tokens": 1162
+    },
+    "total_tokens": 1845
+  },
+  "finish_reason": "stop",
+  "note": [],
+  "request_id": "1d423aaa-4d7c-4f7b-becf-08ae3e63d351",
+  "duration_seconds": 19.515
+}

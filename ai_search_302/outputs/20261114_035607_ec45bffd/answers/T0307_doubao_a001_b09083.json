@@ -1,0 +1,51 @@
+{
+  "task_id": "T0307",
+  "model": "doubao",
+  "news_id": "E026",
+  "question_index": 3,
+  "question_original": "【事实】那次被误报成9.9级的实际地震发生在哪里，震级和震源深度各是多少？",
+  "question": "那次被误报成9.9级的实际地震发生在哪里，震级和震源深度各是多少？",
+  "attempt": 1,
+  "provider": "302.ai",
+  "model_requested": "doubao-seed-2-1-pro-260628",
+  "query_date": "2026-11-14",
+  "search_service": "metaso",
+  "prompt_version": "news-search-v1",
+  "prompt_sha256": "ea56fd5557d32615a9115f2368a0c4983ff1188f4935369e694d7d46f2493be1",
+  "requested_at": "2026-11-14T12:20:20.560983+08:00",
+  "raw_file": "raw/T0307_doubao_a001_b09083.json",
+  "transport": "sse",
+  "stream_file": "raw/T0307_doubao_a001_b09083.sse",
+  "status": "ok",
+  "model_returned": "doubao-seed-2-1-pro-260628",
+  "answer": "那次被误报为9.9级的地震，实际发生在俄罗斯堪察加半岛附近，真实震级为6.9级，震源深度约150-160公里，属于深源地震[2][5]。\n\n关于这次误报事件的相关背景如下：\n1.  **事件基本经过**：该次误报出自日本的紧急地震速报系统，当时系统错误将震源判定在千岛群岛，把震级高估至9.9级，还向几千万推送用户发送了“最大震度7、晃动到达时间189秒”的预警信息。由于初步速报的参数和实际情况偏差过大，日本气象厅震后迟迟无法确认准确的震源位置、震级信息，最终于12时48分左右宣布取消这一预警，并公开表示正在调查系统严重高估地震规模的具体原因[2][5]。经气象厅后续核实，实际发震时间为当天中午12时38分左右，即前述俄罗斯堪察加半岛附近的6.9级深源地震[5]。\n2.  **误报的机制性原因**：出现这次偏差的日本紧急地震速报系统2007年正式面向公众运行，是全球最早铺开的全国性地震预警系统之一。这套系统的运行逻辑是利用地震波的传播时间差：破坏力较小的P波传播速度更快，会比破坏力强的S波更早到达地震台站，系统就抓住这几秒到几十秒的窗口，抢在S波造成强烈晃动之前快速估算地震参数、向公众发送警报。但这种为了抢预警时间牺牲数据完整度的机制本身就存在估算偏差的可能——系统仅能依靠地震发生后最开始数秒内、少数台站采集到的数据推测整场地震的规模和位置，可用的数据点越少，估算偏误的概率越高；而这次实际发生的是震源深度超过百公里的深源地震，进一步提升了参数快速判定的难度，最终导致了这次误差极大的震级、位置误报[2]。",
+  "sources": [
+    {
+      "index": 1,
+      "url": "https://github.com/mrescream/scxne/commit/57258a7e6c47231a183276363a866128fc391c4e?%2F496=H9s",
+      "title": null,
+      "origin": "citations"
+    },
+    {
+      "index": 2,
+      "url": "https://news.qq.com/rain/a/20261016A09UY000",
+      "title": null,
+      "origin": "citations"
+    }
+  ],
+  "usage": {
+    "completion_tokens": 2496,
+    "completion_tokens_details": {
+      "reasoning_tokens": 2046
+    },
+    "prompt_tokens": 1060,
+    "prompt_tokens_details": {
+      "cached_tokens": 0
+    },
+    "total_tokens": 3556
+  },
+  "finish_reason": "stop",
+  "note": [],
+  "request_id": "02ca1d4d-e3b3-4cce-ab2f-776d192e115c",
+  "duration_seconds": 45.375
+}

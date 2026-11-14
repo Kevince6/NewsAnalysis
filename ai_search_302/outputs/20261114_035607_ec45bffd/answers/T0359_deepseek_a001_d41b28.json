@@ -1,0 +1,63 @@
+{
+  "task_id": "T0359",
+  "model": "deepseek",
+  "news_id": "E030",
+  "question_index": 3,
+  "question_original": "【事实】证监会2024年对恒大地产和许家印分别罚了多少钱，对许家印还有什么市场禁入措施？",
+  "question": "证监会2024年对恒大地产和许家印分别罚了多少钱，对许家印还有什么市场禁入措施？",
+  "attempt": 1,
+  "provider": "302.ai",
+  "model_requested": "deepseek-flash",
+  "query_date": "2026-11-14",
+  "search_service": "metaso",
+  "prompt_version": "news-search-v1",
+  "prompt_sha256": "ea56fd5557d32615a9115f2368a0c4983ff1188f4935369e694d7d46f2493be1",
+  "requested_at": "2026-11-14T12:34:42.316622+08:00",
+  "raw_file": "raw/T0359_deepseek_a001_d41b28.json",
+  "transport": "sse",
+  "stream_file": "raw/T0359_deepseek_a001_d41b28.sse",
+  "status": "ok",
+  "model_returned": "deepseek-flash",
+  "answer": "2024年5月31日，证监会针对恒大地产债券欺诈发行及信息披露违法案作出处罚：**对恒大地产罚款41.75亿元，对许家印顶格罚款4700万元，并对其采取终身证券市场禁入措施**[1][3][5]。\n\n具体分点如下：\n\n1. **恒大地产**：被责令改正、给予警告，并处罚款41.75亿元[1][3]。\n\n2. **许家印**：作为恒大地产时任董事长、实际控制人，被处以顶格罚款4700万元，同时被采取**终身证券市场禁入措施**[1][5]。\n\n3. **其他相关人员**：证监会还依据《证券法》及《证券市场禁入规定》，对夏海钧等人采取了相应的证券市场禁入措施[3]。报道提到，对钱程因积极配合调查、纠正违法行为，依法给予减轻处罚[3]。\n\n需要说明的是，上述内容是证监会2024年5月公布的行政处罚及市场禁入决定。当时有分析人士认为，这可能只是监管层对恒大系相关责任人处罚的一部分，后续不排除还有其他处罚措施[2]；但这属于市场分析判断，并非已确认的处罚事实。",
+  "sources": [
+    {
+      "index": 1,
+      "url": "https://m.jrj.com.cn/madapter/finance/2024/05/31175440851270.shtml",
+      "title": null,
+      "origin": "citations"
+    },
+    {
+      "index": 2,
+      "url": "https://stock.jrj.com.cn/2024/03/19073239894671.shtml",
+      "title": null,
+      "origin": "citations"
+    },
+    {
+      "index": 3,
+      "url": "https://fund.eastmoney.com/a/202403193015571375.html",
+      "title": null,
+      "origin": "citations"
+    },
+    {
+      "index": 4,
+      "url": "https://www.thepaper.cn/newsDetail_forward_26730315",
+      "title": null,
+      "origin": "citations"
+    }
+  ],
+  "usage": {
+    "completion_tokens": 453,
+    "completion_tokens_details": {
+      "reasoning_tokens": 205
+    },
+    "prompt_tokens": 1337,
+    "prompt_tokens_details": {
+      "cached_tokens": 0
+    },
+    "total_tokens": 1790
+  },
+  "finish_reason": "stop",
+  "note": [],
+  "request_id": "e7cb306f-bafa-4ad5-8f3b-fad574c32353",
+  "duration_seconds": 22.375
+}

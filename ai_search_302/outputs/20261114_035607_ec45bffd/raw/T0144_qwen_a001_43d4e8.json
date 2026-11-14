@@ -1,0 +1,53 @@
+{
+  "request": {
+    "model": "qwen3.8-max",
+    "messages": [
+      {
+        "role": "system",
+        "content": "请联网检索后，用自然中文回答用户的问题。\n先直接回答，再补充理解答案所需的事实、背景或说明；复杂问题可分点，简单问题可简答。\n优先参考与问题直接相关的原始发布、机构公告、当事人回应及可信媒体报道。\n依据检索到的资料作答。资料不足、存在分歧或尚未确认的内容，请明确说明；解释和判断应与已确认的事实区分。\n在相关事实后标注检索来源，沿用检索结果提供的引用编号或标记。\n\n查询日期：2026-11-14（北京时间，UTC+8）。问题中的“现在”“近期”“最新”以此日期为参照；问题明确指定时间范围时，以问题为准。"
+      },
+      {
+        "role": "user",
+        "content": "TikTok在美国是哪天暂停、哪天开始恢复服务的？合资公司成立又是什么时候？"
+      }
+    ],
+    "web-search": true,
+    "search-service": "metaso",
+    "search-results": 5,
+    "stream": true,
+    "stream_options": {
+      "include_usage": true
+    }
+  },
+  "response": {
+    "object": "chat.completion",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "<tool_call>\n<function=web_search>\n  <parameter name=\"query\">\nTikTok 美国 暂停服务 恢复服务 日期 合资公司成立\n</parameter>\n</function>\n</tool_call>\n<tool_call>\n<function=web_search>\n  <parameter name=\"query\">\nTikTok US shutdown restored January 2025 joint venture formed date\n</parameter>\n</function>\n</tool_call>\n<tool_call>\n<function=web_search>\n  <parameter name=\"query\">\nTikTok U.S. joint venture Oracle Silver Lake MGX announcement date\n</parameter>\n</function>\n</tool_call>",
+          "reasoning_content": "我们需要回答中文。用户问：TikTok在美国是哪天暂停、哪天开始恢复服务的？合资公司成立又是什么时候？需要联网检索。当前日期 2026-11-14。需要事实。我们要调用搜索工具。分析：问题可能指2025年1月18日/19日 TikTok 在美国短暂关闭，1月19日恢复？以及合资公司成立时间？可能涉及 TikTok、甲骨文、银湖、MGX 等成立新合资公司“TikTok USDS Joint Venture”或“TikTok U.S. Data Security”？需要查。用户问“合资公司成立又是什么时候？”可能指2025年9月19日？或2025年? 2025年9月19日特朗普签行政令？需要查可靠来源。我们需要检索。\n"
+        },
+        "finish_reason": "stop"
+      }
+    ],
+    "id": "chatcmpl-6a58df45-f652-96cf-9698-17b25cc97c51",
+    "model": "qwen3.8-max",
+    "created": 1794627643,
+    "usage": {
+      "completion_tokens": 317,
+      "completion_tokens_details": {
+        "reasoning_tokens": 183,
+        "text_tokens": 317
+      },
+      "prompt_tokens": 227,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "text_tokens": 227
+      },
+      "total_tokens": 544
+    },
+    "_transport": "sse"
+  }
+}

@@ -1,0 +1,69 @@
+{
+  "task_id": "T0254",
+  "model": "deepseek",
+  "news_id": "E021",
+  "question_index": 3,
+  "question_original": "【事实】天水涉事幼儿园的玉米卷肠包、三色红枣发糕，留样铅含量分别是多少？这些数值是食品检测值还是孩子的血铅值？",
+  "question": "天水涉事幼儿园的玉米卷肠包、三色红枣发糕，留样铅含量分别是多少？这些数值是食品检测值还是孩子的血铅值？",
+  "attempt": 1,
+  "provider": "302.ai",
+  "model_requested": "deepseek-flash",
+  "query_date": "2026-11-14",
+  "search_service": "metaso",
+  "prompt_version": "news-search-v1",
+  "prompt_sha256": "ea56fd5557d32615a9115f2368a0c4983ff1188f4935369e694d7d46f2493be1",
+  "requested_at": "2026-11-14T12:09:15.052921+08:00",
+  "raw_file": "raw/T0254_deepseek_a001_04fd94.json",
+  "transport": "sse",
+  "stream_file": "raw/T0254_deepseek_a001_04fd94.sse",
+  "status": "ok",
+  "model_returned": "deepseek-flash",
+  "answer": "**结论：这两组数字都是“食品留样”的铅含量检测值，不是孩子的血铅值。**\n\n## 一、两份留样食品的铅含量\n\n| 留样食品 | 铅含量（检测值） | 国家标准限量 | 超标倍数 |\n|---|---|---|---|\n| 玉米卷肠包 | **1340 mg/kg** | ≤0.5 mg/kg | 约2680倍 |\n| 三色红枣发糕 | **1052 mg/kg** | ≤0.5 mg/kg | 约2100倍 |\n\n甘肃天水褐石培心幼儿园两份留样食品的铅含量分别为每千克1052毫克和1340毫克，远超《食品安全国家标准 食品中污染物限量》（GB 2762-2022）中铅限量每千克0.5毫克的要求，差额高达两千多倍[webpage 2][webpage 3][webpage 4][webpage 5]。同批检测中，其余餐食留样、现场36批次食材、饮用水水样均符合国家标准，仅这两份面食留样严重超标[webpage 4]。\n\n## 二、这些数值的性质：食品污染物检测值，不是血铅\n\n- **单位即可区分**：食品铅含量用 **mg/kg**（毫克/千克，即每公斤食物中的铅质量）表示；血铅通常用 **μg/L** 或 **μg/dL**（微升/分升血液中的铅质量）表示，两者量纲完全不同，不能混为一谈。\n- **检测对象不同**：上述数字来自幼儿园**留样食品的实验室检测**，测的是“食物里含多少铅”；血铅测的是“孩子体内血液中的铅浓度”，属于人体生物监测指标。\n- **二者有关联但不等同**：食品铅含量高，是导致儿童血铅异常的直接来源，但儿童的个体血铅值取决于摄入量、吸收率、排泄和个体差异，不能由食品浓度直接换算。\n\n## 三、关于血铅数值：目前检索到的资料未给出具体浓度\n\n现有报道只提到“全园251名幼儿中233人血铅异常，仅18人血铅正常”[webpage 5]，以及部分孩子在医院接受排铅治疗[webpage 1]，但**没有披露这些孩子的具体血铅检测浓度（如μg/L数值）或分级情况**。因此，若要了解血铅的具体水平，还需查阅当地卫健部门或官方通报中的血铅检测结果，目前检索材料不足以回答这一点。\n\n**补充背景**：据通报，涉事食品超标的原因为厨房人员将**彩绘颜料**掺入面点制作[webpage 5]；这一情节属于官方通报内容，与上述检测数值相互印证。",
+  "sources": [
+    {
+      "index": 1,
+      "url": "https://www.douyin.com/shipin/7527119750926108722",
+      "title": null,
+      "origin": "citations"
+    },
+    {
+      "index": 2,
+      "url": "https://mp.weixin.qq.com/s?__biz=MzIzMDcxNDgwMw==&mid=2247608404&idx=1&sn=cc90770156340395e62dfecf418261db&chksm=e9d12bbe2a1a3436040f752b5d10b0fec58563e5511ddff00f8630f6247ba7921f12bec06b8f&scene=27",
+      "title": null,
+      "origin": "citations"
+    },
+    {
+      "index": 3,
+      "url": "https://www.kankanews.com/detail/xMwLGKvXvQD",
+      "title": null,
+      "origin": "citations"
+    },
+    {
+      "index": 4,
+      "url": "https://news.china.com/socialgd/10000169/20250721/48636769.html",
+      "title": null,
+      "origin": "citations"
+    },
+    {
+      "index": 5,
+      "url": "https://mp.weixin.qq.com/s?__biz=MzAxMTgzODEyMQ==&mid=2247546076&idx=1&sn=0a848b4371ae2f8f94febbf75d2471c3&chksm=9a175ce0e29ca2dab5471959e3abbcfb1ec2467c5336b4a6f5d97a598b57958155df8b862da8&scene=27",
+      "title": null,
+      "origin": "citations"
+    }
+  ],
+  "usage": {
+    "completion_tokens": 818,
+    "completion_tokens_details": {
+      "reasoning_tokens": 240
+    },
+    "prompt_tokens": 1375,
+    "prompt_tokens_details": {
+      "cached_tokens": 0
+    },
+    "total_tokens": 2193
+  },
+  "finish_reason": "stop",
+  "note": [],
+  "request_id": "cf3b42fb-6633-47ec-8a40-11fa2697e437",
+  "duration_seconds": 30.281
+}

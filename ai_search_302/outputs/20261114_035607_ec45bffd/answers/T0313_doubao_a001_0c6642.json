@@ -1,0 +1,63 @@
+{
+  "task_id": "T0313",
+  "model": "doubao",
+  "news_id": "E027",
+  "question_index": 1,
+  "question_original": "【开放】从2025年4月到2026年8月，H20对华出口从新增许可要求、申请恢复销售到实际销售情况，经历了哪些变化？",
+  "question": "从2025年4月到2026年8月，H20对华出口从新增许可要求、申请恢复销售到实际销售情况，经历了哪些变化？",
+  "attempt": 1,
+  "provider": "302.ai",
+  "model_requested": "doubao-seed-2-1-pro-260628",
+  "query_date": "2026-11-14",
+  "search_service": "metaso",
+  "prompt_version": "news-search-v1",
+  "prompt_sha256": "ea56fd5557d32615a9115f2368a0c4983ff1188f4935369e694d7d46f2493be1",
+  "requested_at": "2026-11-14T12:21:25.190741+08:00",
+  "raw_file": "raw/T0313_doubao_a001_0c6642.json",
+  "transport": "sse",
+  "stream_file": "raw/T0313_doubao_a001_0c6642.sse",
+  "status": "ok",
+  "model_returned": "doubao-seed-2-1-pro-260628",
+  "answer": "根据现有检索到的公开信息，可确认2025年4月至已披露信息覆盖时段内，H20对华出口的政策要求、企业经营影响与实际销售情况经历了以下明确变化；现有资料未覆盖2025年8月之后至2026年8月期间H20对华出口的全时段动态，涉及其他型号芯片的许可动态不纳入H20的变化范畴：\n1.  **2025年4月：管制突然升级，H20对华出口新增强制单独许可要求，企业产生大额计提损失**\n2025年4月，美国政府临时调整出口管制规则，要求H20对华出口必须单独申请许可证，不再适用此前的通行出口规则[1][3][5]。受这一突发政策影响，英伟达在截至2025年4月27日的2026财年第一财季，计提了45亿美元与H20库存、采购义务相关的损失费用，同时预计该管制将导致公司第二财季损失80亿美元营收[1][3]。\n2.  **2025年7月：管制出现松绑信号，企业官宣将恢复H20在华销售**\n在H20被施加单独许可要求数月后，随着中美贸易谈判取得阶段性进展，美国开始放松相关对华出口管制政策[3]。英伟达于2025年7月14日发布官方新闻稿明确，公司提交H20对华出口申请后，美国政府已承诺将为相关出口授予许可证，H20将恢复在中国市场的销售；同期英伟达还宣布，将为中国市场推出完全兼容的NVIDIA RTX PRO GPU[3]。\n3.  **2025年8月：部分出口许可正式落地，H20实现小规模在华销售**\n2025年8月，美国政府正式松绑相关管制，批准了部分H20的对华出口许可，允许对应批次的H20产品正常向中国市场销售[1][5]。从后续披露的财报数据来看，这部分获批许可对应的H20产品累计实现销售收入约6000万美元，销售规模相对有限[1]。\n\n### 补充说明\n现有检索资料仅提及2026年2月美方曾发放少量H200（非H20型号）的对华出口许可，且当时H200能否正式进入中国市场仍存在不确定性[5]；暂未查询到2025年8月之后至2026年8月期间，H20对华出口的后续政策调整、销售规模变动等相关明确信息。",
+  "sources": [
+    {
+      "index": 1,
+      "url": "https://www.163.com/dy/article/LBAGFTCN05566E2R.html",
+      "title": null,
+      "origin": "citations"
+    },
+    {
+      "index": 2,
+      "url": "http://m.chinaaet.com/article/3000173138",
+      "title": null,
+      "origin": "citations"
+    },
+    {
+      "index": 3,
+      "url": "https://ee.m.ofweek.com/2025-07/ART-8500-2816-30667131.html",
+      "title": null,
+      "origin": "citations"
+    },
+    {
+      "index": 4,
+      "url": "https://m.sohu.com/a/1021253728_122575892",
+      "title": null,
+      "origin": "citations"
+    }
+  ],
+  "usage": {
+    "completion_tokens": 4406,
+    "completion_tokens_details": {
+      "reasoning_tokens": 3825
+    },
+    "prompt_tokens": 1455,
+    "prompt_tokens_details": {
+      "cached_tokens": 0
+    },
+    "total_tokens": 5861
+  },
+  "finish_reason": "stop",
+  "note": [],
+  "request_id": "fa570955-6507-409e-aff1-0fcf478bc4f8",
+  "duration_seconds": 75.844
+}

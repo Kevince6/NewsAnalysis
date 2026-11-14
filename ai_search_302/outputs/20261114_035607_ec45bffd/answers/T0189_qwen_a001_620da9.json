@@ -1,0 +1,59 @@
+{
+  "task_id": "T0189",
+  "model": "qwen",
+  "news_id": "E015",
+  "question_index": 4,
+  "question_original": "【事实】2025年11月通过的H.R.5371中，临时拨款部分给相关机构供资到什么时候？",
+  "question": "2025年11月通过的H.R.5371中，临时拨款部分给相关机构供资到什么时候？",
+  "attempt": 1,
+  "provider": "302.ai",
+  "model_requested": "qwen3.8-max",
+  "query_date": "2026-11-14",
+  "search_service": "metaso",
+  "prompt_version": "news-search-v1",
+  "prompt_sha256": "ea56fd5557d32615a9115f2368a0c4983ff1188f4935369e694d7d46f2493be1",
+  "requested_at": "2026-11-14T11:52:19.265803+08:00",
+  "raw_file": "raw/T0189_qwen_a001_620da9.json",
+  "transport": "sse",
+  "stream_file": "raw/T0189_qwen_a001_620da9.sse",
+  "status": "ok",
+  "model_returned": "qwen3.8-max",
+  "answer": "2025年11月通过的 H.R.5371 中，临时拨款部分将按现有水平为相关联邦机构提供资金至 **2026年1月30日**[2][3][5]。\n\n补充来说，该法案并非为所有机构只提供临时资金：其中农业部、退伍军人事务部、军事建设项目以及国会运作等获得了整个财政年度的经费安排[2][3]。",
+  "sources": [
+    {
+      "index": 1,
+      "url": "https://paper.people.com.cn/rmrb/pad/content/202511/12/content_30114465.html",
+      "title": null,
+      "origin": "citations"
+    },
+    {
+      "index": 2,
+      "url": "https://k.sina.cn/article_1699432410_v654b47da02001lkmi.html",
+      "title": null,
+      "origin": "citations"
+    },
+    {
+      "index": 3,
+      "url": "https://www.163.com/dy/article/KEAIODKQ05567OCA.html",
+      "title": null,
+      "origin": "citations"
+    }
+  ],
+  "usage": {
+    "completion_tokens": 478,
+    "completion_tokens_details": {
+      "reasoning_tokens": 383,
+      "text_tokens": 478
+    },
+    "prompt_tokens": 1143,
+    "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "text_tokens": 1143
+    },
+    "total_tokens": 1621
+  },
+  "finish_reason": "stop",
+  "note": [],
+  "request_id": "3668f254-61f1-41c7-bd7f-5de813ff86c5",
+  "duration_seconds": 12.641
+}

@@ -1,0 +1,69 @@
+{
+  "task_id": "T0335",
+  "model": "deepseek",
+  "news_id": "E028",
+  "question_index": 3,
+  "question_original": "【事实】宏福苑大火是哪天发生的，当天下午几点起火、几点升为五级火警？",
+  "question": "宏福苑大火是哪天发生的，当天下午几点起火、几点升为五级火警？",
+  "attempt": 1,
+  "provider": "302.ai",
+  "model_requested": "deepseek-flash",
+  "query_date": "2026-11-14",
+  "search_service": "metaso",
+  "prompt_version": "news-search-v1",
+  "prompt_sha256": "ea56fd5557d32615a9115f2368a0c4983ff1188f4935369e694d7d46f2493be1",
+  "requested_at": "2026-11-14T12:28:15.864974+08:00",
+  "raw_file": "raw/T0335_deepseek_a001_a166de.json",
+  "transport": "sse",
+  "stream_file": "raw/T0335_deepseek_a001_a166de.sse",
+  "status": "ok",
+  "model_returned": "deepseek-flash",
+  "answer": "宏福苑大火发生于**2025年11月26日**；当天下午约**2时50分至2时51分**起火，火警于当天**下午6时22分**升为五级。[1][4][5]\n\n其中，起火时间在不同报道中略有出入：有记录为下午2时51分[1]，也有记录为下午2时50分[5]。火警升级过程为：下午3时02分升为三级，下午3时34分升为四级，下午6时22分升为五级。[1][4][5]",
+  "sources": [
+    {
+      "index": 1,
+      "url": "https://xueqiu.com/2430124149/363852885",
+      "title": null,
+      "origin": "citations"
+    },
+    {
+      "index": 2,
+      "url": "https://www.chinanews.com.cn/sh/2025/11-26/10521891.shtml",
+      "title": null,
+      "origin": "citations"
+    },
+    {
+      "index": 3,
+      "url": "https://news.qq.com/rain/a/20251127A004OL00",
+      "title": null,
+      "origin": "citations"
+    },
+    {
+      "index": 4,
+      "url": "https://new.qq.com/rain/a/20251127A04O9500",
+      "title": null,
+      "origin": "citations"
+    },
+    {
+      "index": 5,
+      "url": "https://k.sina.cn/article_2001530981_m774cf06503301c3xw.html",
+      "title": null,
+      "origin": "citations"
+    }
+  ],
+  "usage": {
+    "completion_tokens": 261,
+    "completion_tokens_details": {
+      "reasoning_tokens": 134
+    },
+    "prompt_tokens": 1435,
+    "prompt_tokens_details": {
+      "cached_tokens": 0
+    },
+    "total_tokens": 1696
+  },
+  "finish_reason": "stop",
+  "note": [],
+  "request_id": "36d5e3fa-53a9-411f-aed1-e7e0a83c5f8e",
+  "duration_seconds": 5.875
+}

@@ -6,6 +6,7 @@ import argparse
 from concurrent.futures import ThreadPoolExecutor, wait, FIRST_COMPLETED
 from contextlib import contextmanager
 import hashlib
+import errno
 import json
 import os
 from pathlib import Path
@@ -13,6 +14,7 @@ import sys
 import time
 from uuid import uuid4
 
+sys.dont_write_bytecode = True
 import search_302 as api
 from credentials_302 import load_api_key
 
@@ -39,6 +41,33 @@ def emit(directory, event, key="", **fields):
     append_json(directory / "events.jsonl", {
         "time": api.now_beijing().isoformat(), "event": event, "pid": os.getpid(), **fields,
     }, key)
+
+
+def lock_held(path):
+    """只探测锁，不以PID访问失败推断进程仍在运行。"""
+    if not path.is_file():
+        return False
+    try:
+        handle = path.open("r+b")
+    except OSError:
+        return None
+    try:
+        handle.seek(0)
+        try:
+            if os.name == "nt":
+                import msvcrt
+                msvcrt.locking(handle.fileno(), msvcrt.LK_NBLCK, 1)
+                handle.seek(0)
+                msvcrt.locking(handle.fileno(), msvcrt.LK_UNLCK, 1)
+            else:
+                import fcntl
+                fcntl.flock(handle.fileno(), fcntl.LOCK_EX | fcntl.LOCK_NB)
+                fcntl.flock(handle.fileno(), fcntl.LOCK_UN)
+            return False
+        except OSError as error:
+            return True if error.errno in (errno.EACCES, errno.EAGAIN, errno.EDEADLK) else None
+    finally:
+        handle.close()
 
 
 @contextmanager
@@ -122,6 +151,8 @@ def collect_one(directory, manifest, task, attempt, key):
     alias = task["model"]
     filename = f"{task['task_id']}_{alias}_a{attempt:03d}_{uuid4().hex[:6]}.json"
     payload = api.build_payload(config, alias, task["question"])
+    payload["stream"] = True
+    payload["stream_options"] = {"include_usage": True}
     record = {
         **task, "attempt": attempt, "provider": "302.ai",
         "model_requested": config["models"][alias],
@@ -129,11 +160,13 @@ def collect_one(directory, manifest, task, attempt, key):
         "prompt_version": config["prompt_version"], "prompt_sha256": manifest["prompt_sha256"],
         "requested_at": api.now_beijing().isoformat(),
         "raw_file": "raw/" + filename,
+        "transport": "sse", "stream_file": "raw/" + filename.removesuffix(".json") + ".sse",
     }
     start = time.monotonic()
     try:
         response, request_id = api.api_request(
             config["base_url"], "/chat/completions", key, config["timeout_seconds"], payload,
+            stream_path=directory / record["stream_file"],
         )
         record.update(api.normalize(response))
         record["request_id"] = request_id or response.get("id")

@@ -1,0 +1,69 @@
+{
+  "task_id": "T0010",
+  "model": "doubao",
+  "news_id": "E001",
+  "question_index": 4,
+  "question_original": "【事实】英伟达董事会启动调查时，有没有表示已经发现公司机密泄露？",
+  "question": "英伟达董事会启动调查时，有没有表示已经发现公司机密泄露？",
+  "attempt": 1,
+  "provider": "302.ai",
+  "model_requested": "doubao-seed-2-1-pro-260628",
+  "query_date": "2026-11-14",
+  "search_service": "metaso",
+  "prompt_version": "news-search-v1",
+  "prompt_sha256": "ea56fd5557d32615a9115f2368a0c4983ff1188f4935369e694d7d46f2493be1",
+  "requested_at": "2026-11-14T04:07:33.833329+08:00",
+  "raw_file": "raw/T0010_doubao_a001_559991.json",
+  "transport": "sse",
+  "stream_file": "raw/T0010_doubao_a001_559991.sse",
+  "status": "ok",
+  "model_returned": "doubao-seed-2-1-pro-260628",
+  "answer": "英伟达董事会启动相关独立调查时，并未表示已经发现公司机密泄露，反而多次公开明确：目前没有证据、也没有合理理由认定存在美国国家安全受损、公司机密信息遭到泄露的情况。\n\n### 相关事实背景：\n1.  **本次调查的基本情况**：当地时间2026年11月8日，英伟达董事会宣布启动独立专项调查，核心核查内容为黄仁勋是否成为外国情报行动目标的相关传闻；调查由独立董事组成的专门委员会负责监督，还将聘请外部法律顾问协助开展，黄仁勋本人已明确表示将全力配合调查工作[1][3][5]。\n2.  **关于信息安全的官方表态**：从宣布启动调查到后续的相关公开说明中，英伟达董事会反复强调，目前没有理由认为美国国家安全或英伟达的机密信息已经遭到泄露，后续调查会全面审查所有可获得的信息；英伟达方面还补充说明，区域云客户可接触到的仅为普通商业信息，并不涉及英伟达敏感商业机密或国家安全相关内容[1][2][3][5]。\n3.  **对应的公司运营安排**：董事会同时公开表达了对黄仁勋及公司管理团队的信心，英伟达公共政策传播负责人也明确表态，相关调查不会打乱公司发展节奏，黄仁勋将继续不间断担任英伟达CEO职务[1]。",
+  "sources": [
+    {
+      "index": 1,
+      "url": "https://news.qq.com/rain/a/20261109A02SA600",
+      "title": null,
+      "origin": "citations"
+    },
+    {
+      "index": 2,
+      "url": "https://finance.sina.com.cn/tech/roll/2026-11-11/doc-iniyiiak8671394.shtml",
+      "title": null,
+      "origin": "citations"
+    },
+    {
+      "index": 3,
+      "url": "https://news.qq.com/rain/a/20261109A0AXW100",
+      "title": null,
+      "origin": "citations"
+    },
+    {
+      "index": 4,
+      "url": "https://www.thepaper.cn/newsDetail_forward_16974847",
+      "title": null,
+      "origin": "citations"
+    },
+    {
+      "index": 5,
+      "url": "https://finance.sina.com.cn/tech/roll/2026-11-11/doc-iniyiiak8679032.shtml",
+      "title": null,
+      "origin": "citations"
+    }
+  ],
+  "usage": {
+    "completion_tokens": 2854,
+    "completion_tokens_details": {
+      "reasoning_tokens": 2563
+    },
+    "prompt_tokens": 1500,
+    "prompt_tokens_details": {
+      "cached_tokens": 0
+    },
+    "total_tokens": 4354
+  },
+  "finish_reason": "stop",
+  "note": [],
+  "request_id": "52e004bc-69f7-40e5-aea6-bcd611f3f427",
+  "duration_seconds": 81.006
+}

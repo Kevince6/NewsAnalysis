@@ -1,0 +1,53 @@
+{
+  "task_id": "T0186",
+  "model": "qwen",
+  "news_id": "E015",
+  "question_index": 3,
+  "question_original": "【事实】2025年11月10日，参议院以多少票通过修订后的拨款案？总统哪天签署成法？",
+  "question": "2025年11月10日，参议院以多少票通过修订后的拨款案？总统哪天签署成法？",
+  "attempt": 1,
+  "provider": "302.ai",
+  "model_requested": "qwen3.8-max",
+  "query_date": "2026-11-14",
+  "search_service": "metaso",
+  "prompt_version": "news-search-v1",
+  "prompt_sha256": "ea56fd5557d32615a9115f2368a0c4983ff1188f4935369e694d7d46f2493be1",
+  "requested_at": "2026-11-14T11:51:51.688066+08:00",
+  "raw_file": "raw/T0186_qwen_a001_a5f34f.json",
+  "transport": "sse",
+  "stream_file": "raw/T0186_qwen_a001_a5f34f.sse",
+  "status": "ok",
+  "model_returned": "qwen3.8-max",
+  "answer": "根据目前给出的检索资料，**无法确认两项具体信息**：  \n1. **参议院在2025年11月10日以多少票通过修订后的拨款案**——资料只写明参议院“正式通过”该法案，但未列出具体表决票数[3]。  \n2. **总统哪天签署成法**——资料未提供总统签署日期；且该报道称，法案经参议院通过后“仍需众议院批准并送交总统签署”，才能最终化解联邦政府“停摆”僵局[3]。\n\n可确认的背景是：美国国会参议院于**当地时间2025年11月10日晚**通过了这项根据众议院版本修订而成的联邦政府临时拨款法案[3]。该报道发布于2025年11月11日，因此它只能反映截至当时的立法进展；后续众议院是否批准、总统何时签署，需以后续官方公告或可信媒体报道为准[3]。",
+  "sources": [
+    {
+      "index": 1,
+      "url": "http://legalinfo.moj.gov.cn/pub/sfbzhfx/zhfxfzwh/fzwhhqfz/202305/t20230522_479315.html",
+      "title": null,
+      "origin": "citations"
+    },
+    {
+      "index": 2,
+      "url": "https://www.sohu.com/a/953116162_267106",
+      "title": null,
+      "origin": "citations"
+    }
+  ],
+  "usage": {
+    "completion_tokens": 2052,
+    "completion_tokens_details": {
+      "reasoning_tokens": 1846,
+      "text_tokens": 2052
+    },
+    "prompt_tokens": 947,
+    "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "text_tokens": 947
+    },
+    "total_tokens": 2999
+  },
+  "finish_reason": "stop",
+  "note": [],
+  "request_id": "59e448ab-620a-499b-82f8-ce1eca2c8420",
+  "duration_seconds": 50.672
+}

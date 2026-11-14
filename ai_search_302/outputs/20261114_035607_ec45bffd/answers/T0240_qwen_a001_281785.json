@@ -1,0 +1,59 @@
+{
+  "task_id": "T0240",
+  "model": "qwen",
+  "news_id": "E020",
+  "question_index": 1,
+  "question_original": "【开放】2025年6月的民航新规具体限制了哪些充电宝？和罗马仕、安克的召回有什么关系？",
+  "question": "2025年6月的民航新规具体限制了哪些充电宝？和罗马仕、安克的召回有什么关系？",
+  "attempt": 1,
+  "provider": "302.ai",
+  "model_requested": "qwen3.8-max",
+  "query_date": "2026-11-14",
+  "search_service": "metaso",
+  "prompt_version": "news-search-v1",
+  "prompt_sha256": "ea56fd5557d32615a9115f2368a0c4983ff1188f4935369e694d7d46f2493be1",
+  "requested_at": "2026-11-14T12:05:31.643760+08:00",
+  "raw_file": "raw/T0240_qwen_a001_281785.json",
+  "transport": "sse",
+  "stream_file": "raw/T0240_qwen_a001_281785.sse",
+  "status": "ok",
+  "model_returned": "qwen3.8-max",
+  "answer": "2025年6月的“民航新规”主要不是简单按品牌禁带罗马仕、安克所有充电宝，而是把两类情形纳入乘机限制：**无3C标识的充电宝**、**已被召回的充电宝**；同时原有的容量/额定能量限制继续有效[2][3]。\n\n### 1. 新规具体限制了哪些充电宝？\n\n- **无3C标识的充电宝被禁止携带登机**。2025年6月28日的民航新规明确，禁止携带无3C标识或被召回的充电宝登机[2]。\n\n- **被召回的充电宝全面禁带**。其中明确涉及的召回产品包括：  \n  - **罗马仕（ROMOSS）**：型号 PAC20-272、PAC20-392、PLT20A-152，召回规模约49.1万至49.17万台[2][3]。  \n  - **安克（Anker）**：型号 A1642、A1647、A1652、A1680、A1681、A1689、A1257，召回规模约71.2万至71.3万台[2][3]。  \n  - **其他品牌**：如倍思（Baseus）等部分被召回批次也同样受到禁携影响[3]。\n\n- **原有容量/能量限制不变**：  \n  - 不超过100Wh（约20000mAh）的，可直接携带；  \n  - 100Wh至160Wh的，需航空公司书面批准，且限带2块；  \n  - 超过160Wh的，严禁携带[3]。\n\n### 2. 这和罗马仕、安克召回有什么关系？\n\n关系很直接：**先有产品召回，随后民航把召回产品纳入禁带范围**。\n\n- 2025年6月16日，罗马仕宣布召回部分充电宝，原因是电芯原材料缺陷可能导致燃烧风险；安克也同步召回相关产品，且资料称问题电芯指向同一供应商安普瑞斯（无锡）[2]。\n\n- 随后民航新规禁止携带“被召回的充电宝”登机，因此上述罗马仕、安克召回型号在机场安检环节可能被拦截[2][5]。\n\n- 2025年6月下旬，北京、上海、广州、深圳、武汉、成都、长沙等地机场已有旅客反映携带罗马仕、安克召回型号充电宝被拦截；部分机场明确禁止携带召回型号及批次，部分机场表示不建议携带，或要求航司开具放行单[5]。\n\n简单说：**如果你手里的罗马仕或安克充电宝属于召回型号/批次，即使容量低于100Wh，也可能因召回而被禁止带上飞机；如果不属于召回批次，仍需满足3C标识和容量/Wh限制要求**[2][3][5]。",
+  "sources": [
+    {
+      "index": 1,
+      "url": "https://news.qq.com/rain/a/20250705A084IV00",
+      "title": null,
+      "origin": "citations"
+    },
+    {
+      "index": 2,
+      "url": "https://cj.sina.cn/articles/view/7096020433/v1a6f4add106801d34i?froms=ggmp&vt=4",
+      "title": null,
+      "origin": "citations"
+    },
+    {
+      "index": 3,
+      "url": "https://baike.baidu.com/item/%E7%BE%85%E9%A6%AC%E4%BB%95/5828143#%3A~%3Atext%3D%E7%BD%97%E9%A9%AC%E4%BB%95%EF%BC%88ROMOSS%EF%BC%89%EF%BC%8C%E6%98%AF%2C%E6%80%BB%E9%94%80%E9%87%8F%E7%AA%81%E7%A0%B41400%E4%B8%87%E3%80%82",
+      "title": null,
+      "origin": "citations"
+    }
+  ],
+  "usage": {
+    "completion_tokens": 2980,
+    "completion_tokens_details": {
+      "reasoning_tokens": 2345,
+      "text_tokens": 2980
+    },
+    "prompt_tokens": 1232,
+    "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "text_tokens": 1232
+    },
+    "total_tokens": 4212
+  },
+  "finish_reason": "stop",
+  "note": [],
+  "request_id": "c34ea841-f7e0-4248-92e7-8da6bdf7fa55",
+  "duration_seconds": 63.578
+}

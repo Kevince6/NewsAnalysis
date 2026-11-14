@@ -1,0 +1,876 @@
+data: {"choices":[{"delta":{"content":"","reasoning_content":"","role":"assistant"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.eastmoney.com/a/202610223903548680.html","https://www.163.com/dy/article/LA8L711M05568W0A.html"],"created":1794626459,"id":"chatcmpl-0c6f4e0f-3260-9e0f-be2b-0cd0c680c8d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"我们需要"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.eastmoney.com/a/202610223903548680.html","https://www.163.com/dy/article/LA8L711M05568W0A.html"],"created":1794626459,"id":"chatcmpl-0c6f4e0f-3260-9e0f-be2b-0cd0c680c8d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"回答用户中文问题"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.eastmoney.com/a/202610223903548680.html","https://www.163.com/dy/article/LA8L711M05568W0A.html"],"created":1794626459,"id":"chatcmpl-0c6f4e0f-3260-9e0f-be2b-0cd0c680c8d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"。必须先"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.eastmoney.com/a/202610223903548680.html","https://www.163.com/dy/article/LA8L711M05568W0A.html"],"created":1794626459,"id":"chatcmpl-0c6f4e0f-3260-9e0f-be2b-0cd0c680c8d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"调用工具"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.eastmoney.com/a/202610223903548680.html","https://www.163.com/dy/article/LA8L711M05568W0A.html"],"created":1794626459,"id":"chatcmpl-0c6f4e0f-3260-9e0f-be2b-0cd0c680c8d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"。已经调用。"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.eastmoney.com/a/202610223903548680.html","https://www.163.com/dy/article/LA8L711M05568W0A.html"],"created":1794626459,"id":"chatcmpl-0c6f4e0f-3260-9e0f-be2b-0cd0c680c8d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"现在分析。\n\n"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.eastmoney.com/a/202610223903548680.html","https://www.163.com/dy/article/LA8L711M05568W0A.html"],"created":1794626459,"id":"chatcmpl-0c6f4e0f-3260-9e0f-be2b-0cd0c680c8d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"用户给搜索结果："},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.eastmoney.com/a/202610223903548680.html","https://www.163.com/dy/article/LA8L711M05568W0A.html"],"created":1794626459,"id":"chatcmpl-0c6f4e0f-3260-9e0f-be2b-0cd0c680c8d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"欧盟"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.eastmoney.com/a/202610223903548680.html","https://www.163.com/dy/article/LA8L711M05568W0A.html"],"created":1794626459,"id":"chatcmpl-0c6f4e0f-3260-9e0f-be2b-0cd0c680c8d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"统计局10月"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.eastmoney.com/a/202610223903548680.html","https://www.163.com/dy/article/LA8L711M05568W0A.html"],"created":1794626459,"id":"chatcmpl-0c6f4e0f-3260-9e0f-be2b-0cd0c680c8d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"21日公布"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.eastmoney.com/a/202610223903548680.html","https://www.163.com/dy/article/LA8L711M05568W0A.html"],"created":1794626459,"id":"chatcmpl-0c6f4e0f-3260-9e0f-be2b-0cd0c680c8d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"数据，20"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.eastmoney.com/a/202610223903548680.html","https://www.163.com/dy/article/LA8L711M05568W0A.html"],"created":1794626459,"id":"chatcmpl-0c6f4e0f-3260-9e0f-be2b-0cd0c680c8d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"26年二季度"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.eastmoney.com/a/202610223903548680.html","https://www.163.com/dy/article/LA8L711M05568W0A.html"],"created":1794626459,"id":"chatcmpl-0c6f4e0f-3260-9e0f-be2b-0cd0c680c8d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"末欧元区政府债务"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.eastmoney.com/a/202610223903548680.html","https://www.163.com/dy/article/LA8L711M05568W0A.html"],"created":1794626459,"id":"chatcmpl-0c6f4e0f-3260-9e0f-be2b-0cd0c680c8d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"占"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.eastmoney.com/a/202610223903548680.html","https://www.163.com/dy/article/LA8L711M05568W0A.html"],"created":1794626459,"id":"chatcmpl-0c6f4e0f-3260-9e0f-be2b-0cd0c680c8d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"GDP 8"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.eastmoney.com/a/202610223903548680.html","https://www.163.com/dy/article/LA8L711M05568W0A.html"],"created":1794626459,"id":"chatcmpl-0c6f4e0f-3260-9e0f-be2b-0cd0c680c8d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"8.8"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.eastmoney.com/a/202610223903548680.html","https://www.163.com/dy/article/LA8L711M05568W0A.html"],"created":1794626459,"id":"chatcmpl-0c6f4e0f-3260-9e0f-be2b-0cd0c680c8d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"%，高于Q1"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.eastmoney.com/a/202610223903548680.html","https://www.163.com/dy/article/LA8L711M05568W0A.html"],"created":1794626459,"id":"chatcmpl-0c6f4e0f-3260-9e0f-be2b-0cd0c680c8d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":" 88."},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.eastmoney.com/a/202610223903548680.html","https://www.163.com/dy/article/LA8L711M05568W0A.html"],"created":1794626459,"id":"chatcmpl-0c6f4e0f-3260-9e0f-be2b-0cd0c680c8d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"4%，欧盟债务"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.eastmoney.com/a/202610223903548680.html","https://www.163.com/dy/article/LA8L711M05568W0A.html"],"created":1794626459,"id":"chatcmpl-0c6f4e0f-3260-9e0f-be2b-0cd0c680c8d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"率8"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.eastmoney.com/a/202610223903548680.html","https://www.163.com/dy/article/LA8L711M05568W0A.html"],"created":1794626459,"id":"chatcmpl-0c6f4e0f-3260-9e0f-be2b-0cd0c680c8d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"2.9%"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.eastmoney.com/a/202610223903548680.html","https://www.163.com/dy/article/LA8L711M05568W0A.html"],"created":1794626459,"id":"chatcmpl-0c6f4e0f-3260-9e0f-be2b-0cd0c680c8d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"高于82"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.eastmoney.com/a/202610223903548680.html","https://www.163.com/dy/article/LA8L711M05568W0A.html"],"created":1794626459,"id":"chatcmpl-0c6f4e0f-3260-9e0f-be2b-0cd0c680c8d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":".5%。"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.eastmoney.com/a/202610223903548680.html","https://www.163.com/dy/article/LA8L711M05568W0A.html"],"created":1794626459,"id":"chatcmpl-0c6f4e0f-3260-9e0f-be2b-0cd0c680c8d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"希腊140"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.eastmoney.com/a/202610223903548680.html","https://www.163.com/dy/article/LA8L711M05568W0A.html"],"created":1794626459,"id":"chatcmpl-0c6f4e0f-3260-9e0f-be2b-0cd0c680c8d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":".8"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.eastmoney.com/a/202610223903548680.html","https://www.163.com/dy/article/LA8L711M05568W0A.html"],"created":1794626459,"id":"chatcmpl-0c6f4e0f-3260-9e0f-be2b-0cd0c680c8d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"%，意大利13"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.eastmoney.com/a/202610223903548680.html","https://www.163.com/dy/article/LA8L711M05568W0A.html"],"created":1794626459,"id":"chatcmpl-0c6f4e0f-3260-9e0f-be2b-0cd0c680c8d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"9.9%，"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.eastmoney.com/a/202610223903548680.html","https://www.163.com/dy/article/LA8L711M05568W0A.html"],"created":1794626459,"id":"chatcmpl-0c6f4e0f-3260-9e0f-be2b-0cd0c680c8d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"法国119"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.eastmoney.com/a/202610223903548680.html","https://www.163.com/dy/article/LA8L711M05568W0A.html"],"created":1794626459,"id":"chatcmpl-0c6f4e0f-3260-9e0f-be2b-0cd0c680c8d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":".1%，比利时"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.eastmoney.com/a/202610223903548680.html","https://www.163.com/dy/article/LA8L711M05568W0A.html"],"created":1794626459,"id":"chatcmpl-0c6f4e0f-3260-9e0f-be2b-0cd0c680c8d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"超110"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.eastmoney.com/a/202610223903548680.html","https://www.163.com/dy/article/LA8L711M05568W0A.html"],"created":1794626459,"id":"chatcmpl-0c6f4e0f-3260-9e0f-be2b-0cd0c680c8d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"%，西班牙超1"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.eastmoney.com/a/202610223903548680.html","https://www.163.com/dy/article/LA8L711M05568W0A.html"],"created":1794626459,"id":"chatcmpl-0c6f4e0f-3260-9e0f-be2b-0cd0c680c8d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"00%。"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.eastmoney.com/a/202610223903548680.html","https://www.163.com/dy/article/LA8L711M05568W0A.html"],"created":1794626459,"id":"chatcmpl-0c6f4e0f-3260-9e0f-be2b-0cd0c680c8d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"财政赤字：二季度"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.eastmoney.com/a/202610223903548680.html","https://www.163.com/dy/article/LA8L711M05568W0A.html"],"created":1794626459,"id":"chatcmpl-0c6f4e0f-3260-9e0f-be2b-0cd0c680c8d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"欧元区财政赤字占"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.eastmoney.com/a/202610223903548680.html","https://www.163.com/dy/article/LA8L711M05568W0A.html"],"created":1794626459,"id":"chatcmpl-0c6f4e0f-3260-9e0f-be2b-0cd0c680c8d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"GDP从3"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.eastmoney.com/a/202610223903548680.html","https://www.163.com/dy/article/LA8L711M05568W0A.html"],"created":1794626459,"id":"chatcmpl-0c6f4e0f-3260-9e0f-be2b-0cd0c680c8d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":".2%升至"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.eastmoney.com/a/202610223903548680.html","https://www.163.com/dy/article/LA8L711M05568W0A.html"],"created":1794626459,"id":"chatcmpl-0c6f4e0f-3260-9e0f-be2b-0cd0c680c8d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"3.3%，"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.eastmoney.com/a/202610223903548680.html","https://www.163.com/dy/article/LA8L711M05568W0A.html"],"created":1794626459,"id":"chatcmpl-0c6f4e0f-3260-9e0f-be2b-0cd0c680c8d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"欧盟成员国从3"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.eastmoney.com/a/202610223903548680.html","https://www.163.com/dy/article/LA8L711M05568W0A.html"],"created":1794626459,"id":"chatcmpl-0c6f4e0f-3260-9e0f-be2b-0cd0c680c8d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":".1%"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.eastmoney.com/a/202610223903548680.html","https://www.163.com/dy/article/LA8L711M05568W0A.html"],"created":1794626459,"id":"chatcmpl-0c6f4e0f-3260-9e0f-be2b-0cd0c680c8d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"升至3.5"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.eastmoney.com/a/202610223903548680.html","https://www.163.com/dy/article/LA8L711M05568W0A.html"],"created":1794626459,"id":"chatcmpl-0c6f4e0f-3260-9e0f-be2b-0cd0c680c8d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"%。问题是："},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.eastmoney.com/a/202610223903548680.html","https://www.163.com/dy/article/LA8L711M05568W0A.html"],"created":1794626459,"id":"chatcmpl-0c6f4e0f-3260-9e0f-be2b-0cd0c680c8d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"202"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.eastmoney.com/a/202610223903548680.html","https://www.163.com/dy/article/LA8L711M05568W0A.html"],"created":1794626459,"id":"chatcmpl-0c6f4e0f-3260-9e0f-be2b-0cd0c680c8d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"6年欧洲债务"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.eastmoney.com/a/202610223903548680.html","https://www.163.com/dy/article/LA8L711M05568W0A.html"],"created":1794626459,"id":"chatcmpl-0c6f4e0f-3260-9e0f-be2b-0cd0c680c8d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"压力主要体现在哪些数字"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.eastmoney.com/a/202610223903548680.html","https://www.163.com/dy/article/LA8L711M05568W0A.html"],"created":1794626459,"id":"chatcmpl-0c6f4e0f-3260-9e0f-be2b-0cd0c680c8d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"上？欧元区整体"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.eastmoney.com/a/202610223903548680.html","https://www.163.com/dy/article/LA8L711M05568W0A.html"],"created":1794626459,"id":"chatcmpl-0c6f4e0f-3260-9e0f-be2b-0cd0c680c8d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"和几个高负债"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.eastmoney.com/a/202610223903548680.html","https://www.163.com/dy/article/LA8L711M05568W0A.html"],"created":1794626459,"id":"chatcmpl-0c6f4e0f-3260-9e0f-be2b-0cd0c680c8d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"国家的情况有什么差别"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.eastmoney.com/a/202610223903548680.html","https://www.163.com/dy/article/LA8L711M05568W0A.html"],"created":1794626459,"id":"chatcmpl-0c6f4e0f-3260-9e0f-be2b-0cd0c680c8d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"？\n\n需要自然"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.eastmoney.com/a/202610223903548680.html","https://www.163.com/dy/article/LA8L711M05568W0A.html"],"created":1794626459,"id":"chatcmpl-0c6f4e0f-3260-9e0f-be2b-0cd0c680c8d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"中文，先直接"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.eastmoney.com/a/202610223903548680.html","https://www.163.com/dy/article/LA8L711M05568W0A.html"],"created":1794626459,"id":"chatcmpl-0c6f4e0f-3260-9e0f-be2b-0cd0c680c8d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"回答，"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.eastmoney.com/a/202610223903548680.html","https://www.163.com/dy/article/LA8L711M05568W0A.html"],"created":1794626459,"id":"chatcmpl-0c6f4e0f-3260-9e0f-be2b-0cd0c680c8d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"再补充事实背景"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.eastmoney.com/a/202610223903548680.html","https://www.163.com/dy/article/LA8L711M05568W0A.html"],"created":1794626459,"id":"chatcmpl-0c6f4e0f-3260-9e0f-be2b-0cd0c680c8d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"说明。标注引用"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.eastmoney.com/a/202610223903548680.html","https://www.163.com/dy/article/LA8L711M05568W0A.html"],"created":1794626459,"id":"chatcmpl-0c6f4e0f-3260-9e0f-be2b-0cd0c680c8d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":" ["},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.eastmoney.com/a/202610223903548680.html","https://www.163.com/dy/article/LA8L711M05568W0A.html"],"created":1794626459,"id":"chatcmpl-0c6f4e0f-3260-9e0f-be2b-0cd0c680c8d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"1][4]"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.eastmoney.com/a/202610223903548680.html","https://www.163.com/dy/article/LA8L711M05568W0A.html"],"created":1794626459,"id":"chatcmpl-0c6f4e0f-3260-9e0f-be2b-0cd0c680c8d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"。"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.eastmoney.com/a/202610223903548680.html","https://www.163.com/dy/article/LA8L711M05568W0A.html"],"created":1794626459,"id":"chatcmpl-0c6f4e0f-3260-9e0f-be2b-0cd0c680c8d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"注意今天是20"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.eastmoney.com/a/202610223903548680.html","https://www.163.com/dy/article/LA8L711M05568W0A.html"],"created":1794626459,"id":"chatcmpl-0c6f4e0f-3260-9e0f-be2b-0cd0c680c8d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"26"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.eastmoney.com/a/202610223903548680.html","https://www.163.com/dy/article/LA8L711M05568W0A.html"],"created":1794626459,"id":"chatcmpl-0c6f4e0f-3260-9e0f-be2b-0cd0c680c8d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"-11-"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.eastmoney.com/a/202610223903548680.html","https://www.163.com/dy/article/LA8L711M05568W0A.html"],"created":1794626459,"id":"chatcmpl-0c6f4e0f-3260-9e0f-be2b-0cd0c680c8d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"14，数据"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.eastmoney.com/a/202610223903548680.html","https://www.163.com/dy/article/LA8L711M05568W0A.html"],"created":1794626459,"id":"chatcmpl-0c6f4e0f-3260-9e0f-be2b-0cd0c680c8d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"是20"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.eastmoney.com/a/202610223903548680.html","https://www.163.com/dy/article/LA8L711M05568W0A.html"],"created":1794626459,"id":"chatcmpl-0c6f4e0f-3260-9e0f-be2b-0cd0c680c8d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"26 Q2"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.eastmoney.com/a/202610223903548680.html","https://www.163.com/dy/article/LA8L711M05568W0A.html"],"created":1794626459,"id":"chatcmpl-0c6f4e0f-3260-9e0f-be2b-0cd0c680c8d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"，"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.eastmoney.com/a/202610223903548680.html","https://www.163.com/dy/article/LA8L711M05568W0A.html"],"created":1794626459,"id":"chatcmpl-0c6f4e0f-3260-9e0f-be2b-0cd0c680c8d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"欧盟统计局10"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.eastmoney.com/a/202610223903548680.html","https://www.163.com/dy/article/LA8L711M05568W0A.html"],"created":1794626459,"id":"chatcmpl-0c6f4e0f-3260-9e0f-be2b-0cd0c680c8d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"月21日公布"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.eastmoney.com/a/202610223903548680.html","https://www.163.com/dy/article/LA8L711M05568W0A.html"],"created":1794626459,"id":"chatcmpl-0c6f4e0f-3260-9e0f-be2b-0cd0c680c8d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"。需要综合多个"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.eastmoney.com/a/202610223903548680.html","https://www.163.com/dy/article/LA8L711M05568W0A.html"],"created":1794626459,"id":"chatcmpl-0c6f4e0f-3260-9e0f-be2b-0cd0c680c8d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"网页，"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.eastmoney.com/a/202610223903548680.html","https://www.163.com/dy/article/LA8L711M05568W0A.html"],"created":1794626459,"id":"chatcmpl-0c6f4e0f-3260-9e0f-be2b-0cd0c680c8d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"不重复引用一个"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.eastmoney.com/a/202610223903548680.html","https://www.163.com/dy/article/LA8L711M05568W0A.html"],"created":1794626459,"id":"chatcmpl-0c6f4e0f-3260-9e0f-be2b-0cd0c680c8d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"网页？两个都"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.eastmoney.com/a/202610223903548680.html","https://www.163.com/dy/article/LA8L711M05568W0A.html"],"created":1794626459,"id":"chatcmpl-0c6f4e0f-3260-9e0f-be2b-0cd0c680c8d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"相关，可同时引用"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.eastmoney.com/a/202610223903548680.html","https://www.163.com/dy/article/LA8L711M05568W0A.html"],"created":1794626459,"id":"chatcmpl-0c6f4e0f-3260-9e0f-be2b-0cd0c680c8d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"。\n\n需要"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.eastmoney.com/a/202610223903548680.html","https://www.163.com/dy/article/LA8L711M05568W0A.html"],"created":1794626459,"id":"chatcmpl-0c6f4e0f-3260-9e0f-be2b-0cd0c680c8d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"区分“债务压力"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.eastmoney.com/a/202610223903548680.html","https://www.163.com/dy/article/LA8L711M05568W0A.html"],"created":1794626459,"id":"chatcmpl-0c6f4e0f-3260-9e0f-be2b-0cd0c680c8d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"主要体现在"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.eastmoney.com/a/202610223903548680.html","https://www.163.com/dy/article/LA8L711M05568W0A.html"],"created":1794626459,"id":"chatcmpl-0c6f4e0f-3260-9e0f-be2b-0cd0c680c8d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"哪些数字”："},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.eastmoney.com/a/202610223903548680.html","https://www.163.com/dy/article/LA8L711M05568W0A.html"],"created":1794626459,"id":"chatcmpl-0c6f4e0f-3260-9e0f-be2b-0cd0c680c8d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"债务率上升、"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.eastmoney.com/a/202610223903548680.html","https://www.163.com/dy/article/LA8L711M05568W0A.html"],"created":1794626459,"id":"chatcmpl-0c6f4e0f-3260-9e0f-be2b-0cd0c680c8d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"赤字率上升"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.eastmoney.com/a/202610223903548680.html","https://www.163.com/dy/article/LA8L711M05568W0A.html"],"created":1794626459,"id":"chatcmpl-0c6f4e0f-3260-9e0f-be2b-0cd0c680c8d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"、高负债国"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.eastmoney.com/a/202610223903548680.html","https://www.163.com/dy/article/LA8L711M05568W0A.html"],"created":1794626459,"id":"chatcmpl-0c6f4e0f-3260-9e0f-be2b-0cd0c680c8d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"显著高于整体。"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.eastmoney.com/a/202610223903548680.html","https://www.163.com/dy/article/LA8L711M05568W0A.html"],"created":1794626459,"id":"chatcmpl-0c6f4e0f-3260-9e0f-be2b-0cd0c680c8d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"整体"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.eastmoney.com/a/202610223903548680.html","https://www.163.com/dy/article/LA8L711M05568W0A.html"],"created":1794626459,"id":"chatcmpl-0c6f4e0f-3260-9e0f-be2b-0cd0c680c8d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"：欧元区88"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.eastmoney.com/a/202610223903548680.html","https://www.163.com/dy/article/LA8L711M05568W0A.html"],"created":1794626459,"id":"chatcmpl-0c6f4e0f-3260-9e0f-be2b-0cd0c680c8d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"."},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.eastmoney.com/a/202610223903548680.html","https://www.163.com/dy/article/LA8L711M05568W0A.html"],"created":1794626459,"id":"chatcmpl-0c6f4e0f-3260-9e0f-be2b-0cd0c680c8d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"8%，欧盟8"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.eastmoney.com/a/202610223903548680.html","https://www.163.com/dy/article/LA8L711M05568W0A.html"],"created":1794626459,"id":"chatcmpl-0c6f4e0f-3260-9e0f-be2b-0cd0c680c8d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"2.9%"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.eastmoney.com/a/202610223903548680.html","https://www.163.com/dy/article/LA8L711M05568W0A.html"],"created":1794626459,"id":"chatcmpl-0c6f4e0f-3260-9e0f-be2b-0cd0c680c8d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"；赤字：欧元区"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.eastmoney.com/a/202610223903548680.html","https://www.163.com/dy/article/LA8L711M05568W0A.html"],"created":1794626459,"id":"chatcmpl-0c6f4e0f-3260-9e0f-be2b-0cd0c680c8d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"3."},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.eastmoney.com/a/202610223903548680.html","https://www.163.com/dy/article/LA8L711M05568W0A.html"],"created":1794626459,"id":"chatcmpl-0c6f4e0f-3260-9e0f-be2b-0cd0c680c8d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"3%，欧盟3"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.eastmoney.com/a/202610223903548680.html","https://www.163.com/dy/article/LA8L711M05568W0A.html"],"created":1794626459,"id":"chatcmpl-0c6f4e0f-3260-9e0f-be2b-0cd0c680c8d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":".5%。"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.eastmoney.com/a/202610223903548680.html","https://www.163.com/dy/article/LA8L711M05568W0A.html"],"created":1794626459,"id":"chatcmpl-0c6f4e0f-3260-9e0f-be2b-0cd0c680c8d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"高负债国："},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.eastmoney.com/a/202610223903548680.html","https://www.163.com/dy/article/LA8L711M05568W0A.html"],"created":1794626459,"id":"chatcmpl-0c6f4e0f-3260-9e0f-be2b-0cd0c680c8d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"希腊14"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.eastmoney.com/a/202610223903548680.html","https://www.163.com/dy/article/LA8L711M05568W0A.html"],"created":1794626459,"id":"chatcmpl-0c6f4e0f-3260-9e0f-be2b-0cd0c680c8d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"0.8%"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.eastmoney.com/a/202610223903548680.html","https://www.163.com/dy/article/LA8L711M05568W0A.html"],"created":1794626459,"id":"chatcmpl-0c6f4e0f-3260-9e0f-be2b-0cd0c680c8d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"、意大利13"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.eastmoney.com/a/202610223903548680.html","https://www.163.com/dy/article/LA8L711M05568W0A.html"],"created":1794626459,"id":"chatcmpl-0c6f4e0f-3260-9e0f-be2b-0cd0c680c8d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"9.9%"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.eastmoney.com/a/202610223903548680.html","https://www.163.com/dy/article/LA8L711M05568W0A.html"],"created":1794626459,"id":"chatcmpl-0c6f4e0f-3260-9e0f-be2b-0cd0c680c8d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"、法国11"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.eastmoney.com/a/202610223903548680.html","https://www.163.com/dy/article/LA8L711M05568W0A.html"],"created":1794626459,"id":"chatcmpl-0c6f4e0f-3260-9e0f-be2b-0cd0c680c8d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"9.1%"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.eastmoney.com/a/202610223903548680.html","https://www.163.com/dy/article/LA8L711M05568W0A.html"],"created":1794626459,"id":"chatcmpl-0c6f4e0f-3260-9e0f-be2b-0cd0c680c8d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"、比利时\u003e1"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.eastmoney.com/a/202610223903548680.html","https://www.163.com/dy/article/LA8L711M05568W0A.html"],"created":1794626459,"id":"chatcmpl-0c6f4e0f-3260-9e0f-be2b-0cd0c680c8d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"10%"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.eastmoney.com/a/202610223903548680.html","https://www.163.com/dy/article/LA8L711M05568W0A.html"],"created":1794626459,"id":"chatcmpl-0c6f4e0f-3260-9e0f-be2b-0cd0c680c8d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"、西班牙\u003e1"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.eastmoney.com/a/202610223903548680.html","https://www.163.com/dy/article/LA8L711M05568W0A.html"],"created":1794626459,"id":"chatcmpl-0c6f4e0f-3260-9e0f-be2b-0cd0c680c8d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"00%。"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.eastmoney.com/a/202610223903548680.html","https://www.163.com/dy/article/LA8L711M05568W0A.html"],"created":1794626459,"id":"chatcmpl-0c6f4e0f-3260-9e0f-be2b-0cd0c680c8d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"差别：整体接近"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.eastmoney.com/a/202610223903548680.html","https://www.163.com/dy/article/LA8L711M05568W0A.html"],"created":1794626459,"id":"chatcmpl-0c6f4e0f-3260-9e0f-be2b-0cd0c680c8d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"或低于90"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.eastmoney.com/a/202610223903548680.html","https://www.163.com/dy/article/LA8L711M05568W0A.html"],"created":1794626459,"id":"chatcmpl-0c6f4e0f-3260-9e0f-be2b-0cd0c680c8d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"%，"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.eastmoney.com/a/202610223903548680.html","https://www.163.com/dy/article/LA8L711M05568W0A.html"],"created":1794626459,"id":"chatcmpl-0c6f4e0f-3260-9e0f-be2b-0cd0c680c8d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"但部分国家超过"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.eastmoney.com/a/202610223903548680.html","https://www.163.com/dy/article/LA8L711M05568W0A.html"],"created":1794626459,"id":"chatcmpl-0c6f4e0f-3260-9e0f-be2b-0cd0c680c8d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"10"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.eastmoney.com/a/202610223903548680.html","https://www.163.com/dy/article/LA8L711M05568W0A.html"],"created":1794626459,"id":"chatcmpl-0c6f4e0f-3260-9e0f-be2b-0cd0c680c8d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"0/11"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.eastmoney.com/a/202610223903548680.html","https://www.163.com/dy/article/LA8L711M05568W0A.html"],"created":1794626459,"id":"chatcmpl-0c6f4e0f-3260-9e0f-be2b-0cd0c680c8d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"0/13"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.eastmoney.com/a/202610223903548680.html","https://www.163.com/dy/article/LA8L711M05568W0A.html"],"created":1794626459,"id":"chatcmpl-0c6f4e0f-3260-9e0f-be2b-0cd0c680c8d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"0/14"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.eastmoney.com/a/202610223903548680.html","https://www.163.com/dy/article/LA8L711M05568W0A.html"],"created":1794626459,"id":"chatcmpl-0c6f4e0f-3260-9e0f-be2b-0cd0c680c8d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"0，结构性分化"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.eastmoney.com/a/202610223903548680.html","https://www.163.com/dy/article/LA8L711M05568W0A.html"],"created":1794626459,"id":"chatcmpl-0c6f4e0f-3260-9e0f-be2b-0cd0c680c8d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"；赤字也上升"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.eastmoney.com/a/202610223903548680.html","https://www.163.com/dy/article/LA8L711M05568W0A.html"],"created":1794626459,"id":"chatcmpl-0c6f4e0f-3260-9e0f-be2b-0cd0c680c8d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"意味着债务负担可能"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.eastmoney.com/a/202610223903548680.html","https://www.163.com/dy/article/LA8L711M05568W0A.html"],"created":1794626459,"id":"chatcmpl-0c6f4e0f-3260-9e0f-be2b-0cd0c680c8d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"继续累积。可以"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.eastmoney.com/a/202610223903548680.html","https://www.163.com/dy/article/LA8L711M05568W0A.html"],"created":1794626459,"id":"chatcmpl-0c6f4e0f-3260-9e0f-be2b-0cd0c680c8d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"提及“欧盟/"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.eastmoney.com/a/202610223903548680.html","https://www.163.com/dy/article/LA8L711M05568W0A.html"],"created":1794626459,"id":"chatcmpl-0c6f4e0f-3260-9e0f-be2b-0cd0c680c8d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"欧元区债务率虽"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.eastmoney.com/a/202610223903548680.html","https://www.163.com/dy/article/LA8L711M05568W0A.html"],"created":1794626459,"id":"chatcmpl-0c6f4e0f-3260-9e0f-be2b-0cd0c680c8d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"较一季度上升，"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.eastmoney.com/a/202610223903548680.html","https://www.163.com/dy/article/LA8L711M05568W0A.html"],"created":1794626459,"id":"chatcmpl-0c6f4e0f-3260-9e0f-be2b-0cd0c680c8d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"但"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.eastmoney.com/a/202610223903548680.html","https://www.163.com/dy/article/LA8L711M05568W0A.html"],"created":1794626459,"id":"chatcmpl-0c6f4e0f-3260-9e0f-be2b-0cd0c680c8d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"远低于个别高负债"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.eastmoney.com/a/202610223903548680.html","https://www.163.com/dy/article/LA8L711M05568W0A.html"],"created":1794626459,"id":"chatcmpl-0c6f4e0f-3260-9e0f-be2b-0cd0c680c8d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"国”。"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.eastmoney.com/a/202610223903548680.html","https://www.163.com/dy/article/LA8L711M05568W0A.html"],"created":1794626459,"id":"chatcmpl-0c6f4e0f-3260-9e0f-be2b-0cd0c680c8d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"也可指出“希腊"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.eastmoney.com/a/202610223903548680.html","https://www.163.com/dy/article/LA8L711M05568W0A.html"],"created":1794626459,"id":"chatcmpl-0c6f4e0f-3260-9e0f-be2b-0cd0c680c8d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"、意大利接近或"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.eastmoney.com/a/202610223903548680.html","https://www.163.com/dy/article/LA8L711M05568W0A.html"],"created":1794626459,"id":"chatcmpl-0c6f4e0f-3260-9e0f-be2b-0cd0c680c8d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"超过140"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.eastmoney.com/a/202610223903548680.html","https://www.163.com/dy/article/LA8L711M05568W0A.html"],"created":1794626459,"id":"chatcmpl-0c6f4e0f-3260-9e0f-be2b-0cd0c680c8d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"%，约为欧元区平均"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.eastmoney.com/a/202610223903548680.html","https://www.163.com/dy/article/LA8L711M05568W0A.html"],"created":1794626459,"id":"chatcmpl-0c6f4e0f-3260-9e0f-be2b-0cd0c680c8d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"水平的1.6"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.eastmoney.com/a/202610223903548680.html","https://www.163.com/dy/article/LA8L711M05568W0A.html"],"created":1794626459,"id":"chatcmpl-0c6f4e0f-3260-9e0f-be2b-0cd0c680c8d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"倍"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.eastmoney.com/a/202610223903548680.html","https://www.163.com/dy/article/LA8L711M05568W0A.html"],"created":1794626459,"id":"chatcmpl-0c6f4e0f-3260-9e0f-be2b-0cd0c680c8d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"；法国约1"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.eastmoney.com/a/202610223903548680.html","https://www.163.com/dy/article/LA8L711M05568W0A.html"],"created":1794626459,"id":"chatcmpl-0c6f4e0f-3260-9e0f-be2b-0cd0c680c8d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":".34倍"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.eastmoney.com/a/202610223903548680.html","https://www.163.com/dy/article/LA8L711M05568W0A.html"],"created":1794626459,"id":"chatcmpl-0c6f4e0f-3260-9e0f-be2b-0cd0c680c8d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"；比利时"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.eastmoney.com/a/202610223903548680.html","https://www.163.com/dy/article/LA8L711M05568W0A.html"],"created":1794626459,"id":"chatcmpl-0c6f4e0f-3260-9e0f-be2b-0cd0c680c8d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"、西班牙也高于"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.eastmoney.com/a/202610223903548680.html","https://www.163.com/dy/article/LA8L711M05568W0A.html"],"created":1794626459,"id":"chatcmpl-0c6f4e0f-3260-9e0f-be2b-0cd0c680c8d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"整体”。\n\n"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.eastmoney.com/a/202610223903548680.html","https://www.163.com/dy/article/LA8L711M05568W0A.html"],"created":1794626459,"id":"chatcmpl-0c6f4e0f-3260-9e0f-be2b-0cd0c680c8d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"需要引用格式："},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.eastmoney.com/a/202610223903548680.html","https://www.163.com/dy/article/LA8L711M05568W0A.html"],"created":1794626459,"id":"chatcmpl-0c6f4e0f-3260-9e0f-be2b-0cd0c680c8d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"句子"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.eastmoney.com/a/202610223903548680.html","https://www.163.com/dy/article/LA8L711M05568W0A.html"],"created":1794626459,"id":"chatcmpl-0c6f4e0f-3260-9e0f-be2b-0cd0c680c8d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"末尾 [1]["},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.eastmoney.com/a/202610223903548680.html","https://www.163.com/dy/article/LA8L711M05568W0A.html"],"created":1794626459,"id":"chatcmpl-0c6f4e0f-3260-9e0f-be2b-0cd0c680c8d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"4]"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.eastmoney.com/a/202610223903548680.html","https://www.163.com/dy/article/LA8L711M05568W0A.html"],"created":1794626459,"id":"chatcmpl-0c6f4e0f-3260-9e0f-be2b-0cd0c680c8d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"。\n\n注意："},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.eastmoney.com/a/202610223903548680.html","https://www.163.com/dy/article/LA8L711M05568W0A.html"],"created":1794626459,"id":"chatcmpl-0c6f4e0f-3260-9e0f-be2b-0cd0c680c8d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"检索结果只给"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.eastmoney.com/a/202610223903548680.html","https://www.163.com/dy/article/LA8L711M05568W0A.html"],"created":1794626459,"id":"chatcmpl-0c6f4e0f-3260-9e0f-be2b-0cd0c680c8d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"二季度"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.eastmoney.com/a/202610223903548680.html","https://www.163.com/dy/article/LA8L711M05568W0A.html"],"created":1794626459,"id":"chatcmpl-0c6f4e0f-3260-9e0f-be2b-0cd0c680c8d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"，不能扩展到全年"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.eastmoney.com/a/202610223903548680.html","https://www.163.com/dy/article/LA8L711M05568W0A.html"],"created":1794626459,"id":"chatcmpl-0c6f4e0f-3260-9e0f-be2b-0cd0c680c8d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"，但可以说截至"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.eastmoney.com/a/202610223903548680.html","https://www.163.com/dy/article/LA8L711M05568W0A.html"],"created":1794626459,"id":"chatcmpl-0c6f4e0f-3260-9e0f-be2b-0cd0c680c8d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"已公布数据。"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.eastmoney.com/a/202610223903548680.html","https://www.163.com/dy/article/LA8L711M05568W0A.html"],"created":1794626459,"id":"chatcmpl-0c6f4e0f-3260-9e0f-be2b-0cd0c680c8d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"若"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.eastmoney.com/a/202610223903548680.html","https://www.163.com/dy/article/LA8L711M05568W0A.html"],"created":1794626459,"id":"chatcmpl-0c6f4e0f-3260-9e0f-be2b-0cd0c680c8d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"问202"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.eastmoney.com/a/202610223903548680.html","https://www.163.com/dy/article/LA8L711M05568W0A.html"],"created":1794626459,"id":"chatcmpl-0c6f4e0f-3260-9e0f-be2b-0cd0c680c8d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"6年"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.eastmoney.com/a/202610223903548680.html","https://www.163.com/dy/article/LA8L711M05568W0A.html"],"created":1794626459,"id":"chatcmpl-0c6f4e0f-3260-9e0f-be2b-0cd0c680c8d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"欧洲债务压力，"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.eastmoney.com/a/202610223903548680.html","https://www.163.com/dy/article/LA8L711M05568W0A.html"],"created":1794626459,"id":"chatcmpl-0c6f4e0f-3260-9e0f-be2b-0cd0c680c8d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"主要体现于2"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.eastmoney.com/a/202610223903548680.html","https://www.163.com/dy/article/LA8L711M05568W0A.html"],"created":1794626459,"id":"chatcmpl-0c6f4e0f-3260-9e0f-be2b-0cd0c680c8d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"026"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.eastmoney.com/a/202610223903548680.html","https://www.163.com/dy/article/LA8L711M05568W0A.html"],"created":1794626459,"id":"chatcmpl-0c6f4e0f-3260-9e0f-be2b-0cd0c680c8d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"年二季度末数据"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.eastmoney.com/a/202610223903548680.html","https://www.163.com/dy/article/LA8L711M05568W0A.html"],"created":1794626459,"id":"chatcmpl-0c6f4e0f-3260-9e0f-be2b-0cd0c680c8d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"。不要编造"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.eastmoney.com/a/202610223903548680.html","https://www.163.com/dy/article/LA8L711M05568W0A.html"],"created":1794626459,"id":"chatcmpl-0c6f4e0f-3260-9e0f-be2b-0cd0c680c8d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"。可以"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.eastmoney.com/a/202610223903548680.html","https://www.163.com/dy/article/LA8L711M05568W0A.html"],"created":1794626459,"id":"chatcmpl-0c6f4e0f-3260-9e0f-be2b-0cd0c680c8d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"明确这是欧盟统计局"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.eastmoney.com/a/202610223903548680.html","https://www.163.com/dy/article/LA8L711M05568W0A.html"],"created":1794626459,"id":"chatcmpl-0c6f4e0f-3260-9e0f-be2b-0cd0c680c8d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"2"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.eastmoney.com/a/202610223903548680.html","https://www.163.com/dy/article/LA8L711M05568W0A.html"],"created":1794626459,"id":"chatcmpl-0c6f4e0f-3260-9e0f-be2b-0cd0c680c8d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"026年"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.eastmoney.com/a/202610223903548680.html","https://www.163.com/dy/article/LA8L711M05568W0A.html"],"created":1794626459,"id":"chatcmpl-0c6f4e0f-3260-9e0f-be2b-0cd0c680c8d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"二季度末/1"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.eastmoney.com/a/202610223903548680.html","https://www.163.com/dy/article/LA8L711M05568W0A.html"],"created":1794626459,"id":"chatcmpl-0c6f4e0f-3260-9e0f-be2b-0cd0c680c8d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"0月2"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.eastmoney.com/a/202610223903548680.html","https://www.163.com/dy/article/LA8L711M05568W0A.html"],"created":1794626459,"id":"chatcmpl-0c6f4e0f-3260-9e0f-be2b-0cd0c680c8d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"1日公布数据。"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.eastmoney.com/a/202610223903548680.html","https://www.163.com/dy/article/LA8L711M05568W0A.html"],"created":1794626459,"id":"chatcmpl-0c6f4e0f-3260-9e0f-be2b-0cd0c680c8d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"\n\n可以回答："},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.eastmoney.com/a/202610223903548680.html","https://www.163.com/dy/article/LA8L711M05568W0A.html"],"created":1794626459,"id":"chatcmpl-0c6f4e0f-3260-9e0f-be2b-0cd0c680c8d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"\n直接回答："},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.eastmoney.com/a/202610223903548680.html","https://www.163.com/dy/article/LA8L711M05568W0A.html"],"created":1794626459,"id":"chatcmpl-0c6f4e0f-3260-9e0f-be2b-0cd0c680c8d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"\n"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.eastmoney.com/a/202610223903548680.html","https://www.163.com/dy/article/LA8L711M05568W0A.html"],"created":1794626459,"id":"chatcmpl-0c6f4e0f-3260-9e0f-be2b-0cd0c680c8d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"2026"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.eastmoney.com/a/202610223903548680.html","https://www.163.com/dy/article/LA8L711M05568W0A.html"],"created":1794626459,"id":"chatcmpl-0c6f4e0f-3260-9e0f-be2b-0cd0c680c8d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"年欧洲债务压力"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.eastmoney.com/a/202610223903548680.html","https://www.163.com/dy/article/LA8L711M05568W0A.html"],"created":1794626459,"id":"chatcmpl-0c6f4e0f-3260-9e0f-be2b-0cd0c680c8d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"主要体现在：政府债务"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.eastmoney.com/a/202610223903548680.html","https://www.163.com/dy/article/LA8L711M05568W0A.html"],"created":1794626459,"id":"chatcmpl-0c6f4e0f-3260-9e0f-be2b-0cd0c680c8d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"率上升"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.eastmoney.com/a/202610223903548680.html","https://www.163.com/dy/article/LA8L711M05568W0A.html"],"created":1794626459,"id":"chatcmpl-0c6f4e0f-3260-9e0f-be2b-0cd0c680c8d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"、赤字率上升"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.eastmoney.com/a/202610223903548680.html","https://www.163.com/dy/article/LA8L711M05568W0A.html"],"created":1794626459,"id":"chatcmpl-0c6f4e0f-3260-9e0f-be2b-0cd0c680c8d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"、部分国家债务"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.eastmoney.com/a/202610223903548680.html","https://www.163.com/dy/article/LA8L711M05568W0A.html"],"created":1794626459,"id":"chatcmpl-0c6f4e0f-3260-9e0f-be2b-0cd0c680c8d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"率远高于"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.eastmoney.com/a/202610223903548680.html","https://www.163.com/dy/article/LA8L711M05568W0A.html"],"created":1794626459,"id":"chatcmpl-0c6f4e0f-3260-9e0f-be2b-0cd0c680c8d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"欧盟平均水平。欧元区"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.eastmoney.com/a/202610223903548680.html","https://www.163.com/dy/article/LA8L711M05568W0A.html"],"created":1794626459,"id":"chatcmpl-0c6f4e0f-3260-9e0f-be2b-0cd0c680c8d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"整体债务率8"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.eastmoney.com/a/202610223903548680.html","https://www.163.com/dy/article/LA8L711M05568W0A.html"],"created":1794626459,"id":"chatcmpl-0c6f4e0f-3260-9e0f-be2b-0cd0c680c8d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"8."},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.eastmoney.com/a/202610223903548680.html","https://www.163.com/dy/article/LA8L711M05568W0A.html"],"created":1794626459,"id":"chatcmpl-0c6f4e0f-3260-9e0f-be2b-0cd0c680c8d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"8%，欧盟8"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.eastmoney.com/a/202610223903548680.html","https://www.163.com/dy/article/LA8L711M05568W0A.html"],"created":1794626459,"id":"chatcmpl-0c6f4e0f-3260-9e0f-be2b-0cd0c680c8d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"2.9%"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.eastmoney.com/a/202610223903548680.html","https://www.163.com/dy/article/LA8L711M05568W0A.html"],"created":1794626459,"id":"chatcmpl-0c6f4e0f-3260-9e0f-be2b-0cd0c680c8d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"；赤字率欧元区"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.eastmoney.com/a/202610223903548680.html","https://www.163.com/dy/article/LA8L711M05568W0A.html"],"created":1794626459,"id":"chatcmpl-0c6f4e0f-3260-9e0f-be2b-0cd0c680c8d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"3.3%，"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.eastmoney.com/a/202610223903548680.html","https://www.163.com/dy/article/LA8L711M05568W0A.html"],"created":1794626459,"id":"chatcmpl-0c6f4e0f-3260-9e0f-be2b-0cd0c680c8d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"欧盟3.5"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.eastmoney.com/a/202610223903548680.html","https://www.163.com/dy/article/LA8L711M05568W0A.html"],"created":1794626459,"id":"chatcmpl-0c6f4e0f-3260-9e0f-be2b-0cd0c680c8d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"%。高负债"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.eastmoney.com/a/202610223903548680.html","https://www.163.com/dy/article/LA8L711M05568W0A.html"],"created":1794626459,"id":"chatcmpl-0c6f4e0f-3260-9e0f-be2b-0cd0c680c8d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"国希腊14"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.eastmoney.com/a/202610223903548680.html","https://www.163.com/dy/article/LA8L711M05568W0A.html"],"created":1794626459,"id":"chatcmpl-0c6f4e0f-3260-9e0f-be2b-0cd0c680c8d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"0.8"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.eastmoney.com/a/202610223903548680.html","https://www.163.com/dy/article/LA8L711M05568W0A.html"],"created":1794626459,"id":"chatcmpl-0c6f4e0f-3260-9e0f-be2b-0cd0c680c8d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"%、意大利1"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.eastmoney.com/a/202610223903548680.html","https://www.163.com/dy/article/LA8L711M05568W0A.html"],"created":1794626459,"id":"chatcmpl-0c6f4e0f-3260-9e0f-be2b-0cd0c680c8d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"39.9"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.eastmoney.com/a/202610223903548680.html","https://www.163.com/dy/article/LA8L711M05568W0A.html"],"created":1794626459,"id":"chatcmpl-0c6f4e0f-3260-9e0f-be2b-0cd0c680c8d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"%、法国1"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.eastmoney.com/a/202610223903548680.html","https://www.163.com/dy/article/LA8L711M05568W0A.html"],"created":1794626459,"id":"chatcmpl-0c6f4e0f-3260-9e0f-be2b-0cd0c680c8d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"19.1"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.eastmoney.com/a/202610223903548680.html","https://www.163.com/dy/article/LA8L711M05568W0A.html"],"created":1794626459,"id":"chatcmpl-0c6f4e0f-3260-9e0f-be2b-0cd0c680c8d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"%，比利时和西班牙"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.eastmoney.com/a/202610223903548680.html","https://www.163.com/dy/article/LA8L711M05568W0A.html"],"created":1794626459,"id":"chatcmpl-0c6f4e0f-3260-9e0f-be2b-0cd0c680c8d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"分别"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.eastmoney.com/a/202610223903548680.html","https://www.163.com/dy/article/LA8L711M05568W0A.html"],"created":1794626459,"id":"chatcmpl-0c6f4e0f-3260-9e0f-be2b-0cd0c680c8d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"超过110"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.eastmoney.com/a/202610223903548680.html","https://www.163.com/dy/article/LA8L711M05568W0A.html"],"created":1794626459,"id":"chatcmpl-0c6f4e0f-3260-9e0f-be2b-0cd0c680c8d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"%"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.eastmoney.com/a/202610223903548680.html","https://www.163.com/dy/article/LA8L711M05568W0A.html"],"created":1794626459,"id":"chatcmpl-0c6f4e0f-3260-9e0f-be2b-0cd0c680c8d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"和100"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.eastmoney.com/a/202610223903548680.html","https://www.163.com/dy/article/LA8L711M05568W0A.html"],"created":1794626459,"id":"chatcmpl-0c6f4e0f-3260-9e0f-be2b-0cd0c680c8d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"%。\n\n差别"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.eastmoney.com/a/202610223903548680.html","https://www.163.com/dy/article/LA8L711M05568W0A.html"],"created":1794626459,"id":"chatcmpl-0c6f4e0f-3260-9e0f-be2b-0cd0c680c8d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"：\n1."},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.eastmoney.com/a/202610223903548680.html","https://www.163.com/dy/article/LA8L711M05568W0A.html"],"created":1794626459,"id":"chatcmpl-0c6f4e0f-3260-9e0f-be2b-0cd0c680c8d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":" 整体压力"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.eastmoney.com/a/202610223903548680.html","https://www.163.com/dy/article/LA8L711M05568W0A.html"],"created":1794626459,"id":"chatcmpl-0c6f4e0f-3260-9e0f-be2b-0cd0c680c8d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"温和上升：欧元区"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.eastmoney.com/a/202610223903548680.html","https://www.163.com/dy/article/LA8L711M05568W0A.html"],"created":1794626459,"id":"chatcmpl-0c6f4e0f-3260-9e0f-be2b-0cd0c680c8d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"债务率"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.eastmoney.com/a/202610223903548680.html","https://www.163.com/dy/article/LA8L711M05568W0A.html"],"created":1794626459,"id":"chatcmpl-0c6f4e0f-3260-9e0f-be2b-0cd0c680c8d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"从88."},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.eastmoney.com/a/202610223903548680.html","https://www.163.com/dy/article/LA8L711M05568W0A.html"],"created":1794626459,"id":"chatcmpl-0c6f4e0f-3260-9e0f-be2b-0cd0c680c8d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"4%升至8"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.eastmoney.com/a/202610223903548680.html","https://www.163.com/dy/article/LA8L711M05568W0A.html"],"created":1794626459,"id":"chatcmpl-0c6f4e0f-3260-9e0f-be2b-0cd0c680c8d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"8.8%，"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.eastmoney.com/a/202610223903548680.html","https://www.163.com/dy/article/LA8L711M05568W0A.html"],"created":1794626459,"id":"chatcmpl-0c6f4e0f-3260-9e0f-be2b-0cd0c680c8d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"欧盟从82"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.eastmoney.com/a/202610223903548680.html","https://www.163.com/dy/article/LA8L711M05568W0A.html"],"created":1794626459,"id":"chatcmpl-0c6f4e0f-3260-9e0f-be2b-0cd0c680c8d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":".5%升至"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.eastmoney.com/a/202610223903548680.html","https://www.163.com/dy/article/LA8L711M05568W0A.html"],"created":1794626459,"id":"chatcmpl-0c6f4e0f-3260-9e0f-be2b-0cd0c680c8d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"82.9"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.eastmoney.com/a/202610223903548680.html","https://www.163.com/dy/article/LA8L711M05568W0A.html"],"created":1794626459,"id":"chatcmpl-0c6f4e0f-3260-9e0f-be2b-0cd0c680c8d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"%。\n2"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.eastmoney.com/a/202610223903548680.html","https://www.163.com/dy/article/LA8L711M05568W0A.html"],"created":1794626459,"id":"chatcmpl-0c6f4e0f-3260-9e0f-be2b-0cd0c680c8d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":". 高负债"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.eastmoney.com/a/202610223903548680.html","https://www.163.com/dy/article/LA8L711M05568W0A.html"],"created":1794626459,"id":"chatcmpl-0c6f4e0f-3260-9e0f-be2b-0cd0c680c8d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"国明显更重"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.eastmoney.com/a/202610223903548680.html","https://www.163.com/dy/article/LA8L711M05568W0A.html"],"created":1794626459,"id":"chatcmpl-0c6f4e0f-3260-9e0f-be2b-0cd0c680c8d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"：希腊等超过"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.eastmoney.com/a/202610223903548680.html","https://www.163.com/dy/article/LA8L711M05568W0A.html"],"created":1794626459,"id":"chatcmpl-0c6f4e0f-3260-9e0f-be2b-0cd0c680c8d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"100%-"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.eastmoney.com/a/202610223903548680.html","https://www.163.com/dy/article/LA8L711M05568W0A.html"],"created":1794626459,"id":"chatcmpl-0c6f4e0f-3260-9e0f-be2b-0cd0c680c8d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"140%，"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.eastmoney.com/a/202610223903548680.html","https://www.163.com/dy/article/LA8L711M05568W0A.html"],"created":1794626459,"id":"chatcmpl-0c6f4e0f-3260-9e0f-be2b-0cd0c680c8d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"远高于整体。\n"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.eastmoney.com/a/202610223903548680.html","https://www.163.com/dy/article/LA8L711M05568W0A.html"],"created":1794626459,"id":"chatcmpl-0c6f4e0f-3260-9e0f-be2b-0cd0c680c8d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"3."},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.eastmoney.com/a/202610223903548680.html","https://www.163.com/dy/article/LA8L711M05568W0A.html"],"created":1794626459,"id":"chatcmpl-0c6f4e0f-3260-9e0f-be2b-0cd0c680c8d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":" 赤字端压力"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.eastmoney.com/a/202610223903548680.html","https://www.163.com/dy/article/LA8L711M05568W0A.html"],"created":1794626459,"id":"chatcmpl-0c6f4e0f-3260-9e0f-be2b-0cd0c680c8d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"也在扩大：欧盟"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.eastmoney.com/a/202610223903548680.html","https://www.163.com/dy/article/LA8L711M05568W0A.html"],"created":1794626459,"id":"chatcmpl-0c6f4e0f-3260-9e0f-be2b-0cd0c680c8d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"赤字率升至3"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.eastmoney.com/a/202610223903548680.html","https://www.163.com/dy/article/LA8L711M05568W0A.html"],"created":1794626459,"id":"chatcmpl-0c6f4e0f-3260-9e0f-be2b-0cd0c680c8d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":".5%，"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.eastmoney.com/a/202610223903548680.html","https://www.163.com/dy/article/LA8L711M05568W0A.html"],"created":1794626459,"id":"chatcmpl-0c6f4e0f-3260-9e0f-be2b-0cd0c680c8d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"欧元区3.3"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.eastmoney.com/a/202610223903548680.html","https://www.163.com/dy/article/LA8L711M05568W0A.html"],"created":1794626459,"id":"chatcmpl-0c6f4e0f-3260-9e0f-be2b-0cd0c680c8d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"%，可能加大未来"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.eastmoney.com/a/202610223903548680.html","https://www.163.com/dy/article/LA8L711M05568W0A.html"],"created":1794626459,"id":"chatcmpl-0c6f4e0f-3260-9e0f-be2b-0cd0c680c8d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"债务积累"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.eastmoney.com/a/202610223903548680.html","https://www.163.com/dy/article/LA8L711M05568W0A.html"],"created":1794626459,"id":"chatcmpl-0c6f4e0f-3260-9e0f-be2b-0cd0c680c8d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"。\n\n补充背景"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.eastmoney.com/a/202610223903548680.html","https://www.163.com/dy/article/LA8L711M05568W0A.html"],"created":1794626459,"id":"chatcmpl-0c6f4e0f-3260-9e0f-be2b-0cd0c680c8d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"：债务"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.eastmoney.com/a/202610223903548680.html","https://www.163.com/dy/article/LA8L711M05568W0A.html"],"created":1794626459,"id":"chatcmpl-0c6f4e0f-3260-9e0f-be2b-0cd0c680c8d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"率是政府债务"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.eastmoney.com/a/202610223903548680.html","https://www.163.com/dy/article/LA8L711M05568W0A.html"],"created":1794626459,"id":"chatcmpl-0c6f4e0f-3260-9e0f-be2b-0cd0c680c8d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"余额"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.eastmoney.com/a/202610223903548680.html","https://www.163.com/dy/article/LA8L711M05568W0A.html"],"created":1794626459,"id":"chatcmpl-0c6f4e0f-3260-9e0f-be2b-0cd0c680c8d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"占GDP；"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.eastmoney.com/a/202610223903548680.html","https://www.163.com/dy/article/LA8L711M05568W0A.html"],"created":1794626459,"id":"chatcmpl-0c6f4e0f-3260-9e0f-be2b-0cd0c680c8d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"赤字"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.eastmoney.com/a/202610223903548680.html","https://www.163.com/dy/article/LA8L711M05568W0A.html"],"created":1794626459,"id":"chatcmpl-0c6f4e0f-3260-9e0f-be2b-0cd0c680c8d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"率是财政赤字"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.eastmoney.com/a/202610223903548680.html","https://www.163.com/dy/article/LA8L711M05568W0A.html"],"created":1794626459,"id":"chatcmpl-0c6f4e0f-3260-9e0f-be2b-0cd0c680c8d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"占GDP；"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.eastmoney.com/a/202610223903548680.html","https://www.163.com/dy/article/LA8L711M05568W0A.html"],"created":1794626459,"id":"chatcmpl-0c6f4e0f-3260-9e0f-be2b-0cd0c680c8d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"两者同步上升说明"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.eastmoney.com/a/202610223903548680.html","https://www.163.com/dy/article/LA8L711M05568W0A.html"],"created":1794626459,"id":"chatcmpl-0c6f4e0f-3260-9e0f-be2b-0cd0c680c8d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"债务存量压力和流量"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.eastmoney.com/a/202610223903548680.html","https://www.163.com/dy/article/LA8L711M05568W0A.html"],"created":1794626459,"id":"chatcmpl-0c6f4e0f-3260-9e0f-be2b-0cd0c680c8d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"压力。数据为"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.eastmoney.com/a/202610223903548680.html","https://www.163.com/dy/article/LA8L711M05568W0A.html"],"created":1794626459,"id":"chatcmpl-0c6f4e0f-3260-9e0f-be2b-0cd0c680c8d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"二季度末，后续"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.eastmoney.com/a/202610223903548680.html","https://www.163.com/dy/article/LA8L711M05568W0A.html"],"created":1794626459,"id":"chatcmpl-0c6f4e0f-3260-9e0f-be2b-0cd0c680c8d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"要看三季度/年度"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.eastmoney.com/a/202610223903548680.html","https://www.163.com/dy/article/LA8L711M05568W0A.html"],"created":1794626459,"id":"chatcmpl-0c6f4e0f-3260-9e0f-be2b-0cd0c680c8d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"。引用。\n\n"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.eastmoney.com/a/202610223903548680.html","https://www.163.com/dy/article/LA8L711M05568W0A.html"],"created":1794626459,"id":"chatcmpl-0c6f4e0f-3260-9e0f-be2b-0cd0c680c8d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"需要美观"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.eastmoney.com/a/202610223903548680.html","https://www.163.com/dy/article/LA8L711M05568W0A.html"],"created":1794626459,"id":"chatcmpl-0c6f4e0f-3260-9e0f-be2b-0cd0c680c8d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"结构。可能用"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.eastmoney.com/a/202610223903548680.html","https://www.163.com/dy/article/LA8L711M05568W0A.html"],"created":1794626459,"id":"chatcmpl-0c6f4e0f-3260-9e0f-be2b-0cd0c680c8d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"标题：“结论”"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.eastmoney.com/a/202610223903548680.html","https://www.163.com/dy/article/LA8L711M05568W0A.html"],"created":1794626459,"id":"chatcmpl-0c6f4e0f-3260-9e0f-be2b-0cd0c680c8d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"“关键"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.eastmoney.com/a/202610223903548680.html","https://www.163.com/dy/article/LA8L711M05568W0A.html"],"created":1794626459,"id":"chatcmpl-0c6f4e0f-3260-9e0f-be2b-0cd0c680c8d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"数字”“整体"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.eastmoney.com/a/202610223903548680.html","https://www.163.com/dy/article/LA8L711M05568W0A.html"],"created":1794626459,"id":"chatcmpl-0c6f4e0f-3260-9e0f-be2b-0cd0c680c8d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"与高负债国"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.eastmoney.com/a/202610223903548680.html","https://www.163.com/dy/article/LA8L711M05568W0A.html"],"created":1794626459,"id":"chatcmpl-0c6f4e0f-3260-9e0f-be2b-0cd0c680c8d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"差别”。控制点"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.eastmoney.com/a/202610223903548680.html","https://www.163.com/dy/article/LA8L711M05568W0A.html"],"created":1794626459,"id":"chatcmpl-0c6f4e0f-3260-9e0f-be2b-0cd0c680c8d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"不超过5。\n\n"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.eastmoney.com/a/202610223903548680.html","https://www.163.com/dy/article/LA8L711M05568W0A.html"],"created":1794626459,"id":"chatcmpl-0c6f4e0f-3260-9e0f-be2b-0cd0c680c8d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"确保"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.eastmoney.com/a/202610223903548680.html","https://www.163.com/dy/article/LA8L711M05568W0A.html"],"created":1794626459,"id":"chatcmpl-0c6f4e0f-3260-9e0f-be2b-0cd0c680c8d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"不重复引用一个"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.eastmoney.com/a/202610223903548680.html","https://www.163.com/dy/article/LA8L711M05568W0A.html"],"created":1794626459,"id":"chatcmpl-0c6f4e0f-3260-9e0f-be2b-0cd0c680c8d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"网页"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.eastmoney.com/a/202610223903548680.html","https://www.163.com/dy/article/LA8L711M05568W0A.html"],"created":1794626459,"id":"chatcmpl-0c6f4e0f-3260-9e0f-be2b-0cd0c680c8d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"？两篇都"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.eastmoney.com/a/202610223903548680.html","https://www.163.com/dy/article/LA8L711M05568W0A.html"],"created":1794626459,"id":"chatcmpl-0c6f4e0f-3260-9e0f-be2b-0cd0c680c8d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"引用。\n\n"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.eastmoney.com/a/202610223903548680.html","https://www.163.com/dy/article/LA8L711M05568W0A.html"],"created":1794626459,"id":"chatcmpl-0c6f4e0f-3260-9e0f-be2b-0cd0c680c8d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":"完成。"},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.eastmoney.com/a/202610223903548680.html","https://www.163.com/dy/article/LA8L711M05568W0A.html"],"created":1794626459,"id":"chatcmpl-0c6f4e0f-3260-9e0f-be2b-0cd0c680c8d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"2","reasoning_content":""},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.eastmoney.com/a/202610223903548680.html","https://www.163.com/dy/article/LA8L711M05568W0A.html"],"created":1794626459,"id":"chatcmpl-0c6f4e0f-3260-9e0f-be2b-0cd0c680c8d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"026年","reasoning_content":""},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.eastmoney.com/a/202610223903548680.html","https://www.163.com/dy/article/LA8L711M05568W0A.html"],"created":1794626459,"id":"chatcmpl-0c6f4e0f-3260-9e0f-be2b-0cd0c680c8d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"欧洲债务压力主要体现在","reasoning_content":""},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.eastmoney.com/a/202610223903548680.html","https://www.163.com/dy/article/LA8L711M05568W0A.html"],"created":1794626459,"id":"chatcmpl-0c6f4e0f-3260-9e0f-be2b-0cd0c680c8d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"**政府债务率","reasoning_content":""},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.eastmoney.com/a/202610223903548680.html","https://www.163.com/dy/article/LA8L711M05568W0A.html"],"created":1794626459,"id":"chatcmpl-0c6f4e0f-3260-9e0f-be2b-0cd0c680c8d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"上升、财政赤字","reasoning_content":""},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.eastmoney.com/a/202610223903548680.html","https://www.163.com/dy/article/LA8L711M05568W0A.html"],"created":1794626459,"id":"chatcmpl-0c6f4e0f-3260-9e0f-be2b-0cd0c680c8d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"率上升，","reasoning_content":""},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.eastmoney.com/a/202610223903548680.html","https://www.163.com/dy/article/LA8L711M05568W0A.html"],"created":1794626459,"id":"chatcmpl-0c6f4e0f-3260-9e0f-be2b-0cd0c680c8d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"以及部分成员国债务","reasoning_content":""},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.eastmoney.com/a/202610223903548680.html","https://www.163.com/dy/article/LA8L711M05568W0A.html"],"created":1794626459,"id":"chatcmpl-0c6f4e0f-3260-9e0f-be2b-0cd0c680c8d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"水平","reasoning_content":""},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.eastmoney.com/a/202610223903548680.html","https://www.163.com/dy/article/LA8L711M05568W0A.html"],"created":1794626459,"id":"chatcmpl-0c6f4e0f-3260-9e0f-be2b-0cd0c680c8d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"远高于欧元区/欧盟","reasoning_content":""},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.eastmoney.com/a/202610223903548680.html","https://www.163.com/dy/article/LA8L711M05568W0A.html"],"created":1794626459,"id":"chatcmpl-0c6f4e0f-3260-9e0f-be2b-0cd0c680c8d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"平均水平**。","reasoning_content":""},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.eastmoney.com/a/202610223903548680.html","https://www.163.com/dy/article/LA8L711M05568W0A.html"],"created":1794626459,"id":"chatcmpl-0c6f4e0f-3260-9e0f-be2b-0cd0c680c8d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"截至欧盟统计局公布的","reasoning_content":""},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.eastmoney.com/a/202610223903548680.html","https://www.163.com/dy/article/LA8L711M05568W0A.html"],"created":1794626459,"id":"chatcmpl-0c6f4e0f-3260-9e0f-be2b-0cd0c680c8d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"20","reasoning_content":""},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.eastmoney.com/a/202610223903548680.html","https://www.163.com/dy/article/LA8L711M05568W0A.html"],"created":1794626459,"id":"chatcmpl-0c6f4e0f-3260-9e0f-be2b-0cd0c680c8d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"26年二季度","reasoning_content":""},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.eastmoney.com/a/202610223903548680.html","https://www.163.com/dy/article/LA8L711M05568W0A.html"],"created":1794626459,"id":"chatcmpl-0c6f4e0f-3260-9e0f-be2b-0cd0c680c8d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"数据，欧元区整体","reasoning_content":""},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.eastmoney.com/a/202610223903548680.html","https://www.163.com/dy/article/LA8L711M05568W0A.html"],"created":1794626459,"id":"chatcmpl-0c6f4e0f-3260-9e0f-be2b-0cd0c680c8d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"债务","reasoning_content":""},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.eastmoney.com/a/202610223903548680.html","https://www.163.com/dy/article/LA8L711M05568W0A.html"],"created":1794626459,"id":"chatcmpl-0c6f4e0f-3260-9e0f-be2b-0cd0c680c8d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"率为88.","reasoning_content":""},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.eastmoney.com/a/202610223903548680.html","https://www.163.com/dy/article/LA8L711M05568W0A.html"],"created":1794626459,"id":"chatcmpl-0c6f4e0f-3260-9e0f-be2b-0cd0c680c8d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"8%，欧盟整体","reasoning_content":""},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.eastmoney.com/a/202610223903548680.html","https://www.163.com/dy/article/LA8L711M05568W0A.html"],"created":1794626459,"id":"chatcmpl-0c6f4e0f-3260-9e0f-be2b-0cd0c680c8d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"为82.","reasoning_content":""},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.eastmoney.com/a/202610223903548680.html","https://www.163.com/dy/article/LA8L711M05568W0A.html"],"created":1794626459,"id":"chatcmpl-0c6f4e0f-3260-9e0f-be2b-0cd0c680c8d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"9%；但","reasoning_content":""},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.eastmoney.com/a/202610223903548680.html","https://www.163.com/dy/article/LA8L711M05568W0A.html"],"created":1794626459,"id":"chatcmpl-0c6f4e0f-3260-9e0f-be2b-0cd0c680c8d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"希腊、意大利、","reasoning_content":""},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.eastmoney.com/a/202610223903548680.html","https://www.163.com/dy/article/LA8L711M05568W0A.html"],"created":1794626459,"id":"chatcmpl-0c6f4e0f-3260-9e0f-be2b-0cd0c680c8d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"法国等高负债国","reasoning_content":""},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.eastmoney.com/a/202610223903548680.html","https://www.163.com/dy/article/LA8L711M05568W0A.html"],"created":1794626459,"id":"chatcmpl-0c6f4e0f-3260-9e0f-be2b-0cd0c680c8d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"债务率已明显","reasoning_content":""},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.eastmoney.com/a/202610223903548680.html","https://www.163.com/dy/article/LA8L711M05568W0A.html"],"created":1794626459,"id":"chatcmpl-0c6f4e0f-3260-9e0f-be2b-0cd0c680c8d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"超过整体","reasoning_content":""},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.eastmoney.com/a/202610223903548680.html","https://www.163.com/dy/article/LA8L711M05568W0A.html"],"created":1794626459,"id":"chatcmpl-0c6f4e0f-3260-9e0f-be2b-0cd0c680c8d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"水平。[1","reasoning_content":""},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.eastmoney.com/a/202610223903548680.html","https://www.163.com/dy/article/LA8L711M05568W0A.html"],"created":1794626459,"id":"chatcmpl-0c6f4e0f-3260-9e0f-be2b-0cd0c680c8d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"][4","reasoning_content":""},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.eastmoney.com/a/202610223903548680.html","https://www.163.com/dy/article/LA8L711M05568W0A.html"],"created":1794626459,"id":"chatcmpl-0c6f4e0f-3260-9e0f-be2b-0cd0c680c8d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"]\n\n### ","reasoning_content":""},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.eastmoney.com/a/202610223903548680.html","https://www.163.com/dy/article/LA8L711M05568W0A.html"],"created":1794626459,"id":"chatcmpl-0c6f4e0f-3260-9e0f-be2b-0cd0c680c8d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"一、债务压力","reasoning_content":""},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.eastmoney.com/a/202610223903548680.html","https://www.163.com/dy/article/LA8L711M05568W0A.html"],"created":1794626459,"id":"chatcmpl-0c6f4e0f-3260-9e0f-be2b-0cd0c680c8d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"主要体现在哪些数字","reasoning_content":""},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.eastmoney.com/a/202610223903548680.html","https://www.163.com/dy/article/LA8L711M05568W0A.html"],"created":1794626459,"id":"chatcmpl-0c6f4e0f-3260-9e0f-be2b-0cd0c680c8d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"上？\n\n1","reasoning_content":""},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.eastmoney.com/a/202610223903548680.html","https://www.163.com/dy/article/LA8L711M05568W0A.html"],"created":1794626459,"id":"chatcmpl-0c6f4e0f-3260-9e0f-be2b-0cd0c680c8d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":". **政府债务","reasoning_content":""},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.eastmoney.com/a/202610223903548680.html","https://www.163.com/dy/article/LA8L711M05568W0A.html"],"created":1794626459,"id":"chatcmpl-0c6f4e0f-3260-9e0f-be2b-0cd0c680c8d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"占GDP比重","reasoning_content":""},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.eastmoney.com/a/202610223903548680.html","https://www.163.com/dy/article/LA8L711M05568W0A.html"],"created":1794626459,"id":"chatcmpl-0c6f4e0f-3260-9e0f-be2b-0cd0c680c8d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"继续","reasoning_content":""},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.eastmoney.com/a/202610223903548680.html","https://www.163.com/dy/article/LA8L711M05568W0A.html"],"created":1794626459,"id":"chatcmpl-0c6f4e0f-3260-9e0f-be2b-0cd0c680c8d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"上升**  \n  ","reasoning_content":""},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.eastmoney.com/a/202610223903548680.html","https://www.163.com/dy/article/LA8L711M05568W0A.html"],"created":1794626459,"id":"chatcmpl-0c6f4e0f-3260-9e0f-be2b-0cd0c680c8d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":" 202","reasoning_content":""},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.eastmoney.com/a/202610223903548680.html","https://www.163.com/dy/article/LA8L711M05568W0A.html"],"created":1794626459,"id":"chatcmpl-0c6f4e0f-3260-9e0f-be2b-0cd0c680c8d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"6年第二季度末","reasoning_content":""},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.eastmoney.com/a/202610223903548680.html","https://www.163.com/dy/article/LA8L711M05568W0A.html"],"created":1794626459,"id":"chatcmpl-0c6f4e0f-3260-9e0f-be2b-0cd0c680c8d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"，欧元区政府","reasoning_content":""},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.eastmoney.com/a/202610223903548680.html","https://www.163.com/dy/article/LA8L711M05568W0A.html"],"created":1794626459,"id":"chatcmpl-0c6f4e0f-3260-9e0f-be2b-0cd0c680c8d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"债务占GDP","reasoning_content":""},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.eastmoney.com/a/202610223903548680.html","https://www.163.com/dy/article/LA8L711M05568W0A.html"],"created":1794626459,"id":"chatcmpl-0c6f4e0f-3260-9e0f-be2b-0cd0c680c8d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"比重为","reasoning_content":""},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.eastmoney.com/a/202610223903548680.html","https://www.163.com/dy/article/LA8L711M05568W0A.html"],"created":1794626459,"id":"chatcmpl-0c6f4e0f-3260-9e0f-be2b-0cd0c680c8d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"88.8","reasoning_content":""},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.eastmoney.com/a/202610223903548680.html","https://www.163.com/dy/article/LA8L711M05568W0A.html"],"created":1794626459,"id":"chatcmpl-0c6f4e0f-3260-9e0f-be2b-0cd0c680c8d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"%，","reasoning_content":""},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.eastmoney.com/a/202610223903548680.html","https://www.163.com/dy/article/LA8L711M05568W0A.html"],"created":1794626459,"id":"chatcmpl-0c6f4e0f-3260-9e0f-be2b-0cd0c680c8d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"高于第一季度末的","reasoning_content":""},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.eastmoney.com/a/202610223903548680.html","https://www.163.com/dy/article/LA8L711M05568W0A.html"],"created":1794626459,"id":"chatcmpl-0c6f4e0f-3260-9e0f-be2b-0cd0c680c8d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"88.4","reasoning_content":""},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.eastmoney.com/a/202610223903548680.html","https://www.163.com/dy/article/LA8L711M05568W0A.html"],"created":1794626459,"id":"chatcmpl-0c6f4e0f-3260-9e0f-be2b-0cd0c680c8d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"%；欧盟整体","reasoning_content":""},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.eastmoney.com/a/202610223903548680.html","https://www.163.com/dy/article/LA8L711M05568W0A.html"],"created":1794626459,"id":"chatcmpl-0c6f4e0f-3260-9e0f-be2b-0cd0c680c8d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"债务率也从8","reasoning_content":""},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.eastmoney.com/a/202610223903548680.html","https://www.163.com/dy/article/LA8L711M05568W0A.html"],"created":1794626459,"id":"chatcmpl-0c6f4e0f-3260-9e0f-be2b-0cd0c680c8d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"2.5","reasoning_content":""},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.eastmoney.com/a/202610223903548680.html","https://www.163.com/dy/article/LA8L711M05568W0A.html"],"created":1794626459,"id":"chatcmpl-0c6f4e0f-3260-9e0f-be2b-0cd0c680c8d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"%升至82","reasoning_content":""},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.eastmoney.com/a/202610223903548680.html","https://www.163.com/dy/article/LA8L711M05568W0A.html"],"created":1794626459,"id":"chatcmpl-0c6f4e0f-3260-9e0f-be2b-0cd0c680c8d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":".9%。","reasoning_content":""},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.eastmoney.com/a/202610223903548680.html","https://www.163.com/dy/article/LA8L711M05568W0A.html"],"created":1794626459,"id":"chatcmpl-0c6f4e0f-3260-9e0f-be2b-0cd0c680c8d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"这说明欧洲公共债务","reasoning_content":""},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.eastmoney.com/a/202610223903548680.html","https://www.163.com/dy/article/LA8L711M05568W0A.html"],"created":1794626459,"id":"chatcmpl-0c6f4e0f-3260-9e0f-be2b-0cd0c680c8d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"负担在","reasoning_content":""},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.eastmoney.com/a/202610223903548680.html","https://www.163.com/dy/article/LA8L711M05568W0A.html"],"created":1794626459,"id":"chatcmpl-0c6f4e0f-3260-9e0f-be2b-0cd0c680c8d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"2026","reasoning_content":""},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.eastmoney.com/a/202610223903548680.html","https://www.163.com/dy/article/LA8L711M05568W0A.html"],"created":1794626459,"id":"chatcmpl-0c6f4e0f-3260-9e0f-be2b-0cd0c680c8d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"年上半年","reasoning_content":""},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.eastmoney.com/a/202610223903548680.html","https://www.163.com/dy/article/LA8L711M05568W0A.html"],"created":1794626459,"id":"chatcmpl-0c6f4e0f-3260-9e0f-be2b-0cd0c680c8d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"仍在加重。[","reasoning_content":""},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.eastmoney.com/a/202610223903548680.html","https://www.163.com/dy/article/LA8L711M05568W0A.html"],"created":1794626459,"id":"chatcmpl-0c6f4e0f-3260-9e0f-be2b-0cd0c680c8d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"1][4]","reasoning_content":""},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.eastmoney.com/a/202610223903548680.html","https://www.163.com/dy/article/LA8L711M05568W0A.html"],"created":1794626459,"id":"chatcmpl-0c6f4e0f-3260-9e0f-be2b-0cd0c680c8d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"\n\n2. **","reasoning_content":""},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.eastmoney.com/a/202610223903548680.html","https://www.163.com/dy/article/LA8L711M05568W0A.html"],"created":1794626459,"id":"chatcmpl-0c6f4e0f-3260-9e0f-be2b-0cd0c680c8d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"财政赤字率也在","reasoning_content":""},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.eastmoney.com/a/202610223903548680.html","https://www.163.com/dy/article/LA8L711M05568W0A.html"],"created":1794626459,"id":"chatcmpl-0c6f4e0f-3260-9e0f-be2b-0cd0c680c8d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"走高**  \n  ","reasoning_content":""},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.eastmoney.com/a/202610223903548680.html","https://www.163.com/dy/article/LA8L711M05568W0A.html"],"created":1794626459,"id":"chatcmpl-0c6f4e0f-3260-9e0f-be2b-0cd0c680c8d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":" ","reasoning_content":""},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.eastmoney.com/a/202610223903548680.html","https://www.163.com/dy/article/LA8L711M05568W0A.html"],"created":1794626459,"id":"chatcmpl-0c6f4e0f-3260-9e0f-be2b-0cd0c680c8d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"2026","reasoning_content":""},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.eastmoney.com/a/202610223903548680.html","https://www.163.com/dy/article/LA8L711M05568W0A.html"],"created":1794626459,"id":"chatcmpl-0c6f4e0f-3260-9e0f-be2b-0cd0c680c8d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"年第二季度，欧元区","reasoning_content":""},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.eastmoney.com/a/202610223903548680.html","https://www.163.com/dy/article/LA8L711M05568W0A.html"],"created":1794626459,"id":"chatcmpl-0c6f4e0f-3260-9e0f-be2b-0cd0c680c8d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"财政赤字占G","reasoning_content":""},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.eastmoney.com/a/202610223903548680.html","https://www.163.com/dy/article/LA8L711M05568W0A.html"],"created":1794626459,"id":"chatcmpl-0c6f4e0f-3260-9e0f-be2b-0cd0c680c8d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"DP比重从一","reasoning_content":""},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.eastmoney.com/a/202610223903548680.html","https://www.163.com/dy/article/LA8L711M05568W0A.html"],"created":1794626459,"id":"chatcmpl-0c6f4e0f-3260-9e0f-be2b-0cd0c680c8d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"季度的3.2","reasoning_content":""},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.eastmoney.com/a/202610223903548680.html","https://www.163.com/dy/article/LA8L711M05568W0A.html"],"created":1794626459,"id":"chatcmpl-0c6f4e0f-3260-9e0f-be2b-0cd0c680c8d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"%升至3.","reasoning_content":""},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.eastmoney.com/a/202610223903548680.html","https://www.163.com/dy/article/LA8L711M05568W0A.html"],"created":1794626459,"id":"chatcmpl-0c6f4e0f-3260-9e0f-be2b-0cd0c680c8d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"3%；欧盟","reasoning_content":""},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.eastmoney.com/a/202610223903548680.html","https://www.163.com/dy/article/LA8L711M05568W0A.html"],"created":1794626459,"id":"chatcmpl-0c6f4e0f-3260-9e0f-be2b-0cd0c680c8d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"成员国整体赤字率","reasoning_content":""},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.eastmoney.com/a/202610223903548680.html","https://www.163.com/dy/article/LA8L711M05568W0A.html"],"created":1794626459,"id":"chatcmpl-0c6f4e0f-3260-9e0f-be2b-0cd0c680c8d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"从3","reasoning_content":""},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.eastmoney.com/a/202610223903548680.html","https://www.163.com/dy/article/LA8L711M05568W0A.html"],"created":1794626459,"id":"chatcmpl-0c6f4e0f-3260-9e0f-be2b-0cd0c680c8d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":".1%升至","reasoning_content":""},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.eastmoney.com/a/202610223903548680.html","https://www.163.com/dy/article/LA8L711M05568W0A.html"],"created":1794626459,"id":"chatcmpl-0c6f4e0f-3260-9e0f-be2b-0cd0c680c8d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"3.5%","reasoning_content":""},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.eastmoney.com/a/202610223903548680.html","https://www.163.com/dy/article/LA8L711M05568W0A.html"],"created":1794626459,"id":"chatcmpl-0c6f4e0f-3260-9e0f-be2b-0cd0c680c8d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"。赤字率上升","reasoning_content":""},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.eastmoney.com/a/202610223903548680.html","https://www.163.com/dy/article/LA8L711M05568W0A.html"],"created":1794626459,"id":"chatcmpl-0c6f4e0f-3260-9e0f-be2b-0cd0c680c8d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"意味着当年财政收支","reasoning_content":""},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.eastmoney.com/a/202610223903548680.html","https://www.163.com/dy/article/LA8L711M05568W0A.html"],"created":1794626459,"id":"chatcmpl-0c6f4e0f-3260-9e0f-be2b-0cd0c680c8d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"缺口扩大，可能","reasoning_content":""},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.eastmoney.com/a/202610223903548680.html","https://www.163.com/dy/article/LA8L711M05568W0A.html"],"created":1794626459,"id":"chatcmpl-0c6f4e0f-3260-9e0f-be2b-0cd0c680c8d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"进一步推动","reasoning_content":""},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.eastmoney.com/a/202610223903548680.html","https://www.163.com/dy/article/LA8L711M05568W0A.html"],"created":1794626459,"id":"chatcmpl-0c6f4e0f-3260-9e0f-be2b-0cd0c680c8d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"政府债务累积。","reasoning_content":""},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.eastmoney.com/a/202610223903548680.html","https://www.163.com/dy/article/LA8L711M05568W0A.html"],"created":1794626459,"id":"chatcmpl-0c6f4e0f-3260-9e0f-be2b-0cd0c680c8d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"[","reasoning_content":""},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.eastmoney.com/a/202610223903548680.html","https://www.163.com/dy/article/LA8L711M05568W0A.html"],"created":1794626459,"id":"chatcmpl-0c6f4e0f-3260-9e0f-be2b-0cd0c680c8d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"1][4]","reasoning_content":""},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.eastmoney.com/a/202610223903548680.html","https://www.163.com/dy/article/LA8L711M05568W0A.html"],"created":1794626459,"id":"chatcmpl-0c6f4e0f-3260-9e0f-be2b-0cd0c680c8d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"\n\n3. **","reasoning_content":""},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.eastmoney.com/a/202610223903548680.html","https://www.163.com/dy/article/LA8L711M05568W0A.html"],"created":1794626459,"id":"chatcmpl-0c6f4e0f-3260-9e0f-be2b-0cd0c680c8d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"部分国家债务率","reasoning_content":""},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.eastmoney.com/a/202610223903548680.html","https://www.163.com/dy/article/LA8L711M05568W0A.html"],"created":1794626459,"id":"chatcmpl-0c6f4e0f-3260-9e0f-be2b-0cd0c680c8d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"处于","reasoning_content":""},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.eastmoney.com/a/202610223903548680.html","https://www.163.com/dy/article/LA8L711M05568W0A.html"],"created":1794626459,"id":"chatcmpl-0c6f4e0f-3260-9e0f-be2b-0cd0c680c8d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"高位**  \n  ","reasoning_content":""},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.eastmoney.com/a/202610223903548680.html","https://www.163.com/dy/article/LA8L711M05568W0A.html"],"created":1794626459,"id":"chatcmpl-0c6f4e0f-3260-9e0f-be2b-0cd0c680c8d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":" ","reasoning_content":""},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.eastmoney.com/a/202610223903548680.html","https://www.163.com/dy/article/LA8L711M05568W0A.html"],"created":1794626459,"id":"chatcmpl-0c6f4e0f-3260-9e0f-be2b-0cd0c680c8d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"在欧盟成员国中","reasoning_content":""},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.eastmoney.com/a/202610223903548680.html","https://www.163.com/dy/article/LA8L711M05568W0A.html"],"created":1794626459,"id":"chatcmpl-0c6f4e0f-3260-9e0f-be2b-0cd0c680c8d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"，希腊债务率","reasoning_content":""},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.eastmoney.com/a/202610223903548680.html","https://www.163.com/dy/article/LA8L711M05568W0A.html"],"created":1794626459,"id":"chatcmpl-0c6f4e0f-3260-9e0f-be2b-0cd0c680c8d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"最高，为1","reasoning_content":""},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.eastmoney.com/a/202610223903548680.html","https://www.163.com/dy/article/LA8L711M05568W0A.html"],"created":1794626459,"id":"chatcmpl-0c6f4e0f-3260-9e0f-be2b-0cd0c680c8d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"40.8","reasoning_content":""},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.eastmoney.com/a/202610223903548680.html","https://www.163.com/dy/article/LA8L711M05568W0A.html"],"created":1794626459,"id":"chatcmpl-0c6f4e0f-3260-9e0f-be2b-0cd0c680c8d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"%；意大利为","reasoning_content":""},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.eastmoney.com/a/202610223903548680.html","https://www.163.com/dy/article/LA8L711M05568W0A.html"],"created":1794626459,"id":"chatcmpl-0c6f4e0f-3260-9e0f-be2b-0cd0c680c8d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"139.","reasoning_content":""},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.eastmoney.com/a/202610223903548680.html","https://www.163.com/dy/article/LA8L711M05568W0A.html"],"created":1794626459,"id":"chatcmpl-0c6f4e0f-3260-9e0f-be2b-0cd0c680c8d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"9%；法国","reasoning_content":""},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.eastmoney.com/a/202610223903548680.html","https://www.163.com/dy/article/LA8L711M05568W0A.html"],"created":1794626459,"id":"chatcmpl-0c6f4e0f-3260-9e0f-be2b-0cd0c680c8d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"为119","reasoning_content":""},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.eastmoney.com/a/202610223903548680.html","https://www.163.com/dy/article/LA8L711M05568W0A.html"],"created":1794626459,"id":"chatcmpl-0c6f4e0f-3260-9e0f-be2b-0cd0c680c8d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":".1%。","reasoning_content":""},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.eastmoney.com/a/202610223903548680.html","https://www.163.com/dy/article/LA8L711M05568W0A.html"],"created":1794626459,"id":"chatcmpl-0c6f4e0f-3260-9e0f-be2b-0cd0c680c8d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"比利时和西班牙的","reasoning_content":""},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.eastmoney.com/a/202610223903548680.html","https://www.163.com/dy/article/LA8L711M05568W0A.html"],"created":1794626459,"id":"chatcmpl-0c6f4e0f-3260-9e0f-be2b-0cd0c680c8d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"债务率也分别","reasoning_content":""},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.eastmoney.com/a/202610223903548680.html","https://www.163.com/dy/article/LA8L711M05568W0A.html"],"created":1794626459,"id":"chatcmpl-0c6f4e0f-3260-9e0f-be2b-0cd0c680c8d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"超过110","reasoning_content":""},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.eastmoney.com/a/202610223903548680.html","https://www.163.com/dy/article/LA8L711M05568W0A.html"],"created":1794626459,"id":"chatcmpl-0c6f4e0f-3260-9e0f-be2b-0cd0c680c8d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"%和10","reasoning_content":""},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.eastmoney.com/a/202610223903548680.html","https://www.163.com/dy/article/LA8L711M05568W0A.html"],"created":1794626459,"id":"chatcmpl-0c6f4e0f-3260-9e0f-be2b-0cd0c680c8d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"0%。这些","reasoning_content":""},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.eastmoney.com/a/202610223903548680.html","https://www.163.com/dy/article/LA8L711M05568W0A.html"],"created":1794626459,"id":"chatcmpl-0c6f4e0f-3260-9e0f-be2b-0cd0c680c8d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"数字显示，债务","reasoning_content":""},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.eastmoney.com/a/202610223903548680.html","https://www.163.com/dy/article/LA8L711M05568W0A.html"],"created":1794626459,"id":"chatcmpl-0c6f4e0f-3260-9e0f-be2b-0cd0c680c8d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"压力并非均匀分布","reasoning_content":""},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.eastmoney.com/a/202610223903548680.html","https://www.163.com/dy/article/LA8L711M05568W0A.html"],"created":1794626459,"id":"chatcmpl-0c6f4e0f-3260-9e0f-be2b-0cd0c680c8d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"，而是集中在","reasoning_content":""},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.eastmoney.com/a/202610223903548680.html","https://www.163.com/dy/article/LA8L711M05568W0A.html"],"created":1794626459,"id":"chatcmpl-0c6f4e0f-3260-9e0f-be2b-0cd0c680c8d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"部分南欧和","reasoning_content":""},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.eastmoney.com/a/202610223903548680.html","https://www.163.com/dy/article/LA8L711M05568W0A.html"],"created":1794626459,"id":"chatcmpl-0c6f4e0f-3260-9e0f-be2b-0cd0c680c8d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"核心经济体。[","reasoning_content":""},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.eastmoney.com/a/202610223903548680.html","https://www.163.com/dy/article/LA8L711M05568W0A.html"],"created":1794626459,"id":"chatcmpl-0c6f4e0f-3260-9e0f-be2b-0cd0c680c8d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"1][4","reasoning_content":""},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.eastmoney.com/a/202610223903548680.html","https://www.163.com/dy/article/LA8L711M05568W0A.html"],"created":1794626459,"id":"chatcmpl-0c6f4e0f-3260-9e0f-be2b-0cd0c680c8d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"]\n\n### ","reasoning_content":""},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.eastmoney.com/a/202610223903548680.html","https://www.163.com/dy/article/LA8L711M05568W0A.html"],"created":1794626459,"id":"chatcmpl-0c6f4e0f-3260-9e0f-be2b-0cd0c680c8d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"二、欧元区整体","reasoning_content":""},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.eastmoney.com/a/202610223903548680.html","https://www.163.com/dy/article/LA8L711M05568W0A.html"],"created":1794626459,"id":"chatcmpl-0c6f4e0f-3260-9e0f-be2b-0cd0c680c8d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"与高负债国家的","reasoning_content":""},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.eastmoney.com/a/202610223903548680.html","https://www.163.com/dy/article/LA8L711M05568W0A.html"],"created":1794626459,"id":"chatcmpl-0c6f4e0f-3260-9e0f-be2b-0cd0c680c8d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"差别\n\n1.","reasoning_content":""},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.eastmoney.com/a/202610223903548680.html","https://www.163.com/dy/article/LA8L711M05568W0A.html"],"created":1794626459,"id":"chatcmpl-0c6f4e0f-3260-9e0f-be2b-0cd0c680c8d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":" **整体水平：","reasoning_content":""},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.eastmoney.com/a/202610223903548680.html","https://www.163.com/dy/article/LA8L711M05568W0A.html"],"created":1794626459,"id":"chatcmpl-0c6f4e0f-3260-9e0f-be2b-0cd0c680c8d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"债务负担上升，","reasoning_content":""},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.eastmoney.com/a/202610223903548680.html","https://www.163.com/dy/article/LA8L711M05568W0A.html"],"created":1794626459,"id":"chatcmpl-0c6f4e0f-3260-9e0f-be2b-0cd0c680c8d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"但尚在","reasoning_content":""},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.eastmoney.com/a/202610223903548680.html","https://www.163.com/dy/article/LA8L711M05568W0A.html"],"created":1794626459,"id":"chatcmpl-0c6f4e0f-3260-9e0f-be2b-0cd0c680c8d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"接近90%","reasoning_content":""},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.eastmoney.com/a/202610223903548680.html","https://www.163.com/dy/article/LA8L711M05568W0A.html"],"created":1794626459,"id":"chatcmpl-0c6f4e0f-3260-9e0f-be2b-0cd0c680c8d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"的","reasoning_content":""},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.eastmoney.com/a/202610223903548680.html","https://www.163.com/dy/article/LA8L711M05568W0A.html"],"created":1794626459,"id":"chatcmpl-0c6f4e0f-3260-9e0f-be2b-0cd0c680c8d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"区间**  \n  ","reasoning_content":""},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.eastmoney.com/a/202610223903548680.html","https://www.163.com/dy/article/LA8L711M05568W0A.html"],"created":1794626459,"id":"chatcmpl-0c6f4e0f-3260-9e0f-be2b-0cd0c680c8d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":" 欧元区整体债务","reasoning_content":""},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.eastmoney.com/a/202610223903548680.html","https://www.163.com/dy/article/LA8L711M05568W0A.html"],"created":1794626459,"id":"chatcmpl-0c6f4e0f-3260-9e0f-be2b-0cd0c680c8d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"率为88.","reasoning_content":""},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.eastmoney.com/a/202610223903548680.html","https://www.163.com/dy/article/LA8L711M05568W0A.html"],"created":1794626459,"id":"chatcmpl-0c6f4e0f-3260-9e0f-be2b-0cd0c680c8d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"8%，欧盟整体","reasoning_content":""},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.eastmoney.com/a/202610223903548680.html","https://www.163.com/dy/article/LA8L711M05568W0A.html"],"created":1794626459,"id":"chatcmpl-0c6f4e0f-3260-9e0f-be2b-0cd0c680c8d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"为82.","reasoning_content":""},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.eastmoney.com/a/202610223903548680.html","https://www.163.com/dy/article/LA8L711M05568W0A.html"],"created":1794626459,"id":"chatcmpl-0c6f4e0f-3260-9e0f-be2b-0cd0c680c8d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"9%。虽然","reasoning_content":""},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.eastmoney.com/a/202610223903548680.html","https://www.163.com/dy/article/LA8L711M05568W0A.html"],"created":1794626459,"id":"chatcmpl-0c6f4e0f-3260-9e0f-be2b-0cd0c680c8d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"都处于上升通道，","reasoning_content":""},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.eastmoney.com/a/202610223903548680.html","https://www.163.com/dy/article/LA8L711M05568W0A.html"],"created":1794626459,"id":"chatcmpl-0c6f4e0f-3260-9e0f-be2b-0cd0c680c8d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"但整体水平","reasoning_content":""},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.eastmoney.com/a/202610223903548680.html","https://www.163.com/dy/article/LA8L711M05568W0A.html"],"created":1794626459,"id":"chatcmpl-0c6f4e0f-3260-9e0f-be2b-0cd0c680c8d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"仍明显低于希腊","reasoning_content":""},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.eastmoney.com/a/202610223903548680.html","https://www.163.com/dy/article/LA8L711M05568W0A.html"],"created":1794626459,"id":"chatcmpl-0c6f4e0f-3260-9e0f-be2b-0cd0c680c8d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"、意大利等个别","reasoning_content":""},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.eastmoney.com/a/202610223903548680.html","https://www.163.com/dy/article/LA8L711M05568W0A.html"],"created":1794626459,"id":"chatcmpl-0c6f4e0f-3260-9e0f-be2b-0cd0c680c8d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"高负债国家","reasoning_content":""},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.eastmoney.com/a/202610223903548680.html","https://www.163.com/dy/article/LA8L711M05568W0A.html"],"created":1794626459,"id":"chatcmpl-0c6f4e0f-3260-9e0f-be2b-0cd0c680c8d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"。[1][","reasoning_content":""},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.eastmoney.com/a/202610223903548680.html","https://www.163.com/dy/article/LA8L711M05568W0A.html"],"created":1794626459,"id":"chatcmpl-0c6f4e0f-3260-9e0f-be2b-0cd0c680c8d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"4]\n\n2","reasoning_content":""},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.eastmoney.com/a/202610223903548680.html","https://www.163.com/dy/article/LA8L711M05568W0A.html"],"created":1794626459,"id":"chatcmpl-0c6f4e0f-3260-9e0f-be2b-0cd0c680c8d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":". **高负债","reasoning_content":""},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.eastmoney.com/a/202610223903548680.html","https://www.163.com/dy/article/LA8L711M05568W0A.html"],"created":1794626459,"id":"chatcmpl-0c6f4e0f-3260-9e0f-be2b-0cd0c680c8d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"国家：债务率","reasoning_content":""},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.eastmoney.com/a/202610223903548680.html","https://www.163.com/dy/article/LA8L711M05568W0A.html"],"created":1794626459,"id":"chatcmpl-0c6f4e0f-3260-9e0f-be2b-0cd0c680c8d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"远高于平均水平**  \n","reasoning_content":""},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.eastmoney.com/a/202610223903548680.html","https://www.163.com/dy/article/LA8L711M05568W0A.html"],"created":1794626459,"id":"chatcmpl-0c6f4e0f-3260-9e0f-be2b-0cd0c680c8d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"   ","reasoning_content":""},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.eastmoney.com/a/202610223903548680.html","https://www.163.com/dy/article/LA8L711M05568W0A.html"],"created":1794626459,"id":"chatcmpl-0c6f4e0f-3260-9e0f-be2b-0cd0c680c8d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"希腊140","reasoning_content":""},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.eastmoney.com/a/202610223903548680.html","https://www.163.com/dy/article/LA8L711M05568W0A.html"],"created":1794626459,"id":"chatcmpl-0c6f4e0f-3260-9e0f-be2b-0cd0c680c8d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":".8","reasoning_content":""},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.eastmoney.com/a/202610223903548680.html","https://www.163.com/dy/article/LA8L711M05568W0A.html"],"created":1794626459,"id":"chatcmpl-0c6f4e0f-3260-9e0f-be2b-0cd0c680c8d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"%、意大利1","reasoning_content":""},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.eastmoney.com/a/202610223903548680.html","https://www.163.com/dy/article/LA8L711M05568W0A.html"],"created":1794626459,"id":"chatcmpl-0c6f4e0f-3260-9e0f-be2b-0cd0c680c8d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"3","reasoning_content":""},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.eastmoney.com/a/202610223903548680.html","https://www.163.com/dy/article/LA8L711M05568W0A.html"],"created":1794626459,"id":"chatcmpl-0c6f4e0f-3260-9e0f-be2b-0cd0c680c8d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"9.9%","reasoning_content":""},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.eastmoney.com/a/202610223903548680.html","https://www.163.com/dy/article/LA8L711M05568W0A.html"],"created":1794626459,"id":"chatcmpl-0c6f4e0f-3260-9e0f-be2b-0cd0c680c8d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"、法国11","reasoning_content":""},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.eastmoney.com/a/202610223903548680.html","https://www.163.com/dy/article/LA8L711M05568W0A.html"],"created":1794626459,"id":"chatcmpl-0c6f4e0f-3260-9e0f-be2b-0cd0c680c8d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"9.1%，","reasoning_content":""},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.eastmoney.com/a/202610223903548680.html","https://www.163.com/dy/article/LA8L711M05568W0A.html"],"created":1794626459,"id":"chatcmpl-0c6f4e0f-3260-9e0f-be2b-0cd0c680c8d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"均显著高于欧元区","reasoning_content":""},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.eastmoney.com/a/202610223903548680.html","https://www.163.com/dy/article/LA8L711M05568W0A.html"],"created":1794626459,"id":"chatcmpl-0c6f4e0f-3260-9e0f-be2b-0cd0c680c8d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"88.8","reasoning_content":""},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.eastmoney.com/a/202610223903548680.html","https://www.163.com/dy/article/LA8L711M05568W0A.html"],"created":1794626459,"id":"chatcmpl-0c6f4e0f-3260-9e0f-be2b-0cd0c680c8d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"%和欧盟8","reasoning_content":""},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.eastmoney.com/a/202610223903548680.html","https://www.163.com/dy/article/LA8L711M05568W0A.html"],"created":1794626459,"id":"chatcmpl-0c6f4e0f-3260-9e0f-be2b-0cd0c680c8d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"2.9%","reasoning_content":""},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.eastmoney.com/a/202610223903548680.html","https://www.163.com/dy/article/LA8L711M05568W0A.html"],"created":1794626459,"id":"chatcmpl-0c6f4e0f-3260-9e0f-be2b-0cd0c680c8d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"的平均水平。[","reasoning_content":""},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.eastmoney.com/a/202610223903548680.html","https://www.163.com/dy/article/LA8L711M05568W0A.html"],"created":1794626459,"id":"chatcmpl-0c6f4e0f-3260-9e0f-be2b-0cd0c680c8d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"1][4]","reasoning_content":""},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.eastmoney.com/a/202610223903548680.html","https://www.163.com/dy/article/LA8L711M05568W0A.html"],"created":1794626459,"id":"chatcmpl-0c6f4e0f-3260-9e0f-be2b-0cd0c680c8d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"  \n   其中","reasoning_content":""},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.eastmoney.com/a/202610223903548680.html","https://www.163.com/dy/article/LA8L711M05568W0A.html"],"created":1794626459,"id":"chatcmpl-0c6f4e0f-3260-9e0f-be2b-0cd0c680c8d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"，希腊和意大利","reasoning_content":""},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.eastmoney.com/a/202610223903548680.html","https://www.163.com/dy/article/LA8L711M05568W0A.html"],"created":1794626459,"id":"chatcmpl-0c6f4e0f-3260-9e0f-be2b-0cd0c680c8d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"债务率接近1","reasoning_content":""},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.eastmoney.com/a/202610223903548680.html","https://www.163.com/dy/article/LA8L711M05568W0A.html"],"created":1794626459,"id":"chatcmpl-0c6f4e0f-3260-9e0f-be2b-0cd0c680c8d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"4","reasoning_content":""},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.eastmoney.com/a/202610223903548680.html","https://www.163.com/dy/article/LA8L711M05568W0A.html"],"created":1794626459,"id":"chatcmpl-0c6f4e0f-3260-9e0f-be2b-0cd0c680c8d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"0%，约为欧元区","reasoning_content":""},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.eastmoney.com/a/202610223903548680.html","https://www.163.com/dy/article/LA8L711M05568W0A.html"],"created":1794626459,"id":"chatcmpl-0c6f4e0f-3260-9e0f-be2b-0cd0c680c8d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"平均水平的1","reasoning_content":""},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.eastmoney.com/a/202610223903548680.html","https://www.163.com/dy/article/LA8L711M05568W0A.html"],"created":1794626459,"id":"chatcmpl-0c6f4e0f-3260-9e0f-be2b-0cd0c680c8d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":".6倍；","reasoning_content":""},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.eastmoney.com/a/202610223903548680.html","https://www.163.com/dy/article/LA8L711M05568W0A.html"],"created":1794626459,"id":"chatcmpl-0c6f4e0f-3260-9e0f-be2b-0cd0c680c8d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"法国也明显高于","reasoning_content":""},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.eastmoney.com/a/202610223903548680.html","https://www.163.com/dy/article/LA8L711M05568W0A.html"],"created":1794626459,"id":"chatcmpl-0c6f4e0f-3260-9e0f-be2b-0cd0c680c8d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"整体","reasoning_content":""},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.eastmoney.com/a/202610223903548680.html","https://www.163.com/dy/article/LA8L711M05568W0A.html"],"created":1794626459,"id":"chatcmpl-0c6f4e0f-3260-9e0f-be2b-0cd0c680c8d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"水平，显示其","reasoning_content":""},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.eastmoney.com/a/202610223903548680.html","https://www.163.com/dy/article/LA8L711M05568W0A.html"],"created":1794626459,"id":"chatcmpl-0c6f4e0f-3260-9e0f-be2b-0cd0c680c8d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"财政压力正在加大","reasoning_content":""},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.eastmoney.com/a/202610223903548680.html","https://www.163.com/dy/article/LA8L711M05568W0A.html"],"created":1794626459,"id":"chatcmpl-0c6f4e0f-3260-9e0f-be2b-0cd0c680c8d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"。[1","reasoning_content":""},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.eastmoney.com/a/202610223903548680.html","https://www.163.com/dy/article/LA8L711M05568W0A.html"],"created":1794626459,"id":"chatcmpl-0c6f4e0f-3260-9e0f-be2b-0cd0c680c8d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"][4]\n\n","reasoning_content":""},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.eastmoney.com/a/202610223903548680.html","https://www.163.com/dy/article/LA8L711M05568W0A.html"],"created":1794626459,"id":"chatcmpl-0c6f4e0f-3260-9e0f-be2b-0cd0c680c8d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"3. **压力","reasoning_content":""},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.eastmoney.com/a/202610223903548680.html","https://www.163.com/dy/article/LA8L711M05568W0A.html"],"created":1794626459,"id":"chatcmpl-0c6f4e0f-3260-9e0f-be2b-0cd0c680c8d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"性质不同：整体","reasoning_content":""},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.eastmoney.com/a/202610223903548680.html","https://www.163.com/dy/article/LA8L711M05568W0A.html"],"created":1794626459,"id":"chatcmpl-0c6f4e0f-3260-9e0f-be2b-0cd0c680c8d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"是","reasoning_content":""},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.eastmoney.com/a/202610223903548680.html","https://www.163.com/dy/article/LA8L711M05568W0A.html"],"created":1794626459,"id":"chatcmpl-0c6f4e0f-3260-9e0f-be2b-0cd0c680c8d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"“趋势性上升","reasoning_content":""},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.eastmoney.com/a/202610223903548680.html","https://www.163.com/dy/article/LA8L711M05568W0A.html"],"created":1794626459,"id":"chatcmpl-0c6f4e0f-3260-9e0f-be2b-0cd0c680c8d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"”，高","reasoning_content":""},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.eastmoney.com/a/202610223903548680.html","https://www.163.com/dy/article/LA8L711M05568W0A.html"],"created":1794626459,"id":"chatcmpl-0c6f4e0f-3260-9e0f-be2b-0cd0c680c8d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"负债国是“","reasoning_content":""},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.eastmoney.com/a/202610223903548680.html","https://www.163.com/dy/article/LA8L711M05568W0A.html"],"created":1794626459,"id":"chatcmpl-0c6f4e0f-3260-9e0f-be2b-0cd0c680c8d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"存量高位叠加赤字","reasoning_content":""},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.eastmoney.com/a/202610223903548680.html","https://www.163.com/dy/article/LA8L711M05568W0A.html"],"created":1794626459,"id":"chatcmpl-0c6f4e0f-3260-9e0f-be2b-0cd0c680c8d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"压力”**  \n  ","reasoning_content":""},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.eastmoney.com/a/202610223903548680.html","https://www.163.com/dy/article/LA8L711M05568W0A.html"],"created":1794626459,"id":"chatcmpl-0c6f4e0f-3260-9e0f-be2b-0cd0c680c8d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":" 对欧元区整体","reasoning_content":""},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.eastmoney.com/a/202610223903548680.html","https://www.163.com/dy/article/LA8L711M05568W0A.html"],"created":1794626459,"id":"chatcmpl-0c6f4e0f-3260-9e0f-be2b-0cd0c680c8d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"而言，债务压力","reasoning_content":""},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.eastmoney.com/a/202610223903548680.html","https://www.163.com/dy/article/LA8L711M05568W0A.html"],"created":1794626459,"id":"chatcmpl-0c6f4e0f-3260-9e0f-be2b-0cd0c680c8d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"主要表现为债务率和赤字","reasoning_content":""},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.eastmoney.com/a/202610223903548680.html","https://www.163.com/dy/article/LA8L711M05568W0A.html"],"created":1794626459,"id":"chatcmpl-0c6f4e0f-3260-9e0f-be2b-0cd0c680c8d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"率同步","reasoning_content":""},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.eastmoney.com/a/202610223903548680.html","https://www.163.com/dy/article/LA8L711M05568W0A.html"],"created":1794626459,"id":"chatcmpl-0c6f4e0f-3260-9e0f-be2b-0cd0c680c8d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"上升；而对希腊","reasoning_content":""},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.eastmoney.com/a/202610223903548680.html","https://www.163.com/dy/article/LA8L711M05568W0A.html"],"created":1794626459,"id":"chatcmpl-0c6f4e0f-3260-9e0f-be2b-0cd0c680c8d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"、意大利、","reasoning_content":""},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.eastmoney.com/a/202610223903548680.html","https://www.163.com/dy/article/LA8L711M05568W0A.html"],"created":1794626459,"id":"chatcmpl-0c6f4e0f-3260-9e0f-be2b-0cd0c680c8d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"法国等国而言，","reasoning_content":""},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.eastmoney.com/a/202610223903548680.html","https://www.163.com/dy/article/LA8L711M05568W0A.html"],"created":1794626459,"id":"chatcmpl-0c6f4e0f-3260-9e0f-be2b-0cd0c680c8d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"问题","reasoning_content":""},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.eastmoney.com/a/202610223903548680.html","https://www.163.com/dy/article/LA8L711M05568W0A.html"],"created":1794626459,"id":"chatcmpl-0c6f4e0f-3260-9e0f-be2b-0cd0c680c8d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"不仅是新增赤字，","reasoning_content":""},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.eastmoney.com/a/202610223903548680.html","https://www.163.com/dy/article/LA8L711M05568W0A.html"],"created":1794626459,"id":"chatcmpl-0c6f4e0f-3260-9e0f-be2b-0cd0c680c8d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"还包括","reasoning_content":""},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.eastmoney.com/a/202610223903548680.html","https://www.163.com/dy/article/LA8L711M05568W0A.html"],"created":1794626459,"id":"chatcmpl-0c6f4e0f-3260-9e0f-be2b-0cd0c680c8d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"已经很高的债务存量","reasoning_content":""},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.eastmoney.com/a/202610223903548680.html","https://www.163.com/dy/article/LA8L711M05568W0A.html"],"created":1794626459,"id":"chatcmpl-0c6f4e0f-3260-9e0f-be2b-0cd0c680c8d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"，使其对利率","reasoning_content":""},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.eastmoney.com/a/202610223903548680.html","https://www.163.com/dy/article/LA8L711M05568W0A.html"],"created":1794626459,"id":"chatcmpl-0c6f4e0f-3260-9e0f-be2b-0cd0c680c8d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"、增长","reasoning_content":""},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.eastmoney.com/a/202610223903548680.html","https://www.163.com/dy/article/LA8L711M05568W0A.html"],"created":1794626459,"id":"chatcmpl-0c6f4e0f-3260-9e0f-be2b-0cd0c680c8d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"放缓和财政支出","reasoning_content":""},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.eastmoney.com/a/202610223903548680.html","https://www.163.com/dy/article/LA8L711M05568W0A.html"],"created":1794626459,"id":"chatcmpl-0c6f4e0f-3260-9e0f-be2b-0cd0c680c8d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"压力的敏感度更高。","reasoning_content":""},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.eastmoney.com/a/202610223903548680.html","https://www.163.com/dy/article/LA8L711M05568W0A.html"],"created":1794626459,"id":"chatcmpl-0c6f4e0f-3260-9e0f-be2b-0cd0c680c8d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"[","reasoning_content":""},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.eastmoney.com/a/202610223903548680.html","https://www.163.com/dy/article/LA8L711M05568W0A.html"],"created":1794626459,"id":"chatcmpl-0c6f4e0f-3260-9e0f-be2b-0cd0c680c8d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"1][4]","reasoning_content":""},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.eastmoney.com/a/202610223903548680.html","https://www.163.com/dy/article/LA8L711M05568W0A.html"],"created":1794626459,"id":"chatcmpl-0c6f4e0f-3260-9e0f-be2b-0cd0c680c8d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"\n\n总体来看，","reasoning_content":""},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.eastmoney.com/a/202610223903548680.html","https://www.163.com/dy/article/LA8L711M05568W0A.html"],"created":1794626459,"id":"chatcmpl-0c6f4e0f-3260-9e0f-be2b-0cd0c680c8d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"20","reasoning_content":""},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.eastmoney.com/a/202610223903548680.html","https://www.163.com/dy/article/LA8L711M05568W0A.html"],"created":1794626459,"id":"chatcmpl-0c6f4e0f-3260-9e0f-be2b-0cd0c680c8d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"26年欧洲","reasoning_content":""},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.eastmoney.com/a/202610223903548680.html","https://www.163.com/dy/article/LA8L711M05568W0A.html"],"created":1794626459,"id":"chatcmpl-0c6f4e0f-3260-9e0f-be2b-0cd0c680c8d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"债务压力既体现在","reasoning_content":""},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.eastmoney.com/a/202610223903548680.html","https://www.163.com/dy/article/LA8L711M05568W0A.html"],"created":1794626459,"id":"chatcmpl-0c6f4e0f-3260-9e0f-be2b-0cd0c680c8d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"整体","reasoning_content":""},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.eastmoney.com/a/202610223903548680.html","https://www.163.com/dy/article/LA8L711M05568W0A.html"],"created":1794626459,"id":"chatcmpl-0c6f4e0f-3260-9e0f-be2b-0cd0c680c8d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"债务和赤字指标","reasoning_content":""},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.eastmoney.com/a/202610223903548680.html","https://www.163.com/dy/article/LA8L711M05568W0A.html"],"created":1794626459,"id":"chatcmpl-0c6f4e0f-3260-9e0f-be2b-0cd0c680c8d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"继续上行，也","reasoning_content":""},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.eastmoney.com/a/202610223903548680.html","https://www.163.com/dy/article/LA8L711M05568W0A.html"],"created":1794626459,"id":"chatcmpl-0c6f4e0f-3260-9e0f-be2b-0cd0c680c8d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"体现在高","reasoning_content":""},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.eastmoney.com/a/202610223903548680.html","https://www.163.com/dy/article/LA8L711M05568W0A.html"],"created":1794626459,"id":"chatcmpl-0c6f4e0f-3260-9e0f-be2b-0cd0c680c8d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"负债国家与欧元区","reasoning_content":""},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.eastmoney.com/a/202610223903548680.html","https://www.163.com/dy/article/LA8L711M05568W0A.html"],"created":1794626459,"id":"chatcmpl-0c6f4e0f-3260-9e0f-be2b-0cd0c680c8d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"平均","reasoning_content":""},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.eastmoney.com/a/202610223903548680.html","https://www.163.com/dy/article/LA8L711M05568W0A.html"],"created":1794626459,"id":"chatcmpl-0c6f4e0f-3260-9e0f-be2b-0cd0c680c8d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"水平的明显分化。","reasoning_content":""},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.eastmoney.com/a/202610223903548680.html","https://www.163.com/dy/article/LA8L711M05568W0A.html"],"created":1794626459,"id":"chatcmpl-0c6f4e0f-3260-9e0f-be2b-0cd0c680c8d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"整体","reasoning_content":""},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.eastmoney.com/a/202610223903548680.html","https://www.163.com/dy/article/LA8L711M05568W0A.html"],"created":1794626459,"id":"chatcmpl-0c6f4e0f-3260-9e0f-be2b-0cd0c680c8d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"数据尚不算极端","reasoning_content":""},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.eastmoney.com/a/202610223903548680.html","https://www.163.com/dy/article/LA8L711M05568W0A.html"],"created":1794626459,"id":"chatcmpl-0c6f4e0f-3260-9e0f-be2b-0cd0c680c8d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"，但部分","reasoning_content":""},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.eastmoney.com/a/202610223903548680.html","https://www.163.com/dy/article/LA8L711M05568W0A.html"],"created":1794626459,"id":"chatcmpl-0c6f4e0f-3260-9e0f-be2b-0cd0c680c8d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"国家债务率已超过","reasoning_content":""},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.eastmoney.com/a/202610223903548680.html","https://www.163.com/dy/article/LA8L711M05568W0A.html"],"created":1794626459,"id":"chatcmpl-0c6f4e0f-3260-9e0f-be2b-0cd0c680c8d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"100%","reasoning_content":""},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.eastmoney.com/a/202610223903548680.html","https://www.163.com/dy/article/LA8L711M05568W0A.html"],"created":1794626459,"id":"chatcmpl-0c6f4e0f-3260-9e0f-be2b-0cd0c680c8d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"甚至接近14","reasoning_content":""},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.eastmoney.com/a/202610223903548680.html","https://www.163.com/dy/article/LA8L711M05568W0A.html"],"created":1794626459,"id":"chatcmpl-0c6f4e0f-3260-9e0f-be2b-0cd0c680c8d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"0%，","reasoning_content":""},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.eastmoney.com/a/202610223903548680.html","https://www.163.com/dy/article/LA8L711M05568W0A.html"],"created":1794626459,"id":"chatcmpl-0c6f4e0f-3260-9e0f-be2b-0cd0c680c8d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"意味着欧洲内部财政","reasoning_content":""},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.eastmoney.com/a/202610223903548680.html","https://www.163.com/dy/article/LA8L711M05568W0A.html"],"created":1794626459,"id":"chatcmpl-0c6f4e0f-3260-9e0f-be2b-0cd0c680c8d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"风险并不","reasoning_content":""},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.eastmoney.com/a/202610223903548680.html","https://www.163.com/dy/article/LA8L711M05568W0A.html"],"created":1794626459,"id":"chatcmpl-0c6f4e0f-3260-9e0f-be2b-0cd0c680c8d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"均衡。[1","reasoning_content":""},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.eastmoney.com/a/202610223903548680.html","https://www.163.com/dy/article/LA8L711M05568W0A.html"],"created":1794626459,"id":"chatcmpl-0c6f4e0f-3260-9e0f-be2b-0cd0c680c8d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"][4]","reasoning_content":""},"finish_reason":null,"index":0,"logprobs":null}],"citations":["https://finance.eastmoney.com/a/202610223903548680.html","https://www.163.com/dy/article/LA8L711M05568W0A.html"],"created":1794626459,"id":"chatcmpl-0c6f4e0f-3260-9e0f-be2b-0cd0c680c8d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[{"delta":{"content":"","reasoning_content":""},"finish_reason":"stop","index":0,"logprobs":null}],"citations":["https://finance.eastmoney.com/a/202610223903548680.html","https://www.163.com/dy/article/LA8L711M05568W0A.html"],"created":1794626459,"id":"chatcmpl-0c6f4e0f-3260-9e0f-be2b-0cd0c680c8d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[],"citations":["https://finance.eastmoney.com/a/202610223903548680.html","https://www.163.com/dy/article/LA8L711M05568W0A.html"],"created":1794626459,"id":"chatcmpl-0c6f4e0f-3260-9e0f-be2b-0cd0c680c8d7","model":"qwen3.8-max","object":"chat.completion.chunk","usage":{"completion_tokens":1492,"completion_tokens_details":{"reasoning_tokens":806,"text_tokens":1492},"prompt_tokens":984,"prompt_tokens_details":{"cached_tokens":0,"text_tokens":984},"total_tokens":2476}}
+
+data: [DONE]
+
